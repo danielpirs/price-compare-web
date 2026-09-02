@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PRICEWATCH</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --border: oklch(90% 0.006 250);
+    --muted: oklch(52% 0.01 250);
+    --navy: #0a3d62;
+    --red: #d64545;
+    --green: oklch(52% 0.15 145);
+    --green-bg: oklch(96% 0.03 145);
+    --red-bg: oklch(95% 0.03 25);
+    --bg: oklch(98% 0.004 250);
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: oklch(20% 0.01 250); font-family: 'Public Sans', system-ui, sans-serif; }
+  a { color: var(--navy); }
+  a:hover { color: var(--red); }
+
+  header { position: sticky; top: 0; z-index: 30; background: #fff; border-bottom: 1px solid var(--border); }
+  .header-inner { max-width: 1180px; margin: 0 auto; padding: 14px 24px; display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+  .brand { font-weight: 800; font-size: 19px; color: var(--navy); letter-spacing: -0.02em; }
+  .lang-group { display: flex; align-items: center; gap: 8px; }
+  .lang-buttons { display: flex; gap: 6px; }
+  .lang-btn { padding: 4px 7px; border-radius: 5px; font-size: 18px; line-height: 1; font-family: inherit; cursor: pointer; background: transparent; border: 1px solid transparent; }
+  .lang-btn.active { border-color: var(--navy); }
+
+  main { max-width: 1180px; margin: 0 auto; padding: 20px 24px 56px; }
+  @media (max-width: 759px) { main { padding-left: 10px; padding-right: 10px; } }
+
+  .state-msg { padding: 60px 0; text-align: center; color: var(--muted); font-size: 14px; }
+  .state-msg.error { color: var(--red); }
+
+  .table-header { position: sticky; top: 53px; z-index: 15; background: var(--bg); display: grid; grid-template-columns: 34px 2fr 0.9fr 0.9fr 0.9fr 0.9fr 0.9fr; gap: 10px; padding: 12px 14px 10px; font-size: 14px; font-weight: 700; letter-spacing: 0.02em; text-transform: uppercase; color: oklch(40% 0.01 250); }
+  .table-header span { display: flex; align-items: center; justify-content: center; gap: 6px; }
+  .table-header .flag { font-size: 20px; line-height: 1; }
+
+  .desktop-list { background: #fff; border-radius: 10px; border: 1px solid var(--border); overflow: hidden; }
+  .desktop-row { display: grid; grid-template-columns: 30px 2fr 0.9fr 0.9fr 0.9fr 0.9fr 0.9fr; gap: 10px; align-items: center; padding: 9px 14px; border-bottom: 1px solid oklch(93% 0.004 250); }
+  .rank { font-size: 11px; font-weight: 700; color: oklch(60% 0.01 250); }
+  .name { font-weight: 600; font-size: 14px; color: oklch(20% 0.01 250); text-wrap: pretty; }
+  .brand-name { font-size: 11.5px; color: var(--muted); margin-top: 2px; }
+  .cell { position: relative; display: flex; align-items: center; justify-content: center; text-align: center; font-size: 13px; font-weight: 500; }
+  .cell.cheap { color: var(--green); font-weight: 700; }
+  .cell.exp { color: var(--red); font-weight: 700; }
+  .cell.dash { color: oklch(78% 0.006 250); }
+  .price-wrap { position: relative; display: inline-block; }
+
+  .promo-tag { position: absolute; width: 15px; height: 10px; }
+  .promo-tag .body { position: absolute; inset: 0; background: oklch(60% 0.12 55); clip-path: polygon(0% 50%, 35% 0%, 100% 0%, 100% 100%, 35% 100%); }
+  .promo-tag .inner { position: absolute; inset: 1px; background: #fff; clip-path: polygon(0% 50%, 38% 8%, 100% 8%, 100% 92%, 38% 92%); }
+  .promo-tag .hole { position: absolute; left: 22%; top: 50%; width: 2.5px; height: 2.5px; border-radius: 50%; background: oklch(60% 0.12 55); transform: translate(-50%, -50%); }
+  .promo-tag .pct { position: absolute; left: 68%; top: 50%; transform: translate(-50%, -50%) rotate(45deg); font-size: 5.5px; font-weight: 800; color: oklch(60% 0.12 55); line-height: 1; }
+  .promo-tag.desktop { right: -15px; top: -5px; transform: rotate(-45deg); }
+  .promo-tag.mobile { left: 50%; top: 100%; transform: translateX(-50%) translateY(1px) rotate(45deg); }
+
+  .mobile-card { display: grid; grid-template-columns: repeat(5, 1fr); gap: 4px; row-gap: 10px; padding: 12px 4px 20px 8px; border: 1px solid var(--border); border-radius: 8px; margin-bottom: 10px; background: #fff; overflow: visible; }
+  .mobile-card .title-block { grid-column: 1 / 5; }
+  .mobile-card .title-block .name { font-size: 14.5px; line-height: 18px; }
+  .mobile-card .rank { text-align: center; align-self: start; line-height: 18px; }
+  .mobile-cell { display: flex; flex-direction: column; align-items: center; gap: 2px; }
+  .mobile-cell .flag { font-size: 14px; line-height: 1; }
+  .mobile-cell .cell { font-size: 12px; }
+
+  .tooltip { position: fixed; background: #fff; color: oklch(30% 0.01 250); font-size: 11.5px; font-weight: 500; line-height: 1.5; padding: 6px 10px; border-radius: 6px; border: 1px solid var(--border); white-space: pre-line; pointer-events: none; z-index: 100; box-shadow: 0 3px 10px oklch(0% 0 0 / 0.1); max-width: 220px; display: none; }
+</style>
+</head>
+<body>
+<header>
+  <div class="header-inner">
+    <span class="brand">PRICEWATCH</span>
+    <div class="lang-group">
+      <span style="font-size:15px;" title="Language">🌐</span>
+      <div class="lang-buttons" id="langButtons"></div>
+    </div>
+  </div>
+</header>
+
+<main>
+  <div id="content"></div>
+</main>
+
+<div class="tooltip" id="tooltip"></div>
+
+<script>
+const COUNTRY_NAMES = {
+  HR: { en: 'Croatia', hr: 'Hrvatska', de: 'Kroatien' },
+  SI: { en: 'Slovenia', hr: 'Slovenija', de: 'Slowenien' },
+  AT: { en: 'Austria', hr: 'Austrija', de: 'Österreich' },
+  DE: { en: 'Germany', hr: 'Njemačka', de: 'Deutschland' },
+  HU: { en: 'Hungary', hr: 'Mađarska', de: 'Ungarn' },
+};
+const COUNTRY_FLAGS = { HR: '🇭🇷', SI: '🇸🇮', AT: '🇦🇹', DE: '🇩🇪', HU: '🇭🇺' };
+const ALL_COUNTRIES = ['HR', 'SI', 'AT', 'DE', 'HU'];
+const LANG_FLAGS = { en: '🇬🇧', hr: '🇭🇷', de: '🇩🇪' };
+const LOCALES = { en: 'en-GB', hr: 'hr-HR', de: 'de-DE' };
+
+const TRANSLATIONS = {
+  en: {
+    loading: 'Loading comparisons…', noResults: 'No products match this search.',
+    colProduct: 'Product', refreshedOn: 'Updated',
+  },
+  hr: {
+    loading: 'Učitavanje usporedbi…', noResults: 'Nema proizvoda za ovu pretragu.',
+    colProduct: 'Proizvod', refreshedOn: 'Ažurirano',
+  },
+  de: {
+    loading: 'Vergleiche werden geladen…', noResults: 'Keine Produkte für diese Suche.',
+    colProduct: 'Produkt', refreshedOn: 'Aktualisiert',
+  },
+};
+
+const state = { lang: 'en', items: [], loading: true, loadError: null, isMobile: window.matchMedia('(max-width: 759px)').matches };
+
+function formatDate(iso) {
+  const d = new Date(iso);
+  const pad = (n) => String(n).padStart(2, '0');
+  return pad(d.getDate()) + '.' + pad(d.getMonth() + 1) + '.' + d.getFullYear();
+}
+
+function formatPrice(cents, currency, locale) {
+  const frac = currency === 'HUF' ? 0 : 2;
+  try {
+    return new Intl.NumberFormat(locale, { style: 'currency', currency, minimumFractionDigits: frac, maximumFractionDigits: frac }).format(cents / 100);
+  } catch (e) {
+    return (cents / 100).toFixed(frac) + ' ' + currency;
+  }
+}
+
+function promoTagHtml(variant) {
+  return '<span class="promo-tag ' + variant + '">' +
+    '<span class="body"></span><span class="inner"></span><span class="hole"></span><span class="pct">%</span>' +
+    '</span>';
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+}
+
+function renderLangButtons() {
+  const el = document.getElementById('langButtons');
+  el.innerHTML = Object.keys(LANG_FLAGS).map((code) =>
+    '<button class="lang-btn' + (state.lang === code ? ' active' : '') + '" data-lang="' + code + '">' + LANG_FLAGS[code] + '</button>'
+  ).join('');
+  el.querySelectorAll('button').forEach((btn) => {
+    btn.addEventListener('click', () => { state.lang = btn.dataset.lang; render(); });
+  });
+}
+
+function cellClass(kind) {
+  if (kind === 'cheap') return 'cell cheap';
+  if (kind === 'exp') return 'cell exp';
+  if (kind === 'dash') return 'cell dash';
+  return 'cell';
+}
+
+function tooltipFor(currency, priceCents, observedAt, locale, T) {
+  const refreshedLine = T.refreshedOn + ' ' + formatDate(observedAt);
+  return currency !== 'EUR' ? (formatPrice(priceCents, currency, locale) + '\n' + refreshedLine) : refreshedLine;
+}
+
+function priceCellHtml(c, kind, locale, T) {
+  if (!c) return '<div class="mobile-cell"><span class="flag">' + '' + '</span><span class="cell dash">—</span></div>';
+  const tooltip = tooltipFor(c.currency, c.priceCents, c.observedAt, locale, T);
+  const text = formatPrice(c.priceEurCents, 'EUR', locale);
+  return '<div class="mobile-cell" data-tooltip="' + escapeHtml(tooltip) + '">' +
+    '<span class="flag">' + COUNTRY_FLAGS[c.countryCode] + '</span>' +
+    '<span class="' + cellClass(kind) + '"><span class="price-wrap">' + text +
+    (c.isPromo ? promoTagHtml('mobile') : '') + '</span></span></div>';
+}
+
+function render() {
+  renderLangButtons();
+  const T = TRANSLATIONS[state.lang];
+  const locale = LOCALES[state.lang];
+  const content = document.getElementById('content');
+
+  if (state.loading) { content.innerHTML = '<div class="state-msg">' + T.loading + '</div>'; return; }
+  if (state.loadError) { content.innerHTML = '<div class="state-msg error">Failed to load data: ' + escapeHtml(state.loadError) + '</div>'; return; }
+  if (!state.items.length) { content.innerHTML = '<div class="state-msg">' + T.noResults + '</div>'; return; }
+
+  const rows = state.items.slice().sort((a, b) => b.percentDiff - a.percentDiff);
+  let html = '';
+
+  if (!state.isMobile) {
+    html += '<div class="table-header">' +
+      '<span></span><span>' + T.colProduct + '</span>' +
+      ALL_COUNTRIES.map((code) => '<span title="' + ((COUNTRY_NAMES[code] || {})[state.lang] || code) + '"><span class="flag">' + COUNTRY_FLAGS[code] + '</span>' + code + '</span>').join('') +
+      '</div>';
+    html += '<div class="desktop-list">';
+    rows.forEach((it, idx) => {
+      html += '<div class="desktop-row"><span class="rank">' + (idx + 1) + '</span>' +
+        '<div><div class="name">' + escapeHtml(it.name) + '</div><div class="brand-name">' + escapeHtml(it.brand) + '</div></div>';
+      ALL_COUNTRIES.forEach((code) => {
+        const c = it.countries.find((x) => x.countryCode === code);
+        const kind = !c ? 'dash' : (code === it.cheapest.countryCode ? 'cheap' : (code === it.mostExpensive.countryCode ? 'exp' : 'normal'));
+        if (!c) { html += '<span class="cell dash">—</span>'; return; }
+        const tooltip = tooltipFor(c.currency, c.priceCents, c.observedAt, locale, T);
+        html += '<span class="' + cellClass(kind) + '" data-tooltip="' + escapeHtml(tooltip) + '">' +
+          '<span class="price-wrap">' + formatPrice(c.priceEurCents, 'EUR', locale) +
+          (c.isPromo ? promoTagHtml('desktop') : '') + '</span></span>';
+      });
+      html += '</div>';
+    });
+    html += '</div>';
+  } else {
+    rows.forEach((it, idx) => {
+      html += '<div class="mobile-card">' +
+        '<div class="title-block"><div class="name">' + escapeHtml(it.name) + '</div><div class="brand-name">' + escapeHtml(it.brand) + '</div></div>' +
+        '<span></span><span></span><span></span><span></span><span class="rank">' + (idx + 1) + '</span>';
+      ALL_COUNTRIES.forEach((code) => {
+        const c = it.countries.find((x) => x.countryCode === code);
+        const kind = !c ? 'dash' : (code === it.cheapest.countryCode ? 'cheap' : (code === it.mostExpensive.countryCode ? 'exp' : 'normal'));
+        html += priceCellHtml(c, kind, locale, T);
+      });
+      html += '</div>';
+    });
+  }
+
+  content.innerHTML = html;
+}
+
+function setupTooltips() {
+  const tip = document.getElementById('tooltip');
+  document.addEventListener('mousemove', (e) => {
+    const target = e.target.closest('[data-tooltip]');
+    if (!target) { tip.style.display = 'none'; return; }
+    tip.textContent = target.dataset.tooltip;
+    tip.style.display = 'block';
+    const approxWidth = Math.max(Math.max(...target.dataset.tooltip.split('\n').map((l) => l.length)) * 6.5 + 20, 60);
+    let left = e.clientX + 14;
+    if (left + approxWidth > window.innerWidth - 8) left = Math.max(8, e.clientX - approxWidth - 14);
+    let top = e.clientY + 18;
+    if (top + 50 > window.innerHeight - 8) top = e.clientY - 58;
+    tip.style.left = left + 'px';
+    tip.style.top = top + 'px';
+  });
+}
+
+function setupResize() {
+  const mq = window.matchMedia('(max-width: 759px)');
+  const update = () => { state.isMobile = mq.matches; render(); };
+  mq.addEventListener('change', update);
+}
+
+fetch('../data/aggregate.json')
+  .then((r) => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+  .then((data) => { state.items = data.items || []; state.loading = false; render(); })
+  .catch((err) => { state.loading = false; state.loadError = String(err && err.message || err); render(); });
+
+setupTooltips();
+setupResize();
+render();
+</script>
+</body>
+</html>
