@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-04T12:18:27.829Z",
+  "generatedAt": "2026-09-05T08:53:15.124Z",
   "fx": {
-    "asOf": "2026-09-03",
+    "asOf": "2026-09-04",
     "rates": {
-      "USD": 1.1615,
-      "JPY": 181.21,
-      "CZK": 24.221,
-      "DKK": 7.4746,
-      "GBP": 0.86055,
-      "HUF": 367.43,
-      "PLN": 4.3265,
-      "RON": 5.2534,
-      "SEK": 11.1245,
-      "CHF": 0.939,
-      "ISK": 140.6,
-      "NOK": 10.8063,
-      "TRY": 56.1177,
-      "AUD": 1.6147,
-      "BRL": 5.8935,
-      "CAD": 1.6019,
-      "CNY": 7.8042,
-      "HKD": 9.1078,
-      "IDR": 20496.93,
-      "ILS": 3.5069,
-      "INR": 109.75,
-      "KRW": 1576.49,
-      "MXN": 19.7593,
-      "MYR": 4.6942,
-      "NZD": 1.978,
-      "PHP": 72.605,
-      "SGD": 1.4725,
-      "THB": 38.312,
-      "ZAR": 18.6273
+      "USD": 1.1622,
+      "JPY": 181.59,
+      "CZK": 24.189,
+      "DKK": 7.4747,
+      "GBP": 0.85898,
+      "HUF": 363.28,
+      "PLN": 4.3148,
+      "RON": 5.253,
+      "SEK": 11.1005,
+      "CHF": 0.9405,
+      "ISK": 140.8,
+      "NOK": 10.8035,
+      "TRY": 56.2995,
+      "AUD": 1.6134,
+      "BRL": 5.9405,
+      "CAD": 1.6038,
+      "CNY": 7.7994,
+      "HKD": 9.112,
+      "IDR": 20496.04,
+      "ILS": 3.4954,
+      "INR": 109.8165,
+      "KRW": 1569.38,
+      "MXN": 19.6401,
+      "MYR": 4.7005,
+      "NZD": 1.9755,
+      "PHP": 72.812,
+      "SGD": 1.4724,
+      "THB": 38.26,
+      "ZAR": 18.5571
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -43,7 +43,7 @@
       "productId": 3093,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 336,
+      "overallPercentDiff": 340,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -94,9 +94,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:43.995Z",
           "currentPriceCents": 39900,
-          "currentPriceEurCents": 109,
+          "currentPriceEurCents": 110,
           "referencePriceCents": 39900,
-          "referencePriceEurCents": 109
+          "referencePriceEurCents": 110
         }
       ]
     },
@@ -104,7 +104,7 @@
       "productId": 33693,
       "brand": "TOM TAILOR",
       "isCountryExtreme": true,
-      "overallPercentDiff": 331.96,
+      "overallPercentDiff": 336.93,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -129,9 +129,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:22.854Z",
           "currentPriceCents": 1499900,
-          "currentPriceEurCents": 4082,
+          "currentPriceEurCents": 4129,
           "referencePriceCents": 1499900,
-          "referencePriceEurCents": 4082
+          "referencePriceEurCents": 4129
         }
       ]
     },
@@ -139,7 +139,7 @@
       "productId": 11323,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 302.6,
+      "overallPercentDiff": 307.22,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -190,9 +190,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3402,
+          "currentPriceEurCents": 3441,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3402
+          "referencePriceEurCents": 3441
         }
       ]
     },
@@ -200,7 +200,7 @@
       "productId": 37118,
       "brand": "NIVEA",
       "isCountryExtreme": true,
-      "overallPercentDiff": 254.78,
+      "overallPercentDiff": 259.13,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -225,9 +225,44 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:13.914Z",
           "currentPriceCents": 149900,
-          "currentPriceEurCents": 408,
+          "currentPriceEurCents": 413,
           "referencePriceCents": 149900,
-          "referencePriceEurCents": 408
+          "referencePriceEurCents": 413
+        }
+      ]
+    },
+    {
+      "productId": 35096,
+      "brand": "oyess",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 253.33,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Reinigungsgel loving nature, 0,125 l",
+          "url": "https://www.dm.at/p/d/3044097/oyess-reinigungsgel-loving-nature",
+          "isPromo": false,
+          "observedAt": "2026-09-04T12:42:55.887Z",
+          "currentPriceCents": 225,
+          "currentPriceEurCents": 225,
+          "referencePriceCents": 225,
+          "referencePriceEurCents": 225
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Reinigungsgel soft clean, 125 ml",
+          "url": "https://www.dm.de/p/d/3044097/oyess-reinigungsgel-soft-clean",
+          "isPromo": true,
+          "observedAt": "2026-09-04T12:42:48.384Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 795,
+          "referencePriceEurCents": 795
         }
       ]
     },
@@ -235,7 +270,7 @@
       "productId": 33988,
       "brand": "POLICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 228.24,
+      "overallPercentDiff": 231.96,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -260,9 +295,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1199900,
-          "currentPriceEurCents": 3266,
+          "currentPriceEurCents": 3303,
           "referencePriceCents": 1199900,
-          "referencePriceEurCents": 3266
+          "referencePriceEurCents": 3303
         }
       ]
     },
@@ -270,7 +305,7 @@
       "productId": 9016,
       "brand": "SABRINA CARPENTER",
       "isCountryExtreme": true,
-      "overallPercentDiff": 227.87,
+      "overallPercentDiff": 231.65,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -334,9 +369,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1499900,
-          "currentPriceEurCents": 4082,
+          "currentPriceEurCents": 4129,
           "referencePriceCents": 1499900,
-          "referencePriceEurCents": 4082
+          "referencePriceEurCents": 4129
         }
       ]
     },
@@ -344,7 +379,7 @@
       "productId": 32566,
       "brand": "Carefree",
       "isCountryExtreme": true,
-      "overallPercentDiff": 226.4,
+      "overallPercentDiff": 230.4,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -382,9 +417,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:43.995Z",
           "currentPriceCents": 149900,
-          "currentPriceEurCents": 408,
+          "currentPriceEurCents": 413,
           "referencePriceCents": 149900,
-          "referencePriceEurCents": 408
+          "referencePriceEurCents": 413
         }
       ]
     },
@@ -392,7 +427,7 @@
       "productId": 30380,
       "brand": "Schär",
       "isCountryExtreme": true,
-      "overallPercentDiff": 225.14,
+      "overallPercentDiff": 228.57,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -430,9 +465,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:33:11.663Z",
           "currentPriceCents": 208900,
-          "currentPriceEurCents": 569,
+          "currentPriceEurCents": 575,
           "referencePriceCents": 208900,
-          "referencePriceEurCents": 569
+          "referencePriceEurCents": 575
         }
       ]
     },
@@ -440,7 +475,7 @@
       "productId": 34287,
       "brand": "POLICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 212.54,
+      "overallPercentDiff": 216.08,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -465,9 +500,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1199900,
-          "currentPriceEurCents": 3266,
+          "currentPriceEurCents": 3303,
           "referencePriceCents": 1199900,
-          "referencePriceEurCents": 3266
+          "referencePriceEurCents": 3303
         }
       ]
     },
@@ -475,7 +510,7 @@
       "productId": 39494,
       "brand": "POLICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 212.54,
+      "overallPercentDiff": 216.08,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -500,9 +535,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1199900,
-          "currentPriceEurCents": 3266,
+          "currentPriceEurCents": 3303,
           "referencePriceCents": 1199900,
-          "referencePriceEurCents": 3266
+          "referencePriceEurCents": 3303
         }
       ]
     },
@@ -510,7 +545,7 @@
       "productId": 35767,
       "brand": "POLICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 209.43,
+      "overallPercentDiff": 212.98,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -535,9 +570,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:22.854Z",
           "currentPriceCents": 1699900,
-          "currentPriceEurCents": 4626,
+          "currentPriceEurCents": 4679,
           "referencePriceCents": 1699900,
-          "referencePriceEurCents": 4626
+          "referencePriceEurCents": 4679
         }
       ]
     },
@@ -545,7 +580,7 @@
       "productId": 35884,
       "brand": "POLICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 209.43,
+      "overallPercentDiff": 212.98,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -570,9 +605,57 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:07.326Z",
           "currentPriceCents": 1699900,
-          "currentPriceEurCents": 4626,
+          "currentPriceEurCents": 4679,
           "referencePriceCents": 1699900,
-          "referencePriceEurCents": 4626
+          "referencePriceEurCents": 4679
+        }
+      ]
+    },
+    {
+      "productId": 26642,
+      "brand": "Jaguar",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 201.21,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Eau de Toilette Classic Chromite, 100 ml",
+          "url": "https://www.dm.at/p/d/1518905/jaguar-eau-de-toilette-classic-chromite",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:35:53.579Z",
+          "currentPriceCents": 1325,
+          "currentPriceEurCents": 1325,
+          "referencePriceCents": 1325,
+          "referencePriceEurCents": 1325
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Classic Chromite Eau de Toilette, 100 ml",
+          "url": "https://www.dm.de/p/d/1518905/jaguar-classic-chromite-eau-de-toilette",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:16.760Z",
+          "currentPriceCents": 1695,
+          "currentPriceEurCents": 1695,
+          "referencePriceCents": 1695,
+          "referencePriceEurCents": 1695
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Férfi EdT Classic Chromite, 100 ml",
+          "url": "https://www.dm.hu/p/d/1518905/jaguar-ferfi-edt-classic-chromite",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:19.979Z",
+          "currentPriceCents": 1449900,
+          "currentPriceEurCents": 3991,
+          "referencePriceCents": 1449900,
+          "referencePriceEurCents": 3991
         }
       ]
     },
@@ -666,9 +749,57 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:52.512Z",
           "currentPriceCents": 369900,
-          "currentPriceEurCents": 1007,
+          "currentPriceEurCents": 1018,
           "referencePriceCents": 369900,
-          "referencePriceEurCents": 1007
+          "referencePriceEurCents": 1018
+        }
+      ]
+    },
+    {
+      "productId": 21045,
+      "brand": "Denkmit",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 200,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Tablete za čiščenje straniščne školjke Lime & Mint, 18 kos",
+          "url": "https://www.dm.si/p/d/3046407/denkmit-tablete-za-ciscenje-straniscne-skoljke-lime-mint",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:47.009Z",
+          "currentPriceCents": 135,
+          "currentPriceEurCents": 135,
+          "referencePriceCents": 135,
+          "referencePriceEurCents": 135
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "WC Tabs Lime & Mint, 18 St",
+          "url": "https://www.dm.at/p/d/3046407/denkmit-wc-tabs-lime-und-mint",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:36:57.262Z",
+          "currentPriceCents": 110,
+          "currentPriceEurCents": 110,
+          "referencePriceCents": 110,
+          "referencePriceEurCents": 110
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "WC-tabletta lime és menta illattal, 18 db",
+          "url": "https://www.dm.hu/p/d/3046407/denkmit-wc-tabletta-lime-es-menta-illattal",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:37.213Z",
+          "currentPriceCents": 119900,
+          "currentPriceEurCents": 330,
+          "referencePriceCents": 119900,
+          "referencePriceEurCents": 330
         }
       ]
     },
@@ -708,6 +839,54 @@
       ]
     },
     {
+      "productId": 27011,
+      "brand": "Frosch",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 198.64,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Hygienereiniger Waschmaschine Citrus, 250 g",
+          "url": "https://www.dm.at/p/d/1489116/frosch-hygienereiniger-waschmaschine-citrus",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:57.773Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Hygienereiniger Waschmaschine Citrus, 250 g",
+          "url": "https://www.dm.de/p/d/1489116/frosch-hygienereiniger-waschmaschine-citrus",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:36.786Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Higiéniás mosógéptisztító por, 250 g",
+          "url": "https://www.dm.hu/p/d/1489116/frosch-higienias-mosogeptisztito-por",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:43.995Z",
+          "currentPriceCents": 319900,
+          "currentPriceEurCents": 881,
+          "referencePriceCents": 319900,
+          "referencePriceEurCents": 881
+        }
+      ]
+    },
+    {
       "productId": 1462,
       "brand": "TePe",
       "isCountryExtreme": true,
@@ -739,102 +918,6 @@
           "currentPriceEurCents": 340,
           "referencePriceCents": 340,
           "referencePriceEurCents": 340
-        }
-      ]
-    },
-    {
-      "productId": 26642,
-      "brand": "Jaguar",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 197.81,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Eau de Toilette Classic Chromite, 100 ml",
-          "url": "https://www.dm.at/p/d/1518905/jaguar-eau-de-toilette-classic-chromite",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:35:53.579Z",
-          "currentPriceCents": 1325,
-          "currentPriceEurCents": 1325,
-          "referencePriceCents": 1325,
-          "referencePriceEurCents": 1325
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Classic Chromite Eau de Toilette, 100 ml",
-          "url": "https://www.dm.de/p/d/1518905/jaguar-classic-chromite-eau-de-toilette",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:16.760Z",
-          "currentPriceCents": 1695,
-          "currentPriceEurCents": 1695,
-          "referencePriceCents": 1695,
-          "referencePriceEurCents": 1695
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Férfi EdT Classic Chromite, 100 ml",
-          "url": "https://www.dm.hu/p/d/1518905/jaguar-ferfi-edt-classic-chromite",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:19.979Z",
-          "currentPriceCents": 1449900,
-          "currentPriceEurCents": 3946,
-          "referencePriceCents": 1449900,
-          "referencePriceEurCents": 3946
-        }
-      ]
-    },
-    {
-      "productId": 21045,
-      "brand": "Denkmit",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 196.36,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Tablete za čiščenje straniščne školjke Lime & Mint, 18 kos",
-          "url": "https://www.dm.si/p/d/3046407/denkmit-tablete-za-ciscenje-straniscne-skoljke-lime-mint",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:47.009Z",
-          "currentPriceCents": 135,
-          "currentPriceEurCents": 135,
-          "referencePriceCents": 135,
-          "referencePriceEurCents": 135
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "WC Tabs Lime & Mint, 18 St",
-          "url": "https://www.dm.at/p/d/3046407/denkmit-wc-tabs-lime-und-mint",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:36:57.262Z",
-          "currentPriceCents": 110,
-          "currentPriceEurCents": 110,
-          "referencePriceCents": 110,
-          "referencePriceEurCents": 110
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "WC-tabletta lime és menta illattal, 18 db",
-          "url": "https://www.dm.hu/p/d/3046407/denkmit-wc-tabletta-lime-es-menta-illattal",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:37.213Z",
-          "currentPriceCents": 119900,
-          "currentPriceEurCents": 326,
-          "referencePriceCents": 119900,
-          "referencePriceEurCents": 326
         }
       ]
     },
@@ -883,54 +966,6 @@
           "currentPriceEurCents": 845,
           "referencePriceCents": 845,
           "referencePriceEurCents": 845
-        }
-      ]
-    },
-    {
-      "productId": 27011,
-      "brand": "Frosch",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 195.25,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Hygienereiniger Waschmaschine Citrus, 250 g",
-          "url": "https://www.dm.at/p/d/1489116/frosch-hygienereiniger-waschmaschine-citrus",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:57.773Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Hygienereiniger Waschmaschine Citrus, 250 g",
-          "url": "https://www.dm.de/p/d/1489116/frosch-hygienereiniger-waschmaschine-citrus",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:36.786Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Higiéniás mosógéptisztító por, 250 g",
-          "url": "https://www.dm.hu/p/d/1489116/frosch-higienias-mosogeptisztito-por",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:43.995Z",
-          "currentPriceCents": 319900,
-          "currentPriceEurCents": 871,
-          "referencePriceCents": 319900,
-          "referencePriceEurCents": 871
         }
       ]
     },
@@ -999,7 +1034,7 @@
       "productId": 2621,
       "brand": "s.Oliver",
       "isCountryExtreme": true,
-      "overallPercentDiff": 190.94,
+      "overallPercentDiff": 194.34,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1063,9 +1098,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:32.921Z",
           "currentPriceCents": 849900,
-          "currentPriceEurCents": 2313,
+          "currentPriceEurCents": 2340,
           "referencePriceCents": 849900,
-          "referencePriceEurCents": 2313
+          "referencePriceEurCents": 2340
         }
       ]
     },
@@ -1073,7 +1108,7 @@
       "productId": 31206,
       "brand": "Jaguar",
       "isCountryExtreme": true,
-      "overallPercentDiff": 188.08,
+      "overallPercentDiff": 191.36,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1111,9 +1146,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1899900,
-          "currentPriceEurCents": 5171,
+          "currentPriceEurCents": 5230,
           "referencePriceCents": 1899900,
-          "referencePriceEurCents": 5171
+          "referencePriceEurCents": 5230
         }
       ]
     },
@@ -1121,7 +1156,7 @@
       "productId": 36552,
       "brand": "Jaguar",
       "isCountryExtreme": true,
-      "overallPercentDiff": 188.08,
+      "overallPercentDiff": 191.36,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1146,9 +1181,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1899900,
-          "currentPriceEurCents": 5171,
+          "currentPriceEurCents": 5230,
           "referencePriceCents": 1899900,
-          "referencePriceEurCents": 5171
+          "referencePriceEurCents": 5230
         }
       ]
     },
@@ -1255,9 +1290,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:30:35.474Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 680,
+          "currentPriceEurCents": 688,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 680
+          "referencePriceEurCents": 688
         }
       ]
     },
@@ -1265,7 +1300,7 @@
       "productId": 26147,
       "brand": "DAVID BECKHAM",
       "isCountryExtreme": true,
-      "overallPercentDiff": 173.47,
+      "overallPercentDiff": 176.58,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1290,44 +1325,44 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:00.665Z",
           "currentPriceCents": 999900,
-          "currentPriceEurCents": 2721,
+          "currentPriceEurCents": 2752,
           "referencePriceCents": 999900,
-          "referencePriceEurCents": 2721
+          "referencePriceEurCents": 2752
         }
       ]
     },
     {
-      "productId": 17276,
-      "brand": "Dr.Beckmann",
+      "productId": 33168,
+      "brand": "WILKINSON SWORD",
       "isCountryExtreme": true,
-      "overallPercentDiff": 172.41,
+      "overallPercentDiff": 175.25,
       "gapToExtremePercent": 0,
       "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Odstranjevalec vodnega kamna za električne aparate, 250 ml",
-          "url": "https://www.dm.si/p/d/1832299/dr-beckmann-odstranjevalec-vodnega-kamna-za-elektricne-aparate",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:10.434Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
         {
           "countryCode": "AT",
           "shopId": "dm-at",
           "currency": "EUR",
-          "name": "Entkalker Intensiv, 250 ml",
-          "url": "https://www.dm.at/p/d/1832299/dr-beckmann-entkalker-intensiv",
+          "name": "Elektrischer Rasierer Intuition Perfect Finish..., 1 St",
+          "url": "https://www.dm.at/p/d/1582686/wilkinson-sword-elektrischer-rasierer-intuition-perfect-finish-4in1",
           "isPromo": true,
-          "observedAt": "2026-08-30T22:35:40.418Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
+          "observedAt": "2026-08-30T22:37:11.756Z",
+          "currentPriceCents": 1600,
+          "currentPriceEurCents": 1600,
+          "referencePriceCents": 1600,
+          "referencePriceEurCents": 1600
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Intuition Perfect Finish 4 in 1 női elektromos..., 1 db",
+          "url": "https://www.dm.hu/p/d/1582686/wilkinson-sword-intuition-perfect-finish-4-in-1-noi-elektromos-szortelenito-keszulek",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:34.751Z",
+          "currentPriceCents": 1599900,
+          "currentPriceEurCents": 4404,
+          "referencePriceCents": 1599900,
+          "referencePriceEurCents": 4404
         }
       ]
     },
@@ -1335,7 +1370,7 @@
       "productId": 32565,
       "brand": "Carefree",
       "isCountryExtreme": true,
-      "overallPercentDiff": 172.14,
+      "overallPercentDiff": 175,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1373,44 +1408,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:29:59.422Z",
           "currentPriceCents": 139900,
-          "currentPriceEurCents": 381,
+          "currentPriceEurCents": 385,
           "referencePriceCents": 139900,
-          "referencePriceEurCents": 381
-        }
-      ]
-    },
-    {
-      "productId": 33168,
-      "brand": "WILKINSON SWORD",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 172.13,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Elektrischer Rasierer Intuition Perfect Finish..., 1 St",
-          "url": "https://www.dm.at/p/d/1582686/wilkinson-sword-elektrischer-rasierer-intuition-perfect-finish-4in1",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:37:11.756Z",
-          "currentPriceCents": 1600,
-          "currentPriceEurCents": 1600,
-          "referencePriceCents": 1600,
-          "referencePriceEurCents": 1600
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Intuition Perfect Finish 4 in 1 női elektromos..., 1 db",
-          "url": "https://www.dm.hu/p/d/1582686/wilkinson-sword-intuition-perfect-finish-4-in-1-noi-elektromos-szortelenito-keszulek",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:34.751Z",
-          "currentPriceCents": 1599900,
-          "currentPriceEurCents": 4354,
-          "referencePriceCents": 1599900,
-          "referencePriceEurCents": 4354
+          "referencePriceEurCents": 385
         }
       ]
     }

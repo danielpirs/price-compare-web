@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-04T12:18:27.829Z",
+  "generatedAt": "2026-09-05T08:53:15.124Z",
   "fx": {
-    "asOf": "2026-09-03",
+    "asOf": "2026-09-04",
     "rates": {
-      "USD": 1.1615,
-      "JPY": 181.21,
-      "CZK": 24.221,
-      "DKK": 7.4746,
-      "GBP": 0.86055,
-      "HUF": 367.43,
-      "PLN": 4.3265,
-      "RON": 5.2534,
-      "SEK": 11.1245,
-      "CHF": 0.939,
-      "ISK": 140.6,
-      "NOK": 10.8063,
-      "TRY": 56.1177,
-      "AUD": 1.6147,
-      "BRL": 5.8935,
-      "CAD": 1.6019,
-      "CNY": 7.8042,
-      "HKD": 9.1078,
-      "IDR": 20496.93,
-      "ILS": 3.5069,
-      "INR": 109.75,
-      "KRW": 1576.49,
-      "MXN": 19.7593,
-      "MYR": 4.6942,
-      "NZD": 1.978,
-      "PHP": 72.605,
-      "SGD": 1.4725,
-      "THB": 38.312,
-      "ZAR": 18.6273
+      "USD": 1.1622,
+      "JPY": 181.59,
+      "CZK": 24.189,
+      "DKK": 7.4747,
+      "GBP": 0.85898,
+      "HUF": 363.28,
+      "PLN": 4.3148,
+      "RON": 5.253,
+      "SEK": 11.1005,
+      "CHF": 0.9405,
+      "ISK": 140.8,
+      "NOK": 10.8035,
+      "TRY": 56.2995,
+      "AUD": 1.6134,
+      "BRL": 5.9405,
+      "CAD": 1.6038,
+      "CNY": 7.7994,
+      "HKD": 9.112,
+      "IDR": 20496.04,
+      "ILS": 3.4954,
+      "INR": 109.8165,
+      "KRW": 1569.38,
+      "MXN": 19.6401,
+      "MYR": 4.7005,
+      "NZD": 1.9755,
+      "PHP": 72.812,
+      "SGD": 1.4724,
+      "THB": 38.26,
+      "ZAR": 18.5571
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -203,9 +203,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:28.672Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 490,
+          "currentPriceEurCents": 495,
           "referencePriceCents": 179900,
-          "referencePriceEurCents": 490
+          "referencePriceEurCents": 495
         }
       ]
     },
@@ -251,9 +251,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:49.604Z",
           "currentPriceCents": 499900,
-          "currentPriceEurCents": 1361,
+          "currentPriceEurCents": 1376,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1361
+          "referencePriceEurCents": 1376
         }
       ]
     },
@@ -299,9 +299,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:41.384Z",
           "currentPriceCents": 100900,
-          "currentPriceEurCents": 275,
+          "currentPriceEurCents": 278,
           "referencePriceCents": 100900,
-          "referencePriceEurCents": 275
+          "referencePriceEurCents": 278
         }
       ]
     },
@@ -452,9 +452,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:22.557Z",
           "currentPriceCents": 78900,
-          "currentPriceEurCents": 215,
+          "currentPriceEurCents": 217,
           "referencePriceCents": 78900,
-          "referencePriceEurCents": 215
+          "referencePriceEurCents": 217
         }
       ]
     },
@@ -462,7 +462,7 @@
       "productId": 7177,
       "brand": "Colgate",
       "isCountryExtreme": true,
-      "overallPercentDiff": 634.57,
+      "overallPercentDiff": 625.61,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -487,9 +487,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:49.421Z",
           "currentPriceCents": 29900,
-          "currentPriceEurCents": 81,
+          "currentPriceEurCents": 82,
           "referencePriceCents": 29900,
-          "referencePriceEurCents": 81
+          "referencePriceEurCents": 82
         }
       ]
     },
@@ -497,7 +497,7 @@
       "productId": 9740,
       "brand": "Moschino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 619.12,
+      "overallPercentDiff": 610.76,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -535,9 +535,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:19.940Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 680,
+          "currentPriceEurCents": 688,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 680
+          "referencePriceEurCents": 688
         }
       ]
     },
@@ -580,7 +580,7 @@
       "productId": 10037,
       "brand": "AXE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 544.74,
+      "overallPercentDiff": 536.36,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -618,9 +618,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:32.640Z",
           "currentPriceCents": 27900,
-          "currentPriceEurCents": 76,
+          "currentPriceEurCents": 77,
           "referencePriceCents": 27900,
-          "referencePriceEurCents": 76
+          "referencePriceEurCents": 77
         }
       ]
     },
@@ -736,9 +736,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:52.512Z",
           "currentPriceCents": 169900,
-          "currentPriceEurCents": 462,
+          "currentPriceEurCents": 468,
           "referencePriceCents": 169900,
-          "referencePriceEurCents": 462
+          "referencePriceEurCents": 468
         }
       ]
     },
@@ -816,7 +816,7 @@
       "productId": 3907,
       "brand": "COREGA",
       "isCountryExtreme": true,
-      "overallPercentDiff": 462.5,
+      "overallPercentDiff": 458.39,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -854,9 +854,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:49.421Z",
           "currentPriceCents": 49900,
-          "currentPriceEurCents": 136,
+          "currentPriceEurCents": 137,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 136
+          "referencePriceEurCents": 137
         }
       ]
     },
@@ -864,7 +864,7 @@
       "productId": 10590,
       "brand": "FURLA",
       "isCountryExtreme": true,
-      "overallPercentDiff": 456.35,
+      "overallPercentDiff": 449.82,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -902,9 +902,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:19.940Z",
           "currentPriceCents": 309900,
-          "currentPriceEurCents": 843,
+          "currentPriceEurCents": 853,
           "referencePriceCents": 309900,
-          "referencePriceEurCents": 843
+          "referencePriceEurCents": 853
         }
       ]
     },
@@ -912,7 +912,7 @@
       "productId": 10118,
       "brand": "Dove MEN+CARE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 449.38,
+      "overallPercentDiff": 442.68,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -950,9 +950,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:30.488Z",
           "currentPriceCents": 29900,
-          "currentPriceEurCents": 81,
+          "currentPriceEurCents": 82,
           "referencePriceCents": 29900,
-          "referencePriceEurCents": 81
+          "referencePriceEurCents": 82
         }
       ]
     },
@@ -960,7 +960,7 @@
       "productId": 12153,
       "brand": "NIVEA MEN",
       "isCountryExtreme": true,
-      "overallPercentDiff": 446.3,
+      "overallPercentDiff": 436.36,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -998,9 +998,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:25.549Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
+          "currentPriceEurCents": 55,
           "referencePriceCents": 19900,
-          "referencePriceEurCents": 54
+          "referencePriceEurCents": 55
         }
       ]
     },
@@ -1008,7 +1008,7 @@
       "productId": 15006,
       "brand": "NIVEA",
       "isCountryExtreme": true,
-      "overallPercentDiff": 442.86,
+      "overallPercentDiff": 435.21,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1059,57 +1059,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:57.806Z",
           "currentPriceCents": 25900,
-          "currentPriceEurCents": 70,
+          "currentPriceEurCents": 71,
           "referencePriceCents": 25900,
-          "referencePriceEurCents": 70
-        }
-      ]
-    },
-    {
-      "productId": 10188,
-      "brand": "Rexona",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 413.16,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Deo roll-on Advanced Protection Invisible Aqua, 50 ml",
-          "url": "https://www.dm.hr/p/d/3072259/rexona-deo-roll-on-advanced-protection-invisible-aqua",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:00.205Z",
-          "currentPriceCents": 390,
-          "currentPriceEurCents": 390,
-          "referencePriceCents": 390,
-          "referencePriceEurCents": 390
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Antiperspirant roll-on Advanced Protection..., 50 ml",
-          "url": "https://www.dm.si/p/d/3072259/rexona-antiperspirant-roll-on-advanced-protection-invisible-aqua",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:04.847Z",
-          "currentPriceCents": 370,
-          "currentPriceEurCents": 370,
-          "referencePriceCents": 370,
-          "referencePriceEurCents": 370
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Deo roll-on Advanced Protection, Invisible Aqua, 50 ml",
-          "url": "https://www.dm.hu/p/d/3072259/rexona-deo-roll-on-advanced-protection-invisible-aqua",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:59.780Z",
-          "currentPriceCents": 27900,
-          "currentPriceEurCents": 76,
-          "referencePriceCents": 27900,
-          "referencePriceEurCents": 76
+          "referencePriceEurCents": 71
         }
       ]
     },
@@ -1175,6 +1127,54 @@
       ]
     },
     {
+      "productId": 10188,
+      "brand": "Rexona",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 406.49,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Deo roll-on Advanced Protection Invisible Aqua, 50 ml",
+          "url": "https://www.dm.hr/p/d/3072259/rexona-deo-roll-on-advanced-protection-invisible-aqua",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:00.205Z",
+          "currentPriceCents": 390,
+          "currentPriceEurCents": 390,
+          "referencePriceCents": 390,
+          "referencePriceEurCents": 390
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Antiperspirant roll-on Advanced Protection..., 50 ml",
+          "url": "https://www.dm.si/p/d/3072259/rexona-antiperspirant-roll-on-advanced-protection-invisible-aqua",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:04.847Z",
+          "currentPriceCents": 370,
+          "currentPriceEurCents": 370,
+          "referencePriceCents": 370,
+          "referencePriceEurCents": 370
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Deo roll-on Advanced Protection, Invisible Aqua, 50 ml",
+          "url": "https://www.dm.hu/p/d/3072259/rexona-deo-roll-on-advanced-protection-invisible-aqua",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:59.780Z",
+          "currentPriceCents": 27900,
+          "currentPriceEurCents": 77,
+          "referencePriceCents": 27900,
+          "referencePriceEurCents": 77
+        }
+      ]
+    },
+    {
       "productId": 950,
       "brand": "REVOLUTION",
       "isCountryExtreme": true,
@@ -1206,41 +1206,6 @@
           "currentPriceEurCents": 99,
           "referencePriceCents": 99,
           "referencePriceEurCents": 99
-        }
-      ]
-    },
-    {
-      "productId": 10440,
-      "brand": "Mixa",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 377.19,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Hidratantni serum za lice s hijaluronskom i..., 30 ml",
-          "url": "https://www.dm.hr/p/d/2031477/mixa-hidratantni-serum-za-lice-s-hijaluronskom-i-mlijecnom-kiselinom",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:02.420Z",
-          "currentPriceCents": 1360,
-          "currentPriceEurCents": 1360,
-          "referencePriceCents": 1360,
-          "referencePriceEurCents": 1360
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Arcszérum hyaluronsavval és tejsavval, Anti..., 30 ml",
-          "url": "https://www.dm.hu/p/d/2031477/mixa-arcszerum-hyaluronsavval-es-tejsavval-anti-dryness",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:52.512Z",
-          "currentPriceCents": 104900,
-          "currentPriceEurCents": 285,
-          "referencePriceCents": 104900,
-          "referencePriceEurCents": 285
         }
       ]
     },
@@ -1346,6 +1311,41 @@
           "currentPriceEurCents": 40,
           "referencePriceCents": 40,
           "referencePriceEurCents": 40
+        }
+      ]
+    },
+    {
+      "productId": 10440,
+      "brand": "Mixa",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 370.59,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Hidratantni serum za lice s hijaluronskom i..., 30 ml",
+          "url": "https://www.dm.hr/p/d/2031477/mixa-hidratantni-serum-za-lice-s-hijaluronskom-i-mlijecnom-kiselinom",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:02.420Z",
+          "currentPriceCents": 1360,
+          "currentPriceEurCents": 1360,
+          "referencePriceCents": 1360,
+          "referencePriceEurCents": 1360
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Arcszérum hyaluronsavval és tejsavval, Anti..., 30 ml",
+          "url": "https://www.dm.hu/p/d/2031477/mixa-arcszerum-hyaluronsavval-es-tejsavval-anti-dryness",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:52.512Z",
+          "currentPriceCents": 104900,
+          "currentPriceEurCents": 289,
+          "referencePriceCents": 104900,
+          "referencePriceEurCents": 289
         }
       ]
     }

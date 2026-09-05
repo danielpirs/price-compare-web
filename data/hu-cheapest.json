@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-04T12:18:27.829Z",
+  "generatedAt": "2026-09-05T08:53:15.124Z",
   "fx": {
-    "asOf": "2026-09-03",
+    "asOf": "2026-09-04",
     "rates": {
-      "USD": 1.1615,
-      "JPY": 181.21,
-      "CZK": 24.221,
-      "DKK": 7.4746,
-      "GBP": 0.86055,
-      "HUF": 367.43,
-      "PLN": 4.3265,
-      "RON": 5.2534,
-      "SEK": 11.1245,
-      "CHF": 0.939,
-      "ISK": 140.6,
-      "NOK": 10.8063,
-      "TRY": 56.1177,
-      "AUD": 1.6147,
-      "BRL": 5.8935,
-      "CAD": 1.6019,
-      "CNY": 7.8042,
-      "HKD": 9.1078,
-      "IDR": 20496.93,
-      "ILS": 3.5069,
-      "INR": 109.75,
-      "KRW": 1576.49,
-      "MXN": 19.7593,
-      "MYR": 4.6942,
-      "NZD": 1.978,
-      "PHP": 72.605,
-      "SGD": 1.4725,
-      "THB": 38.312,
-      "ZAR": 18.6273
+      "USD": 1.1622,
+      "JPY": 181.59,
+      "CZK": 24.189,
+      "DKK": 7.4747,
+      "GBP": 0.85898,
+      "HUF": 363.28,
+      "PLN": 4.3148,
+      "RON": 5.253,
+      "SEK": 11.1005,
+      "CHF": 0.9405,
+      "ISK": 140.8,
+      "NOK": 10.8035,
+      "TRY": 56.2995,
+      "AUD": 1.6134,
+      "BRL": 5.9405,
+      "CAD": 1.6038,
+      "CNY": 7.7994,
+      "HKD": 9.112,
+      "IDR": 20496.04,
+      "ILS": 3.4954,
+      "INR": 109.8165,
+      "KRW": 1569.38,
+      "MXN": 19.6401,
+      "MYR": 4.7005,
+      "NZD": 1.9755,
+      "PHP": 72.812,
+      "SGD": 1.4724,
+      "THB": 38.26,
+      "ZAR": 18.5571
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -245,54 +245,6 @@
       ]
     },
     {
-      "productId": 21104,
-      "brand": "Saugstark&Sicher",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 992.59,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Kuhinjske brisače, 3-slojne, 2 kos",
-          "url": "https://www.dm.si/p/d/1692144/saugstark-sicher-kuhinjske-brisace-3-slojne",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:48.379Z",
-          "currentPriceCents": 265,
-          "currentPriceEurCents": 265,
-          "referencePriceCents": 265,
-          "referencePriceEurCents": 265
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Küchenrolle Mega Roll Premium 3-lagig, 2 St",
-          "url": "https://www.dm.at/p/d/1692144/saugstark-und-sicher-kuechenrolle-mega-roll-premium-3-lagig",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:37:20.166Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Papírtörlő Prémium, 3-rétegű, 2x102 lap, 2 db",
-          "url": "https://www.dm.hu/p/d/1692144/saugstark-sicher-papirtorlo-premium-3-retegu-2x102-lap",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:49.421Z",
-          "currentPriceCents": 9900,
-          "currentPriceEurCents": 27,
-          "referencePriceCents": 9900,
-          "referencePriceEurCents": 27
-        }
-      ]
-    },
-    {
       "productId": 16938,
       "brand": "sundance",
       "isCountryExtreme": true,
@@ -453,7 +405,7 @@
       "productId": 7177,
       "brand": "Colgate",
       "isCountryExtreme": true,
-      "overallPercentDiff": 634.57,
+      "overallPercentDiff": 625.61,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -478,9 +430,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:49.421Z",
           "currentPriceCents": 29900,
-          "currentPriceEurCents": 81,
+          "currentPriceEurCents": 82,
           "referencePriceCents": 29900,
-          "referencePriceEurCents": 81
+          "referencePriceEurCents": 82
         }
       ]
     },
@@ -488,7 +440,7 @@
       "productId": 16879,
       "brand": "SKIN1004",
       "isCountryExtreme": true,
-      "overallPercentDiff": 632.56,
+      "overallPercentDiff": 624.14,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -526,127 +478,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:57.806Z",
           "currentPriceCents": 94900,
-          "currentPriceEurCents": 258,
+          "currentPriceEurCents": 261,
           "referencePriceCents": 94900,
-          "referencePriceEurCents": 258
-        }
-      ]
-    },
-    {
-      "productId": 4018,
-      "brand": "adidas",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 622.22,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Dezodorant Cool & Care Control, 150 ml",
-          "url": "https://www.dm.si/p/d/1241006/adidas-dezodorant-cool-care-control",
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:09:56.579Z",
-          "currentPriceCents": 390,
-          "currentPriceEurCents": 390,
-          "referencePriceCents": 390,
-          "referencePriceEurCents": 390
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Antitranspirant Deospray Women Control, 150 ml",
-          "url": "https://www.dm.de/p/d/1241006/adidas-antitranspirant-deospray-women-control",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:00.398Z",
-          "currentPriceCents": 265,
-          "currentPriceEurCents": 265,
-          "referencePriceCents": 265,
-          "referencePriceEurCents": 265
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Deo spray Control, 150 ml",
-          "url": "https://www.dm.hu/p/d/1241006/adidas-deo-spray-control",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:32:25.549Z",
-          "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
-          "referencePriceCents": 19900,
-          "referencePriceEurCents": 54
-        }
-      ]
-    },
-    {
-      "productId": 16410,
-      "brand": "adidas",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 622.22,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Antiperspirant v spreju Ultra Fresh Control, 150 ml",
-          "url": "https://www.dm.si/p/d/3068360/adidas-antiperspirant-v-spreju-ultra-fresh-control",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:56.419Z",
-          "currentPriceCents": 390,
-          "currentPriceEurCents": 390,
-          "referencePriceCents": 390,
-          "referencePriceEurCents": 390
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Deo spray Ultra Fresh Control, 150 ml",
-          "url": "https://www.dm.hu/p/d/3068360/adidas-deo-spray-ultra-fresh-control",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:32:25.549Z",
-          "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
-          "referencePriceCents": 19900,
-          "referencePriceEurCents": 54
-        }
-      ]
-    },
-    {
-      "productId": 18416,
-      "brand": "adidas",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 622.22,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Antiperspirant v spreju Invisible Control, 150 ml",
-          "url": "https://www.dm.si/p/d/3068251/adidas-antiperspirant-v-spreju-invisible-control",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:22.881Z",
-          "currentPriceCents": 390,
-          "currentPriceEurCents": 390,
-          "referencePriceCents": 390,
-          "referencePriceEurCents": 390
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Deo spray Invisible Control, 150 ml",
-          "url": "https://www.dm.hu/p/d/3068251/adidas-deo-spray-invisible-control",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:59.780Z",
-          "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
-          "referencePriceCents": 19900,
-          "referencePriceEurCents": 54
+          "referencePriceEurCents": 261
         }
       ]
     },
@@ -654,7 +488,7 @@
       "productId": 9740,
       "brand": "Moschino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 619.12,
+      "overallPercentDiff": 610.76,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -692,9 +526,127 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:19.940Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 680,
+          "currentPriceEurCents": 688,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 680
+          "referencePriceEurCents": 688
+        }
+      ]
+    },
+    {
+      "productId": 4018,
+      "brand": "adidas",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 609.09,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Dezodorant Cool & Care Control, 150 ml",
+          "url": "https://www.dm.si/p/d/1241006/adidas-dezodorant-cool-care-control",
+          "isPromo": false,
+          "observedAt": "2026-08-28T16:09:56.579Z",
+          "currentPriceCents": 390,
+          "currentPriceEurCents": 390,
+          "referencePriceCents": 390,
+          "referencePriceEurCents": 390
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Antitranspirant Deospray Women Control, 150 ml",
+          "url": "https://www.dm.de/p/d/1241006/adidas-antitranspirant-deospray-women-control",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:00.398Z",
+          "currentPriceCents": 265,
+          "currentPriceEurCents": 265,
+          "referencePriceCents": 265,
+          "referencePriceEurCents": 265
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Deo spray Control, 150 ml",
+          "url": "https://www.dm.hu/p/d/1241006/adidas-deo-spray-control",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:32:25.549Z",
+          "currentPriceCents": 19900,
+          "currentPriceEurCents": 55,
+          "referencePriceCents": 19900,
+          "referencePriceEurCents": 55
+        }
+      ]
+    },
+    {
+      "productId": 16410,
+      "brand": "adidas",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 609.09,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Antiperspirant v spreju Ultra Fresh Control, 150 ml",
+          "url": "https://www.dm.si/p/d/3068360/adidas-antiperspirant-v-spreju-ultra-fresh-control",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:56.419Z",
+          "currentPriceCents": 390,
+          "currentPriceEurCents": 390,
+          "referencePriceCents": 390,
+          "referencePriceEurCents": 390
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Deo spray Ultra Fresh Control, 150 ml",
+          "url": "https://www.dm.hu/p/d/3068360/adidas-deo-spray-ultra-fresh-control",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:32:25.549Z",
+          "currentPriceCents": 19900,
+          "currentPriceEurCents": 55,
+          "referencePriceCents": 19900,
+          "referencePriceEurCents": 55
+        }
+      ]
+    },
+    {
+      "productId": 18416,
+      "brand": "adidas",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 609.09,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Antiperspirant v spreju Invisible Control, 150 ml",
+          "url": "https://www.dm.si/p/d/3068251/adidas-antiperspirant-v-spreju-invisible-control",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:22.881Z",
+          "currentPriceCents": 390,
+          "currentPriceEurCents": 390,
+          "referencePriceCents": 390,
+          "referencePriceEurCents": 390
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Deo spray Invisible Control, 150 ml",
+          "url": "https://www.dm.hu/p/d/3068251/adidas-deo-spray-invisible-control",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:59.780Z",
+          "currentPriceCents": 19900,
+          "currentPriceEurCents": 55,
+          "referencePriceCents": 19900,
+          "referencePriceEurCents": 55
         }
       ]
     },
@@ -702,7 +654,7 @@
       "productId": 2685,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 583.82,
+      "overallPercentDiff": 573.91,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -740,79 +692,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:59.780Z",
           "currentPriceCents": 24900,
-          "currentPriceEurCents": 68,
+          "currentPriceEurCents": 69,
           "referencePriceCents": 24900,
-          "referencePriceEurCents": 68
-        }
-      ]
-    },
-    {
-      "productId": 18438,
-      "brand": "adidas",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 566.67,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Roll-on antiperspirant Ultra Fresh Control, 50 ml",
-          "url": "https://www.dm.si/p/d/3078581/adidas-roll-on-antiperspirant-ultra-fresh-control",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:24.230Z",
-          "currentPriceCents": 360,
-          "currentPriceEurCents": 360,
-          "referencePriceCents": 360,
-          "referencePriceEurCents": 360
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Deo roll-on Utra Fresh Controll, 50 ml",
-          "url": "https://www.dm.hu/p/d/3078581/adidas-deo-roll-on-utra-fresh-controll",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:57.806Z",
-          "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
-          "referencePriceCents": 19900,
-          "referencePriceEurCents": 54
-        }
-      ]
-    },
-    {
-      "productId": 22917,
-      "brand": "adidas",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 566.67,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Antiperspirant roll-on Control, 50 ml",
-          "url": "https://www.dm.si/p/d/2249158/adidas-antiperspirant-roll-on-control",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:04.847Z",
-          "currentPriceCents": 360,
-          "currentPriceEurCents": 360,
-          "referencePriceCents": 360,
-          "referencePriceEurCents": 360
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Deo roll-on Control, 50 ml",
-          "url": "https://www.dm.hu/p/d/2249158/adidas-deo-roll-on-control",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:59.780Z",
-          "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
-          "referencePriceCents": 19900,
-          "referencePriceEurCents": 54
+          "referencePriceEurCents": 69
         }
       ]
     },
@@ -820,7 +702,7 @@
       "productId": 21037,
       "brand": "Beauty of Joseon",
       "isCountryExtreme": true,
-      "overallPercentDiff": 564.91,
+      "overallPercentDiff": 555.71,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -858,9 +740,79 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:57.806Z",
           "currentPriceCents": 104900,
-          "currentPriceEurCents": 285,
+          "currentPriceEurCents": 289,
           "referencePriceCents": 104900,
-          "referencePriceEurCents": 285
+          "referencePriceEurCents": 289
+        }
+      ]
+    },
+    {
+      "productId": 18438,
+      "brand": "adidas",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 554.55,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Roll-on antiperspirant Ultra Fresh Control, 50 ml",
+          "url": "https://www.dm.si/p/d/3078581/adidas-roll-on-antiperspirant-ultra-fresh-control",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:24.230Z",
+          "currentPriceCents": 360,
+          "currentPriceEurCents": 360,
+          "referencePriceCents": 360,
+          "referencePriceEurCents": 360
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Deo roll-on Utra Fresh Controll, 50 ml",
+          "url": "https://www.dm.hu/p/d/3078581/adidas-deo-roll-on-utra-fresh-controll",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:57.806Z",
+          "currentPriceCents": 19900,
+          "currentPriceEurCents": 55,
+          "referencePriceCents": 19900,
+          "referencePriceEurCents": 55
+        }
+      ]
+    },
+    {
+      "productId": 22917,
+      "brand": "adidas",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 554.55,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Antiperspirant roll-on Control, 50 ml",
+          "url": "https://www.dm.si/p/d/2249158/adidas-antiperspirant-roll-on-control",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:04.847Z",
+          "currentPriceCents": 360,
+          "currentPriceEurCents": 360,
+          "referencePriceCents": 360,
+          "referencePriceEurCents": 360
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Deo roll-on Control, 50 ml",
+          "url": "https://www.dm.hu/p/d/2249158/adidas-deo-roll-on-control",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:59.780Z",
+          "currentPriceCents": 19900,
+          "currentPriceEurCents": 55,
+          "referencePriceCents": 19900,
+          "referencePriceEurCents": 55
         }
       ]
     },
@@ -974,54 +926,6 @@
       ]
     },
     {
-      "productId": 19942,
-      "brand": "Dontodent",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 548.15,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Nadomestne glave za zobno ščetko, Medium, 3 kos",
-          "url": "https://www.dm.si/p/d/1685426/dontodent-nadomestne-glave-za-zobno-scetko-medium",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:36.892Z",
-          "currentPriceCents": 350,
-          "currentPriceEurCents": 350,
-          "referencePriceCents": 350,
-          "referencePriceEurCents": 350
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Aufsteckbürsten mittel Nachfüllpack, 3 St",
-          "url": "https://www.dm.at/p/d/1685426/dontodent-aufsteckbuersten-mittel-nachfuellpack",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:37:16.039Z",
-          "currentPriceCents": 170,
-          "currentPriceEurCents": 170,
-          "referencePriceCents": 170,
-          "referencePriceEurCents": 170
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Pótfej cserélhető fejű fogkeféhez, közepes..., 3 db",
-          "url": "https://www.dm.hu/p/d/1685426/dontodent-potfej-cserelheto-feju-fogkefehez-kozepes-kemenysegu",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:40.208Z",
-          "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
-          "referencePriceCents": 19900,
-          "referencePriceEurCents": 54
-        }
-      ]
-    },
-    {
       "productId": 49239,
       "brand": "alverde NATURKOSMETIK",
       "isCountryExtreme": true,
@@ -1060,7 +964,7 @@
       "productId": 10037,
       "brand": "AXE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 544.74,
+      "overallPercentDiff": 536.36,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1098,9 +1002,57 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:32.640Z",
           "currentPriceCents": 27900,
-          "currentPriceEurCents": 76,
+          "currentPriceEurCents": 77,
           "referencePriceCents": 27900,
-          "referencePriceEurCents": 76
+          "referencePriceEurCents": 77
+        }
+      ]
+    },
+    {
+      "productId": 19942,
+      "brand": "Dontodent",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 536.36,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Nadomestne glave za zobno ščetko, Medium, 3 kos",
+          "url": "https://www.dm.si/p/d/1685426/dontodent-nadomestne-glave-za-zobno-scetko-medium",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:36.892Z",
+          "currentPriceCents": 350,
+          "currentPriceEurCents": 350,
+          "referencePriceCents": 350,
+          "referencePriceEurCents": 350
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Aufsteckbürsten mittel Nachfüllpack, 3 St",
+          "url": "https://www.dm.at/p/d/1685426/dontodent-aufsteckbuersten-mittel-nachfuellpack",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:37:16.039Z",
+          "currentPriceCents": 170,
+          "currentPriceEurCents": 170,
+          "referencePriceCents": 170,
+          "referencePriceEurCents": 170
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Pótfej cserélhető fejű fogkeféhez, közepes..., 3 db",
+          "url": "https://www.dm.hu/p/d/1685426/dontodent-potfej-cserelheto-feju-fogkefehez-kozepes-kemenysegu",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:40.208Z",
+          "currentPriceCents": 19900,
+          "currentPriceEurCents": 55,
+          "referencePriceCents": 19900,
+          "referencePriceEurCents": 55
         }
       ]
     },
@@ -1108,7 +1060,7 @@
       "productId": 1906,
       "brand": "GARNIER mineral",
       "isCountryExtreme": true,
-      "overallPercentDiff": 537.1,
+      "overallPercentDiff": 526.98,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1146,9 +1098,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:57.806Z",
           "currentPriceCents": 22900,
-          "currentPriceEurCents": 62,
+          "currentPriceEurCents": 63,
           "referencePriceCents": 22900,
-          "referencePriceEurCents": 62
+          "referencePriceEurCents": 63
         }
       ]
     },
@@ -1156,7 +1108,7 @@
       "productId": 26323,
       "brand": "CD",
       "isCountryExtreme": true,
-      "overallPercentDiff": 520.37,
+      "overallPercentDiff": 509.09,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1181,9 +1133,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:59.780Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
+          "currentPriceEurCents": 55,
           "referencePriceCents": 19900,
-          "referencePriceEurCents": 54
+          "referencePriceEurCents": 55
         }
       ]
     },
@@ -1191,7 +1143,7 @@
       "productId": 20322,
       "brand": "NIVEA SUN",
       "isCountryExtreme": true,
-      "overallPercentDiff": 502.04,
+      "overallPercentDiff": 497.17,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1242,9 +1194,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:57.806Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 245,
+          "currentPriceEurCents": 247,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 245
+          "referencePriceEurCents": 247
         }
       ]
     },
@@ -1287,7 +1239,7 @@
       "productId": 8829,
       "brand": "HADA LABO TOKYO",
       "isCountryExtreme": true,
-      "overallPercentDiff": 486.76,
+      "overallPercentDiff": 479.94,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1338,9 +1290,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:57.806Z",
           "currentPriceCents": 124900,
-          "currentPriceEurCents": 340,
+          "currentPriceEurCents": 344,
           "referencePriceCents": 124900,
-          "referencePriceEurCents": 340
+          "referencePriceEurCents": 344
         }
       ]
     },
@@ -1383,7 +1335,7 @@
       "productId": 18305,
       "brand": "NIVEA MEN",
       "isCountryExtreme": true,
-      "overallPercentDiff": 473.53,
+      "overallPercentDiff": 465.22,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1408,9 +1360,57 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:49.604Z",
           "currentPriceCents": 24900,
-          "currentPriceEurCents": 68,
+          "currentPriceEurCents": 69,
           "referencePriceCents": 24900,
-          "referencePriceEurCents": 68
+          "referencePriceEurCents": 69
+        }
+      ]
+    },
+    {
+      "productId": 7071,
+      "brand": "Rexona",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 458.44,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Advanced Protection dezodorans u spreju Cotton Dry, 150 ml",
+          "url": "https://www.dm.hr/p/d/3049817/rexona-advanced-protection-dezodorans-u-spreju-cotton-dry",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:41.759Z",
+          "currentPriceCents": 340,
+          "currentPriceEurCents": 340,
+          "referencePriceCents": 340,
+          "referencePriceEurCents": 340
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Antiperspirant v spreju Cotton Dry, 150 ml",
+          "url": "https://www.dm.si/p/d/3049817/rexona-antiperspirant-v-spreju-cotton-dry",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:22.881Z",
+          "currentPriceCents": 430,
+          "currentPriceEurCents": 430,
+          "referencePriceCents": 430,
+          "referencePriceEurCents": 430
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Deo spray, Advanced Protection Cotton Dry, 150 ml",
+          "url": "https://www.dm.hu/p/d/3049817/rexona-deo-spray-advanced-protection-cotton-dry",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:57.806Z",
+          "currentPriceCents": 27900,
+          "currentPriceEurCents": 77,
+          "referencePriceCents": 27900,
+          "referencePriceEurCents": 77
         }
       ]
     }

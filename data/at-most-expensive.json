@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-04T12:18:27.829Z",
+  "generatedAt": "2026-09-05T08:53:15.124Z",
   "fx": {
-    "asOf": "2026-09-03",
+    "asOf": "2026-09-04",
     "rates": {
-      "USD": 1.1615,
-      "JPY": 181.21,
-      "CZK": 24.221,
-      "DKK": 7.4746,
-      "GBP": 0.86055,
-      "HUF": 367.43,
-      "PLN": 4.3265,
-      "RON": 5.2534,
-      "SEK": 11.1245,
-      "CHF": 0.939,
-      "ISK": 140.6,
-      "NOK": 10.8063,
-      "TRY": 56.1177,
-      "AUD": 1.6147,
-      "BRL": 5.8935,
-      "CAD": 1.6019,
-      "CNY": 7.8042,
-      "HKD": 9.1078,
-      "IDR": 20496.93,
-      "ILS": 3.5069,
-      "INR": 109.75,
-      "KRW": 1576.49,
-      "MXN": 19.7593,
-      "MYR": 4.6942,
-      "NZD": 1.978,
-      "PHP": 72.605,
-      "SGD": 1.4725,
-      "THB": 38.312,
-      "ZAR": 18.6273
+      "USD": 1.1622,
+      "JPY": 181.59,
+      "CZK": 24.189,
+      "DKK": 7.4747,
+      "GBP": 0.85898,
+      "HUF": 363.28,
+      "PLN": 4.3148,
+      "RON": 5.253,
+      "SEK": 11.1005,
+      "CHF": 0.9405,
+      "ISK": 140.8,
+      "NOK": 10.8035,
+      "TRY": 56.2995,
+      "AUD": 1.6134,
+      "BRL": 5.9405,
+      "CAD": 1.6038,
+      "CNY": 7.7994,
+      "HKD": 9.112,
+      "IDR": 20496.04,
+      "ILS": 3.4954,
+      "INR": 109.8165,
+      "KRW": 1569.38,
+      "MXN": 19.6401,
+      "MYR": 4.7005,
+      "NZD": 1.9755,
+      "PHP": 72.812,
+      "SGD": 1.4724,
+      "THB": 38.26,
+      "ZAR": 18.5571
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -107,9 +107,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:22.557Z",
           "currentPriceCents": 39900,
-          "currentPriceEurCents": 109,
+          "currentPriceEurCents": 110,
           "referencePriceCents": 39900,
-          "referencePriceEurCents": 109
+          "referencePriceEurCents": 110
         }
       ]
     },
@@ -158,54 +158,6 @@
           "currentPriceEurCents": 895,
           "referencePriceCents": 895,
           "referencePriceEurCents": 895
-        }
-      ]
-    },
-    {
-      "productId": 21104,
-      "brand": "Saugstark&Sicher",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 992.59,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Kuhinjske brisače, 3-slojne, 2 kos",
-          "url": "https://www.dm.si/p/d/1692144/saugstark-sicher-kuhinjske-brisace-3-slojne",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:48.379Z",
-          "currentPriceCents": 265,
-          "currentPriceEurCents": 265,
-          "referencePriceCents": 265,
-          "referencePriceEurCents": 265
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Küchenrolle Mega Roll Premium 3-lagig, 2 St",
-          "url": "https://www.dm.at/p/d/1692144/saugstark-und-sicher-kuechenrolle-mega-roll-premium-3-lagig",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:37:20.166Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Papírtörlő Prémium, 3-rétegű, 2x102 lap, 2 db",
-          "url": "https://www.dm.hu/p/d/1692144/saugstark-sicher-papirtorlo-premium-3-retegu-2x102-lap",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:49.421Z",
-          "currentPriceCents": 9900,
-          "currentPriceEurCents": 27,
-          "referencePriceCents": 9900,
-          "referencePriceEurCents": 27
         }
       ]
     },
@@ -465,9 +417,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:16.800Z",
           "currentPriceCents": 61900,
-          "currentPriceEurCents": 168,
+          "currentPriceEurCents": 170,
           "referencePriceCents": 61900,
-          "referencePriceEurCents": 168
+          "referencePriceEurCents": 170
         }
       ]
     },
@@ -475,7 +427,7 @@
       "productId": 2685,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 583.82,
+      "overallPercentDiff": 573.91,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -513,9 +465,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:59.780Z",
           "currentPriceCents": 24900,
-          "currentPriceEurCents": 68,
+          "currentPriceEurCents": 69,
           "referencePriceCents": 24900,
-          "referencePriceEurCents": 68
+          "referencePriceEurCents": 69
         }
       ]
     },
@@ -523,7 +475,7 @@
       "productId": 21037,
       "brand": "Beauty of Joseon",
       "isCountryExtreme": true,
-      "overallPercentDiff": 564.91,
+      "overallPercentDiff": 555.71,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -561,9 +513,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:57.806Z",
           "currentPriceCents": 104900,
-          "currentPriceEurCents": 285,
+          "currentPriceEurCents": 289,
           "referencePriceCents": 104900,
-          "referencePriceEurCents": 285
+          "referencePriceEurCents": 289
         }
       ]
     },
@@ -609,9 +561,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:59.257Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 272,
+          "currentPriceEurCents": 275,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 272
+          "referencePriceEurCents": 275
         }
       ]
     },
@@ -718,9 +670,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:54.339Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1497,
+          "currentPriceEurCents": 1514,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1497
+          "referencePriceEurCents": 1514
         }
       ]
     },
@@ -792,9 +744,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:30.838Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1497,
+          "currentPriceEurCents": 1514,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1497
+          "referencePriceEurCents": 1514
         }
       ]
     },
@@ -853,9 +805,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:30:32.566Z",
           "currentPriceCents": 29900,
-          "currentPriceEurCents": 81,
+          "currentPriceEurCents": 82,
           "referencePriceCents": 29900,
-          "referencePriceEurCents": 81
+          "referencePriceEurCents": 82
         }
       ]
     },
@@ -1065,41 +1017,6 @@
       ]
     },
     {
-      "productId": 26323,
-      "brand": "CD",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 520.37,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Deospray Wasserlilie, 150 ml",
-          "url": "https://www.dm.at/p/d/1213781/cd-deospray-wasserlilie",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:49.054Z",
-          "currentPriceCents": 335,
-          "currentPriceEurCents": 335,
-          "referencePriceCents": 335,
-          "referencePriceEurCents": 335
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Deo spray Wasserlilie, 150 ml",
-          "url": "https://www.dm.hu/p/d/1213781/cd-deo-spray-wasserlilie",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:59.780Z",
-          "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
-          "referencePriceCents": 19900,
-          "referencePriceEurCents": 54
-        }
-      ]
-    },
-    {
       "productId": 6136,
       "brand": "ogx",
       "isCountryExtreme": true,
@@ -1215,9 +1132,44 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:07.099Z",
           "currentPriceCents": 429900,
-          "currentPriceEurCents": 1170,
+          "currentPriceEurCents": 1183,
           "referencePriceCents": 429900,
-          "referencePriceEurCents": 1170
+          "referencePriceEurCents": 1183
+        }
+      ]
+    },
+    {
+      "productId": 26323,
+      "brand": "CD",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 509.09,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Deospray Wasserlilie, 150 ml",
+          "url": "https://www.dm.at/p/d/1213781/cd-deospray-wasserlilie",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:49.054Z",
+          "currentPriceCents": 335,
+          "currentPriceEurCents": 335,
+          "referencePriceCents": 335,
+          "referencePriceEurCents": 335
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Deo spray Wasserlilie, 150 ml",
+          "url": "https://www.dm.hu/p/d/1213781/cd-deo-spray-wasserlilie",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:59.780Z",
+          "currentPriceCents": 19900,
+          "currentPriceEurCents": 55,
+          "referencePriceCents": 19900,
+          "referencePriceEurCents": 55
         }
       ]
     },
@@ -1346,70 +1298,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:04.184Z",
           "currentPriceCents": 349900,
-          "currentPriceEurCents": 952,
+          "currentPriceEurCents": 963,
           "referencePriceCents": 349900,
-          "referencePriceEurCents": 952
-        }
-      ]
-    },
-    {
-      "productId": 8829,
-      "brand": "HADA LABO TOKYO",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 486.76,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Make-Up Removing ulje za čišćenje lica, 195 ml",
-          "url": "https://www.dm.hr/p/d/2975985/hada-labo-tokyo-make-up-removing-ulje-za-ciscenje-lica",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:51.588Z",
-          "currentPriceCents": 1595,
-          "currentPriceEurCents": 1595,
-          "referencePriceCents": 1595,
-          "referencePriceEurCents": 1595
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Olje za čiščenje obraza Make-Up Removing, 195 ml",
-          "url": "https://www.dm.si/p/d/2975985/hada-labo-tokyo-olje-za-ciscenje-obraza-make-up-removing",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:21.199Z",
-          "currentPriceCents": 1440,
-          "currentPriceEurCents": 1440,
-          "referencePriceCents": 1440,
-          "referencePriceEurCents": 1440
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Reinigungsöl, 195 ml",
-          "url": "https://www.dm.at/p/d/2975985/hada-labo-tokyo-reinigungsoel",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:39.471Z",
-          "currentPriceCents": 1995,
-          "currentPriceEurCents": 1995,
-          "referencePriceCents": 1995,
-          "referencePriceEurCents": 1995
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Hidratáló Sminklemosó Olaj, 195 ml",
-          "url": "https://www.dm.hu/p/d/2975985/hada-labo-tokyo-hidratalo-sminklemoso-olaj",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:57.806Z",
-          "currentPriceCents": 124900,
-          "currentPriceEurCents": 340,
-          "referencePriceCents": 124900,
-          "referencePriceEurCents": 340
+          "referencePriceEurCents": 963
         }
       ]
     },
@@ -1462,50 +1353,63 @@
       ]
     },
     {
-      "productId": 5761,
-      "brand": "CATRICE",
+      "productId": 8829,
+      "brand": "HADA LABO TOKYO",
       "isCountryExtreme": true,
-      "overallPercentDiff": 450.51,
+      "overallPercentDiff": 479.94,
       "gapToExtremePercent": 0,
       "countries": [
         {
-          "countryCode": "AT",
-          "shopId": "dm-at",
+          "countryCode": "HR",
+          "shopId": "dm-hr",
           "currency": "EUR",
-          "name": "Puder Setting Matte Soft Blur 040 Tan, 8 g",
-          "url": "https://www.dm.at/p/d/3082336/catrice-puder-setting-matte-soft-blur-040-tan",
+          "name": "Make-Up Removing ulje za čišćenje lica, 195 ml",
+          "url": "https://www.dm.hr/p/d/2975985/hada-labo-tokyo-make-up-removing-ulje-za-ciscenje-lica",
           "isPromo": false,
-          "observedAt": "2026-08-30T21:47:49.158Z",
-          "currentPriceCents": 545,
-          "currentPriceEurCents": 545,
-          "referencePriceCents": 545,
-          "referencePriceEurCents": 545
+          "observedAt": "2026-08-30T22:32:51.588Z",
+          "currentPriceCents": 1595,
+          "currentPriceEurCents": 1595,
+          "referencePriceCents": 1595,
+          "referencePriceEurCents": 1595
         },
         {
           "countryCode": "SI",
           "shopId": "dm-si",
           "currency": "EUR",
-          "name": "Utrditveni puder Soft Blur, 040 Tan, 8 g",
-          "url": "https://www.dm.si/p/d/3082336/catrice-utrditveni-puder-soft-blur-040-tan",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:47.009Z",
-          "currentPriceCents": 99,
-          "currentPriceEurCents": 99,
-          "referencePriceCents": 99,
-          "referencePriceEurCents": 99
+          "name": "Olje za čiščenje obraza Make-Up Removing, 195 ml",
+          "url": "https://www.dm.si/p/d/2975985/hada-labo-tokyo-olje-za-ciscenje-obraza-make-up-removing",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:21.199Z",
+          "currentPriceCents": 1440,
+          "currentPriceEurCents": 1440,
+          "referencePriceCents": 1440,
+          "referencePriceEurCents": 1440
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Reinigungsöl, 195 ml",
+          "url": "https://www.dm.at/p/d/2975985/hada-labo-tokyo-reinigungsoel",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:39.471Z",
+          "currentPriceCents": 1995,
+          "currentPriceEurCents": 1995,
+          "referencePriceCents": 1995,
+          "referencePriceEurCents": 1995
         },
         {
           "countryCode": "HU",
           "shopId": "dm-hu",
           "currency": "HUF",
-          "name": "Púder, Soft Blur Matte Setting - Nr. 040 Tan, 8 g",
-          "url": "https://www.dm.hu/p/d/3082336/catrice-puder-soft-blur-matte-setting-nr-040-tan",
+          "name": "Hidratáló Sminklemosó Olaj, 195 ml",
+          "url": "https://www.dm.hu/p/d/2975985/hada-labo-tokyo-hidratalo-sminklemoso-olaj",
           "isPromo": true,
-          "observedAt": "2026-09-01T12:29:55.346Z",
-          "currentPriceCents": 99900,
-          "currentPriceEurCents": 272,
-          "referencePriceCents": 99900,
-          "referencePriceEurCents": 272
+          "observedAt": "2026-09-01T12:31:57.806Z",
+          "currentPriceCents": 124900,
+          "currentPriceEurCents": 344,
+          "referencePriceCents": 124900,
+          "referencePriceEurCents": 344
         }
       ]
     },
@@ -1554,6 +1458,89 @@
           "currentPriceEurCents": 1025,
           "referencePriceCents": 1025,
           "referencePriceEurCents": 1025
+        }
+      ]
+    },
+    {
+      "productId": 1143,
+      "brand": "Batiste",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 421.05,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Šampon za suho pranje kose Fresh, 200 ml",
+          "url": "https://www.dm.hr/p/d/1878894/batiste-sampon-za-suho-pranje-kose-fresh",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:50:10.292Z",
+          "currentPriceCents": 95,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Suhi šampon za lase Fresh, 200 ml",
+          "url": "https://www.dm.si/p/d/1878894/batiste-suhi-sampon-za-lase-fresh",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:31.741Z",
+          "currentPriceCents": 365,
+          "currentPriceEurCents": 365,
+          "referencePriceCents": 365,
+          "referencePriceEurCents": 365
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Trockenshampoo light & breezy, 200 ml",
+          "url": "https://www.dm.at/p/d/1878894/batiste-trockenshampoo-light-und-breezy",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:37:18.756Z",
+          "currentPriceCents": 495,
+          "currentPriceEurCents": 495,
+          "referencePriceCents": 495,
+          "referencePriceEurCents": 495
+        }
+      ]
+    },
+    {
+      "productId": 28624,
+      "brand": "CD",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 407.58,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Deo Roll-On Wasserlilie, 50 ml",
+          "url": "https://www.dm.at/p/d/1000656/cd-deo-roll-on-wasserlilie",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:18.966Z",
+          "currentPriceCents": 335,
+          "currentPriceEurCents": 335,
+          "referencePriceCents": 335,
+          "referencePriceEurCents": 335
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Deo roll-on Wasserlilie, 50 ml",
+          "url": "https://www.dm.hu/p/d/1000656/cd-deo-roll-on-wasserlilie",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:57.806Z",
+          "currentPriceCents": 23900,
+          "currentPriceEurCents": 66,
+          "referencePriceCents": 23900,
+          "referencePriceEurCents": 66
         }
       ]
     }
