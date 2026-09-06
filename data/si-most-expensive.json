@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T08:53:15.124Z",
+  "generatedAt": "2026-09-06T09:13:53.027Z",
   "fx": {
     "asOf": "2026-09-04",
     "rates": {
@@ -1088,41 +1088,6 @@
       ]
     },
     {
-      "productId": 18044,
-      "brand": "Balea",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 455.56,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Vložki za čevlje iz flisa, velikost 42-43 (1 par), 2 kos",
-          "url": "https://www.dm.si/p/d/2486910/balea-vlozki-za-cevlje-iz-flisa-velikost-42-43-1-par",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:19.947Z",
-          "currentPriceCents": 150,
-          "currentPriceEurCents": 150,
-          "referencePriceCents": 150,
-          "referencePriceEurCents": 150
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Filc talpbetét, 42-43 méret, 1 pár, 2 db",
-          "url": "https://www.dm.hu/p/d/2486910/balea-filc-talpbetet-42-43-meret-1-par",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:55.494Z",
-          "currentPriceCents": 9900,
-          "currentPriceEurCents": 27,
-          "referencePriceCents": 9900,
-          "referencePriceEurCents": 27
-        }
-      ]
-    },
-    {
       "productId": 20938,
       "brand": "Balea",
       "isCountryExtreme": true,
@@ -1359,6 +1324,41 @@
           "currentPriceEurCents": 795,
           "referencePriceCents": 795,
           "referencePriceEurCents": 795
+        }
+      ]
+    },
+    {
+      "productId": 18312,
+      "brand": "Elizabeth Arden",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 444.55,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Toaletna voda za ženske White Tea Ginger Lily, 30 ml",
+          "url": "https://www.dm.si/p/d/2220396/elizabeth-arden-toaletna-voda-za-zenske-white-tea-ginger-lily",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:22.881Z",
+          "currentPriceCents": 2995,
+          "currentPriceEurCents": 2995,
+          "referencePriceCents": 2995,
+          "referencePriceEurCents": 2995
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "EdT női Ginger Lily, 30 ml",
+          "url": "https://www.dm.hu/p/d/2220396/elizabeth-arden-edt-noi-ginger-lily",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:32:19.940Z",
+          "currentPriceCents": 199900,
+          "currentPriceEurCents": 550,
+          "referencePriceCents": 199900,
+          "referencePriceEurCents": 550
         }
       ]
     }

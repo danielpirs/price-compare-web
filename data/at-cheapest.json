@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T08:53:15.124Z",
+  "generatedAt": "2026-09-06T09:13:53.027Z",
   "fx": {
     "asOf": "2026-09-04",
     "rates": {
@@ -424,54 +424,6 @@
       ]
     },
     {
-      "productId": 30380,
-      "brand": "Schär",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 228.57,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Aufbackbrötchen Ciabatta  glutenfrei (4 Stück), 200 g",
-          "url": "https://www.dm.at/p/d/1196038/schaer-aufbackbroetchen-ciabatta-glutenfrei-4-stueck",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:36:41.260Z",
-          "currentPriceCents": 175,
-          "currentPriceEurCents": 175,
-          "referencePriceCents": 175,
-          "referencePriceEurCents": 175
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Aufbackbrötchen, Ciabatta (4 Stück), glutenfrei, 200 g",
-          "url": "https://www.dm.de/p/d/1196038/schaer-aufbackbroetchen-ciabatta-4-stueck-glutenfrei",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:46.590Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Gluténmentes mini bagett, 0,2 kg",
-          "url": "https://www.dm.hu/p/d/1196038/schar-glutenmentes-mini-bagett",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:33:11.663Z",
-          "currentPriceCents": 208900,
-          "currentPriceEurCents": 575,
-          "referencePriceCents": 208900,
-          "referencePriceEurCents": 575
-        }
-      ]
-    },
-    {
       "productId": 34287,
       "brand": "POLICE",
       "isCountryExtreme": true,
@@ -608,6 +560,54 @@
           "currentPriceEurCents": 4679,
           "referencePriceCents": 1699900,
           "referencePriceEurCents": 4679
+        }
+      ]
+    },
+    {
+      "productId": 30380,
+      "brand": "Schär",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 202.63,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Aufbackbrötchen Ciabatta  glutenfrei (4 Stück), 200 g",
+          "url": "https://www.dm.at/p/d/1196038/schaer-aufbackbroetchen-ciabatta-glutenfrei-4-stueck",
+          "isPromo": true,
+          "observedAt": "2026-09-05T11:49:54.175Z",
+          "currentPriceCents": 175,
+          "currentPriceEurCents": 175,
+          "referencePriceCents": 190,
+          "referencePriceEurCents": 190
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Aufbackbrötchen, Ciabatta (4 Stück), glutenfrei, 200 g",
+          "url": "https://www.dm.de/p/d/1196038/schaer-aufbackbroetchen-ciabatta-4-stueck-glutenfrei",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:46.590Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Gluténmentes mini bagett, 0,2 kg",
+          "url": "https://www.dm.hu/p/d/1196038/schar-glutenmentes-mini-bagett",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:33:11.663Z",
+          "currentPriceCents": 208900,
+          "currentPriceEurCents": 575,
+          "referencePriceCents": 208900,
+          "referencePriceEurCents": 575
         }
       ]
     },

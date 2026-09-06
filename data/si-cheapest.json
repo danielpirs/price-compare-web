@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T08:53:15.124Z",
+  "generatedAt": "2026-09-06T09:13:53.027Z",
   "fx": {
     "asOf": "2026-09-04",
     "rates": {
@@ -516,41 +516,6 @@
           "currentPriceEurCents": 1376,
           "referencePriceCents": 499900,
           "referencePriceEurCents": 1376
-        }
-      ]
-    },
-    {
-      "productId": 20989,
-      "brand": "HALLOHEBAMME",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 777.78,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Kopel za dojenčke, 200 ml",
-          "url": "https://www.dm.si/p/d/2486244/hallohebamme-kopel-za-dojencke",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:47.009Z",
-          "currentPriceCents": 45,
-          "currentPriceEurCents": 45,
-          "referencePriceCents": 45,
-          "referencePriceEurCents": 45
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Babybad Hafermilch, 200 ml",
-          "url": "https://www.dm.de/p/d/2486244/hallohebamme-babybad-hafermilch",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:57.904Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
         }
       ]
     },
@@ -1333,6 +1298,54 @@
           "currentPriceEurCents": 110,
           "referencePriceCents": 39900,
           "referencePriceEurCents": 110
+        }
+      ]
+    },
+    {
+      "productId": 21040,
+      "brand": "HALLOHEBAMME",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 555.56,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Zaščitna otroška krema za obraz, telo in predel..., 75 ml",
+          "url": "https://www.dm.si/p/d/2486241/hallohebamme-zascitna-otroska-krema-za-obraz-telo-in-predel-plenic",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:47.009Z",
+          "currentPriceCents": 45,
+          "currentPriceEurCents": 45,
+          "referencePriceCents": 45,
+          "referencePriceEurCents": 45
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Hautschutz & Pflege Creme, 75 ml",
+          "url": "https://www.dm.de/p/d/2486241/hallohebamme-hautschutz-und-pflege-creme",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:35.806Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Baba védőkrém arcra, testre és a pelenka alatti..., 75 ml",
+          "url": "https://www.dm.hu/p/d/2486241/hallohebamme-baba-vedokrem-arcra-testre-es-a-pelenka-alatti-teruletre",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:30:32.566Z",
+          "currentPriceCents": 34900,
+          "currentPriceEurCents": 96,
+          "referencePriceCents": 34900,
+          "referencePriceEurCents": 96
         }
       ]
     }
