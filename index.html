@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>PriceWatch — dm price comparison across HR/SI/AT/DE/HU</title>
+<title>Preisly — dm price comparison across HR/SI/AT/DE/HU</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -21,7 +21,6 @@
     --col-header: oklch(0.4 0.01 250);
     --green: oklch(0.52 0.15 145);
     --red: rgb(214, 69, 69);
-    --tag: oklch(0.6 0.12 55);
     --active-bg: oklch(0.94 0.02 220);
     --font: 'Public Sans', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
   }
@@ -48,7 +47,8 @@
   .pw-hamburger {
     display: none; background: none; border: none; padding: 4px; font-size: 20px; color: var(--navy);
   }
-  .pw-logo { font-weight: 800; font-size: 19px; letter-spacing: -0.02em; color: var(--navy); margin-right: auto; }
+  .pw-logo { display: inline-flex; align-items: center; margin-right: auto; }
+  .pw-logo img { display: block; height: 24px; width: auto; }
   .pw-lang-group { display: flex; align-items: center; gap: 8px; }
   .pw-lang-icon { font-size: 15px; }
   .pw-lang-buttons { display: flex; gap: 6px; }
@@ -67,11 +67,6 @@
     flex: 0 0 220px; background: #fff; border: 1px solid var(--border); border-radius: 10px;
     padding: 14px; position: sticky; top: 73px;
   }
-  .pw-nav-overview {
-    display: block; font-weight: 700; font-size: 13px; color: var(--navy);
-    padding: 7px 10px; border-radius: 6px; margin-bottom: 10px;
-  }
-  .pw-nav-overview[aria-current="page"] { background: var(--active-bg); }
   .pw-nav-country + .pw-nav-country { margin-top: 14px; }
   .pw-nav-country-label {
     font-size: 11px; font-weight: 700; letter-spacing: 0.02em; text-transform: uppercase;
@@ -82,21 +77,27 @@
     padding: 5px 10px; border-radius: 6px;
   }
   .pw-nav-link[aria-current="page"] { background: var(--active-bg); color: var(--navy); font-weight: 700; opacity: 1; }
+  .pw-nav-arrow { font-weight: 700; }
+  .pw-nav-arrow-down { color: var(--navy); }
+  .pw-nav-arrow-up { color: var(--red); }
 
   .pw-main { flex: 1 1 auto; min-width: 0; }
-  .pw-breadcrumb { font-size: 13px; font-weight: 700; color: var(--navy); margin-bottom: 10px; min-height: 18px; }
-  .pw-updated { font-size: 11.5px; color: var(--text-faint); margin-bottom: 10px; }
+  .pw-breadcrumb { font-size: 17px; font-weight: 700; color: var(--navy); margin-bottom: 14px; min-height: 21px; }
 
   .pw-state { padding: 60px 0; text-align: center; color: var(--text-muted); font-size: 14px; }
   .pw-state.error { color: var(--red); }
 
-  .pw-table { background: var(--card-bg); border: 1px solid var(--border); border-radius: 10px; overflow: hidden; }
+  /* header and body are separate boxes (not one overflow:hidden wrapper) so
+     the header can be position:sticky - overflow:hidden on an ancestor pins
+     a sticky child to that ancestor's own box instead of the viewport. */
+  .pw-table-body { background: var(--card-bg); border: 1px solid var(--border); border-top: none; border-radius: 0 0 10px 10px; overflow: hidden; }
 
   .pw-table-header {
     display: grid; grid-template-columns: minmax(180px, 2fr) repeat(5, 1fr);
     gap: 10px; padding: 12px 18px; font-size: 14px; font-weight: 700; letter-spacing: 0.02em;
     text-transform: uppercase; color: var(--col-header); background: var(--page-bg);
-    border-bottom: 1px solid var(--border);
+    border: 1px solid var(--border); border-radius: 10px 10px 0 0;
+    position: sticky; top: 56px; z-index: 20;
   }
   .pw-table-header .pw-col-country { display: flex; align-items: center; justify-content: center; gap: 6px; text-align: center; }
   .pw-table-header .pw-col-flag { font-size: 18px; }
@@ -123,10 +124,11 @@
   .pw-cell-country[data-extreme="max"] .pw-price { color: var(--red); font-weight: 700; }
   .pw-dash { color: oklch(0.78 0.006 250); font-size: 13px; }
 
-  .pw-promo-tag { position: absolute; width: 15px; height: 10px; right: -15px; top: -5px; transform: rotate(-45deg); }
-  .pw-promo-tag .body { position: absolute; inset: 0; background: var(--tag); clip-path: polygon(0% 50%, 35% 0%, 100% 0%, 100% 100%, 35% 100%); }
-  .pw-promo-tag .inner { position: absolute; inset: 1px; background: #fff; clip-path: polygon(0% 50%, 38% 8%, 100% 8%, 100% 92%, 38% 92%); }
-  .pw-promo-tag .hole { position: absolute; left: 22%; top: 50%; width: 2.5px; height: 2.5px; border-radius: 50%; background: var(--tag); transform: translate(-50%, -50%); }
+  .pw-promo-tag {
+    position: absolute; right: -15px; top: -5px; width: 13px; height: 13px; border-radius: 50%;
+    background: var(--red); color: #fff; font-size: 8px; font-weight: 800; line-height: 1;
+    display: flex; align-items: center; justify-content: center;
+  }
 
   .pw-tooltip {
     position: fixed; z-index: 100; background: #fff; border: 1px solid var(--border); border-radius: 6px;
@@ -144,7 +146,7 @@
   @media (max-width: 767px) {
     .pw-hamburger { display: block; }
     .pw-header-inner { padding: 12px 14px; gap: 8px; }
-    .pw-logo { font-size: 16px; margin-right: auto; }
+    .pw-logo img { height: 19px; }
     .pw-lang-icon { display: none; }
     .pw-lang-buttons { gap: 2px; }
     .pw-lang-btn { padding: 3px 4px; font-size: 15px; }
@@ -160,7 +162,7 @@
     }
 
     .pw-table-header { display: none; }
-    .pw-table { background: transparent; border: none; border-radius: 0; }
+    .pw-table-body { background: transparent; border: none; border-radius: 0; overflow: visible; }
 
     .pw-row {
       display: block; background: #fff; border: 1px solid var(--border); border-radius: 10px;
@@ -170,7 +172,7 @@
     .pw-countries { display: grid; grid-template-columns: repeat(5, 1fr); gap: 6px; }
     .pw-cell-flag { display: block; font-size: 13px; }
     .pw-price { font-size: 12px; }
-    .pw-promo-tag { right: auto; left: 50%; top: 100%; transform: translateX(-50%) rotate(45deg); }
+    .pw-promo-tag { right: auto; left: 50%; top: 100%; transform: translateX(-50%); }
   }
 </style>
 </head>
@@ -178,7 +180,7 @@
 <header class="pw-header">
   <div class="pw-header-inner">
     <button class="pw-hamburger" id="hamburgerBtn" aria-label="Menu" aria-expanded="false">☰</button>
-    <a class="pw-logo" href="#/">PRICEWATCH</a>
+    <a class="pw-logo" href="#/"><img src="preisly-logo.png" alt="Preisly"></a>
     <div class="pw-lang-group" role="group" id="langLabel">
       <span class="pw-lang-icon" aria-hidden="true">🌐</span>
       <div class="pw-lang-buttons" id="langButtons"></div>
@@ -192,7 +194,6 @@
   <nav class="pw-sidebar" id="sidebar"></nav>
   <main class="pw-main">
     <div class="pw-breadcrumb" id="breadcrumb"></div>
-    <div class="pw-updated" id="updated" hidden></div>
     <div id="content"></div>
   </main>
 </div>
@@ -230,52 +231,68 @@
 
   var I18N = {
     hr: {
-      overview: 'Pregled', product: 'Proizvod',
+      product: 'Proizvod',
       cheapestHere: 'Najjeftinije', mostExpensiveHere: 'Najskuplje',
       loading: 'Učitavanje…', error: 'Podatke trenutno nije moguće učitati.',
-      updated: 'Ažurirano', langLabel: 'Jezik',
+      langLabel: 'Jezik',
       lastSeen: 'Zadnje viđeno', promoPrice: 'Akcijska cijena',
       aboutHeading: 'O ovim podacima',
       aboutBody: 'Osobni, neprofitni projekt. Cijene se prikupljaju periodično s javnih stranica proizvoda i možda ne odražavaju trenutnu cijenu u trgovini. Nije povezano s dm-om ni bilo kojim prikazanim trgovcem. Iznosi su preračunati u EUR samo za rangiranje/prikaz, prema dnevnom tečaju ECB-a.',
       ownerHeading: 'Vlasnik stranice',
       ownerLine: '[Ime vlasnika], Hrvatska · kontakt: [placeholder@example.com]',
       countries: { HR: 'Hrvatska', SI: 'Slovenija', AT: 'Austrija', DE: 'Njemačka', HU: 'Mađarska' },
+      countriesIn: { HR: 'u Hrvatskoj', SI: 'u Sloveniji', AT: 'u Austriji', DE: 'u Njemačkoj', HU: 'u Mađarskoj' },
+      heading: function (kind, inCountry) {
+        return 'Lista ' + (kind === 'cheapest' ? 'najjeftinijih' : 'najskupljih') + ' proizvoda ' + inCountry;
+      },
     },
     sl: {
-      overview: 'Pregled', product: 'Izdelek',
+      product: 'Izdelek',
       cheapestHere: 'Najcenejše', mostExpensiveHere: 'Najdražje',
       loading: 'Nalaganje…', error: 'Podatkov trenutno ni mogoče naložiti.',
-      updated: 'Posodobljeno', langLabel: 'Jezik',
+      langLabel: 'Jezik',
       lastSeen: 'Nazadnje videno', promoPrice: 'Akcijska cena',
       aboutHeading: 'O teh podatkih',
       aboutBody: 'Osebni, neprofitni projekt. Cene se zbirajo občasno z javnih strani izdelkov in morda ne odražajo trenutne cene v trgovini. Ni povezano z dm ali katerim koli prikazanim trgovcem. Zneski so preračunani v EUR samo za razvrščanje/prikaz, po dnevnem tečaju ECB.',
       ownerHeading: 'Lastnik strani',
       ownerLine: '[Ime lastnika], Hrvaška · kontakt: [placeholder@example.com]',
       countries: { HR: 'Hrvaška', SI: 'Slovenija', AT: 'Avstrija', DE: 'Nemčija', HU: 'Madžarska' },
+      countriesIn: { HR: 'na Hrvaškem', SI: 'v Sloveniji', AT: 'v Avstriji', DE: 'v Nemčiji', HU: 'na Madžarskem' },
+      heading: function (kind, inCountry) {
+        return 'Seznam ' + (kind === 'cheapest' ? 'najcenejših' : 'najdražjih') + ' izdelkov ' + inCountry;
+      },
     },
     de: {
-      overview: 'Übersicht', product: 'Produkt',
+      product: 'Produkt',
       cheapestHere: 'Am günstigsten', mostExpensiveHere: 'Am teuersten',
       loading: 'Wird geladen…', error: 'Daten können derzeit nicht geladen werden.',
-      updated: 'Aktualisiert', langLabel: 'Sprache',
+      langLabel: 'Sprache',
       lastSeen: 'Zuletzt gesehen', promoPrice: 'Aktionspreis',
       aboutHeading: 'Über diese Daten',
       aboutBody: 'Persönliches, nicht-kommerzielles Projekt. Die Preise werden periodisch von öffentlichen Produktseiten erfasst und spiegeln möglicherweise nicht den aktuellen Preis im Geschäft wider. Nicht verbunden mit dm oder einem der angezeigten Händler. Beträge werden nur zu Rangierungs-/Anzeigezwecken anhand des täglichen EZB-Referenzkurses in EUR umgerechnet.',
       ownerHeading: 'Seitenbetreiber',
       ownerLine: '[Name des Betreibers], Kroatien · Kontakt: [placeholder@example.com]',
       countries: { HR: 'Kroatien', SI: 'Slowenien', AT: 'Österreich', DE: 'Deutschland', HU: 'Ungarn' },
+      countriesIn: { HR: 'in Kroatien', SI: 'in Slowenien', AT: 'in Österreich', DE: 'in Deutschland', HU: 'in Ungarn' },
+      heading: function (kind, inCountry) {
+        return 'Liste der ' + (kind === 'cheapest' ? 'günstigsten' : 'teuersten') + ' Produkte ' + inCountry;
+      },
     },
     hu: {
-      overview: 'Áttekintés', product: 'Termék',
+      product: 'Termék',
       cheapestHere: 'Legolcsóbb', mostExpensiveHere: 'Legdrágább',
       loading: 'Betöltés…', error: 'Az adatok jelenleg nem tölthetők be.',
-      updated: 'Frissítve', langLabel: 'Nyelv',
+      langLabel: 'Nyelv',
       lastSeen: 'Utoljára látva', promoPrice: 'Akciós ár',
       aboutHeading: 'Az adatokról',
       aboutBody: 'Személyes, nonprofit projekt. Az árakat időszakosan gyűjtjük a nyilvános termékoldalakról, és előfordulhat, hogy nem tükrözik az üzletben aktuálisan érvényes árat. Nem áll kapcsolatban a dm-mel vagy a feltüntetett kereskedőkkel. Az összegeket kizárólag a rangsoroláshoz/megjelenítéshez számítottuk át euróra, az EKB napi árfolyama szerint.',
       ownerHeading: 'Az oldal tulajdonosa',
       ownerLine: '[Tulajdonos neve], Horvátország · kapcsolat: [placeholder@example.com]',
       countries: { HR: 'Horvátország', SI: 'Szlovénia', AT: 'Ausztria', DE: 'Németország', HU: 'Magyarország' },
+      countriesIn: { HR: 'Horvátországban', SI: 'Szlovéniában', AT: 'Ausztriában', DE: 'Németországban', HU: 'Magyarországon' },
+      heading: function (kind, inCountry) {
+        return 'A ' + (kind === 'cheapest' ? 'legolcsóbb' : 'legdrágább') + ' termékek listája ' + inCountry;
+      },
     },
   };
 
@@ -304,22 +321,19 @@
     lang: detectLang(),
     route: parseHash(),
     items: null,
-    generatedAt: null,
     loading: true,
     error: null,
   };
 
+  // no overview/landing page - any unrecognised hash (including the bare
+  // "#/" a fresh visit lands on) defaults to HR cheapest.
   function parseHash() {
     var h = location.hash.replace(/^#\/?/, '');
     var parts = h.split('/').filter(Boolean);
     if (parts.length === 2 && COUNTRY_ORDER.indexOf(parts[0].toUpperCase()) !== -1 && KINDS.indexOf(parts[1]) !== -1) {
       return { view: 'country', cc: parts[0].toUpperCase(), kind: parts[1] };
     }
-    return { view: 'overview' };
-  }
-
-  function routeHash(route) {
-    return route.view === 'overview' ? '#/' : '#/' + route.cc + '/' + route.kind;
+    return { view: 'country', cc: 'HR', kind: 'cheapest' };
   }
 
   function formatPrice(eurCents) {
@@ -375,37 +389,14 @@
 
   // ---------- data loading per route ----------
 
-  function loadOverview() {
-    var files = [];
-    COUNTRY_ORDER.forEach(function (cc) {
-      KINDS.forEach(function (kind) {
-        files.push(fetchJson('data/' + cc.toLowerCase() + '-' + kind + '.json'));
-      });
-    });
-    return Promise.all(files).then(function (docs) {
-      var best = {};
-      var generatedAt = null;
-      docs.forEach(function (doc) {
-        if (!generatedAt || doc.generatedAt > generatedAt) generatedAt = doc.generatedAt;
-        doc.items.forEach(function (it) {
-          var prev = best[it.productId];
-          if (!prev || it.overallPercentDiff > prev.overallPercentDiff) best[it.productId] = it;
-        });
-      });
-      var items = Object.keys(best).map(function (k) { return best[k]; });
-      items.sort(function (a, b) { return b.overallPercentDiff - a.overallPercentDiff; });
-      return { items: items, generatedAt: generatedAt };
-    });
-  }
-
   function loadCountry(cc, kind) {
     return fetchJson('data/' + cc.toLowerCase() + '-' + kind + '.json').then(function (doc) {
-      return { items: doc.items, generatedAt: doc.generatedAt };
+      return { items: doc.items };
     });
   }
 
   function loadRoute(route) {
-    return route.view === 'overview' ? loadOverview() : loadCountry(route.cc, route.kind);
+    return loadCountry(route.cc, route.kind);
   }
 
   // ---------- rendering ----------
@@ -432,12 +423,12 @@
   function renderSidebar() {
     var t = T();
     var route = state.route;
-    var html = '<a class="pw-nav-overview" href="#/"' + (route.view === 'overview' ? ' aria-current="page"' : '') + '>' + esc(t.overview) + '</a>';
+    var html = '';
     COUNTRY_ORDER.forEach(function (cc) {
       html += '<div class="pw-nav-country">' +
         '<div class="pw-nav-country-label">' + FLAGS[cc] + ' ' + esc(t.countries[cc]) + '</div>' +
-        '<a class="pw-nav-link" href="#/' + cc + '/cheapest"' + (route.view === 'country' && route.cc === cc && route.kind === 'cheapest' ? ' aria-current="page"' : '') + '>↓ ' + esc(t.cheapestHere) + '</a>' +
-        '<a class="pw-nav-link" href="#/' + cc + '/most-expensive"' + (route.view === 'country' && route.cc === cc && route.kind === 'most-expensive' ? ' aria-current="page"' : '') + '>↑ ' + esc(t.mostExpensiveHere) + '</a>' +
+        '<a class="pw-nav-link" href="#/' + cc + '/cheapest"' + (route.view === 'country' && route.cc === cc && route.kind === 'cheapest' ? ' aria-current="page"' : '') + '><span class="pw-nav-arrow pw-nav-arrow-down">↓</span> ' + esc(t.cheapestHere) + '</a>' +
+        '<a class="pw-nav-link" href="#/' + cc + '/most-expensive"' + (route.view === 'country' && route.cc === cc && route.kind === 'most-expensive' ? ' aria-current="page"' : '') + '><span class="pw-nav-arrow pw-nav-arrow-up">↑</span> ' + esc(t.mostExpensiveHere) + '</a>' +
         '</div>';
     });
     document.getElementById('sidebar').innerHTML = html;
@@ -447,19 +438,7 @@
     var t = T();
     var route = state.route;
     var el = document.getElementById('breadcrumb');
-    if (route.view === 'country') {
-      var kindLabel = route.kind === 'cheapest' ? t.cheapestHere : t.mostExpensiveHere;
-      el.textContent = t.countries[route.cc] + ' — ' + kindLabel;
-    } else {
-      el.textContent = '';
-    }
-    var updEl = document.getElementById('updated');
-    if (state.generatedAt) {
-      updEl.hidden = false;
-      updEl.textContent = t.updated + ': ' + formatDate(state.generatedAt);
-    } else {
-      updEl.hidden = true;
-    }
+    el.textContent = t.heading(route.kind, t.countriesIn[route.cc]);
   }
 
   function renderFooter() {
@@ -479,7 +458,7 @@
   }
 
   function priceTagHtml() {
-    return '<span class="pw-promo-tag" aria-hidden="true"><span class="body"></span><span class="inner"></span><span class="hole"></span></span>';
+    return '<span class="pw-promo-tag" aria-hidden="true">%</span>';
   }
 
   function countryCellHtml(item, cc) {
@@ -545,13 +524,11 @@
       return;
     }
 
-    var html = '<div class="pw-table">' +
-      '<div class="pw-table-header">' +
-      '<div>' + esc(t.product) + '</div>';
+    var html = '<div class="pw-table-header"><div>' + esc(t.product) + '</div>';
     COUNTRY_ORDER.forEach(function (cc) {
       html += '<div class="pw-col-country" title="' + esc(t.countries[cc]) + '"><span class="pw-col-flag">' + FLAGS[cc] + '</span><span>' + cc + '</span></div>';
     });
-    html += '</div>';
+    html += '</div><div class="pw-table-body">';
     state.items.forEach(function (item, idx) { html += rowHtml(item, idx); });
     html += '</div>';
 
@@ -568,7 +545,6 @@
     loadRoute(route).then(function (result) {
       if (state.route !== route) return; // a newer navigation started
       state.items = result.items;
-      state.generatedAt = result.generatedAt;
       state.loading = false;
       renderBreadcrumb();
       renderContent();
