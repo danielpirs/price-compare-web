@@ -138,9 +138,9 @@
   .pw-tooltip[hidden] { display: none; }
 
   /* ---------- footer ---------- */
-  .pw-footer { max-width: 1180px; margin: 0 auto; padding: 8px 24px 60px; }
-  .pw-footer h3 { font-size: 13px; color: var(--navy); margin: 22px 0 6px; }
-  .pw-footer p { font-size: 12.5px; line-height: 20px; color: var(--text-body); margin: 0; max-width: 640px; }
+  .pw-footer { max-width: 1180px; margin: 0 auto; padding: 8px 24px 40px; }
+  .pw-footer a { font-size: 12.5px; font-weight: 600; color: var(--text-muted); }
+  .pw-footer a:hover { color: var(--navy); }
 
   /* ---------- mobile ---------- */
   @media (max-width: 767px) {
@@ -201,10 +201,7 @@
 <div class="pw-tooltip" id="tooltip" hidden></div>
 
 <footer class="pw-footer">
-  <h3 id="aboutHeading"></h3>
-  <p id="aboutBody"></p>
-  <h3 id="ownerHeading"></h3>
-  <p id="ownerLine"></p>
+  <a id="legalLink" href="legal.html"></a>
 </footer>
 
 <script>
@@ -236,10 +233,7 @@
       loading: 'Učitavanje…', error: 'Podatke trenutno nije moguće učitati.',
       langLabel: 'Jezik',
       lastSeen: 'Zadnje viđeno', promoPrice: 'Akcijska cijena',
-      aboutHeading: 'O ovim podacima',
-      aboutBody: 'Osobni, neprofitni projekt. Cijene se prikupljaju periodično s javnih stranica proizvoda i možda ne odražavaju trenutnu cijenu u trgovini. Nije povezano s dm-om ni bilo kojim prikazanim trgovcem. Iznosi su preračunati u EUR samo za rangiranje/prikaz, prema dnevnom tečaju ECB-a.',
-      ownerHeading: 'Vlasnik stranice',
-      ownerLine: '[Ime vlasnika], Hrvatska · kontakt: [placeholder@example.com]',
+      legalLink: 'Pravne napomene',
       countries: { HR: 'Hrvatska', SI: 'Slovenija', AT: 'Austrija', DE: 'Njemačka', HU: 'Mađarska' },
       countriesIn: { HR: 'u Hrvatskoj', SI: 'u Sloveniji', AT: 'u Austriji', DE: 'u Njemačkoj', HU: 'u Mađarskoj' },
       heading: function (kind, inCountry) {
@@ -252,10 +246,7 @@
       loading: 'Nalaganje…', error: 'Podatkov trenutno ni mogoče naložiti.',
       langLabel: 'Jezik',
       lastSeen: 'Nazadnje videno', promoPrice: 'Akcijska cena',
-      aboutHeading: 'O teh podatkih',
-      aboutBody: 'Osebni, neprofitni projekt. Cene se zbirajo občasno z javnih strani izdelkov in morda ne odražajo trenutne cene v trgovini. Ni povezano z dm ali katerim koli prikazanim trgovcem. Zneski so preračunani v EUR samo za razvrščanje/prikaz, po dnevnem tečaju ECB.',
-      ownerHeading: 'Lastnik strani',
-      ownerLine: '[Ime lastnika], Hrvaška · kontakt: [placeholder@example.com]',
+      legalLink: 'Pravna obvestila',
       countries: { HR: 'Hrvaška', SI: 'Slovenija', AT: 'Avstrija', DE: 'Nemčija', HU: 'Madžarska' },
       countriesIn: { HR: 'na Hrvaškem', SI: 'v Sloveniji', AT: 'v Avstriji', DE: 'v Nemčiji', HU: 'na Madžarskem' },
       heading: function (kind, inCountry) {
@@ -268,10 +259,7 @@
       loading: 'Wird geladen…', error: 'Daten können derzeit nicht geladen werden.',
       langLabel: 'Sprache',
       lastSeen: 'Zuletzt gesehen', promoPrice: 'Aktionspreis',
-      aboutHeading: 'Über diese Daten',
-      aboutBody: 'Persönliches, nicht-kommerzielles Projekt. Die Preise werden periodisch von öffentlichen Produktseiten erfasst und spiegeln möglicherweise nicht den aktuellen Preis im Geschäft wider. Nicht verbunden mit dm oder einem der angezeigten Händler. Beträge werden nur zu Rangierungs-/Anzeigezwecken anhand des täglichen EZB-Referenzkurses in EUR umgerechnet.',
-      ownerHeading: 'Seitenbetreiber',
-      ownerLine: '[Name des Betreibers], Kroatien · Kontakt: [placeholder@example.com]',
+      legalLink: 'Rechtliche Hinweise',
       countries: { HR: 'Kroatien', SI: 'Slowenien', AT: 'Österreich', DE: 'Deutschland', HU: 'Ungarn' },
       countriesIn: { HR: 'in Kroatien', SI: 'in Slowenien', AT: 'in Österreich', DE: 'in Deutschland', HU: 'in Ungarn' },
       heading: function (kind, inCountry) {
@@ -284,10 +272,7 @@
       loading: 'Betöltés…', error: 'Az adatok jelenleg nem tölthetők be.',
       langLabel: 'Nyelv',
       lastSeen: 'Utoljára látva', promoPrice: 'Akciós ár',
-      aboutHeading: 'Az adatokról',
-      aboutBody: 'Személyes, nonprofit projekt. Az árakat időszakosan gyűjtjük a nyilvános termékoldalakról, és előfordulhat, hogy nem tükrözik az üzletben aktuálisan érvényes árat. Nem áll kapcsolatban a dm-mel vagy a feltüntetett kereskedőkkel. Az összegeket kizárólag a rangsoroláshoz/megjelenítéshez számítottuk át euróra, az EKB napi árfolyama szerint.',
-      ownerHeading: 'Az oldal tulajdonosa',
-      ownerLine: '[Tulajdonos neve], Horvátország · kapcsolat: [placeholder@example.com]',
+      legalLink: 'Jogi közlemények',
       countries: { HR: 'Horvátország', SI: 'Szlovénia', AT: 'Ausztria', DE: 'Németország', HU: 'Magyarország' },
       countriesIn: { HR: 'Horvátországban', SI: 'Szlovéniában', AT: 'Ausztriában', DE: 'Németországban', HU: 'Magyarországon' },
       heading: function (kind, inCountry) {
@@ -444,10 +429,11 @@
   function renderFooter() {
     var t = T();
     document.documentElement.lang = state.lang;
-    document.getElementById('aboutHeading').textContent = t.aboutHeading;
-    document.getElementById('aboutBody').textContent = t.aboutBody;
-    document.getElementById('ownerHeading').textContent = t.ownerHeading;
-    document.getElementById('ownerLine').textContent = t.ownerLine;
+    var legalLink = document.getElementById('legalLink');
+    legalLink.textContent = t.legalLink;
+    // the legal page itself only has hr/en content - hr shows Croatian,
+    // every other UI language shows the English version.
+    legalLink.href = 'legal.html?lang=' + (state.lang === 'hr' ? 'hr' : 'en');
   }
 
   function renderChrome() {

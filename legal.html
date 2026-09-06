@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Preisly — Pravne napomene / Legal notices</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --navy: #0a3d62;
+    --page-bg: oklch(0.98 0.004 250);
+    --border: oklch(0.9 0.006 250);
+    --text: oklch(0.2 0.01 250);
+    --text-muted: oklch(0.52 0.01 250);
+    --text-body: oklch(0.4 0.01 250);
+    --active-bg: oklch(0.94 0.02 220);
+    --font: 'Public Sans', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; }
+  body { background: var(--page-bg); color: var(--text); font-family: var(--font); -webkit-font-smoothing: antialiased; }
+  a { color: var(--navy); }
+
+  .pw-header { position: sticky; top: 0; z-index: 10; background: #fff; border-bottom: 1px solid var(--border); }
+  .pw-header-inner { max-width: 1180px; margin: 0 auto; padding: 14px 24px; display: flex; align-items: center; gap: 16px; }
+  .pw-logo img { display: block; height: 24px; width: auto; }
+  .lang-toggle { margin-left: auto; display: flex; gap: 6px; }
+  .lang-toggle button {
+    font-family: inherit; cursor: pointer; background: transparent; border: 1px solid transparent;
+    border-radius: 6px; padding: 4px 7px; font-size: 17px; line-height: 1;
+  }
+  .lang-toggle button[aria-pressed="true"] { border-color: var(--navy); }
+
+  main { max-width: 720px; margin: 0 auto; padding: 32px 24px 64px; }
+  h1 { font-size: 22px; color: var(--navy); margin: 0 0 6px; }
+  .subtitle { font-size: 13px; color: var(--text-muted); margin: 0 0 32px; }
+  h2 { font-size: 16px; color: var(--navy); margin: 32px 0 10px; }
+  p { font-size: 14px; line-height: 22px; color: var(--text-body); margin: 0 0 14px; }
+  .back-link { display: inline-block; margin-top: 36px; font-size: 13px; font-weight: 600; }
+  [hidden] { display: none !important; }
+</style>
+</head>
+<body>
+<header class="pw-header">
+  <div class="pw-header-inner">
+    <a class="pw-logo" href="index.html"><img src="preisly-logo.png" alt="Preisly"></a>
+    <div class="lang-toggle" role="group" aria-label="Language">
+      <button type="button" data-lang="hr" title="Hrvatski">🇭🇷</button>
+      <button type="button" data-lang="en" title="English">🇬🇧</button>
+    </div>
+  </div>
+</header>
+
+<main>
+  <div data-lang-block="hr">
+    <h1>Pravne napomene</h1>
+    <p class="subtitle">Odricanje od odgovornosti i politika privatnosti.</p>
+
+    <h2>Odricanje od odgovornosti</h2>
+    <p>Preisly.eu je osobni, neprofitni projekt jedne fizičke osobe, nastao iz hobija - ne radi se o internetskoj trgovini niti komercijalnoj usluzi.</p>
+    <p>Cijene i podaci o proizvodima prikupljaju se periodično (ne u stvarnom vremenu) s javno dostupnih stranica trgovačkih lanaca te mogu biti zastarjeli, netočni ili se razlikovati od stvarne cijene u trgovini ili na internetskoj stranici trgovca u trenutku kupnje. Uvijek provjerite cijenu na službenoj stranici trgovca prije donošenja odluke o kupnji.</p>
+    <p>Ova stranica nije povezana s, ne podržava je niti je sponzorira bilo koji spomenuti trgovac. Svi nazivi trgovaca, proizvoda i zaštitni znakovi vlasništvo su njihovih vlasnika i koriste se isključivo u informativne, referentne svrhe.</p>
+    <p>Autor stranice ne odgovara za bilo kakvu štetu, izravnu ili neizravnu, nastalu korištenjem podataka s ove stranice ili oslanjanjem na njih.</p>
+    <p>Kontakt: <a href="mailto:contact@preisly.eu">contact@preisly.eu</a></p>
+
+    <h2>Politika privatnosti</h2>
+    <p>Ova stranica ne koristi kolačiće (cookies).</p>
+
+    <a class="back-link" href="index.html">← Natrag</a>
+  </div>
+
+  <div data-lang-block="en" hidden>
+    <h1>Legal notices</h1>
+    <p class="subtitle">Disclaimer and privacy policy.</p>
+
+    <h2>Disclaimer</h2>
+    <p>Preisly.eu is a personal, non-commercial hobby project run by a single private individual - not an online store or a commercial service.</p>
+    <p>Prices and product data are collected periodically (not in real time) from the tracked retail chains' own public web pages, and may be outdated, inaccurate, or differ from the actual price in-store or on the retailer's own website at the time of purchase. Always check the price on the retailer's official page before making a purchase decision.</p>
+    <p>This site is not affiliated with, endorsed by, or sponsored by any retailer mentioned. All retailer names, product names and trademarks belong to their respective owners and are used solely for informational, referential purposes.</p>
+    <p>The site's author accepts no liability for any damage, direct or indirect, arising from the use of or reliance on the data provided here.</p>
+    <p>Contact: <a href="mailto:contact@preisly.eu">contact@preisly.eu</a></p>
+
+    <h2>Privacy policy</h2>
+    <p>This site does not use cookies.</p>
+
+    <a class="back-link" href="index.html">← Back</a>
+  </div>
+</main>
+
+<script>
+(function () {
+  'use strict';
+  function resolveLang() {
+    var params = new URLSearchParams(location.search);
+    var q = params.get('lang');
+    if (q === 'hr') return 'hr';
+    if (q) return 'en';
+    var stored = null;
+    try { stored = localStorage.getItem('pw-lang'); } catch (e) {}
+    if (stored === 'hr') return 'hr';
+    if (stored) return 'en';
+    return 'hr';
+  }
+  function applyLang(lang) {
+    document.querySelectorAll('[data-lang-block]').forEach(function (el) {
+      el.hidden = el.getAttribute('data-lang-block') !== lang;
+    });
+    document.querySelectorAll('.lang-toggle button').forEach(function (b) {
+      b.setAttribute('aria-pressed', String(b.dataset.lang === lang));
+    });
+    document.documentElement.lang = lang;
+  }
+  applyLang(resolveLang());
+  document.querySelectorAll('.lang-toggle button').forEach(function (b) {
+    b.addEventListener('click', function () { applyLang(b.dataset.lang); });
+  });
+})();
+</script>
+</body>
+</html>
