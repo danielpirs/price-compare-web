@@ -4,7 +4,7 @@
 // browser - see legal.js.
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { resolveLang } from '../../legal.js';
+import { resolveLang } from '../../docs/legal.js';
 
 test('resolveLang: explicit ?lang=hr wins regardless of storage', () => {
   assert.equal(resolveLang('?lang=hr', 'en'), 'hr');

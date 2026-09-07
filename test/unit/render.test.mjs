@@ -18,7 +18,7 @@ import {
   rowHtml,
   COUNTRY_ORDER,
   I18N,
-} from '../../render.js';
+} from '../../docs/render.js';
 
 test('formatPrice', () => {
   assert.equal(formatPrice(null), '—');
