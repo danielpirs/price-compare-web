@@ -40,3 +40,11 @@ test('the toggle buttons switch the visible language', async ({ page }) => {
   await page.locator('.lang-toggle button[data-lang="hr"]').click();
   await expect(visibleHeading(page)).toHaveText('Pravne napomene');
 });
+
+test('the logo image actually loads (not just a well-formed src attribute)', async ({ page }) => {
+  await page.goto('/legal.html');
+  const logo = page.locator('.pw-logo img');
+  await expect(logo).toHaveJSProperty('complete', true);
+  const naturalWidth = await logo.evaluate((img) => img.naturalWidth);
+  expect(naturalWidth).toBeGreaterThan(0);
+});

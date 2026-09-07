@@ -87,3 +87,23 @@ test('a HUF listing shows a EUR-converted table price with the native amount in 
   await huCell.locator('.pw-price-link').hover();
   await expect(page.locator('#tooltip')).toContainText('Ft');
 });
+
+test('the logo image actually loads (not just a well-formed src attribute)', async ({ page }) => {
+  // A relative asset path can be well-formed HTML and still 404 - e.g. after
+  // moving files without updating every reference (see docs/ restructure).
+  // toContainText/DOM-shape assertions elsewhere wouldn't catch that; only
+  // checking the image actually decoded does.
+  await gotoWithFixture(page, '#/HR/cheapest');
+  const logo = page.locator('.pw-logo img');
+  await expect(logo).toHaveJSProperty('complete', true);
+  const naturalWidth = await logo.evaluate((img) => img.naturalWidth);
+  expect(naturalWidth).toBeGreaterThan(0);
+});
+
+test('the Habsburg flag image (the "de" language switcher icon) also loads', async ({ page }) => {
+  await gotoWithFixture(page, '#/HR/cheapest');
+  const flagImg = page.locator('.pw-lang-btn[data-lang="de"] img.pw-flag-habsburg');
+  await expect(flagImg).toHaveJSProperty('complete', true);
+  const naturalWidth = await flagImg.evaluate((img) => img.naturalWidth);
+  expect(naturalWidth).toBeGreaterThan(0);
+});
