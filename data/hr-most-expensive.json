@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T09:13:53.027Z",
+  "generatedAt": "2026-09-07T10:01:20.159Z",
   "fx": {
     "asOf": "2026-09-04",
     "rates": {
@@ -39,67 +39,6 @@
   "countryCode": "HR",
   "kind": "most-expensive",
   "items": [
-    {
-      "productId": 11484,
-      "brand": "SUNDANCE",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 2103.7,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Teint koncentrat za samotamnjenje, 30 ml",
-          "url": "https://www.dm.hr/p/d/1535658/sundance-teint-koncentrat-za-samotamnjenje",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:08.143Z",
-          "currentPriceCents": 595,
-          "currentPriceEurCents": 595,
-          "referencePriceCents": 595,
-          "referencePriceEurCents": 595
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Selbstbräunerkonzentrat Teint, 30 ml",
-          "url": "https://www.dm.at/p/d/1535658/sundance-selbstbraeunerkonzentrat-teint",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:59.459Z",
-          "currentPriceCents": 595,
-          "currentPriceEurCents": 595,
-          "referencePriceCents": 595,
-          "referencePriceEurCents": 595
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Selbstbräuner Konzentrat TEINT, 30 ml",
-          "url": "https://www.dm.de/p/d/1535658/sundance-selbstbraeuner-konzentrat-teint",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:41.117Z",
-          "currentPriceCents": 525,
-          "currentPriceEurCents": 525,
-          "referencePriceCents": 525,
-          "referencePriceEurCents": 525
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Önbarnító koncentrátum Teint, 30 ml",
-          "url": "https://www.dm.hu/p/d/1535658/sundance-onbarnito-koncentratum-teint",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:57.806Z",
-          "currentPriceCents": 9900,
-          "currentPriceEurCents": 27,
-          "referencePriceCents": 9900,
-          "referencePriceEurCents": 27
-        }
-      ]
-    },
     {
       "productId": 9014,
       "brand": "HALLOHEBAMME",
@@ -158,6 +97,67 @@
           "currentPriceEurCents": 27,
           "referencePriceCents": 9900,
           "referencePriceEurCents": 27
+        }
+      ]
+    },
+    {
+      "productId": 11484,
+      "brand": "SUNDANCE",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 981.82,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Teint koncentrat za samotamnjenje, 30 ml",
+          "url": "https://www.dm.hr/p/d/1535658/sundance-teint-koncentrat-za-samotamnjenje",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:08.143Z",
+          "currentPriceCents": 595,
+          "currentPriceEurCents": 595,
+          "referencePriceCents": 595,
+          "referencePriceEurCents": 595
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Selbstbräunerkonzentrat Teint, 30 ml",
+          "url": "https://www.dm.at/p/d/1535658/sundance-selbstbraeunerkonzentrat-teint",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:59.459Z",
+          "currentPriceCents": 595,
+          "currentPriceEurCents": 595,
+          "referencePriceCents": 595,
+          "referencePriceEurCents": 595
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Selbstbräuner Konzentrat TEINT, 30 ml",
+          "url": "https://www.dm.de/p/d/1535658/sundance-selbstbraeuner-konzentrat-teint",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:41.117Z",
+          "currentPriceCents": 525,
+          "currentPriceEurCents": 525,
+          "referencePriceCents": 525,
+          "referencePriceEurCents": 525
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Önbarnító koncentrátum Teint, 30 ml",
+          "url": "https://www.dm.hu/p/d/1535658/sundance-onbarnito-koncentratum-teint",
+          "isPromo": true,
+          "observedAt": "2026-09-06T12:08:10.605Z",
+          "currentPriceCents": 9900,
+          "currentPriceEurCents": 27,
+          "referencePriceCents": 19900,
+          "referencePriceEurCents": 55
         }
       ]
     },
@@ -1175,41 +1175,6 @@
       ]
     },
     {
-      "productId": 950,
-      "brand": "REVOLUTION",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 400,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Fluffy Brow Duo olovka za obrve – Ash Brown, 1 kom.",
-          "url": "https://www.dm.hr/p/d/2291142/revolution-fluffy-brow-duo-olovka-za-obrve-ash-brown",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:48:45.473Z",
-          "currentPriceCents": 495,
-          "currentPriceEurCents": 495,
-          "referencePriceCents": 495,
-          "referencePriceEurCents": 495
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Svinčnik za obrvi 2 v 1 Fuffy Brow Filter Ash..., 0,12 g",
-          "url": "https://www.dm.si/p/d/2291142/revolution-svincnik-za-obrvi-2-v-1-fuffy-brow-filter-ash-brown",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:27.316Z",
-          "currentPriceCents": 99,
-          "currentPriceEurCents": 99,
-          "referencePriceCents": 99,
-          "referencePriceEurCents": 99
-        }
-      ]
-    },
-    {
       "productId": 7203,
       "brand": "proteini.si",
       "isCountryExtreme": true,
@@ -1346,6 +1311,54 @@
           "currentPriceEurCents": 289,
           "referencePriceCents": 104900,
           "referencePriceEurCents": 289
+        }
+      ]
+    },
+    {
+      "productId": 10619,
+      "brand": "Dove",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 357.32,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "advanced Care dezodorans u spreju helps smooth, 150 ml",
+          "url": "https://www.dm.hr/p/d/2029329/dove-advanced-care-dezodorans-u-spreju-helps-smooth",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:03.491Z",
+          "currentPriceCents": 375,
+          "currentPriceEurCents": 375,
+          "referencePriceCents": 375,
+          "referencePriceEurCents": 375
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Antiperspirant v spreju advanced care calming..., 150 ml",
+          "url": "https://www.dm.si/p/d/2029329/dove-antiperspirant-v-spreju-advanced-care-calming-blossom",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:43.957Z",
+          "currentPriceCents": 300,
+          "currentPriceEurCents": 300,
+          "referencePriceCents": 300,
+          "referencePriceEurCents": 300
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Deo spray Calming Blossom, 150 ml",
+          "url": "https://www.dm.hu/p/d/2029329/dove-deo-spray-calming-blossom",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:59.780Z",
+          "currentPriceCents": 29900,
+          "currentPriceEurCents": 82,
+          "referencePriceCents": 29900,
+          "referencePriceEurCents": 82
         }
       ]
     }
