@@ -89,19 +89,15 @@
   </div>
 </main>
 
-<script>
+<script type="module">
+import { resolveLang } from './legal.js';
+
 (function () {
   'use strict';
-  function resolveLang() {
-    var params = new URLSearchParams(location.search);
-    var q = params.get('lang');
-    if (q === 'hr') return 'hr';
-    if (q) return 'en';
+  function currentLang() {
     var stored = null;
     try { stored = localStorage.getItem('pw-lang'); } catch (e) {}
-    if (stored === 'hr') return 'hr';
-    if (stored) return 'en';
-    return 'hr';
+    return resolveLang(location.search, stored);
   }
   function applyLang(lang) {
     document.querySelectorAll('[data-lang-block]').forEach(function (el) {
@@ -112,7 +108,7 @@
     });
     document.documentElement.lang = lang;
   }
-  applyLang(resolveLang());
+  applyLang(currentLang());
   document.querySelectorAll('.lang-toggle button').forEach(function (b) {
     b.addEventListener('click', function () { applyLang(b.dataset.lang); });
   });

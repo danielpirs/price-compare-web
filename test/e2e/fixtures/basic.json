@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-09-06T09:00:00.000Z",
+  "fx": { "asOf": "2026-09-04", "rates": { "HUF": 363.28 }, "source": "ECB eurofxref-daily", "fallback": false },
+  "countryCode": "HR",
+  "kind": "cheapest",
+  "items": [
+    {
+      "productId": 1441864,
+      "brand": "NIVEA",
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Nivea krema u limenci",
+          "url": "https://www.dm.hr/p/d/1441864/nivea-krema",
+          "isPromo": false,
+          "observedAt": "2026-09-01T10:00:00.000Z",
+          "currentPriceCents": 500,
+          "currentPriceEurCents": 500
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Nivea krema v pločevinki",
+          "url": "https://www.dm.si/p/d/1441864/nivea-krema",
+          "isPromo": false,
+          "observedAt": "2026-09-01T10:00:00.000Z",
+          "currentPriceCents": 700,
+          "currentPriceEurCents": 700
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Nivea Creme Dose",
+          "url": "https://www.dm.at/p/d/1441864/nivea-creme",
+          "isPromo": false,
+          "observedAt": "2026-09-01T10:00:00.000Z",
+          "currentPriceCents": 300,
+          "currentPriceEurCents": 300
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Nivea krém fémdobozban",
+          "url": "https://www.dm.hu/p/d/1441864/nivea-krem",
+          "isPromo": false,
+          "observedAt": "2026-09-01T10:00:00.000Z",
+          "currentPriceCents": 199900,
+          "currentPriceEurCents": 550
+        }
+      ]
+    },
+    {
+      "productId": 2084907,
+      "brand": "always",
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "ultra noćni ulošci, 28 kom.",
+          "url": "https://www.dm.hr/p/d/2084907/always-ultra-nocni-ulosci",
+          "isPromo": true,
+          "observedAt": "2026-08-28T16:02:12.997Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 325,
+          "referencePriceEurCents": 325
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Ultra Night Damenbinden, 28 Stk.",
+          "url": "https://www.dm.at/p/d/2084907/always-ultra-night",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:45.480Z",
+          "currentPriceCents": 470,
+          "currentPriceEurCents": 470
+        }
+      ]
+    }
+  ]
+}
