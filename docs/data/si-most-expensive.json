@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-07T10:01:20.159Z",
+  "generatedAt": "2026-09-08T09:27:05.485Z",
   "fx": {
-    "asOf": "2026-09-04",
+    "asOf": "2026-09-07",
     "rates": {
       "USD": 1.1622,
-      "JPY": 181.59,
-      "CZK": 24.189,
-      "DKK": 7.4747,
-      "GBP": 0.85898,
-      "HUF": 363.28,
-      "PLN": 4.3148,
-      "RON": 5.253,
-      "SEK": 11.1005,
+      "JPY": 179.85,
+      "CZK": 24.197,
+      "DKK": 7.4746,
+      "GBP": 0.85894,
+      "HUF": 363.2,
+      "PLN": 4.3103,
+      "RON": 5.2519,
+      "SEK": 11.162,
       "CHF": 0.9405,
       "ISK": 140.8,
-      "NOK": 10.8035,
-      "TRY": 56.2995,
-      "AUD": 1.6134,
-      "BRL": 5.9405,
-      "CAD": 1.6038,
-      "CNY": 7.7994,
-      "HKD": 9.112,
-      "IDR": 20496.04,
-      "ILS": 3.4954,
-      "INR": 109.8165,
-      "KRW": 1569.38,
-      "MXN": 19.6401,
-      "MYR": 4.7005,
-      "NZD": 1.9755,
-      "PHP": 72.812,
-      "SGD": 1.4724,
-      "THB": 38.26,
-      "ZAR": 18.5571
+      "NOK": 10.774,
+      "TRY": 56.289,
+      "AUD": 1.6109,
+      "BRL": 5.9576,
+      "CAD": 1.6062,
+      "CNY": 7.7995,
+      "HKD": 9.1119,
+      "IDR": 20509.29,
+      "ILS": 3.4991,
+      "INR": 109.821,
+      "KRW": 1566.56,
+      "MXN": 19.6552,
+      "MYR": 4.7023,
+      "NZD": 1.978,
+      "PHP": 72.801,
+      "SGD": 1.4716,
+      "THB": 38.231,
+      "ZAR": 18.5856
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -39,41 +39,6 @@
   "countryCode": "SI",
   "kind": "most-expensive",
   "items": [
-    {
-      "productId": 2946,
-      "brand": "always",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 1075,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "ultra noćni ulošci, 28 kom.",
-          "url": "https://www.dm.hr/p/d/2084907/always-ultra-nocni-ulosci",
-          "isPromo": true,
-          "observedAt": "2026-08-28T16:02:12.997Z",
-          "currentPriceCents": 40,
-          "currentPriceEurCents": 40,
-          "referencePriceCents": 40,
-          "referencePriceEurCents": 40
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Damski vložki Ultra Night, velikost 3, 28 kos",
-          "url": "https://www.dm.si/p/d/2084907/always-damski-vlozki-ultra-night-velikost-3",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:45.480Z",
-          "currentPriceCents": 470,
-          "currentPriceEurCents": 470,
-          "referencePriceCents": 470,
-          "referencePriceEurCents": 470
-        }
-      ]
-    },
     {
       "productId": 21461,
       "brand": "sundance",
@@ -459,54 +424,6 @@
       ]
     },
     {
-      "productId": 4018,
-      "brand": "adidas",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 609.09,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Dezodorant Cool & Care Control, 150 ml",
-          "url": "https://www.dm.si/p/d/1241006/adidas-dezodorant-cool-care-control",
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:09:56.579Z",
-          "currentPriceCents": 390,
-          "currentPriceEurCents": 390,
-          "referencePriceCents": 390,
-          "referencePriceEurCents": 390
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Antitranspirant Deospray Women Control, 150 ml",
-          "url": "https://www.dm.de/p/d/1241006/adidas-antitranspirant-deospray-women-control",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:00.398Z",
-          "currentPriceCents": 265,
-          "currentPriceEurCents": 265,
-          "referencePriceCents": 265,
-          "referencePriceEurCents": 265
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Deo spray Control, 150 ml",
-          "url": "https://www.dm.hu/p/d/1241006/adidas-deo-spray-control",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:32:25.549Z",
-          "currentPriceCents": 19900,
-          "currentPriceEurCents": 55,
-          "referencePriceCents": 19900,
-          "referencePriceEurCents": 55
-        }
-      ]
-    },
-    {
       "productId": 16410,
       "brand": "adidas",
       "isCountryExtreme": true,
@@ -794,7 +711,7 @@
       "productId": 20322,
       "brand": "NIVEA SUN",
       "isCountryExtreme": true,
-      "overallPercentDiff": 497.17,
+      "overallPercentDiff": 494.76,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -845,9 +762,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:57.806Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 247,
+          "currentPriceEurCents": 248,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 247
+          "referencePriceEurCents": 248
         }
       ]
     },
@@ -1053,41 +970,6 @@
       ]
     },
     {
-      "productId": 17067,
-      "brand": "Balea",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 455.56,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Vložki za čevlje iz flisa, velikost 36-37 (1 par), 2 kos",
-          "url": "https://www.dm.si/p/d/2486907/balea-vlozki-za-cevlje-iz-flisa-velikost-36-37-1-par",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:07.520Z",
-          "currentPriceCents": 150,
-          "currentPriceEurCents": 150,
-          "referencePriceCents": 150,
-          "referencePriceEurCents": 150
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Filc talpbetét, 36-37 méret, 1 pár, 2 db",
-          "url": "https://www.dm.hu/p/d/2486907/balea-filc-talpbetet-36-37-meret-1-par",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:57.806Z",
-          "currentPriceCents": 9900,
-          "currentPriceEurCents": 27,
-          "referencePriceCents": 9900,
-          "referencePriceEurCents": 27
-        }
-      ]
-    },
-    {
       "productId": 20938,
       "brand": "Balea",
       "isCountryExtreme": true,
@@ -1180,54 +1062,6 @@
           "currentPriceEurCents": 27,
           "referencePriceCents": 9900,
           "referencePriceEurCents": 27
-        }
-      ]
-    },
-    {
-      "productId": 5998,
-      "brand": "ogx",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 448.28,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "brazilian keratin smooth regenerator za kosu, 385 ml",
-          "url": "https://www.dm.hr/p/d/1577941/ogx-brazilian-keratin-smooth-regenerator-za-kosu",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:32:34.936Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Balzam za gladke lase Smooth & Sleek, 385 ml",
-          "url": "https://www.dm.si/p/d/1577941/ogx-balzam-za-gladke-lase-smooth-sleek",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:53.811Z",
-          "currentPriceCents": 795,
-          "currentPriceEurCents": 795,
-          "referencePriceCents": 795,
-          "referencePriceEurCents": 795
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Conditioner Ever Straightening + Brazilian..., 385 ml",
-          "url": "https://www.dm.at/p/d/1577941/ogx-conditioner-ever-straightening-brazilian-keratin-smooth",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:37:04.491Z",
-          "currentPriceCents": 420,
-          "currentPriceEurCents": 420,
-          "referencePriceCents": 420,
-          "referencePriceEurCents": 420
         }
       ]
     },
@@ -1359,6 +1193,211 @@
           "currentPriceEurCents": 550,
           "referencePriceCents": 199900,
           "referencePriceEurCents": 550
+        }
+      ]
+    },
+    {
+      "productId": 6888,
+      "brand": "ebelin",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 437.04,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Osvježavajuće maramice, 10 kom.",
+          "url": "https://www.dm.hr/p/d/1673199/ebelin-osvjezavajuce-maramice",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:40.566Z",
+          "currentPriceCents": 120,
+          "currentPriceEurCents": 120,
+          "referencePriceCents": 120,
+          "referencePriceEurCents": 120
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Osvežilni robčki z vonjem po limoni, 10 kos",
+          "url": "https://www.dm.si/p/d/1673199/ebelin-osvezilni-robcki-z-vonjem-po-limoni",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:32.828Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Erfrischungstücher Citrusduft, 10 St",
+          "url": "https://www.dm.at/p/d/1673199/ebelin-erfrischungstuecher-citrusduft",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:38:13.953Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Erfrischungstücher Citrusduft, 10 St",
+          "url": "https://www.dm.de/p/d/1673199/ebelin-erfrischungstuecher-citrusduft",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:34.304Z",
+          "currentPriceCents": 95,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Arcfrissítő kendők citrus illattal, 10 db",
+          "url": "https://www.dm.hu/p/d/1673199/ebelin-arcfrissito-kendok-citrus-illattal",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:57.806Z",
+          "currentPriceCents": 9900,
+          "currentPriceEurCents": 27,
+          "referencePriceCents": 9900,
+          "referencePriceEurCents": 27
+        }
+      ]
+    },
+    {
+      "productId": 6040,
+      "brand": "ogx",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 434.48,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "coconut miracle oil regenerator za kosu, 385 ml",
+          "url": "https://www.dm.hr/p/d/2201293/ogx-coconut-miracle-oil-regenerator-za-kosu",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:32:34.936Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Negovalni balzam za lase s kokosovim oljem, 385 ml",
+          "url": "https://www.dm.si/p/d/2201293/ogx-negovalni-balzam-za-lase-s-kokosovim-oljem",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:56.419Z",
+          "currentPriceCents": 775,
+          "currentPriceEurCents": 775,
+          "referencePriceCents": 775,
+          "referencePriceEurCents": 775
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Conditioner Coconut Miracle Oil, 385 ml",
+          "url": "https://www.dm.de/p/d/2201293/ogx-conditioner-coconut-miracle-oil",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:37.315Z",
+          "currentPriceCents": 695,
+          "currentPriceEurCents": 695,
+          "referencePriceCents": 695,
+          "referencePriceEurCents": 695
+        }
+      ]
+    },
+    {
+      "productId": 6041,
+      "brand": "ogx",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 434.48,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "coconut miracle oil šampon za kosu, 385 ml",
+          "url": "https://www.dm.hr/p/d/2201591/ogx-coconut-miracle-oil-sampon-za-kosu",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:32:34.936Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Negovalni šampon za lase s kokosovim oljem, 385 ml",
+          "url": "https://www.dm.si/p/d/2201591/ogx-negovalni-sampon-za-lase-s-kokosovim-oljem",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:19.947Z",
+          "currentPriceCents": 775,
+          "currentPriceEurCents": 775,
+          "referencePriceCents": 775,
+          "referencePriceEurCents": 775
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Shampoo Coconut Miracle Oil, 385 ml",
+          "url": "https://www.dm.de/p/d/2201591/ogx-shampoo-coconut-miracle-oil",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:07.562Z",
+          "currentPriceCents": 695,
+          "currentPriceEurCents": 695,
+          "referencePriceCents": 695,
+          "referencePriceEurCents": 695
+        }
+      ]
+    },
+    {
+      "productId": 17919,
+      "brand": "Oral-B",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 430.49,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Otroška zobna pasta Pro Kids, primerna za otroke..., 50 ml",
+          "url": "https://www.dm.si/p/d/2969753/oral-b-otroska-zobna-pasta-pro-kids-primerna-za-otroke-do-6-leta",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:18.489Z",
+          "currentPriceCents": 435,
+          "currentPriceEurCents": 435,
+          "referencePriceCents": 435,
+          "referencePriceEurCents": 435
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkrém Pro Kids 6 éves korig, 50 ml",
+          "url": "https://www.dm.hu/p/d/2969753/oral-b-fogkrem-pro-kids-6-eves-korig",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:49.421Z",
+          "currentPriceCents": 29900,
+          "currentPriceEurCents": 82,
+          "referencePriceCents": 29900,
+          "referencePriceEurCents": 82
         }
       ]
     }

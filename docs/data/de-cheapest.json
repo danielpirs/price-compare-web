@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-07T10:01:20.159Z",
+  "generatedAt": "2026-09-08T09:27:05.485Z",
   "fx": {
-    "asOf": "2026-09-04",
+    "asOf": "2026-09-07",
     "rates": {
       "USD": 1.1622,
-      "JPY": 181.59,
-      "CZK": 24.189,
-      "DKK": 7.4747,
-      "GBP": 0.85898,
-      "HUF": 363.28,
-      "PLN": 4.3148,
-      "RON": 5.253,
-      "SEK": 11.1005,
+      "JPY": 179.85,
+      "CZK": 24.197,
+      "DKK": 7.4746,
+      "GBP": 0.85894,
+      "HUF": 363.2,
+      "PLN": 4.3103,
+      "RON": 5.2519,
+      "SEK": 11.162,
       "CHF": 0.9405,
       "ISK": 140.8,
-      "NOK": 10.8035,
-      "TRY": 56.2995,
-      "AUD": 1.6134,
-      "BRL": 5.9405,
-      "CAD": 1.6038,
-      "CNY": 7.7994,
-      "HKD": 9.112,
-      "IDR": 20496.04,
-      "ILS": 3.4954,
-      "INR": 109.8165,
-      "KRW": 1569.38,
-      "MXN": 19.6401,
-      "MYR": 4.7005,
-      "NZD": 1.9755,
-      "PHP": 72.812,
-      "SGD": 1.4724,
-      "THB": 38.26,
-      "ZAR": 18.5571
+      "NOK": 10.774,
+      "TRY": 56.289,
+      "AUD": 1.6109,
+      "BRL": 5.9576,
+      "CAD": 1.6062,
+      "CNY": 7.7995,
+      "HKD": 9.1119,
+      "IDR": 20509.29,
+      "ILS": 3.4991,
+      "INR": 109.821,
+      "KRW": 1566.56,
+      "MXN": 19.6552,
+      "MYR": 4.7023,
+      "NZD": 1.978,
+      "PHP": 72.801,
+      "SGD": 1.4716,
+      "THB": 38.231,
+      "ZAR": 18.5856
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -418,7 +418,7 @@
       "productId": 9482,
       "brand": "s.Oliver",
       "isCountryExtreme": true,
-      "overallPercentDiff": 256.4,
+      "overallPercentDiff": 256.55,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -482,9 +482,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:47.664Z",
           "currentPriceCents": 899900,
-          "currentPriceEurCents": 2477,
+          "currentPriceEurCents": 2478,
           "referencePriceCents": 899900,
-          "referencePriceEurCents": 2477
+          "referencePriceEurCents": 2478
         }
       ]
     },
@@ -806,7 +806,7 @@
       "productId": 3966,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 229.33,
+      "overallPercentDiff": 230.67,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -870,9 +870,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:17.495Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 247,
+          "currentPriceEurCents": 248,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 247
+          "referencePriceEurCents": 248
         }
       ]
     },
@@ -880,7 +880,7 @@
       "productId": 15471,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 229.33,
+      "overallPercentDiff": 230.67,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -931,9 +931,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:37.751Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 247,
+          "currentPriceEurCents": 248,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 247
+          "referencePriceEurCents": 248
         }
       ]
     },
@@ -1089,7 +1089,7 @@
       "productId": 52884,
       "brand": "Mexx",
       "isCountryExtreme": true,
-      "overallPercentDiff": 222.91,
+      "overallPercentDiff": 223.02,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1114,9 +1114,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:00.665Z",
           "currentPriceCents": 1049900,
-          "currentPriceEurCents": 2890,
+          "currentPriceEurCents": 2891,
           "referencePriceCents": 1049900,
-          "referencePriceEurCents": 2890
+          "referencePriceEurCents": 2891
         }
       ]
     },
@@ -1510,50 +1510,37 @@
       ]
     },
     {
-      "productId": 17970,
-      "brand": "Colgate",
+      "productId": 32100,
+      "brand": "BRISK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 205.26,
+      "overallPercentDiff": 206.45,
       "gapToExtremePercent": 0,
       "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Zobna ščetka za otroke, Super Soft, več različic, 1 kos",
-          "url": "https://www.dm.si/p/d/1492228/colgate-zobna-scetka-za-otroke-super-soft-vec-razlicic",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:18.489Z",
-          "currentPriceCents": 290,
-          "currentPriceEurCents": 290,
-          "referencePriceCents": 290,
-          "referencePriceEurCents": 290
-        },
         {
           "countryCode": "AT",
           "shopId": "dm-at",
           "currency": "EUR",
-          "name": "Zahnbürste Kinder Minions/Trolls 2 bis 6 Jahre..., 1 St",
-          "url": "https://www.dm.at/p/d/1492228/colgate-zahnbuerste-kinder-minions-trolls-2-bis-6-jahre-extra-soft-sortiert",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:38:00.469Z",
-          "currentPriceCents": 255,
-          "currentPriceEurCents": 255,
-          "referencePriceCents": 255,
-          "referencePriceEurCents": 255
+          "name": "for men Frisiercreme super, 100 ml",
+          "url": "https://www.dm.at/p/d/1000492/brisk-for-men-frisiercreme-super",
+          "isPromo": true,
+          "observedAt": "2026-09-07T14:14:14.000Z",
+          "currentPriceCents": 235,
+          "currentPriceEurCents": 235,
+          "referencePriceCents": 475,
+          "referencePriceEurCents": 475
         },
         {
           "countryCode": "DE",
           "shopId": "dm-de",
           "currency": "EUR",
-          "name": "Zahnbürste Kinder Minions/Trolls, 2-6 Jahren..., 1 St",
-          "url": "https://www.dm.de/p/d/1492228/colgate-zahnbuerste-kinder-minions-trolls-2-6-jahren-extra-soft",
+          "name": "Frisiercreme für Männer, 100 ml",
+          "url": "https://www.dm.de/p/d/1000492/brisk-frisiercreme-fuer-maenner",
           "isPromo": false,
-          "observedAt": "2026-08-31T20:43:27.891Z",
-          "currentPriceCents": 95,
-          "currentPriceEurCents": 95,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
+          "observedAt": "2026-08-31T20:44:25.415Z",
+          "currentPriceCents": 155,
+          "currentPriceEurCents": 155,
+          "referencePriceCents": 155,
+          "referencePriceEurCents": 155
         }
       ]
     }

@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-07T10:01:20.159Z",
+  "generatedAt": "2026-09-08T09:27:05.485Z",
   "fx": {
-    "asOf": "2026-09-04",
+    "asOf": "2026-09-07",
     "rates": {
       "USD": 1.1622,
-      "JPY": 181.59,
-      "CZK": 24.189,
-      "DKK": 7.4747,
-      "GBP": 0.85898,
-      "HUF": 363.28,
-      "PLN": 4.3148,
-      "RON": 5.253,
-      "SEK": 11.1005,
+      "JPY": 179.85,
+      "CZK": 24.197,
+      "DKK": 7.4746,
+      "GBP": 0.85894,
+      "HUF": 363.2,
+      "PLN": 4.3103,
+      "RON": 5.2519,
+      "SEK": 11.162,
       "CHF": 0.9405,
       "ISK": 140.8,
-      "NOK": 10.8035,
-      "TRY": 56.2995,
-      "AUD": 1.6134,
-      "BRL": 5.9405,
-      "CAD": 1.6038,
-      "CNY": 7.7994,
-      "HKD": 9.112,
-      "IDR": 20496.04,
-      "ILS": 3.4954,
-      "INR": 109.8165,
-      "KRW": 1569.38,
-      "MXN": 19.6401,
-      "MYR": 4.7005,
-      "NZD": 1.9755,
-      "PHP": 72.812,
-      "SGD": 1.4724,
-      "THB": 38.26,
-      "ZAR": 18.5571
+      "NOK": 10.774,
+      "TRY": 56.289,
+      "AUD": 1.6109,
+      "BRL": 5.9576,
+      "CAD": 1.6062,
+      "CNY": 7.7995,
+      "HKD": 9.1119,
+      "IDR": 20509.29,
+      "ILS": 3.4991,
+      "INR": 109.821,
+      "KRW": 1566.56,
+      "MXN": 19.6552,
+      "MYR": 4.7023,
+      "NZD": 1.978,
+      "PHP": 72.801,
+      "SGD": 1.4716,
+      "THB": 38.231,
+      "ZAR": 18.5856
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -751,67 +751,6 @@
       ]
     },
     {
-      "productId": 20707,
-      "brand": "HALLOHEBAMME",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 550,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Sredstvo za čiščenje otroške kože 2 v 1 z bio..., 50 ml",
-          "url": "https://www.dm.si/p/d/2486246/hallohebamme-sredstvo-za-ciscenje-otroske-koze-2-v-1-z-bio-mandljevim-oljem",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:43.957Z",
-          "currentPriceCents": 30,
-          "currentPriceEurCents": 30,
-          "referencePriceCents": 30,
-          "referencePriceEurCents": 30
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Babyöl Reinigung 2in1, 50 ml",
-          "url": "https://www.dm.at/p/d/2486246/hallohebamme-babyoel-reinigung-2in1",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:36.315Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Sanfte Reinigung für Gesicht, Hände & Po,..., 50 ml",
-          "url": "https://www.dm.de/p/d/2486246/hallohebamme-sanfte-reinigung-fuer-gesicht-haende-und-po-reisegroesse",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:45.137Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Vizes-olajos tisztító babáknak, 50 ml",
-          "url": "https://www.dm.hu/p/d/2486246/hallohebamme-vizes-olajos-tisztito-babaknak",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:30:32.566Z",
-          "currentPriceCents": 29900,
-          "currentPriceEurCents": 82,
-          "referencePriceCents": 29900,
-          "referencePriceEurCents": 82
-        }
-      ]
-    },
-    {
       "productId": 247,
       "brand": "alverde NATURKOSMETIK",
       "isCountryExtreme": true,
@@ -1071,9 +1010,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:07.099Z",
           "currentPriceCents": 429900,
-          "currentPriceEurCents": 1183,
+          "currentPriceEurCents": 1184,
           "referencePriceCents": 429900,
-          "referencePriceEurCents": 1183
+          "referencePriceEurCents": 1184
         }
       ]
     },
@@ -1105,41 +1044,6 @@
           "url": "https://www.dm.at/p/d/2978687/ebelin-haarturban-ruheoase",
           "isPromo": false,
           "observedAt": "2026-08-30T22:37:10.200Z",
-          "currentPriceCents": 595,
-          "currentPriceEurCents": 595,
-          "referencePriceCents": 595,
-          "referencePriceEurCents": 595
-        }
-      ]
-    },
-    {
-      "productId": 19178,
-      "brand": "CATRICE",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 501.01,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Paleta senčil za veke Wonder Woman, 010 Wonder..., 15,5 g",
-          "url": "https://www.dm.si/p/d/3057427/catrice-paleta-sencil-za-veke-wonder-woman-010-wonder-woman-story",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:30.655Z",
-          "currentPriceCents": 99,
-          "currentPriceEurCents": 99,
-          "referencePriceCents": 99,
-          "referencePriceEurCents": 99
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Lidschatten Palette Wonder Woman 010 Wonder Woman..., 15,5 g",
-          "url": "https://www.dm.at/p/d/3057427/catrice-lidschatten-palette-wonder-woman-010-wonder-woman-story",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:37:01.525Z",
           "currentPriceCents": 595,
           "currentPriceEurCents": 595,
           "referencePriceCents": 595,
@@ -1554,6 +1458,154 @@
           "currentPriceEurCents": 316,
           "referencePriceCents": 114900,
           "referencePriceEurCents": 316
+        }
+      ]
+    },
+    {
+      "productId": 12330,
+      "brand": "CATRICE",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 400,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Diamond Glaze sjajilo za usne – 010 No Glitter,..., 1,6 g",
+          "url": "https://www.dm.hr/p/d/3082309/catrice-diamond-glaze-sjajilo-za-usne-010-no-glitter-no-glory",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:33:14.196Z",
+          "currentPriceCents": 255,
+          "currentPriceEurCents": 255,
+          "referencePriceCents": 255,
+          "referencePriceEurCents": 255
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Glos za ustnice v stiku Diamond Glaze, 010 No..., 1,6 g",
+          "url": "https://www.dm.si/p/d/3082309/catrice-glos-za-ustnice-v-stiku-diamond-glaze-010-no-glitter-no-glory",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:58.542Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 99,
+          "referencePriceEurCents": 99
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Lippenstift Gloss Stick Diamond Glaze 010 No..., 1,6 g",
+          "url": "https://www.dm.at/p/d/3082309/catrice-lippenstift-gloss-stick-diamond-glaze-010-no-glitter-no-glory",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:18.966Z",
+          "currentPriceCents": 495,
+          "currentPriceEurCents": 495,
+          "referencePriceCents": 495,
+          "referencePriceEurCents": 495
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Lippenstift Diamond Glaze Gloss Stick 010 No..., 1,6 g",
+          "url": "https://www.dm.de/p/d/3082309/catrice-lippenstift-diamond-glaze-gloss-stick-010-no-glitter-no-glory",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:27.806Z",
+          "currentPriceCents": 495,
+          "currentPriceEurCents": 495,
+          "referencePriceCents": 495,
+          "referencePriceEurCents": 495
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Rúzs stift, Diamond Glaze Gloss - Nr. 010 No..., 2 g",
+          "url": "https://www.dm.hu/p/d/3082309/catrice-ruzs-stift-diamond-glaze-gloss-nr-010-no-glitter-no-glory",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:30:35.474Z",
+          "currentPriceCents": 99900,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 99900,
+          "referencePriceEurCents": 275
+        }
+      ]
+    },
+    {
+      "productId": 12994,
+      "brand": "CATRICE",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 400,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Bronze Glow Grip primer za lice – 010 Sun Glazed, 30 ml",
+          "url": "https://www.dm.hr/p/d/3082175/catrice-bronze-glow-grip-primer-za-lice-010-sun-glazed",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:33:17.918Z",
+          "currentPriceCents": 255,
+          "currentPriceEurCents": 255,
+          "referencePriceCents": 255,
+          "referencePriceEurCents": 255
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Primer za obraz Bronze Glow Grip, 30 ml",
+          "url": "https://www.dm.si/p/d/3082175/catrice-primer-za-obraz-bronze-glow-grip",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:43.957Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 99,
+          "referencePriceEurCents": 99
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Primer Grip Bronze Glow 010 Sun Glazed, 30 ml",
+          "url": "https://www.dm.at/p/d/3082175/catrice-primer-grip-bronze-glow-010-sun-glazed",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:37:44.231Z",
+          "currentPriceCents": 495,
+          "currentPriceEurCents": 495,
+          "referencePriceCents": 495,
+          "referencePriceEurCents": 495
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Primer Bronze Glow Grip 010 Sun Glazed, 30 ml",
+          "url": "https://www.dm.de/p/d/3082175/catrice-primer-bronze-glow-grip-010-sun-glazed",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:31.956Z",
+          "currentPriceCents": 495,
+          "currentPriceEurCents": 495,
+          "referencePriceCents": 495,
+          "referencePriceEurCents": 495
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Primer, Bronze Glow Grip - Nr. 010 Sun Glazed, 30 ml",
+          "url": "https://www.dm.hu/p/d/3082175/catrice-primer-bronze-glow-grip-nr-010-sun-glazed",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:24.785Z",
+          "currentPriceCents": 99900,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 99900,
+          "referencePriceEurCents": 275
         }
       ]
     }

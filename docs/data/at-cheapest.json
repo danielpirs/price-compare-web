@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-07T10:01:20.159Z",
+  "generatedAt": "2026-09-08T09:27:05.485Z",
   "fx": {
-    "asOf": "2026-09-04",
+    "asOf": "2026-09-07",
     "rates": {
       "USD": 1.1622,
-      "JPY": 181.59,
-      "CZK": 24.189,
-      "DKK": 7.4747,
-      "GBP": 0.85898,
-      "HUF": 363.28,
-      "PLN": 4.3148,
-      "RON": 5.253,
-      "SEK": 11.1005,
+      "JPY": 179.85,
+      "CZK": 24.197,
+      "DKK": 7.4746,
+      "GBP": 0.85894,
+      "HUF": 363.2,
+      "PLN": 4.3103,
+      "RON": 5.2519,
+      "SEK": 11.162,
       "CHF": 0.9405,
       "ISK": 140.8,
-      "NOK": 10.8035,
-      "TRY": 56.2995,
-      "AUD": 1.6134,
-      "BRL": 5.9405,
-      "CAD": 1.6038,
-      "CNY": 7.7994,
-      "HKD": 9.112,
-      "IDR": 20496.04,
-      "ILS": 3.4954,
-      "INR": 109.8165,
-      "KRW": 1569.38,
-      "MXN": 19.6401,
-      "MYR": 4.7005,
-      "NZD": 1.9755,
-      "PHP": 72.812,
-      "SGD": 1.4724,
-      "THB": 38.26,
-      "ZAR": 18.5571
+      "NOK": 10.774,
+      "TRY": 56.289,
+      "AUD": 1.6109,
+      "BRL": 5.9576,
+      "CAD": 1.6062,
+      "CNY": 7.7995,
+      "HKD": 9.1119,
+      "IDR": 20509.29,
+      "ILS": 3.4991,
+      "INR": 109.821,
+      "KRW": 1566.56,
+      "MXN": 19.6552,
+      "MYR": 4.7023,
+      "NZD": 1.978,
+      "PHP": 72.801,
+      "SGD": 1.4716,
+      "THB": 38.231,
+      "ZAR": 18.5856
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -104,7 +104,7 @@
       "productId": 33693,
       "brand": "TOM TAILOR",
       "isCountryExtreme": true,
-      "overallPercentDiff": 336.93,
+      "overallPercentDiff": 337.04,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -129,9 +129,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:22.854Z",
           "currentPriceCents": 1499900,
-          "currentPriceEurCents": 4129,
+          "currentPriceEurCents": 4130,
           "referencePriceCents": 1499900,
-          "referencePriceEurCents": 4129
+          "referencePriceEurCents": 4130
         }
       ]
     },
@@ -193,6 +193,54 @@
           "currentPriceEurCents": 3441,
           "referencePriceCents": 1249900,
           "referencePriceEurCents": 3441
+        }
+      ]
+    },
+    {
+      "productId": 10472,
+      "brand": "SABRINA CARPENTER",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 287.34,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Sweet Tooth Me Espresso edp, 30 ml",
+          "url": "https://www.dm.hr/p/d/3082418/sabrina-carpenter-sweet-tooth-me-espresso-edp",
+          "isPromo": true,
+          "observedAt": "2026-09-07T14:14:01.185Z",
+          "currentPriceCents": 320,
+          "currentPriceEurCents": 320,
+          "referencePriceCents": 1445,
+          "referencePriceEurCents": 1445
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Eau de Parfum Sweet Tooth Me Espresso, 30 ml",
+          "url": "https://www.dm.at/p/d/3082418/sabrina-carpenter-eau-de-parfum-sweet-tooth-me-espresso",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:37:34.729Z",
+          "currentPriceCents": 995,
+          "currentPriceEurCents": 995,
+          "referencePriceCents": 995,
+          "referencePriceEurCents": 995
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Női EdP Sweet Tooth Me Espresso, 30 ml",
+          "url": "https://www.dm.hu/p/d/3082418/sabrina-carpenter-noi-edp-sweet-tooth-me-espresso",
+          "isPromo": true,
+          "observedAt": "2026-09-07T14:14:22.199Z",
+          "currentPriceCents": 699900,
+          "currentPriceEurCents": 1927,
+          "referencePriceCents": 1399900,
+          "referencePriceEurCents": 3854
         }
       ]
     },
@@ -270,7 +318,7 @@
       "productId": 33988,
       "brand": "POLICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 231.96,
+      "overallPercentDiff": 232.06,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -295,9 +343,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1199900,
-          "currentPriceEurCents": 3303,
+          "currentPriceEurCents": 3304,
           "referencePriceCents": 1199900,
-          "referencePriceEurCents": 3303
+          "referencePriceEurCents": 3304
         }
       ]
     },
@@ -305,7 +353,7 @@
       "productId": 9016,
       "brand": "SABRINA CARPENTER",
       "isCountryExtreme": true,
-      "overallPercentDiff": 231.65,
+      "overallPercentDiff": 231.73,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -369,9 +417,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1499900,
-          "currentPriceEurCents": 4129,
+          "currentPriceEurCents": 4130,
           "referencePriceCents": 1499900,
-          "referencePriceEurCents": 4129
+          "referencePriceEurCents": 4130
         }
       ]
     },
@@ -427,7 +475,7 @@
       "productId": 34287,
       "brand": "POLICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 216.08,
+      "overallPercentDiff": 216.17,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -452,9 +500,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1199900,
-          "currentPriceEurCents": 3303,
+          "currentPriceEurCents": 3304,
           "referencePriceCents": 1199900,
-          "referencePriceEurCents": 3303
+          "referencePriceEurCents": 3304
         }
       ]
     },
@@ -462,7 +510,7 @@
       "productId": 39494,
       "brand": "POLICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 216.08,
+      "overallPercentDiff": 216.17,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -487,9 +535,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1199900,
-          "currentPriceEurCents": 3303,
+          "currentPriceEurCents": 3304,
           "referencePriceCents": 1199900,
-          "referencePriceEurCents": 3303
+          "referencePriceEurCents": 3304
         }
       ]
     },
@@ -497,7 +545,7 @@
       "productId": 35767,
       "brand": "POLICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 212.98,
+      "overallPercentDiff": 213.04,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -522,9 +570,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:22.854Z",
           "currentPriceCents": 1699900,
-          "currentPriceEurCents": 4679,
+          "currentPriceEurCents": 4680,
           "referencePriceCents": 1699900,
-          "referencePriceEurCents": 4679
+          "referencePriceEurCents": 4680
         }
       ]
     },
@@ -532,7 +580,7 @@
       "productId": 35884,
       "brand": "POLICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 212.98,
+      "overallPercentDiff": 213.04,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -557,9 +605,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:07.326Z",
           "currentPriceCents": 1699900,
-          "currentPriceEurCents": 4679,
+          "currentPriceEurCents": 4680,
           "referencePriceCents": 1699900,
-          "referencePriceEurCents": 4679
+          "referencePriceEurCents": 4680
         }
       ]
     },
@@ -615,7 +663,7 @@
       "productId": 26642,
       "brand": "Jaguar",
       "isCountryExtreme": true,
-      "overallPercentDiff": 201.21,
+      "overallPercentDiff": 201.28,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -653,9 +701,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1449900,
-          "currentPriceEurCents": 3991,
+          "currentPriceEurCents": 3992,
           "referencePriceCents": 1449900,
-          "referencePriceEurCents": 3991
+          "referencePriceEurCents": 3992
         }
       ]
     },
@@ -1108,7 +1156,7 @@
       "productId": 31206,
       "brand": "Jaguar",
       "isCountryExtreme": true,
-      "overallPercentDiff": 191.36,
+      "overallPercentDiff": 191.42,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1146,9 +1194,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1899900,
-          "currentPriceEurCents": 5230,
+          "currentPriceEurCents": 5231,
           "referencePriceCents": 1899900,
-          "referencePriceEurCents": 5230
+          "referencePriceEurCents": 5231
         }
       ]
     },
@@ -1156,7 +1204,7 @@
       "productId": 36552,
       "brand": "Jaguar",
       "isCountryExtreme": true,
-      "overallPercentDiff": 191.36,
+      "overallPercentDiff": 191.42,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1181,9 +1229,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1899900,
-          "currentPriceEurCents": 5230,
+          "currentPriceEurCents": 5231,
           "referencePriceCents": 1899900,
-          "referencePriceEurCents": 5230
+          "referencePriceEurCents": 5231
         }
       ]
     },
@@ -1300,7 +1348,7 @@
       "productId": 26147,
       "brand": "DAVID BECKHAM",
       "isCountryExtreme": true,
-      "overallPercentDiff": 176.58,
+      "overallPercentDiff": 176.68,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1325,9 +1373,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:00.665Z",
           "currentPriceCents": 999900,
-          "currentPriceEurCents": 2752,
+          "currentPriceEurCents": 2753,
           "referencePriceCents": 999900,
-          "referencePriceEurCents": 2752
+          "referencePriceEurCents": 2753
         }
       ]
     },
@@ -1335,7 +1383,7 @@
       "productId": 33168,
       "brand": "WILKINSON SWORD",
       "isCountryExtreme": true,
-      "overallPercentDiff": 175.25,
+      "overallPercentDiff": 175.31,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1360,57 +1408,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:34.751Z",
           "currentPriceCents": 1599900,
-          "currentPriceEurCents": 4404,
+          "currentPriceEurCents": 4405,
           "referencePriceCents": 1599900,
-          "referencePriceEurCents": 4404
-        }
-      ]
-    },
-    {
-      "productId": 32565,
-      "brand": "Carefree",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 175,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Slipeinlagen Cotton Feel Flexiform ohne Duft, 56 St",
-          "url": "https://www.dm.at/p/d/1670481/carefree-slipeinlagen-cotton-feel-flexiform-ohne-duft",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:37:06.019Z",
-          "currentPriceCents": 140,
-          "currentPriceEurCents": 140,
-          "referencePriceCents": 140,
-          "referencePriceEurCents": 140
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Slipeinlagen Cotton Feel Flexiform ohne Duft, 56 St",
-          "url": "https://www.dm.de/p/d/1670481/carefree-slipeinlagen-cotton-feel-flexiform-ohne-duft",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:14.809Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Tisztasági betét Cotton Feel Flexiform, 56 db",
-          "url": "https://www.dm.hu/p/d/1670481/carefree-tisztasagi-betet-cotton-feel-flexiform",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:29:59.422Z",
-          "currentPriceCents": 139900,
-          "currentPriceEurCents": 385,
-          "referencePriceCents": 139900,
-          "referencePriceEurCents": 385
+          "referencePriceEurCents": 4405
         }
       ]
     }
