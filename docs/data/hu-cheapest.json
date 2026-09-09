@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-08T09:27:05.485Z",
+  "generatedAt": "2026-09-09T09:28:33.227Z",
   "fx": {
-    "asOf": "2026-09-07",
+    "asOf": "2026-09-08",
     "rates": {
-      "USD": 1.1622,
-      "JPY": 179.85,
-      "CZK": 24.197,
-      "DKK": 7.4746,
-      "GBP": 0.85894,
-      "HUF": 363.2,
-      "PLN": 4.3103,
-      "RON": 5.2519,
-      "SEK": 11.162,
-      "CHF": 0.9405,
-      "ISK": 140.8,
-      "NOK": 10.774,
-      "TRY": 56.289,
-      "AUD": 1.6109,
-      "BRL": 5.9576,
-      "CAD": 1.6062,
-      "CNY": 7.7995,
-      "HKD": 9.1119,
-      "IDR": 20509.29,
-      "ILS": 3.4991,
-      "INR": 109.821,
-      "KRW": 1566.56,
-      "MXN": 19.6552,
-      "MYR": 4.7023,
-      "NZD": 1.978,
-      "PHP": 72.801,
-      "SGD": 1.4716,
-      "THB": 38.231,
-      "ZAR": 18.5856
+      "USD": 1.1614,
+      "JPY": 179.2,
+      "CZK": 24.186,
+      "DKK": 7.4748,
+      "GBP": 0.8574,
+      "HUF": 363.95,
+      "PLN": 4.3178,
+      "RON": 5.25,
+      "SEK": 11.152,
+      "CHF": 0.9425,
+      "ISK": 140.4,
+      "NOK": 10.745,
+      "TRY": 56.2814,
+      "AUD": 1.6098,
+      "BRL": 5.936,
+      "CAD": 1.6033,
+      "CNY": 7.7936,
+      "HKD": 9.1068,
+      "IDR": 20436.92,
+      "ILS": 3.4979,
+      "INR": 110.1315,
+      "KRW": 1558.22,
+      "MXN": 19.6869,
+      "MYR": 4.717,
+      "NZD": 1.9877,
+      "PHP": 72.597,
+      "SGD": 1.4701,
+      "THB": 38.227,
+      "ZAR": 18.6103
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -402,41 +402,6 @@
       ]
     },
     {
-      "productId": 7177,
-      "brand": "Colgate",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 625.61,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Četkica za zube Ultra Soft duopack, više vrsta, 2 kom.",
-          "url": "https://www.dm.hr/p/d/2031113/colgate-cetkica-za-zube-ultra-soft-duopack-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:41.759Z",
-          "currentPriceCents": 595,
-          "currentPriceEurCents": 595,
-          "referencePriceCents": 595,
-          "referencePriceEurCents": 595
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkefe, ultra soft smile love (többféle), 2 db",
-          "url": "https://www.dm.hu/p/d/2031113/colgate-fogkefe-ultra-soft-smile-love-tobbfele",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:49.421Z",
-          "currentPriceCents": 29900,
-          "currentPriceEurCents": 82,
-          "referencePriceCents": 29900,
-          "referencePriceEurCents": 82
-        }
-      ]
-    },
-    {
       "productId": 16879,
       "brand": "SKIN1004",
       "isCountryExtreme": true,
@@ -488,7 +453,7 @@
       "productId": 9740,
       "brand": "Moschino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 610.76,
+      "overallPercentDiff": 611.79,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -526,9 +491,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:19.940Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 688,
+          "currentPriceEurCents": 687,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 688
+          "referencePriceEurCents": 687
         }
       ]
     },
@@ -606,7 +571,7 @@
       "productId": 2685,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 573.91,
+      "overallPercentDiff": 583.82,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -644,9 +609,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:59.780Z",
           "currentPriceCents": 24900,
-          "currentPriceEurCents": 69,
+          "currentPriceEurCents": 68,
           "referencePriceCents": 24900,
-          "referencePriceEurCents": 69
+          "referencePriceEurCents": 68
         }
       ]
     },
@@ -654,7 +619,7 @@
       "productId": 21037,
       "brand": "Beauty of Joseon",
       "isCountryExtreme": true,
-      "overallPercentDiff": 555.71,
+      "overallPercentDiff": 557.99,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -692,9 +657,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:57.806Z",
           "currentPriceCents": 104900,
-          "currentPriceEurCents": 289,
+          "currentPriceEurCents": 288,
           "referencePriceCents": 104900,
-          "referencePriceEurCents": 289
+          "referencePriceEurCents": 288
         }
       ]
     },
@@ -1057,67 +1022,6 @@
       ]
     },
     {
-      "productId": 20322,
-      "brand": "NIVEA SUN",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 494.76,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Krema za zaščito obraza pred soncem Q10 AntiAge &..., 50 ml",
-          "url": "https://www.dm.si/p/d/1536172/nivea-sun-krema-za-zascito-obraza-pred-soncem-q10-antiage-antipigments-zf-50",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:41.124Z",
-          "currentPriceCents": 1475,
-          "currentPriceEurCents": 1475,
-          "referencePriceCents": 1475,
-          "referencePriceEurCents": 1475
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Sonnencreme Gesicht Anti Age LSF 50, 50 ml",
-          "url": "https://www.dm.at/p/d/1536172/nivea-sun-sonnencreme-gesicht-anti-age-lsf-50",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:37:00.166Z",
-          "currentPriceCents": 745,
-          "currentPriceEurCents": 745,
-          "referencePriceCents": 745,
-          "referencePriceEurCents": 745
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Sonnencreme Gesicht Anti Age, LSF 50, 50 ml",
-          "url": "https://www.dm.de/p/d/1536172/nivea-sun-sonnencreme-gesicht-anti-age-lsf-50",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:03.187Z",
-          "currentPriceCents": 1095,
-          "currentPriceEurCents": 1095,
-          "referencePriceCents": 1095,
-          "referencePriceEurCents": 1095
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Napozó arckrém FF50, Anti Age, 50 ml",
-          "url": "https://www.dm.hu/p/d/1536172/nivea-sun-napozo-arckrem-ff50-anti-age",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:57.806Z",
-          "currentPriceCents": 89900,
-          "currentPriceEurCents": 248,
-          "referencePriceCents": 89900,
-          "referencePriceEurCents": 248
-        }
-      ]
-    },
-    {
       "productId": 21007,
       "brand": "Sanft&Sicher",
       "isCountryExtreme": true,
@@ -1156,7 +1060,7 @@
       "productId": 8829,
       "brand": "HADA LABO TOKYO",
       "isCountryExtreme": true,
-      "overallPercentDiff": 479.94,
+      "overallPercentDiff": 481.63,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1207,9 +1111,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:57.806Z",
           "currentPriceCents": 124900,
-          "currentPriceEurCents": 344,
+          "currentPriceEurCents": 343,
           "referencePriceCents": 124900,
-          "referencePriceEurCents": 344
+          "referencePriceEurCents": 343
         }
       ]
     },
@@ -1252,7 +1156,7 @@
       "productId": 18305,
       "brand": "NIVEA MEN",
       "isCountryExtreme": true,
-      "overallPercentDiff": 465.22,
+      "overallPercentDiff": 473.53,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1277,9 +1181,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:49.604Z",
           "currentPriceCents": 24900,
-          "currentPriceEurCents": 69,
+          "currentPriceEurCents": 68,
           "referencePriceCents": 24900,
-          "referencePriceEurCents": 69
+          "referencePriceEurCents": 68
         }
       ]
     },
@@ -1424,6 +1328,102 @@
           "currentPriceEurCents": 137,
           "referencePriceCents": 49900,
           "referencePriceEurCents": 137
+        }
+      ]
+    },
+    {
+      "productId": 20938,
+      "brand": "Balea",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 455.56,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Vložki za čevlje iz flisa, velikost 38-39 (1 par), 2 kos",
+          "url": "https://www.dm.si/p/d/2486908/balea-vlozki-za-cevlje-iz-flisa-velikost-38-39-1-par",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:47.009Z",
+          "currentPriceCents": 150,
+          "currentPriceEurCents": 150,
+          "referencePriceCents": 150,
+          "referencePriceEurCents": 150
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Einlegesohlen Fleece Gr. 38/39, 2 St",
+          "url": "https://www.dm.at/p/d/2486908/balea-einlegesohlen-fleece-gr-38-39",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:37:01.525Z",
+          "currentPriceCents": 95,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Filc talpbetét, 38-39 méret, 1 pár, 2 db",
+          "url": "https://www.dm.hu/p/d/2486908/balea-filc-talpbetet-38-39-meret-1-par",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:55.494Z",
+          "currentPriceCents": 9900,
+          "currentPriceEurCents": 27,
+          "referencePriceCents": 9900,
+          "referencePriceEurCents": 27
+        }
+      ]
+    },
+    {
+      "productId": 20970,
+      "brand": "Balea",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 455.56,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Vložki za čevlje s flisom, velikost 40-41 (1 par), 2 kos",
+          "url": "https://www.dm.si/p/d/2486909/balea-vlozki-za-cevlje-s-flisom-velikost-40-41-1-par",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:47.009Z",
+          "currentPriceCents": 150,
+          "currentPriceEurCents": 150,
+          "referencePriceCents": 150,
+          "referencePriceEurCents": 150
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Einlegesohlen Fleece Gr. 40/41, 2 St",
+          "url": "https://www.dm.at/p/d/2486909/balea-einlegesohlen-fleece-gr-40-41",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:37:01.525Z",
+          "currentPriceCents": 95,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Filc talpbetét, 40-41 méret, 1 pár, 2 db",
+          "url": "https://www.dm.hu/p/d/2486909/balea-filc-talpbetet-40-41-meret-1-par",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:55.494Z",
+          "currentPriceCents": 9900,
+          "currentPriceEurCents": 27,
+          "referencePriceCents": 9900,
+          "referencePriceEurCents": 27
         }
       ]
     }

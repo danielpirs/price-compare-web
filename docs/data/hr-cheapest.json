@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-08T09:27:05.485Z",
+  "generatedAt": "2026-09-09T09:28:33.227Z",
   "fx": {
-    "asOf": "2026-09-07",
+    "asOf": "2026-09-08",
     "rates": {
-      "USD": 1.1622,
-      "JPY": 179.85,
-      "CZK": 24.197,
-      "DKK": 7.4746,
-      "GBP": 0.85894,
-      "HUF": 363.2,
-      "PLN": 4.3103,
-      "RON": 5.2519,
-      "SEK": 11.162,
-      "CHF": 0.9405,
-      "ISK": 140.8,
-      "NOK": 10.774,
-      "TRY": 56.289,
-      "AUD": 1.6109,
-      "BRL": 5.9576,
-      "CAD": 1.6062,
-      "CNY": 7.7995,
-      "HKD": 9.1119,
-      "IDR": 20509.29,
-      "ILS": 3.4991,
-      "INR": 109.821,
-      "KRW": 1566.56,
-      "MXN": 19.6552,
-      "MYR": 4.7023,
-      "NZD": 1.978,
-      "PHP": 72.801,
-      "SGD": 1.4716,
-      "THB": 38.231,
-      "ZAR": 18.5856
+      "USD": 1.1614,
+      "JPY": 179.2,
+      "CZK": 24.186,
+      "DKK": 7.4748,
+      "GBP": 0.8574,
+      "HUF": 363.95,
+      "PLN": 4.3178,
+      "RON": 5.25,
+      "SEK": 11.152,
+      "CHF": 0.9425,
+      "ISK": 140.4,
+      "NOK": 10.745,
+      "TRY": 56.2814,
+      "AUD": 1.6098,
+      "BRL": 5.936,
+      "CAD": 1.6033,
+      "CNY": 7.7936,
+      "HKD": 9.1068,
+      "IDR": 20436.92,
+      "ILS": 3.4979,
+      "INR": 110.1315,
+      "KRW": 1558.22,
+      "MXN": 19.6869,
+      "MYR": 4.717,
+      "NZD": 1.9877,
+      "PHP": 72.597,
+      "SGD": 1.4701,
+      "THB": 38.227,
+      "ZAR": 18.6103
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -43,7 +43,7 @@
       "productId": 9478,
       "brand": "Oral-B",
       "isCountryExtreme": true,
-      "overallPercentDiff": 1056,
+      "overallPercentDiff": 1052,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -68,9 +68,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:28.621Z",
           "currentPriceCents": 104900,
-          "currentPriceEurCents": 289,
+          "currentPriceEurCents": 288,
           "referencePriceCents": 104900,
-          "referencePriceEurCents": 289
+          "referencePriceEurCents": 288
         }
       ]
     },
@@ -209,7 +209,7 @@
       "productId": 10532,
       "brand": "TOM TAILOR",
       "isCountryExtreme": true,
-      "overallPercentDiff": 718.38,
+      "overallPercentDiff": 716.76,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -260,9 +260,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:22.854Z",
           "currentPriceCents": 1099900,
-          "currentPriceEurCents": 3028,
+          "currentPriceEurCents": 3022,
           "referencePriceCents": 1099900,
-          "referencePriceEurCents": 3028
+          "referencePriceEurCents": 3022
         }
       ]
     },
@@ -321,9 +321,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:19.940Z",
           "currentPriceCents": 32900,
-          "currentPriceEurCents": 91,
+          "currentPriceEurCents": 90,
           "referencePriceCents": 32900,
-          "referencePriceEurCents": 91
+          "referencePriceEurCents": 90
         }
       ]
     },
@@ -331,7 +331,7 @@
       "productId": 10497,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 595.15,
+      "overallPercentDiff": 593.74,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -369,9 +369,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3441,
+          "currentPriceEurCents": 3434,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3441
+          "referencePriceEurCents": 3434
         }
       ]
     },
@@ -379,7 +379,7 @@
       "productId": 10498,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 595.15,
+      "overallPercentDiff": 593.74,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -417,9 +417,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3441,
+          "currentPriceEurCents": 3434,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3441
+          "referencePriceEurCents": 3434
         }
       ]
     },
@@ -427,7 +427,7 @@
       "productId": 8236,
       "brand": "trend !t up",
       "isCountryExtreme": true,
-      "overallPercentDiff": 588,
+      "overallPercentDiff": 587,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -478,9 +478,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:16.800Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 688,
+          "currentPriceEurCents": 687,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 688
+          "referencePriceEurCents": 687
         }
       ]
     },
@@ -488,7 +488,7 @@
       "productId": 925,
       "brand": "Martinelia",
       "isCountryExtreme": true,
-      "overallPercentDiff": 573.33,
+      "overallPercentDiff": 571.11,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -513,9 +513,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:32.566Z",
           "currentPriceCents": 109900,
-          "currentPriceEurCents": 303,
+          "currentPriceEurCents": 302,
           "referencePriceCents": 109900,
-          "referencePriceEurCents": 303
+          "referencePriceEurCents": 302
         }
       ]
     },
@@ -523,7 +523,7 @@
       "productId": 8229,
       "brand": "trend !t up",
       "isCountryExtreme": true,
-      "overallPercentDiff": 561,
+      "overallPercentDiff": 559,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -574,9 +574,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:33:11.663Z",
           "currentPriceCents": 239900,
-          "currentPriceEurCents": 661,
+          "currentPriceEurCents": 659,
           "referencePriceCents": 239900,
-          "referencePriceEurCents": 661
+          "referencePriceEurCents": 659
         }
       ]
     },
@@ -696,9 +696,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:54.339Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1514,
+          "currentPriceEurCents": 1511,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1514
+          "referencePriceEurCents": 1511
         }
       ]
     },
@@ -770,9 +770,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:30.838Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1514,
+          "currentPriceEurCents": 1511,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1514
+          "referencePriceEurCents": 1511
         }
       ]
     },
@@ -966,9 +966,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:07.099Z",
           "currentPriceCents": 429900,
-          "currentPriceEurCents": 1184,
+          "currentPriceEurCents": 1181,
           "referencePriceCents": 429900,
-          "referencePriceEurCents": 1184
+          "referencePriceEurCents": 1181
         }
       ]
     },
@@ -976,7 +976,7 @@
       "productId": 10571,
       "brand": "PARIS CORNER",
       "isCountryExtreme": true,
-      "overallPercentDiff": 494.24,
+      "overallPercentDiff": 492.95,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1014,9 +1014,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:22.854Z",
           "currentPriceCents": 1499900,
-          "currentPriceEurCents": 4130,
+          "currentPriceEurCents": 4121,
           "referencePriceCents": 1499900,
-          "referencePriceEurCents": 4130
+          "referencePriceEurCents": 4121
         }
       ]
     },
@@ -1098,7 +1098,7 @@
       "productId": 12122,
       "brand": "L'ORÉAL PARiS",
       "isCountryExtreme": true,
-      "overallPercentDiff": 461.63,
+      "overallPercentDiff": 460.82,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1149,9 +1149,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:30.809Z",
           "currentPriceCents": 499900,
-          "currentPriceEurCents": 1376,
+          "currentPriceEurCents": 1374,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1376
+          "referencePriceEurCents": 1374
         }
       ]
     },
@@ -1248,41 +1248,6 @@
           "currentPriceEurCents": 695,
           "referencePriceCents": 695,
           "referencePriceEurCents": 695
-        }
-      ]
-    },
-    {
-      "productId": 6033,
-      "brand": "ogx",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 448.28,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "brazilian keratin smooth šampon za kosu, 385 ml",
-          "url": "https://www.dm.hr/p/d/1577940/ogx-brazilian-keratin-smooth-sampon-za-kosu",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:32:34.936Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Šampon za gladke lase Smooth & Sleek, 385 ml",
-          "url": "https://www.dm.si/p/d/1577940/ogx-sampon-za-gladke-lase-smooth-sleek",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:19.947Z",
-          "currentPriceCents": 795,
-          "currentPriceEurCents": 795,
-          "referencePriceCents": 795,
-          "referencePriceEurCents": 795
         }
       ]
     },
@@ -1386,7 +1351,7 @@
       "productId": 2995,
       "brand": "syoss",
       "isCountryExtreme": true,
-      "overallPercentDiff": 430.37,
+      "overallPercentDiff": 428.89,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1437,9 +1402,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:49.604Z",
           "currentPriceCents": 259900,
-          "currentPriceEurCents": 716,
+          "currentPriceEurCents": 714,
           "referencePriceCents": 259900,
-          "referencePriceEurCents": 716
+          "referencePriceEurCents": 714
         }
       ]
     },
@@ -1495,7 +1460,7 @@
       "productId": 4971,
       "brand": "L'ORÉAL PARiS",
       "isCountryExtreme": true,
-      "overallPercentDiff": 416.73,
+      "overallPercentDiff": 415.92,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1546,9 +1511,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:46.773Z",
           "currentPriceCents": 459900,
-          "currentPriceEurCents": 1266,
+          "currentPriceEurCents": 1264,
           "referencePriceCents": 459900,
-          "referencePriceEurCents": 1266
+          "referencePriceEurCents": 1264
         }
       ]
     },
@@ -1556,7 +1521,7 @@
       "productId": 10595,
       "brand": "L'ORÉAL PARiS",
       "isCountryExtreme": true,
-      "overallPercentDiff": 416.73,
+      "overallPercentDiff": 415.92,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1620,9 +1585,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:25.549Z",
           "currentPriceCents": 459900,
-          "currentPriceEurCents": 1266,
+          "currentPriceEurCents": 1264,
           "referencePriceCents": 459900,
-          "referencePriceEurCents": 1266
+          "referencePriceEurCents": 1264
         }
       ]
     },
@@ -1694,9 +1659,57 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:19.940Z",
           "currentPriceCents": 219900,
-          "currentPriceEurCents": 605,
+          "currentPriceEurCents": 604,
           "referencePriceCents": 219900,
-          "referencePriceEurCents": 605
+          "referencePriceEurCents": 604
+        }
+      ]
+    },
+    {
+      "productId": 1767,
+      "brand": "syoss",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 376,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Sprej za oblikovanje kose Glaze 3u1 Topcoat, 200 ml",
+          "url": "https://www.dm.hr/p/d/3117103/syoss-sprej-za-oblikovanje-kose-glaze-3u1-topcoat",
+          "isPromo": true,
+          "observedAt": "2026-08-28T15:54:21.709Z",
+          "currentPriceCents": 150,
+          "currentPriceEurCents": 150,
+          "referencePriceCents": 150,
+          "referencePriceEurCents": 150
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Nadlak za lase Glaze, 200 ml",
+          "url": "https://www.dm.si/p/d/3117103/syoss-nadlak-za-lase-glaze",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:32.828Z",
+          "currentPriceCents": 545,
+          "currentPriceEurCents": 545,
+          "referencePriceCents": 545,
+          "referencePriceEurCents": 545
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Hajformázó spray Glaze Fedőréteg, 200 ml",
+          "url": "https://www.dm.hu/p/d/3117103/syoss-hajformazo-spray-glaze-fedoreteg",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:54.339Z",
+          "currentPriceCents": 259900,
+          "currentPriceEurCents": 714,
+          "referencePriceCents": 259900,
+          "referencePriceEurCents": 714
         }
       ]
     }

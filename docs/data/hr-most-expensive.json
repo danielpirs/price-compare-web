@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-08T09:27:05.485Z",
+  "generatedAt": "2026-09-09T09:28:33.227Z",
   "fx": {
-    "asOf": "2026-09-07",
+    "asOf": "2026-09-08",
     "rates": {
-      "USD": 1.1622,
-      "JPY": 179.85,
-      "CZK": 24.197,
-      "DKK": 7.4746,
-      "GBP": 0.85894,
-      "HUF": 363.2,
-      "PLN": 4.3103,
-      "RON": 5.2519,
-      "SEK": 11.162,
-      "CHF": 0.9405,
-      "ISK": 140.8,
-      "NOK": 10.774,
-      "TRY": 56.289,
-      "AUD": 1.6109,
-      "BRL": 5.9576,
-      "CAD": 1.6062,
-      "CNY": 7.7995,
-      "HKD": 9.1119,
-      "IDR": 20509.29,
-      "ILS": 3.4991,
-      "INR": 109.821,
-      "KRW": 1566.56,
-      "MXN": 19.6552,
-      "MYR": 4.7023,
-      "NZD": 1.978,
-      "PHP": 72.801,
-      "SGD": 1.4716,
-      "THB": 38.231,
-      "ZAR": 18.5856
+      "USD": 1.1614,
+      "JPY": 179.2,
+      "CZK": 24.186,
+      "DKK": 7.4748,
+      "GBP": 0.8574,
+      "HUF": 363.95,
+      "PLN": 4.3178,
+      "RON": 5.25,
+      "SEK": 11.152,
+      "CHF": 0.9425,
+      "ISK": 140.4,
+      "NOK": 10.745,
+      "TRY": 56.2814,
+      "AUD": 1.6098,
+      "BRL": 5.936,
+      "CAD": 1.6033,
+      "CNY": 7.7936,
+      "HKD": 9.1068,
+      "IDR": 20436.92,
+      "ILS": 3.4979,
+      "INR": 110.1315,
+      "KRW": 1558.22,
+      "MXN": 19.6869,
+      "MYR": 4.717,
+      "NZD": 1.9877,
+      "PHP": 72.597,
+      "SGD": 1.4701,
+      "THB": 38.227,
+      "ZAR": 18.6103
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -203,9 +203,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:28.672Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 495,
+          "currentPriceEurCents": 494,
           "referencePriceCents": 179900,
-          "referencePriceEurCents": 495
+          "referencePriceEurCents": 494
         }
       ]
     },
@@ -251,9 +251,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:49.604Z",
           "currentPriceCents": 499900,
-          "currentPriceEurCents": 1376,
+          "currentPriceEurCents": 1374,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1376
+          "referencePriceEurCents": 1374
         }
       ]
     },
@@ -299,9 +299,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:41.384Z",
           "currentPriceCents": 100900,
-          "currentPriceEurCents": 278,
+          "currentPriceEurCents": 277,
           "referencePriceCents": 100900,
-          "referencePriceEurCents": 278
+          "referencePriceEurCents": 277
         }
       ]
     },
@@ -459,45 +459,10 @@
       ]
     },
     {
-      "productId": 7177,
-      "brand": "Colgate",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 625.61,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Četkica za zube Ultra Soft duopack, više vrsta, 2 kom.",
-          "url": "https://www.dm.hr/p/d/2031113/colgate-cetkica-za-zube-ultra-soft-duopack-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:41.759Z",
-          "currentPriceCents": 595,
-          "currentPriceEurCents": 595,
-          "referencePriceCents": 595,
-          "referencePriceEurCents": 595
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkefe, ultra soft smile love (többféle), 2 db",
-          "url": "https://www.dm.hu/p/d/2031113/colgate-fogkefe-ultra-soft-smile-love-tobbfele",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:49.421Z",
-          "currentPriceCents": 29900,
-          "currentPriceEurCents": 82,
-          "referencePriceCents": 29900,
-          "referencePriceEurCents": 82
-        }
-      ]
-    },
-    {
       "productId": 9740,
       "brand": "Moschino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 610.76,
+      "overallPercentDiff": 611.79,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -535,9 +500,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:19.940Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 688,
+          "currentPriceEurCents": 687,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 688
+          "referencePriceEurCents": 687
         }
       ]
     },
@@ -736,44 +701,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:52.512Z",
           "currentPriceCents": 169900,
-          "currentPriceEurCents": 468,
+          "currentPriceEurCents": 467,
           "referencePriceCents": 169900,
-          "referencePriceEurCents": 468
-        }
-      ]
-    },
-    {
-      "productId": 1238,
-      "brand": "NIVEA BABY",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 518.75,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Njegujuće ulje za masažu, 200 ml",
-          "url": "https://www.dm.hr/p/d/2032031/nivea-baby-njegujuce-ulje-za-masazu",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:50:49.982Z",
-          "currentPriceCents": 495,
-          "currentPriceEurCents": 495,
-          "referencePriceCents": 495,
-          "referencePriceEurCents": 495
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Masažno olje za dojenčke, 200 ml",
-          "url": "https://www.dm.si/p/d/2032031/nivea-baby-masazno-olje-za-dojencke",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:55.654Z",
-          "currentPriceCents": 80,
-          "currentPriceEurCents": 80,
-          "referencePriceCents": 80,
-          "referencePriceEurCents": 80
+          "referencePriceEurCents": 467
         }
       ]
     },
@@ -864,7 +794,7 @@
       "productId": 10590,
       "brand": "FURLA",
       "isCountryExtreme": true,
-      "overallPercentDiff": 449.82,
+      "overallPercentDiff": 451.12,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -902,9 +832,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:19.940Z",
           "currentPriceCents": 309900,
-          "currentPriceEurCents": 853,
+          "currentPriceEurCents": 851,
           "referencePriceCents": 309900,
-          "referencePriceEurCents": 853
+          "referencePriceEurCents": 851
         }
       ]
     },
@@ -1066,67 +996,6 @@
       ]
     },
     {
-      "productId": 4158,
-      "brand": "HiPP Babysanft",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 411.76,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Babysanft losion s mlijekom, 350 ml",
-          "url": "https://www.dm.hr/p/d/1647234/hipp-babysanft-babysanft-losion-s-mlijekom",
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:10:50.290Z",
-          "currentPriceCents": 435,
-          "currentPriceEurCents": 435,
-          "referencePriceCents": 435,
-          "referencePriceEurCents": 435
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Negovalni losjon z mlekom Babysanft, 350 ml",
-          "url": "https://www.dm.si/p/d/1647234/hipp-babysanft-negovalni-losjon-z-mlekom-babysanft",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:55.654Z",
-          "currentPriceCents": 85,
-          "currentPriceEurCents": 85,
-          "referencePriceCents": 85,
-          "referencePriceEurCents": 85
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Baby Milk Lotion sensitiv, 350 ml",
-          "url": "https://www.dm.at/p/d/1647234/hipp-babysanft-baby-milk-lotion-sensitiv",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:36:27.397Z",
-          "currentPriceCents": 345,
-          "currentPriceEurCents": 345,
-          "referencePriceCents": 345,
-          "referencePriceEurCents": 345
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Baby Milk Lotion sensitiv, 350 ml",
-          "url": "https://www.dm.de/p/d/1647234/hipp-babysanft-baby-milk-lotion-sensitiv",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:38.349Z",
-          "currentPriceCents": 375,
-          "currentPriceEurCents": 375,
-          "referencePriceCents": 375,
-          "referencePriceEurCents": 375
-        }
-      ]
-    },
-    {
       "productId": 10188,
       "brand": "Rexona",
       "isCountryExtreme": true,
@@ -1283,7 +1152,7 @@
       "productId": 10440,
       "brand": "Mixa",
       "isCountryExtreme": true,
-      "overallPercentDiff": 370.59,
+      "overallPercentDiff": 372.22,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1308,9 +1177,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:52.512Z",
           "currentPriceCents": 104900,
-          "currentPriceEurCents": 289,
+          "currentPriceEurCents": 288,
           "referencePriceCents": 104900,
-          "referencePriceEurCents": 289
+          "referencePriceEurCents": 288
         }
       ]
     },
@@ -1359,6 +1228,150 @@
           "currentPriceEurCents": 82,
           "referencePriceCents": 29900,
           "referencePriceEurCents": 82
+        }
+      ]
+    },
+    {
+      "productId": 6316,
+      "brand": "KEUNE",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 344.68,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Tinta Color Ultimate Cover – 6.00 Dark Blonde, 1 kom.",
+          "url": "https://www.dm.hr/p/d/2205689/keune-tinta-color-ultimate-cover-6-00-dark-blonde",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:35.997Z",
+          "currentPriceCents": 1045,
+          "currentPriceEurCents": 1045,
+          "referencePriceCents": 1045,
+          "referencePriceEurCents": 1045
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Trajno obstojna barva za lase Tinta Color, 6.00..., 60 ml",
+          "url": "https://www.dm.si/p/d/2205689/keune-trajno-obstojna-barva-za-lase-tinta-color-6-00-uc-temno-blond",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:35:07.886Z",
+          "currentPriceCents": 235,
+          "currentPriceEurCents": 235,
+          "referencePriceCents": 235,
+          "referencePriceEurCents": 235
+        }
+      ]
+    },
+    {
+      "productId": 3887,
+      "brand": "Domestos",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 341.18,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Domestos Power 5 Magic Unicorn osvježivač za WC,..., 100 g",
+          "url": "https://www.dm.hr/p/d/2952670/domestos-domestos-power-5-magic-unicorn-osvjezivac-za-wc-2-x-50-g",
+          "isPromo": false,
+          "observedAt": "2026-08-28T16:08:58.548Z",
+          "currentPriceCents": 375,
+          "currentPriceEurCents": 375,
+          "referencePriceCents": 375,
+          "referencePriceEurCents": 375
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "WC obešanka Power 5 Magic Unicorn, 2 kos",
+          "url": "https://www.dm.si/p/d/2952670/domestos-wc-obesanka-power-5-magic-unicorn",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:57.127Z",
+          "currentPriceCents": 85,
+          "currentPriceEurCents": 85,
+          "referencePriceCents": 85,
+          "referencePriceEurCents": 85
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "WC-Stein Magic Unicorn, 2 St",
+          "url": "https://www.dm.de/p/d/2952670/domestos-wc-stein-magic-unicorn",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:11.101Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "WC tisztító rúd Unikornis (2x50g), 2 db",
+          "url": "https://www.dm.hu/p/d/2952670/domestos-wc-tisztito-rud-unikornis-2x50g",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:29:55.346Z",
+          "currentPriceCents": 119900,
+          "currentPriceEurCents": 329,
+          "referencePriceCents": 119900,
+          "referencePriceEurCents": 329
+        }
+      ]
+    },
+    {
+      "productId": 1204,
+      "brand": "ebelin",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 340.91,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Gua Sha kamen za masažu – roze boje, 1 kom.",
+          "url": "https://www.dm.hr/p/d/1711461/ebelin-gua-sha-kamen-za-masazu-roze-boje",
+          "isPromo": true,
+          "observedAt": "2026-08-28T15:50:36.323Z",
+          "currentPriceCents": 485,
+          "currentPriceEurCents": 485,
+          "referencePriceCents": 485,
+          "referencePriceEurCents": 485
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Gua-Sha masažni kamen iz rožnega kremena, 1 kos",
+          "url": "https://www.dm.si/p/d/1711461/ebelin-gua-sha-masazni-kamen-iz-roznega-kremena",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:33:59.311Z",
+          "currentPriceCents": 410,
+          "currentPriceEurCents": 410,
+          "referencePriceCents": 410,
+          "referencePriceEurCents": 410
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Gua Sha masszázskő rózsakvarcból, 1 db",
+          "url": "https://www.dm.hu/p/d/1711461/ebelin-gua-sha-masszazsko-rozsakvarcbol",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:59.780Z",
+          "currentPriceCents": 39900,
+          "currentPriceEurCents": 110,
+          "referencePriceCents": 39900,
+          "referencePriceEurCents": 110
         }
       ]
     }

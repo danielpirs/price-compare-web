@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-08T09:27:05.485Z",
+  "generatedAt": "2026-09-09T09:28:33.227Z",
   "fx": {
-    "asOf": "2026-09-07",
+    "asOf": "2026-09-08",
     "rates": {
-      "USD": 1.1622,
-      "JPY": 179.85,
-      "CZK": 24.197,
-      "DKK": 7.4746,
-      "GBP": 0.85894,
-      "HUF": 363.2,
-      "PLN": 4.3103,
-      "RON": 5.2519,
-      "SEK": 11.162,
-      "CHF": 0.9405,
-      "ISK": 140.8,
-      "NOK": 10.774,
-      "TRY": 56.289,
-      "AUD": 1.6109,
-      "BRL": 5.9576,
-      "CAD": 1.6062,
-      "CNY": 7.7995,
-      "HKD": 9.1119,
-      "IDR": 20509.29,
-      "ILS": 3.4991,
-      "INR": 109.821,
-      "KRW": 1566.56,
-      "MXN": 19.6552,
-      "MYR": 4.7023,
-      "NZD": 1.978,
-      "PHP": 72.801,
-      "SGD": 1.4716,
-      "THB": 38.231,
-      "ZAR": 18.5856
+      "USD": 1.1614,
+      "JPY": 179.2,
+      "CZK": 24.186,
+      "DKK": 7.4748,
+      "GBP": 0.8574,
+      "HUF": 363.95,
+      "PLN": 4.3178,
+      "RON": 5.25,
+      "SEK": 11.152,
+      "CHF": 0.9425,
+      "ISK": 140.4,
+      "NOK": 10.745,
+      "TRY": 56.2814,
+      "AUD": 1.6098,
+      "BRL": 5.936,
+      "CAD": 1.6033,
+      "CNY": 7.7936,
+      "HKD": 9.1068,
+      "IDR": 20436.92,
+      "ILS": 3.4979,
+      "INR": 110.1315,
+      "KRW": 1558.22,
+      "MXN": 19.6869,
+      "MYR": 4.717,
+      "NZD": 1.9877,
+      "PHP": 72.597,
+      "SGD": 1.4701,
+      "THB": 38.227,
+      "ZAR": 18.6103
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -417,9 +417,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:19.940Z",
           "currentPriceCents": 32900,
-          "currentPriceEurCents": 91,
+          "currentPriceEurCents": 90,
           "referencePriceCents": 32900,
-          "referencePriceEurCents": 91
+          "referencePriceEurCents": 90
         }
       ]
     },
@@ -708,67 +708,6 @@
       ]
     },
     {
-      "productId": 20322,
-      "brand": "NIVEA SUN",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 494.76,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Krema za zaščito obraza pred soncem Q10 AntiAge &..., 50 ml",
-          "url": "https://www.dm.si/p/d/1536172/nivea-sun-krema-za-zascito-obraza-pred-soncem-q10-antiage-antipigments-zf-50",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:41.124Z",
-          "currentPriceCents": 1475,
-          "currentPriceEurCents": 1475,
-          "referencePriceCents": 1475,
-          "referencePriceEurCents": 1475
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Sonnencreme Gesicht Anti Age LSF 50, 50 ml",
-          "url": "https://www.dm.at/p/d/1536172/nivea-sun-sonnencreme-gesicht-anti-age-lsf-50",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:37:00.166Z",
-          "currentPriceCents": 745,
-          "currentPriceEurCents": 745,
-          "referencePriceCents": 745,
-          "referencePriceEurCents": 745
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Sonnencreme Gesicht Anti Age, LSF 50, 50 ml",
-          "url": "https://www.dm.de/p/d/1536172/nivea-sun-sonnencreme-gesicht-anti-age-lsf-50",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:03.187Z",
-          "currentPriceCents": 1095,
-          "currentPriceEurCents": 1095,
-          "referencePriceCents": 1095,
-          "referencePriceEurCents": 1095
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Napozó arckrém FF50, Anti Age, 50 ml",
-          "url": "https://www.dm.hu/p/d/1536172/nivea-sun-napozo-arckrem-ff50-anti-age",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:57.806Z",
-          "currentPriceCents": 89900,
-          "currentPriceEurCents": 248,
-          "referencePriceCents": 89900,
-          "referencePriceEurCents": 248
-        }
-      ]
-    },
-    {
       "productId": 21007,
       "brand": "Sanft&Sicher",
       "isCountryExtreme": true,
@@ -842,7 +781,7 @@
       "productId": 18305,
       "brand": "NIVEA MEN",
       "isCountryExtreme": true,
-      "overallPercentDiff": 465.22,
+      "overallPercentDiff": 473.53,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -867,9 +806,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:49.604Z",
           "currentPriceCents": 24900,
-          "currentPriceEurCents": 69,
+          "currentPriceEurCents": 68,
           "referencePriceCents": 24900,
-          "referencePriceEurCents": 69
+          "referencePriceEurCents": 68
         }
       ]
     },
@@ -1127,45 +1066,10 @@
       ]
     },
     {
-      "productId": 6033,
-      "brand": "ogx",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 448.28,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "brazilian keratin smooth šampon za kosu, 385 ml",
-          "url": "https://www.dm.hr/p/d/1577940/ogx-brazilian-keratin-smooth-sampon-za-kosu",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:32:34.936Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Šampon za gladke lase Smooth & Sleek, 385 ml",
-          "url": "https://www.dm.si/p/d/1577940/ogx-sampon-za-gladke-lase-smooth-sleek",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:19.947Z",
-          "currentPriceCents": 795,
-          "currentPriceEurCents": 795,
-          "referencePriceCents": 795,
-          "referencePriceEurCents": 795
-        }
-      ]
-    },
-    {
       "productId": 18312,
       "brand": "Elizabeth Arden",
       "isCountryExtreme": true,
-      "overallPercentDiff": 444.55,
+      "overallPercentDiff": 445.54,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1190,9 +1094,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:19.940Z",
           "currentPriceCents": 199900,
-          "currentPriceEurCents": 550,
+          "currentPriceEurCents": 549,
           "referencePriceCents": 199900,
-          "referencePriceEurCents": 550
+          "referencePriceEurCents": 549
         }
       ]
     },
@@ -1398,6 +1302,115 @@
           "currentPriceEurCents": 82,
           "referencePriceCents": 29900,
           "referencePriceEurCents": 82
+        }
+      ]
+    },
+    {
+      "productId": 1589,
+      "brand": "ebelin",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 412.2,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Masažna četka za lice, više vrsta, 1 kom.",
+          "url": "https://www.dm.hr/p/d/1691588/ebelin-masazna-cetka-za-lice-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:53:15.146Z",
+          "currentPriceCents": 175,
+          "currentPriceEurCents": 175,
+          "referencePriceCents": 175,
+          "referencePriceEurCents": 175
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Ščetka za masažo obraza, več različic, 1 kos",
+          "url": "https://www.dm.si/p/d/1691588/ebelin-scetka-za-masazo-obraza-vec-razlicic",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:44.749Z",
+          "currentPriceCents": 210,
+          "currentPriceEurCents": 210,
+          "referencePriceCents": 210,
+          "referencePriceEurCents": 210
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Massagetool Gesicht sortiert, 1 St",
+          "url": "https://www.dm.at/p/d/1691588/ebelin-massagetool-gesicht-sortiert",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:14.610Z",
+          "currentPriceCents": 175,
+          "currentPriceEurCents": 175,
+          "referencePriceCents": 175,
+          "referencePriceEurCents": 175
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Gesichtsmassagebürste, 1 St",
+          "url": "https://www.dm.de/p/d/1691588/ebelin-gesichtsmassagebuerste",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:33.730Z",
+          "currentPriceCents": 175,
+          "currentPriceEurCents": 175,
+          "referencePriceCents": 175,
+          "referencePriceEurCents": 175
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Arcmasszírozó kefe, 1 db",
+          "url": "https://www.dm.hu/p/d/1691588/ebelin-arcmasszirozo-kefe",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:42.358Z",
+          "currentPriceCents": 14900,
+          "currentPriceEurCents": 41,
+          "referencePriceCents": 14900,
+          "referencePriceEurCents": 41
+        }
+      ]
+    },
+    {
+      "productId": 19959,
+      "brand": "ebelin",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 407.35,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Blazinice za čiščenje kože z mrežico za pranje, 10 kos",
+          "url": "https://www.dm.si/p/d/1589774/ebelin-blazinice-za-ciscenje-koze-z-mrezico-za-pranje",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:36.892Z",
+          "currentPriceCents": 345,
+          "currentPriceEurCents": 345,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Sminklemosó korong mosóhálóval, 10 db",
+          "url": "https://www.dm.hu/p/d/1589774/ebelin-sminklemoso-korong-mosohaloval",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:59.780Z",
+          "currentPriceCents": 24900,
+          "currentPriceEurCents": 68,
+          "referencePriceCents": 24900,
+          "referencePriceEurCents": 68
         }
       ]
     }
