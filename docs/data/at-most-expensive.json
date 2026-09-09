@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-09T09:28:33.227Z",
+  "generatedAt": "2026-09-09T21:00:13.123Z",
   "fx": {
-    "asOf": "2026-09-08",
+    "asOf": "2026-09-09",
     "rates": {
-      "USD": 1.1614,
-      "JPY": 179.2,
-      "CZK": 24.186,
+      "USD": 1.1652,
+      "JPY": 178.59,
+      "CZK": 24.247,
       "DKK": 7.4748,
-      "GBP": 0.8574,
+      "GBP": 0.85898,
       "HUF": 363.95,
-      "PLN": 4.3178,
-      "RON": 5.25,
-      "SEK": 11.152,
-      "CHF": 0.9425,
+      "PLN": 4.3153,
+      "RON": 5.2546,
+      "SEK": 11.1495,
+      "CHF": 0.9404,
       "ISK": 140.4,
-      "NOK": 10.745,
-      "TRY": 56.2814,
-      "AUD": 1.6098,
-      "BRL": 5.936,
-      "CAD": 1.6033,
-      "CNY": 7.7936,
-      "HKD": 9.1068,
-      "IDR": 20436.92,
-      "ILS": 3.4979,
-      "INR": 110.1315,
-      "KRW": 1558.22,
-      "MXN": 19.6869,
-      "MYR": 4.717,
-      "NZD": 1.9877,
-      "PHP": 72.597,
-      "SGD": 1.4701,
-      "THB": 38.227,
-      "ZAR": 18.6103
+      "NOK": 10.6975,
+      "TRY": 56.4857,
+      "AUD": 1.6128,
+      "BRL": 5.9296,
+      "CAD": 1.6043,
+      "CNY": 7.8159,
+      "HKD": 9.1378,
+      "IDR": 20362.8,
+      "ILS": 3.518,
+      "INR": 110.8225,
+      "KRW": 1556.94,
+      "MXN": 19.6948,
+      "MYR": 4.7424,
+      "NZD": 1.9903,
+      "PHP": 72.815,
+      "SGD": 1.4721,
+      "THB": 38.306,
+      "ZAR": 18.6896
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -359,67 +359,6 @@
           "currentPriceEurCents": 695,
           "referencePriceCents": 695,
           "referencePriceEurCents": 695
-        }
-      ]
-    },
-    {
-      "productId": 20208,
-      "brand": "dmBio",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 600,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Bio pripravek iz govedine, od 5. meseca, 125 g",
-          "url": "https://www.dm.si/p/d/1449699/dmbio-bio-pripravek-iz-govedine-od-5-meseca",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:39.058Z",
-          "currentPriceCents": 25,
-          "currentPriceEurCents": 25,
-          "referencePriceCents": 25,
-          "referencePriceEurCents": 25
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Menü Rindfleisch Zubereitung ab dem 5. Monat, 125 g",
-          "url": "https://www.dm.at/p/d/1449699/dmbio-menue-rindfleisch-zubereitung-ab-dem-5-monat",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:16.249Z",
-          "currentPriceCents": 175,
-          "currentPriceEurCents": 175,
-          "referencePriceCents": 175,
-          "referencePriceEurCents": 175
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Rindfleisch Zubereitung ab dem 5. Monat, 125 g",
-          "url": "https://www.dm.de/p/d/1449699/dmbio-rindfleisch-zubereitung-ab-dem-5-monat",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:25.192Z",
-          "currentPriceCents": 165,
-          "currentPriceEurCents": 165,
-          "referencePriceCents": 165,
-          "referencePriceEurCents": 165
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Bio bébimenü marhahúsos készítmény, 5. hónapos..., 125 g",
-          "url": "https://www.dm.hu/p/d/1449699/dmbio-bio-bebimenu-marhahusos-keszitmeny-5-honapos-kortol",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:16.800Z",
-          "currentPriceCents": 61900,
-          "currentPriceEurCents": 170,
-          "referencePriceCents": 61900,
-          "referencePriceEurCents": 170
         }
       ]
     },
@@ -1161,54 +1100,6 @@
       ]
     },
     {
-      "productId": 17812,
-      "brand": "essence",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 425.13,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Set za trepalnice Lash Princess Lengthening Eye, 1 kos",
-          "url": "https://www.dm.si/p/d/3081574/essence-set-za-trepalnice-lash-princess-lengthening-eye",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:17.085Z",
-          "currentPriceCents": 199,
-          "currentPriceEurCents": 199,
-          "referencePriceCents": 199,
-          "referencePriceEurCents": 199
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Geschenkset Lash Princess Lengthening Eye, 1 St",
-          "url": "https://www.dm.at/p/d/3081574/essence-geschenkset-lash-princess-lengthening-eye",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:09.884Z",
-          "currentPriceCents": 1045,
-          "currentPriceEurCents": 1045,
-          "referencePriceCents": 1045,
-          "referencePriceEurCents": 1045
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Geschenkset Lash Princess Lengthening Eye 3tlg, 1 St",
-          "url": "https://www.dm.de/p/d/3081574/essence-geschenkset-lash-princess-lengthening-eye-3tlg",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:10.408Z",
-          "currentPriceCents": 1025,
-          "currentPriceEurCents": 1025,
-          "referencePriceCents": 1025,
-          "referencePriceEurCents": 1025
-        }
-      ]
-    },
-    {
       "productId": 1143,
       "brand": "Batiste",
       "isCountryExtreme": true,
@@ -1475,80 +1366,6 @@
       ]
     },
     {
-      "productId": 12994,
-      "brand": "CATRICE",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 400,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Bronze Glow Grip primer za lice – 010 Sun Glazed, 30 ml",
-          "url": "https://www.dm.hr/p/d/3082175/catrice-bronze-glow-grip-primer-za-lice-010-sun-glazed",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:33:17.918Z",
-          "currentPriceCents": 255,
-          "currentPriceEurCents": 255,
-          "referencePriceCents": 255,
-          "referencePriceEurCents": 255
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Primer za obraz Bronze Glow Grip, 30 ml",
-          "url": "https://www.dm.si/p/d/3082175/catrice-primer-za-obraz-bronze-glow-grip",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:43.957Z",
-          "currentPriceCents": 99,
-          "currentPriceEurCents": 99,
-          "referencePriceCents": 99,
-          "referencePriceEurCents": 99
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Primer Grip Bronze Glow 010 Sun Glazed, 30 ml",
-          "url": "https://www.dm.at/p/d/3082175/catrice-primer-grip-bronze-glow-010-sun-glazed",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:37:44.231Z",
-          "currentPriceCents": 495,
-          "currentPriceEurCents": 495,
-          "referencePriceCents": 495,
-          "referencePriceEurCents": 495
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Primer Bronze Glow Grip 010 Sun Glazed, 30 ml",
-          "url": "https://www.dm.de/p/d/3082175/catrice-primer-bronze-glow-grip-010-sun-glazed",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:31.956Z",
-          "currentPriceCents": 495,
-          "currentPriceEurCents": 495,
-          "referencePriceCents": 495,
-          "referencePriceEurCents": 495
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Primer, Bronze Glow Grip - Nr. 010 Sun Glazed, 30 ml",
-          "url": "https://www.dm.hu/p/d/3082175/catrice-primer-bronze-glow-grip-nr-010-sun-glazed",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:24.785Z",
-          "currentPriceCents": 99900,
-          "currentPriceEurCents": 274,
-          "referencePriceCents": 99900,
-          "referencePriceEurCents": 274
-        }
-      ]
-    },
-    {
       "productId": 17777,
       "brand": "MAYBELLINE NEW YORK",
       "isCountryExtreme": true,
@@ -1593,6 +1410,124 @@
           "currentPriceEurCents": 695,
           "referencePriceCents": 695,
           "referencePriceEurCents": 695
+        }
+      ]
+    },
+    {
+      "productId": 20309,
+      "brand": "Profissimo",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 400,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Okrasna sveča, rumena, 10 cm, 1 kos",
+          "url": "https://www.dm.si/p/d/1569899/profissimo-okrasna-sveca-rumena-10-cm",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:41.124Z",
+          "currentPriceCents": 45,
+          "currentPriceEurCents": 45,
+          "referencePriceCents": 45,
+          "referencePriceEurCents": 45
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Rustik Stumpenkerze 100/68 mm - gelb, 1 St",
+          "url": "https://www.dm.at/p/d/1569899/profissimo-rustik-stumpenkerze-100-68-mm-gelb",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:37:07.403Z",
+          "currentPriceCents": 225,
+          "currentPriceEurCents": 225,
+          "referencePriceCents": 225,
+          "referencePriceEurCents": 225
+        }
+      ]
+    },
+    {
+      "productId": 32548,
+      "brand": "Nature Blossom",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 383.01,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Eau de Parfum Moonflower, 50 ml",
+          "url": "https://www.dm.at/p/d/1678609/nature-blossom-eau-de-parfum-moonflower",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:37:06.019Z",
+          "currentPriceCents": 1990,
+          "currentPriceEurCents": 1990,
+          "referencePriceCents": 1990,
+          "referencePriceEurCents": 1990
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Női EdP Moonflower, 50 ml",
+          "url": "https://www.dm.hu/p/d/1678609/nature-blossom-noi-edp-moonflower",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:32:19.940Z",
+          "currentPriceCents": 149900,
+          "currentPriceEurCents": 412,
+          "referencePriceCents": 149900,
+          "referencePriceEurCents": 412
+        }
+      ]
+    },
+    {
+      "productId": 10514,
+      "brand": "s.Oliver",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 376.08,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "The Absolute Scent edt, 50 ml",
+          "url": "https://www.dm.hr/p/d/3090849/s-oliver-the-absolute-scent-edt",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:33:02.420Z",
+          "currentPriceCents": 445,
+          "currentPriceEurCents": 445,
+          "referencePriceCents": 445,
+          "referencePriceEurCents": 445
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Eau de Toilette The Absolute Scent, 50 ml",
+          "url": "https://www.dm.at/p/d/3090849/s-oliver-eau-de-toilette-the-absolute-scent",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:37:37.997Z",
+          "currentPriceCents": 2090,
+          "currentPriceEurCents": 2090,
+          "referencePriceCents": 2090,
+          "referencePriceEurCents": 2090
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Férfi EdT, The Absolute Scent, 50 ml",
+          "url": "https://www.dm.hu/p/d/3090849/s-oliver-ferfi-edt-the-absolute-scent",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:32:19.940Z",
+          "currentPriceCents": 159900,
+          "currentPriceEurCents": 439,
+          "referencePriceCents": 159900,
+          "referencePriceEurCents": 439
         }
       ]
     }

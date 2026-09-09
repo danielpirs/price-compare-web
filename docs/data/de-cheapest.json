@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-09T09:28:33.227Z",
+  "generatedAt": "2026-09-09T21:00:13.123Z",
   "fx": {
-    "asOf": "2026-09-08",
+    "asOf": "2026-09-09",
     "rates": {
-      "USD": 1.1614,
-      "JPY": 179.2,
-      "CZK": 24.186,
+      "USD": 1.1652,
+      "JPY": 178.59,
+      "CZK": 24.247,
       "DKK": 7.4748,
-      "GBP": 0.8574,
+      "GBP": 0.85898,
       "HUF": 363.95,
-      "PLN": 4.3178,
-      "RON": 5.25,
-      "SEK": 11.152,
-      "CHF": 0.9425,
+      "PLN": 4.3153,
+      "RON": 5.2546,
+      "SEK": 11.1495,
+      "CHF": 0.9404,
       "ISK": 140.4,
-      "NOK": 10.745,
-      "TRY": 56.2814,
-      "AUD": 1.6098,
-      "BRL": 5.936,
-      "CAD": 1.6033,
-      "CNY": 7.7936,
-      "HKD": 9.1068,
-      "IDR": 20436.92,
-      "ILS": 3.4979,
-      "INR": 110.1315,
-      "KRW": 1558.22,
-      "MXN": 19.6869,
-      "MYR": 4.717,
-      "NZD": 1.9877,
-      "PHP": 72.597,
-      "SGD": 1.4701,
-      "THB": 38.227,
-      "ZAR": 18.6103
+      "NOK": 10.6975,
+      "TRY": 56.4857,
+      "AUD": 1.6128,
+      "BRL": 5.9296,
+      "CAD": 1.6043,
+      "CNY": 7.8159,
+      "HKD": 9.1378,
+      "IDR": 20362.8,
+      "ILS": 3.518,
+      "INR": 110.8225,
+      "KRW": 1556.94,
+      "MXN": 19.6948,
+      "MYR": 4.7424,
+      "NZD": 1.9903,
+      "PHP": 72.815,
+      "SGD": 1.4721,
+      "THB": 38.306,
+      "ZAR": 18.6896
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -254,54 +254,6 @@
           "currentPriceEurCents": 384,
           "referencePriceCents": 139900,
           "referencePriceEurCents": 384
-        }
-      ]
-    },
-    {
-      "productId": 16914,
-      "brand": "sundance",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 296,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Mleko za zaščito pred soncem, ZF 20 (srednja..., 200 ml",
-          "url": "https://www.dm.si/p/d/1214794/sundance-mleko-za-zascito-pred-soncem-zf-20-srednja-zascita",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:03.751Z",
-          "currentPriceCents": 350,
-          "currentPriceEurCents": 350,
-          "referencePriceCents": 350,
-          "referencePriceEurCents": 350
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Sonnenmilch LSF 20 Mittel, 200 ml",
-          "url": "https://www.dm.at/p/d/1214794/sundance-sonnenmilch-lsf-20-mittel",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:42.725Z",
-          "currentPriceCents": 495,
-          "currentPriceEurCents": 495,
-          "referencePriceCents": 495,
-          "referencePriceEurCents": 495
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Sonnenmilch LSF 20, 200 ml",
-          "url": "https://www.dm.de/p/d/1214794/sundance-sonnenmilch-lsf-20",
-          "isPromo": true,
-          "observedAt": "2026-08-31T20:41:09.552Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
         }
       ]
     },
@@ -1554,6 +1506,41 @@
           "currentPriceEurCents": 95,
           "referencePriceCents": 95,
           "referencePriceEurCents": 95
+        }
+      ]
+    },
+    {
+      "productId": 26283,
+      "brand": "Mivolis",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 205.13,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "FFP2 Atemschutz-Maske, 2 St",
+          "url": "https://www.dm.at/p/d/3115321/mivolis-ffp2-atemschutz-maske",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:47.163Z",
+          "currentPriceCents": 595,
+          "currentPriceEurCents": 595,
+          "referencePriceCents": 595,
+          "referencePriceEurCents": 595
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "FFP2 Atemschutzmaske, 2 St",
+          "url": "https://www.dm.de/p/d/3115321/mivolis-ffp2-atemschutzmaske",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:05.626Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 195,
+          "referencePriceEurCents": 195
         }
       ]
     }

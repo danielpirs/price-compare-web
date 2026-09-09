@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-09T09:28:33.227Z",
+  "generatedAt": "2026-09-09T21:00:13.123Z",
   "fx": {
-    "asOf": "2026-09-08",
+    "asOf": "2026-09-09",
     "rates": {
-      "USD": 1.1614,
-      "JPY": 179.2,
-      "CZK": 24.186,
+      "USD": 1.1652,
+      "JPY": 178.59,
+      "CZK": 24.247,
       "DKK": 7.4748,
-      "GBP": 0.8574,
+      "GBP": 0.85898,
       "HUF": 363.95,
-      "PLN": 4.3178,
-      "RON": 5.25,
-      "SEK": 11.152,
-      "CHF": 0.9425,
+      "PLN": 4.3153,
+      "RON": 5.2546,
+      "SEK": 11.1495,
+      "CHF": 0.9404,
       "ISK": 140.4,
-      "NOK": 10.745,
-      "TRY": 56.2814,
-      "AUD": 1.6098,
-      "BRL": 5.936,
-      "CAD": 1.6033,
-      "CNY": 7.7936,
-      "HKD": 9.1068,
-      "IDR": 20436.92,
-      "ILS": 3.4979,
-      "INR": 110.1315,
-      "KRW": 1558.22,
-      "MXN": 19.6869,
-      "MYR": 4.717,
-      "NZD": 1.9877,
-      "PHP": 72.597,
-      "SGD": 1.4701,
-      "THB": 38.227,
-      "ZAR": 18.6103
+      "NOK": 10.6975,
+      "TRY": 56.4857,
+      "AUD": 1.6128,
+      "BRL": 5.9296,
+      "CAD": 1.6043,
+      "CNY": 7.8159,
+      "HKD": 9.1378,
+      "IDR": 20362.8,
+      "ILS": 3.518,
+      "INR": 110.8225,
+      "KRW": 1556.94,
+      "MXN": 19.6948,
+      "MYR": 4.7424,
+      "NZD": 1.9903,
+      "PHP": 72.815,
+      "SGD": 1.4721,
+      "THB": 38.306,
+      "ZAR": 18.6896
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -1123,102 +1123,6 @@
       ]
     },
     {
-      "productId": 20208,
-      "brand": "dmBio",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 600,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Bio pripravek iz govedine, od 5. meseca, 125 g",
-          "url": "https://www.dm.si/p/d/1449699/dmbio-bio-pripravek-iz-govedine-od-5-meseca",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:39.058Z",
-          "currentPriceCents": 25,
-          "currentPriceEurCents": 25,
-          "referencePriceCents": 25,
-          "referencePriceEurCents": 25
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Menü Rindfleisch Zubereitung ab dem 5. Monat, 125 g",
-          "url": "https://www.dm.at/p/d/1449699/dmbio-menue-rindfleisch-zubereitung-ab-dem-5-monat",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:16.249Z",
-          "currentPriceCents": 175,
-          "currentPriceEurCents": 175,
-          "referencePriceCents": 175,
-          "referencePriceEurCents": 175
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Rindfleisch Zubereitung ab dem 5. Monat, 125 g",
-          "url": "https://www.dm.de/p/d/1449699/dmbio-rindfleisch-zubereitung-ab-dem-5-monat",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:25.192Z",
-          "currentPriceCents": 165,
-          "currentPriceEurCents": 165,
-          "referencePriceCents": 165,
-          "referencePriceEurCents": 165
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Bio bébimenü marhahúsos készítmény, 5. hónapos..., 125 g",
-          "url": "https://www.dm.hu/p/d/1449699/dmbio-bio-bebimenu-marhahusos-keszitmeny-5-honapos-kortol",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:16.800Z",
-          "currentPriceCents": 61900,
-          "currentPriceEurCents": 170,
-          "referencePriceCents": 61900,
-          "referencePriceEurCents": 170
-        }
-      ]
-    },
-    {
-      "productId": 22237,
-      "brand": "durex",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 588.96,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Kondomi Intense Orgasmic, 16 kos",
-          "url": "https://www.dm.si/p/d/2031561/durex-kondomi-intense-orgasmic",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:57.127Z",
-          "currentPriceCents": 299,
-          "currentPriceEurCents": 299,
-          "referencePriceCents": 299,
-          "referencePriceEurCents": 299
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Óvszer Intense Regular Fit Normal, 16 db",
-          "url": "https://www.dm.hu/p/d/2031561/durex-ovszer-intense-regular-fit-normal",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:51.781Z",
-          "currentPriceCents": 749900,
-          "currentPriceEurCents": 2060,
-          "referencePriceCents": 749900,
-          "referencePriceEurCents": 2060
-        }
-      ]
-    },
-    {
       "productId": 20479,
       "brand": "PARSA BEAUTY",
       "isCountryExtreme": true,
@@ -1346,6 +1250,89 @@
           "currentPriceEurCents": 96,
           "referencePriceCents": 34900,
           "referencePriceEurCents": 96
+        }
+      ]
+    },
+    {
+      "productId": 21567,
+      "brand": "Frosch",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 555.56,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Odstranjevalec vodnega kamna z močjo kisa, 300 ml",
+          "url": "https://www.dm.si/p/d/1919488/frosch-odstranjevalec-vodnega-kamna-z-mocjo-kisa",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:51.159Z",
+          "currentPriceCents": 45,
+          "currentPriceEurCents": 45,
+          "referencePriceCents": 45,
+          "referencePriceEurCents": 45
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Essigreiniger Essenz, 300 ml",
+          "url": "https://www.dm.at/p/d/1919488/frosch-essigreiniger-essenz",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:03.865Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Vízkőoldó háztartási géphez, 0,3 l",
+          "url": "https://www.dm.hu/p/d/1919488/frosch-vizkooldo-haztartasi-gephez",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:32:59.257Z",
+          "currentPriceCents": 99900,
+          "currentPriceEurCents": 274,
+          "referencePriceCents": 99900,
+          "referencePriceEurCents": 274
+        }
+      ]
+    },
+    {
+      "productId": 22145,
+      "brand": "Balea",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 551.52,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Dnevna krema za obraz BEAUTY EXPERT, 50 ml",
+          "url": "https://www.dm.si/p/d/1664290/balea-dnevna-krema-za-obraz-beauty-expert",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:57.127Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 99,
+          "referencePriceEurCents": 99
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Gesichtscreme Beauty Expert, 50 ml",
+          "url": "https://www.dm.at/p/d/1664290/balea-gesichtscreme-beauty-expert",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:37:24.563Z",
+          "currentPriceCents": 645,
+          "currentPriceEurCents": 645,
+          "referencePriceCents": 645,
+          "referencePriceEurCents": 645
         }
       ]
     }

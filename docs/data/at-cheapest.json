@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-09T09:28:33.227Z",
+  "generatedAt": "2026-09-09T21:00:13.123Z",
   "fx": {
-    "asOf": "2026-09-08",
+    "asOf": "2026-09-09",
     "rates": {
-      "USD": 1.1614,
-      "JPY": 179.2,
-      "CZK": 24.186,
+      "USD": 1.1652,
+      "JPY": 178.59,
+      "CZK": 24.247,
       "DKK": 7.4748,
-      "GBP": 0.8574,
+      "GBP": 0.85898,
       "HUF": 363.95,
-      "PLN": 4.3178,
-      "RON": 5.25,
-      "SEK": 11.152,
-      "CHF": 0.9425,
+      "PLN": 4.3153,
+      "RON": 5.2546,
+      "SEK": 11.1495,
+      "CHF": 0.9404,
       "ISK": 140.4,
-      "NOK": 10.745,
-      "TRY": 56.2814,
-      "AUD": 1.6098,
-      "BRL": 5.936,
-      "CAD": 1.6033,
-      "CNY": 7.7936,
-      "HKD": 9.1068,
-      "IDR": 20436.92,
-      "ILS": 3.4979,
-      "INR": 110.1315,
-      "KRW": 1558.22,
-      "MXN": 19.6869,
-      "MYR": 4.717,
-      "NZD": 1.9877,
-      "PHP": 72.597,
-      "SGD": 1.4701,
-      "THB": 38.227,
-      "ZAR": 18.6103
+      "NOK": 10.6975,
+      "TRY": 56.4857,
+      "AUD": 1.6128,
+      "BRL": 5.9296,
+      "CAD": 1.6043,
+      "CNY": 7.8159,
+      "HKD": 9.1378,
+      "IDR": 20362.8,
+      "ILS": 3.518,
+      "INR": 110.8225,
+      "KRW": 1556.94,
+      "MXN": 19.6948,
+      "MYR": 4.7424,
+      "NZD": 1.9903,
+      "PHP": 72.815,
+      "SGD": 1.4721,
+      "THB": 38.306,
+      "ZAR": 18.6896
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -839,41 +839,6 @@
       ]
     },
     {
-      "productId": 1462,
-      "brand": "TePe",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 198.53,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Zobna ščetka Supreme™, Soft, več različic, 3 kos",
-          "url": "https://www.dm.si/p/d/1903566/tepe-zobna-scetka-supreme-soft-vec-razlicic",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:52:18.258Z",
-          "currentPriceCents": 1015,
-          "currentPriceEurCents": 1015,
-          "referencePriceCents": 1015,
-          "referencePriceEurCents": 1015
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Zahnbürste Supreme Soft sortiert, 3 St",
-          "url": "https://www.dm.at/p/d/1903566/tepe-zahnbuerste-supreme-soft-sortiert",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:36:08.243Z",
-          "currentPriceCents": 340,
-          "currentPriceEurCents": 340,
-          "referencePriceCents": 340,
-          "referencePriceEurCents": 340
-        }
-      ]
-    },
-    {
       "productId": 27011,
       "brand": "Frosch",
       "isCountryExtreme": true,
@@ -1411,6 +1376,41 @@
           "currentPriceEurCents": 384,
           "referencePriceCents": 139900,
           "referencePriceEurCents": 384
+        }
+      ]
+    },
+    {
+      "productId": 17276,
+      "brand": "Dr.Beckmann",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 172.41,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Odstranjevalec vodnega kamna za električne aparate, 250 ml",
+          "url": "https://www.dm.si/p/d/1832299/dr-beckmann-odstranjevalec-vodnega-kamna-za-elektricne-aparate",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:10.434Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Entkalker Intensiv, 250 ml",
+          "url": "https://www.dm.at/p/d/1832299/dr-beckmann-entkalker-intensiv",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:35:40.418Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
         }
       ]
     }
