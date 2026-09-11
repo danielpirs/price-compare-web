@@ -15,6 +15,7 @@ import {
   esc,
   parseHash,
   countryCellHtml,
+  brandLineHtml,
   rowHtml,
   COUNTRY_ORDER,
   I18N,
@@ -152,13 +153,77 @@ test('countryCellHtml: all countries at the same price mark none as extreme', ()
 });
 
 test('rowHtml: renders the rank, picked name, brand and one cell per country in COUNTRY_ORDER', () => {
+  // an uncurated brand on purpose - this test is about the row's general
+  // plumbing (rank/name/country-cells), not brand-logo behaviour, which
+  // has its own tests below. A curated brand like NIVEA would make the
+  // plain ">NIVEA<" text assertion below false for reasons unrelated to
+  // what this test is checking.
   const item = {
-    brand: 'NIVEA',
+    brand: 'Uncurated Brand',
     countries: [{ countryCode: 'HR', name: 'Nivea', currentPriceEurCents: 500, isPromo: false, currency: 'EUR', observedAt: '2026-09-01T00:00:00Z' }],
   };
   const html = rowHtml(item, 4, 'hr');
   assert.match(html, />5</); // idx 4 -> rank 5
   assert.match(html, />Nivea</);
-  assert.match(html, />NIVEA</);
+  assert.match(html, />Uncurated Brand</);
   assert.equal((html.match(/pw-cell-country/g) || []).length, COUNTRY_ORDER.length);
+});
+
+// ---------- brand-logo badge (see docs/brandLogos.js) ----------
+
+test('brandLineHtml: no logo (the common case today) renders plain escaped brand text, nothing else', () => {
+  const html = brandLineHtml('Some & Brand', null);
+  assert.equal(html, '<span class="pw-brand">Some &amp; Brand</span>');
+});
+
+test('brandLineHtml: a logo with showBrandText:false renders only the badge, no duplicate text span', () => {
+  const logo = { file: 'foo.svg', showBrandText: false, linkUrl: 'https://foo.example/' };
+  const html = brandLineHtml('Foo', logo);
+  assert.match(html, /<a class="pw-brand-logo-link" href="https:\/\/foo\.example\/" target="_blank" rel="noopener">/);
+  assert.match(html, /<img class="pw-brand-logo" src="assets\/brands\/foo\.svg" alt="Foo">/);
+  assert.doesNotMatch(html, /pw-brand"/);
+});
+
+test('brandLineHtml: a logo with showBrandText:true renders the badge and the text span', () => {
+  const logo = { file: 'foo.svg', showBrandText: true, linkUrl: 'https://foo.example/' };
+  const html = brandLineHtml('Foo', logo);
+  assert.match(html, /pw-brand-logo/);
+  assert.match(html, /<span class="pw-brand">Foo<\/span>/);
+});
+
+test('brandLineHtml: the logo link and image src/alt are HTML-escaped', () => {
+  const logo = { file: 'foo.svg', showBrandText: false, linkUrl: 'https://foo.example/?a=1&b=2' };
+  const html = brandLineHtml('Foo & Bar', logo);
+  assert.match(html, /href="https:\/\/foo\.example\/\?a=1&amp;b=2"/);
+  assert.match(html, /alt="Foo &amp; Bar"/);
+});
+
+test('rowHtml: a curated brand (NIVEA) renders the logo badge instead of plain brand text', () => {
+  const item = {
+    brand: 'NIVEA',
+    countries: [{ countryCode: 'HR', name: 'Nivea krema', currentPriceEurCents: 500, isPromo: false, currency: 'EUR', observedAt: '2026-09-01T00:00:00Z' }],
+  };
+  const html = rowHtml(item, 0, 'hr');
+  assert.match(html, /src="assets\/brands\/nivea\.svg"/);
+  assert.match(html, /alt="NIVEA"/);
+});
+
+test('rowHtml: a NIVEA sub-line with no dedicated mark (NIVEA MEN) falls back to the NIVEA logo file, keeping its own alt text', () => {
+  const item = {
+    brand: 'NIVEA MEN',
+    countries: [{ countryCode: 'HR', name: 'Nivea Men gel za tuširanje', currentPriceEurCents: 500, isPromo: false, currency: 'EUR', observedAt: '2026-09-01T00:00:00Z' }],
+  };
+  const html = rowHtml(item, 0, 'hr');
+  assert.match(html, /src="assets\/brands\/nivea\.svg"/);
+  assert.match(html, /alt="NIVEA MEN"/);
+});
+
+test('rowHtml: an uncurated brand (the common case) renders exactly as before this feature - plain text, no badge markup', () => {
+  const item = {
+    brand: 'Balea',
+    countries: [{ countryCode: 'HR', name: 'Balea krema', currentPriceEurCents: 500, isPromo: false, currency: 'EUR', observedAt: '2026-09-01T00:00:00Z' }],
+  };
+  const html = rowHtml(item, 0, 'hr');
+  assert.doesNotMatch(html, /pw-brand-logo/);
+  assert.match(html, /<span class="pw-brand">Balea<\/span>/);
 });
