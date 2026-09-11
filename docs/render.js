@@ -5,6 +5,8 @@
 // the full rationale. Nothing in this file touches the DOM, localStorage,
 // or the network; every function takes what it needs as an argument.
 
+import { resolveBrandLogo } from './brandLogos.js';
+
 export var COUNTRY_ORDER = ['HR', 'SI', 'AT', 'DE', 'HU'];
 export var FLAGS = { HR: '🇭🇷', SI: '🇸🇮', AT: '🇦🇹', DE: '🇩🇪', HU: '🇭🇺' };
 export var LANGS = ['hr', 'sl', 'de', 'hu'];
@@ -179,12 +181,28 @@ export function countryCellHtml(item, cc, lang) {
   return '<div class="pw-cell-country" data-extreme="' + extreme + '" data-tooltip="' + esc(tooltip) + '">' + flag + priceInner + '</div>';
 }
 
+// The brand line under the product name: a logo badge (see
+// docs/brandLogos.js) when the brand is curated, linking out to the
+// brand's own site, plus the plain brand text - except when the logo
+// already spells the brand out (showBrandText: false), where the text
+// would just be a redundant repeat of the badge. No logo at all (the
+// common case) renders exactly as before this feature: plain text only.
+export function brandLineHtml(brand, logo) {
+  if (!logo) {
+    return '<span class="pw-brand">' + esc(brand) + '</span>';
+  }
+  var badge = '<a class="pw-brand-logo-link" href="' + esc(logo.linkUrl) + '" target="_blank" rel="noopener">' +
+    '<img class="pw-brand-logo" src="assets/brands/' + esc(logo.file) + '" alt="' + esc(brand) + '"></a>';
+  return badge + (logo.showBrandText ? '<span class="pw-brand">' + esc(brand) + '</span>' : '');
+}
+
 export function rowHtml(item, idx, lang) {
   var name = pickName(item, lang);
+  var logo = resolveBrandLogo(item.brand);
   var html = '<div class="pw-row">' +
     '<div class="pw-cell-product">' +
     '<span class="pw-rank">' + (idx + 1) + '</span>' +
-    '<div><div class="pw-name">' + esc(name) + '</div><div class="pw-brand">' + esc(item.brand) + '</div></div>' +
+    '<div><div class="pw-name">' + esc(name) + '</div><div class="pw-brand-line">' + brandLineHtml(item.brand, logo) + '</div></div>' +
     '</div>' +
     '<div class="pw-countries">';
   COUNTRY_ORDER.forEach(function (cc) { html += countryCellHtml(item, cc, lang); });
