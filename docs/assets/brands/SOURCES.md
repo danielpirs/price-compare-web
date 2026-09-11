@@ -16,6 +16,18 @@ searched-and-assumed) before it was committed.
 | `rexona.svg` | `Rexona` | [Rexona_logo_2018.svg](https://commons.wikimedia.org/wiki/File:Rexona_logo_2018.svg) | Public domain (marked `trademarked`) | Unilever |
 | `maybelline.svg` | `MAYBELLINE NEW YORK` | [Maybelline-Logo.svg](https://commons.wikimedia.org/wiki/File:Maybelline-Logo.svg) | Public domain (marked `trademarked`) | L'Oréal |
 | `soliver.svg` | `s.Oliver` | [S.Oliver_Logo_2010.svg](<https://commons.wikimedia.org/wiki/File:S.Oliver_Logo_2010.svg>) | Public domain (marked `trademarked`) | Unknown author (Commons category confirms the S.Oliver Group/Würzburg connection) |
+| `tomtailor.svg` | `TOM TAILOR` | [Tom_Tailor_Logo_2020.svg](https://commons.wikimedia.org/wiki/File:Tom_Tailor_Logo_2020.svg) | Public domain (marked `trademarked`) | TOM TAILOR E-Commerce GmbH |
+| `frosch.svg` | `Frosch` | [Frosch_logo.svg](https://commons.wikimedia.org/wiki/File:Frosch_logo.svg) | **VRTS-confirmed permission** from the rights holder (stronger than a bare PD-textlogo tag) | Werner & Mertz |
+| `oralb.svg` | `Oral-B` | [Oral-B_Logo_2024.svg](https://commons.wikimedia.org/wiki/File:Oral-B_Logo_2024.svg) | Public domain (marked `trademarked`) | Procter & Gamble |
+| `garnier.svg` | `Garnier` (synthetic family key - `GARNIER mineral`/`Garnier Men`/`Garnier Skin Active` all fall back to it; no bare "Garnier" is ever scraped) | [Garnier_wordmark.svg](https://commons.wikimedia.org/wiki/File:Garnier_wordmark.svg) | Public domain (marked `trademarked`) | L'Oréal |
+| `philipsavent.svg` | `PHILIPS AVENT` | [Philips_AVENT_logo.svg](https://commons.wikimedia.org/wiki/File:Philips_AVENT_logo.svg) | Public domain (marked `trademarked`) | Philips AVENT |
+| `vileda.svg` | `vileda` | [Vileda_Logo_2024.svg](https://commons.wikimedia.org/wiki/File:Vileda_Logo_2024.svg) | Public domain (marked `trademarked`) | Vileda GmbH (Freudenberg) |
+| `moschino.svg` | `Moschino` | [Moschino_logo.svg](https://commons.wikimedia.org/wiki/File:Moschino_logo.svg) | Public domain (marked `trademarked`) | Moschino |
+| `dolcegabbana.svg` | `DOLCE&GABBANA` | [Dolce_&_Gabbana.svg](<https://commons.wikimedia.org/wiki/File:Dolce_%26_Gabbana.svg>) | Public domain (marked `trademarked`) | Unknown author |
+| `hugoboss.svg` | `HUGO BOSS` | [Hugo_Boss_logo_2021.svg](https://commons.wikimedia.org/wiki/File:Hugo_Boss_logo_2021.svg) | Public domain (marked `trademarked`) | Hugo Boss AG |
+| `maxfactor.svg` | `MAX FACTOR` | [MaxFactor_logo.svg](https://commons.wikimedia.org/wiki/File:MaxFactor_logo.svg) | Public domain (marked `trademarked`) | Max Factor |
+| `hipp.svg` | `HiPP` | [HIPP-Logo.svg](https://commons.wikimedia.org/wiki/File:HIPP-Logo.svg) | Public domain (marked `trademarked`) | Unknown author (de.wikipedia link confirms the Hipp baby-food company) |
+| `mexx.svg` | `Mexx` | [Mexx_Logo.svg](https://commons.wikimedia.org/wiki/File:Mexx_Logo.svg) | Public domain (marked `trademarked`) | Unknown author (de.wikipedia link confirms Mexx the fashion company) |
 
 "Public domain (trademarked)" here means the *file's own copyright status*
 per its Commons license tag (usually because a simple wordmark/geometric
@@ -67,3 +79,33 @@ slice") has the full table; summary here:
   search, not assumed. These stay gated on the same dm-logo permission as
   the chain logo, per the "Brand logo" README item, regardless of how
   often they appear.
+
+**Full-catalogue pass, part 2 (2026-09-11/12) - covers the rest of the 99
+distinct brand strings, dm's own included this time on explicit
+instruction (accepting the risk the exclusion above describes, not a
+change in the underlying legal reasoning).** Added 12 more third-party
+brands (table above: TOM TAILOR, Frosch, Oral-B, Garnier, Philips AVENT,
+vileda, Moschino, DOLCE&GABBANA, HUGO BOSS, MAX FACTOR, HiPP, Mexx).
+Findings.md ("Brand-logo full-catalogue pass") has the complete
+brand-by-brand breakdown; two things worth keeping here:
+
+- *Every one of the 16 dm own-brand candidates checked (Balea, alverde,
+  trend !t up, ebelin, Profissimo, Dontodent, Denkmit, babylove,
+  HALLOHEBAMME, sundance, Mivolis, Dein Bestes, dmBio, Sanft&Sicher,
+  Saugstark&Sicher, Balea PROFESSIONAL) has no Commons file at all* - so
+  the ownership question this session raised turned out moot in practice:
+  none of them could have been curated either way. Commons' coverage
+  skews toward companies with independent notability (their own Wikipedia
+  article, typically), which dm's internal house brands generally don't
+  have - worth remembering if this list is revisited once dm's press-kit
+  question resolves, since Commons alone won't be the source then either.
+- *A second and third name-collision trap, both caught before
+  downloading:* a `GARNIER` search's top hit was "Garnier Frères" - an
+  unrelated 1900s French publishing house that happens to share a
+  surname, not L'Oréal's Garnier (the real one was a different file
+  further down the results); `EVELINE COSMETICS` search's only hit was
+  "Ewelina Kosmetyczna.svg" - a Polish cosmetician's own small-business
+  logo (Ewelina is a first name, "kosmetyczna" means "cosmetician"), not
+  the actual Eveline Cosmetics company. Both rejected the same way as
+  Dove/bugatti - reading the file's own `ObjectName`/`ImageDescription`/
+  `Categories`, not the search snippet.

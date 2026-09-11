@@ -228,6 +228,31 @@ test('rowHtml: a lowercase-scraped curated brand (adidas) resolves by exact stri
   assert.match(html, /alt="adidas"/);
 });
 
+test('rowHtml: a Garnier sub-line (GARNIER mineral) falls back to the synthetic "Garnier" family entry, which is not itself a scraped brand string', () => {
+  // unlike NIVEA (a real scraped brand string with its own entry), no bare
+  // "Garnier" ever appears in the scraped data - only its sub-lines do -
+  // so the fallback target here exists purely as a family parent, never
+  // resolved directly by rowHtml itself. Confirms fallbackKey doesn't
+  // require its target to be a real scraped brand.
+  const item = {
+    brand: 'GARNIER mineral',
+    countries: [{ countryCode: 'HR', name: 'Roll-on antiperspirant', currentPriceEurCents: 300, isPromo: false, currency: 'EUR', observedAt: '2026-09-01T00:00:00Z' }],
+  };
+  const html = rowHtml(item, 0, 'hr');
+  assert.match(html, /src="assets\/brands\/garnier\.svg"/);
+  assert.match(html, /alt="GARNIER mineral"/);
+});
+
+test('rowHtml: a showBrandText:true logo (Frosch - an icon-forward mark, not a wordmark) keeps both the badge and the text', () => {
+  const item = {
+    brand: 'Frosch',
+    countries: [{ countryCode: 'HR', name: 'Sredstvo za pranje posuđa', currentPriceEurCents: 250, isPromo: false, currency: 'EUR', observedAt: '2026-09-01T00:00:00Z' }],
+  };
+  const html = rowHtml(item, 0, 'hr');
+  assert.match(html, /src="assets\/brands\/frosch\.svg"/);
+  assert.match(html, /<span class="pw-brand">Frosch<\/span>/);
+});
+
 test('rowHtml: an uncurated brand (the common case) renders exactly as before this feature - plain text, no badge markup', () => {
   const item = {
     brand: 'Balea',
