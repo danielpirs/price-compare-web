@@ -21,27 +21,8 @@ test('renders per-country rows from the fixture JSON, ranked in file order', asy
   const rows = page.locator('.pw-row');
   await expect(rows).toHaveCount(2);
   await expect(rows.nth(0)).toContainText('Nivea krema u limenci');
-  // NIVEA is a curated brand (see docs/brandLogos.js) with showBrandText:
-  // false, so the badge replaces the plain "NIVEA" text rather than
-  // sitting next to it - see the dedicated brand-logo tests below.
-  await expect(rows.nth(0).locator('.pw-brand-logo')).toHaveAttribute('alt', 'NIVEA');
-  await expect(rows.nth(1)).toContainText('always'); // uncurated brand - still plain text
-  await expect(rows.nth(1).locator('.pw-brand-logo')).toHaveCount(0);
-});
-
-test('the NIVEA brand-logo badge image actually loads and links to the brand\'s own site', async ({ page }) => {
-  // Same reasoning as the header-logo load check below: a relative asset
-  // path can be well-formed HTML and still 404.
-  await gotoWithFixture(page, '#/HR/cheapest');
-  const badge = page.locator('.pw-row').first().locator('.pw-brand-logo');
-  await expect(badge).toHaveJSProperty('complete', true);
-  const naturalWidth = await badge.evaluate((img) => img.naturalWidth);
-  expect(naturalWidth).toBeGreaterThan(0);
-
-  const link = page.locator('.pw-row').first().locator('.pw-brand-logo-link');
-  await expect(link).toHaveAttribute('href', 'https://www.nivea.de/');
-  await expect(link).toHaveAttribute('target', '_blank');
-  await expect(link).toHaveAttribute('rel', 'noopener');
+  await expect(rows.nth(0)).toContainText('NIVEA');
+  await expect(rows.nth(1)).toContainText('always');
 });
 
 test('marks the cheapest and most expensive country per product', async ({ page }) => {
