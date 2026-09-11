@@ -76,9 +76,7 @@ test('the table header is hidden and rows render as cards with the data still le
   await expect(rows).toHaveCount(2);
   const niveaRow = rows.first();
   await expect(niveaRow).toContainText('Nivea krema u limenci');
-  // NIVEA is curated with showBrandText: false - see home.spec.js's
-  // dedicated brand-logo tests for the full behaviour.
-  await expect(niveaRow.locator('.pw-brand-logo')).toHaveAttribute('alt', 'NIVEA');
+  await expect(niveaRow).toContainText('NIVEA');
   // the per-country grid still carries every country's price, just reflowed
   await expect(niveaRow.locator('.pw-cell-country')).toHaveCount(5);
 });
