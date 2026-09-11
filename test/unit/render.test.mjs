@@ -218,6 +218,16 @@ test('rowHtml: a NIVEA sub-line with no dedicated mark (NIVEA MEN) falls back to
   assert.match(html, /alt="NIVEA MEN"/);
 });
 
+test('rowHtml: a lowercase-scraped curated brand (adidas) resolves by exact string, alt text keeps the scraped casing', () => {
+  const item = {
+    brand: 'adidas',
+    countries: [{ countryCode: 'HR', name: 'Čarape', currentPriceEurCents: 500, isPromo: false, currency: 'EUR', observedAt: '2026-09-01T00:00:00Z' }],
+  };
+  const html = rowHtml(item, 0, 'hr');
+  assert.match(html, /src="assets\/brands\/adidas\.svg"/);
+  assert.match(html, /alt="adidas"/);
+});
+
 test('rowHtml: an uncurated brand (the common case) renders exactly as before this feature - plain text, no badge markup', () => {
   const item = {
     brand: 'Balea',

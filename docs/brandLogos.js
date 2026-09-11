@@ -65,8 +65,58 @@ export var BRAND_LOGOS = {
     attribution: 'Durex, via Wikimedia Commons',
   },
 
-  // Dove/Dove MEN+CARE deliberately not curated yet - the first Commons
-  // hit for "Dove logo" turned out to be an unrelated dove-the-bird mascot
+  adidas: {
+    file: 'adidas.svg',
+    showBrandText: false,
+    linkUrl: 'https://www.adidas.com/',
+    license: 'Public domain (file), trademarked (mark)',
+    attribution: 'Adidas AG, via Wikimedia Commons',
+  },
+
+  Rexona: {
+    file: 'rexona.svg',
+    showBrandText: false,
+    linkUrl: 'https://www.rexona.com/',
+    license: 'Public domain (file), trademarked (mark)',
+    attribution: 'Unilever, via Wikimedia Commons',
+  },
+
+  // the raw scraped string includes "NEW YORK" - matched exactly, not
+  // shortened to just "Maybelline".
+  'MAYBELLINE NEW YORK': {
+    file: 'maybelline.svg',
+    showBrandText: false,
+    linkUrl: 'https://www.maybelline.com/',
+    license: 'Public domain (file), trademarked (mark)',
+    attribution: "L'Oréal, via Wikimedia Commons",
+  },
+
+  's.Oliver': {
+    file: 'soliver.svg',
+    showBrandText: false,
+    linkUrl: 'https://www.s-oliver.com/',
+    license: 'Public domain (file), trademarked (mark)',
+    attribution: 'S.Oliver Group, via Wikimedia Commons',
+  },
+
+  // Checked live 2026-09-11 during a real-catalogue frequency pass (see
+  // Findings.md) and NOT curated - either no freely-licensed Commons file
+  // found (CATRICE - the single most frequent uncurated brand at the
+  // time, 18/300 sampled slots; essence; OGX; Makeup Revolution; Police;
+  // Carefree; Violeta), or the only Commons hits were for an unrelated
+  // company sharing the name (bugatti the car manufacturer, not "bugatti"
+  // the German fashion/socks brand actually sold here - the same
+  // name-collision trap Dove/Document-Freedom-Day caught below, avoided
+  // this time by checking before downloading). Also checked and excluded
+  // as dm's own private-label/co-op brands, not third-party marks (same
+  // legal bucket as the dm-logo item, not this one): Balea (+
+  // PROFESSIONAL), alverde NATURKOSMETIK, trend !t up, ebelin, Profissimo,
+  // Dontodent, Denkmit, babylove, HALLOHEBAMME (a dm x two independent
+  // midwives cooperation brand, not a third party's), sundance/SUNDANCE
+  // (also a dm house brand despite reading like a standalone one).
+  //
+  // Dove/Dove MEN+CARE deliberately not curated - the first Commons hit
+  // for "Dove logo" turned out to be an unrelated dove-the-bird mascot
   // (Free Software Foundation Europe's Document Freedom Day, not
   // Unilever's Dove), and no confirmed freely-licensed Unilever Dove mark
   // was found on a follow-up check. See docs/assets/brands/SOURCES.md.
