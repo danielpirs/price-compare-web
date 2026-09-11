@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-10T09:27:16.583Z",
+  "generatedAt": "2026-09-11T09:25:26.702Z",
   "fx": {
-    "asOf": "2026-09-09",
+    "asOf": "2026-09-10",
     "rates": {
-      "USD": 1.1652,
-      "JPY": 178.59,
-      "CZK": 24.247,
-      "DKK": 7.4748,
-      "GBP": 0.85898,
-      "HUF": 363.95,
-      "PLN": 4.3153,
-      "RON": 5.2546,
-      "SEK": 11.1495,
-      "CHF": 0.9404,
-      "ISK": 140.4,
-      "NOK": 10.6975,
-      "TRY": 56.4857,
-      "AUD": 1.6128,
-      "BRL": 5.9296,
-      "CAD": 1.6043,
-      "CNY": 7.8159,
-      "HKD": 9.1378,
-      "IDR": 20362.8,
-      "ILS": 3.518,
-      "INR": 110.8225,
-      "KRW": 1556.94,
-      "MXN": 19.6948,
-      "MYR": 4.7424,
-      "NZD": 1.9903,
-      "PHP": 72.815,
-      "SGD": 1.4721,
-      "THB": 38.306,
-      "ZAR": 18.6896
+      "USD": 1.1616,
+      "JPY": 179.09,
+      "CZK": 24.251,
+      "DKK": 7.4751,
+      "GBP": 0.85915,
+      "HUF": 364.75,
+      "PLN": 4.322,
+      "RON": 5.2525,
+      "SEK": 11.1995,
+      "CHF": 0.9432,
+      "ISK": 140,
+      "NOK": 10.7635,
+      "TRY": 56.3316,
+      "AUD": 1.6167,
+      "BRL": 5.9528,
+      "CAD": 1.6049,
+      "CNY": 7.79,
+      "HKD": 9.1083,
+      "IDR": 20414.13,
+      "ILS": 3.5198,
+      "INR": 110.8645,
+      "KRW": 1560.96,
+      "MXN": 19.6816,
+      "MYR": 4.7225,
+      "NZD": 1.994,
+      "PHP": 72.688,
+      "SGD": 1.4711,
+      "THB": 38.327,
+      "ZAR": 18.7559
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -107,9 +107,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:22.557Z",
           "currentPriceCents": 39900,
-          "currentPriceEurCents": 110,
+          "currentPriceEurCents": 109,
           "referencePriceCents": 39900,
-          "referencePriceEurCents": 110
+          "referencePriceEurCents": 109
         }
       ]
     },
@@ -363,54 +363,6 @@
       ]
     },
     {
-      "productId": 2685,
-      "brand": "Balea",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 583.82,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Negovalni korektor TEINT PERFEKTION, 4,5 ml",
-          "url": "https://www.dm.si/p/d/1691035/balea-negovalni-korektor-teint-perfektion",
-          "isPromo": true,
-          "observedAt": "2026-08-28T16:00:32.227Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Concealer Pflegend Teint Perfektion, 4,5 ml",
-          "url": "https://www.dm.at/p/d/1691035/balea-concealer-pflegend-teint-perfektion",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:37:23.168Z",
-          "currentPriceCents": 465,
-          "currentPriceEurCents": 465,
-          "referencePriceCents": 465,
-          "referencePriceEurCents": 465
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Ápoló folyékony korrektor Teint Perfektion, 4,5 ml",
-          "url": "https://www.dm.hu/p/d/1691035/balea-apolo-folyekony-korrektor-teint-perfektion",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:59.780Z",
-          "currentPriceCents": 24900,
-          "currentPriceEurCents": 68,
-          "referencePriceCents": 24900,
-          "referencePriceEurCents": 68
-        }
-      ]
-    },
-    {
       "productId": 21037,
       "brand": "Beauty of Joseon",
       "isCountryExtreme": true,
@@ -609,9 +561,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:54.339Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1511,
+          "currentPriceEurCents": 1508,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1511
+          "referencePriceEurCents": 1508
         }
       ]
     },
@@ -683,9 +635,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:30.838Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1511,
+          "currentPriceEurCents": 1508,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1511
+          "referencePriceEurCents": 1508
         }
       ]
     },
@@ -949,9 +901,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:07.099Z",
           "currentPriceCents": 429900,
-          "currentPriceEurCents": 1181,
+          "currentPriceEurCents": 1179,
           "referencePriceCents": 429900,
-          "referencePriceEurCents": 1181
+          "referencePriceEurCents": 1179
         }
       ]
     },
@@ -994,7 +946,7 @@
       "productId": 8829,
       "brand": "HADA LABO TOKYO",
       "isCountryExtreme": true,
-      "overallPercentDiff": 481.63,
+      "overallPercentDiff": 483.33,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1045,9 +997,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:57.806Z",
           "currentPriceCents": 124900,
-          "currentPriceEurCents": 343,
+          "currentPriceEurCents": 342,
           "referencePriceCents": 124900,
-          "referencePriceEurCents": 343
+          "referencePriceEurCents": 342
         }
       ]
     },
@@ -1183,58 +1135,10 @@
       ]
     },
     {
-      "productId": 30570,
-      "brand": "Dove",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 406.1,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Antitranspirant Deo Roll-On Advanced Care..., 50 ml",
-          "url": "https://www.dm.at/p/d/1689655/dove-antitranspirant-deo-roll-on-advanced-care-invisible-dry",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:44.201Z",
-          "currentPriceCents": 415,
-          "currentPriceEurCents": 415,
-          "referencePriceCents": 415,
-          "referencePriceEurCents": 415
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Antitranspirant Deo Roll-on Advanced Care..., 50 ml",
-          "url": "https://www.dm.de/p/d/1689655/dove-antitranspirant-deo-roll-on-advanced-care-invisible-dry",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:45.137Z",
-          "currentPriceCents": 325,
-          "currentPriceEurCents": 325,
-          "referencePriceCents": 325,
-          "referencePriceEurCents": 325
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Deo roll-on Invisible Dry, 50 ml",
-          "url": "https://www.dm.hu/p/d/1689655/dove-deo-roll-on-invisible-dry",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:57.806Z",
-          "currentPriceCents": 29900,
-          "currentPriceEurCents": 82,
-          "referencePriceCents": 29900,
-          "referencePriceEurCents": 82
-        }
-      ]
-    },
-    {
       "productId": 7148,
       "brand": "HADA LABO TOKYO",
       "isCountryExtreme": true,
-      "overallPercentDiff": 404.75,
+      "overallPercentDiff": 406.35,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1285,9 +1189,57 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:57.806Z",
           "currentPriceCents": 114900,
-          "currentPriceEurCents": 316,
+          "currentPriceEurCents": 315,
           "referencePriceCents": 114900,
-          "referencePriceEurCents": 316
+          "referencePriceEurCents": 315
+        }
+      ]
+    },
+    {
+      "productId": 30570,
+      "brand": "Dove",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 406.1,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Antitranspirant Deo Roll-On Advanced Care..., 50 ml",
+          "url": "https://www.dm.at/p/d/1689655/dove-antitranspirant-deo-roll-on-advanced-care-invisible-dry",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:44.201Z",
+          "currentPriceCents": 415,
+          "currentPriceEurCents": 415,
+          "referencePriceCents": 415,
+          "referencePriceEurCents": 415
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Antitranspirant Deo Roll-on Advanced Care..., 50 ml",
+          "url": "https://www.dm.de/p/d/1689655/dove-antitranspirant-deo-roll-on-advanced-care-invisible-dry",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:45.137Z",
+          "currentPriceCents": 325,
+          "currentPriceEurCents": 325,
+          "referencePriceCents": 325,
+          "referencePriceEurCents": 325
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Deo roll-on Invisible Dry, 50 ml",
+          "url": "https://www.dm.hu/p/d/1689655/dove-deo-roll-on-invisible-dry",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:57.806Z",
+          "currentPriceCents": 29900,
+          "currentPriceEurCents": 82,
+          "referencePriceCents": 29900,
+          "referencePriceEurCents": 82
         }
       ]
     },
@@ -1452,7 +1404,7 @@
       "productId": 32548,
       "brand": "Nature Blossom",
       "isCountryExtreme": true,
-      "overallPercentDiff": 383.01,
+      "overallPercentDiff": 384.18,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1477,9 +1429,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:19.940Z",
           "currentPriceCents": 149900,
-          "currentPriceEurCents": 412,
+          "currentPriceEurCents": 411,
           "referencePriceCents": 149900,
-          "referencePriceEurCents": 412
+          "referencePriceEurCents": 411
         }
       ]
     },
@@ -1487,7 +1439,7 @@
       "productId": 10514,
       "brand": "s.Oliver",
       "isCountryExtreme": true,
-      "overallPercentDiff": 376.08,
+      "overallPercentDiff": 377.17,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1525,9 +1477,70 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:19.940Z",
           "currentPriceCents": 159900,
-          "currentPriceEurCents": 439,
+          "currentPriceEurCents": 438,
           "referencePriceCents": 159900,
-          "referencePriceEurCents": 439
+          "referencePriceEurCents": 438
+        }
+      ]
+    },
+    {
+      "productId": 20895,
+      "brand": "NIVEA MEN",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 372.63,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Intenzivna krema za obraz, 50 ml",
+          "url": "https://www.dm.si/p/d/1571788/nivea-men-intenzivna-krema-za-obraz",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:45.480Z",
+          "currentPriceCents": 1190,
+          "currentPriceEurCents": 1190,
+          "referencePriceCents": 1190,
+          "referencePriceEurCents": 1190
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Gesichtscreme HydroCare Intensive, 50 ml",
+          "url": "https://www.dm.at/p/d/1571788/nivea-men-gesichtscreme-hydrocare-intensive",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:37:27.993Z",
+          "currentPriceCents": 1295,
+          "currentPriceEurCents": 1295,
+          "referencePriceCents": 1295,
+          "referencePriceEurCents": 1295
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Gesichtscreme HydroCare Intensive, 50 ml",
+          "url": "https://www.dm.de/p/d/1571788/nivea-men-gesichtscreme-hydrocare-intensive",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:34.098Z",
+          "currentPriceCents": 795,
+          "currentPriceEurCents": 795,
+          "referencePriceCents": 795,
+          "referencePriceEurCents": 795
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Intenzív hidratáló arckrém Protect&Care Original, 50 ml",
+          "url": "https://www.dm.hu/p/d/1571788/nivea-men-intenziv-hidratalo-arckrem-protect-care-original",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:32:37.213Z",
+          "currentPriceCents": 99900,
+          "currentPriceEurCents": 274,
+          "referencePriceCents": 99900,
+          "referencePriceEurCents": 274
         }
       ]
     }

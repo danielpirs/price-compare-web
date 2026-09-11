@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-10T09:27:16.583Z",
+  "generatedAt": "2026-09-11T09:25:26.702Z",
   "fx": {
-    "asOf": "2026-09-09",
+    "asOf": "2026-09-10",
     "rates": {
-      "USD": 1.1652,
-      "JPY": 178.59,
-      "CZK": 24.247,
-      "DKK": 7.4748,
-      "GBP": 0.85898,
-      "HUF": 363.95,
-      "PLN": 4.3153,
-      "RON": 5.2546,
-      "SEK": 11.1495,
-      "CHF": 0.9404,
-      "ISK": 140.4,
-      "NOK": 10.6975,
-      "TRY": 56.4857,
-      "AUD": 1.6128,
-      "BRL": 5.9296,
-      "CAD": 1.6043,
-      "CNY": 7.8159,
-      "HKD": 9.1378,
-      "IDR": 20362.8,
-      "ILS": 3.518,
-      "INR": 110.8225,
-      "KRW": 1556.94,
-      "MXN": 19.6948,
-      "MYR": 4.7424,
-      "NZD": 1.9903,
-      "PHP": 72.815,
-      "SGD": 1.4721,
-      "THB": 38.306,
-      "ZAR": 18.6896
+      "USD": 1.1616,
+      "JPY": 179.09,
+      "CZK": 24.251,
+      "DKK": 7.4751,
+      "GBP": 0.85915,
+      "HUF": 364.75,
+      "PLN": 4.322,
+      "RON": 5.2525,
+      "SEK": 11.1995,
+      "CHF": 0.9432,
+      "ISK": 140,
+      "NOK": 10.7635,
+      "TRY": 56.3316,
+      "AUD": 1.6167,
+      "BRL": 5.9528,
+      "CAD": 1.6049,
+      "CNY": 7.79,
+      "HKD": 9.1083,
+      "IDR": 20414.13,
+      "ILS": 3.5198,
+      "INR": 110.8645,
+      "KRW": 1560.96,
+      "MXN": 19.6816,
+      "MYR": 4.7225,
+      "NZD": 1.994,
+      "PHP": 72.688,
+      "SGD": 1.4711,
+      "THB": 38.327,
+      "ZAR": 18.7559
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -203,9 +203,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:28.672Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 494,
+          "currentPriceEurCents": 493,
           "referencePriceCents": 179900,
-          "referencePriceEurCents": 494
+          "referencePriceEurCents": 493
         }
       ]
     },
@@ -251,9 +251,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:49.604Z",
           "currentPriceCents": 499900,
-          "currentPriceEurCents": 1374,
+          "currentPriceEurCents": 1371,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1374
+          "referencePriceEurCents": 1371
         }
       ]
     },
@@ -452,9 +452,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:22.557Z",
           "currentPriceCents": 78900,
-          "currentPriceEurCents": 217,
+          "currentPriceEurCents": 216,
           "referencePriceCents": 78900,
-          "referencePriceEurCents": 217
+          "referencePriceEurCents": 216
         }
       ]
     },
@@ -462,7 +462,7 @@
       "productId": 9740,
       "brand": "Moschino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 611.79,
+      "overallPercentDiff": 613.87,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -500,9 +500,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:19.940Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 687,
+          "currentPriceEurCents": 685,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 687
+          "referencePriceEurCents": 685
         }
       ]
     },
@@ -538,54 +538,6 @@
           "currentPriceEurCents": 99,
           "referencePriceCents": 99,
           "referencePriceEurCents": 99
-        }
-      ]
-    },
-    {
-      "productId": 10037,
-      "brand": "AXE",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 536.36,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Epic Fresh dezodorans u spreju",
-          "url": "https://www.dm.hr/p/d/2127922/axe-epic-fresh-dezodorans-u-spreju",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:00.205Z",
-          "currentPriceCents": 490,
-          "currentPriceEurCents": 490,
-          "referencePriceCents": 490,
-          "referencePriceEurCents": 490
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Deodorant v spreju Epic Fresh, 150 ml",
-          "url": "https://www.dm.si/p/d/2127922/axe-deodorant-v-spreju-epic-fresh",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:04.847Z",
-          "currentPriceCents": 350,
-          "currentPriceEurCents": 350,
-          "referencePriceCents": 350,
-          "referencePriceEurCents": 350
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Deo spray Epic Fresh, 150 ml",
-          "url": "https://www.dm.hu/p/d/2127922/axe-deo-spray-epic-fresh",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:32:32.640Z",
-          "currentPriceCents": 27900,
-          "currentPriceEurCents": 77,
-          "referencePriceCents": 27900,
-          "referencePriceEurCents": 77
         }
       ]
     },
@@ -701,9 +653,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:52.512Z",
           "currentPriceCents": 169900,
-          "currentPriceEurCents": 467,
+          "currentPriceEurCents": 466,
           "referencePriceCents": 169900,
-          "referencePriceEurCents": 467
+          "referencePriceEurCents": 466
         }
       ]
     },
@@ -951,7 +903,7 @@
       "productId": 10188,
       "brand": "Rexona",
       "isCountryExtreme": true,
-      "overallPercentDiff": 406.49,
+      "overallPercentDiff": 413.16,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -989,9 +941,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:59.780Z",
           "currentPriceCents": 27900,
-          "currentPriceEurCents": 77,
+          "currentPriceEurCents": 76,
           "referencePriceCents": 27900,
-          "referencePriceEurCents": 77
+          "referencePriceEurCents": 76
         }
       ]
     },
@@ -1184,106 +1136,10 @@
       ]
     },
     {
-      "productId": 6316,
-      "brand": "KEUNE",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 344.68,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Tinta Color Ultimate Cover – 6.00 Dark Blonde, 1 kom.",
-          "url": "https://www.dm.hr/p/d/2205689/keune-tinta-color-ultimate-cover-6-00-dark-blonde",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:35.997Z",
-          "currentPriceCents": 1045,
-          "currentPriceEurCents": 1045,
-          "referencePriceCents": 1045,
-          "referencePriceEurCents": 1045
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Trajno obstojna barva za lase Tinta Color, 6.00..., 60 ml",
-          "url": "https://www.dm.si/p/d/2205689/keune-trajno-obstojna-barva-za-lase-tinta-color-6-00-uc-temno-blond",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:35:07.886Z",
-          "currentPriceCents": 235,
-          "currentPriceEurCents": 235,
-          "referencePriceCents": 235,
-          "referencePriceEurCents": 235
-        }
-      ]
-    },
-    {
-      "productId": 3887,
-      "brand": "Domestos",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 341.18,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Domestos Power 5 Magic Unicorn osvježivač za WC,..., 100 g",
-          "url": "https://www.dm.hr/p/d/2952670/domestos-domestos-power-5-magic-unicorn-osvjezivac-za-wc-2-x-50-g",
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:08:58.548Z",
-          "currentPriceCents": 375,
-          "currentPriceEurCents": 375,
-          "referencePriceCents": 375,
-          "referencePriceEurCents": 375
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "WC obešanka Power 5 Magic Unicorn, 2 kos",
-          "url": "https://www.dm.si/p/d/2952670/domestos-wc-obesanka-power-5-magic-unicorn",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:57.127Z",
-          "currentPriceCents": 85,
-          "currentPriceEurCents": 85,
-          "referencePriceCents": 85,
-          "referencePriceEurCents": 85
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "WC-Stein Magic Unicorn, 2 St",
-          "url": "https://www.dm.de/p/d/2952670/domestos-wc-stein-magic-unicorn",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:11.101Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "WC tisztító rúd Unikornis (2x50g), 2 db",
-          "url": "https://www.dm.hu/p/d/2952670/domestos-wc-tisztito-rud-unikornis-2x50g",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:29:55.346Z",
-          "currentPriceCents": 119900,
-          "currentPriceEurCents": 329,
-          "referencePriceCents": 119900,
-          "referencePriceEurCents": 329
-        }
-      ]
-    },
-    {
       "productId": 1204,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 340.91,
+      "overallPercentDiff": 344.95,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1321,9 +1177,44 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:59.780Z",
           "currentPriceCents": 39900,
-          "currentPriceEurCents": 110,
+          "currentPriceEurCents": 109,
           "referencePriceCents": 39900,
-          "referencePriceEurCents": 110
+          "referencePriceEurCents": 109
+        }
+      ]
+    },
+    {
+      "productId": 6316,
+      "brand": "KEUNE",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 344.68,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Tinta Color Ultimate Cover – 6.00 Dark Blonde, 1 kom.",
+          "url": "https://www.dm.hr/p/d/2205689/keune-tinta-color-ultimate-cover-6-00-dark-blonde",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:35.997Z",
+          "currentPriceCents": 1045,
+          "currentPriceEurCents": 1045,
+          "referencePriceCents": 1045,
+          "referencePriceEurCents": 1045
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Trajno obstojna barva za lase Tinta Color, 6.00..., 60 ml",
+          "url": "https://www.dm.si/p/d/2205689/keune-trajno-obstojna-barva-za-lase-tinta-color-6-00-uc-temno-blond",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:35:07.886Z",
+          "currentPriceCents": 235,
+          "currentPriceEurCents": 235,
+          "referencePriceCents": 235,
+          "referencePriceEurCents": 235
         }
       ]
     },
@@ -1359,6 +1250,115 @@
           "currentPriceEurCents": 101,
           "referencePriceCents": 36900,
           "referencePriceEurCents": 101
+        }
+      ]
+    },
+    {
+      "productId": 7284,
+      "brand": "Johnson's baby",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 339.39,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Kids Bubble Bath dječja pjenušava kupka i gel za..., 750 ml",
+          "url": "https://www.dm.hr/p/d/2195661/johnson-s-baby-kids-bubble-bath-djecja-pjenusava-kupka-i-gel-za-tusiranje",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:42.747Z",
+          "currentPriceCents": 725,
+          "currentPriceEurCents": 725,
+          "referencePriceCents": 725,
+          "referencePriceEurCents": 725
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Otroška kopel Bath & Wash, 750 ml",
+          "url": "https://www.dm.si/p/d/2195661/johnson-s-baby-otroska-kopel-bath-wash",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:51.159Z",
+          "currentPriceCents": 165,
+          "currentPriceEurCents": 165,
+          "referencePriceCents": 165,
+          "referencePriceEurCents": 165
+        }
+      ]
+    },
+    {
+      "productId": 10437,
+      "brand": "dmBio",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 337.5,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Kašica od povrća s kus-kusom i piletinom, 12+ mj., 250 g",
+          "url": "https://www.dm.hr/p/d/1514821/dmbio-kasica-od-povrca-s-kus-kusom-i-piletinom-12-mj",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:02.420Z",
+          "currentPriceCents": 175,
+          "currentPriceEurCents": 175,
+          "referencePriceCents": 175,
+          "referencePriceEurCents": 175
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Bio zelenjavni pripravek s kuskusom in piščancem,..., 250 g",
+          "url": "https://www.dm.si/p/d/1514821/dmbio-bio-zelenjavni-pripravek-s-kuskusom-in-piscancem-12m",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:43.957Z",
+          "currentPriceCents": 40,
+          "currentPriceEurCents": 40,
+          "referencePriceCents": 40,
+          "referencePriceEurCents": 40
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Menü Gemüse-Couscous mit Huhn ab dem 12. Monat, 250 g",
+          "url": "https://www.dm.at/p/d/1514821/dmbio-menue-gemuese-couscous-mit-huhn-ab-dem-12-monat",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:37:37.997Z",
+          "currentPriceCents": 175,
+          "currentPriceEurCents": 175,
+          "referencePriceCents": 175,
+          "referencePriceEurCents": 175
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Menü Gemüse-Couscous mit Huhn, ab dem 12. Monat, 250 g",
+          "url": "https://www.dm.de/p/d/1514821/dmbio-menue-gemuese-couscous-mit-huhn-ab-dem-12-monat",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:01.151Z",
+          "currentPriceCents": 155,
+          "currentPriceEurCents": 155,
+          "referencePriceCents": 155,
+          "referencePriceEurCents": 155
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Bio gyermekmenü zöldséges kuszkusz csirkével, 12...., 250 g",
+          "url": "https://www.dm.hu/p/d/1514821/dmbio-bio-gyermekmenu-zoldseges-kuszkusz-csirkevel-12-honapos-kortol",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:32.921Z",
+          "currentPriceCents": 54900,
+          "currentPriceEurCents": 151,
+          "referencePriceCents": 54900,
+          "referencePriceEurCents": 151
         }
       ]
     }

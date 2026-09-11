@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-10T09:27:16.583Z",
+  "generatedAt": "2026-09-11T09:25:26.702Z",
   "fx": {
-    "asOf": "2026-09-09",
+    "asOf": "2026-09-10",
     "rates": {
-      "USD": 1.1652,
-      "JPY": 178.59,
-      "CZK": 24.247,
-      "DKK": 7.4748,
-      "GBP": 0.85898,
-      "HUF": 363.95,
-      "PLN": 4.3153,
-      "RON": 5.2546,
-      "SEK": 11.1495,
-      "CHF": 0.9404,
-      "ISK": 140.4,
-      "NOK": 10.6975,
-      "TRY": 56.4857,
-      "AUD": 1.6128,
-      "BRL": 5.9296,
-      "CAD": 1.6043,
-      "CNY": 7.8159,
-      "HKD": 9.1378,
-      "IDR": 20362.8,
-      "ILS": 3.518,
-      "INR": 110.8225,
-      "KRW": 1556.94,
-      "MXN": 19.6948,
-      "MYR": 4.7424,
-      "NZD": 1.9903,
-      "PHP": 72.815,
-      "SGD": 1.4721,
-      "THB": 38.306,
-      "ZAR": 18.6896
+      "USD": 1.1616,
+      "JPY": 179.09,
+      "CZK": 24.251,
+      "DKK": 7.4751,
+      "GBP": 0.85915,
+      "HUF": 364.75,
+      "PLN": 4.322,
+      "RON": 5.2525,
+      "SEK": 11.1995,
+      "CHF": 0.9432,
+      "ISK": 140,
+      "NOK": 10.7635,
+      "TRY": 56.3316,
+      "AUD": 1.6167,
+      "BRL": 5.9528,
+      "CAD": 1.6049,
+      "CNY": 7.79,
+      "HKD": 9.1083,
+      "IDR": 20414.13,
+      "ILS": 3.5198,
+      "INR": 110.8645,
+      "KRW": 1560.96,
+      "MXN": 19.6816,
+      "MYR": 4.7225,
+      "NZD": 1.994,
+      "PHP": 72.688,
+      "SGD": 1.4711,
+      "THB": 38.327,
+      "ZAR": 18.7559
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -378,9 +378,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:30.488Z",
           "currentPriceCents": 129900,
-          "currentPriceEurCents": 357,
+          "currentPriceEurCents": 356,
           "referencePriceCents": 129900,
-          "referencePriceEurCents": 357
+          "referencePriceEurCents": 356
         }
       ]
     },
@@ -509,57 +509,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:07.865Z",
           "currentPriceCents": 39900,
-          "currentPriceEurCents": 110,
+          "currentPriceEurCents": 109,
           "referencePriceCents": 39900,
-          "referencePriceEurCents": 110
-        }
-      ]
-    },
-    {
-      "productId": 21040,
-      "brand": "HALLOHEBAMME",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 555.56,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Zaščitna otroška krema za obraz, telo in predel..., 75 ml",
-          "url": "https://www.dm.si/p/d/2486241/hallohebamme-zascitna-otroska-krema-za-obraz-telo-in-predel-plenic",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:47.009Z",
-          "currentPriceCents": 45,
-          "currentPriceEurCents": 45,
-          "referencePriceCents": 45,
-          "referencePriceEurCents": 45
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Hautschutz & Pflege Creme, 75 ml",
-          "url": "https://www.dm.de/p/d/2486241/hallohebamme-hautschutz-und-pflege-creme",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:35.806Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Baba védőkrém arcra, testre és a pelenka alatti..., 75 ml",
-          "url": "https://www.dm.hu/p/d/2486241/hallohebamme-baba-vedokrem-arcra-testre-es-a-pelenka-alatti-teruletre",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:30:32.566Z",
-          "currentPriceCents": 34900,
-          "currentPriceEurCents": 96,
-          "referencePriceCents": 34900,
-          "referencePriceEurCents": 96
+          "referencePriceEurCents": 109
         }
       ]
     },
@@ -884,9 +836,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:29:59.422Z",
           "currentPriceCents": 79900,
-          "currentPriceEurCents": 220,
+          "currentPriceEurCents": 219,
           "referencePriceCents": 79900,
-          "referencePriceEurCents": 220
+          "referencePriceEurCents": 219
         }
       ]
     },
@@ -1086,7 +1038,7 @@
       "productId": 54274,
       "brand": "Cosrx",
       "isCountryExtreme": true,
-      "overallPercentDiff": 424.83,
+      "overallPercentDiff": 426.58,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1111,9 +1063,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:59.780Z",
           "currentPriceCents": 109900,
-          "currentPriceEurCents": 302,
+          "currentPriceEurCents": 301,
           "referencePriceCents": 109900,
-          "referencePriceEurCents": 302
+          "referencePriceEurCents": 301
         }
       ]
     },
@@ -1424,6 +1376,41 @@
           "currentPriceEurCents": 495,
           "referencePriceCents": 495,
           "referencePriceEurCents": 495
+        }
+      ]
+    },
+    {
+      "productId": 47668,
+      "brand": "Bondi Sands",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 360.26,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Lip Balm Strawberry LSF 50+, 10 g",
+          "url": "https://www.dm.de/p/d/2170316/bondi-sands-lip-balm-strawberry-lsf-50",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:39.343Z",
+          "currentPriceCents": 695,
+          "currentPriceEurCents": 695,
+          "referencePriceCents": 695,
+          "referencePriceEurCents": 695
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Ajakápoló FF50+, epres, 10 g",
+          "url": "https://www.dm.hu/p/d/2170316/bondi-sands-ajakapolo-ff50-epres",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:57.806Z",
+          "currentPriceCents": 54900,
+          "currentPriceEurCents": 151,
+          "referencePriceCents": 54900,
+          "referencePriceEurCents": 151
         }
       ]
     }
