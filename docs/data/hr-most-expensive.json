@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-11T09:25:26.702Z",
+  "generatedAt": "2026-09-12T09:07:12.337Z",
   "fx": {
-    "asOf": "2026-09-10",
+    "asOf": "2026-09-11",
     "rates": {
-      "USD": 1.1616,
-      "JPY": 179.09,
-      "CZK": 24.251,
-      "DKK": 7.4751,
-      "GBP": 0.85915,
-      "HUF": 364.75,
-      "PLN": 4.322,
-      "RON": 5.2525,
-      "SEK": 11.1995,
-      "CHF": 0.9432,
-      "ISK": 140,
-      "NOK": 10.7635,
-      "TRY": 56.3316,
-      "AUD": 1.6167,
-      "BRL": 5.9528,
-      "CAD": 1.6049,
-      "CNY": 7.79,
-      "HKD": 9.1083,
-      "IDR": 20414.13,
-      "ILS": 3.5198,
-      "INR": 110.8645,
-      "KRW": 1560.96,
-      "MXN": 19.6816,
-      "MYR": 4.7225,
-      "NZD": 1.994,
-      "PHP": 72.688,
-      "SGD": 1.4711,
-      "THB": 38.327,
-      "ZAR": 18.7559
+      "USD": 1.1592,
+      "JPY": 178.56,
+      "CZK": 24.264,
+      "DKK": 7.4748,
+      "GBP": 0.85815,
+      "HUF": 364.45,
+      "PLN": 4.325,
+      "RON": 5.2547,
+      "SEK": 11.2373,
+      "CHF": 0.9451,
+      "ISK": 139.6,
+      "NOK": 10.7805,
+      "TRY": 56.3329,
+      "AUD": 1.6161,
+      "BRL": 5.9244,
+      "CAD": 1.6064,
+      "CNY": 7.7762,
+      "HKD": 9.0904,
+      "IDR": 20404.99,
+      "ILS": 3.5301,
+      "INR": 110.7675,
+      "KRW": 1556.56,
+      "MXN": 19.6798,
+      "MYR": 4.7185,
+      "NZD": 1.9914,
+      "PHP": 72.6,
+      "SGD": 1.4697,
+      "THB": 38.329,
+      "ZAR": 18.7312
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -203,9 +203,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:28.672Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 493,
+          "currentPriceEurCents": 494,
           "referencePriceCents": 179900,
-          "referencePriceEurCents": 493
+          "referencePriceEurCents": 494
         }
       ]
     },
@@ -251,9 +251,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:49.604Z",
           "currentPriceCents": 499900,
-          "currentPriceEurCents": 1371,
+          "currentPriceEurCents": 1372,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1371
+          "referencePriceEurCents": 1372
         }
       ]
     },
@@ -462,7 +462,7 @@
       "productId": 9740,
       "brand": "Moschino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 613.87,
+      "overallPercentDiff": 612.83,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -500,9 +500,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:19.940Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 685,
+          "currentPriceEurCents": 686,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 685
+          "referencePriceEurCents": 686
         }
       ]
     },
@@ -903,7 +903,7 @@
       "productId": 10188,
       "brand": "Rexona",
       "isCountryExtreme": true,
-      "overallPercentDiff": 413.16,
+      "overallPercentDiff": 406.49,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -941,9 +941,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:59.780Z",
           "currentPriceCents": 27900,
-          "currentPriceEurCents": 76,
+          "currentPriceEurCents": 77,
           "referencePriceCents": 27900,
-          "referencePriceEurCents": 76
+          "referencePriceEurCents": 77
         }
       ]
     },
@@ -1289,76 +1289,50 @@
       ]
     },
     {
-      "productId": 10437,
-      "brand": "dmBio",
+      "productId": 8671,
+      "brand": "AXE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 337.5,
+      "overallPercentDiff": 332.29,
       "gapToExtremePercent": 0,
       "countries": [
         {
           "countryCode": "HR",
           "shopId": "dm-hr",
           "currency": "EUR",
-          "name": "Kašica od povrća s kus-kusom i piletinom, 12+ mj., 250 g",
-          "url": "https://www.dm.hr/p/d/1514821/dmbio-kasica-od-povrca-s-kus-kusom-i-piletinom-12-mj",
+          "name": "Black Vanilla dezodorans u stiku, 50 ml",
+          "url": "https://www.dm.hr/p/d/3058328/axe-black-vanilla-dezodorans-u-stiku",
           "isPromo": false,
-          "observedAt": "2026-08-30T22:33:02.420Z",
-          "currentPriceCents": 175,
-          "currentPriceEurCents": 175,
-          "referencePriceCents": 175,
-          "referencePriceEurCents": 175
+          "observedAt": "2026-08-30T22:32:50.495Z",
+          "currentPriceCents": 415,
+          "currentPriceEurCents": 415,
+          "referencePriceCents": 415,
+          "referencePriceEurCents": 415
         },
         {
           "countryCode": "SI",
           "shopId": "dm-si",
           "currency": "EUR",
-          "name": "Bio zelenjavni pripravek s kuskusom in piščancem,..., 250 g",
-          "url": "https://www.dm.si/p/d/1514821/dmbio-bio-zelenjavni-pripravek-s-kuskusom-in-piscancem-12m",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:43.957Z",
-          "currentPriceCents": 40,
-          "currentPriceEurCents": 40,
-          "referencePriceCents": 40,
-          "referencePriceEurCents": 40
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Menü Gemüse-Couscous mit Huhn ab dem 12. Monat, 250 g",
-          "url": "https://www.dm.at/p/d/1514821/dmbio-menue-gemuese-couscous-mit-huhn-ab-dem-12-monat",
+          "name": "Deodorant v stiku Black Vanilla, 50 ml",
+          "url": "https://www.dm.si/p/d/3058328/axe-deodorant-v-stiku-black-vanilla",
           "isPromo": false,
-          "observedAt": "2026-08-30T22:37:37.997Z",
-          "currentPriceCents": 175,
-          "currentPriceEurCents": 175,
-          "referencePriceCents": 175,
-          "referencePriceEurCents": 175
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Menü Gemüse-Couscous mit Huhn, ab dem 12. Monat, 250 g",
-          "url": "https://www.dm.de/p/d/1514821/dmbio-menue-gemuese-couscous-mit-huhn-ab-dem-12-monat",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:01.151Z",
-          "currentPriceCents": 155,
-          "currentPriceEurCents": 155,
-          "referencePriceCents": 155,
-          "referencePriceEurCents": 155
+          "observedAt": "2026-08-30T22:34:15.799Z",
+          "currentPriceCents": 390,
+          "currentPriceEurCents": 390,
+          "referencePriceCents": 390,
+          "referencePriceEurCents": 390
         },
         {
           "countryCode": "HU",
           "shopId": "dm-hu",
           "currency": "HUF",
-          "name": "Bio gyermekmenü zöldséges kuszkusz csirkével, 12...., 250 g",
-          "url": "https://www.dm.hu/p/d/1514821/dmbio-bio-gyermekmenu-zoldseges-kuszkusz-csirkevel-12-honapos-kortol",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:32.921Z",
-          "currentPriceCents": 54900,
-          "currentPriceEurCents": 151,
-          "referencePriceCents": 54900,
-          "referencePriceEurCents": 151
+          "name": "Férfi deo stift, Black Vanilla, 50 ml",
+          "url": "https://www.dm.hu/p/d/3058328/axe-ferfi-deo-stift-black-vanilla",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:32:34.751Z",
+          "currentPriceCents": 34900,
+          "currentPriceEurCents": 96,
+          "referencePriceCents": 34900,
+          "referencePriceEurCents": 96
         }
       ]
     }

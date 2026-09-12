@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-11T09:25:26.702Z",
+  "generatedAt": "2026-09-12T09:07:12.337Z",
   "fx": {
-    "asOf": "2026-09-10",
+    "asOf": "2026-09-11",
     "rates": {
-      "USD": 1.1616,
-      "JPY": 179.09,
-      "CZK": 24.251,
-      "DKK": 7.4751,
-      "GBP": 0.85915,
-      "HUF": 364.75,
-      "PLN": 4.322,
-      "RON": 5.2525,
-      "SEK": 11.1995,
-      "CHF": 0.9432,
-      "ISK": 140,
-      "NOK": 10.7635,
-      "TRY": 56.3316,
-      "AUD": 1.6167,
-      "BRL": 5.9528,
-      "CAD": 1.6049,
-      "CNY": 7.79,
-      "HKD": 9.1083,
-      "IDR": 20414.13,
-      "ILS": 3.5198,
-      "INR": 110.8645,
-      "KRW": 1560.96,
-      "MXN": 19.6816,
-      "MYR": 4.7225,
-      "NZD": 1.994,
-      "PHP": 72.688,
-      "SGD": 1.4711,
-      "THB": 38.327,
-      "ZAR": 18.7559
+      "USD": 1.1592,
+      "JPY": 178.56,
+      "CZK": 24.264,
+      "DKK": 7.4748,
+      "GBP": 0.85815,
+      "HUF": 364.45,
+      "PLN": 4.325,
+      "RON": 5.2547,
+      "SEK": 11.2373,
+      "CHF": 0.9451,
+      "ISK": 139.6,
+      "NOK": 10.7805,
+      "TRY": 56.3329,
+      "AUD": 1.6161,
+      "BRL": 5.9244,
+      "CAD": 1.6064,
+      "CNY": 7.7762,
+      "HKD": 9.0904,
+      "IDR": 20404.99,
+      "ILS": 3.5301,
+      "INR": 110.7675,
+      "KRW": 1556.56,
+      "MXN": 19.6798,
+      "MYR": 4.7185,
+      "NZD": 1.9914,
+      "PHP": 72.6,
+      "SGD": 1.4697,
+      "THB": 38.329,
+      "ZAR": 18.7312
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -561,9 +561,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:54.339Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1508,
+          "currentPriceEurCents": 1509,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1508
+          "referencePriceEurCents": 1509
         }
       ]
     },
@@ -635,9 +635,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:30.838Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1508,
+          "currentPriceEurCents": 1509,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1508
+          "referencePriceEurCents": 1509
         }
       ]
     },
@@ -901,9 +901,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:07.099Z",
           "currentPriceCents": 429900,
-          "currentPriceEurCents": 1179,
+          "currentPriceEurCents": 1180,
           "referencePriceCents": 429900,
-          "referencePriceEurCents": 1179
+          "referencePriceEurCents": 1180
         }
       ]
     },
@@ -946,7 +946,7 @@
       "productId": 8829,
       "brand": "HADA LABO TOKYO",
       "isCountryExtreme": true,
-      "overallPercentDiff": 483.33,
+      "overallPercentDiff": 481.63,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -997,9 +997,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:57.806Z",
           "currentPriceCents": 124900,
-          "currentPriceEurCents": 342,
+          "currentPriceEurCents": 343,
           "referencePriceCents": 124900,
-          "referencePriceEurCents": 342
+          "referencePriceEurCents": 343
         }
       ]
     },
@@ -1048,6 +1048,54 @@
           "currentPriceEurCents": 395,
           "referencePriceCents": 395,
           "referencePriceEurCents": 395
+        }
+      ]
+    },
+    {
+      "productId": 33703,
+      "brand": "Scholl",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 421.64,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Nagelpilz Entferner Stift, 1 St",
+          "url": "https://www.dm.at/p/d/1432082/scholl-nagelpilz-entferner-stift",
+          "isPromo": true,
+          "observedAt": "2026-09-11T12:48:51.178Z",
+          "currentPriceCents": 1150,
+          "currentPriceEurCents": 1150,
+          "referencePriceCents": 2290,
+          "referencePriceEurCents": 2290
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Nagelpilz Set 2in1, Feile & Tinktur, 3,8 ml",
+          "url": "https://www.dm.de/p/d/1432082/scholl-nagelpilz-set-2in1-feile-und-tinktur",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:39.343Z",
+          "currentPriceCents": 1495,
+          "currentPriceEurCents": 1495,
+          "referencePriceCents": 1495,
+          "referencePriceEurCents": 1495
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Körömgomba elleni ecsetelő stift 2in1, 3,8 ml",
+          "url": "https://www.dm.hu/p/d/1432082/scholl-koromgomba-elleni-ecsetelo-stift-2in1",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:59.780Z",
+          "currentPriceCents": 159900,
+          "currentPriceEurCents": 439,
+          "referencePriceCents": 159900,
+          "referencePriceEurCents": 439
         }
       ]
     },
@@ -1439,7 +1487,7 @@
       "productId": 10514,
       "brand": "s.Oliver",
       "isCountryExtreme": true,
-      "overallPercentDiff": 377.17,
+      "overallPercentDiff": 376.08,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1477,70 +1525,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:19.940Z",
           "currentPriceCents": 159900,
-          "currentPriceEurCents": 438,
+          "currentPriceEurCents": 439,
           "referencePriceCents": 159900,
-          "referencePriceEurCents": 438
-        }
-      ]
-    },
-    {
-      "productId": 20895,
-      "brand": "NIVEA MEN",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 372.63,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Intenzivna krema za obraz, 50 ml",
-          "url": "https://www.dm.si/p/d/1571788/nivea-men-intenzivna-krema-za-obraz",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:45.480Z",
-          "currentPriceCents": 1190,
-          "currentPriceEurCents": 1190,
-          "referencePriceCents": 1190,
-          "referencePriceEurCents": 1190
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Gesichtscreme HydroCare Intensive, 50 ml",
-          "url": "https://www.dm.at/p/d/1571788/nivea-men-gesichtscreme-hydrocare-intensive",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:37:27.993Z",
-          "currentPriceCents": 1295,
-          "currentPriceEurCents": 1295,
-          "referencePriceCents": 1295,
-          "referencePriceEurCents": 1295
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Gesichtscreme HydroCare Intensive, 50 ml",
-          "url": "https://www.dm.de/p/d/1571788/nivea-men-gesichtscreme-hydrocare-intensive",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:34.098Z",
-          "currentPriceCents": 795,
-          "currentPriceEurCents": 795,
-          "referencePriceCents": 795,
-          "referencePriceEurCents": 795
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Intenzív hidratáló arckrém Protect&Care Original, 50 ml",
-          "url": "https://www.dm.hu/p/d/1571788/nivea-men-intenziv-hidratalo-arckrem-protect-care-original",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:32:37.213Z",
-          "currentPriceCents": 99900,
-          "currentPriceEurCents": 274,
-          "referencePriceCents": 99900,
-          "referencePriceEurCents": 274
+          "referencePriceEurCents": 439
         }
       ]
     }

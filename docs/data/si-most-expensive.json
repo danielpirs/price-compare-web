@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-11T09:25:26.702Z",
+  "generatedAt": "2026-09-12T09:07:12.337Z",
   "fx": {
-    "asOf": "2026-09-10",
+    "asOf": "2026-09-11",
     "rates": {
-      "USD": 1.1616,
-      "JPY": 179.09,
-      "CZK": 24.251,
-      "DKK": 7.4751,
-      "GBP": 0.85915,
-      "HUF": 364.75,
-      "PLN": 4.322,
-      "RON": 5.2525,
-      "SEK": 11.1995,
-      "CHF": 0.9432,
-      "ISK": 140,
-      "NOK": 10.7635,
-      "TRY": 56.3316,
-      "AUD": 1.6167,
-      "BRL": 5.9528,
-      "CAD": 1.6049,
-      "CNY": 7.79,
-      "HKD": 9.1083,
-      "IDR": 20414.13,
-      "ILS": 3.5198,
-      "INR": 110.8645,
-      "KRW": 1560.96,
-      "MXN": 19.6816,
-      "MYR": 4.7225,
-      "NZD": 1.994,
-      "PHP": 72.688,
-      "SGD": 1.4711,
-      "THB": 38.327,
-      "ZAR": 18.7559
+      "USD": 1.1592,
+      "JPY": 178.56,
+      "CZK": 24.264,
+      "DKK": 7.4748,
+      "GBP": 0.85815,
+      "HUF": 364.45,
+      "PLN": 4.325,
+      "RON": 5.2547,
+      "SEK": 11.2373,
+      "CHF": 0.9451,
+      "ISK": 139.6,
+      "NOK": 10.7805,
+      "TRY": 56.3329,
+      "AUD": 1.6161,
+      "BRL": 5.9244,
+      "CAD": 1.6064,
+      "CNY": 7.7762,
+      "HKD": 9.0904,
+      "IDR": 20404.99,
+      "ILS": 3.5301,
+      "INR": 110.7675,
+      "KRW": 1556.56,
+      "MXN": 19.6798,
+      "MYR": 4.7185,
+      "NZD": 1.9914,
+      "PHP": 72.6,
+      "SGD": 1.4697,
+      "THB": 38.329,
+      "ZAR": 18.7312
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -733,7 +733,7 @@
       "productId": 7071,
       "brand": "Rexona",
       "isCountryExtreme": true,
-      "overallPercentDiff": 465.79,
+      "overallPercentDiff": 458.44,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -771,9 +771,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:57.806Z",
           "currentPriceCents": 27900,
-          "currentPriceEurCents": 76,
+          "currentPriceEurCents": 77,
           "referencePriceCents": 27900,
-          "referencePriceEurCents": 76
+          "referencePriceEurCents": 77
         }
       ]
     },
@@ -781,7 +781,7 @@
       "productId": 13220,
       "brand": "Rexona",
       "isCountryExtreme": true,
-      "overallPercentDiff": 465.79,
+      "overallPercentDiff": 458.44,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -819,9 +819,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:59.780Z",
           "currentPriceCents": 27900,
-          "currentPriceEurCents": 76,
+          "currentPriceEurCents": 77,
           "referencePriceCents": 27900,
-          "referencePriceEurCents": 76
+          "referencePriceEurCents": 77
         }
       ]
     },
@@ -1297,54 +1297,6 @@
       ]
     },
     {
-      "productId": 3099,
-      "brand": "SEINZ.",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 404.95,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Balzam za nego kože po britju s cemprinom in..., 100 ml",
-          "url": "https://www.dm.si/p/d/1556360/seinz-balzam-za-nego-koze-po-britju-s-cemprinom-in-pantenolom",
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:03:18.285Z",
-          "currentPriceCents": 510,
-          "currentPriceEurCents": 510,
-          "referencePriceCents": 510,
-          "referencePriceEurCents": 510
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "After Shave Balsam Sensitive, 100 ml",
-          "url": "https://www.dm.de/p/d/1556360/seinz-after-shave-balsam-sensitive",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:07.596Z",
-          "currentPriceCents": 495,
-          "currentPriceEurCents": 495,
-          "referencePriceCents": 495,
-          "referencePriceEurCents": 495
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Szenzitív after shave balzsam cirbolyafenyővel, 100 ml",
-          "url": "https://www.dm.hu/p/d/1556360/seinz-szenzitiv-after-shave-balzsam-cirbolyafenyovel",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:00.665Z",
-          "currentPriceCents": 36900,
-          "currentPriceEurCents": 101,
-          "referencePriceCents": 36900,
-          "referencePriceEurCents": 101
-        }
-      ]
-    },
-    {
       "productId": 6091,
       "brand": "EVELINE COSMETICS",
       "isCountryExtreme": true,
@@ -1383,7 +1335,7 @@
       "productId": 21654,
       "brand": "NIVEA SUN",
       "isCountryExtreme": true,
-      "overallPercentDiff": 360.53,
+      "overallPercentDiff": 359.18,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1408,9 +1360,57 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:59.780Z",
           "currentPriceCents": 124900,
-          "currentPriceEurCents": 342,
+          "currentPriceEurCents": 343,
           "referencePriceCents": 124900,
-          "referencePriceEurCents": 342
+          "referencePriceEurCents": 343
+        }
+      ]
+    },
+    {
+      "productId": 6096,
+      "brand": "TANGLE TEEZER",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 354.43,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Detangling Mini četka za kosu The Devil Wears..., 1 kom.",
+          "url": "https://www.dm.hr/p/d/3135381/tangle-teezer-detangling-mini-cetka-za-kosu-the-devil-wears-prada-crvena",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:32:34.936Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Mini krtača za lase The Devil Wears Prada, 1 kos",
+          "url": "https://www.dm.si/p/d/3135381/tangle-teezer-mini-krtaca-za-lase-the-devil-wears-prada",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:04.847Z",
+          "currentPriceCents": 1795,
+          "currentPriceEurCents": 1795,
+          "referencePriceCents": 1795,
+          "referencePriceEurCents": 1795
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Mini kifésülő hajkefe Devil wears Prada, piros, 1 db",
+          "url": "https://www.dm.hu/p/d/3135381/tangle-teezer-mini-kifesulo-hajkefe-devil-wears-prada-piros",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:47.738Z",
+          "currentPriceCents": 599900,
+          "currentPriceEurCents": 1646,
+          "referencePriceCents": 599900,
+          "referencePriceEurCents": 1646
         }
       ]
     }

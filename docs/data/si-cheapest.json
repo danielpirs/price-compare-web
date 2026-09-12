@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-11T09:25:26.702Z",
+  "generatedAt": "2026-09-12T09:07:12.337Z",
   "fx": {
-    "asOf": "2026-09-10",
+    "asOf": "2026-09-11",
     "rates": {
-      "USD": 1.1616,
-      "JPY": 179.09,
-      "CZK": 24.251,
-      "DKK": 7.4751,
-      "GBP": 0.85915,
-      "HUF": 364.75,
-      "PLN": 4.322,
-      "RON": 5.2525,
-      "SEK": 11.1995,
-      "CHF": 0.9432,
-      "ISK": 140,
-      "NOK": 10.7635,
-      "TRY": 56.3316,
-      "AUD": 1.6167,
-      "BRL": 5.9528,
-      "CAD": 1.6049,
-      "CNY": 7.79,
-      "HKD": 9.1083,
-      "IDR": 20414.13,
-      "ILS": 3.5198,
-      "INR": 110.8645,
-      "KRW": 1560.96,
-      "MXN": 19.6816,
-      "MYR": 4.7225,
-      "NZD": 1.994,
-      "PHP": 72.688,
-      "SGD": 1.4711,
-      "THB": 38.327,
-      "ZAR": 18.7559
+      "USD": 1.1592,
+      "JPY": 178.56,
+      "CZK": 24.264,
+      "DKK": 7.4748,
+      "GBP": 0.85815,
+      "HUF": 364.45,
+      "PLN": 4.325,
+      "RON": 5.2547,
+      "SEK": 11.2373,
+      "CHF": 0.9451,
+      "ISK": 139.6,
+      "NOK": 10.7805,
+      "TRY": 56.3329,
+      "AUD": 1.6161,
+      "BRL": 5.9244,
+      "CAD": 1.6064,
+      "CNY": 7.7762,
+      "HKD": 9.0904,
+      "IDR": 20404.99,
+      "ILS": 3.5301,
+      "INR": 110.7675,
+      "KRW": 1556.56,
+      "MXN": 19.6798,
+      "MYR": 4.7185,
+      "NZD": 1.9914,
+      "PHP": 72.6,
+      "SGD": 1.4697,
+      "THB": 38.329,
+      "ZAR": 18.7312
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -39,54 +39,6 @@
   "countryCode": "SI",
   "kind": "cheapest",
   "items": [
-    {
-      "productId": 21039,
-      "brand": "HALLOHEBAMME",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 3553.33,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Olje za masažo dojenčka, 200 ml",
-          "url": "https://www.dm.si/p/d/2486110/hallohebamme-olje-za-masazo-dojencka",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:47.009Z",
-          "currentPriceCents": 15,
-          "currentPriceEurCents": 15,
-          "referencePriceCents": 15,
-          "referencePriceEurCents": 15
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Baby Pflegeöl Traumzauber, 200 ml",
-          "url": "https://www.dm.de/p/d/2486110/hallohebamme-baby-pflegeoel-traumzauber",
-          "isPromo": true,
-          "observedAt": "2026-08-31T20:41:51.516Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Elalvást segítő baba masszázsolaj bio..., 200 ml",
-          "url": "https://www.dm.hu/p/d/2486110/hallohebamme-elalvast-segito-baba-masszazsolaj-bio-levendulaolajjal",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:30.488Z",
-          "currentPriceCents": 199900,
-          "currentPriceEurCents": 548,
-          "referencePriceCents": 199900,
-          "referencePriceEurCents": 548
-        }
-      ]
-    },
     {
       "productId": 20693,
       "brand": "HALLOHEBAMME",
@@ -389,6 +341,54 @@
       ]
     },
     {
+      "productId": 21039,
+      "brand": "HALLOHEBAMME",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 996,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Olje za masažo dojenčka, 200 ml",
+          "url": "https://www.dm.si/p/d/2486110/hallohebamme-olje-za-masazo-dojencka",
+          "isPromo": true,
+          "observedAt": "2026-09-11T12:48:45.227Z",
+          "currentPriceCents": 15,
+          "currentPriceEurCents": 15,
+          "referencePriceCents": 50,
+          "referencePriceEurCents": 50
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Baby Pflegeöl Traumzauber, 200 ml",
+          "url": "https://www.dm.de/p/d/2486110/hallohebamme-baby-pflegeoel-traumzauber",
+          "isPromo": true,
+          "observedAt": "2026-09-11T12:48:53.861Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Elalvást segítő baba masszázsolaj bio..., 200 ml",
+          "url": "https://www.dm.hu/p/d/2486110/hallohebamme-elalvast-segito-baba-masszazsolaj-bio-levendulaolajjal",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:30.488Z",
+          "currentPriceCents": 199900,
+          "currentPriceEurCents": 548,
+          "referencePriceCents": 199900,
+          "referencePriceEurCents": 548
+        }
+      ]
+    },
+    {
       "productId": 7334,
       "brand": "vileda",
       "isCountryExtreme": true,
@@ -430,9 +430,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:28.672Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 493,
+          "currentPriceEurCents": 494,
           "referencePriceCents": 179900,
-          "referencePriceEurCents": 493
+          "referencePriceEurCents": 494
         }
       ]
     },
@@ -513,9 +513,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:49.604Z",
           "currentPriceCents": 499900,
-          "currentPriceEurCents": 1371,
+          "currentPriceEurCents": 1372,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1371
+          "referencePriceEurCents": 1372
         }
       ]
     },
@@ -922,54 +922,6 @@
       ]
     },
     {
-      "productId": 20705,
-      "brand": "HALLOHEBAMME",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 618.18,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Krema za zaščito dojenčkove kože z bio rakitovcem, 75 ml",
-          "url": "https://www.dm.si/p/d/2486242/hallohebamme-krema-za-zascito-dojenckove-koze-z-bio-rakitovcem",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:43.957Z",
-          "currentPriceCents": 55,
-          "currentPriceEurCents": 55,
-          "referencePriceCents": 55,
-          "referencePriceEurCents": 55
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Wind & Wetter Creme, 75 ml",
-          "url": "https://www.dm.de/p/d/2486242/hallohebamme-wind-und-wetter-creme",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:14.777Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Szél és hideg elleni védőkrém babáknak, 75 ml",
-          "url": "https://www.dm.hu/p/d/2486242/hallohebamme-szel-es-hideg-elleni-vedokrem-babaknak",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:30.488Z",
-          "currentPriceCents": 129900,
-          "currentPriceEurCents": 356,
-          "referencePriceCents": 129900,
-          "referencePriceEurCents": 356
-        }
-      ]
-    },
-    {
       "productId": 12258,
       "brand": "REVOLUTION",
       "isCountryExtreme": true,
@@ -1316,6 +1268,41 @@
           "url": "https://www.dm.si/p/d/2274958/proteini-si-beljakovinska-ploscica-pomaranca",
           "isPromo": true,
           "observedAt": "2026-08-30T22:34:49.733Z",
+          "currentPriceCents": 30,
+          "currentPriceEurCents": 30,
+          "referencePriceCents": 30,
+          "referencePriceEurCents": 30
+        }
+      ]
+    },
+    {
+      "productId": 6630,
+      "brand": "proteini.si",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 533.33,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Proteinska pločica - mliječna čokolada, 55 g",
+          "url": "https://www.dm.hr/p/d/2197422/proteini-si-proteinska-plocica-mlijecna-cokolada",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:38.262Z",
+          "currentPriceCents": 190,
+          "currentPriceEurCents": 190,
+          "referencePriceCents": 190,
+          "referencePriceEurCents": 190
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Beljakovinska ploščica Mlečna čokolada, 55 g",
+          "url": "https://www.dm.si/p/d/2197422/proteini-si-beljakovinska-ploscica-mlecna-cokolada",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:57.127Z",
           "currentPriceCents": 30,
           "currentPriceEurCents": 30,
           "referencePriceCents": 30,
