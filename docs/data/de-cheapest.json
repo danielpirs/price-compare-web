@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T09:07:12.337Z",
+  "generatedAt": "2026-09-13T10:04:29.450Z",
   "fx": {
     "asOf": "2026-09-11",
     "rates": {
@@ -1322,6 +1322,54 @@
       ]
     },
     {
+      "productId": 21855,
+      "brand": "trend !t up",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 210.53,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Rdečilo za ustnice The Shine, 220 Soft Pink, 4,2 g",
+          "url": "https://www.dm.si/p/d/1435561/trend-t-up-rdecilo-za-ustnice-the-shine-220-soft-pink",
+          "isPromo": true,
+          "observedAt": "2026-09-12T12:09:41.061Z",
+          "currentPriceCents": 199,
+          "currentPriceEurCents": 199,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Lippenstift The Shine 220 Soft Pink, 4,2 g",
+          "url": "https://www.dm.de/p/d/1435561/trend-t-up-lippenstift-the-shine-220-soft-pink",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:07.279Z",
+          "currentPriceCents": 95,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fényes ajakrúzs The Shine, 410, 4,2 g",
+          "url": "https://www.dm.hu/p/d/1435561/trend-t-up-fenyes-ajakruzs-the-shine-410",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:16.800Z",
+          "currentPriceCents": 59900,
+          "currentPriceEurCents": 164,
+          "referencePriceCents": 59900,
+          "referencePriceEurCents": 164
+        }
+      ]
+    },
+    {
       "productId": 26766,
       "brand": "dentural",
       "isCountryExtreme": true,
@@ -1502,41 +1550,6 @@
           "url": "https://www.dm.de/p/d/3115321/mivolis-ffp2-atemschutzmaske",
           "isPromo": false,
           "observedAt": "2026-08-31T20:41:05.626Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        }
-      ]
-    },
-    {
-      "productId": 38597,
-      "brand": "SUNDANCE",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 205.13,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Sonnenmilch Kids sensitive LSF 30, 200 ml",
-          "url": "https://www.dm.at/p/d/1681195/sundance-sonnenmilch-kids-sensitive-lsf-30",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:38:04.233Z",
-          "currentPriceCents": 595,
-          "currentPriceEurCents": 595,
-          "referencePriceCents": 595,
-          "referencePriceEurCents": 595
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Sonnenmilch Kids sensitiv LSF 30, 200 ml",
-          "url": "https://www.dm.de/p/d/1681195/sundance-sonnenmilch-kids-sensitiv-lsf-30",
-          "isPromo": true,
-          "observedAt": "2026-08-31T20:41:45.137Z",
           "currentPriceCents": 195,
           "currentPriceEurCents": 195,
           "referencePriceCents": 195,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T09:07:12.337Z",
+  "generatedAt": "2026-09-13T10:04:29.450Z",
   "fx": {
     "asOf": "2026-09-11",
     "rates": {
@@ -769,41 +769,6 @@
       ]
     },
     {
-      "productId": 14525,
-      "brand": "Violeta",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 657.14,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Double care pelene gaćice, vel. 4 (9 – 15 kg), 52 kom.",
-          "url": "https://www.dm.hr/p/d/2220443/violeta-double-care-pelene-gacice-vel-4-9-15-kg",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:27.056Z",
-          "currentPriceCents": 1590,
-          "currentPriceEurCents": 1590,
-          "referencePriceCents": 1590,
-          "referencePriceEurCents": 1590
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Hlačne plenice, velikost 4, 9-15 kg, 52 kos",
-          "url": "https://www.dm.si/p/d/2220443/violeta-hlacne-plenice-velikost-4-9-15-kg",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:48.379Z",
-          "currentPriceCents": 210,
-          "currentPriceEurCents": 210,
-          "referencePriceCents": 210,
-          "referencePriceEurCents": 210
-        }
-      ]
-    },
-    {
       "productId": 14740,
       "brand": "Violeta",
       "isCountryExtreme": true,
@@ -1307,6 +1272,41 @@
           "currentPriceEurCents": 30,
           "referencePriceCents": 30,
           "referencePriceEurCents": 30
+        }
+      ]
+    },
+    {
+      "productId": 16910,
+      "brand": "Swissdent",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 526.26,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Zobna pasta BIOCARE, 50 ml",
+          "url": "https://www.dm.si/p/d/1869909/swissdent-zobna-pasta-biocare",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:03.751Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 99,
+          "referencePriceEurCents": 99
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Zahnpasta Biocare, 50 ml",
+          "url": "https://www.dm.at/p/d/1869909/swissdent-zahnpasta-biocare",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:37:17.430Z",
+          "currentPriceCents": 620,
+          "currentPriceEurCents": 620,
+          "referencePriceCents": 620,
+          "referencePriceEurCents": 620
         }
       ]
     }
