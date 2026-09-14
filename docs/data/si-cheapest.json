@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T10:04:29.450Z",
+  "generatedAt": "2026-09-14T10:25:51.185Z",
   "fx": {
     "asOf": "2026-09-11",
     "rates": {
@@ -769,41 +769,6 @@
       ]
     },
     {
-      "productId": 14740,
-      "brand": "Violeta",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 657.14,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Pelene gaćice vel. 5 (12 – 17 kg), 48 kom.",
-          "url": "https://www.dm.hr/p/d/2220444/violeta-pelene-gacice-vel-5-12-17-kg",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:27.900Z",
-          "currentPriceCents": 1590,
-          "currentPriceEurCents": 1590,
-          "referencePriceCents": 1590,
-          "referencePriceEurCents": 1590
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Hlačne plenice, velikost 5, 12-17 kg, 48 kos",
-          "url": "https://www.dm.si/p/d/2220444/violeta-hlacne-plenice-velikost-5-12-17-kg",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:42.587Z",
-          "currentPriceCents": 210,
-          "currentPriceEurCents": 210,
-          "referencePriceCents": 210,
-          "referencePriceEurCents": 210
-        }
-      ]
-    },
-    {
       "productId": 17795,
       "brand": "L'ORÉAL PARiS",
       "isCountryExtreme": true,
@@ -1307,6 +1272,80 @@
           "currentPriceEurCents": 620,
           "referencePriceCents": 620,
           "referencePriceEurCents": 620
+        }
+      ]
+    },
+    {
+      "productId": 5642,
+      "brand": "CATRICE",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 523.23,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Fixierspray Ultra Last2, 50 ml",
+          "url": "https://www.dm.at/p/d/1625880/catrice-fixierspray-ultra-last2",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:47.920Z",
+          "currentPriceCents": 545,
+          "currentPriceEurCents": 545,
+          "referencePriceCents": 545,
+          "referencePriceEurCents": 545
+        },
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Ultra Last² sprej za fiksiranje, 50 ml",
+          "url": "https://www.dm.hr/p/d/1625880/catrice-ultra-last-sprej-za-fiksiranje",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:33:16.696Z",
+          "currentPriceCents": 290,
+          "currentPriceEurCents": 290,
+          "referencePriceCents": 290,
+          "referencePriceEurCents": 290
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Sprej za podaljšanje obstojnosti ličil Ultra Last², 50 ml",
+          "url": "https://www.dm.si/p/d/1625880/catrice-sprej-za-podaljsanje-obstojnosti-licil-ultra-last",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:33:51.120Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 99,
+          "referencePriceEurCents": 99
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Fixierspray Ultra Last2, 50 ml",
+          "url": "https://www.dm.de/p/d/1625880/catrice-fixierspray-ultra-last2",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:20.165Z",
+          "currentPriceCents": 545,
+          "currentPriceEurCents": 545,
+          "referencePriceCents": 545,
+          "referencePriceEurCents": 545
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Sminkfixáló, Ultra Last2, 50 ml",
+          "url": "https://www.dm.hu/p/d/1625880/catrice-sminkfixalo-ultra-last2",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:02.831Z",
+          "currentPriceCents": 224900,
+          "currentPriceEurCents": 617,
+          "referencePriceCents": 224900,
+          "referencePriceEurCents": 617
         }
       ]
     }

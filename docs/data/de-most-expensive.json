@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T10:04:29.450Z",
+  "generatedAt": "2026-09-14T10:25:51.185Z",
   "fx": {
     "asOf": "2026-09-11",
     "rates": {
@@ -538,41 +538,6 @@
           "currentPriceEurCents": 151,
           "referencePriceCents": 54900,
           "referencePriceEurCents": 151
-        }
-      ]
-    },
-    {
-      "productId": 49239,
-      "brand": "alverde NATURKOSMETIK",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 548.15,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Nagellack Color & Care Nail Polish 50 Coral Red, 10 ml",
-          "url": "https://www.dm.de/p/d/1344174/alverde-naturkosmetik-nagellack-color-und-care-nail-polish-50-coral-red",
-          "isPromo": true,
-          "observedAt": "2026-08-31T20:43:11.842Z",
-          "currentPriceCents": 175,
-          "currentPriceEurCents": 175,
-          "referencePriceCents": 175,
-          "referencePriceEurCents": 175
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Körömlakk Color & Care,  50 Coral Red, 10 ml",
-          "url": "https://www.dm.hu/p/d/1344174/alverde-naturkosmetik-koromlakk-color-care-50-coral-red",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:24.785Z",
-          "currentPriceCents": 9900,
-          "currentPriceEurCents": 27,
-          "referencePriceCents": 9900,
-          "referencePriceEurCents": 27
         }
       ]
     },
@@ -1420,6 +1385,54 @@
           "url": "https://www.dm.de/p/d/3123311/catrice-lippenoel-glossy-nectar-spring-and-the-city-c01-hello-lover",
           "isPromo": false,
           "observedAt": "2026-08-31T20:41:07.596Z",
+          "currentPriceCents": 445,
+          "currentPriceEurCents": 445,
+          "referencePriceCents": 445,
+          "referencePriceEurCents": 445
+        }
+      ]
+    },
+    {
+      "productId": 19243,
+      "brand": "CATRICE",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 349.49,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Mat mousse za ustnice Soft Embrace, 01 Soft Peony, 2,8 ml",
+          "url": "https://www.dm.si/p/d/3105043/catrice-mat-mousse-za-ustnice-soft-embrace-01-soft-peony",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:30.655Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 99,
+          "referencePriceEurCents": 99
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Lippenstift Pillow Matte Lip Mousse Soft Embrace..., 2,8 ml",
+          "url": "https://www.dm.at/p/d/3105043/catrice-lippenstift-pillow-matte-lip-mousse-soft-embrace-c01-soft-peony",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:36:57.262Z",
+          "currentPriceCents": 225,
+          "currentPriceEurCents": 225,
+          "referencePriceCents": 225,
+          "referencePriceEurCents": 225
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Lippenstift Soft Embrace Pillow Matte Lip Mousse..., 2,8 ml",
+          "url": "https://www.dm.de/p/d/3105043/catrice-lippenstift-soft-embrace-pillow-matte-lip-mousse-c01-soft-peony",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:05.771Z",
           "currentPriceCents": 445,
           "currentPriceEurCents": 445,
           "referencePriceCents": 445,

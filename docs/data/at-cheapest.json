@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T10:04:29.450Z",
+  "generatedAt": "2026-09-14T10:25:51.185Z",
   "fx": {
     "asOf": "2026-09-11",
     "rates": {
@@ -721,41 +721,6 @@
       ]
     },
     {
-      "productId": 19990,
-      "brand": "Balea",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 199,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Sprej za lase VOLUME EFFECT, 150 ml",
-          "url": "https://www.dm.si/p/d/1711253/balea-sprej-za-lase-volume-effect",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:36.892Z",
-          "currentPriceCents": 299,
-          "currentPriceEurCents": 299,
-          "referencePriceCents": 299,
-          "referencePriceEurCents": 299
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Haarspray Volume Effect, 150 ml",
-          "url": "https://www.dm.at/p/d/1711253/balea-haarspray-volume-effect",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:37:13.170Z",
-          "currentPriceCents": 100,
-          "currentPriceEurCents": 100,
-          "referencePriceCents": 100,
-          "referencePriceEurCents": 100
-        }
-      ]
-    },
-    {
       "productId": 27011,
       "brand": "Frosch",
       "isCountryExtreme": true,
@@ -1411,6 +1376,41 @@
           "currentPriceEurCents": 1289,
           "referencePriceCents": 469900,
           "referencePriceEurCents": 1289
+        }
+      ]
+    },
+    {
+      "productId": 32069,
+      "brand": "REAL TECHNIQUES",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 165.17,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Make-up Schwamm Dual-Ended Expert, 1 St",
+          "url": "https://www.dm.at/p/d/1536731/real-techniques-make-up-schwamm-dual-ended-expert",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:37:00.166Z",
+          "currentPriceCents": 445,
+          "currentPriceEurCents": 445,
+          "referencePriceCents": 445,
+          "referencePriceEurCents": 445
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "DUAL-ENDED EXPERT Sminkszivacs, 1 db",
+          "url": "https://www.dm.hu/p/d/1536731/real-techniques-dual-ended-expert-sminkszivacs",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:33:07.322Z",
+          "currentPriceCents": 429900,
+          "currentPriceEurCents": 1180,
+          "referencePriceCents": 429900,
+          "referencePriceEurCents": 1180
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T10:04:29.450Z",
+  "generatedAt": "2026-09-14T10:25:51.185Z",
   "fx": {
     "asOf": "2026-09-11",
     "rates": {
@@ -315,6 +315,41 @@
       ]
     },
     {
+      "productId": 4074,
+      "brand": "sundance",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 707.14,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Sončna očala za odrasle, črna s pisanimi stekli, 1 kos",
+          "url": "https://www.dm.si/p/d/1712001/sundance-soncna-ocala-za-odrasle-crna-s-pisanimi-stekli",
+          "isPromo": true,
+          "observedAt": "2026-09-13T13:17:50.140Z",
+          "currentPriceCents": 595,
+          "currentPriceEurCents": 595,
+          "referencePriceCents": 1695,
+          "referencePriceEurCents": 1695
+        },
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Sunčane naočale za odrasle – tigrasti motiv, 1 kom.",
+          "url": "https://www.dm.hr/p/d/1712001/sundance-suncane-naocale-za-odrasle-tigrasti-motiv",
+          "isPromo": true,
+          "observedAt": "2026-09-13T13:17:43.732Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 210,
+          "referencePriceEurCents": 210
+        }
+      ]
+    },
+    {
       "productId": 529,
       "brand": "alverde NATURKOSMETIK",
       "isCountryExtreme": true,
@@ -516,54 +551,6 @@
       ]
     },
     {
-      "productId": 6039,
-      "brand": "ogx",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 551.72,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "coconut miracle oil maska za kosu, 300 ml",
-          "url": "https://www.dm.hr/p/d/2170211/ogx-coconut-miracle-oil-maska-za-kosu",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:32:34.936Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Negovalna maska za lase s kokosovim oljem, 300 ml",
-          "url": "https://www.dm.si/p/d/2170211/ogx-negovalna-maska-za-lase-s-kokosovim-oljem",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:59.311Z",
-          "currentPriceCents": 945,
-          "currentPriceEurCents": 945,
-          "referencePriceCents": 945,
-          "referencePriceEurCents": 945
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Haarkur Coconut Miracle Oil, 300 ml",
-          "url": "https://www.dm.de/p/d/2170211/ogx-haarkur-coconut-miracle-oil",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:43.104Z",
-          "currentPriceCents": 895,
-          "currentPriceEurCents": 895,
-          "referencePriceCents": 895,
-          "referencePriceEurCents": 895
-        }
-      ]
-    },
-    {
       "productId": 19942,
       "brand": "Dontodent",
       "isCountryExtreme": true,
@@ -590,11 +577,11 @@
           "name": "Aufsteckbürsten mittel Nachfüllpack, 3 St",
           "url": "https://www.dm.at/p/d/1685426/dontodent-aufsteckbuersten-mittel-nachfuellpack",
           "isPromo": true,
-          "observedAt": "2026-08-30T22:37:16.039Z",
+          "observedAt": "2026-09-13T13:18:04.185Z",
           "currentPriceCents": 170,
           "currentPriceEurCents": 170,
-          "referencePriceCents": 170,
-          "referencePriceEurCents": 170
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
         },
         {
           "countryCode": "HU",
@@ -829,54 +816,6 @@
           "currency": "HUF",
           "name": "Filc talpbetét, 38-39 méret, 1 pár, 2 db",
           "url": "https://www.dm.hu/p/d/2486908/balea-filc-talpbetet-38-39-meret-1-par",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:55.494Z",
-          "currentPriceCents": 9900,
-          "currentPriceEurCents": 27,
-          "referencePriceCents": 9900,
-          "referencePriceEurCents": 27
-        }
-      ]
-    },
-    {
-      "productId": 20970,
-      "brand": "Balea",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 455.56,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Vložki za čevlje s flisom, velikost 40-41 (1 par), 2 kos",
-          "url": "https://www.dm.si/p/d/2486909/balea-vlozki-za-cevlje-s-flisom-velikost-40-41-1-par",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:47.009Z",
-          "currentPriceCents": 150,
-          "currentPriceEurCents": 150,
-          "referencePriceCents": 150,
-          "referencePriceEurCents": 150
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Einlegesohlen Fleece Gr. 40/41, 2 St",
-          "url": "https://www.dm.at/p/d/2486909/balea-einlegesohlen-fleece-gr-40-41",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:37:01.525Z",
-          "currentPriceCents": 95,
-          "currentPriceEurCents": 95,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Filc talpbetét, 40-41 méret, 1 pár, 2 db",
-          "url": "https://www.dm.hu/p/d/2486909/balea-filc-talpbetet-40-41-meret-1-par",
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:55.494Z",
           "currentPriceCents": 9900,
@@ -1153,80 +1092,6 @@
       ]
     },
     {
-      "productId": 1589,
-      "brand": "ebelin",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 412.2,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Masažna četka za lice, više vrsta, 1 kom.",
-          "url": "https://www.dm.hr/p/d/1691588/ebelin-masazna-cetka-za-lice-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:53:15.146Z",
-          "currentPriceCents": 175,
-          "currentPriceEurCents": 175,
-          "referencePriceCents": 175,
-          "referencePriceEurCents": 175
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Ščetka za masažo obraza, več različic, 1 kos",
-          "url": "https://www.dm.si/p/d/1691588/ebelin-scetka-za-masazo-obraza-vec-razlicic",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:44.749Z",
-          "currentPriceCents": 210,
-          "currentPriceEurCents": 210,
-          "referencePriceCents": 210,
-          "referencePriceEurCents": 210
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Massagetool Gesicht sortiert, 1 St",
-          "url": "https://www.dm.at/p/d/1691588/ebelin-massagetool-gesicht-sortiert",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:14.610Z",
-          "currentPriceCents": 175,
-          "currentPriceEurCents": 175,
-          "referencePriceCents": 175,
-          "referencePriceEurCents": 175
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Gesichtsmassagebürste, 1 St",
-          "url": "https://www.dm.de/p/d/1691588/ebelin-gesichtsmassagebuerste",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:33.730Z",
-          "currentPriceCents": 175,
-          "currentPriceEurCents": 175,
-          "referencePriceCents": 175,
-          "referencePriceEurCents": 175
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Arcmasszírozó kefe, 1 db",
-          "url": "https://www.dm.hu/p/d/1691588/ebelin-arcmasszirozo-kefe",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:42.358Z",
-          "currentPriceCents": 14900,
-          "currentPriceEurCents": 41,
-          "referencePriceCents": 14900,
-          "referencePriceEurCents": 41
-        }
-      ]
-    },
-    {
       "productId": 19959,
       "brand": "ebelin",
       "isCountryExtreme": true,
@@ -1424,6 +1289,141 @@
           "currentPriceEurCents": 548,
           "referencePriceCents": 199900,
           "referencePriceEurCents": 548
+        }
+      ]
+    },
+    {
+      "productId": 11298,
+      "brand": "Balea MEN",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 348.86,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Gel-krema za lice Energy, 50 ml",
+          "url": "https://www.dm.hr/p/d/1458070/balea-men-gel-krema-za-lice-energy",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:07.072Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Poživljajoča krema za obraz s tavrinom in 2 %..., 50 ml",
+          "url": "https://www.dm.si/p/d/1458070/balea-men-pozivljajoca-krema-za-obraz-s-tavrinom-in-2-kofeina",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:19.947Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Energy Power Booster, 50 ml",
+          "url": "https://www.dm.at/p/d/1458070/balea-men-energy-power-booster",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:37:03.056Z",
+          "currentPriceCents": 250,
+          "currentPriceEurCents": 250,
+          "referencePriceCents": 250,
+          "referencePriceEurCents": 250
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Gesichtscreme Energy Power Booster, 50 ml",
+          "url": "https://www.dm.de/p/d/1458070/balea-men-gesichtscreme-energy-power-booster",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:54.335Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Férfi energizáló arckrém, Energy Power Booster, 50 ml",
+          "url": "https://www.dm.hu/p/d/1458070/balea-men-ferfi-energizalo-arckrem-energy-power-booster",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:00.665Z",
+          "currentPriceCents": 31900,
+          "currentPriceEurCents": 88,
+          "referencePriceCents": 31900,
+          "referencePriceEurCents": 88
+        }
+      ]
+    },
+    {
+      "productId": 6056,
+      "brand": "TANGLE TEEZER",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 343.43,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Detangling četka za kosu The Devil Wears Prada –..., 1 kom.",
+          "url": "https://www.dm.hr/p/d/3135474/tangle-teezer-detangling-cetka-za-kosu-the-devil-wears-prada-crvena",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:32:34.936Z",
+          "currentPriceCents": 495,
+          "currentPriceEurCents": 495,
+          "referencePriceCents": 495,
+          "referencePriceEurCents": 495
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Krtača za lase The Devil Wears Prada, 1 kos",
+          "url": "https://www.dm.si/p/d/3135474/tangle-teezer-krtaca-za-lase-the-devil-wears-prada",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:44.749Z",
+          "currentPriceCents": 2195,
+          "currentPriceEurCents": 2195,
+          "referencePriceCents": 2195,
+          "referencePriceEurCents": 2195
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Entwirrbürste, Ultimate Detangler  \"The Devil..., 1 St",
+          "url": "https://www.dm.de/p/d/3135474/tangle-teezer-entwirrbuerste-ultimate-detangler-the-devil-wears-prada",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:43.104Z",
+          "currentPriceCents": 1995,
+          "currentPriceEurCents": 1995,
+          "referencePriceCents": 1995,
+          "referencePriceEurCents": 1995
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Kifésülő hajkefe Devil wears Prada, piros, 1 db",
+          "url": "https://www.dm.hu/p/d/3135474/tangle-teezer-kifesulo-hajkefe-devil-wears-prada-piros",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:55.609Z",
+          "currentPriceCents": 749900,
+          "currentPriceEurCents": 2058,
+          "referencePriceCents": 749900,
+          "referencePriceEurCents": 2058
         }
       ]
     }
