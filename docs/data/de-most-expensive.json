@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-14T10:25:51.185Z",
+  "generatedAt": "2026-09-15T09:51:33.127Z",
   "fx": {
-    "asOf": "2026-09-11",
+    "asOf": "2026-09-14",
     "rates": {
-      "USD": 1.1592,
-      "JPY": 178.56,
-      "CZK": 24.264,
-      "DKK": 7.4748,
-      "GBP": 0.85815,
-      "HUF": 364.45,
-      "PLN": 4.325,
-      "RON": 5.2547,
-      "SEK": 11.2373,
-      "CHF": 0.9451,
-      "ISK": 139.6,
-      "NOK": 10.7805,
-      "TRY": 56.3329,
-      "AUD": 1.6161,
-      "BRL": 5.9244,
-      "CAD": 1.6064,
-      "CNY": 7.7762,
-      "HKD": 9.0904,
-      "IDR": 20404.99,
-      "ILS": 3.5301,
-      "INR": 110.7675,
-      "KRW": 1556.56,
-      "MXN": 19.6798,
-      "MYR": 4.7185,
-      "NZD": 1.9914,
-      "PHP": 72.6,
-      "SGD": 1.4697,
-      "THB": 38.329,
-      "ZAR": 18.7312
+      "USD": 1.1551,
+      "JPY": 178.52,
+      "CZK": 24.294,
+      "DKK": 7.4753,
+      "GBP": 0.85598,
+      "HUF": 365.33,
+      "PLN": 4.3418,
+      "RON": 5.2568,
+      "SEK": 11.281,
+      "CHF": 0.9431,
+      "ISK": 139.8,
+      "NOK": 10.767,
+      "TRY": 56.1636,
+      "AUD": 1.6202,
+      "BRL": 5.9564,
+      "CAD": 1.6041,
+      "CNY": 7.7489,
+      "HKD": 9.0599,
+      "IDR": 20398.66,
+      "ILS": 3.527,
+      "INR": 110.3755,
+      "KRW": 1555.04,
+      "MXN": 19.72,
+      "MYR": 4.7082,
+      "NZD": 2.0012,
+      "PHP": 72.619,
+      "SGD": 1.4676,
+      "THB": 38.407,
+      "ZAR": 18.7695
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -81,9 +81,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:28.621Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 274,
+          "currentPriceEurCents": 273,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 274
+          "referencePriceEurCents": 273
         }
       ]
     },
@@ -212,9 +212,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:42.358Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 274,
+          "currentPriceEurCents": 273,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 274
+          "referencePriceEurCents": 273
         }
       ]
     },
@@ -295,9 +295,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:30.488Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 274,
+          "currentPriceEurCents": 273,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 274
+          "referencePriceEurCents": 273
         }
       ]
     },
@@ -420,54 +420,6 @@
       ]
     },
     {
-      "productId": 21038,
-      "brand": "HALLOHEBAMME",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 555.56,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Kremni gel za tuširanje 3 v 1, 200 ml",
-          "url": "https://www.dm.si/p/d/2486106/hallohebamme-kremni-gel-za-tusiranje-3-v-1",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:47.009Z",
-          "currentPriceCents": 45,
-          "currentPriceEurCents": 45,
-          "referencePriceCents": 45,
-          "referencePriceEurCents": 45
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Duschcreme 3in1, 200 ml",
-          "url": "https://www.dm.de/p/d/2486106/hallohebamme-duschcreme-3in1",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:18.143Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "3in1 krémes tusfürdő, 200 ml",
-          "url": "https://www.dm.hu/p/d/2486106/hallohebamme-3in1-kremes-tusfurdo",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:07.865Z",
-          "currentPriceCents": 39900,
-          "currentPriceEurCents": 109,
-          "referencePriceCents": 39900,
-          "referencePriceEurCents": 109
-        }
-      ]
-    },
-    {
       "productId": 8067,
       "brand": "trend !t up",
       "isCountryExtreme": true,
@@ -535,9 +487,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:35.276Z",
           "currentPriceCents": 54900,
-          "currentPriceEurCents": 151,
+          "currentPriceEurCents": 150,
           "referencePriceCents": 54900,
-          "referencePriceEurCents": 151
+          "referencePriceEurCents": 150
         }
       ]
     },
@@ -830,80 +782,6 @@
       ]
     },
     {
-      "productId": 4031,
-      "brand": "Borotalco",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 442.68,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Soft deo roll-on, 50 ml",
-          "url": "https://www.dm.hr/p/d/1914783/borotalco-soft-deo-roll-on",
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:10:02.388Z",
-          "currentPriceCents": 270,
-          "currentPriceEurCents": 270,
-          "referencePriceCents": 270,
-          "referencePriceEurCents": 270
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Roll on deodorant Soft, 50 ml",
-          "url": "https://www.dm.si/p/d/1914783/borotalco-roll-on-deodorant-soft",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:42.628Z",
-          "currentPriceCents": 410,
-          "currentPriceEurCents": 410,
-          "referencePriceCents": 410,
-          "referencePriceEurCents": 410
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Antitranspirant Roll-On Soft, 50 ml",
-          "url": "https://www.dm.at/p/d/1914783/borotalco-antitranspirant-roll-on-soft",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:52.153Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Deo Roll-on Soft Flower, 50 ml",
-          "url": "https://www.dm.de/p/d/1914783/borotalco-deo-roll-on-soft-flower",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:11.679Z",
-          "currentPriceCents": 445,
-          "currentPriceEurCents": 445,
-          "referencePriceCents": 445,
-          "referencePriceEurCents": 445
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Deo roll-on Soft Pink, 50 ml",
-          "url": "https://www.dm.hu/p/d/1914783/borotalco-deo-roll-on-soft-pink",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:59.780Z",
-          "currentPriceCents": 29900,
-          "currentPriceEurCents": 82,
-          "referencePriceCents": 29900,
-          "referencePriceEurCents": 82
-        }
-      ]
-    },
-    {
       "productId": 19261,
       "brand": "essence",
       "isCountryExtreme": true,
@@ -955,7 +833,7 @@
       "productId": 54274,
       "brand": "Cosrx",
       "isCountryExtreme": true,
-      "overallPercentDiff": 424.83,
+      "overallPercentDiff": 426.58,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -980,9 +858,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:59.780Z",
           "currentPriceCents": 109900,
-          "currentPriceEurCents": 302,
+          "currentPriceEurCents": 301,
           "referencePriceCents": 109900,
-          "referencePriceEurCents": 302
+          "referencePriceEurCents": 301
         }
       ]
     },
@@ -1300,7 +1178,7 @@
       "productId": 47668,
       "brand": "Bondi Sands",
       "isCountryExtreme": true,
-      "overallPercentDiff": 360.26,
+      "overallPercentDiff": 363.33,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1325,9 +1203,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:57.806Z",
           "currentPriceCents": 54900,
-          "currentPriceEurCents": 151,
+          "currentPriceEurCents": 150,
           "referencePriceCents": 54900,
-          "referencePriceEurCents": 151
+          "referencePriceEurCents": 150
         }
       ]
     },
@@ -1437,6 +1315,102 @@
           "currentPriceEurCents": 445,
           "referencePriceCents": 445,
           "referencePriceEurCents": 445
+        }
+      ]
+    },
+    {
+      "productId": 20230,
+      "brand": "CATRICE",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 349.49,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Umetne trepalnice Dramatic Curl Lashes, 1 kos",
+          "url": "https://www.dm.si/p/d/1678939/catrice-umetne-trepalnice-dramatic-curl-lashes",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:39.058Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 99,
+          "referencePriceEurCents": 99
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Künstliche Wimpern Dramatic Curl (1 Paar), 2 St",
+          "url": "https://www.dm.de/p/d/1678939/catrice-kuenstliche-wimpern-dramatic-curl-1-paar",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:16.904Z",
+          "currentPriceCents": 445,
+          "currentPriceEurCents": 445,
+          "referencePriceCents": 445,
+          "referencePriceEurCents": 445
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Műszempilla, Faked Dramatic Curl, 1 db",
+          "url": "https://www.dm.hu/p/d/1678939/catrice-muszempilla-faked-dramatic-curl",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:32:22.557Z",
+          "currentPriceCents": 69900,
+          "currentPriceEurCents": 191,
+          "referencePriceCents": 69900,
+          "referencePriceEurCents": 191
+        }
+      ]
+    },
+    {
+      "productId": 17872,
+      "brand": "Profissimo",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 333.33,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Eterično olje s cimetovo noto, 10 ml",
+          "url": "https://www.dm.si/p/d/3093609/profissimo-etericno-olje-s-cimetovo-noto",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:17.085Z",
+          "currentPriceCents": 45,
+          "currentPriceEurCents": 45,
+          "referencePriceCents": 45,
+          "referencePriceEurCents": 45
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Parfüm-Öl  Zimt, 10 ml",
+          "url": "https://www.dm.de/p/d/3093609/profissimo-parfuem-oel-zimt",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:19.020Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 195,
+          "referencePriceEurCents": 195
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Illóolaj fahéj, 10 ml",
+          "url": "https://www.dm.hu/p/d/3093609/profissimo-illoolaj-fahej",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:29:57.331Z",
+          "currentPriceCents": 59900,
+          "currentPriceEurCents": 164,
+          "referencePriceCents": 59900,
+          "referencePriceEurCents": 164
         }
       ]
     }

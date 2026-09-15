@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-14T10:25:51.185Z",
+  "generatedAt": "2026-09-15T09:51:33.127Z",
   "fx": {
-    "asOf": "2026-09-11",
+    "asOf": "2026-09-14",
     "rates": {
-      "USD": 1.1592,
-      "JPY": 178.56,
-      "CZK": 24.264,
-      "DKK": 7.4748,
-      "GBP": 0.85815,
-      "HUF": 364.45,
-      "PLN": 4.325,
-      "RON": 5.2547,
-      "SEK": 11.2373,
-      "CHF": 0.9451,
-      "ISK": 139.6,
-      "NOK": 10.7805,
-      "TRY": 56.3329,
-      "AUD": 1.6161,
-      "BRL": 5.9244,
-      "CAD": 1.6064,
-      "CNY": 7.7762,
-      "HKD": 9.0904,
-      "IDR": 20404.99,
-      "ILS": 3.5301,
-      "INR": 110.7675,
-      "KRW": 1556.56,
-      "MXN": 19.6798,
-      "MYR": 4.7185,
-      "NZD": 1.9914,
-      "PHP": 72.6,
-      "SGD": 1.4697,
-      "THB": 38.329,
-      "ZAR": 18.7312
+      "USD": 1.1551,
+      "JPY": 178.52,
+      "CZK": 24.294,
+      "DKK": 7.4753,
+      "GBP": 0.85598,
+      "HUF": 365.33,
+      "PLN": 4.3418,
+      "RON": 5.2568,
+      "SEK": 11.281,
+      "CHF": 0.9431,
+      "ISK": 139.8,
+      "NOK": 10.767,
+      "TRY": 56.1636,
+      "AUD": 1.6202,
+      "BRL": 5.9564,
+      "CAD": 1.6041,
+      "CNY": 7.7489,
+      "HKD": 9.0599,
+      "IDR": 20398.66,
+      "ILS": 3.527,
+      "INR": 110.3755,
+      "KRW": 1555.04,
+      "MXN": 19.72,
+      "MYR": 4.7082,
+      "NZD": 2.0012,
+      "PHP": 72.619,
+      "SGD": 1.4676,
+      "THB": 38.407,
+      "ZAR": 18.7695
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -43,7 +43,7 @@
       "productId": 11484,
       "brand": "SUNDANCE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 981.82,
+      "overallPercentDiff": 1001.85,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -96,7 +96,7 @@
           "currentPriceCents": 9900,
           "currentPriceEurCents": 27,
           "referencePriceCents": 19900,
-          "referencePriceEurCents": 55
+          "referencePriceEurCents": 54
         }
       ]
     },
@@ -142,9 +142,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:28.672Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 494,
+          "currentPriceEurCents": 492,
           "referencePriceCents": 179900,
-          "referencePriceEurCents": 494
+          "referencePriceEurCents": 492
         }
       ]
     },
@@ -190,9 +190,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:49.604Z",
           "currentPriceCents": 499900,
-          "currentPriceEurCents": 1372,
+          "currentPriceEurCents": 1368,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1372
+          "referencePriceEurCents": 1368
         }
       ]
     },
@@ -238,9 +238,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:41.384Z",
           "currentPriceCents": 100900,
-          "currentPriceEurCents": 277,
+          "currentPriceEurCents": 276,
           "referencePriceCents": 100900,
-          "referencePriceEurCents": 277
+          "referencePriceEurCents": 276
         }
       ]
     },
@@ -331,7 +331,7 @@
       "productId": 9740,
       "brand": "Moschino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 612.83,
+      "overallPercentDiff": 614.91,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -369,9 +369,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:19.940Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 686,
+          "currentPriceEurCents": 684,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 686
+          "referencePriceEurCents": 684
         }
       ]
     },
@@ -564,6 +564,54 @@
       ]
     },
     {
+      "productId": 12153,
+      "brand": "NIVEA MEN",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 446.3,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Total Relax gel za tuširanje, 250 ml",
+          "url": "https://www.dm.hr/p/d/2977362/nivea-men-total-relax-gel-za-tusiranje",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:13.032Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Gel za tuširanje 3 v 1 Total Relax, 250 ml",
+          "url": "https://www.dm.si/p/d/2977362/nivea-men-gel-za-tusiranje-3-v-1-total-relax",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:06.418Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Tusfürdő Total Relax, 250 ml",
+          "url": "https://www.dm.hu/p/d/2977362/nivea-men-tusfurdo-total-relax",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:32:25.549Z",
+          "currentPriceCents": 19900,
+          "currentPriceEurCents": 54,
+          "referencePriceCents": 19900,
+          "referencePriceEurCents": 54
+        }
+      ]
+    },
+    {
       "productId": 10118,
       "brand": "Dove MEN+CARE",
       "isCountryExtreme": true,
@@ -608,54 +656,6 @@
           "currentPriceEurCents": 82,
           "referencePriceCents": 29900,
           "referencePriceEurCents": 82
-        }
-      ]
-    },
-    {
-      "productId": 12153,
-      "brand": "NIVEA MEN",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 436.36,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Total Relax gel za tuširanje, 250 ml",
-          "url": "https://www.dm.hr/p/d/2977362/nivea-men-total-relax-gel-za-tusiranje",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:13.032Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Gel za tuširanje 3 v 1 Total Relax, 250 ml",
-          "url": "https://www.dm.si/p/d/2977362/nivea-men-gel-za-tusiranje-3-v-1-total-relax",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:06.418Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Tusfürdő Total Relax, 250 ml",
-          "url": "https://www.dm.hu/p/d/2977362/nivea-men-tusfurdo-total-relax",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:32:25.549Z",
-          "currentPriceCents": 19900,
-          "currentPriceEurCents": 55,
-          "referencePriceCents": 19900,
-          "referencePriceEurCents": 55
         }
       ]
     },
@@ -829,7 +829,7 @@
       "productId": 10440,
       "brand": "Mixa",
       "isCountryExtreme": true,
-      "overallPercentDiff": 372.22,
+      "overallPercentDiff": 373.87,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -854,9 +854,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:52.512Z",
           "currentPriceCents": 104900,
-          "currentPriceEurCents": 288,
+          "currentPriceEurCents": 287,
           "referencePriceCents": 104900,
-          "referencePriceEurCents": 288
+          "referencePriceEurCents": 287
         }
       ]
     },
@@ -1126,7 +1126,7 @@
       "productId": 1017,
       "brand": "NIVEA MEN",
       "isCountryExtreme": true,
-      "overallPercentDiff": 322.87,
+      "overallPercentDiff": 324,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1164,9 +1164,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:49.421Z",
           "currentPriceCents": 136900,
-          "currentPriceEurCents": 376,
+          "currentPriceEurCents": 375,
           "referencePriceCents": 136900,
-          "referencePriceEurCents": 376
+          "referencePriceEurCents": 375
         }
       ]
     },
