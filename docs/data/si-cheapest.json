@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-15T09:51:33.127Z",
+  "generatedAt": "2026-09-16T09:46:26.327Z",
   "fx": {
-    "asOf": "2026-09-14",
+    "asOf": "2026-09-15",
     "rates": {
-      "USD": 1.1551,
-      "JPY": 178.52,
-      "CZK": 24.294,
-      "DKK": 7.4753,
-      "GBP": 0.85598,
-      "HUF": 365.33,
-      "PLN": 4.3418,
-      "RON": 5.2568,
-      "SEK": 11.281,
-      "CHF": 0.9431,
-      "ISK": 139.8,
-      "NOK": 10.767,
-      "TRY": 56.1636,
-      "AUD": 1.6202,
-      "BRL": 5.9564,
-      "CAD": 1.6041,
-      "CNY": 7.7489,
-      "HKD": 9.0599,
-      "IDR": 20398.66,
-      "ILS": 3.527,
-      "INR": 110.3755,
-      "KRW": 1555.04,
-      "MXN": 19.72,
-      "MYR": 4.7082,
-      "NZD": 2.0012,
-      "PHP": 72.619,
-      "SGD": 1.4676,
-      "THB": 38.407,
-      "ZAR": 18.7695
+      "USD": 1.1539,
+      "JPY": 178.86,
+      "CZK": 24.292,
+      "DKK": 7.4752,
+      "GBP": 0.8558,
+      "HUF": 366.03,
+      "PLN": 4.34,
+      "RON": 5.2627,
+      "SEK": 11.274,
+      "CHF": 0.9441,
+      "ISK": 140,
+      "NOK": 10.785,
+      "TRY": 56.1255,
+      "AUD": 1.6194,
+      "BRL": 5.944,
+      "CAD": 1.6062,
+      "CNY": 7.7444,
+      "HKD": 9.0518,
+      "IDR": 20420.4,
+      "ILS": 3.5093,
+      "INR": 110.7285,
+      "KRW": 1568.32,
+      "MXN": 19.7972,
+      "MYR": 4.716,
+      "NZD": 2.0042,
+      "PHP": 72.467,
+      "SGD": 1.4683,
+      "THB": 38.419,
+      "ZAR": 18.7777
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -293,58 +293,10 @@
       ]
     },
     {
-      "productId": 21179,
-      "brand": "HALLOHEBAMME",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 1000,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Masažni gel za nego brazgotin in strij, 50 ml",
-          "url": "https://www.dm.si/p/d/2486105/hallohebamme-masazni-gel-za-nego-brazgotin-in-strij",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:48.379Z",
-          "currentPriceCents": 45,
-          "currentPriceEurCents": 45,
-          "referencePriceCents": 45,
-          "referencePriceEurCents": 45
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Massage Gel, 50 ml",
-          "url": "https://www.dm.de/p/d/2486105/hallohebamme-massage-gel",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:36.786Z",
-          "currentPriceCents": 495,
-          "currentPriceEurCents": 495,
-          "referencePriceCents": 495,
-          "referencePriceEurCents": 495
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Masszázsgél kismamáknak, 50 ml",
-          "url": "https://www.dm.hu/p/d/2486105/hallohebamme-masszazsgel-kismamaknak",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:42.358Z",
-          "currentPriceCents": 99900,
-          "currentPriceEurCents": 273,
-          "referencePriceCents": 99900,
-          "referencePriceEurCents": 273
-        }
-      ]
-    },
-    {
       "productId": 21039,
       "brand": "HALLOHEBAMME",
       "isCountryExtreme": true,
-      "overallPercentDiff": 994,
+      "overallPercentDiff": 992,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -382,9 +334,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:30.488Z",
           "currentPriceCents": 199900,
-          "currentPriceEurCents": 547,
+          "currentPriceEurCents": 546,
           "referencePriceCents": 199900,
-          "referencePriceEurCents": 547
+          "referencePriceEurCents": 546
         }
       ]
     },
@@ -430,9 +382,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:28.672Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 492,
+          "currentPriceEurCents": 491,
           "referencePriceCents": 179900,
-          "referencePriceEurCents": 492
+          "referencePriceEurCents": 491
         }
       ]
     },
@@ -513,9 +465,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:49.604Z",
           "currentPriceCents": 499900,
-          "currentPriceEurCents": 1368,
+          "currentPriceEurCents": 1366,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1368
+          "referencePriceEurCents": 1366
         }
       ]
     },
@@ -769,89 +721,6 @@
       ]
     },
     {
-      "productId": 917,
-      "brand": "NIVEA BABY",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 637.5,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "My first crème– krema za lice i tijelo, 75 ml",
-          "url": "https://www.dm.hr/p/d/2032029/nivea-baby-my-first-creme-krema-za-lice-i-tijelo",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:48:30.619Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Krema za dojenčke My First Creme, 75 ml",
-          "url": "https://www.dm.si/p/d/2032029/nivea-baby-krema-za-dojencke-my-first-creme",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:55.654Z",
-          "currentPriceCents": 40,
-          "currentPriceEurCents": 40,
-          "referencePriceCents": 40,
-          "referencePriceEurCents": 40
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Univerzális krém, My First Créme, 75 ml",
-          "url": "https://www.dm.hu/p/d/2032029/nivea-baby-univerzalis-krem-my-first-creme",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:22.557Z",
-          "currentPriceCents": 78900,
-          "currentPriceEurCents": 216,
-          "referencePriceCents": 78900,
-          "referencePriceEurCents": 216
-        }
-      ]
-    },
-    {
-      "productId": 12258,
-      "brand": "REVOLUTION",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 602.02,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Big Lash Volume maskara, 8 g",
-          "url": "https://www.dm.hr/p/d/2117955/revolution-big-lash-volume-maskara",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:13.032Z",
-          "currentPriceCents": 695,
-          "currentPriceEurCents": 695,
-          "referencePriceCents": 695,
-          "referencePriceEurCents": 695
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Maskara Big lash, 8 g",
-          "url": "https://www.dm.si/p/d/2117955/revolution-maskara-big-lash",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:27.316Z",
-          "currentPriceCents": 99,
-          "currentPriceEurCents": 99,
-          "referencePriceCents": 99,
-          "referencePriceEurCents": 99
-        }
-      ]
-    },
-    {
       "productId": 18870,
       "brand": "REVOLUTION",
       "isCountryExtreme": true,
@@ -973,7 +842,7 @@
       "productId": 20479,
       "brand": "PARSA BEAUTY",
       "isCountryExtreme": true,
-      "overallPercentDiff": 563.64,
+      "overallPercentDiff": 561.62,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -998,9 +867,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:29:46.464Z",
           "currentPriceCents": 239900,
-          "currentPriceEurCents": 657,
+          "currentPriceEurCents": 655,
           "referencePriceCents": 239900,
-          "referencePriceEurCents": 657
+          "referencePriceEurCents": 655
         }
       ]
     },
@@ -1196,7 +1065,7 @@
       "productId": 5642,
       "brand": "CATRICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 522.22,
+      "overallPercentDiff": 520.2,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1260,9 +1129,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:02.831Z",
           "currentPriceCents": 224900,
-          "currentPriceEurCents": 616,
+          "currentPriceEurCents": 614,
           "referencePriceCents": 224900,
-          "referencePriceEurCents": 616
+          "referencePriceEurCents": 614
         }
       ]
     },
@@ -1346,6 +1215,137 @@
           "currentPriceEurCents": 595,
           "referencePriceCents": 595,
           "referencePriceEurCents": 595
+        }
+      ]
+    },
+    {
+      "productId": 19229,
+      "brand": "CATRICE",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 501.01,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Primer za obraz Spring Awakening Air Fluff, 25 ml",
+          "url": "https://www.dm.si/p/d/3050876/catrice-primer-za-obraz-spring-awakening-air-fluff",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:30.655Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 99,
+          "referencePriceEurCents": 99
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Primer Spring Awakening Air Fluff C01, 25 ml",
+          "url": "https://www.dm.at/p/d/3050876/catrice-primer-spring-awakening-air-fluff-c01",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:37:04.491Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Primer Spring Awakening Air Fluff C01, 25 ml",
+          "url": "https://www.dm.de/p/d/3050876/catrice-primer-spring-awakening-air-fluff-c01",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:05.771Z",
+          "currentPriceCents": 595,
+          "currentPriceEurCents": 595,
+          "referencePriceCents": 595,
+          "referencePriceEurCents": 595
+        }
+      ]
+    },
+    {
+      "productId": 19267,
+      "brand": "CATRICE",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 501.01,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Kremni osvetljevalec v stiku KISS & GLOW, 18 g",
+          "url": "https://www.dm.si/p/d/3041173/catrice-kremni-osvetljevalec-v-stiku-kiss-glow",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:30.655Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 99,
+          "referencePriceEurCents": 99
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Highlighter Stick Kiss & Glow C01 Aurora Glow, 18 g",
+          "url": "https://www.dm.at/p/d/3041173/catrice-highlighter-stick-kiss-und-glow-c01-aurora-glow",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:37:04.491Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Highlighter Kiss & Glow Stick C01 Aurora Glow, 18 g",
+          "url": "https://www.dm.de/p/d/3041173/catrice-highlighter-kiss-und-glow-stick-c01-aurora-glow",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:59.518Z",
+          "currentPriceCents": 595,
+          "currentPriceEurCents": 595,
+          "referencePriceCents": 595,
+          "referencePriceEurCents": 595
+        }
+      ]
+    },
+    {
+      "productId": 1006,
+      "brand": "NIVEA BABY",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 482.35,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Face & Body soft cream – krema za lice i tijelo, 200 ml",
+          "url": "https://www.dm.hr/p/d/2278532/nivea-baby-face-body-soft-cream-krema-za-lice-i-tijelo",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:49:11.495Z",
+          "currentPriceCents": 495,
+          "currentPriceEurCents": 495,
+          "referencePriceCents": 495,
+          "referencePriceEurCents": 495
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Krema za dojenčke Soft, 200 ml",
+          "url": "https://www.dm.si/p/d/2278532/nivea-baby-krema-za-dojencke-soft",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:43.957Z",
+          "currentPriceCents": 85,
+          "currentPriceEurCents": 85,
+          "referencePriceCents": 85,
+          "referencePriceEurCents": 85
         }
       ]
     }

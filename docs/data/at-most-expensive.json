@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-15T09:51:33.127Z",
+  "generatedAt": "2026-09-16T09:46:26.327Z",
   "fx": {
-    "asOf": "2026-09-14",
+    "asOf": "2026-09-15",
     "rates": {
-      "USD": 1.1551,
-      "JPY": 178.52,
-      "CZK": 24.294,
-      "DKK": 7.4753,
-      "GBP": 0.85598,
-      "HUF": 365.33,
-      "PLN": 4.3418,
-      "RON": 5.2568,
-      "SEK": 11.281,
-      "CHF": 0.9431,
-      "ISK": 139.8,
-      "NOK": 10.767,
-      "TRY": 56.1636,
-      "AUD": 1.6202,
-      "BRL": 5.9564,
-      "CAD": 1.6041,
-      "CNY": 7.7489,
-      "HKD": 9.0599,
-      "IDR": 20398.66,
-      "ILS": 3.527,
-      "INR": 110.3755,
-      "KRW": 1555.04,
-      "MXN": 19.72,
-      "MYR": 4.7082,
-      "NZD": 2.0012,
-      "PHP": 72.619,
-      "SGD": 1.4676,
-      "THB": 38.407,
-      "ZAR": 18.7695
+      "USD": 1.1539,
+      "JPY": 178.86,
+      "CZK": 24.292,
+      "DKK": 7.4752,
+      "GBP": 0.8558,
+      "HUF": 366.03,
+      "PLN": 4.34,
+      "RON": 5.2627,
+      "SEK": 11.274,
+      "CHF": 0.9441,
+      "ISK": 140,
+      "NOK": 10.785,
+      "TRY": 56.1255,
+      "AUD": 1.6194,
+      "BRL": 5.944,
+      "CAD": 1.6062,
+      "CNY": 7.7444,
+      "HKD": 9.0518,
+      "IDR": 20420.4,
+      "ILS": 3.5093,
+      "INR": 110.7285,
+      "KRW": 1568.32,
+      "MXN": 19.7972,
+      "MYR": 4.716,
+      "NZD": 2.0042,
+      "PHP": 72.467,
+      "SGD": 1.4683,
+      "THB": 38.419,
+      "ZAR": 18.7777
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -526,9 +526,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:54.339Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1505,
+          "currentPriceEurCents": 1502,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1505
+          "referencePriceEurCents": 1502
         }
       ]
     },
@@ -600,9 +600,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:30.838Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1505,
+          "currentPriceEurCents": 1502,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1505
+          "referencePriceEurCents": 1502
         }
       ]
     },
@@ -818,9 +818,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:07.099Z",
           "currentPriceCents": 429900,
-          "currentPriceEurCents": 1177,
+          "currentPriceEurCents": 1174,
           "referencePriceCents": 429900,
-          "referencePriceEurCents": 1177
+          "referencePriceEurCents": 1174
         }
       ]
     },
@@ -863,7 +863,7 @@
       "productId": 8829,
       "brand": "HADA LABO TOKYO",
       "isCountryExtreme": true,
-      "overallPercentDiff": 483.33,
+      "overallPercentDiff": 485.04,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -914,9 +914,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:57.806Z",
           "currentPriceCents": 124900,
-          "currentPriceEurCents": 342,
+          "currentPriceEurCents": 341,
           "referencePriceCents": 124900,
-          "referencePriceEurCents": 342
+          "referencePriceEurCents": 341
         }
       ]
     },
@@ -972,7 +972,7 @@
       "productId": 33703,
       "brand": "Scholl",
       "isCountryExtreme": true,
-      "overallPercentDiff": 422.83,
+      "overallPercentDiff": 424.03,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1010,9 +1010,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:59.780Z",
           "currentPriceCents": 159900,
-          "currentPriceEurCents": 438,
+          "currentPriceEurCents": 437,
           "referencePriceCents": 159900,
-          "referencePriceEurCents": 438
+          "referencePriceEurCents": 437
         }
       ]
     },
@@ -1100,6 +1100,67 @@
       ]
     },
     {
+      "productId": 7148,
+      "brand": "HADA LABO TOKYO",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 407.96,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Super Hyaluronic Acid micelarna voda, 400 ml",
+          "url": "https://www.dm.hr/p/d/2975965/hada-labo-tokyo-super-hyaluronic-acid-micelarna-voda",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:41.759Z",
+          "currentPriceCents": 1495,
+          "currentPriceEurCents": 1495,
+          "referencePriceCents": 1495,
+          "referencePriceEurCents": 1495
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "MAKE-UP REMOVING micelarna voda, 400 ml",
+          "url": "https://www.dm.si/p/d/2975965/hada-labo-tokyo-make-up-removing-micelarna-voda",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:33:40.382Z",
+          "currentPriceCents": 1080,
+          "currentPriceEurCents": 1080,
+          "referencePriceCents": 1080,
+          "referencePriceEurCents": 1080
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Mizellenwasser Make-up Remover, 400 ml",
+          "url": "https://www.dm.at/p/d/2975965/hada-labo-tokyo-mizellenwasser-make-up-remover",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:39.471Z",
+          "currentPriceCents": 1595,
+          "currentPriceEurCents": 1595,
+          "referencePriceCents": 1595,
+          "referencePriceEurCents": 1595
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Hidratáló Sminklemosó Micellás Víz, 400 ml",
+          "url": "https://www.dm.hu/p/d/2975965/hada-labo-tokyo-hidratalo-sminklemoso-micellas-viz",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:57.806Z",
+          "currentPriceCents": 114900,
+          "currentPriceEurCents": 314,
+          "referencePriceCents": 114900,
+          "referencePriceEurCents": 314
+        }
+      ]
+    },
+    {
       "productId": 18554,
       "brand": "alverde NATURKOSMETIK",
       "isCountryExtreme": true,
@@ -1179,67 +1240,6 @@
           "currentPriceEurCents": 745,
           "referencePriceCents": 1495,
           "referencePriceEurCents": 1495
-        }
-      ]
-    },
-    {
-      "productId": 7148,
-      "brand": "HADA LABO TOKYO",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 406.35,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Super Hyaluronic Acid micelarna voda, 400 ml",
-          "url": "https://www.dm.hr/p/d/2975965/hada-labo-tokyo-super-hyaluronic-acid-micelarna-voda",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:41.759Z",
-          "currentPriceCents": 1495,
-          "currentPriceEurCents": 1495,
-          "referencePriceCents": 1495,
-          "referencePriceEurCents": 1495
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "MAKE-UP REMOVING micelarna voda, 400 ml",
-          "url": "https://www.dm.si/p/d/2975965/hada-labo-tokyo-make-up-removing-micelarna-voda",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:33:40.382Z",
-          "currentPriceCents": 1080,
-          "currentPriceEurCents": 1080,
-          "referencePriceCents": 1080,
-          "referencePriceEurCents": 1080
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Mizellenwasser Make-up Remover, 400 ml",
-          "url": "https://www.dm.at/p/d/2975965/hada-labo-tokyo-mizellenwasser-make-up-remover",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:39.471Z",
-          "currentPriceCents": 1595,
-          "currentPriceEurCents": 1595,
-          "referencePriceCents": 1595,
-          "referencePriceEurCents": 1595
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Hidratáló Sminklemosó Micellás Víz, 400 ml",
-          "url": "https://www.dm.hu/p/d/2975965/hada-labo-tokyo-hidratalo-sminklemoso-micellas-viz",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:57.806Z",
-          "currentPriceCents": 114900,
-          "currentPriceEurCents": 315,
-          "referencePriceCents": 114900,
-          "referencePriceEurCents": 315
         }
       ]
     },
@@ -1439,7 +1439,7 @@
       "productId": 10514,
       "brand": "s.Oliver",
       "isCountryExtreme": true,
-      "overallPercentDiff": 377.17,
+      "overallPercentDiff": 378.26,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1477,9 +1477,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:19.940Z",
           "currentPriceCents": 159900,
-          "currentPriceEurCents": 438,
+          "currentPriceEurCents": 437,
           "referencePriceCents": 159900,
-          "referencePriceEurCents": 438
+          "referencePriceEurCents": 437
         }
       ]
     },

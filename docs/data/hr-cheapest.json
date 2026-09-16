@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-15T09:51:33.127Z",
+  "generatedAt": "2026-09-16T09:46:26.327Z",
   "fx": {
-    "asOf": "2026-09-14",
+    "asOf": "2026-09-15",
     "rates": {
-      "USD": 1.1551,
-      "JPY": 178.52,
-      "CZK": 24.294,
-      "DKK": 7.4753,
-      "GBP": 0.85598,
-      "HUF": 365.33,
-      "PLN": 4.3418,
-      "RON": 5.2568,
-      "SEK": 11.281,
-      "CHF": 0.9431,
-      "ISK": 139.8,
-      "NOK": 10.767,
-      "TRY": 56.1636,
-      "AUD": 1.6202,
-      "BRL": 5.9564,
-      "CAD": 1.6041,
-      "CNY": 7.7489,
-      "HKD": 9.0599,
-      "IDR": 20398.66,
-      "ILS": 3.527,
-      "INR": 110.3755,
-      "KRW": 1555.04,
-      "MXN": 19.72,
-      "MYR": 4.7082,
-      "NZD": 2.0012,
-      "PHP": 72.619,
-      "SGD": 1.4676,
-      "THB": 38.407,
-      "ZAR": 18.7695
+      "USD": 1.1539,
+      "JPY": 178.86,
+      "CZK": 24.292,
+      "DKK": 7.4752,
+      "GBP": 0.8558,
+      "HUF": 366.03,
+      "PLN": 4.34,
+      "RON": 5.2627,
+      "SEK": 11.274,
+      "CHF": 0.9441,
+      "ISK": 140,
+      "NOK": 10.785,
+      "TRY": 56.1255,
+      "AUD": 1.6194,
+      "BRL": 5.944,
+      "CAD": 1.6062,
+      "CNY": 7.7444,
+      "HKD": 9.0518,
+      "IDR": 20420.4,
+      "ILS": 3.5093,
+      "INR": 110.7285,
+      "KRW": 1568.32,
+      "MXN": 19.7972,
+      "MYR": 4.716,
+      "NZD": 2.0042,
+      "PHP": 72.467,
+      "SGD": 1.4683,
+      "THB": 38.419,
+      "ZAR": 18.7777
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -209,7 +209,7 @@
       "productId": 10532,
       "brand": "TOM TAILOR",
       "isCountryExtreme": true,
-      "overallPercentDiff": 713.78,
+      "overallPercentDiff": 712.16,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -260,9 +260,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:22.854Z",
           "currentPriceCents": 1099900,
-          "currentPriceEurCents": 3011,
+          "currentPriceEurCents": 3005,
           "referencePriceCents": 1099900,
-          "referencePriceEurCents": 3011
+          "referencePriceEurCents": 3005
         }
       ]
     },
@@ -302,71 +302,10 @@
       ]
     },
     {
-      "productId": 529,
-      "brand": "alverde NATURKOSMETIK",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 612.5,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Kremasto-uljni losion za tijelo Aroma Energie, 200 ml",
-          "url": "https://www.dm.hr/p/d/3090855/alverde-naturkosmetik-kremasto-uljni-losion-za-tijelo-aroma-energie",
-          "isPromo": true,
-          "observedAt": "2026-08-28T15:45:31.056Z",
-          "currentPriceCents": 40,
-          "currentPriceEurCents": 40,
-          "referencePriceCents": 40,
-          "referencePriceEurCents": 40
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Losjon za telo na oljni osnovi Aroma ENERGIE, 200 ml",
-          "url": "https://www.dm.si/p/d/3090855/alverde-naturkosmetik-losjon-za-telo-na-oljni-osnovi-aroma-energie",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:54.156Z",
-          "currentPriceCents": 285,
-          "currentPriceEurCents": 285,
-          "referencePriceCents": 285,
-          "referencePriceEurCents": 285
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Bodylotion, Creme-Öl Aroma Energie, 200 ml",
-          "url": "https://www.dm.de/p/d/3090855/alverde-naturkosmetik-bodylotion-creme-oel-aroma-energie",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:11.679Z",
-          "currentPriceCents": 225,
-          "currentPriceEurCents": 225,
-          "referencePriceCents": 225,
-          "referencePriceEurCents": 225
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Krém-olaj testápoló Aroma Energie, 200 ml",
-          "url": "https://www.dm.hu/p/d/3090855/alverde-naturkosmetik-krem-olaj-testapolo-aroma-energie",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:32:19.940Z",
-          "currentPriceCents": 32900,
-          "currentPriceEurCents": 90,
-          "referencePriceCents": 32900,
-          "referencePriceEurCents": 90
-        }
-      ]
-    },
-    {
       "productId": 10497,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 591.11,
+      "overallPercentDiff": 589.9,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -404,9 +343,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3421,
+          "currentPriceEurCents": 3415,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3421
+          "referencePriceEurCents": 3415
         }
       ]
     },
@@ -414,7 +353,7 @@
       "productId": 10498,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 591.11,
+      "overallPercentDiff": 589.9,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -452,9 +391,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3421,
+          "currentPriceEurCents": 3415,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3421
+          "referencePriceEurCents": 3415
         }
       ]
     },
@@ -462,7 +401,7 @@
       "productId": 8236,
       "brand": "trend !t up",
       "isCountryExtreme": true,
-      "overallPercentDiff": 584,
+      "overallPercentDiff": 583,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -513,9 +452,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:16.800Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 684,
+          "currentPriceEurCents": 683,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 684
+          "referencePriceEurCents": 683
         }
       ]
     },
@@ -523,7 +462,7 @@
       "productId": 925,
       "brand": "Martinelia",
       "isCountryExtreme": true,
-      "overallPercentDiff": 568.89,
+      "overallPercentDiff": 566.67,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -548,9 +487,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:32.566Z",
           "currentPriceCents": 109900,
-          "currentPriceEurCents": 301,
+          "currentPriceEurCents": 300,
           "referencePriceCents": 109900,
-          "referencePriceEurCents": 301
+          "referencePriceEurCents": 300
         }
       ]
     },
@@ -558,7 +497,7 @@
       "productId": 8229,
       "brand": "trend !t up",
       "isCountryExtreme": true,
-      "overallPercentDiff": 557,
+      "overallPercentDiff": 555,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -609,9 +548,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:33:11.663Z",
           "currentPriceCents": 239900,
-          "currentPriceEurCents": 657,
+          "currentPriceEurCents": 655,
           "referencePriceCents": 239900,
-          "referencePriceEurCents": 657
+          "referencePriceEurCents": 655
         }
       ]
     },
@@ -683,9 +622,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:54.339Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1505,
+          "currentPriceEurCents": 1502,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1505
+          "referencePriceEurCents": 1502
         }
       ]
     },
@@ -757,9 +696,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:30.838Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1505,
+          "currentPriceEurCents": 1502,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1505
+          "referencePriceEurCents": 1502
         }
       ]
     },
@@ -953,57 +892,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:07.099Z",
           "currentPriceCents": 429900,
-          "currentPriceEurCents": 1177,
+          "currentPriceEurCents": 1174,
           "referencePriceCents": 429900,
-          "referencePriceEurCents": 1177
-        }
-      ]
-    },
-    {
-      "productId": 10571,
-      "brand": "PARIS CORNER",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 490.79,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Rifaaqat edp, 85 ml",
-          "url": "https://www.dm.hr/p/d/2977562/paris-corner-rifaaqat-edp",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:33:02.420Z",
-          "currentPriceCents": 695,
-          "currentPriceEurCents": 695,
-          "referencePriceCents": 695,
-          "referencePriceEurCents": 695
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Unisex parfumska voda Rifaaqat, 85 ml",
-          "url": "https://www.dm.si/p/d/2977562/paris-corner-unisex-parfumska-voda-rifaaqat",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:24.230Z",
-          "currentPriceCents": 2790,
-          "currentPriceEurCents": 2790,
-          "referencePriceCents": 2790,
-          "referencePriceEurCents": 2790
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Uniszex EdP Rifaaqat, 85 ml",
-          "url": "https://www.dm.hu/p/d/2977562/paris-corner-uniszex-edp-rifaaqat",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:22.854Z",
-          "currentPriceCents": 1499900,
-          "currentPriceEurCents": 4106,
-          "referencePriceCents": 1499900,
-          "referencePriceEurCents": 4106
+          "referencePriceEurCents": 1174
         }
       ]
     },
@@ -1075,9 +966,57 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:29:59.422Z",
           "currentPriceCents": 79900,
-          "currentPriceEurCents": 219,
+          "currentPriceEurCents": 218,
           "referencePriceCents": 79900,
-          "referencePriceEurCents": 219
+          "referencePriceEurCents": 218
+        }
+      ]
+    },
+    {
+      "productId": 10571,
+      "brand": "PARIS CORNER",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 489.64,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Rifaaqat edp, 85 ml",
+          "url": "https://www.dm.hr/p/d/2977562/paris-corner-rifaaqat-edp",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:33:02.420Z",
+          "currentPriceCents": 695,
+          "currentPriceEurCents": 695,
+          "referencePriceCents": 695,
+          "referencePriceEurCents": 695
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Unisex parfumska voda Rifaaqat, 85 ml",
+          "url": "https://www.dm.si/p/d/2977562/paris-corner-unisex-parfumska-voda-rifaaqat",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:24.230Z",
+          "currentPriceCents": 2790,
+          "currentPriceEurCents": 2790,
+          "referencePriceCents": 2790,
+          "referencePriceEurCents": 2790
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Uniszex EdP Rifaaqat, 85 ml",
+          "url": "https://www.dm.hu/p/d/2977562/paris-corner-uniszex-edp-rifaaqat",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:22.854Z",
+          "currentPriceCents": 1499900,
+          "currentPriceEurCents": 4098,
+          "referencePriceCents": 1499900,
+          "referencePriceEurCents": 4098
         }
       ]
     },
@@ -1085,7 +1024,7 @@
       "productId": 12122,
       "brand": "L'ORÉAL PARiS",
       "isCountryExtreme": true,
-      "overallPercentDiff": 458.37,
+      "overallPercentDiff": 457.55,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1136,9 +1075,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:30.809Z",
           "currentPriceCents": 499900,
-          "currentPriceEurCents": 1368,
+          "currentPriceEurCents": 1366,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1368
+          "referencePriceEurCents": 1366
         }
       ]
     },
@@ -1338,7 +1277,7 @@
       "productId": 2995,
       "brand": "syoss",
       "isCountryExtreme": true,
-      "overallPercentDiff": 426.67,
+      "overallPercentDiff": 425.93,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1389,9 +1328,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:49.604Z",
           "currentPriceCents": 259900,
-          "currentPriceEurCents": 711,
+          "currentPriceEurCents": 710,
           "referencePriceCents": 259900,
-          "referencePriceEurCents": 711
+          "referencePriceEurCents": 710
         }
       ]
     },
@@ -1447,7 +1386,7 @@
       "productId": 10595,
       "brand": "L'ORÉAL PARiS",
       "isCountryExtreme": true,
-      "overallPercentDiff": 413.88,
+      "overallPercentDiff": 412.65,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1511,9 +1450,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:25.549Z",
           "currentPriceCents": 459900,
-          "currentPriceEurCents": 1259,
+          "currentPriceEurCents": 1256,
           "referencePriceCents": 459900,
-          "referencePriceEurCents": 1259
+          "referencePriceEurCents": 1256
         }
       ]
     },
@@ -1549,54 +1488,6 @@
           "currentPriceEurCents": 690,
           "referencePriceCents": 690,
           "referencePriceEurCents": 690
-        }
-      ]
-    },
-    {
-      "productId": 1767,
-      "brand": "syoss",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 374,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Sprej za oblikovanje kose Glaze 3u1 Topcoat, 200 ml",
-          "url": "https://www.dm.hr/p/d/3117103/syoss-sprej-za-oblikovanje-kose-glaze-3u1-topcoat",
-          "isPromo": true,
-          "observedAt": "2026-08-28T15:54:21.709Z",
-          "currentPriceCents": 150,
-          "currentPriceEurCents": 150,
-          "referencePriceCents": 150,
-          "referencePriceEurCents": 150
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Nadlak za lase Glaze, 200 ml",
-          "url": "https://www.dm.si/p/d/3117103/syoss-nadlak-za-lase-glaze",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:32.828Z",
-          "currentPriceCents": 545,
-          "currentPriceEurCents": 545,
-          "referencePriceCents": 545,
-          "referencePriceEurCents": 545
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Hajformázó spray Glaze Fedőréteg, 200 ml",
-          "url": "https://www.dm.hu/p/d/3117103/syoss-hajformazo-spray-glaze-fedoreteg",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:54.339Z",
-          "currentPriceCents": 259900,
-          "currentPriceEurCents": 711,
-          "referencePriceCents": 259900,
-          "referencePriceEurCents": 711
         }
       ]
     },
@@ -1658,6 +1549,102 @@
           "currentPriceEurCents": 232,
           "referencePriceCents": 84900,
           "referencePriceEurCents": 232
+        }
+      ]
+    },
+    {
+      "productId": 10609,
+      "brand": "Betty Barclay",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 362.32,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Soul Garden edt, 20 ml",
+          "url": "https://www.dm.hr/p/d/3059191/betty-barclay-soul-garden-edt",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:33:03.491Z",
+          "currentPriceCents": 345,
+          "currentPriceEurCents": 345,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Eau de Toilette Soulgarden, 20 ml",
+          "url": "https://www.dm.at/p/d/3059191/betty-barclay-eau-de-toilette-soulgarden",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:38:13.953Z",
+          "currentPriceCents": 1595,
+          "currentPriceEurCents": 1595,
+          "referencePriceCents": 1595,
+          "referencePriceEurCents": 1595
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Női EdT Soulgarden, 20 ml",
+          "url": "https://www.dm.hu/p/d/3059191/betty-barclay-noi-edt-soulgarden",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:32:02.558Z",
+          "currentPriceCents": 149900,
+          "currentPriceEurCents": 410,
+          "referencePriceCents": 149900,
+          "referencePriceEurCents": 410
+        }
+      ]
+    },
+    {
+      "productId": 6096,
+      "brand": "TANGLE TEEZER",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 354.43,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Detangling Mini četka za kosu The Devil Wears..., 1 kom.",
+          "url": "https://www.dm.hr/p/d/3135381/tangle-teezer-detangling-mini-cetka-za-kosu-the-devil-wears-prada-crvena",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:32:34.936Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Mini krtača za lase The Devil Wears Prada, 1 kos",
+          "url": "https://www.dm.si/p/d/3135381/tangle-teezer-mini-krtaca-za-lase-the-devil-wears-prada",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:04.847Z",
+          "currentPriceCents": 1795,
+          "currentPriceEurCents": 1795,
+          "referencePriceCents": 1795,
+          "referencePriceEurCents": 1795
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Mini kifésülő hajkefe Devil wears Prada, piros, 1 db",
+          "url": "https://www.dm.hu/p/d/3135381/tangle-teezer-mini-kifesulo-hajkefe-devil-wears-prada-piros",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:47.738Z",
+          "currentPriceCents": 599900,
+          "currentPriceEurCents": 1639,
+          "referencePriceCents": 599900,
+          "referencePriceEurCents": 1639
         }
       ]
     }

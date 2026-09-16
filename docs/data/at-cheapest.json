@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-15T09:51:33.127Z",
+  "generatedAt": "2026-09-16T09:46:26.327Z",
   "fx": {
-    "asOf": "2026-09-14",
+    "asOf": "2026-09-15",
     "rates": {
-      "USD": 1.1551,
-      "JPY": 178.52,
-      "CZK": 24.294,
-      "DKK": 7.4753,
-      "GBP": 0.85598,
-      "HUF": 365.33,
-      "PLN": 4.3418,
-      "RON": 5.2568,
-      "SEK": 11.281,
-      "CHF": 0.9431,
-      "ISK": 139.8,
-      "NOK": 10.767,
-      "TRY": 56.1636,
-      "AUD": 1.6202,
-      "BRL": 5.9564,
-      "CAD": 1.6041,
-      "CNY": 7.7489,
-      "HKD": 9.0599,
-      "IDR": 20398.66,
-      "ILS": 3.527,
-      "INR": 110.3755,
-      "KRW": 1555.04,
-      "MXN": 19.72,
-      "MYR": 4.7082,
-      "NZD": 2.0012,
-      "PHP": 72.619,
-      "SGD": 1.4676,
-      "THB": 38.407,
-      "ZAR": 18.7695
+      "USD": 1.1539,
+      "JPY": 178.86,
+      "CZK": 24.292,
+      "DKK": 7.4752,
+      "GBP": 0.8558,
+      "HUF": 366.03,
+      "PLN": 4.34,
+      "RON": 5.2627,
+      "SEK": 11.274,
+      "CHF": 0.9441,
+      "ISK": 140,
+      "NOK": 10.785,
+      "TRY": 56.1255,
+      "AUD": 1.6194,
+      "BRL": 5.944,
+      "CAD": 1.6062,
+      "CNY": 7.7444,
+      "HKD": 9.0518,
+      "IDR": 20420.4,
+      "ILS": 3.5093,
+      "INR": 110.7285,
+      "KRW": 1568.32,
+      "MXN": 19.7972,
+      "MYR": 4.716,
+      "NZD": 2.0042,
+      "PHP": 72.467,
+      "SGD": 1.4683,
+      "THB": 38.419,
+      "ZAR": 18.7777
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -104,7 +104,7 @@
       "productId": 33693,
       "brand": "TOM TAILOR",
       "isCountryExtreme": true,
-      "overallPercentDiff": 334.5,
+      "overallPercentDiff": 333.65,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -129,9 +129,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:22.854Z",
           "currentPriceCents": 1499900,
-          "currentPriceEurCents": 4106,
+          "currentPriceEurCents": 4098,
           "referencePriceCents": 1499900,
-          "referencePriceEurCents": 4106
+          "referencePriceEurCents": 4098
         }
       ]
     },
@@ -139,7 +139,7 @@
       "productId": 11323,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 304.85,
+      "overallPercentDiff": 304.14,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -190,9 +190,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3421,
+          "currentPriceEurCents": 3415,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3421
+          "referencePriceEurCents": 3415
         }
       ]
     },
@@ -200,7 +200,7 @@
       "productId": 10472,
       "brand": "SABRINA CARPENTER",
       "isCountryExtreme": true,
-      "overallPercentDiff": 285.13,
+      "overallPercentDiff": 284.42,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -238,9 +238,9 @@
           "isPromo": true,
           "observedAt": "2026-09-07T14:14:22.199Z",
           "currentPriceCents": 699900,
-          "currentPriceEurCents": 1916,
+          "currentPriceEurCents": 1912,
           "referencePriceCents": 1399900,
-          "referencePriceEurCents": 3832
+          "referencePriceEurCents": 3825
         }
       ]
     },
@@ -315,45 +315,10 @@
       ]
     },
     {
-      "productId": 33988,
-      "brand": "POLICE",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 230.05,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Eau de Toilette To Be The King, 40 ml",
-          "url": "https://www.dm.at/p/d/1864939/police-eau-de-toilette-to-be-the-king",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:37:18.756Z",
-          "currentPriceCents": 995,
-          "currentPriceEurCents": 995,
-          "referencePriceCents": 995,
-          "referencePriceEurCents": 995
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Férfi EdT To be the King, 40 ml",
-          "url": "https://www.dm.hu/p/d/1864939/police-ferfi-edt-to-be-the-king",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:19.979Z",
-          "currentPriceCents": 1199900,
-          "currentPriceEurCents": 3284,
-          "referencePriceCents": 1199900,
-          "referencePriceEurCents": 3284
-        }
-      ]
-    },
-    {
       "productId": 9016,
       "brand": "SABRINA CARPENTER",
       "isCountryExtreme": true,
-      "overallPercentDiff": 229.8,
+      "overallPercentDiff": 229.16,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -417,9 +382,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1499900,
-          "currentPriceEurCents": 4106,
+          "currentPriceEurCents": 4098,
           "referencePriceCents": 1499900,
-          "referencePriceEurCents": 4106
+          "referencePriceEurCents": 4098
         }
       ]
     },
@@ -475,7 +440,7 @@
       "productId": 34287,
       "brand": "POLICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 214.26,
+      "overallPercentDiff": 213.68,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -500,9 +465,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1199900,
-          "currentPriceEurCents": 3284,
+          "currentPriceEurCents": 3278,
           "referencePriceCents": 1199900,
-          "referencePriceEurCents": 3284
+          "referencePriceEurCents": 3278
         }
       ]
     },
@@ -510,7 +475,7 @@
       "productId": 35767,
       "brand": "POLICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 211.24,
+      "overallPercentDiff": 210.64,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -535,9 +500,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:22.854Z",
           "currentPriceCents": 1699900,
-          "currentPriceEurCents": 4653,
+          "currentPriceEurCents": 4644,
           "referencePriceCents": 1699900,
-          "referencePriceEurCents": 4653
+          "referencePriceEurCents": 4644
         }
       ]
     },
@@ -545,7 +510,7 @@
       "productId": 35884,
       "brand": "POLICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 211.24,
+      "overallPercentDiff": 210.64,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -570,9 +535,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:07.326Z",
           "currentPriceCents": 1699900,
-          "currentPriceEurCents": 4653,
+          "currentPriceEurCents": 4644,
           "referencePriceCents": 1699900,
-          "referencePriceEurCents": 4653
+          "referencePriceEurCents": 4644
         }
       ]
     },
@@ -580,7 +545,7 @@
       "productId": 30380,
       "brand": "Schär",
       "isCountryExtreme": true,
-      "overallPercentDiff": 201.05,
+      "overallPercentDiff": 200.53,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -618,9 +583,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:33:11.663Z",
           "currentPriceCents": 208900,
-          "currentPriceEurCents": 572,
+          "currentPriceEurCents": 571,
           "referencePriceCents": 208900,
-          "referencePriceEurCents": 572
+          "referencePriceEurCents": 571
         }
       ]
     },
@@ -724,7 +689,7 @@
       "productId": 27011,
       "brand": "Frosch",
       "isCountryExtreme": true,
-      "overallPercentDiff": 196.95,
+      "overallPercentDiff": 196.27,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -762,9 +727,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:43.995Z",
           "currentPriceCents": 319900,
-          "currentPriceEurCents": 876,
+          "currentPriceEurCents": 874,
           "referencePriceCents": 319900,
-          "referencePriceEurCents": 876
+          "referencePriceEurCents": 874
         }
       ]
     },
@@ -881,7 +846,7 @@
       "productId": 2621,
       "brand": "s.Oliver",
       "isCountryExtreme": true,
-      "overallPercentDiff": 192.58,
+      "overallPercentDiff": 192.08,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -945,9 +910,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:32.921Z",
           "currentPriceCents": 849900,
-          "currentPriceEurCents": 2326,
+          "currentPriceEurCents": 2322,
           "referencePriceCents": 849900,
-          "referencePriceEurCents": 2326
+          "referencePriceEurCents": 2322
         }
       ]
     },
@@ -955,7 +920,7 @@
       "productId": 31206,
       "brand": "Jaguar",
       "isCountryExtreme": true,
-      "overallPercentDiff": 189.75,
+      "overallPercentDiff": 189.19,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -993,9 +958,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1899900,
-          "currentPriceEurCents": 5201,
+          "currentPriceEurCents": 5191,
           "referencePriceCents": 1899900,
-          "referencePriceEurCents": 5201
+          "referencePriceEurCents": 5191
         }
       ]
     },
@@ -1003,7 +968,7 @@
       "productId": 36552,
       "brand": "Jaguar",
       "isCountryExtreme": true,
-      "overallPercentDiff": 189.75,
+      "overallPercentDiff": 189.19,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1028,9 +993,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1899900,
-          "currentPriceEurCents": 5201,
+          "currentPriceEurCents": 5191,
           "referencePriceCents": 1899900,
-          "referencePriceEurCents": 5201
+          "referencePriceEurCents": 5191
         }
       ]
     },
@@ -1137,9 +1102,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:30:35.474Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 684,
+          "currentPriceEurCents": 683,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 684
+          "referencePriceEurCents": 683
         }
       ]
     },
@@ -1147,7 +1112,7 @@
       "productId": 26147,
       "brand": "DAVID BECKHAM",
       "isCountryExtreme": true,
-      "overallPercentDiff": 175.08,
+      "overallPercentDiff": 174.57,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1172,9 +1137,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:00.665Z",
           "currentPriceCents": 999900,
-          "currentPriceEurCents": 2737,
+          "currentPriceEurCents": 2732,
           "referencePriceCents": 999900,
-          "referencePriceEurCents": 2737
+          "referencePriceEurCents": 2732
         }
       ]
     },
@@ -1182,7 +1147,7 @@
       "productId": 33168,
       "brand": "WILKINSON SWORD",
       "isCountryExtreme": true,
-      "overallPercentDiff": 173.69,
+      "overallPercentDiff": 173.19,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1207,9 +1172,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:34.751Z",
           "currentPriceCents": 1599900,
-          "currentPriceEurCents": 4379,
+          "currentPriceEurCents": 4371,
           "referencePriceCents": 1599900,
-          "referencePriceEurCents": 4379
+          "referencePriceEurCents": 4371
         }
       ]
     },
@@ -1217,7 +1182,7 @@
       "productId": 32565,
       "brand": "Carefree",
       "isCountryExtreme": true,
-      "overallPercentDiff": 173.57,
+      "overallPercentDiff": 172.86,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1255,9 +1220,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:29:59.422Z",
           "currentPriceCents": 139900,
-          "currentPriceEurCents": 383,
+          "currentPriceEurCents": 382,
           "referencePriceCents": 139900,
-          "referencePriceEurCents": 383
+          "referencePriceEurCents": 382
         }
       ]
     },
@@ -1373,9 +1338,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:30:32.566Z",
           "currentPriceCents": 469900,
-          "currentPriceEurCents": 1286,
+          "currentPriceEurCents": 1284,
           "referencePriceCents": 469900,
-          "referencePriceEurCents": 1286
+          "referencePriceEurCents": 1284
         }
       ]
     },
@@ -1383,7 +1348,7 @@
       "productId": 32069,
       "brand": "REAL TECHNIQUES",
       "isCountryExtreme": true,
-      "overallPercentDiff": 164.49,
+      "overallPercentDiff": 163.82,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1408,9 +1373,57 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:33:07.322Z",
           "currentPriceCents": 429900,
-          "currentPriceEurCents": 1177,
+          "currentPriceEurCents": 1174,
           "referencePriceCents": 429900,
-          "referencePriceEurCents": 1177
+          "referencePriceEurCents": 1174
+        }
+      ]
+    },
+    {
+      "productId": 32989,
+      "brand": "HASK",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 162.13,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Reparierender Conditioner, 355 ml",
+          "url": "https://www.dm.at/p/d/1475001/hask-reparierender-conditioner",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:37:10.200Z",
+          "currentPriceCents": 375,
+          "currentPriceEurCents": 375,
+          "referencePriceCents": 375,
+          "referencePriceEurCents": 375
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Conditioner Repairing Argan Oil, 355 ml",
+          "url": "https://www.dm.de/p/d/1475001/hask-conditioner-repairing-argan-oil",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:58.075Z",
+          "currentPriceCents": 695,
+          "currentPriceEurCents": 695,
+          "referencePriceCents": 695,
+          "referencePriceEurCents": 695
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Balzsam argán olajjal, 355 ml",
+          "url": "https://www.dm.hu/p/d/1475001/hask-balzsam-argan-olajjal",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:56.904Z",
+          "currentPriceCents": 359900,
+          "currentPriceEurCents": 983,
+          "referencePriceCents": 359900,
+          "referencePriceEurCents": 983
         }
       ]
     }
