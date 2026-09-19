@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-18T09:29:41.406Z",
+  "generatedAt": "2026-09-19T09:17:49.260Z",
   "fx": {
-    "asOf": "2026-09-17",
+    "asOf": "2026-09-18",
     "rates": {
-      "USD": 1.1481,
-      "JPY": 178.75,
-      "CZK": 24.308,
-      "DKK": 7.4753,
-      "GBP": 0.8583,
-      "HUF": 362.98,
-      "PLN": 4.358,
-      "RON": 5.2624,
-      "SEK": 11.2715,
-      "CHF": 0.9466,
-      "ISK": 139.8,
-      "NOK": 10.825,
-      "TRY": 55.8841,
-      "AUD": 1.6139,
-      "BRL": 5.8905,
-      "CAD": 1.6068,
-      "CNY": 7.7009,
-      "HKD": 9.0071,
-      "IDR": 20352.48,
-      "ILS": 3.4825,
-      "INR": 110.1475,
-      "KRW": 1587.31,
-      "MXN": 19.7337,
-      "MYR": 4.7061,
-      "NZD": 1.9993,
-      "PHP": 72.006,
-      "SGD": 1.4642,
-      "THB": 38.237,
-      "ZAR": 18.6595
+      "USD": 1.146,
+      "JPY": 180.94,
+      "CZK": 24.339,
+      "DKK": 7.4754,
+      "GBP": 0.8588,
+      "HUF": 364.28,
+      "PLN": 4.3635,
+      "RON": 5.2647,
+      "SEK": 11.2915,
+      "CHF": 0.9462,
+      "ISK": 139.4,
+      "NOK": 10.8095,
+      "TRY": 55.9077,
+      "AUD": 1.6095,
+      "BRL": 5.8857,
+      "CAD": 1.6056,
+      "CNY": 7.6755,
+      "HKD": 8.9903,
+      "IDR": 20424.81,
+      "ILS": 3.4812,
+      "INR": 109.8755,
+      "KRW": 1590.76,
+      "MXN": 19.6855,
+      "MYR": 4.6763,
+      "NZD": 2.0068,
+      "PHP": 71.972,
+      "SGD": 1.4651,
+      "THB": 38.225,
+      "ZAR": 18.6482
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -331,7 +331,7 @@
       "productId": 21037,
       "brand": "Beauty of Joseon",
       "isCountryExtreme": true,
-      "overallPercentDiff": 555.71,
+      "overallPercentDiff": 557.99,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -369,9 +369,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:57.806Z",
           "currentPriceCents": 104900,
-          "currentPriceEurCents": 289,
+          "currentPriceEurCents": 288,
           "referencePriceCents": 104900,
-          "referencePriceEurCents": 289
+          "referencePriceEurCents": 288
         }
       ]
     },
@@ -417,9 +417,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:59.257Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 275,
+          "currentPriceEurCents": 274,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 275
+          "referencePriceEurCents": 274
         }
       ]
     },
@@ -526,9 +526,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:54.339Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1515,
+          "currentPriceEurCents": 1510,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1515
+          "referencePriceEurCents": 1510
         }
       ]
     },
@@ -600,9 +600,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:30.838Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1515,
+          "currentPriceEurCents": 1510,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1515
+          "referencePriceEurCents": 1510
         }
       ]
     },
@@ -818,9 +818,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:07.099Z",
           "currentPriceCents": 429900,
-          "currentPriceEurCents": 1184,
+          "currentPriceEurCents": 1180,
           "referencePriceCents": 429900,
-          "referencePriceEurCents": 1184
+          "referencePriceEurCents": 1180
         }
       ]
     },
@@ -856,6 +856,67 @@
           "currentPriceEurCents": 595,
           "referencePriceCents": 595,
           "referencePriceEurCents": 595
+        }
+      ]
+    },
+    {
+      "productId": 8829,
+      "brand": "HADA LABO TOKYO",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 481.63,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Make-Up Removing ulje za čišćenje lica, 195 ml",
+          "url": "https://www.dm.hr/p/d/2975985/hada-labo-tokyo-make-up-removing-ulje-za-ciscenje-lica",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:51.588Z",
+          "currentPriceCents": 1595,
+          "currentPriceEurCents": 1595,
+          "referencePriceCents": 1595,
+          "referencePriceEurCents": 1595
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Olje za čiščenje obraza Make-Up Removing, 195 ml",
+          "url": "https://www.dm.si/p/d/2975985/hada-labo-tokyo-olje-za-ciscenje-obraza-make-up-removing",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:21.199Z",
+          "currentPriceCents": 1440,
+          "currentPriceEurCents": 1440,
+          "referencePriceCents": 1440,
+          "referencePriceEurCents": 1440
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Reinigungsöl, 195 ml",
+          "url": "https://www.dm.at/p/d/2975985/hada-labo-tokyo-reinigungsoel",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:39.471Z",
+          "currentPriceCents": 1995,
+          "currentPriceEurCents": 1995,
+          "referencePriceCents": 1995,
+          "referencePriceEurCents": 1995
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Hidratáló Sminklemosó Olaj, 195 ml",
+          "url": "https://www.dm.hu/p/d/2975985/hada-labo-tokyo-hidratalo-sminklemoso-olaj",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:57.806Z",
+          "currentPriceCents": 124900,
+          "currentPriceEurCents": 343,
+          "referencePriceCents": 124900,
+          "referencePriceEurCents": 343
         }
       ]
     },
@@ -908,63 +969,50 @@
       ]
     },
     {
-      "productId": 8829,
-      "brand": "HADA LABO TOKYO",
+      "productId": 33703,
+      "brand": "Scholl",
       "isCountryExtreme": true,
-      "overallPercentDiff": 479.94,
+      "overallPercentDiff": 421.64,
       "gapToExtremePercent": 0,
       "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Make-Up Removing ulje za čišćenje lica, 195 ml",
-          "url": "https://www.dm.hr/p/d/2975985/hada-labo-tokyo-make-up-removing-ulje-za-ciscenje-lica",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:51.588Z",
-          "currentPriceCents": 1595,
-          "currentPriceEurCents": 1595,
-          "referencePriceCents": 1595,
-          "referencePriceEurCents": 1595
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Olje za čiščenje obraza Make-Up Removing, 195 ml",
-          "url": "https://www.dm.si/p/d/2975985/hada-labo-tokyo-olje-za-ciscenje-obraza-make-up-removing",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:21.199Z",
-          "currentPriceCents": 1440,
-          "currentPriceEurCents": 1440,
-          "referencePriceCents": 1440,
-          "referencePriceEurCents": 1440
-        },
         {
           "countryCode": "AT",
           "shopId": "dm-at",
           "currency": "EUR",
-          "name": "Reinigungsöl, 195 ml",
-          "url": "https://www.dm.at/p/d/2975985/hada-labo-tokyo-reinigungsoel",
+          "name": "Nagelpilz Entferner Stift, 1 St",
+          "url": "https://www.dm.at/p/d/1432082/scholl-nagelpilz-entferner-stift",
+          "isPromo": true,
+          "observedAt": "2026-09-11T12:48:51.178Z",
+          "currentPriceCents": 1150,
+          "currentPriceEurCents": 1150,
+          "referencePriceCents": 2290,
+          "referencePriceEurCents": 2290
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Nagelpilz Set 2in1, Feile & Tinktur, 3,8 ml",
+          "url": "https://www.dm.de/p/d/1432082/scholl-nagelpilz-set-2in1-feile-und-tinktur",
           "isPromo": false,
-          "observedAt": "2026-08-30T22:36:39.471Z",
-          "currentPriceCents": 1995,
-          "currentPriceEurCents": 1995,
-          "referencePriceCents": 1995,
-          "referencePriceEurCents": 1995
+          "observedAt": "2026-08-31T20:42:39.343Z",
+          "currentPriceCents": 1495,
+          "currentPriceEurCents": 1495,
+          "referencePriceCents": 1495,
+          "referencePriceEurCents": 1495
         },
         {
           "countryCode": "HU",
           "shopId": "dm-hu",
           "currency": "HUF",
-          "name": "Hidratáló Sminklemosó Olaj, 195 ml",
-          "url": "https://www.dm.hu/p/d/2975985/hada-labo-tokyo-hidratalo-sminklemoso-olaj",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:57.806Z",
-          "currentPriceCents": 124900,
-          "currentPriceEurCents": 344,
-          "referencePriceCents": 124900,
-          "referencePriceEurCents": 344
+          "name": "Körömgomba elleni ecsetelő stift 2in1, 3,8 ml",
+          "url": "https://www.dm.hu/p/d/1432082/scholl-koromgomba-elleni-ecsetelo-stift-2in1",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:59.780Z",
+          "currentPriceCents": 159900,
+          "currentPriceEurCents": 439,
+          "referencePriceCents": 159900,
+          "referencePriceEurCents": 439
         }
       ]
     },
@@ -1017,54 +1065,6 @@
       ]
     },
     {
-      "productId": 33703,
-      "brand": "Scholl",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 419.27,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Nagelpilz Entferner Stift, 1 St",
-          "url": "https://www.dm.at/p/d/1432082/scholl-nagelpilz-entferner-stift",
-          "isPromo": true,
-          "observedAt": "2026-09-11T12:48:51.178Z",
-          "currentPriceCents": 1150,
-          "currentPriceEurCents": 1150,
-          "referencePriceCents": 2290,
-          "referencePriceEurCents": 2290
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Nagelpilz Set 2in1, Feile & Tinktur, 3,8 ml",
-          "url": "https://www.dm.de/p/d/1432082/scholl-nagelpilz-set-2in1-feile-und-tinktur",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:39.343Z",
-          "currentPriceCents": 1495,
-          "currentPriceEurCents": 1495,
-          "referencePriceCents": 1495,
-          "referencePriceEurCents": 1495
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Körömgomba elleni ecsetelő stift 2in1, 3,8 ml",
-          "url": "https://www.dm.hu/p/d/1432082/scholl-koromgomba-elleni-ecsetelo-stift-2in1",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:59.780Z",
-          "currentPriceCents": 159900,
-          "currentPriceEurCents": 441,
-          "referencePriceCents": 159900,
-          "referencePriceEurCents": 441
-        }
-      ]
-    },
-    {
       "productId": 28624,
       "brand": "CD",
       "isCountryExtreme": true,
@@ -1096,6 +1096,54 @@
           "currentPriceEurCents": 66,
           "referencePriceCents": 23900,
           "referencePriceEurCents": 66
+        }
+      ]
+    },
+    {
+      "productId": 18554,
+      "brand": "alverde NATURKOSMETIK",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 407.35,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Lak za nohte Color & Care, 140 Orchid Pink, 10 ml",
+          "url": "https://www.dm.si/p/d/3062387/alverde-naturkosmetik-lak-za-nohte-color-care-140-orchid-pink",
+          "isPromo": true,
+          "observedAt": "2026-09-12T12:09:41.061Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 199,
+          "referencePriceEurCents": 199
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Nagellack Color & Care 140 Orchid Pink, 10 ml",
+          "url": "https://www.dm.at/p/d/3062387/alverde-naturkosmetik-nagellack-color-und-care-140-orchid-pink",
+          "isPromo": true,
+          "observedAt": "2026-09-12T12:09:48.443Z",
+          "currentPriceCents": 175,
+          "currentPriceEurCents": 175,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Körömlakk Color & Care, 140 Orchid Pink, 10 ml",
+          "url": "https://www.dm.hu/p/d/3062387/alverde-naturkosmetik-koromlakk-color-care-140-orchid-pink",
+          "isPromo": true,
+          "observedAt": "2026-09-12T12:10:03.246Z",
+          "currentPriceCents": 9900,
+          "currentPriceEurCents": 27,
+          "referencePriceCents": 24900,
+          "referencePriceEurCents": 68
         }
       ]
     },
@@ -1135,58 +1183,10 @@
       ]
     },
     {
-      "productId": 30570,
-      "brand": "Dove",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 406.1,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Antitranspirant Deo Roll-On Advanced Care..., 50 ml",
-          "url": "https://www.dm.at/p/d/1689655/dove-antitranspirant-deo-roll-on-advanced-care-invisible-dry",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:44.201Z",
-          "currentPriceCents": 415,
-          "currentPriceEurCents": 415,
-          "referencePriceCents": 415,
-          "referencePriceEurCents": 415
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Antitranspirant Deo Roll-on Advanced Care..., 50 ml",
-          "url": "https://www.dm.de/p/d/1689655/dove-antitranspirant-deo-roll-on-advanced-care-invisible-dry",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:45.137Z",
-          "currentPriceCents": 325,
-          "currentPriceEurCents": 325,
-          "referencePriceCents": 325,
-          "referencePriceEurCents": 325
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Deo roll-on Invisible Dry, 50 ml",
-          "url": "https://www.dm.hu/p/d/1689655/dove-deo-roll-on-invisible-dry",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:57.806Z",
-          "currentPriceCents": 29900,
-          "currentPriceEurCents": 82,
-          "referencePriceCents": 29900,
-          "referencePriceEurCents": 82
-        }
-      ]
-    },
-    {
       "productId": 7148,
       "brand": "HADA LABO TOKYO",
       "isCountryExtreme": true,
-      "overallPercentDiff": 403.15,
+      "overallPercentDiff": 406.35,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1237,9 +1237,57 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:57.806Z",
           "currentPriceCents": 114900,
-          "currentPriceEurCents": 317,
+          "currentPriceEurCents": 315,
           "referencePriceCents": 114900,
-          "referencePriceEurCents": 317
+          "referencePriceEurCents": 315
+        }
+      ]
+    },
+    {
+      "productId": 30570,
+      "brand": "Dove",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 406.1,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Antitranspirant Deo Roll-On Advanced Care..., 50 ml",
+          "url": "https://www.dm.at/p/d/1689655/dove-antitranspirant-deo-roll-on-advanced-care-invisible-dry",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:44.201Z",
+          "currentPriceCents": 415,
+          "currentPriceEurCents": 415,
+          "referencePriceCents": 415,
+          "referencePriceEurCents": 415
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Antitranspirant Deo Roll-on Advanced Care..., 50 ml",
+          "url": "https://www.dm.de/p/d/1689655/dove-antitranspirant-deo-roll-on-advanced-care-invisible-dry",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:45.137Z",
+          "currentPriceCents": 325,
+          "currentPriceEurCents": 325,
+          "referencePriceCents": 325,
+          "referencePriceEurCents": 325
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Deo roll-on Invisible Dry, 50 ml",
+          "url": "https://www.dm.hu/p/d/1689655/dove-deo-roll-on-invisible-dry",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:57.806Z",
+          "currentPriceCents": 29900,
+          "currentPriceEurCents": 82,
+          "referencePriceCents": 29900,
+          "referencePriceEurCents": 82
         }
       ]
     },
@@ -1311,57 +1359,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:30:35.474Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 275,
+          "currentPriceEurCents": 274,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 275
-        }
-      ]
-    },
-    {
-      "productId": 18554,
-      "brand": "alverde NATURKOSMETIK",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 400,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Lak za nohte Color & Care, 140 Orchid Pink, 10 ml",
-          "url": "https://www.dm.si/p/d/3062387/alverde-naturkosmetik-lak-za-nohte-color-care-140-orchid-pink",
-          "isPromo": true,
-          "observedAt": "2026-09-12T12:09:41.061Z",
-          "currentPriceCents": 99,
-          "currentPriceEurCents": 99,
-          "referencePriceCents": 199,
-          "referencePriceEurCents": 199
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Nagellack Color & Care 140 Orchid Pink, 10 ml",
-          "url": "https://www.dm.at/p/d/3062387/alverde-naturkosmetik-nagellack-color-und-care-140-orchid-pink",
-          "isPromo": true,
-          "observedAt": "2026-09-12T12:09:48.443Z",
-          "currentPriceCents": 175,
-          "currentPriceEurCents": 175,
-          "referencePriceCents": 345,
-          "referencePriceEurCents": 345
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Körömlakk Color & Care, 140 Orchid Pink, 10 ml",
-          "url": "https://www.dm.hu/p/d/3062387/alverde-naturkosmetik-koromlakk-color-care-140-orchid-pink",
-          "isPromo": true,
-          "observedAt": "2026-09-12T12:10:03.246Z",
-          "currentPriceCents": 9900,
-          "currentPriceEurCents": 27,
-          "referencePriceCents": 24900,
-          "referencePriceEurCents": 69
+          "referencePriceEurCents": 274
         }
       ]
     },
@@ -1404,7 +1404,7 @@
       "productId": 32548,
       "brand": "Nature Blossom",
       "isCountryExtreme": true,
-      "overallPercentDiff": 381.84,
+      "overallPercentDiff": 384.18,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1429,9 +1429,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:19.940Z",
           "currentPriceCents": 149900,
-          "currentPriceEurCents": 413,
+          "currentPriceEurCents": 411,
           "referencePriceCents": 149900,
-          "referencePriceEurCents": 413
+          "referencePriceEurCents": 411
         }
       ]
     },
@@ -1439,7 +1439,7 @@
       "productId": 10514,
       "brand": "s.Oliver",
       "isCountryExtreme": true,
-      "overallPercentDiff": 373.92,
+      "overallPercentDiff": 376.08,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1477,9 +1477,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:19.940Z",
           "currentPriceCents": 159900,
-          "currentPriceEurCents": 441,
+          "currentPriceEurCents": 439,
           "referencePriceCents": 159900,
-          "referencePriceEurCents": 441
+          "referencePriceEurCents": 439
         }
       ]
     },
@@ -1487,7 +1487,7 @@
       "productId": 20895,
       "brand": "NIVEA MEN",
       "isCountryExtreme": true,
-      "overallPercentDiff": 370.91,
+      "overallPercentDiff": 372.63,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1538,9 +1538,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:37.213Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 275,
+          "currentPriceEurCents": 274,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 275
+          "referencePriceEurCents": 274
         }
       ]
     }

@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-18T09:29:41.406Z",
+  "generatedAt": "2026-09-19T09:17:49.260Z",
   "fx": {
-    "asOf": "2026-09-17",
+    "asOf": "2026-09-18",
     "rates": {
-      "USD": 1.1481,
-      "JPY": 178.75,
-      "CZK": 24.308,
-      "DKK": 7.4753,
-      "GBP": 0.8583,
-      "HUF": 362.98,
-      "PLN": 4.358,
-      "RON": 5.2624,
-      "SEK": 11.2715,
-      "CHF": 0.9466,
-      "ISK": 139.8,
-      "NOK": 10.825,
-      "TRY": 55.8841,
-      "AUD": 1.6139,
-      "BRL": 5.8905,
-      "CAD": 1.6068,
-      "CNY": 7.7009,
-      "HKD": 9.0071,
-      "IDR": 20352.48,
-      "ILS": 3.4825,
-      "INR": 110.1475,
-      "KRW": 1587.31,
-      "MXN": 19.7337,
-      "MYR": 4.7061,
-      "NZD": 1.9993,
-      "PHP": 72.006,
-      "SGD": 1.4642,
-      "THB": 38.237,
-      "ZAR": 18.6595
+      "USD": 1.146,
+      "JPY": 180.94,
+      "CZK": 24.339,
+      "DKK": 7.4754,
+      "GBP": 0.8588,
+      "HUF": 364.28,
+      "PLN": 4.3635,
+      "RON": 5.2647,
+      "SEK": 11.2915,
+      "CHF": 0.9462,
+      "ISK": 139.4,
+      "NOK": 10.8095,
+      "TRY": 55.9077,
+      "AUD": 1.6095,
+      "BRL": 5.8857,
+      "CAD": 1.6056,
+      "CNY": 7.6755,
+      "HKD": 8.9903,
+      "IDR": 20424.81,
+      "ILS": 3.4812,
+      "INR": 109.8755,
+      "KRW": 1590.76,
+      "MXN": 19.6855,
+      "MYR": 4.6763,
+      "NZD": 2.0068,
+      "PHP": 71.972,
+      "SGD": 1.4651,
+      "THB": 38.225,
+      "ZAR": 18.6482
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -142,9 +142,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:28.672Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 496,
+          "currentPriceEurCents": 494,
           "referencePriceCents": 179900,
-          "referencePriceEurCents": 496
+          "referencePriceEurCents": 494
         }
       ]
     },
@@ -190,9 +190,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:49.604Z",
           "currentPriceCents": 499900,
-          "currentPriceEurCents": 1377,
+          "currentPriceEurCents": 1372,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1377
+          "referencePriceEurCents": 1372
         }
       ]
     },
@@ -238,9 +238,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:41.384Z",
           "currentPriceCents": 100900,
-          "currentPriceEurCents": 278,
+          "currentPriceEurCents": 277,
           "referencePriceCents": 100900,
-          "referencePriceEurCents": 278
+          "referencePriceEurCents": 277
         }
       ]
     },
@@ -283,7 +283,7 @@
       "productId": 9740,
       "brand": "Moschino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 610.76,
+      "overallPercentDiff": 612.83,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -321,9 +321,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:19.940Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 688,
+          "currentPriceEurCents": 686,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 688
+          "referencePriceEurCents": 686
         }
       ]
     },
@@ -826,6 +826,41 @@
       ]
     },
     {
+      "productId": 7946,
+      "brand": "Dove MEN+CARE",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 340.59,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Extra Fresh gel za tuširanje, 400 ml",
+          "url": "https://www.dm.hr/p/d/1860315/dove-men-care-extra-fresh-gel-za-tusiranje",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:46.230Z",
+          "currentPriceCents": 445,
+          "currentPriceEurCents": 445,
+          "referencePriceCents": 445,
+          "referencePriceEurCents": 445
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Férfi tusfürdő Men+Care Extra Fresh, 400 ml",
+          "url": "https://www.dm.hu/p/d/1860315/dove-men-care-ferfi-tusfurdo-men-care-extra-fresh",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:32:49.604Z",
+          "currentPriceCents": 36900,
+          "currentPriceEurCents": 101,
+          "referencePriceCents": 36900,
+          "referencePriceEurCents": 101
+        }
+      ]
+    },
+    {
       "productId": 7284,
       "brand": "Johnson's baby",
       "isCountryExtreme": true,
@@ -861,45 +896,10 @@
       ]
     },
     {
-      "productId": 7946,
-      "brand": "Dove MEN+CARE",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 336.27,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Extra Fresh gel za tuširanje, 400 ml",
-          "url": "https://www.dm.hr/p/d/1860315/dove-men-care-extra-fresh-gel-za-tusiranje",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:46.230Z",
-          "currentPriceCents": 445,
-          "currentPriceEurCents": 445,
-          "referencePriceCents": 445,
-          "referencePriceEurCents": 445
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Férfi tusfürdő Men+Care Extra Fresh, 400 ml",
-          "url": "https://www.dm.hu/p/d/1860315/dove-men-care-ferfi-tusfurdo-men-care-extra-fresh",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:32:49.604Z",
-          "currentPriceCents": 36900,
-          "currentPriceEurCents": 102,
-          "referencePriceCents": 36900,
-          "referencePriceEurCents": 102
-        }
-      ]
-    },
-    {
       "productId": 9014,
       "brand": "HALLOHEBAMME",
       "isCountryExtreme": true,
-      "overallPercentDiff": 334.07,
+      "overallPercentDiff": 338.89,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -952,7 +952,7 @@
           "currentPriceCents": 9900,
           "currentPriceEurCents": 27,
           "referencePriceCents": 32900,
-          "referencePriceEurCents": 91
+          "referencePriceEurCents": 90
         }
       ]
     },
@@ -1008,7 +1008,7 @@
       "productId": 1017,
       "brand": "NIVEA MEN",
       "isCountryExtreme": true,
-      "overallPercentDiff": 321.75,
+      "overallPercentDiff": 322.87,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1046,9 +1046,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:49.421Z",
           "currentPriceCents": 136900,
-          "currentPriceEurCents": 377,
+          "currentPriceEurCents": 376,
           "referencePriceCents": 136900,
-          "referencePriceEurCents": 377
+          "referencePriceEurCents": 376
         }
       ]
     },
