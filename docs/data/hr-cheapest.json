@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T09:39:40.422Z",
+  "generatedAt": "2026-09-21T10:31:14.391Z",
   "fx": {
     "asOf": "2026-09-18",
     "rates": {
@@ -71,41 +71,6 @@
           "currentPriceEurCents": 288,
           "referencePriceCents": 104900,
           "referencePriceEurCents": 288
-        }
-      ]
-    },
-    {
-      "productId": 13079,
-      "brand": "SENSODYNE",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 1000,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Pasta za zube Herbal Fresh, 75 ml",
-          "url": "https://www.dm.hr/p/d/2199529/sensodyne-pasta-za-zube-herbal-fresh",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:33:18.990Z",
-          "currentPriceCents": 45,
-          "currentPriceEurCents": 45,
-          "referencePriceCents": 45,
-          "referencePriceEurCents": 45
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Zobna pasta Herbal Fresh, 75 ml",
-          "url": "https://www.dm.si/p/d/2199529/sensodyne-zobna-pasta-herbal-fresh",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:35.558Z",
-          "currentPriceCents": 495,
-          "currentPriceEurCents": 495,
-          "referencePriceCents": 495,
-          "referencePriceEurCents": 495
         }
       ]
     },
@@ -1645,6 +1610,67 @@
           "currentPriceEurCents": 1647,
           "referencePriceCents": 599900,
           "referencePriceEurCents": 1647
+        }
+      ]
+    },
+    {
+      "productId": 8168,
+      "brand": "trend !t up",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 353,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Shine & Click sjajilo za usne u olovci – 010..., 1,8 g",
+          "url": "https://www.dm.hr/p/d/1431880/trend-t-up-shine-click-sjajilo-za-usne-u-olovci-010-mauve-pink",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:32:48.555Z",
+          "currentPriceCents": 100,
+          "currentPriceEurCents": 100,
+          "referencePriceCents": 100,
+          "referencePriceEurCents": 100
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Šminka Shine & Click 010 Mauve Pink, 1,8 g",
+          "url": "https://www.dm.si/p/d/1431880/trend-t-up-sminka-shine-click-010-mauve-pink",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:45.480Z",
+          "currentPriceCents": 199,
+          "currentPriceEurCents": 199,
+          "referencePriceCents": 199,
+          "referencePriceEurCents": 199
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Lippenstift Shine & Click 010 Mauve Pink, 1,8 g",
+          "url": "https://www.dm.de/p/d/1431880/trend-t-up-lippenstift-shine-und-click-010-mauve-pink",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:11.679Z",
+          "currentPriceCents": 175,
+          "currentPriceEurCents": 175,
+          "referencePriceCents": 175,
+          "referencePriceEurCents": 175
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Szájfénystick Shine & Click, 010 Mauve Pink, 1,8 g",
+          "url": "https://www.dm.hu/p/d/1431880/trend-t-up-szajfenystick-shine-click-010-mauve-pink",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:41.384Z",
+          "currentPriceCents": 164900,
+          "currentPriceEurCents": 453,
+          "referencePriceCents": 164900,
+          "referencePriceEurCents": 453
         }
       ]
     }
