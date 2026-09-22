@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-21T10:31:14.391Z",
+  "generatedAt": "2026-09-22T09:43:04.749Z",
   "fx": {
-    "asOf": "2026-09-18",
+    "asOf": "2026-09-21",
     "rates": {
-      "USD": 1.146,
-      "JPY": 180.94,
-      "CZK": 24.339,
-      "DKK": 7.4754,
-      "GBP": 0.8588,
-      "HUF": 364.28,
-      "PLN": 4.3635,
+      "USD": 1.149,
+      "JPY": 180.7,
+      "CZK": 24.352,
+      "DKK": 7.4755,
+      "GBP": 0.8578,
+      "HUF": 362.4,
+      "PLN": 4.353,
       "RON": 5.2647,
-      "SEK": 11.2915,
-      "CHF": 0.9462,
-      "ISK": 139.4,
-      "NOK": 10.8095,
-      "TRY": 55.9077,
-      "AUD": 1.6095,
-      "BRL": 5.8857,
-      "CAD": 1.6056,
-      "CNY": 7.6755,
-      "HKD": 8.9903,
-      "IDR": 20424.81,
-      "ILS": 3.4812,
-      "INR": 109.8755,
-      "KRW": 1590.76,
-      "MXN": 19.6855,
-      "MYR": 4.6763,
-      "NZD": 2.0068,
-      "PHP": 71.972,
-      "SGD": 1.4651,
-      "THB": 38.225,
-      "ZAR": 18.6482
+      "SEK": 11.275,
+      "CHF": 0.9438,
+      "ISK": 138.8,
+      "NOK": 10.813,
+      "TRY": 56.0701,
+      "AUD": 1.6098,
+      "BRL": 5.892,
+      "CAD": 1.6091,
+      "CNY": 7.693,
+      "HKD": 9.0144,
+      "IDR": 20532.06,
+      "ILS": 3.4602,
+      "INR": 110.0975,
+      "KRW": 1576.63,
+      "MXN": 19.7533,
+      "MYR": 4.685,
+      "NZD": 2.0035,
+      "PHP": 72.151,
+      "SGD": 1.4647,
+      "THB": 38.187,
+      "ZAR": 18.6819
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -142,9 +142,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:28.672Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 494,
+          "currentPriceEurCents": 496,
           "referencePriceCents": 179900,
-          "referencePriceEurCents": 494
+          "referencePriceEurCents": 496
         }
       ]
     },
@@ -190,9 +190,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:49.604Z",
           "currentPriceCents": 499900,
-          "currentPriceEurCents": 1372,
+          "currentPriceEurCents": 1379,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1372
+          "referencePriceEurCents": 1379
         }
       ]
     },
@@ -238,9 +238,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:41.384Z",
           "currentPriceCents": 100900,
-          "currentPriceEurCents": 277,
+          "currentPriceEurCents": 278,
           "referencePriceCents": 100900,
-          "referencePriceEurCents": 277
+          "referencePriceEurCents": 278
         }
       ]
     },
@@ -283,7 +283,7 @@
       "productId": 9740,
       "brand": "Moschino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 612.83,
+      "overallPercentDiff": 608.7,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -321,9 +321,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:19.940Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 686,
+          "currentPriceEurCents": 690,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 686
+          "referencePriceEurCents": 690
         }
       ]
     },
@@ -436,7 +436,7 @@
       "productId": 3907,
       "brand": "COREGA",
       "isCountryExtreme": true,
-      "overallPercentDiff": 458.39,
+      "overallPercentDiff": 454.35,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -474,57 +474,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:49.421Z",
           "currentPriceCents": 49900,
-          "currentPriceEurCents": 137,
+          "currentPriceEurCents": 138,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 137
-        }
-      ]
-    },
-    {
-      "productId": 10118,
-      "brand": "Dove MEN+CARE",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 442.68,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Sandalwood + Vanilla dezodorans u spreju, 150 ml",
-          "url": "https://www.dm.hr/p/d/3059229/dove-men-care-sandalwood-vanilla-dezodorans-u-spreju",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:00.205Z",
-          "currentPriceCents": 445,
-          "currentPriceEurCents": 445,
-          "referencePriceCents": 445,
-          "referencePriceEurCents": 445
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Deodorant v spreju Sandalwood & Vanilla, 150 ml",
-          "url": "https://www.dm.si/p/d/3059229/dove-men-care-deodorant-v-spreju-sandalwood-vanilla",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:03.751Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Férfi deo spray, Sandalwood + Vanilla, 150 ml",
-          "url": "https://www.dm.hu/p/d/3059229/dove-men-care-ferfi-deo-spray-sandalwood-vanilla",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:32:30.488Z",
-          "currentPriceCents": 29900,
-          "currentPriceEurCents": 82,
-          "referencePriceCents": 29900,
-          "referencePriceEurCents": 82
+          "referencePriceEurCents": 138
         }
       ]
     },
@@ -573,6 +525,54 @@
           "currentPriceEurCents": 55,
           "referencePriceCents": 19900,
           "referencePriceEurCents": 55
+        }
+      ]
+    },
+    {
+      "productId": 10118,
+      "brand": "Dove MEN+CARE",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 436.14,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Sandalwood + Vanilla dezodorans u spreju, 150 ml",
+          "url": "https://www.dm.hr/p/d/3059229/dove-men-care-sandalwood-vanilla-dezodorans-u-spreju",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:00.205Z",
+          "currentPriceCents": 445,
+          "currentPriceEurCents": 445,
+          "referencePriceCents": 445,
+          "referencePriceEurCents": 445
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Deodorant v spreju Sandalwood & Vanilla, 150 ml",
+          "url": "https://www.dm.si/p/d/3059229/dove-men-care-deodorant-v-spreju-sandalwood-vanilla",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:03.751Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Férfi deo spray, Sandalwood + Vanilla, 150 ml",
+          "url": "https://www.dm.hu/p/d/3059229/dove-men-care-ferfi-deo-spray-sandalwood-vanilla",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:32:30.488Z",
+          "currentPriceCents": 29900,
+          "currentPriceEurCents": 83,
+          "referencePriceCents": 29900,
+          "referencePriceEurCents": 83
         }
       ]
     },
@@ -746,7 +746,7 @@
       "productId": 10619,
       "brand": "Dove",
       "isCountryExtreme": true,
-      "overallPercentDiff": 357.32,
+      "overallPercentDiff": 351.81,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -784,9 +784,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:59.780Z",
           "currentPriceCents": 29900,
-          "currentPriceEurCents": 82,
+          "currentPriceEurCents": 83,
           "referencePriceCents": 29900,
-          "referencePriceEurCents": 82
+          "referencePriceEurCents": 83
         }
       ]
     },
@@ -826,41 +826,6 @@
       ]
     },
     {
-      "productId": 7946,
-      "brand": "Dove MEN+CARE",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 340.59,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Extra Fresh gel za tuširanje, 400 ml",
-          "url": "https://www.dm.hr/p/d/1860315/dove-men-care-extra-fresh-gel-za-tusiranje",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:46.230Z",
-          "currentPriceCents": 445,
-          "currentPriceEurCents": 445,
-          "referencePriceCents": 445,
-          "referencePriceEurCents": 445
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Férfi tusfürdő Men+Care Extra Fresh, 400 ml",
-          "url": "https://www.dm.hu/p/d/1860315/dove-men-care-ferfi-tusfurdo-men-care-extra-fresh",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:32:49.604Z",
-          "currentPriceCents": 36900,
-          "currentPriceEurCents": 101,
-          "referencePriceCents": 36900,
-          "referencePriceEurCents": 101
-        }
-      ]
-    },
-    {
       "productId": 7284,
       "brand": "Johnson's baby",
       "isCountryExtreme": true,
@@ -896,10 +861,45 @@
       ]
     },
     {
+      "productId": 7946,
+      "brand": "Dove MEN+CARE",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 336.27,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Extra Fresh gel za tuširanje, 400 ml",
+          "url": "https://www.dm.hr/p/d/1860315/dove-men-care-extra-fresh-gel-za-tusiranje",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:46.230Z",
+          "currentPriceCents": 445,
+          "currentPriceEurCents": 445,
+          "referencePriceCents": 445,
+          "referencePriceEurCents": 445
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Férfi tusfürdő Men+Care Extra Fresh, 400 ml",
+          "url": "https://www.dm.hu/p/d/1860315/dove-men-care-ferfi-tusfurdo-men-care-extra-fresh",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:32:49.604Z",
+          "currentPriceCents": 36900,
+          "currentPriceEurCents": 102,
+          "referencePriceCents": 36900,
+          "referencePriceEurCents": 102
+        }
+      ]
+    },
+    {
       "productId": 9014,
       "brand": "HALLOHEBAMME",
       "isCountryExtreme": true,
-      "overallPercentDiff": 338.89,
+      "overallPercentDiff": 334.07,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -952,7 +952,7 @@
           "currentPriceCents": 9900,
           "currentPriceEurCents": 27,
           "referencePriceCents": 32900,
-          "referencePriceEurCents": 90
+          "referencePriceEurCents": 91
         }
       ]
     },
@@ -1001,54 +1001,6 @@
           "currentPriceEurCents": 96,
           "referencePriceCents": 34900,
           "referencePriceEurCents": 96
-        }
-      ]
-    },
-    {
-      "productId": 1017,
-      "brand": "NIVEA MEN",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 322.87,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Sensitive Daily Protect hidratantna krema, SPF 30, 50 ml",
-          "url": "https://www.dm.hr/p/d/3068477/nivea-men-sensitive-daily-protect-hidratantna-krema-spf-30",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:49:16.461Z",
-          "currentPriceCents": 1590,
-          "currentPriceEurCents": 1590,
-          "referencePriceCents": 1590,
-          "referencePriceEurCents": 1590
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Vlažilna krema za obraz Sensitive Daily Protect z..., 50 ml",
-          "url": "https://www.dm.si/p/d/3068477/nivea-men-vlazilna-krema-za-obraz-sensitive-daily-protect-z-zf-30",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:32.828Z",
-          "currentPriceCents": 845,
-          "currentPriceEurCents": 845,
-          "referencePriceCents": 845,
-          "referencePriceEurCents": 845
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Arckrém Sensitive Protect, SPF30, 50 ml",
-          "url": "https://www.dm.hu/p/d/3068477/nivea-men-arckrem-sensitive-protect-spf30",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:49.421Z",
-          "currentPriceCents": 136900,
-          "currentPriceEurCents": 376,
-          "referencePriceCents": 136900,
-          "referencePriceEurCents": 376
         }
       ]
     },
@@ -1119,6 +1071,54 @@
           "currentPriceEurCents": 425,
           "referencePriceCents": 425,
           "referencePriceEurCents": 425
+        }
+      ]
+    },
+    {
+      "productId": 1017,
+      "brand": "NIVEA MEN",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 320.63,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Sensitive Daily Protect hidratantna krema, SPF 30, 50 ml",
+          "url": "https://www.dm.hr/p/d/3068477/nivea-men-sensitive-daily-protect-hidratantna-krema-spf-30",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:49:16.461Z",
+          "currentPriceCents": 1590,
+          "currentPriceEurCents": 1590,
+          "referencePriceCents": 1590,
+          "referencePriceEurCents": 1590
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Vlažilna krema za obraz Sensitive Daily Protect z..., 50 ml",
+          "url": "https://www.dm.si/p/d/3068477/nivea-men-vlazilna-krema-za-obraz-sensitive-daily-protect-z-zf-30",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:32.828Z",
+          "currentPriceCents": 845,
+          "currentPriceEurCents": 845,
+          "referencePriceCents": 845,
+          "referencePriceEurCents": 845
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Arckrém Sensitive Protect, SPF30, 50 ml",
+          "url": "https://www.dm.hu/p/d/3068477/nivea-men-arckrem-sensitive-protect-spf30",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:49.421Z",
+          "currentPriceCents": 136900,
+          "currentPriceEurCents": 378,
+          "referencePriceCents": 136900,
+          "referencePriceEurCents": 378
         }
       ]
     },
