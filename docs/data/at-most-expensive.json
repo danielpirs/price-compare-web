@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-22T09:43:04.749Z",
+  "generatedAt": "2026-09-23T09:49:18.650Z",
   "fx": {
-    "asOf": "2026-09-21",
+    "asOf": "2026-09-22",
     "rates": {
-      "USD": 1.149,
-      "JPY": 180.7,
-      "CZK": 24.352,
-      "DKK": 7.4755,
+      "USD": 1.1463,
+      "JPY": 180.17,
+      "CZK": 24.344,
+      "DKK": 7.4756,
       "GBP": 0.8578,
-      "HUF": 362.4,
-      "PLN": 4.353,
-      "RON": 5.2647,
-      "SEK": 11.275,
-      "CHF": 0.9438,
-      "ISK": 138.8,
-      "NOK": 10.813,
-      "TRY": 56.0701,
-      "AUD": 1.6098,
-      "BRL": 5.892,
-      "CAD": 1.6091,
-      "CNY": 7.693,
-      "HKD": 9.0144,
-      "IDR": 20532.06,
-      "ILS": 3.4602,
-      "INR": 110.0975,
-      "KRW": 1576.63,
-      "MXN": 19.7533,
-      "MYR": 4.685,
-      "NZD": 2.0035,
-      "PHP": 72.151,
-      "SGD": 1.4647,
-      "THB": 38.187,
-      "ZAR": 18.6819
+      "HUF": 361.58,
+      "PLN": 4.348,
+      "RON": 5.266,
+      "SEK": 11.2463,
+      "CHF": 0.9393,
+      "ISK": 138.4,
+      "NOK": 10.801,
+      "TRY": 55.9492,
+      "AUD": 1.6122,
+      "BRL": 5.8726,
+      "CAD": 1.6099,
+      "CNY": 7.6803,
+      "HKD": 8.9909,
+      "IDR": 20426.66,
+      "ILS": 3.4593,
+      "INR": 109.5805,
+      "KRW": 1554.55,
+      "MXN": 19.7727,
+      "MYR": 4.67,
+      "NZD": 2.0003,
+      "PHP": 71.602,
+      "SGD": 1.4612,
+      "THB": 37.988,
+      "ZAR": 18.618
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -328,54 +328,6 @@
       ]
     },
     {
-      "productId": 21037,
-      "brand": "Beauty of Joseon",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 555.71,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Vlažilna esenca za obraz z izvlečkom ginsenga, 150 ml",
-          "url": "https://www.dm.si/p/d/2486080/beauty-of-joseon-vlazilna-esenca-za-obraz-z-izvleckom-ginsenga",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:47.009Z",
-          "currentPriceCents": 990,
-          "currentPriceEurCents": 990,
-          "referencePriceCents": 990,
-          "referencePriceEurCents": 990
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Toner Ginseng Essence Water, 150 ml",
-          "url": "https://www.dm.at/p/d/2486080/beauty-of-joseon-toner-ginseng-essence-water",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:53.266Z",
-          "currentPriceCents": 1895,
-          "currentPriceEurCents": 1895,
-          "referencePriceCents": 1895,
-          "referencePriceEurCents": 1895
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Arcvíz frissítő és hidratáló, 80% tiszta..., 150 ml",
-          "url": "https://www.dm.hu/p/d/2486080/beauty-of-joseon-arcviz-frissito-es-hidratalo-80-tiszta-ginzeng-gyokervizzel",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:57.806Z",
-          "currentPriceCents": 104900,
-          "currentPriceEurCents": 289,
-          "referencePriceCents": 104900,
-          "referencePriceEurCents": 289
-        }
-      ]
-    },
-    {
       "productId": 21567,
       "brand": "Frosch",
       "isCountryExtreme": true,
@@ -420,6 +372,54 @@
           "currentPriceEurCents": 276,
           "referencePriceCents": 99900,
           "referencePriceEurCents": 276
+        }
+      ]
+    },
+    {
+      "productId": 21037,
+      "brand": "Beauty of Joseon",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 553.45,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Vlažilna esenca za obraz z izvlečkom ginsenga, 150 ml",
+          "url": "https://www.dm.si/p/d/2486080/beauty-of-joseon-vlazilna-esenca-za-obraz-z-izvleckom-ginsenga",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:47.009Z",
+          "currentPriceCents": 990,
+          "currentPriceEurCents": 990,
+          "referencePriceCents": 990,
+          "referencePriceEurCents": 990
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Toner Ginseng Essence Water, 150 ml",
+          "url": "https://www.dm.at/p/d/2486080/beauty-of-joseon-toner-ginseng-essence-water",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:53.266Z",
+          "currentPriceCents": 1895,
+          "currentPriceEurCents": 1895,
+          "referencePriceCents": 1895,
+          "referencePriceEurCents": 1895
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Arcvíz frissítő és hidratáló, 80% tiszta..., 150 ml",
+          "url": "https://www.dm.hu/p/d/2486080/beauty-of-joseon-arcviz-frissito-es-hidratalo-80-tiszta-ginzeng-gyokervizzel",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:57.806Z",
+          "currentPriceCents": 104900,
+          "currentPriceEurCents": 290,
+          "referencePriceCents": 104900,
+          "referencePriceEurCents": 290
         }
       ]
     },
@@ -526,9 +526,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:54.339Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1517,
+          "currentPriceEurCents": 1521,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1517
+          "referencePriceEurCents": 1521
         }
       ]
     },
@@ -600,9 +600,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:30.838Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1517,
+          "currentPriceEurCents": 1521,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1517
+          "referencePriceEurCents": 1521
         }
       ]
     },
@@ -818,9 +818,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:07.099Z",
           "currentPriceCents": 429900,
-          "currentPriceEurCents": 1186,
+          "currentPriceEurCents": 1189,
           "referencePriceCents": 429900,
-          "referencePriceEurCents": 1186
+          "referencePriceEurCents": 1189
         }
       ]
     },
@@ -1020,7 +1020,7 @@
       "productId": 33703,
       "brand": "Scholl",
       "isCountryExtreme": true,
-      "overallPercentDiff": 419.27,
+      "overallPercentDiff": 418.1,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1058,9 +1058,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:59.780Z",
           "currentPriceCents": 159900,
-          "currentPriceEurCents": 441,
+          "currentPriceEurCents": 442,
           "referencePriceCents": 159900,
-          "referencePriceEurCents": 441
+          "referencePriceEurCents": 442
         }
       ]
     },
@@ -1138,7 +1138,7 @@
       "productId": 7148,
       "brand": "HADA LABO TOKYO",
       "isCountryExtreme": true,
-      "overallPercentDiff": 403.15,
+      "overallPercentDiff": 401.57,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1189,9 +1189,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:57.806Z",
           "currentPriceCents": 114900,
-          "currentPriceEurCents": 317,
+          "currentPriceEurCents": 318,
           "referencePriceCents": 114900,
-          "referencePriceEurCents": 317
+          "referencePriceEurCents": 318
         }
       ]
     },
@@ -1404,7 +1404,7 @@
       "productId": 32548,
       "brand": "Nature Blossom",
       "isCountryExtreme": true,
-      "overallPercentDiff": 380.68,
+      "overallPercentDiff": 379.52,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1429,9 +1429,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:19.940Z",
           "currentPriceCents": 149900,
-          "currentPriceEurCents": 414,
+          "currentPriceEurCents": 415,
           "referencePriceCents": 149900,
-          "referencePriceEurCents": 414
+          "referencePriceEurCents": 415
         }
       ]
     },
@@ -1439,7 +1439,7 @@
       "productId": 10514,
       "brand": "s.Oliver",
       "isCountryExtreme": true,
-      "overallPercentDiff": 373.92,
+      "overallPercentDiff": 372.85,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1477,9 +1477,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:19.940Z",
           "currentPriceCents": 159900,
-          "currentPriceEurCents": 441,
+          "currentPriceEurCents": 442,
           "referencePriceCents": 159900,
-          "referencePriceEurCents": 441
+          "referencePriceEurCents": 442
         }
       ]
     },
