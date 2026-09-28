@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T10:25:29.176Z",
+  "generatedAt": "2026-09-28T11:33:16.503Z",
   "fx": {
     "asOf": "2026-09-25",
     "rates": {
@@ -71,54 +71,6 @@
           "currentPriceEurCents": 287,
           "referencePriceCents": 104900,
           "referencePriceEurCents": 287
-        }
-      ]
-    },
-    {
-      "productId": 7208,
-      "brand": "Dontodent",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 880,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Tablete za pranje zuba s ﬂuoridom, 62 kom.",
-          "url": "https://www.dm.hr/p/d/1318122/dontodent-tablete-za-pranje-zuba-s-uoridom",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:32:41.759Z",
-          "currentPriceCents": 25,
-          "currentPriceEurCents": 25,
-          "referencePriceCents": 25,
-          "referencePriceEurCents": 25
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Tablete za čiščenje zob z okusom mete, 62 kos",
-          "url": "https://www.dm.si/p/d/1318122/dontodent-tablete-za-ciscenje-zob-z-okusom-mete",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:13.105Z",
-          "currentPriceCents": 245,
-          "currentPriceEurCents": 245,
-          "referencePriceCents": 245,
-          "referencePriceEurCents": 245
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Zahnputztabletten, 20 g",
-          "url": "https://www.dm.de/p/d/1318122/dontodent-zahnputztabletten",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:59.910Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
         }
       ]
     },
@@ -1422,6 +1374,54 @@
       ]
     },
     {
+      "productId": 7208,
+      "brand": "Dontodent",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 390,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Tablete za pranje zuba s ﬂuoridom, 62 kom.",
+          "url": "https://www.dm.hr/p/d/1318122/dontodent-tablete-za-pranje-zuba-s-uoridom",
+          "isPromo": true,
+          "observedAt": "2026-09-27T13:55:46.191Z",
+          "currentPriceCents": 25,
+          "currentPriceEurCents": 25,
+          "referencePriceCents": 50,
+          "referencePriceEurCents": 50
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Tablete za čiščenje zob z okusom mete, 62 kos",
+          "url": "https://www.dm.si/p/d/1318122/dontodent-tablete-za-ciscenje-zob-z-okusom-mete",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:13.105Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Zahnputztabletten, 20 g",
+          "url": "https://www.dm.de/p/d/1318122/dontodent-zahnputztabletten",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:59.910Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
+        }
+      ]
+    },
+    {
       "productId": 6091,
       "brand": "EVELINE COSMETICS",
       "isCountryExtreme": true,
@@ -1591,10 +1591,10 @@
           "currency": "EUR",
           "name": "Mini krtača za lase The Devil Wears Prada, 1 kos",
           "url": "https://www.dm.si/p/d/3135381/tangle-teezer-mini-krtaca-za-lase-the-devil-wears-prada",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:04.847Z",
-          "currentPriceCents": 1795,
-          "currentPriceEurCents": 1795,
+          "isPromo": true,
+          "observedAt": "2026-09-27T13:55:41.703Z",
+          "currentPriceCents": 895,
+          "currentPriceEurCents": 895,
           "referencePriceCents": 1795,
           "referencePriceEurCents": 1795
         },
