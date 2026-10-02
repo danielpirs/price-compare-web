@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-01T11:27:22.204Z",
+  "generatedAt": "2026-10-02T10:57:37.173Z",
   "fx": {
-    "asOf": "2026-09-30",
+    "asOf": "2026-10-01",
     "rates": {
-      "USD": 1.1355,
-      "JPY": 178.27,
-      "CZK": 24.44,
-      "DKK": 7.4755,
-      "GBP": 0.85463,
-      "HUF": 366.2,
-      "PLN": 4.369,
-      "RON": 5.2788,
+      "USD": 1.1298,
+      "JPY": 178.49,
+      "CZK": 24.459,
+      "DKK": 7.4758,
+      "GBP": 0.85373,
+      "HUF": 367.18,
+      "PLN": 4.3735,
+      "RON": 5.283,
       "SEK": 11.331,
-      "CHF": 0.9478,
+      "CHF": 0.9437,
       "ISK": 137,
-      "NOK": 10.9015,
-      "TRY": 55.6596,
-      "AUD": 1.6297,
-      "BRL": 5.9077,
-      "CAD": 1.6105,
-      "CNY": 7.613,
-      "HKD": 8.9095,
-      "IDR": 20315.34,
-      "ILS": 3.4901,
-      "INR": 108.8205,
-      "KRW": 1539.06,
-      "MXN": 20.5816,
-      "MYR": 4.6306,
-      "NZD": 2.0115,
-      "PHP": 71.204,
-      "SGD": 1.4503,
-      "THB": 38.113,
-      "ZAR": 18.6123
+      "NOK": 10.875,
+      "TRY": 55.3993,
+      "AUD": 1.6255,
+      "BRL": 5.862,
+      "CAD": 1.6095,
+      "CNY": 7.5748,
+      "HKD": 8.8658,
+      "IDR": 20274.71,
+      "ILS": 3.4755,
+      "INR": 108.832,
+      "KRW": 1537.96,
+      "MXN": 20.5251,
+      "MYR": 4.6147,
+      "NZD": 2.0121,
+      "PHP": 70.95,
+      "SGD": 1.446,
+      "THB": 38.023,
+      "ZAR": 18.6934
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -375,7 +375,7 @@
       "productId": 1906,
       "brand": "GARNIER mineral",
       "isCountryExtreme": true,
-      "overallPercentDiff": 526.98,
+      "overallPercentDiff": 537.1,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -413,9 +413,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:57.806Z",
           "currentPriceCents": 22900,
-          "currentPriceEurCents": 63,
+          "currentPriceEurCents": 62,
           "referencePriceCents": 22900,
-          "referencePriceEurCents": 63
+          "referencePriceEurCents": 62
         }
       ]
     },
@@ -512,6 +512,41 @@
           "currentPriceEurCents": 76,
           "referencePriceCents": 27900,
           "referencePriceEurCents": 76
+        }
+      ]
+    },
+    {
+      "productId": 24620,
+      "brand": "ebelin",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 451.85,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Kozmetične palčke, 4 kos",
+          "url": "https://www.dm.si/p/d/1675669/ebelin-kozmeticne-palcke",
+          "isPromo": true,
+          "observedAt": "2026-10-01T15:25:49.466Z",
+          "currentPriceCents": 95,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 149,
+          "referencePriceEurCents": 149
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Sminkigazító pálcika, többször használható, 4 db",
+          "url": "https://www.dm.hu/p/d/1675669/ebelin-sminkigazito-palcika-tobbszor-hasznalhato",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:32:30.488Z",
+          "currentPriceCents": 9900,
+          "currentPriceEurCents": 27,
+          "referencePriceCents": 9900,
+          "referencePriceEurCents": 27
         }
       ]
     },
@@ -833,7 +868,7 @@
       "productId": 2359,
       "brand": "WILKINSON SWORD",
       "isCountryExtreme": true,
-      "overallPercentDiff": 381.71,
+      "overallPercentDiff": 387.65,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -873,7 +908,7 @@
           "currentPriceCents": 14900,
           "currentPriceEurCents": 41,
           "referencePriceCents": 29900,
-          "referencePriceEurCents": 82
+          "referencePriceEurCents": 81
         }
       ]
     },
@@ -916,7 +951,7 @@
       "productId": 21654,
       "brand": "NIVEA SUN",
       "isCountryExtreme": true,
-      "overallPercentDiff": 361.88,
+      "overallPercentDiff": 363.24,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -941,9 +976,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:59.780Z",
           "currentPriceCents": 124900,
-          "currentPriceEurCents": 341,
+          "currentPriceEurCents": 340,
           "referencePriceCents": 124900,
-          "referencePriceEurCents": 341
+          "referencePriceEurCents": 340
         }
       ]
     },
@@ -989,9 +1024,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:47.738Z",
           "currentPriceCents": 599900,
-          "currentPriceEurCents": 1638,
+          "currentPriceEurCents": 1634,
           "referencePriceCents": 599900,
-          "referencePriceEurCents": 1638
+          "referencePriceEurCents": 1634
         }
       ]
     },
@@ -1111,9 +1146,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:12.182Z",
           "currentPriceCents": 199900,
-          "currentPriceEurCents": 546,
+          "currentPriceEurCents": 544,
           "referencePriceCents": 199900,
-          "referencePriceEurCents": 546
+          "referencePriceEurCents": 544
         }
       ]
     },
@@ -1172,9 +1207,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:55.609Z",
           "currentPriceCents": 749900,
-          "currentPriceEurCents": 2048,
+          "currentPriceEurCents": 2042,
           "referencePriceCents": 749900,
-          "referencePriceEurCents": 2048
+          "referencePriceEurCents": 2042
         }
       ]
     },
@@ -1313,7 +1348,7 @@
       "productId": 25908,
       "brand": "NIVEA SUN",
       "isCountryExtreme": true,
-      "overallPercentDiff": 312.59,
+      "overallPercentDiff": 313.37,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1338,9 +1373,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:57.806Z",
           "currentPriceCents": 194900,
-          "currentPriceEurCents": 532,
+          "currentPriceEurCents": 531,
           "referencePriceCents": 194900,
-          "referencePriceEurCents": 532
+          "referencePriceEurCents": 531
         }
       ]
     },
@@ -1376,41 +1411,6 @@
           "currentPriceEurCents": 695,
           "referencePriceCents": 695,
           "referencePriceEurCents": 695
-        }
-      ]
-    },
-    {
-      "productId": 10538,
-      "brand": "BOURJOIS PARIS",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 306.38,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Clean & Vegan Healthy Mix tekući puder  – 50C..., 30 ml",
-          "url": "https://www.dm.hr/p/d/2244634/bourjois-paris-clean-vegan-healthy-mix-tekuci-puder-50c-rose-ivory",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:33:02.420Z",
-          "currentPriceCents": 470,
-          "currentPriceEurCents": 470,
-          "referencePriceCents": 470,
-          "referencePriceEurCents": 470
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Tekoča podlaga Healthy Mix, 50C Rose Ivory, 30 ml",
-          "url": "https://www.dm.si/p/d/2244634/bourjois-paris-tekoca-podlaga-healthy-mix-50c-rose-ivory",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:21.199Z",
-          "currentPriceCents": 1910,
-          "currentPriceEurCents": 1910,
-          "referencePriceCents": 1910,
-          "referencePriceEurCents": 1910
         }
       ]
     }

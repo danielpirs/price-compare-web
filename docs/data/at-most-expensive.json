@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-01T11:27:22.204Z",
+  "generatedAt": "2026-10-02T10:57:37.173Z",
   "fx": {
-    "asOf": "2026-09-30",
+    "asOf": "2026-10-01",
     "rates": {
-      "USD": 1.1355,
-      "JPY": 178.27,
-      "CZK": 24.44,
-      "DKK": 7.4755,
-      "GBP": 0.85463,
-      "HUF": 366.2,
-      "PLN": 4.369,
-      "RON": 5.2788,
+      "USD": 1.1298,
+      "JPY": 178.49,
+      "CZK": 24.459,
+      "DKK": 7.4758,
+      "GBP": 0.85373,
+      "HUF": 367.18,
+      "PLN": 4.3735,
+      "RON": 5.283,
       "SEK": 11.331,
-      "CHF": 0.9478,
+      "CHF": 0.9437,
       "ISK": 137,
-      "NOK": 10.9015,
-      "TRY": 55.6596,
-      "AUD": 1.6297,
-      "BRL": 5.9077,
-      "CAD": 1.6105,
-      "CNY": 7.613,
-      "HKD": 8.9095,
-      "IDR": 20315.34,
-      "ILS": 3.4901,
-      "INR": 108.8205,
-      "KRW": 1539.06,
-      "MXN": 20.5816,
-      "MYR": 4.6306,
-      "NZD": 2.0115,
-      "PHP": 71.204,
-      "SGD": 1.4503,
-      "THB": 38.113,
-      "ZAR": 18.6123
+      "NOK": 10.875,
+      "TRY": 55.3993,
+      "AUD": 1.6255,
+      "BRL": 5.862,
+      "CAD": 1.6095,
+      "CNY": 7.5748,
+      "HKD": 8.8658,
+      "IDR": 20274.71,
+      "ILS": 3.4755,
+      "INR": 108.832,
+      "KRW": 1537.96,
+      "MXN": 20.5251,
+      "MYR": 4.6147,
+      "NZD": 2.0121,
+      "PHP": 70.95,
+      "SGD": 1.446,
+      "THB": 38.023,
+      "ZAR": 18.6934
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -417,9 +417,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:59.257Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 273,
+          "currentPriceEurCents": 272,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 273
+          "referencePriceEurCents": 272
         }
       ]
     },
@@ -526,9 +526,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:54.339Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1502,
+          "currentPriceEurCents": 1498,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1502
+          "referencePriceEurCents": 1498
         }
       ]
     },
@@ -600,9 +600,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:30.838Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1502,
+          "currentPriceEurCents": 1498,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1502
+          "referencePriceEurCents": 1498
         }
       ]
     },
@@ -783,9 +783,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:07.099Z",
           "currentPriceCents": 429900,
-          "currentPriceEurCents": 1174,
+          "currentPriceEurCents": 1171,
           "referencePriceCents": 429900,
-          "referencePriceEurCents": 1174
+          "referencePriceEurCents": 1171
         }
       ]
     },
@@ -828,7 +828,7 @@
       "productId": 8829,
       "brand": "HADA LABO TOKYO",
       "isCountryExtreme": true,
-      "overallPercentDiff": 485.04,
+      "overallPercentDiff": 486.76,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -879,9 +879,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:57.806Z",
           "currentPriceCents": 124900,
-          "currentPriceEurCents": 341,
+          "currentPriceEurCents": 340,
           "referencePriceCents": 124900,
-          "referencePriceEurCents": 341
+          "referencePriceEurCents": 340
         }
       ]
     },
@@ -937,7 +937,7 @@
       "productId": 33703,
       "brand": "Scholl",
       "isCountryExtreme": true,
-      "overallPercentDiff": 424.03,
+      "overallPercentDiff": 426.44,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -975,9 +975,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:59.780Z",
           "currentPriceCents": 159900,
-          "currentPriceEurCents": 437,
+          "currentPriceEurCents": 435,
           "referencePriceCents": 159900,
-          "referencePriceEurCents": 437
+          "referencePriceEurCents": 435
         }
       ]
     },
@@ -1065,10 +1065,58 @@
       ]
     },
     {
+      "productId": 30570,
+      "brand": "Dove",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 412.35,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Antitranspirant Deo Roll-On Advanced Care..., 50 ml",
+          "url": "https://www.dm.at/p/d/1689655/dove-antitranspirant-deo-roll-on-advanced-care-invisible-dry",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:44.201Z",
+          "currentPriceCents": 415,
+          "currentPriceEurCents": 415,
+          "referencePriceCents": 415,
+          "referencePriceEurCents": 415
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Antitranspirant Deo Roll-on Advanced Care..., 50 ml",
+          "url": "https://www.dm.de/p/d/1689655/dove-antitranspirant-deo-roll-on-advanced-care-invisible-dry",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:45.137Z",
+          "currentPriceCents": 325,
+          "currentPriceEurCents": 325,
+          "referencePriceCents": 325,
+          "referencePriceEurCents": 325
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Deo roll-on Invisible Dry, 50 ml",
+          "url": "https://www.dm.hu/p/d/1689655/dove-deo-roll-on-invisible-dry",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:57.806Z",
+          "currentPriceCents": 29900,
+          "currentPriceEurCents": 81,
+          "referencePriceCents": 29900,
+          "referencePriceEurCents": 81
+        }
+      ]
+    },
+    {
       "productId": 7148,
       "brand": "HADA LABO TOKYO",
       "isCountryExtreme": true,
-      "overallPercentDiff": 407.96,
+      "overallPercentDiff": 409.58,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1119,9 +1167,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:57.806Z",
           "currentPriceCents": 114900,
-          "currentPriceEurCents": 314,
+          "currentPriceEurCents": 313,
           "referencePriceCents": 114900,
-          "referencePriceEurCents": 314
+          "referencePriceEurCents": 313
         }
       ]
     },
@@ -1209,54 +1257,6 @@
       ]
     },
     {
-      "productId": 30570,
-      "brand": "Dove",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 406.1,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Antitranspirant Deo Roll-On Advanced Care..., 50 ml",
-          "url": "https://www.dm.at/p/d/1689655/dove-antitranspirant-deo-roll-on-advanced-care-invisible-dry",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:44.201Z",
-          "currentPriceCents": 415,
-          "currentPriceEurCents": 415,
-          "referencePriceCents": 415,
-          "referencePriceEurCents": 415
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Antitranspirant Deo Roll-on Advanced Care..., 50 ml",
-          "url": "https://www.dm.de/p/d/1689655/dove-antitranspirant-deo-roll-on-advanced-care-invisible-dry",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:45.137Z",
-          "currentPriceCents": 325,
-          "currentPriceEurCents": 325,
-          "referencePriceCents": 325,
-          "referencePriceEurCents": 325
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Deo roll-on Invisible Dry, 50 ml",
-          "url": "https://www.dm.hu/p/d/1689655/dove-deo-roll-on-invisible-dry",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:57.806Z",
-          "currentPriceCents": 29900,
-          "currentPriceEurCents": 82,
-          "referencePriceCents": 29900,
-          "referencePriceEurCents": 82
-        }
-      ]
-    },
-    {
       "productId": 12330,
       "brand": "CATRICE",
       "isCountryExtreme": true,
@@ -1324,9 +1324,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:30:35.474Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 273,
+          "currentPriceEurCents": 272,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 273
+          "referencePriceEurCents": 272
         }
       ]
     },
@@ -1369,7 +1369,7 @@
       "productId": 32548,
       "brand": "Nature Blossom",
       "isCountryExtreme": true,
-      "overallPercentDiff": 386.55,
+      "overallPercentDiff": 387.75,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1394,9 +1394,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:19.940Z",
           "currentPriceCents": 149900,
-          "currentPriceEurCents": 409,
+          "currentPriceEurCents": 408,
           "referencePriceCents": 149900,
-          "referencePriceEurCents": 409
+          "referencePriceEurCents": 408
         }
       ]
     },
@@ -1404,7 +1404,7 @@
       "productId": 10514,
       "brand": "s.Oliver",
       "isCountryExtreme": true,
-      "overallPercentDiff": 378.26,
+      "overallPercentDiff": 380.46,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1442,9 +1442,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:19.940Z",
           "currentPriceCents": 159900,
-          "currentPriceEurCents": 437,
+          "currentPriceEurCents": 435,
           "referencePriceCents": 159900,
-          "referencePriceEurCents": 437
+          "referencePriceEurCents": 435
         }
       ]
     },
@@ -1452,7 +1452,7 @@
       "productId": 20895,
       "brand": "NIVEA MEN",
       "isCountryExtreme": true,
-      "overallPercentDiff": 374.36,
+      "overallPercentDiff": 376.1,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1503,9 +1503,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:37.213Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 273,
+          "currentPriceEurCents": 272,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 273
+          "referencePriceEurCents": 272
         }
       ]
     },

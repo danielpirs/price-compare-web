@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-01T11:27:22.204Z",
+  "generatedAt": "2026-10-02T10:57:37.173Z",
   "fx": {
-    "asOf": "2026-09-30",
+    "asOf": "2026-10-01",
     "rates": {
-      "USD": 1.1355,
-      "JPY": 178.27,
-      "CZK": 24.44,
-      "DKK": 7.4755,
-      "GBP": 0.85463,
-      "HUF": 366.2,
-      "PLN": 4.369,
-      "RON": 5.2788,
+      "USD": 1.1298,
+      "JPY": 178.49,
+      "CZK": 24.459,
+      "DKK": 7.4758,
+      "GBP": 0.85373,
+      "HUF": 367.18,
+      "PLN": 4.3735,
+      "RON": 5.283,
       "SEK": 11.331,
-      "CHF": 0.9478,
+      "CHF": 0.9437,
       "ISK": 137,
-      "NOK": 10.9015,
-      "TRY": 55.6596,
-      "AUD": 1.6297,
-      "BRL": 5.9077,
-      "CAD": 1.6105,
-      "CNY": 7.613,
-      "HKD": 8.9095,
-      "IDR": 20315.34,
-      "ILS": 3.4901,
-      "INR": 108.8205,
-      "KRW": 1539.06,
-      "MXN": 20.5816,
-      "MYR": 4.6306,
-      "NZD": 2.0115,
-      "PHP": 71.204,
-      "SGD": 1.4503,
-      "THB": 38.113,
-      "ZAR": 18.6123
+      "NOK": 10.875,
+      "TRY": 55.3993,
+      "AUD": 1.6255,
+      "BRL": 5.862,
+      "CAD": 1.6095,
+      "CNY": 7.5748,
+      "HKD": 8.8658,
+      "IDR": 20274.71,
+      "ILS": 3.4755,
+      "INR": 108.832,
+      "KRW": 1537.96,
+      "MXN": 20.5251,
+      "MYR": 4.6147,
+      "NZD": 2.0121,
+      "PHP": 70.95,
+      "SGD": 1.446,
+      "THB": 38.023,
+      "ZAR": 18.6934
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -81,9 +81,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:28.621Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 273,
+          "currentPriceEurCents": 272,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 273
+          "referencePriceEurCents": 272
         }
       ]
     },
@@ -194,8 +194,8 @@
           "countryCode": "DE",
           "shopId": "dm-de",
           "currency": "EUR",
-          "name": "Lidschattenpalette The Smokey Icon Grunge, 8,4 g",
-          "url": "https://www.dm.de/p/d/2968908/revolution-lidschattenpalette-the-smokey-icon-grunge",
+          "name": "Lidschatten Palette The Smokey Icon Grunge, 8,4 g",
+          "url": "https://www.dm.de/p/d/2968908/revolution-lidschatten-palette-the-smokey-icon-grunge",
           "isPromo": false,
           "observedAt": "2026-08-31T20:42:29.711Z",
           "currentPriceCents": 895,
@@ -247,9 +247,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:30.488Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 273,
+          "currentPriceEurCents": 272,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 273
+          "referencePriceEurCents": 272
         }
       ]
     },
@@ -785,7 +785,7 @@
       "productId": 54274,
       "brand": "Cosrx",
       "isCountryExtreme": true,
-      "overallPercentDiff": 428.33,
+      "overallPercentDiff": 430.1,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -810,9 +810,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:59.780Z",
           "currentPriceCents": 109900,
-          "currentPriceEurCents": 300,
+          "currentPriceEurCents": 299,
           "referencePriceCents": 109900,
-          "referencePriceEurCents": 300
+          "referencePriceEurCents": 299
         }
       ]
     },
@@ -1127,6 +1127,41 @@
       ]
     },
     {
+      "productId": 22460,
+      "brand": "Profissimo",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 400,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Papirnate vrečke za živila in ustvarjanje - rdeče, 24 kos",
+          "url": "https://www.dm.si/p/d/1533637/profissimo-papirnate-vrecke-za-zivila-in-ustvarjanje-rdece",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:58.542Z",
+          "currentPriceCents": 45,
+          "currentPriceEurCents": 45,
+          "referencePriceCents": 45,
+          "referencePriceEurCents": 45
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Papiertüten sortiert, 24 St",
+          "url": "https://www.dm.de/p/d/1533637/profissimo-papiertueten-sortiert",
+          "isPromo": false,
+          "observedAt": "2026-10-01T15:26:00.332Z",
+          "currentPriceCents": 225,
+          "currentPriceEurCents": 225,
+          "referencePriceCents": 225,
+          "referencePriceEurCents": 225
+        }
+      ]
+    },
+    {
       "productId": 47668,
       "brand": "Bondi Sands",
       "isCountryExtreme": true,
@@ -1264,9 +1299,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:22.557Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 191,
+          "currentPriceEurCents": 190,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 191
+          "referencePriceEurCents": 190
         }
       ]
     },
@@ -1312,9 +1347,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:29:57.331Z",
           "currentPriceCents": 59900,
-          "currentPriceEurCents": 164,
+          "currentPriceEurCents": 163,
           "referencePriceCents": 59900,
-          "referencePriceEurCents": 164
+          "referencePriceEurCents": 163
         }
       ]
     },
@@ -1350,41 +1385,6 @@
           "currentPriceEurCents": 195,
           "referencePriceCents": 195,
           "referencePriceEurCents": 195
-        }
-      ]
-    },
-    {
-      "productId": 20989,
-      "brand": "HALLOHEBAMME",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 315.79,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Kopel za dojenčke, 200 ml",
-          "url": "https://www.dm.si/p/d/2486244/hallohebamme-kopel-za-dojencke",
-          "isPromo": true,
-          "observedAt": "2026-09-05T11:49:40.390Z",
-          "currentPriceCents": 45,
-          "currentPriceEurCents": 45,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Babybad Hafermilch, 200 ml",
-          "url": "https://www.dm.de/p/d/2486244/hallohebamme-babybad-hafermilch",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:57.904Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
         }
       ]
     }
