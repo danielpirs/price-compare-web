@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T19:17:55.842Z",
+  "generatedAt": "2026-10-03T19:49:23.518Z",
   "fx": {
     "asOf": "2026-10-02",
     "rates": {
@@ -97,41 +97,6 @@
           "currentPriceEurCents": 27,
           "referencePriceCents": 19900,
           "referencePriceEurCents": 54
-        }
-      ]
-    },
-    {
-      "productId": 13238,
-      "brand": "proteini.si",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 375,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Proteinska pločica - banana i mliječna čokolada, 55 g",
-          "url": "https://www.dm.hr/p/d/2197424/proteini-si-proteinska-plocica-banana-i-mlijecna-cokolada",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:18.990Z",
-          "currentPriceCents": 190,
-          "currentPriceEurCents": 190,
-          "referencePriceCents": 190,
-          "referencePriceEurCents": 190
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Beljakovinska ploščica Banana, 55 g",
-          "url": "https://www.dm.si/p/d/2197424/proteini-si-beljakovinska-ploscica-banana",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:57.127Z",
-          "currentPriceCents": 40,
-          "currentPriceEurCents": 40,
-          "referencePriceCents": 40,
-          "referencePriceEurCents": 40
         }
       ]
     },
@@ -859,19 +824,6 @@
           "referencePriceEurCents": 155
         },
         {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Nožek za odstranjevanje in palčka za potiskanje...",
-          "url": "https://www.dm.si/p/d/1345864/ebelin-nozek-za-odstranjevanje-in-palcka-za-potiskanje-obnohtne-kozice-vec-razlicic",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:44.749Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
-        },
-        {
           "countryCode": "AT",
           "shopId": "dm-at",
           "currency": "EUR",
@@ -1118,54 +1070,6 @@
       ]
     },
     {
-      "productId": 12153,
-      "brand": "NIVEA MEN",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 173.15,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Total Relax gel za tuširanje, 250 ml",
-          "url": "https://www.dm.hr/p/d/2977362/nivea-men-total-relax-gel-za-tusiranje",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:13.032Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Gel za tuširanje 3 v 1 Total Relax, 250 ml",
-          "url": "https://www.dm.si/p/d/2977362/nivea-men-gel-za-tusiranje-3-v-1-total-relax",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:06.418Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Tusfürdő Total Relax, 250 ml",
-          "url": "https://www.dm.hu/p/d/2977362/nivea-men-tusfurdo-total-relax",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:06:15.966Z",
-          "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
-          "referencePriceCents": 39900,
-          "referencePriceEurCents": 108
-        }
-      ]
-    },
-    {
       "productId": 14514,
       "brand": "Johnson's baby",
       "isCountryExtreme": true,
@@ -1258,6 +1162,41 @@
           "currentPriceEurCents": 70,
           "referencePriceCents": 51900,
           "referencePriceEurCents": 141
+        }
+      ]
+    },
+    {
+      "productId": 2378,
+      "brand": "Denkmit",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 169.23,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Vlažne maramice za čišćenje jako zaprljanih ploha, 20 kom.",
+          "url": "https://www.dm.hr/p/d/3042324/denkmit-vlazne-maramice-za-ciscenje-jako-zaprljanih-ploha",
+          "isPromo": true,
+          "observedAt": "2026-10-01T15:25:53.408Z",
+          "currentPriceCents": 120,
+          "currentPriceEurCents": 120,
+          "referencePriceCents": 175,
+          "referencePriceEurCents": 175
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Vlažne večnamenske krpice, 20 kos",
+          "url": "https://www.dm.si/p/d/3042324/denkmit-vlazne-vecnamenske-krpice",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:30.185Z",
+          "currentPriceCents": 45,
+          "currentPriceEurCents": 45,
+          "referencePriceCents": 65,
+          "referencePriceEurCents": 65
         }
       ]
     },
@@ -1424,6 +1363,54 @@
           "currentPriceEurCents": 135,
           "referencePriceCents": 49900,
           "referencePriceEurCents": 135
+        }
+      ]
+    },
+    {
+      "productId": 2493,
+      "brand": "FERRAGAMO",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 153.9,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Signorina Misteriosa edp, 30 ml",
+          "url": "https://www.dm.hr/p/d/1896751/ferragamo-signorina-misteriosa-edp",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:59:12.991Z",
+          "currentPriceCents": 6190,
+          "currentPriceEurCents": 6190,
+          "referencePriceCents": 6190,
+          "referencePriceEurCents": 6190
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Parfumska voda Signorina Misteriosa, 30 ml",
+          "url": "https://www.dm.si/p/d/1896751/ferragamo-parfumska-voda-signorina-misteriosa",
+          "isPromo": false,
+          "observedAt": "2026-09-22T13:23:31.787Z",
+          "currentPriceCents": 6095,
+          "currentPriceEurCents": 6095,
+          "referencePriceCents": 6095,
+          "referencePriceEurCents": 6095
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "EdP Misteriosa, 30 ml",
+          "url": "https://www.dm.hu/p/d/1896751/ferragamo-edp-misteriosa",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:10.259Z",
+          "currentPriceCents": 449900,
+          "currentPriceEurCents": 1219,
+          "referencePriceCents": 899900,
+          "referencePriceEurCents": 2438
         }
       ]
     }

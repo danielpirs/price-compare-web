@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T19:17:55.842Z",
+  "generatedAt": "2026-10-03T19:49:23.518Z",
   "fx": {
     "asOf": "2026-10-02",
     "rates": {
@@ -39,41 +39,6 @@
   "countryCode": "HR",
   "kind": "cheapest",
   "items": [
-    {
-      "productId": 9478,
-      "brand": "Oral-B",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 1524,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Pro-Expert zubni konac – menta, 25 m",
-          "url": "https://www.dm.hr/p/d/2970605/oral-b-pro-expert-zubni-konac-menta",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:32:56.123Z",
-          "currentPriceCents": 25,
-          "currentPriceEurCents": 25,
-          "referencePriceCents": 25,
-          "referencePriceEurCents": 25
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogselyem Proexpert Deep Clean, 1 db",
-          "url": "https://www.dm.hu/p/d/2970605/oral-b-fogselyem-proexpert-deep-clean",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:06:15.966Z",
-          "currentPriceCents": 104900,
-          "currentPriceEurCents": 284,
-          "referencePriceCents": 149900,
-          "referencePriceEurCents": 406
-        }
-      ]
-    },
     {
       "productId": 4074,
       "brand": "sundance",
@@ -206,54 +171,6 @@
       ]
     },
     {
-      "productId": 1143,
-      "brand": "Batiste",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 421.05,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Šampon za suho pranje kose Fresh, 200 ml",
-          "url": "https://www.dm.hr/p/d/1878894/batiste-sampon-za-suho-pranje-kose-fresh",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:50:10.292Z",
-          "currentPriceCents": 95,
-          "currentPriceEurCents": 95,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Suhi šampon za lase Fresh, 200 ml",
-          "url": "https://www.dm.si/p/d/1878894/batiste-suhi-sampon-za-lase-fresh",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:20.552Z",
-          "currentPriceCents": 365,
-          "currentPriceEurCents": 365,
-          "referencePriceCents": 455,
-          "referencePriceEurCents": 455
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Trockenshampoo light & breezy, 200 ml",
-          "url": "https://www.dm.at/p/d/1878894/batiste-trockenshampoo-light-und-breezy",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:37:18.756Z",
-          "currentPriceCents": 495,
-          "currentPriceEurCents": 495,
-          "referencePriceCents": 495,
-          "referencePriceEurCents": 495
-        }
-      ]
-    },
-    {
       "productId": 7208,
       "brand": "Dontodent",
       "isCountryExtreme": true,
@@ -298,102 +215,6 @@
           "currentPriceEurCents": 145,
           "referencePriceCents": 145,
           "referencePriceEurCents": 145
-        }
-      ]
-    },
-    {
-      "productId": 152,
-      "brand": "Balea",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 360,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Beauty Expert Hydration Toner, 30 ml",
-          "url": "https://www.dm.hr/p/d/2974057/balea-beauty-expert-hydration-toner",
-          "isPromo": true,
-          "observedAt": "2026-09-03T12:48:42.810Z",
-          "currentPriceCents": 50,
-          "currentPriceEurCents": 50,
-          "referencePriceCents": 50,
-          "referencePriceEurCents": 50
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Vlažilni tonik z 2 % pantenola in 0,2 % alantoina..., 30 ml",
-          "url": "https://www.dm.si/p/d/2974057/balea-vlazilni-tonik-z-2-pantenola-in-0-2-alantoina-beauty-expert",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:00.643Z",
-          "currentPriceCents": 215,
-          "currentPriceEurCents": 215,
-          "referencePriceCents": 215,
-          "referencePriceEurCents": 215
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Toner Beauty Expert Hydration, Reisegröße, 30 ml",
-          "url": "https://www.dm.de/p/d/2974057/balea-toner-beauty-expert-hydration-reisegroesse",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:25.192Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Hidratáló tonik Beauty Expert 2% panthenollal és..., 30 ml",
-          "url": "https://www.dm.hu/p/d/2974057/balea-hidratalo-tonik-beauty-expert-2-panthenollal-es-0-2-allantoinnal",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:33:07.322Z",
-          "currentPriceCents": 84900,
-          "currentPriceEurCents": 230,
-          "referencePriceCents": 84900,
-          "referencePriceEurCents": 230
-        }
-      ]
-    },
-    {
-      "productId": 1107,
-      "brand": "Skincyclopedia",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 321.21,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Matrixyl 3000 10 % serum za lice, 30 ml",
-          "url": "https://www.dm.hr/p/d/2558479/skincyclopedia-matrixyl-3000-10-serum-za-lice",
-          "isPromo": true,
-          "observedAt": "2026-08-28T15:49:54.011Z",
-          "currentPriceCents": 165,
-          "currentPriceEurCents": 165,
-          "referencePriceCents": 165,
-          "referencePriceEurCents": 165
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Serum za obraz z Matrixyl® 3000, 30 ml",
-          "url": "https://www.dm.si/p/d/2558479/skincyclopedia-serum-za-obraz-z-matrixyl-3000",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:28.819Z",
-          "currentPriceCents": 495,
-          "currentPriceEurCents": 495,
-          "referencePriceCents": 695,
-          "referencePriceEurCents": 695
         }
       ]
     },
@@ -464,19 +285,6 @@
           "currentPriceEurCents": 120,
           "referencePriceCents": 245,
           "referencePriceEurCents": 245
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Sonnenbrille Damen rosa, 1 St",
-          "url": "https://www.dm.at/p/d/1711993/sundance-sonnenbrille-damen-rosa",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:38:06.065Z",
-          "currentPriceCents": 995,
-          "currentPriceEurCents": 995,
-          "referencePriceCents": 995,
-          "referencePriceEurCents": 995
         }
       ]
     },
@@ -573,80 +381,6 @@
           "currentPriceEurCents": 470,
           "referencePriceCents": 670,
           "referencePriceEurCents": 670
-        }
-      ]
-    },
-    {
-      "productId": 1824,
-      "brand": "Denkmit",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 260,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "WC gel Glamorous Touch, 750 ml",
-          "url": "https://www.dm.si/p/d/3123570/denkmit-wc-gel-glamorous-touch",
-          "isPromo": true,
-          "observedAt": "2026-09-16T13:29:15.000Z",
-          "currentPriceCents": 115,
-          "currentPriceEurCents": 115,
-          "referencePriceCents": 165,
-          "referencePriceEurCents": 165
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "WC-Reiniger Glamorous Touch, 750 ml",
-          "url": "https://www.dm.at/p/d/3123570/denkmit-wc-reiniger-glamorous-touch",
-          "isPromo": true,
-          "observedAt": "2026-09-16T13:29:22.458Z",
-          "currentPriceCents": 110,
-          "currentPriceEurCents": 110,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
-        },
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Gel za čišćenje WC-a – Glamorous Touch, 750 ml",
-          "url": "https://www.dm.hr/p/d/3123570/denkmit-gel-za-ciscenje-wc-a-glamorous-touch",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:32:34.936Z",
-          "currentPriceCents": 60,
-          "currentPriceEurCents": 60,
-          "referencePriceCents": 60,
-          "referencePriceEurCents": 60
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "WC-Reiniger Glamorous Touch, 750 ml",
-          "url": "https://www.dm.de/p/d/3123570/denkmit-wc-reiniger-glamorous-touch",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:07.596Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Glamorous Touch WC-tisztító gél, 750 ml",
-          "url": "https://www.dm.hu/p/d/3123570/denkmit-glamorous-touch-wc-tisztito-gel",
-          "isPromo": true,
-          "observedAt": "2026-09-16T13:29:34.060Z",
-          "currentPriceCents": 55900,
-          "currentPriceEurCents": 151,
-          "referencePriceCents": 79900,
-          "referencePriceEurCents": 216
         }
       ]
     },
@@ -799,67 +533,6 @@
       ]
     },
     {
-      "productId": 1269,
-      "brand": "Balea",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 243.75,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Vital losion za učvršćivanje kože tijela, 400 ml",
-          "url": "https://www.dm.hr/p/d/1589840/balea-vital-losion-za-ucvrscivanje-koze-tijela",
-          "isPromo": true,
-          "observedAt": "2026-08-28T15:51:03.129Z",
-          "currentPriceCents": 80,
-          "currentPriceEurCents": 80,
-          "referencePriceCents": 80,
-          "referencePriceEurCents": 80
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Losjon za telo 3v1 z arganovim oljem in s..., 400 ml",
-          "url": "https://www.dm.si/p/d/1589840/balea-losjon-za-telo-3v1-z-arganovim-oljem-in-s-kofeinom-vital",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:11.741Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Bodylotion Vital, 400 ml",
-          "url": "https://www.dm.de/p/d/1589840/balea-bodylotion-vital",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:48.726Z",
-          "currentPriceCents": 175,
-          "currentPriceEurCents": 175,
-          "referencePriceCents": 175,
-          "referencePriceEurCents": 175
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Testápoló lotion VITAL, érett bőrre, 400 ml",
-          "url": "https://www.dm.hu/p/d/1589840/balea-testapolo-lotion-vital-erett-borre",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:55.494Z",
-          "currentPriceCents": 64500,
-          "currentPriceEurCents": 175,
-          "referencePriceCents": 64500,
-          "referencePriceEurCents": 175
-        }
-      ]
-    },
-    {
       "productId": 8067,
       "brand": "trend !t up",
       "isCountryExtreme": true,
@@ -904,32 +577,6 @@
           "currentPriceEurCents": 195,
           "referencePriceCents": 325,
           "referencePriceEurCents": 325
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Gel Eyeliner Cozy & Chic 010 Hot Punch, 3 g",
-          "url": "https://www.dm.de/p/d/3092522/trend-t-up-gel-eyeliner-cozy-und-chic-010-hot-punch",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:46.322Z",
-          "currentPriceCents": 325,
-          "currentPriceEurCents": 325,
-          "referencePriceCents": 325,
-          "referencePriceEurCents": 325
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Zselés szemhéjtus Cozy & Chic, 010 Hot Punch, 3 g",
-          "url": "https://www.dm.hu/p/d/3092522/trend-t-up-zseles-szemhejtus-cozy-chic-010-hot-punch",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:35.276Z",
-          "currentPriceCents": 54900,
-          "currentPriceEurCents": 149,
-          "referencePriceCents": 54900,
-          "referencePriceEurCents": 149
         }
       ]
     },
@@ -1152,54 +799,6 @@
       ]
     },
     {
-      "productId": 9385,
-      "brand": "REVOX B77",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 228.18,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Just Retinol tonik za lice, 250 ml",
-          "url": "https://www.dm.hr/p/d/2273810/revox-b77-just-retinol-tonik-za-lice",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:32:54.985Z",
-          "currentPriceCents": 330,
-          "currentPriceEurCents": 330,
-          "referencePriceCents": 330,
-          "referencePriceEurCents": 330
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Poživljajoč tonik JUST Retinol, 250 ml",
-          "url": "https://www.dm.si/p/d/2273810/revox-b77-pozivljajoc-tonik-just-retinol",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:26.512Z",
-          "currentPriceCents": 320,
-          "currentPriceEurCents": 320,
-          "referencePriceCents": 639,
-          "referencePriceEurCents": 639
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Arctonik retinollal, 250 ml",
-          "url": "https://www.dm.hu/p/d/2273810/revox-b77-arctonik-retinollal",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:43.995Z",
-          "currentPriceCents": 399900,
-          "currentPriceEurCents": 1083,
-          "referencePriceCents": 399900,
-          "referencePriceEurCents": 1083
-        }
-      ]
-    },
-    {
       "productId": 1052,
       "brand": "Balea",
       "isCountryExtreme": true,
@@ -1231,32 +830,6 @@
           "currentPriceEurCents": 215,
           "referencePriceCents": 310,
           "referencePriceEurCents": 310
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Natural Beauty 3in1 Haarmaske Locken, 250 ml",
-          "url": "https://www.dm.at/p/d/1457506/balea-natural-beauty-3in1-haarmaske-locken",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:13.158Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Haarmaske 3in1 Natural Beauty Locken, 250 ml",
-          "url": "https://www.dm.de/p/d/1457506/balea-haarmaske-3in1-natural-beauty-locken",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:14.809Z",
-          "currentPriceCents": 245,
-          "currentPriceEurCents": 245,
-          "referencePriceCents": 245,
-          "referencePriceEurCents": 245
         },
         {
           "countryCode": "HU",
@@ -1440,32 +1013,6 @@
           "currentPriceEurCents": 175,
           "referencePriceCents": 295,
           "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Fixierspray Cozy & Chic Vanilla Latte, 50 ml",
-          "url": "https://www.dm.de/p/d/3092525/trend-t-up-fixierspray-cozy-und-chic-vanilla-latte",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:08.731Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Sminkfixáló spray Cozy & Chic Vanilla Latte, 50 ml",
-          "url": "https://www.dm.hu/p/d/3092525/trend-t-up-sminkfixalo-spray-cozy-chic-vanilla-latte",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:29:59.422Z",
-          "currentPriceCents": 79900,
-          "currentPriceEurCents": 216,
-          "referencePriceCents": 79900,
-          "referencePriceEurCents": 216
         }
       ]
     },
@@ -1518,146 +1065,312 @@
       ]
     },
     {
-      "productId": 3372,
-      "brand": "dmBio",
+      "productId": 12122,
+      "brand": "L'ORÉAL PARiS",
       "isCountryExtreme": true,
-      "overallPercentDiff": 208.33,
+      "overallPercentDiff": 200.89,
       "gapToExtremePercent": 0,
       "countries": [
         {
           "countryCode": "HR",
           "shopId": "dm-hr",
           "currency": "EUR",
-          "name": "Snack od riže i meda, 3 x 32 g, 96 g",
-          "url": "https://www.dm.hr/p/d/1513495/dmbio-snack-od-rize-i-meda-3-x-32-g",
+          "name": "Lash Paradise maskara Intense volume & length –..., 6,4 ml",
+          "url": "https://www.dm.hr/p/d/1454475/l-oreal-paris-lash-paradise-maskara-intense-volume-length-forever-noir",
           "isPromo": true,
-          "observedAt": "2026-09-03T12:48:42.810Z",
-          "currentPriceCents": 60,
-          "currentPriceEurCents": 60,
-          "referencePriceCents": 60,
-          "referencePriceEurCents": 60
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Bio riževi vaflji z medom, 96 g",
-          "url": "https://www.dm.si/p/d/1513495/dmbio-bio-rizevi-vaflji-z-medom",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:56.419Z",
-          "currentPriceCents": 115,
-          "currentPriceEurCents": 115,
-          "referencePriceCents": 115,
-          "referencePriceEurCents": 115
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Reiswaffeln Honig, 96 g",
-          "url": "https://www.dm.at/p/d/1513495/dmbio-reiswaffeln-honig",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:27.397Z",
-          "currentPriceCents": 185,
-          "currentPriceEurCents": 185,
-          "referencePriceCents": 185,
-          "referencePriceEurCents": 185
+          "observedAt": "2026-10-03T19:04:16.543Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 450,
+          "referencePriceEurCents": 450
         },
         {
           "countryCode": "DE",
           "shopId": "dm-de",
           "currency": "EUR",
-          "name": "Reiswaffeln, Honig, 96 g",
-          "url": "https://www.dm.de/p/d/1513495/dmbio-reiswaffeln-honig",
+          "name": "Mascara Lash Paradise Forever Noir, 6,4 ml",
+          "url": "https://www.dm.de/p/d/1454475/l-oreal-paris-mascara-lash-paradise-forever-noir",
           "isPromo": false,
-          "observedAt": "2026-08-31T20:40:26.163Z",
-          "currentPriceCents": 135,
-          "currentPriceEurCents": 135,
-          "referencePriceCents": 135,
-          "referencePriceEurCents": 135
+          "observedAt": "2026-08-31T20:40:29.418Z",
+          "currentPriceCents": 1295,
+          "currentPriceEurCents": 1295,
+          "referencePriceCents": 1295,
+          "referencePriceEurCents": 1295
         },
         {
           "countryCode": "HU",
           "shopId": "dm-hu",
           "currency": "HUF",
-          "name": "Bio mézes puffasztott rizsszelet, 96 g",
-          "url": "https://www.dm.hu/p/d/1513495/dmbio-bio-mezes-puffasztott-rizsszelet",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:06:07.103Z",
-          "currentPriceCents": 39900,
-          "currentPriceEurCents": 108,
-          "referencePriceCents": 64900,
-          "referencePriceEurCents": 176
+          "name": "Szempillaspirál, Lash Paradise Forever Noir, 6,4 ml",
+          "url": "https://www.dm.hu/p/d/1454475/l-oreal-paris-szempillaspiral-lash-paradise-forever-noir",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:30.809Z",
+          "currentPriceCents": 499900,
+          "currentPriceEurCents": 1354,
+          "referencePriceCents": 499900,
+          "referencePriceEurCents": 1354
         }
       ]
     },
     {
-      "productId": 841,
-      "brand": "Denkmit",
+      "productId": 8490,
+      "brand": "Salt of the earth",
       "isCountryExtreme": true,
-      "overallPercentDiff": 205,
+      "overallPercentDiff": 195.6,
       "gapToExtremePercent": 0,
       "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Vlažne večnamenske krpice Joyful SUNRISE, 80 kos",
-          "url": "https://www.dm.si/p/d/3119164/denkmit-vlazne-vecnamenske-krpice-joyful-sunrise",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:47:52.771Z",
-          "currentPriceCents": 185,
-          "currentPriceEurCents": 185,
-          "referencePriceCents": 185,
-          "referencePriceEurCents": 185
-        },
         {
           "countryCode": "HR",
           "shopId": "dm-hr",
           "currency": "EUR",
-          "name": "Vlažne maramice za čišćenje – Joyful Sunrise, 80 kom.",
-          "url": "https://www.dm.hr/p/d/3119164/denkmit-vlazne-maramice-za-ciscenje-joyful-sunrise",
-          "isPromo": true,
-          "observedAt": "2026-08-28T16:02:22.684Z",
-          "currentPriceCents": 80,
-          "currentPriceEurCents": 80,
-          "referencePriceCents": 80,
-          "referencePriceEurCents": 80
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Allzwecktücher Feucht Joyful Sunrise, 80 St",
-          "url": "https://www.dm.at/p/d/3119164/denkmit-allzwecktuecher-feucht-joyful-sunrise",
+          "name": "Salt of the Earth deo roll-on – Vetiver & Citrus, 75 ml",
+          "url": "https://www.dm.hr/p/d/3058030/salt-of-the-earth-salt-of-the-earth-deo-roll-on-vetiver-citrus",
           "isPromo": false,
-          "observedAt": "2026-08-28T16:38:48.311Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Feuchte Allzwecktücher Joyful Sunrise, 80 St",
-          "url": "https://www.dm.de/p/d/3119164/denkmit-feuchte-allzwecktuecher-joyful-sunrise",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:26.163Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
+          "observedAt": "2026-09-10T12:54:20.616Z",
+          "currentPriceCents": 250,
+          "currentPriceEurCents": 250,
+          "referencePriceCents": 250,
+          "referencePriceEurCents": 250
         },
         {
           "countryCode": "HU",
           "shopId": "dm-hu",
           "currency": "HUF",
-          "name": "Nedves törlőkendő Joyful Sunrise, 80 db",
-          "url": "https://www.dm.hu/p/d/3119164/denkmit-nedves-torlokendo-joyful-sunrise",
+          "name": "Férfi deo roll-on, Vetiver+Citrus, 75 ml",
+          "url": "https://www.dm.hu/p/d/3058030/salt-of-the-earth-ferfi-deo-roll-on-vetiver-citrus",
           "isPromo": false,
-          "observedAt": "2026-09-16T13:29:34.060Z",
+          "observedAt": "2026-09-01T12:30:25.739Z",
+          "currentPriceCents": 272900,
+          "currentPriceEurCents": 739,
+          "referencePriceCents": 272900,
+          "referencePriceEurCents": 739
+        }
+      ]
+    },
+    {
+      "productId": 10571,
+      "brand": "PARIS CORNER",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 191.25,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Rifaaqat edp, 85 ml",
+          "url": "https://www.dm.hr/p/d/2977562/paris-corner-rifaaqat-edp",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:04:16.543Z",
+          "currentPriceCents": 695,
+          "currentPriceEurCents": 695,
+          "referencePriceCents": 1395,
+          "referencePriceEurCents": 1395
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Unisex parfumska voda Rifaaqat, 85 ml",
+          "url": "https://www.dm.si/p/d/2977562/paris-corner-unisex-parfumska-voda-rifaaqat",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:24.230Z",
+          "currentPriceCents": 2790,
+          "currentPriceEurCents": 2790,
+          "referencePriceCents": 2790,
+          "referencePriceEurCents": 2790
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Uniszex EdP Rifaaqat, 85 ml",
+          "url": "https://www.dm.hu/p/d/2977562/paris-corner-uniszex-edp-rifaaqat",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:22.854Z",
+          "currentPriceCents": 1499900,
+          "currentPriceEurCents": 4063,
+          "referencePriceCents": 1499900,
+          "referencePriceEurCents": 4063
+        }
+      ]
+    },
+    {
+      "productId": 12985,
+      "brand": "DKNY",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 188.71,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Be Delicious edp, 30 ml",
+          "url": "https://www.dm.hr/p/d/1808999/dkny-be-delicious-edp",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:04:16.543Z",
+          "currentPriceCents": 795,
+          "currentPriceEurCents": 795,
+          "referencePriceCents": 1595,
+          "referencePriceEurCents": 1595
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Eau de Parfum Be Delicious, 30 ml",
+          "url": "https://www.dm.at/p/d/1808999/dkny-eau-de-parfum-be-delicious",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:37:56.104Z",
+          "currentPriceCents": 3290,
+          "currentPriceEurCents": 3290,
+          "referencePriceCents": 3290,
+          "referencePriceEurCents": 3290
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Női EdP Be Delicious, 30 ml",
+          "url": "https://www.dm.hu/p/d/1808999/dkny-noi-edp-be-delicious",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:59.257Z",
+          "currentPriceCents": 1699900,
+          "currentPriceEurCents": 4605,
+          "referencePriceCents": 1699900,
+          "referencePriceEurCents": 4605
+        }
+      ]
+    },
+    {
+      "productId": 12113,
+      "brand": "MAYBELLINE NEW YORK",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 187.78,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Lash Sensational Sky High maskara – Space Diamond, 7,5 ml",
+          "url": "https://www.dm.hr/p/d/2977945/maybelline-new-york-lash-sensational-sky-high-maskara-space-diamond",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:04:16.543Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 450,
+          "referencePriceEurCents": 450
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Maskara Lash Sensational Sky High Space Diamond, 7,5 ml",
+          "url": "https://www.dm.si/p/d/2977945/maybelline-new-york-maskara-lash-sensational-sky-high-space-diamond",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:30.185Z",
+          "currentPriceCents": 595,
+          "currentPriceEurCents": 595,
+          "referencePriceCents": 1295,
+          "referencePriceEurCents": 1295
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Mascara Lash Sensational Sky High Space Diamond, 8 ml",
+          "url": "https://www.dm.at/p/d/2977945/maybelline-new-york-mascara-lash-sensational-sky-high-space-diamond",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:37:33.185Z",
+          "currentPriceCents": 1195,
+          "currentPriceEurCents": 1195,
+          "referencePriceCents": 1195,
+          "referencePriceEurCents": 1195
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Szempillaspirál, Lash Sensational Sky - Space..., 7,5 ml",
+          "url": "https://www.dm.hu/p/d/2977945/maybelline-new-york-szempillaspiral-lash-sensational-sky-space-diamond",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:07.099Z",
+          "currentPriceCents": 429900,
+          "currentPriceEurCents": 1164,
+          "referencePriceCents": 429900,
+          "referencePriceEurCents": 1164
+        }
+      ]
+    },
+    {
+      "productId": 435,
+      "brand": "Balea",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 187.1,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Njegujuće ulje za nokte, 10 ml",
+          "url": "https://www.dm.hr/p/d/1512930/balea-njegujuce-ulje-za-nokte",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:44:32.113Z",
+          "currentPriceCents": 155,
+          "currentPriceEurCents": 155,
+          "referencePriceCents": 155,
+          "referencePriceEurCents": 155
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Negovalno olje za nohte, 10 ml",
+          "url": "https://www.dm.si/p/d/1512930/balea-negovalno-olje-za-nohte",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:48:58.875Z",
+          "currentPriceCents": 445,
+          "currentPriceEurCents": 445,
+          "referencePriceCents": 445,
+          "referencePriceEurCents": 445
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Nagelpflegeöl, 10 ml",
+          "url": "https://www.dm.at/p/d/1512930/balea-nagelpflegeoel",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:55.121Z",
+          "currentPriceCents": 445,
+          "currentPriceEurCents": 445,
+          "referencePriceCents": 445,
+          "referencePriceEurCents": 445
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Nagelpflegeöl, 10 ml",
+          "url": "https://www.dm.de/p/d/1512930/balea-nagelpflegeoel",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:48.726Z",
+          "currentPriceCents": 425,
+          "currentPriceEurCents": 425,
+          "referencePriceCents": 425,
+          "referencePriceEurCents": 425
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Körömápoló olaj aloe verával, 10 ml",
+          "url": "https://www.dm.hu/p/d/1512930/balea-koromapolo-olaj-aloe-veraval",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:17.495Z",
           "currentPriceCents": 89900,
           "currentPriceEurCents": 244,
           "referencePriceCents": 89900,
@@ -1666,76 +1379,233 @@
       ]
     },
     {
-      "productId": 2997,
-      "brand": "Denkmit",
+      "productId": 10966,
+      "brand": "JAWHARA",
       "isCountryExtreme": true,
-      "overallPercentDiff": 205,
+      "overallPercentDiff": 184.47,
       "gapToExtremePercent": 0,
       "countries": [
         {
           "countryCode": "HR",
           "shopId": "dm-hr",
           "currency": "EUR",
-          "name": "Vlažne maramice za čišćenje – Happy Sunshine, 80 kom.",
-          "url": "https://www.dm.hr/p/d/3119163/denkmit-vlazne-maramice-za-ciscenje-happy-sunshine",
-          "isPromo": true,
-          "observedAt": "2026-08-28T16:02:33.811Z",
-          "currentPriceCents": 80,
-          "currentPriceEurCents": 80,
-          "referencePriceCents": 80,
-          "referencePriceEurCents": 80
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Univerzalni vlažni robčki, Happy Sunshine, 80 kos",
-          "url": "https://www.dm.si/p/d/3119163/denkmit-univerzalni-vlazni-robcki-happy-sunshine",
+          "name": "Oud Velvet edp, 100 ml",
+          "url": "https://www.dm.hr/p/d/3110279/jawhara-oud-velvet-edp",
           "isPromo": false,
-          "observedAt": "2026-08-28T16:02:35.906Z",
-          "currentPriceCents": 185,
-          "currentPriceEurCents": 185,
-          "referencePriceCents": 185,
-          "referencePriceEurCents": 185
+          "observedAt": "2026-08-30T22:33:05.887Z",
+          "currentPriceCents": 1095,
+          "currentPriceEurCents": 1095,
+          "referencePriceCents": 1095,
+          "referencePriceEurCents": 1095
         },
         {
           "countryCode": "AT",
           "shopId": "dm-at",
           "currency": "EUR",
-          "name": "Allzwecktücher Feucht Happy Sunshine, 80 St",
-          "url": "https://www.dm.at/p/d/3119163/denkmit-allzwecktuecher-feucht-happy-sunshine",
+          "name": "Eau de Parfum Oud Velvet, 100 ml",
+          "url": "https://www.dm.at/p/d/3110279/jawhara-eau-de-parfum-oud-velvet",
           "isPromo": false,
-          "observedAt": "2026-08-30T22:35:49.054Z",
+          "observedAt": "2026-08-30T22:37:33.185Z",
+          "currentPriceCents": 1995,
+          "currentPriceEurCents": 1995,
+          "referencePriceCents": 1995,
+          "referencePriceEurCents": 1995
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Férfi EdP, Oud Velvet, 100 ml",
+          "url": "https://www.dm.hu/p/d/3110279/jawhara-ferfi-edp-oud-velvet",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:00.665Z",
+          "currentPriceCents": 1149900,
+          "currentPriceEurCents": 3115,
+          "referencePriceCents": 1149900,
+          "referencePriceEurCents": 3115
+        }
+      ]
+    },
+    {
+      "productId": 11006,
+      "brand": "JAWHARA",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 184.47,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Sultan Rose edp, 100 ml",
+          "url": "https://www.dm.hr/p/d/3094896/jawhara-sultan-rose-edp",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:05.887Z",
+          "currentPriceCents": 1095,
+          "currentPriceEurCents": 1095,
+          "referencePriceCents": 1095,
+          "referencePriceEurCents": 1095
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Eau de Parfum Sultan Rose, 100 ml",
+          "url": "https://www.dm.at/p/d/3094896/jawhara-eau-de-parfum-sultan-rose",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:47.183Z",
+          "currentPriceCents": 1995,
+          "currentPriceEurCents": 1995,
+          "referencePriceCents": 1995,
+          "referencePriceEurCents": 1995
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Női EdP Sulatan Rose, 100 ml",
+          "url": "https://www.dm.hu/p/d/3094896/jawhara-noi-edp-sulatan-rose",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:00.665Z",
+          "currentPriceCents": 1149900,
+          "currentPriceEurCents": 3115,
+          "referencePriceCents": 1149900,
+          "referencePriceEurCents": 3115
+        }
+      ]
+    },
+    {
+      "productId": 837,
+      "brand": "Paradies",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 181.6,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Gumb baterija, litij CR 2032, 4 kom.",
+          "url": "https://www.dm.hr/p/d/3067070/paradies-gumb-baterija-litij-cr-2032",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:47:50.250Z",
+          "currentPriceCents": 125,
+          "currentPriceEurCents": 125,
+          "referencePriceCents": 125,
+          "referencePriceEurCents": 125
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Litijeva baterija CR2032, 3V",
+          "url": "https://www.dm.si/p/d/3067070/paradies-litijeva-baterija-cr2032-3v",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:44.606Z",
           "currentPriceCents": 195,
           "currentPriceEurCents": 195,
           "referencePriceCents": 195,
           "referencePriceEurCents": 195
         },
         {
-          "countryCode": "DE",
-          "shopId": "dm-de",
+          "countryCode": "AT",
+          "shopId": "dm-at",
           "currency": "EUR",
-          "name": "Feuchte Allzwecktücher Happy Sunshine, 80 St",
-          "url": "https://www.dm.de/p/d/3119163/denkmit-feuchte-allzwecktuecher-happy-sunshine",
+          "name": "Batterien Knopfzelle CR2032, 4 St",
+          "url": "https://www.dm.at/p/d/3067070/paradies-batterien-knopfzelle-cr2032",
           "isPromo": false,
-          "observedAt": "2026-08-31T20:41:15.634Z",
+          "observedAt": "2026-08-30T22:37:45.639Z",
           "currentPriceCents": 145,
           "currentPriceEurCents": 145,
           "referencePriceCents": 145,
           "referencePriceEurCents": 145
         },
         {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Lithium Knopfzelle CR2032, 4 St",
+          "url": "https://www.dm.de/p/d/3067070/paradies-lithium-knopfzelle-cr2032",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:27.570Z",
+          "currentPriceCents": 125,
+          "currentPriceEurCents": 125,
+          "referencePriceCents": 125,
+          "referencePriceEurCents": 125
+        },
+        {
           "countryCode": "HU",
           "shopId": "dm-hu",
           "currency": "HUF",
-          "name": "Univerzális nedves törlőkendő, Happy Sunshine, 80 db",
-          "url": "https://www.dm.hu/p/d/3119163/denkmit-univerzalis-nedves-torlokendo-happy-sunshine",
+          "name": "Lítium gombelem, CR2032, 3V, 4 db",
+          "url": "https://www.dm.hu/p/d/3067070/paradies-litium-gombelem-cr2032-3v",
           "isPromo": false,
-          "observedAt": "2026-09-01T12:30:30.838Z",
-          "currentPriceCents": 89900,
-          "currentPriceEurCents": 244,
-          "referencePriceCents": 89900,
-          "referencePriceEurCents": 244
+          "observedAt": "2026-09-01T12:29:59.422Z",
+          "currentPriceCents": 129900,
+          "currentPriceEurCents": 352,
+          "referencePriceCents": 129900,
+          "referencePriceEurCents": 352
+        }
+      ]
+    },
+    {
+      "productId": 4971,
+      "brand": "L'ORÉAL PARiS",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 176.89,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Mascara Voluminous X 5, 7,5 ml",
+          "url": "https://www.dm.at/p/d/1058448/l-oreal-paris-mascara-voluminous-x-5",
+          "isPromo": false,
+          "observedAt": "2026-08-28T16:52:40.728Z",
+          "currentPriceCents": 1095,
+          "currentPriceEurCents": 1095,
+          "referencePriceCents": 1095,
+          "referencePriceEurCents": 1095
+        },
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Voluminous maskara – Extra Black, 8 ml",
+          "url": "https://www.dm.hr/p/d/1058448/l-oreal-paris-voluminous-maskara-extra-black",
+          "isPromo": true,
+          "observedAt": "2026-09-13T13:17:47.225Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 450,
+          "referencePriceEurCents": 450
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Mascara Voluminous Carbon Black, 8 ml",
+          "url": "https://www.dm.de/p/d/1058448/l-oreal-paris-mascara-voluminous-carbon-black",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:29.418Z",
+          "currentPriceCents": 795,
+          "currentPriceEurCents": 795,
+          "referencePriceCents": 795,
+          "referencePriceEurCents": 795
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Szempillaspirál, Voluminous X5 - Extra Black, 7,5 ml",
+          "url": "https://www.dm.hu/p/d/1058448/l-oreal-paris-szempillaspiral-voluminous-x5-extra-black",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:46.773Z",
+          "currentPriceCents": 459900,
+          "currentPriceEurCents": 1246,
+          "referencePriceCents": 459900,
+          "referencePriceEurCents": 1246
         }
       ]
     }

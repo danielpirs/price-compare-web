@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T19:17:55.842Z",
+  "generatedAt": "2026-10-03T19:49:23.518Z",
   "fx": {
     "asOf": "2026-10-02",
     "rates": {
@@ -40,99 +40,12 @@
   "kind": "most-expensive",
   "items": [
     {
-      "productId": 5193,
-      "brand": "Balea PROFESSIONAL",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 1550,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Winter Protect šampon za kosu, 250 ml",
-          "url": "https://www.dm.hr/p/d/1615355/balea-professional-winter-protect-sampon-za-kosu",
-          "isPromo": true,
-          "observedAt": "2026-08-30T21:47:41.623Z",
-          "currentPriceCents": 95,
-          "currentPriceEurCents": 95,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Šampon za lase Winter Protect, 250 ml",
-          "url": "https://www.dm.si/p/d/1615355/balea-professional-sampon-za-lase-winter-protect",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:43.957Z",
-          "currentPriceCents": 10,
-          "currentPriceEurCents": 10,
-          "referencePriceCents": 10,
-          "referencePriceEurCents": 10
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Winter Protect Shampoo, 250 ml",
-          "url": "https://www.dm.at/p/d/1615355/balea-professional-winter-protect-shampoo",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:37.949Z",
-          "currentPriceCents": 165,
-          "currentPriceEurCents": 165,
-          "referencePriceCents": 165,
-          "referencePriceEurCents": 165
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Shampoo Winter Portect, 250 ml",
-          "url": "https://www.dm.de/p/d/1615355/balea-professional-shampoo-winter-portect",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:35.778Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Sampon a téli időjárás által igénybevett hajra és..., 250 ml",
-          "url": "https://www.dm.hu/p/d/1615355/balea-professional-sampon-a-teli-idojaras-altal-igenybevett-hajra-es-szaraz-fejborre-winter-protect",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:32:22.557Z",
-          "currentPriceCents": 39900,
-          "currentPriceEurCents": 108,
-          "referencePriceCents": 39900,
-          "referencePriceEurCents": 108
-        }
-      ]
-    },
-    {
       "productId": 16938,
       "brand": "sundance",
       "isCountryExtreme": true,
       "overallPercentDiff": 909.26,
       "gapToExtremePercent": 0,
       "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Anti-age fluid za zaščito pred soncem, ZF 30..., 50 ml",
-          "url": "https://www.dm.si/p/d/1602668/sundance-anti-age-fluid-za-zascito-pred-soncem-zf-30-visoka-zascita",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:05.929Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
         {
           "countryCode": "AT",
           "shopId": "dm-at",
@@ -145,19 +58,6 @@
           "currentPriceEurCents": 275,
           "referencePriceCents": 545,
           "referencePriceEurCents": 545
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Sonnenfluid Anti-Age LSF 30, 50 ml",
-          "url": "https://www.dm.de/p/d/1602668/sundance-sonnenfluid-anti-age-lsf-30",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:11.577Z",
-          "currentPriceCents": 215,
-          "currentPriceEurCents": 215,
-          "referencePriceCents": 215,
-          "referencePriceEurCents": 215
         },
         {
           "countryCode": "HU",
@@ -280,54 +180,6 @@
           "currentPriceEurCents": 433,
           "referencePriceCents": 159900,
           "referencePriceEurCents": 433
-        }
-      ]
-    },
-    {
-      "productId": 1143,
-      "brand": "Batiste",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 421.05,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Šampon za suho pranje kose Fresh, 200 ml",
-          "url": "https://www.dm.hr/p/d/1878894/batiste-sampon-za-suho-pranje-kose-fresh",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:50:10.292Z",
-          "currentPriceCents": 95,
-          "currentPriceEurCents": 95,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Suhi šampon za lase Fresh, 200 ml",
-          "url": "https://www.dm.si/p/d/1878894/batiste-suhi-sampon-za-lase-fresh",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:20.552Z",
-          "currentPriceCents": 365,
-          "currentPriceEurCents": 365,
-          "referencePriceCents": 455,
-          "referencePriceEurCents": 455
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Trockenshampoo light & breezy, 200 ml",
-          "url": "https://www.dm.at/p/d/1878894/batiste-trockenshampoo-light-und-breezy",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:37:18.756Z",
-          "currentPriceCents": 495,
-          "currentPriceEurCents": 495,
-          "referencePriceCents": 495,
-          "referencePriceEurCents": 495
         }
       ]
     },
@@ -1100,32 +952,6 @@
           "currentPriceEurCents": 195,
           "referencePriceCents": 325,
           "referencePriceEurCents": 325
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Gel Eyeliner Cozy & Chic 010 Hot Punch, 3 g",
-          "url": "https://www.dm.de/p/d/3092522/trend-t-up-gel-eyeliner-cozy-und-chic-010-hot-punch",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:46.322Z",
-          "currentPriceCents": 325,
-          "currentPriceEurCents": 325,
-          "referencePriceCents": 325,
-          "referencePriceEurCents": 325
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Zselés szemhéjtus Cozy & Chic, 010 Hot Punch, 3 g",
-          "url": "https://www.dm.hu/p/d/3092522/trend-t-up-zseles-szemhejtus-cozy-chic-010-hot-punch",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:35.276Z",
-          "currentPriceCents": 54900,
-          "currentPriceEurCents": 149,
-          "referencePriceCents": 54900,
-          "referencePriceEurCents": 149
         }
       ]
     },
@@ -1161,41 +987,6 @@
           "currentPriceEurCents": 45,
           "referencePriceCents": 85,
           "referencePriceEurCents": 85
-        }
-      ]
-    },
-    {
-      "productId": 32684,
-      "brand": "Paradies",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 240,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Batterie Knopfzelle CR 2032 Lithium, 1 St",
-          "url": "https://www.dm.at/p/d/1570233/paradies-batterie-knopfzelle-cr-2032-lithium",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:37:07.403Z",
-          "currentPriceCents": 255,
-          "currentPriceEurCents": 255,
-          "referencePriceCents": 255,
-          "referencePriceEurCents": 255
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Batterien\tKnopfzelle CR2032, 2 St",
-          "url": "https://www.dm.de/p/d/1570233/paradies-batterien-knopfzelle-cr2032",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:10.244Z",
-          "currentPriceCents": 75,
-          "currentPriceEurCents": 75,
-          "referencePriceCents": 75,
-          "referencePriceEurCents": 75
         }
       ]
     },
@@ -1593,6 +1384,163 @@
           "currentPriceEurCents": 62,
           "referencePriceCents": 45900,
           "referencePriceEurCents": 124
+        }
+      ]
+    },
+    {
+      "productId": 20208,
+      "brand": "dmBio",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 218.18,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Bio pripravek iz govedine, od 5. meseca, 125 g",
+          "url": "https://www.dm.si/p/d/1449699/dmbio-bio-pripravek-iz-govedine-od-5-meseca",
+          "isPromo": true,
+          "observedAt": "2026-09-09T12:57:44.124Z",
+          "currentPriceCents": 25,
+          "currentPriceEurCents": 25,
+          "referencePriceCents": 55,
+          "referencePriceEurCents": 55
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Menü Rindfleisch Zubereitung ab dem 5. Monat, 125 g",
+          "url": "https://www.dm.at/p/d/1449699/dmbio-menue-rindfleisch-zubereitung-ab-dem-5-monat",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:16.249Z",
+          "currentPriceCents": 175,
+          "currentPriceEurCents": 175,
+          "referencePriceCents": 175,
+          "referencePriceEurCents": 175
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Rindfleisch Zubereitung ab dem 5. Monat, 125 g",
+          "url": "https://www.dm.de/p/d/1449699/dmbio-rindfleisch-zubereitung-ab-dem-5-monat",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:25.192Z",
+          "currentPriceCents": 165,
+          "currentPriceEurCents": 165,
+          "referencePriceCents": 165,
+          "referencePriceEurCents": 165
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Bio bébimenü marhahúsos készítmény, 5. hónapos..., 125 g",
+          "url": "https://www.dm.hu/p/d/1449699/dmbio-bio-bebimenu-marhahusos-keszitmeny-5-honapos-kortol",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:16.800Z",
+          "currentPriceCents": 61900,
+          "currentPriceEurCents": 168,
+          "referencePriceCents": 61900,
+          "referencePriceEurCents": 168
+        }
+      ]
+    },
+    {
+      "productId": 20706,
+      "brand": "HALLOHEBAMME",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 216.67,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Sproščujoča kopel za dojenčke z bio sivkinim oljem, 20 ml",
+          "url": "https://www.dm.si/p/d/2486245/hallohebamme-sproscujoca-kopel-za-dojencke-z-bio-sivkinim-oljem",
+          "isPromo": true,
+          "observedAt": "2026-09-06T12:07:59.935Z",
+          "currentPriceCents": 15,
+          "currentPriceEurCents": 15,
+          "referencePriceCents": 30,
+          "referencePriceEurCents": 30
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Baby Badezusatz Schlummer Bad, 20 ml",
+          "url": "https://www.dm.at/p/d/2486245/hallohebamme-baby-badezusatz-schlummer-bad",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:57.773Z",
+          "currentPriceCents": 95,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Baby Badezusatz Schlummer Bad, 20 ml",
+          "url": "https://www.dm.de/p/d/2486245/hallohebamme-baby-badezusatz-schlummer-bad",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:39.082Z",
+          "currentPriceCents": 95,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Elalvást segítő babafürdető, 20 ml",
+          "url": "https://www.dm.hu/p/d/2486245/hallohebamme-elalvast-segito-babafurdeto",
+          "isPromo": true,
+          "observedAt": "2026-09-06T12:08:09.117Z",
+          "currentPriceCents": 9900,
+          "currentPriceEurCents": 27,
+          "referencePriceCents": 22900,
+          "referencePriceEurCents": 62
+        }
+      ]
+    },
+    {
+      "productId": 24752,
+      "brand": "Profissimo",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 216,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Set okrasnih sveč v obliki pisanih velikonočnih..., 1 kos",
+          "url": "https://www.dm.si/p/d/2972247/profissimo-set-okrasnih-svec-v-obliki-pisanih-velikonocnih-jajck",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:30.185Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 125,
+          "referencePriceEurCents": 125
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Kerzen in Eiform classic, 6 St",
+          "url": "https://www.dm.at/p/d/2972247/profissimo-kerzen-in-eiform-classic",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:02:31.811Z",
+          "currentPriceCents": 285,
+          "currentPriceEurCents": 285,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
         }
       ]
     }
