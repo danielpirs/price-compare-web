@@ -141,6 +141,32 @@ test('countryCellHtml: marks the cheapest/most-expensive country and shows the p
   assert.match(atHtml, /href="https:\/\/example\.com\/at"/);
 });
 
+test('countryCellHtml: the "last seen" tooltip shows lastSeenAt, not observedAt - these are NOT the same date', () => {
+  // observed_at only advances when the price actually CHANGES; a stable,
+  // unchanged price leaves it stale for months even though the listing was
+  // reconfirmed live far more recently (last_seen_at advances on every
+  // scrape touch, regardless of price change - see price-compare's own
+  // Findings "last seen vs price last changed"). Caught live 2026-10-04 on
+  // "Tablete za pranje zuba s fluoridom": this tooltip showed 31.08 (the
+  // price's last-change date) when the listing had actually been
+  // reconfirmed live on 27.09.
+  const item = {
+    countries: [
+      {
+        countryCode: 'SI',
+        currentPriceEurCents: 245,
+        isPromo: false,
+        currency: 'EUR',
+        observedAt: '2026-08-30T22:35:13.105Z', // price last changed - stale
+        lastSeenAt: '2026-09-27T13:55:41.703Z', // listing reconfirmed live - current
+      },
+    ],
+  };
+  const html = countryCellHtml(item, 'SI', 'hr');
+  assert.match(html, /27\.09\.2026/);
+  assert.doesNotMatch(html, /30\.08\.2026/);
+});
+
 test('countryCellHtml: all countries at the same price mark none as extreme', () => {
   const item = {
     countries: [
