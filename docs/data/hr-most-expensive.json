@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-02T10:57:37.173Z",
+  "generatedAt": "2026-10-03T10:17:06.273Z",
   "fx": {
-    "asOf": "2026-10-01",
+    "asOf": "2026-10-02",
     "rates": {
-      "USD": 1.1298,
-      "JPY": 178.49,
-      "CZK": 24.459,
-      "DKK": 7.4758,
-      "GBP": 0.85373,
-      "HUF": 367.18,
-      "PLN": 4.3735,
-      "RON": 5.283,
-      "SEK": 11.331,
-      "CHF": 0.9437,
+      "USD": 1.1225,
+      "JPY": 176.99,
+      "CZK": 24.47,
+      "DKK": 7.4736,
+      "GBP": 0.85033,
+      "HUF": 369.18,
+      "PLN": 4.3775,
+      "RON": 5.3488,
+      "SEK": 11.29,
+      "CHF": 0.9279,
       "ISK": 137,
-      "NOK": 10.875,
-      "TRY": 55.3993,
-      "AUD": 1.6255,
-      "BRL": 5.862,
-      "CAD": 1.6095,
-      "CNY": 7.5748,
-      "HKD": 8.8658,
-      "IDR": 20274.71,
-      "ILS": 3.4755,
-      "INR": 108.832,
-      "KRW": 1537.96,
-      "MXN": 20.5251,
-      "MYR": 4.6147,
-      "NZD": 2.0121,
-      "PHP": 70.95,
-      "SGD": 1.446,
-      "THB": 38.023,
-      "ZAR": 18.6934
+      "NOK": 10.8315,
+      "TRY": 55.165,
+      "AUD": 1.6176,
+      "BRL": 5.861,
+      "CAD": 1.5984,
+      "CNY": 7.5259,
+      "HKD": 8.8084,
+      "IDR": 20149.32,
+      "ILS": 3.4408,
+      "INR": 108.1245,
+      "KRW": 1513.44,
+      "MXN": 20.5806,
+      "MYR": 4.5849,
+      "NZD": 2.0002,
+      "PHP": 70.265,
+      "SGD": 1.4366,
+      "THB": 37.71,
+      "ZAR": 18.7839
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -142,9 +142,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:28.672Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 490,
+          "currentPriceEurCents": 487,
           "referencePriceCents": 179900,
-          "referencePriceEurCents": 490
+          "referencePriceEurCents": 487
         }
       ]
     },
@@ -190,9 +190,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:49.604Z",
           "currentPriceCents": 499900,
-          "currentPriceEurCents": 1361,
+          "currentPriceEurCents": 1354,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1361
+          "referencePriceEurCents": 1354
         }
       ]
     },
@@ -238,9 +238,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:41.384Z",
           "currentPriceCents": 100900,
-          "currentPriceEurCents": 275,
+          "currentPriceEurCents": 273,
           "referencePriceCents": 100900,
-          "referencePriceEurCents": 275
+          "referencePriceEurCents": 273
         }
       ]
     },
@@ -283,7 +283,7 @@
       "productId": 9740,
       "brand": "Moschino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 618.06,
+      "overallPercentDiff": 622.3,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -321,9 +321,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:19.940Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 681,
+          "currentPriceEurCents": 677,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 681
+          "referencePriceEurCents": 677
         }
       ]
     },
@@ -436,7 +436,7 @@
       "productId": 3907,
       "brand": "COREGA",
       "isCountryExtreme": true,
-      "overallPercentDiff": 462.5,
+      "overallPercentDiff": 466.67,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -474,9 +474,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:49.421Z",
           "currentPriceCents": 49900,
-          "currentPriceEurCents": 136,
+          "currentPriceEurCents": 135,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 136
+          "referencePriceEurCents": 135
         }
       ]
     },
@@ -580,7 +580,7 @@
       "productId": 15006,
       "brand": "NIVEA",
       "isCountryExtreme": true,
-      "overallPercentDiff": 435.21,
+      "overallPercentDiff": 442.86,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -631,9 +631,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:57.806Z",
           "currentPriceCents": 25900,
-          "currentPriceEurCents": 71,
+          "currentPriceEurCents": 70,
           "referencePriceCents": 25900,
-          "referencePriceEurCents": 71
+          "referencePriceEurCents": 70
         }
       ]
     },
@@ -861,45 +861,10 @@
       ]
     },
     {
-      "productId": 7284,
-      "brand": "Johnson's baby",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 339.39,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Kids Bubble Bath dječja pjenušava kupka i gel za..., 750 ml",
-          "url": "https://www.dm.hr/p/d/2195661/johnson-s-baby-kids-bubble-bath-djecja-pjenusava-kupka-i-gel-za-tusiranje",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:42.747Z",
-          "currentPriceCents": 725,
-          "currentPriceEurCents": 725,
-          "referencePriceCents": 725,
-          "referencePriceEurCents": 725
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Otroška kopel Bath & Wash, 750 ml",
-          "url": "https://www.dm.si/p/d/2195661/johnson-s-baby-otroska-kopel-bath-wash",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:51.159Z",
-          "currentPriceCents": 165,
-          "currentPriceEurCents": 165,
-          "referencePriceCents": 165,
-          "referencePriceEurCents": 165
-        }
-      ]
-    },
-    {
       "productId": 9014,
       "brand": "HALLOHEBAMME",
       "isCountryExtreme": true,
-      "overallPercentDiff": 338.89,
+      "overallPercentDiff": 343.82,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -952,7 +917,42 @@
           "currentPriceCents": 9900,
           "currentPriceEurCents": 27,
           "referencePriceCents": 32900,
-          "referencePriceEurCents": 90
+          "referencePriceEurCents": 89
+        }
+      ]
+    },
+    {
+      "productId": 7284,
+      "brand": "Johnson's baby",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 339.39,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Kids Bubble Bath dječja pjenušava kupka i gel za..., 750 ml",
+          "url": "https://www.dm.hr/p/d/2195661/johnson-s-baby-kids-bubble-bath-djecja-pjenusava-kupka-i-gel-za-tusiranje",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:42.747Z",
+          "currentPriceCents": 725,
+          "currentPriceEurCents": 725,
+          "referencePriceCents": 725,
+          "referencePriceEurCents": 725
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Otroška kopel Bath & Wash, 750 ml",
+          "url": "https://www.dm.si/p/d/2195661/johnson-s-baby-otroska-kopel-bath-wash",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:51.159Z",
+          "currentPriceCents": 165,
+          "currentPriceEurCents": 165,
+          "referencePriceCents": 165,
+          "referencePriceEurCents": 165
         }
       ]
     },
@@ -1008,7 +1008,7 @@
       "productId": 1017,
       "brand": "NIVEA MEN",
       "isCountryExtreme": true,
-      "overallPercentDiff": 326.27,
+      "overallPercentDiff": 328.57,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1046,9 +1046,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:49.421Z",
           "currentPriceCents": 136900,
-          "currentPriceEurCents": 373,
+          "currentPriceEurCents": 371,
           "referencePriceCents": 136900,
-          "referencePriceEurCents": 373
+          "referencePriceEurCents": 371
         }
       ]
     },

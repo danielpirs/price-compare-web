@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-02T10:57:37.173Z",
+  "generatedAt": "2026-10-03T10:17:06.273Z",
   "fx": {
-    "asOf": "2026-10-01",
+    "asOf": "2026-10-02",
     "rates": {
-      "USD": 1.1298,
-      "JPY": 178.49,
-      "CZK": 24.459,
-      "DKK": 7.4758,
-      "GBP": 0.85373,
-      "HUF": 367.18,
-      "PLN": 4.3735,
-      "RON": 5.283,
-      "SEK": 11.331,
-      "CHF": 0.9437,
+      "USD": 1.1225,
+      "JPY": 176.99,
+      "CZK": 24.47,
+      "DKK": 7.4736,
+      "GBP": 0.85033,
+      "HUF": 369.18,
+      "PLN": 4.3775,
+      "RON": 5.3488,
+      "SEK": 11.29,
+      "CHF": 0.9279,
       "ISK": 137,
-      "NOK": 10.875,
-      "TRY": 55.3993,
-      "AUD": 1.6255,
-      "BRL": 5.862,
-      "CAD": 1.6095,
-      "CNY": 7.5748,
-      "HKD": 8.8658,
-      "IDR": 20274.71,
-      "ILS": 3.4755,
-      "INR": 108.832,
-      "KRW": 1537.96,
-      "MXN": 20.5251,
-      "MYR": 4.6147,
-      "NZD": 2.0121,
-      "PHP": 70.95,
-      "SGD": 1.446,
-      "THB": 38.023,
-      "ZAR": 18.6934
+      "NOK": 10.8315,
+      "TRY": 55.165,
+      "AUD": 1.6176,
+      "BRL": 5.861,
+      "CAD": 1.5984,
+      "CNY": 7.5259,
+      "HKD": 8.8084,
+      "IDR": 20149.32,
+      "ILS": 3.4408,
+      "INR": 108.1245,
+      "KRW": 1513.44,
+      "MXN": 20.5806,
+      "MYR": 4.5849,
+      "NZD": 2.0002,
+      "PHP": 70.265,
+      "SGD": 1.4366,
+      "THB": 37.71,
+      "ZAR": 18.7839
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -81,9 +81,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:28.621Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 272,
+          "currentPriceEurCents": 271,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 272
+          "referencePriceEurCents": 271
         }
       ]
     },
@@ -247,9 +247,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:30.488Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 272,
+          "currentPriceEurCents": 271,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 272
+          "referencePriceEurCents": 271
         }
       ]
     },
@@ -439,9 +439,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:35.276Z",
           "currentPriceCents": 54900,
-          "currentPriceEurCents": 150,
+          "currentPriceEurCents": 149,
           "referencePriceCents": 54900,
-          "referencePriceEurCents": 150
+          "referencePriceEurCents": 149
         }
       ]
     },
@@ -657,9 +657,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:29:59.422Z",
           "currentPriceCents": 79900,
-          "currentPriceEurCents": 218,
+          "currentPriceEurCents": 216,
           "referencePriceCents": 79900,
-          "referencePriceEurCents": 218
+          "referencePriceEurCents": 216
         }
       ]
     },
@@ -734,6 +734,41 @@
       ]
     },
     {
+      "productId": 54274,
+      "brand": "Cosrx",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 431.88,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Toner AHA/BHA Clarifying Treatment, 100 ml",
+          "url": "https://www.dm.de/p/d/1569494/cosrx-toner-aha-bha-clarifying-treatment",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:23.453Z",
+          "currentPriceCents": 1585,
+          "currentPriceEurCents": 1585,
+          "referencePriceCents": 1585,
+          "referencePriceEurCents": 1585
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "AHA-BHA bőrtisztító tonik, 150 ml",
+          "url": "https://www.dm.hu/p/d/1569494/cosrx-aha-bha-bortisztito-tonik",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:59.780Z",
+          "currentPriceCents": 109900,
+          "currentPriceEurCents": 298,
+          "referencePriceCents": 109900,
+          "referencePriceEurCents": 298
+        }
+      ]
+    },
+    {
       "productId": 19261,
       "brand": "essence",
       "isCountryExtreme": true,
@@ -778,41 +813,6 @@
           "currentPriceEurCents": 525,
           "referencePriceCents": 525,
           "referencePriceEurCents": 525
-        }
-      ]
-    },
-    {
-      "productId": 54274,
-      "brand": "Cosrx",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 430.1,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Toner AHA/BHA Clarifying Treatment, 100 ml",
-          "url": "https://www.dm.de/p/d/1569494/cosrx-toner-aha-bha-clarifying-treatment",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:23.453Z",
-          "currentPriceCents": 1585,
-          "currentPriceEurCents": 1585,
-          "referencePriceCents": 1585,
-          "referencePriceEurCents": 1585
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "AHA-BHA bőrtisztító tonik, 150 ml",
-          "url": "https://www.dm.hu/p/d/1569494/cosrx-aha-bha-bortisztito-tonik",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:59.780Z",
-          "currentPriceCents": 109900,
-          "currentPriceEurCents": 299,
-          "referencePriceCents": 109900,
-          "referencePriceEurCents": 299
         }
       ]
     },
@@ -1165,7 +1165,7 @@
       "productId": 47668,
       "brand": "Bondi Sands",
       "isCountryExtreme": true,
-      "overallPercentDiff": 363.33,
+      "overallPercentDiff": 366.44,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1190,9 +1190,57 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:57.806Z",
           "currentPriceCents": 54900,
-          "currentPriceEurCents": 150,
+          "currentPriceEurCents": 149,
           "referencePriceCents": 54900,
-          "referencePriceEurCents": 150
+          "referencePriceEurCents": 149
+        }
+      ]
+    },
+    {
+      "productId": 22164,
+      "brand": "dmBio",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 350,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Bio zelenjavni pripravek s koromačem, pastinakom,..., 190 g",
+          "url": "https://www.dm.si/p/d/1556322/dmbio-bio-zelenjavni-pripravek-s-koromacem-pastinakom-kuskusom-in-piscancem-6m",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:57.127Z",
+          "currentPriceCents": 30,
+          "currentPriceEurCents": 30,
+          "referencePriceCents": 30,
+          "referencePriceEurCents": 30
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Menü Fenchel-Pastinake mit Couscous und Huhn ab..., 190 g",
+          "url": "https://www.dm.de/p/d/1556322/dmbio-menue-fenchel-pastinake-mit-couscous-und-huhn-ab-dem-6-monat",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:01.151Z",
+          "currentPriceCents": 135,
+          "currentPriceEurCents": 135,
+          "referencePriceCents": 135,
+          "referencePriceEurCents": 135
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Bio bébimenü édeskömény-pasztinák kuszkusszal és..., 190 g",
+          "url": "https://www.dm.hu/p/d/1556322/dmbio-bio-bebimenu-edeskomeny-pasztinak-kuszkusszal-es-csirkevel-6-honapos-kortol",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:49.604Z",
+          "currentPriceCents": 49900,
+          "currentPriceEurCents": 135,
+          "referencePriceCents": 49900,
+          "referencePriceEurCents": 135
         }
       ]
     },
@@ -1299,9 +1347,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:22.557Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 190,
+          "currentPriceEurCents": 189,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 190
+          "referencePriceEurCents": 189
         }
       ]
     },
@@ -1347,44 +1395,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:29:57.331Z",
           "currentPriceCents": 59900,
-          "currentPriceEurCents": 163,
+          "currentPriceEurCents": 162,
           "referencePriceCents": 59900,
-          "referencePriceEurCents": 163
-        }
-      ]
-    },
-    {
-      "productId": 20527,
-      "brand": "Profissimo",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 333.33,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Dekorativna rustikalna sveča - siva, 1 kos",
-          "url": "https://www.dm.si/p/d/1693972/profissimo-dekorativna-rustikalna-sveca-siva",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:42.587Z",
-          "currentPriceCents": 45,
-          "currentPriceEurCents": 45,
-          "referencePriceCents": 45,
-          "referencePriceEurCents": 45
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Kerze rustik 100/68 greige, 1 St",
-          "url": "https://www.dm.de/p/d/1693972/profissimo-kerze-rustik-100-68-greige",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:39.343Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
+          "referencePriceEurCents": 162
         }
       ]
     }

@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-02T10:57:37.173Z",
+  "generatedAt": "2026-10-03T10:17:06.273Z",
   "fx": {
-    "asOf": "2026-10-01",
+    "asOf": "2026-10-02",
     "rates": {
-      "USD": 1.1298,
-      "JPY": 178.49,
-      "CZK": 24.459,
-      "DKK": 7.4758,
-      "GBP": 0.85373,
-      "HUF": 367.18,
-      "PLN": 4.3735,
-      "RON": 5.283,
-      "SEK": 11.331,
-      "CHF": 0.9437,
+      "USD": 1.1225,
+      "JPY": 176.99,
+      "CZK": 24.47,
+      "DKK": 7.4736,
+      "GBP": 0.85033,
+      "HUF": 369.18,
+      "PLN": 4.3775,
+      "RON": 5.3488,
+      "SEK": 11.29,
+      "CHF": 0.9279,
       "ISK": 137,
-      "NOK": 10.875,
-      "TRY": 55.3993,
-      "AUD": 1.6255,
-      "BRL": 5.862,
-      "CAD": 1.6095,
-      "CNY": 7.5748,
-      "HKD": 8.8658,
-      "IDR": 20274.71,
-      "ILS": 3.4755,
-      "INR": 108.832,
-      "KRW": 1537.96,
-      "MXN": 20.5251,
-      "MYR": 4.6147,
-      "NZD": 2.0121,
-      "PHP": 70.95,
-      "SGD": 1.446,
-      "THB": 38.023,
-      "ZAR": 18.6934
+      "NOK": 10.8315,
+      "TRY": 55.165,
+      "AUD": 1.6176,
+      "BRL": 5.861,
+      "CAD": 1.5984,
+      "CNY": 7.5259,
+      "HKD": 8.8084,
+      "IDR": 20149.32,
+      "ILS": 3.4408,
+      "INR": 108.1245,
+      "KRW": 1513.44,
+      "MXN": 20.5806,
+      "MYR": 4.5849,
+      "NZD": 2.0002,
+      "PHP": 70.265,
+      "SGD": 1.4366,
+      "THB": 37.71,
+      "ZAR": 18.7839
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -293,45 +293,10 @@
       ]
     },
     {
-      "productId": 16410,
-      "brand": "adidas",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 622.22,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Antiperspirant v spreju Ultra Fresh Control, 150 ml",
-          "url": "https://www.dm.si/p/d/3068360/adidas-antiperspirant-v-spreju-ultra-fresh-control",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:56.419Z",
-          "currentPriceCents": 390,
-          "currentPriceEurCents": 390,
-          "referencePriceCents": 390,
-          "referencePriceEurCents": 390
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Deo spray Ultra Fresh Control, 150 ml",
-          "url": "https://www.dm.hu/p/d/3068360/adidas-deo-spray-ultra-fresh-control",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:32:25.549Z",
-          "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
-          "referencePriceCents": 19900,
-          "referencePriceEurCents": 54
-        }
-      ]
-    },
-    {
       "productId": 9740,
       "brand": "Moschino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 618.06,
+      "overallPercentDiff": 622.3,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -369,9 +334,92 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:19.940Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 681,
+          "currentPriceEurCents": 677,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 681
+          "referencePriceEurCents": 677
+        }
+      ]
+    },
+    {
+      "productId": 16410,
+      "brand": "adidas",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 622.22,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Antiperspirant v spreju Ultra Fresh Control, 150 ml",
+          "url": "https://www.dm.si/p/d/3068360/adidas-antiperspirant-v-spreju-ultra-fresh-control",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:56.419Z",
+          "currentPriceCents": 390,
+          "currentPriceEurCents": 390,
+          "referencePriceCents": 390,
+          "referencePriceEurCents": 390
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Deo spray Ultra Fresh Control, 150 ml",
+          "url": "https://www.dm.hu/p/d/3068360/adidas-deo-spray-ultra-fresh-control",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:32:25.549Z",
+          "currentPriceCents": 19900,
+          "currentPriceEurCents": 54,
+          "referencePriceCents": 19900,
+          "referencePriceEurCents": 54
+        }
+      ]
+    },
+    {
+      "productId": 21037,
+      "brand": "Beauty of Joseon",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 567.25,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Vlažilna esenca za obraz z izvlečkom ginsenga, 150 ml",
+          "url": "https://www.dm.si/p/d/2486080/beauty-of-joseon-vlazilna-esenca-za-obraz-z-izvleckom-ginsenga",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:47.009Z",
+          "currentPriceCents": 990,
+          "currentPriceEurCents": 990,
+          "referencePriceCents": 990,
+          "referencePriceEurCents": 990
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Toner Ginseng Essence Water, 150 ml",
+          "url": "https://www.dm.at/p/d/2486080/beauty-of-joseon-toner-ginseng-essence-water",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:53.266Z",
+          "currentPriceCents": 1895,
+          "currentPriceEurCents": 1895,
+          "referencePriceCents": 1895,
+          "referencePriceEurCents": 1895
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Arcvíz frissítő és hidratáló, 80% tiszta..., 150 ml",
+          "url": "https://www.dm.hu/p/d/2486080/beauty-of-joseon-arcviz-frissito-es-hidratalo-80-tiszta-ginzeng-gyokervizzel",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:57.806Z",
+          "currentPriceCents": 104900,
+          "currentPriceEurCents": 284,
+          "referencePriceCents": 104900,
+          "referencePriceEurCents": 284
         }
       ]
     },
@@ -442,54 +490,6 @@
           "currentPriceEurCents": 54,
           "referencePriceCents": 19900,
           "referencePriceEurCents": 54
-        }
-      ]
-    },
-    {
-      "productId": 21037,
-      "brand": "Beauty of Joseon",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 562.59,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Vlažilna esenca za obraz z izvlečkom ginsenga, 150 ml",
-          "url": "https://www.dm.si/p/d/2486080/beauty-of-joseon-vlazilna-esenca-za-obraz-z-izvleckom-ginsenga",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:47.009Z",
-          "currentPriceCents": 990,
-          "currentPriceEurCents": 990,
-          "referencePriceCents": 990,
-          "referencePriceEurCents": 990
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Toner Ginseng Essence Water, 150 ml",
-          "url": "https://www.dm.at/p/d/2486080/beauty-of-joseon-toner-ginseng-essence-water",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:53.266Z",
-          "currentPriceCents": 1895,
-          "currentPriceEurCents": 1895,
-          "referencePriceCents": 1895,
-          "referencePriceEurCents": 1895
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Arcvíz frissítő és hidratáló, 80% tiszta..., 150 ml",
-          "url": "https://www.dm.hu/p/d/2486080/beauty-of-joseon-arcviz-frissito-es-hidratalo-80-tiszta-ginzeng-gyokervizzel",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:57.806Z",
-          "currentPriceCents": 104900,
-          "currentPriceEurCents": 286,
-          "referencePriceCents": 104900,
-          "referencePriceEurCents": 286
         }
       ]
     },
@@ -654,7 +654,7 @@
       "productId": 8829,
       "brand": "HADA LABO TOKYO",
       "isCountryExtreme": true,
-      "overallPercentDiff": 486.76,
+      "overallPercentDiff": 490.24,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -705,9 +705,57 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:57.806Z",
           "currentPriceCents": 124900,
-          "currentPriceEurCents": 340,
+          "currentPriceEurCents": 338,
           "referencePriceCents": 124900,
-          "referencePriceEurCents": 340
+          "referencePriceEurCents": 338
+        }
+      ]
+    },
+    {
+      "productId": 3907,
+      "brand": "COREGA",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 466.67,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Krema za pričvršćivanje zubne proteze Power Max –..., 40 g",
+          "url": "https://www.dm.hr/p/d/2289511/corega-krema-za-pricvrscivanje-zubne-proteze-power-max-max-hold-seal",
+          "isPromo": false,
+          "observedAt": "2026-08-28T16:09:08.648Z",
+          "currentPriceCents": 765,
+          "currentPriceEurCents": 765,
+          "referencePriceCents": 765,
+          "referencePriceEurCents": 765
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Pričvrstilna krema za zobne proteze MAX HOLD +..., 40 g",
+          "url": "https://www.dm.si/p/d/2289511/corega-pricvrstilna-krema-za-zobne-proteze-max-hold-seal",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:05.929Z",
+          "currentPriceCents": 595,
+          "currentPriceEurCents": 595,
+          "referencePriceCents": 595,
+          "referencePriceEurCents": 595
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Műfogsorrögzítő krém max, 40 g",
+          "url": "https://www.dm.hu/p/d/2289511/corega-mufogsorrogzito-krem-max",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:49.421Z",
+          "currentPriceCents": 49900,
+          "currentPriceEurCents": 135,
+          "referencePriceCents": 49900,
+          "referencePriceEurCents": 135
         }
       ]
     },
@@ -804,54 +852,6 @@
           "currentPriceEurCents": 76,
           "referencePriceCents": 27900,
           "referencePriceEurCents": 76
-        }
-      ]
-    },
-    {
-      "productId": 3907,
-      "brand": "COREGA",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 462.5,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Krema za pričvršćivanje zubne proteze Power Max –..., 40 g",
-          "url": "https://www.dm.hr/p/d/2289511/corega-krema-za-pricvrscivanje-zubne-proteze-power-max-max-hold-seal",
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:09:08.648Z",
-          "currentPriceCents": 765,
-          "currentPriceEurCents": 765,
-          "referencePriceCents": 765,
-          "referencePriceEurCents": 765
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Pričvrstilna krema za zobne proteze MAX HOLD +..., 40 g",
-          "url": "https://www.dm.si/p/d/2289511/corega-pricvrstilna-krema-za-zobne-proteze-max-hold-seal",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:05.929Z",
-          "currentPriceCents": 595,
-          "currentPriceEurCents": 595,
-          "referencePriceCents": 595,
-          "referencePriceEurCents": 595
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Műfogsorrögzítő krém max, 40 g",
-          "url": "https://www.dm.hu/p/d/2289511/corega-mufogsorrogzito-krem-max",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:49.421Z",
-          "currentPriceCents": 49900,
-          "currentPriceEurCents": 136,
-          "referencePriceCents": 49900,
-          "referencePriceEurCents": 136
         }
       ]
     },
@@ -987,6 +987,67 @@
       ]
     },
     {
+      "productId": 15006,
+      "brand": "NIVEA",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 442.86,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Black&White Invisible Pure dezodorans u spreju, 150 ml",
+          "url": "https://www.dm.hr/p/d/1830345/nivea-black-white-invisible-pure-dezodorans-u-spreju",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:30.466Z",
+          "currentPriceCents": 380,
+          "currentPriceEurCents": 380,
+          "referencePriceCents": 380,
+          "referencePriceEurCents": 380
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Dezodorant Black & White Invisible Pure, 150 ml",
+          "url": "https://www.dm.si/p/d/1830345/nivea-dezodorant-black-white-invisible-pure",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:31.741Z",
+          "currentPriceCents": 175,
+          "currentPriceEurCents": 175,
+          "referencePriceCents": 175,
+          "referencePriceEurCents": 175
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Antitranspirant Deospray Black and White..., 150 ml",
+          "url": "https://www.dm.at/p/d/1830345/nivea-antitranspirant-deospray-black-and-white-invisible-pure",
+          "isPromo": true,
+          "observedAt": "2026-09-29T10:39:18.230Z",
+          "currentPriceCents": 150,
+          "currentPriceEurCents": 150,
+          "referencePriceCents": 315,
+          "referencePriceEurCents": 315
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Deo spray Black & White Invisible Pure, 150 ml",
+          "url": "https://www.dm.hu/p/d/1830345/nivea-deo-spray-black-white-invisible-pure",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:57.806Z",
+          "currentPriceCents": 25900,
+          "currentPriceEurCents": 70,
+          "referencePriceCents": 25900,
+          "referencePriceEurCents": 70
+        }
+      ]
+    },
+    {
       "productId": 6888,
       "brand": "ebelin",
       "isCountryExtreme": true,
@@ -1061,71 +1122,10 @@
       ]
     },
     {
-      "productId": 15006,
-      "brand": "NIVEA",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 435.21,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Black&White Invisible Pure dezodorans u spreju, 150 ml",
-          "url": "https://www.dm.hr/p/d/1830345/nivea-black-white-invisible-pure-dezodorans-u-spreju",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:30.466Z",
-          "currentPriceCents": 380,
-          "currentPriceEurCents": 380,
-          "referencePriceCents": 380,
-          "referencePriceEurCents": 380
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Dezodorant Black & White Invisible Pure, 150 ml",
-          "url": "https://www.dm.si/p/d/1830345/nivea-dezodorant-black-white-invisible-pure",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:31.741Z",
-          "currentPriceCents": 175,
-          "currentPriceEurCents": 175,
-          "referencePriceCents": 175,
-          "referencePriceEurCents": 175
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Antitranspirant Deospray Black and White..., 150 ml",
-          "url": "https://www.dm.at/p/d/1830345/nivea-antitranspirant-deospray-black-and-white-invisible-pure",
-          "isPromo": true,
-          "observedAt": "2026-09-29T10:39:18.230Z",
-          "currentPriceCents": 150,
-          "currentPriceEurCents": 150,
-          "referencePriceCents": 315,
-          "referencePriceEurCents": 315
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Deo spray Black & White Invisible Pure, 150 ml",
-          "url": "https://www.dm.hu/p/d/1830345/nivea-deo-spray-black-white-invisible-pure",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:57.806Z",
-          "currentPriceCents": 25900,
-          "currentPriceEurCents": 71,
-          "referencePriceCents": 25900,
-          "referencePriceEurCents": 71
-        }
-      ]
-    },
-    {
       "productId": 54274,
       "brand": "Cosrx",
       "isCountryExtreme": true,
-      "overallPercentDiff": 430.1,
+      "overallPercentDiff": 431.88,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1150,9 +1150,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:31:59.780Z",
           "currentPriceCents": 109900,
-          "currentPriceEurCents": 299,
+          "currentPriceEurCents": 298,
           "referencePriceCents": 109900,
-          "referencePriceEurCents": 299
+          "referencePriceEurCents": 298
         }
       ]
     },
@@ -1160,7 +1160,7 @@
       "productId": 33703,
       "brand": "Scholl",
       "isCountryExtreme": true,
-      "overallPercentDiff": 426.44,
+      "overallPercentDiff": 428.87,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1198,9 +1198,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:59.780Z",
           "currentPriceCents": 159900,
-          "currentPriceEurCents": 435,
+          "currentPriceEurCents": 433,
           "referencePriceCents": 159900,
-          "referencePriceEurCents": 435
+          "referencePriceEurCents": 433
         }
       ]
     },
@@ -1236,6 +1236,150 @@
           "currentPriceEurCents": 65,
           "referencePriceCents": 23900,
           "referencePriceEurCents": 65
+        }
+      ]
+    },
+    {
+      "productId": 18554,
+      "brand": "alverde NATURKOSMETIK",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 414.93,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Lak za nohte Color & Care, 140 Orchid Pink, 10 ml",
+          "url": "https://www.dm.si/p/d/3062387/alverde-naturkosmetik-lak-za-nohte-color-care-140-orchid-pink",
+          "isPromo": true,
+          "observedAt": "2026-09-12T12:09:41.061Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 199,
+          "referencePriceEurCents": 199
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Nagellack Color & Care 140 Orchid Pink, 10 ml",
+          "url": "https://www.dm.at/p/d/3062387/alverde-naturkosmetik-nagellack-color-und-care-140-orchid-pink",
+          "isPromo": true,
+          "observedAt": "2026-09-12T12:09:48.443Z",
+          "currentPriceCents": 175,
+          "currentPriceEurCents": 175,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Körömlakk Color & Care, 140 Orchid Pink, 10 ml",
+          "url": "https://www.dm.hu/p/d/3062387/alverde-naturkosmetik-koromlakk-color-care-140-orchid-pink",
+          "isPromo": true,
+          "observedAt": "2026-09-12T12:10:03.246Z",
+          "currentPriceCents": 9900,
+          "currentPriceEurCents": 27,
+          "referencePriceCents": 24900,
+          "referencePriceEurCents": 67
+        }
+      ]
+    },
+    {
+      "productId": 19959,
+      "brand": "ebelin",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 414.93,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Blazinice za čiščenje kože z mrežico za pranje, 10 kos",
+          "url": "https://www.dm.si/p/d/1589774/ebelin-blazinice-za-ciscenje-koze-z-mrezico-za-pranje",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:36.892Z",
+          "currentPriceCents": 345,
+          "currentPriceEurCents": 345,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Sminklemosó korong mosóhálóval, 10 db",
+          "url": "https://www.dm.hu/p/d/1589774/ebelin-sminklemoso-korong-mosohaloval",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:59.780Z",
+          "currentPriceCents": 24900,
+          "currentPriceEurCents": 67,
+          "referencePriceCents": 24900,
+          "referencePriceEurCents": 67
+        }
+      ]
+    },
+    {
+      "productId": 7148,
+      "brand": "HADA LABO TOKYO",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 412.86,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Super Hyaluronic Acid micelarna voda, 400 ml",
+          "url": "https://www.dm.hr/p/d/2975965/hada-labo-tokyo-super-hyaluronic-acid-micelarna-voda",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:41.759Z",
+          "currentPriceCents": 1495,
+          "currentPriceEurCents": 1495,
+          "referencePriceCents": 1495,
+          "referencePriceEurCents": 1495
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "MAKE-UP REMOVING micelarna voda, 400 ml",
+          "url": "https://www.dm.si/p/d/2975965/hada-labo-tokyo-make-up-removing-micelarna-voda",
+          "isPromo": true,
+          "observedAt": "2026-09-30T14:53:59.691Z",
+          "currentPriceCents": 1080,
+          "currentPriceEurCents": 1080,
+          "referencePriceCents": 1350,
+          "referencePriceEurCents": 1350
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Mizellenwasser Make-up Remover, 400 ml",
+          "url": "https://www.dm.at/p/d/2975965/hada-labo-tokyo-mizellenwasser-make-up-remover",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:39.471Z",
+          "currentPriceCents": 1595,
+          "currentPriceEurCents": 1595,
+          "referencePriceCents": 1595,
+          "referencePriceEurCents": 1595
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Hidratáló Sminklemosó Micellás Víz, 400 ml",
+          "url": "https://www.dm.hu/p/d/2975965/hada-labo-tokyo-hidratalo-sminklemoso-micellas-viz",
+          "isPromo": true,
+          "observedAt": "2026-09-01T12:31:57.806Z",
+          "currentPriceCents": 114900,
+          "currentPriceEurCents": 311,
+          "referencePriceCents": 114900,
+          "referencePriceEurCents": 311
         }
       ]
     },
@@ -1288,154 +1432,10 @@
       ]
     },
     {
-      "productId": 7148,
-      "brand": "HADA LABO TOKYO",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 409.58,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Super Hyaluronic Acid micelarna voda, 400 ml",
-          "url": "https://www.dm.hr/p/d/2975965/hada-labo-tokyo-super-hyaluronic-acid-micelarna-voda",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:41.759Z",
-          "currentPriceCents": 1495,
-          "currentPriceEurCents": 1495,
-          "referencePriceCents": 1495,
-          "referencePriceEurCents": 1495
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "MAKE-UP REMOVING micelarna voda, 400 ml",
-          "url": "https://www.dm.si/p/d/2975965/hada-labo-tokyo-make-up-removing-micelarna-voda",
-          "isPromo": true,
-          "observedAt": "2026-09-30T14:53:59.691Z",
-          "currentPriceCents": 1080,
-          "currentPriceEurCents": 1080,
-          "referencePriceCents": 1350,
-          "referencePriceEurCents": 1350
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Mizellenwasser Make-up Remover, 400 ml",
-          "url": "https://www.dm.at/p/d/2975965/hada-labo-tokyo-mizellenwasser-make-up-remover",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:39.471Z",
-          "currentPriceCents": 1595,
-          "currentPriceEurCents": 1595,
-          "referencePriceCents": 1595,
-          "referencePriceEurCents": 1595
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Hidratáló Sminklemosó Micellás Víz, 400 ml",
-          "url": "https://www.dm.hu/p/d/2975965/hada-labo-tokyo-hidratalo-sminklemoso-micellas-viz",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:57.806Z",
-          "currentPriceCents": 114900,
-          "currentPriceEurCents": 313,
-          "referencePriceCents": 114900,
-          "referencePriceEurCents": 313
-        }
-      ]
-    },
-    {
-      "productId": 18554,
-      "brand": "alverde NATURKOSMETIK",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 407.35,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Lak za nohte Color & Care, 140 Orchid Pink, 10 ml",
-          "url": "https://www.dm.si/p/d/3062387/alverde-naturkosmetik-lak-za-nohte-color-care-140-orchid-pink",
-          "isPromo": true,
-          "observedAt": "2026-09-12T12:09:41.061Z",
-          "currentPriceCents": 99,
-          "currentPriceEurCents": 99,
-          "referencePriceCents": 199,
-          "referencePriceEurCents": 199
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Nagellack Color & Care 140 Orchid Pink, 10 ml",
-          "url": "https://www.dm.at/p/d/3062387/alverde-naturkosmetik-nagellack-color-und-care-140-orchid-pink",
-          "isPromo": true,
-          "observedAt": "2026-09-12T12:09:48.443Z",
-          "currentPriceCents": 175,
-          "currentPriceEurCents": 175,
-          "referencePriceCents": 345,
-          "referencePriceEurCents": 345
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Körömlakk Color & Care, 140 Orchid Pink, 10 ml",
-          "url": "https://www.dm.hu/p/d/3062387/alverde-naturkosmetik-koromlakk-color-care-140-orchid-pink",
-          "isPromo": true,
-          "observedAt": "2026-09-12T12:10:03.246Z",
-          "currentPriceCents": 9900,
-          "currentPriceEurCents": 27,
-          "referencePriceCents": 24900,
-          "referencePriceEurCents": 68
-        }
-      ]
-    },
-    {
-      "productId": 19959,
-      "brand": "ebelin",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 407.35,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Blazinice za čiščenje kože z mrežico za pranje, 10 kos",
-          "url": "https://www.dm.si/p/d/1589774/ebelin-blazinice-za-ciscenje-koze-z-mrezico-za-pranje",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:36.892Z",
-          "currentPriceCents": 345,
-          "currentPriceEurCents": 345,
-          "referencePriceCents": 345,
-          "referencePriceEurCents": 345
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Sminklemosó korong mosóhálóval, 10 db",
-          "url": "https://www.dm.hu/p/d/1589774/ebelin-sminklemoso-korong-mosohaloval",
-          "isPromo": true,
-          "observedAt": "2026-09-01T12:31:59.780Z",
-          "currentPriceCents": 24900,
-          "currentPriceEurCents": 68,
-          "referencePriceCents": 24900,
-          "referencePriceEurCents": 68
-        }
-      ]
-    },
-    {
       "productId": 32548,
       "brand": "Nature Blossom",
       "isCountryExtreme": true,
-      "overallPercentDiff": 387.75,
+      "overallPercentDiff": 390.15,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1460,9 +1460,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:19.940Z",
           "currentPriceCents": 149900,
-          "currentPriceEurCents": 408,
+          "currentPriceEurCents": 406,
           "referencePriceCents": 149900,
-          "referencePriceEurCents": 408
+          "referencePriceEurCents": 406
         }
       ]
     }

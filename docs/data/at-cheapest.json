@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-02T10:57:37.173Z",
+  "generatedAt": "2026-10-03T10:17:06.273Z",
   "fx": {
-    "asOf": "2026-10-01",
+    "asOf": "2026-10-02",
     "rates": {
-      "USD": 1.1298,
-      "JPY": 178.49,
-      "CZK": 24.459,
-      "DKK": 7.4758,
-      "GBP": 0.85373,
-      "HUF": 367.18,
-      "PLN": 4.3735,
-      "RON": 5.283,
-      "SEK": 11.331,
-      "CHF": 0.9437,
+      "USD": 1.1225,
+      "JPY": 176.99,
+      "CZK": 24.47,
+      "DKK": 7.4736,
+      "GBP": 0.85033,
+      "HUF": 369.18,
+      "PLN": 4.3775,
+      "RON": 5.3488,
+      "SEK": 11.29,
+      "CHF": 0.9279,
       "ISK": 137,
-      "NOK": 10.875,
-      "TRY": 55.3993,
-      "AUD": 1.6255,
-      "BRL": 5.862,
-      "CAD": 1.6095,
-      "CNY": 7.5748,
-      "HKD": 8.8658,
-      "IDR": 20274.71,
-      "ILS": 3.4755,
-      "INR": 108.832,
-      "KRW": 1537.96,
-      "MXN": 20.5251,
-      "MYR": 4.6147,
-      "NZD": 2.0121,
-      "PHP": 70.95,
-      "SGD": 1.446,
-      "THB": 38.023,
-      "ZAR": 18.6934
+      "NOK": 10.8315,
+      "TRY": 55.165,
+      "AUD": 1.6176,
+      "BRL": 5.861,
+      "CAD": 1.5984,
+      "CNY": 7.5259,
+      "HKD": 8.8084,
+      "IDR": 20149.32,
+      "ILS": 3.4408,
+      "INR": 108.1245,
+      "KRW": 1513.44,
+      "MXN": 20.5806,
+      "MYR": 4.5849,
+      "NZD": 2.0002,
+      "PHP": 70.265,
+      "SGD": 1.4366,
+      "THB": 37.71,
+      "ZAR": 18.7839
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -43,7 +43,7 @@
       "productId": 3093,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 336,
+      "overallPercentDiff": 332,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -94,9 +94,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:43.995Z",
           "currentPriceCents": 39900,
-          "currentPriceEurCents": 109,
+          "currentPriceEurCents": 108,
           "referencePriceCents": 39900,
-          "referencePriceEurCents": 109
+          "referencePriceEurCents": 108
         }
       ]
     },
@@ -104,7 +104,7 @@
       "productId": 33693,
       "brand": "TOM TAILOR",
       "isCountryExtreme": true,
-      "overallPercentDiff": 332.28,
+      "overallPercentDiff": 329.95,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -129,9 +129,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:22.854Z",
           "currentPriceCents": 1499900,
-          "currentPriceEurCents": 4085,
+          "currentPriceEurCents": 4063,
           "referencePriceCents": 1499900,
-          "referencePriceEurCents": 4085
+          "referencePriceEurCents": 4063
         }
       ]
     },
@@ -139,7 +139,7 @@
       "productId": 11323,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 302.84,
+      "overallPercentDiff": 300.71,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -190,9 +190,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3404,
+          "currentPriceEurCents": 3386,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3404
+          "referencePriceEurCents": 3386
         }
       ]
     },
@@ -200,7 +200,7 @@
       "productId": 10472,
       "brand": "SABRINA CARPENTER",
       "isCountryExtreme": true,
-      "overallPercentDiff": 283.22,
+      "overallPercentDiff": 281.11,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -238,44 +238,9 @@
           "isPromo": true,
           "observedAt": "2026-09-07T14:14:22.199Z",
           "currentPriceCents": 699900,
-          "currentPriceEurCents": 1906,
+          "currentPriceEurCents": 1896,
           "referencePriceCents": 1399900,
-          "referencePriceEurCents": 3813
-        }
-      ]
-    },
-    {
-      "productId": 37118,
-      "brand": "NIVEA",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 254.78,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Abschminktücher Erfrischend, 25 St",
-          "url": "https://www.dm.at/p/d/3123479/nivea-abschminktuecher-erfrischend",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:37:49.898Z",
-          "currentPriceCents": 115,
-          "currentPriceEurCents": 115,
-          "referencePriceCents": 115,
-          "referencePriceEurCents": 115
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Frissítő arctisztító kendő, 25 db",
-          "url": "https://www.dm.hu/p/d/3123479/nivea-frissito-arctisztito-kendo",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:13.914Z",
-          "currentPriceCents": 149900,
-          "currentPriceEurCents": 408,
-          "referencePriceCents": 149900,
-          "referencePriceEurCents": 408
+          "referencePriceEurCents": 3792
         }
       ]
     },
@@ -315,10 +280,45 @@
       ]
     },
     {
+      "productId": 37118,
+      "brand": "NIVEA",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 253.04,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Abschminktücher Erfrischend, 25 St",
+          "url": "https://www.dm.at/p/d/3123479/nivea-abschminktuecher-erfrischend",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:37:49.898Z",
+          "currentPriceCents": 115,
+          "currentPriceEurCents": 115,
+          "referencePriceCents": 115,
+          "referencePriceEurCents": 115
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Frissítő arctisztító kendő, 25 db",
+          "url": "https://www.dm.hu/p/d/3123479/nivea-frissito-arctisztito-kendo",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:13.914Z",
+          "currentPriceCents": 149900,
+          "currentPriceEurCents": 406,
+          "referencePriceCents": 149900,
+          "referencePriceEurCents": 406
+        }
+      ]
+    },
+    {
       "productId": 9016,
       "brand": "SABRINA CARPENTER",
       "isCountryExtreme": true,
-      "overallPercentDiff": 228.11,
+      "overallPercentDiff": 226.35,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -382,9 +382,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1499900,
-          "currentPriceEurCents": 4085,
+          "currentPriceEurCents": 4063,
           "referencePriceCents": 1499900,
-          "referencePriceEurCents": 4085
+          "referencePriceEurCents": 4063
         }
       ]
     },
@@ -392,7 +392,7 @@
       "productId": 32566,
       "brand": "Carefree",
       "isCountryExtreme": true,
-      "overallPercentDiff": 226.4,
+      "overallPercentDiff": 224.8,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -430,9 +430,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:43.995Z",
           "currentPriceCents": 149900,
-          "currentPriceEurCents": 408,
+          "currentPriceEurCents": 406,
           "referencePriceCents": 149900,
-          "referencePriceEurCents": 408
+          "referencePriceEurCents": 406
         }
       ]
     },
@@ -440,7 +440,7 @@
       "productId": 34287,
       "brand": "POLICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 212.73,
+      "overallPercentDiff": 211,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -465,9 +465,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1199900,
-          "currentPriceEurCents": 3268,
+          "currentPriceEurCents": 3250,
           "referencePriceCents": 1199900,
-          "referencePriceEurCents": 3268
+          "referencePriceEurCents": 3250
         }
       ]
     },
@@ -475,7 +475,7 @@
       "productId": 35767,
       "brand": "POLICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 209.7,
+      "overallPercentDiff": 208.03,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -500,9 +500,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:22.854Z",
           "currentPriceCents": 1699900,
-          "currentPriceEurCents": 4630,
+          "currentPriceEurCents": 4605,
           "referencePriceCents": 1699900,
-          "referencePriceEurCents": 4630
+          "referencePriceEurCents": 4605
         }
       ]
     },
@@ -510,7 +510,7 @@
       "productId": 35884,
       "brand": "POLICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 209.7,
+      "overallPercentDiff": 208.03,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -535,9 +535,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:07.326Z",
           "currentPriceCents": 1699900,
-          "currentPriceEurCents": 4630,
+          "currentPriceEurCents": 4605,
           "referencePriceCents": 1699900,
-          "referencePriceEurCents": 4630
+          "referencePriceEurCents": 4605
         }
       ]
     },
@@ -593,7 +593,7 @@
       "productId": 30380,
       "brand": "Schär",
       "isCountryExtreme": true,
-      "overallPercentDiff": 199.47,
+      "overallPercentDiff": 197.89,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -631,9 +631,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:33:11.663Z",
           "currentPriceCents": 208900,
-          "currentPriceEurCents": 569,
+          "currentPriceEurCents": 566,
           "referencePriceCents": 208900,
-          "referencePriceEurCents": 569
+          "referencePriceEurCents": 566
         }
       ]
     },
@@ -641,7 +641,7 @@
       "productId": 21045,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 197.27,
+      "overallPercentDiff": 195.45,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -679,9 +679,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:37.213Z",
           "currentPriceCents": 119900,
-          "currentPriceEurCents": 327,
+          "currentPriceEurCents": 325,
           "referencePriceCents": 119900,
-          "referencePriceEurCents": 327
+          "referencePriceEurCents": 325
         }
       ]
     },
@@ -730,54 +730,6 @@
           "currentPriceEurCents": 845,
           "referencePriceCents": 845,
           "referencePriceEurCents": 845
-        }
-      ]
-    },
-    {
-      "productId": 27011,
-      "brand": "Frosch",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 195.25,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Hygienereiniger Waschmaschine Citrus, 250 g",
-          "url": "https://www.dm.at/p/d/1489116/frosch-hygienereiniger-waschmaschine-citrus",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:57.773Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Hygienereiniger Waschmaschine Citrus, 250 g",
-          "url": "https://www.dm.de/p/d/1489116/frosch-hygienereiniger-waschmaschine-citrus",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:36.786Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Higiéniás mosógéptisztító por, 250 g",
-          "url": "https://www.dm.hu/p/d/1489116/frosch-higienias-mosogeptisztito-por",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:43.995Z",
-          "currentPriceCents": 319900,
-          "currentPriceEurCents": 871,
-          "referencePriceCents": 319900,
-          "referencePriceEurCents": 871
         }
       ]
     },
@@ -843,10 +795,58 @@
       ]
     },
     {
+      "productId": 27011,
+      "brand": "Frosch",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 193.9,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Hygienereiniger Waschmaschine Citrus, 250 g",
+          "url": "https://www.dm.at/p/d/1489116/frosch-hygienereiniger-waschmaschine-citrus",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:57.773Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Hygienereiniger Waschmaschine Citrus, 250 g",
+          "url": "https://www.dm.de/p/d/1489116/frosch-hygienereiniger-waschmaschine-citrus",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:36.786Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Higiéniás mosógéptisztító por, 250 g",
+          "url": "https://www.dm.hu/p/d/1489116/frosch-higienias-mosogeptisztito-por",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:43.995Z",
+          "currentPriceCents": 319900,
+          "currentPriceEurCents": 867,
+          "referencePriceCents": 319900,
+          "referencePriceEurCents": 867
+        }
+      ]
+    },
+    {
       "productId": 2621,
       "brand": "s.Oliver",
       "isCountryExtreme": true,
-      "overallPercentDiff": 191.19,
+      "overallPercentDiff": 189.56,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -910,9 +910,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:32.921Z",
           "currentPriceCents": 849900,
-          "currentPriceEurCents": 2315,
+          "currentPriceEurCents": 2302,
           "referencePriceCents": 849900,
-          "referencePriceEurCents": 2315
+          "referencePriceEurCents": 2302
         }
       ]
     },
@@ -920,7 +920,7 @@
       "productId": 31206,
       "brand": "Jaguar",
       "isCountryExtreme": true,
-      "overallPercentDiff": 188.25,
+      "overallPercentDiff": 186.69,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -958,9 +958,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1899900,
-          "currentPriceEurCents": 5174,
+          "currentPriceEurCents": 5146,
           "referencePriceCents": 1899900,
-          "referencePriceEurCents": 5174
+          "referencePriceEurCents": 5146
         }
       ]
     },
@@ -968,7 +968,7 @@
       "productId": 36552,
       "brand": "Jaguar",
       "isCountryExtreme": true,
-      "overallPercentDiff": 188.25,
+      "overallPercentDiff": 186.69,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -993,9 +993,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1899900,
-          "currentPriceEurCents": 5174,
+          "currentPriceEurCents": 5146,
           "referencePriceCents": 1899900,
-          "referencePriceEurCents": 5174
+          "referencePriceEurCents": 5146
         }
       ]
     },
@@ -1003,7 +1003,7 @@
       "productId": 15608,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 186.32,
+      "overallPercentDiff": 185.26,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1054,9 +1054,9 @@
           "isPromo": false,
           "observedAt": "2026-09-24T13:32:19.547Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 272,
+          "currentPriceEurCents": 271,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 272
+          "referencePriceEurCents": 271
         }
       ]
     },
@@ -1163,44 +1163,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:30:35.474Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 681,
+          "currentPriceEurCents": 677,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 681
-        }
-      ]
-    },
-    {
-      "productId": 26147,
-      "brand": "DAVID BECKHAM",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 173.67,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Eau de Toilette Respect, 40 ml",
-          "url": "https://www.dm.at/p/d/1884010/david-beckham-eau-de-toilette-respect",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:35:40.418Z",
-          "currentPriceCents": 995,
-          "currentPriceEurCents": 995,
-          "referencePriceCents": 995,
-          "referencePriceEurCents": 995
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Férfi EdT Respect, 40 ml",
-          "url": "https://www.dm.hu/p/d/1884010/david-beckham-ferfi-edt-respect",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:00.665Z",
-          "currentPriceCents": 999900,
-          "currentPriceEurCents": 2723,
-          "referencePriceCents": 999900,
-          "referencePriceEurCents": 2723
+          "referencePriceEurCents": 677
         }
       ]
     },
@@ -1240,10 +1205,80 @@
       ]
     },
     {
+      "productId": 26147,
+      "brand": "DAVID BECKHAM",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 172.16,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Eau de Toilette Respect, 40 ml",
+          "url": "https://www.dm.at/p/d/1884010/david-beckham-eau-de-toilette-respect",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:35:40.418Z",
+          "currentPriceCents": 995,
+          "currentPriceEurCents": 995,
+          "referencePriceCents": 995,
+          "referencePriceEurCents": 995
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Férfi EdT Respect, 40 ml",
+          "url": "https://www.dm.hu/p/d/1884010/david-beckham-ferfi-edt-respect",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:00.665Z",
+          "currentPriceCents": 999900,
+          "currentPriceEurCents": 2708,
+          "referencePriceCents": 999900,
+          "referencePriceEurCents": 2708
+        }
+      ]
+    },
+    {
+      "productId": 33165,
+      "brand": "INAO",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 171.82,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Serum Bright Sense Hydra Plump & Glow, 30 ml",
+          "url": "https://www.dm.at/p/d/2969814/inao-serum-bright-sense-hydra-plump-und-glow",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:37:11.756Z",
+          "currentPriceCents": 550,
+          "currentPriceEurCents": 550,
+          "referencePriceCents": 550,
+          "referencePriceEurCents": 550
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Serum Bright Sense Hydra Plump & Glow, 30 ml",
+          "url": "https://www.dm.de/p/d/2969814/inao-serum-bright-sense-hydra-plump-und-glow",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:27.570Z",
+          "currentPriceCents": 1495,
+          "currentPriceEurCents": 1495,
+          "referencePriceCents": 1495,
+          "referencePriceEurCents": 1495
+        }
+      ]
+    },
+    {
       "productId": 33168,
       "brand": "WILKINSON SWORD",
       "isCountryExtreme": true,
-      "overallPercentDiff": 172.31,
+      "overallPercentDiff": 170.88,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1268,9 +1303,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:34.751Z",
           "currentPriceCents": 1599900,
-          "currentPriceEurCents": 4357,
+          "currentPriceEurCents": 4334,
           "referencePriceCents": 1599900,
-          "referencePriceEurCents": 4357
+          "referencePriceEurCents": 4334
         }
       ]
     },
@@ -1278,7 +1313,7 @@
       "productId": 32565,
       "brand": "Carefree",
       "isCountryExtreme": true,
-      "overallPercentDiff": 172.14,
+      "overallPercentDiff": 170.71,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1316,44 +1351,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:29:59.422Z",
           "currentPriceCents": 139900,
-          "currentPriceEurCents": 381,
+          "currentPriceEurCents": 379,
           "referencePriceCents": 139900,
-          "referencePriceEurCents": 381
-        }
-      ]
-    },
-    {
-      "productId": 33165,
-      "brand": "INAO",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 171.82,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Serum Bright Sense Hydra Plump & Glow, 30 ml",
-          "url": "https://www.dm.at/p/d/2969814/inao-serum-bright-sense-hydra-plump-und-glow",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:37:11.756Z",
-          "currentPriceCents": 550,
-          "currentPriceEurCents": 550,
-          "referencePriceCents": 550,
-          "referencePriceEurCents": 550
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Serum Bright Sense Hydra Plump & Glow, 30 ml",
-          "url": "https://www.dm.de/p/d/2969814/inao-serum-bright-sense-hydra-plump-und-glow",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:27.570Z",
-          "currentPriceCents": 1495,
-          "currentPriceEurCents": 1495,
-          "referencePriceCents": 1495,
-          "referencePriceEurCents": 1495
+          "referencePriceEurCents": 379
         }
       ]
     },
@@ -1399,9 +1399,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:30:32.566Z",
           "currentPriceCents": 469900,
-          "currentPriceEurCents": 1280,
+          "currentPriceEurCents": 1273,
           "referencePriceCents": 469900,
-          "referencePriceEurCents": 1280
+          "referencePriceEurCents": 1273
         }
       ]
     },
@@ -1409,7 +1409,7 @@
       "productId": 32069,
       "brand": "REAL TECHNIQUES",
       "isCountryExtreme": true,
-      "overallPercentDiff": 163.15,
+      "overallPercentDiff": 161.57,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1434,9 +1434,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:33:07.322Z",
           "currentPriceCents": 429900,
-          "currentPriceEurCents": 1171,
+          "currentPriceEurCents": 1164,
           "referencePriceCents": 429900,
-          "referencePriceEurCents": 1171
+          "referencePriceEurCents": 1164
         }
       ]
     }

@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-02T10:57:37.173Z",
+  "generatedAt": "2026-10-03T10:17:06.273Z",
   "fx": {
-    "asOf": "2026-10-01",
+    "asOf": "2026-10-02",
     "rates": {
-      "USD": 1.1298,
-      "JPY": 178.49,
-      "CZK": 24.459,
-      "DKK": 7.4758,
-      "GBP": 0.85373,
-      "HUF": 367.18,
-      "PLN": 4.3735,
-      "RON": 5.283,
-      "SEK": 11.331,
-      "CHF": 0.9437,
+      "USD": 1.1225,
+      "JPY": 176.99,
+      "CZK": 24.47,
+      "DKK": 7.4736,
+      "GBP": 0.85033,
+      "HUF": 369.18,
+      "PLN": 4.3775,
+      "RON": 5.3488,
+      "SEK": 11.29,
+      "CHF": 0.9279,
       "ISK": 137,
-      "NOK": 10.875,
-      "TRY": 55.3993,
-      "AUD": 1.6255,
-      "BRL": 5.862,
-      "CAD": 1.6095,
-      "CNY": 7.5748,
-      "HKD": 8.8658,
-      "IDR": 20274.71,
-      "ILS": 3.4755,
-      "INR": 108.832,
-      "KRW": 1537.96,
-      "MXN": 20.5251,
-      "MYR": 4.6147,
-      "NZD": 2.0121,
-      "PHP": 70.95,
-      "SGD": 1.446,
-      "THB": 38.023,
-      "ZAR": 18.6934
+      "NOK": 10.8315,
+      "TRY": 55.165,
+      "AUD": 1.6176,
+      "BRL": 5.861,
+      "CAD": 1.5984,
+      "CNY": 7.5259,
+      "HKD": 8.8084,
+      "IDR": 20149.32,
+      "ILS": 3.4408,
+      "INR": 108.1245,
+      "KRW": 1513.44,
+      "MXN": 20.5806,
+      "MYR": 4.5849,
+      "NZD": 2.0002,
+      "PHP": 70.265,
+      "SGD": 1.4366,
+      "THB": 37.71,
+      "ZAR": 18.7839
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -43,7 +43,7 @@
       "productId": 9478,
       "brand": "Oral-B",
       "isCountryExtreme": true,
-      "overallPercentDiff": 1044,
+      "overallPercentDiff": 1036,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -68,57 +68,44 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:28.621Z",
           "currentPriceCents": 104900,
-          "currentPriceEurCents": 286,
+          "currentPriceEurCents": 284,
           "referencePriceCents": 104900,
-          "referencePriceEurCents": 286
+          "referencePriceEurCents": 284
         }
       ]
     },
     {
-      "productId": 4151,
+      "productId": 4074,
       "brand": "sundance",
       "isCountryExtreme": true,
-      "overallPercentDiff": 729.17,
+      "overallPercentDiff": 707.14,
       "gapToExtremePercent": 0,
       "countries": [
         {
           "countryCode": "SI",
           "shopId": "dm-si",
           "currency": "EUR",
-          "name": "Sončna očala za odrasle, rožnata, 1 kos",
-          "url": "https://www.dm.si/p/d/1711993/sundance-soncna-ocala-za-odrasle-roznata",
+          "name": "Sončna očala za odrasle, črna s pisanimi stekli, 1 kos",
+          "url": "https://www.dm.si/p/d/1712001/sundance-soncna-ocala-za-odrasle-crna-s-pisanimi-stekli",
           "isPromo": true,
-          "observedAt": "2026-08-28T16:10:47.124Z",
+          "observedAt": "2026-09-13T13:17:50.140Z",
           "currentPriceCents": 595,
           "currentPriceEurCents": 595,
-          "referencePriceCents": 595,
-          "referencePriceEurCents": 595
+          "referencePriceCents": 1695,
+          "referencePriceEurCents": 1695
         },
         {
           "countryCode": "HR",
           "shopId": "dm-hr",
           "currency": "EUR",
-          "name": "Sunčane naočale za odrasle – rozi metalni okvir, 1 kom.",
-          "url": "https://www.dm.hr/p/d/1711993/sundance-suncane-naocale-za-odrasle-rozi-metalni-okvir",
+          "name": "Sunčane naočale za odrasle – tigrasti motiv, 1 kom.",
+          "url": "https://www.dm.hr/p/d/1712001/sundance-suncane-naocale-za-odrasle-tigrasti-motiv",
           "isPromo": true,
-          "observedAt": "2026-08-30T22:33:04.766Z",
-          "currentPriceCents": 120,
-          "currentPriceEurCents": 120,
-          "referencePriceCents": 120,
-          "referencePriceEurCents": 120
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Sonnenbrille Damen rosa, 1 St",
-          "url": "https://www.dm.at/p/d/1711993/sundance-sonnenbrille-damen-rosa",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:38:06.065Z",
-          "currentPriceCents": 995,
-          "currentPriceEurCents": 995,
-          "referencePriceCents": 995,
-          "referencePriceEurCents": 995
+          "observedAt": "2026-09-13T13:17:43.732Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 210,
+          "referencePriceEurCents": 210
         }
       ]
     },
@@ -126,7 +113,7 @@
       "productId": 10532,
       "brand": "TOM TAILOR",
       "isCountryExtreme": true,
-      "overallPercentDiff": 709.73,
+      "overallPercentDiff": 705.14,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -177,44 +164,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:22.854Z",
           "currentPriceCents": 1099900,
-          "currentPriceEurCents": 2996,
+          "currentPriceEurCents": 2979,
           "referencePriceCents": 1099900,
-          "referencePriceEurCents": 2996
-        }
-      ]
-    },
-    {
-      "productId": 4074,
-      "brand": "sundance",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 707.14,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Sončna očala za odrasle, črna s pisanimi stekli, 1 kos",
-          "url": "https://www.dm.si/p/d/1712001/sundance-soncna-ocala-za-odrasle-crna-s-pisanimi-stekli",
-          "isPromo": true,
-          "observedAt": "2026-09-13T13:17:50.140Z",
-          "currentPriceCents": 595,
-          "currentPriceEurCents": 595,
-          "referencePriceCents": 1695,
-          "referencePriceEurCents": 1695
-        },
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Sunčane naočale za odrasle – tigrasti motiv, 1 kom.",
-          "url": "https://www.dm.hr/p/d/1712001/sundance-suncane-naocale-za-odrasle-tigrasti-motiv",
-          "isPromo": true,
-          "observedAt": "2026-09-13T13:17:43.732Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 210,
-          "referencePriceEurCents": 210
+          "referencePriceEurCents": 2979
         }
       ]
     },
@@ -222,7 +174,7 @@
       "productId": 10497,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 587.68,
+      "overallPercentDiff": 584.04,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -260,9 +212,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3404,
+          "currentPriceEurCents": 3386,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3404
+          "referencePriceEurCents": 3386
         }
       ]
     },
@@ -270,7 +222,7 @@
       "productId": 10498,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 587.68,
+      "overallPercentDiff": 584.04,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -308,9 +260,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3404,
+          "currentPriceEurCents": 3386,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3404
+          "referencePriceEurCents": 3386
         }
       ]
     },
@@ -318,7 +270,7 @@
       "productId": 8236,
       "brand": "trend !t up",
       "isCountryExtreme": true,
-      "overallPercentDiff": 581,
+      "overallPercentDiff": 577,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -369,9 +321,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:16.800Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 681,
+          "currentPriceEurCents": 677,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 681
+          "referencePriceEurCents": 677
         }
       ]
     },
@@ -379,7 +331,7 @@
       "productId": 925,
       "brand": "Martinelia",
       "isCountryExtreme": true,
-      "overallPercentDiff": 564.44,
+      "overallPercentDiff": 562.22,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -404,70 +356,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:32.566Z",
           "currentPriceCents": 109900,
-          "currentPriceEurCents": 299,
+          "currentPriceEurCents": 298,
           "referencePriceCents": 109900,
-          "referencePriceEurCents": 299
-        }
-      ]
-    },
-    {
-      "productId": 8229,
-      "brand": "trend !t up",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 553,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Face Contouring set za konturiranje, 7,5 g",
-          "url": "https://www.dm.hr/p/d/1481314/trend-t-up-face-contouring-set-za-konturiranje",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:32:48.555Z",
-          "currentPriceCents": 100,
-          "currentPriceEurCents": 100,
-          "referencePriceCents": 100,
-          "referencePriceEurCents": 100
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Set za konturiranje 010, 7,5 g",
-          "url": "https://www.dm.si/p/d/1481314/trend-t-up-set-za-konturiranje-010",
-          "isPromo": true,
-          "observedAt": "2026-08-30T22:34:48.379Z",
-          "currentPriceCents": 299,
-          "currentPriceEurCents": 299,
-          "referencePriceCents": 299,
-          "referencePriceEurCents": 299
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Contouringpuder Face Contouring Set 10, 7,5 g",
-          "url": "https://www.dm.de/p/d/1481314/trend-t-up-contouringpuder-face-contouring-set-10",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:04.215Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Arckontúrozó paletta - Nr. 010, 7,5 g",
-          "url": "https://www.dm.hu/p/d/1481314/trend-t-up-arckonturozo-paletta-nr-010",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:33:11.663Z",
-          "currentPriceCents": 239900,
-          "currentPriceEurCents": 653,
-          "referencePriceCents": 239900,
-          "referencePriceEurCents": 653
+          "referencePriceEurCents": 298
         }
       ]
     },
@@ -539,9 +430,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:54.339Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1498,
+          "currentPriceEurCents": 1490,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1498
+          "referencePriceEurCents": 1490
         }
       ]
     },
@@ -613,9 +504,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:30.838Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1498,
+          "currentPriceEurCents": 1490,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1498
+          "referencePriceEurCents": 1490
         }
       ]
     },
@@ -687,9 +578,70 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:35.276Z",
           "currentPriceCents": 54900,
-          "currentPriceEurCents": 150,
+          "currentPriceEurCents": 149,
           "referencePriceCents": 54900,
-          "referencePriceEurCents": 150
+          "referencePriceEurCents": 149
+        }
+      ]
+    },
+    {
+      "productId": 8229,
+      "brand": "trend !t up",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 550,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Face Contouring set za konturiranje, 7,5 g",
+          "url": "https://www.dm.hr/p/d/1481314/trend-t-up-face-contouring-set-za-konturiranje",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:32:48.555Z",
+          "currentPriceCents": 100,
+          "currentPriceEurCents": 100,
+          "referencePriceCents": 100,
+          "referencePriceEurCents": 100
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Set za konturiranje 010, 7,5 g",
+          "url": "https://www.dm.si/p/d/1481314/trend-t-up-set-za-konturiranje-010",
+          "isPromo": true,
+          "observedAt": "2026-08-30T22:34:48.379Z",
+          "currentPriceCents": 299,
+          "currentPriceEurCents": 299,
+          "referencePriceCents": 299,
+          "referencePriceEurCents": 299
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Contouringpuder Face Contouring Set 10, 7,5 g",
+          "url": "https://www.dm.de/p/d/1481314/trend-t-up-contouringpuder-face-contouring-set-10",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:04.215Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Arckontúrozó paletta - Nr. 010, 7,5 g",
+          "url": "https://www.dm.hu/p/d/1481314/trend-t-up-arckonturozo-paletta-nr-010",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:33:11.663Z",
+          "currentPriceCents": 239900,
+          "currentPriceEurCents": 650,
+          "referencePriceCents": 239900,
+          "referencePriceEurCents": 650
         }
       ]
     },
@@ -809,9 +761,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:07.099Z",
           "currentPriceCents": 429900,
-          "currentPriceEurCents": 1171,
+          "currentPriceEurCents": 1164,
           "referencePriceCents": 429900,
-          "referencePriceEurCents": 1171
+          "referencePriceEurCents": 1164
         }
       ]
     },
@@ -883,9 +835,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:29:59.422Z",
           "currentPriceCents": 79900,
-          "currentPriceEurCents": 218,
+          "currentPriceEurCents": 216,
           "referencePriceCents": 79900,
-          "referencePriceEurCents": 218
+          "referencePriceEurCents": 216
         }
       ]
     },
@@ -893,7 +845,7 @@
       "productId": 10571,
       "brand": "PARIS CORNER",
       "isCountryExtreme": true,
-      "overallPercentDiff": 487.77,
+      "overallPercentDiff": 484.6,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -931,9 +883,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:22.854Z",
           "currentPriceCents": 1499900,
-          "currentPriceEurCents": 4085,
+          "currentPriceEurCents": 4063,
           "referencePriceCents": 1499900,
-          "referencePriceEurCents": 4085
+          "referencePriceEurCents": 4063
         }
       ]
     },
@@ -941,7 +893,7 @@
       "productId": 12122,
       "brand": "L'ORÉAL PARiS",
       "isCountryExtreme": true,
-      "overallPercentDiff": 455.51,
+      "overallPercentDiff": 452.65,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -992,9 +944,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:30.809Z",
           "currentPriceCents": 499900,
-          "currentPriceEurCents": 1361,
+          "currentPriceEurCents": 1354,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1361
+          "referencePriceEurCents": 1354
         }
       ]
     },
@@ -1194,7 +1146,7 @@
       "productId": 2995,
       "brand": "syoss",
       "isCountryExtreme": true,
-      "overallPercentDiff": 424.44,
+      "overallPercentDiff": 421.48,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1245,9 +1197,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:49.604Z",
           "currentPriceCents": 259900,
-          "currentPriceEurCents": 708,
+          "currentPriceEurCents": 704,
           "referencePriceCents": 259900,
-          "referencePriceEurCents": 708
+          "referencePriceEurCents": 704
         }
       ]
     },
@@ -1303,7 +1255,7 @@
       "productId": 10595,
       "brand": "L'ORÉAL PARiS",
       "isCountryExtreme": true,
-      "overallPercentDiff": 411.43,
+      "overallPercentDiff": 408.57,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1367,9 +1319,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:25.549Z",
           "currentPriceCents": 459900,
-          "currentPriceEurCents": 1253,
+          "currentPriceEurCents": 1246,
           "referencePriceCents": 459900,
-          "referencePriceEurCents": 1253
+          "referencePriceEurCents": 1246
         }
       ]
     },
@@ -1498,9 +1450,9 @@
           "isPromo": true,
           "observedAt": "2026-09-01T12:32:02.558Z",
           "currentPriceCents": 149900,
-          "currentPriceEurCents": 408,
+          "currentPriceEurCents": 406,
           "referencePriceCents": 149900,
-          "referencePriceEurCents": 408
+          "referencePriceEurCents": 406
         }
       ]
     },
@@ -1508,7 +1460,7 @@
       "productId": 152,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 362,
+      "overallPercentDiff": 360,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1559,9 +1511,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:33:07.322Z",
           "currentPriceCents": 84900,
-          "currentPriceEurCents": 231,
+          "currentPriceEurCents": 230,
           "referencePriceCents": 84900,
-          "referencePriceEurCents": 231
+          "referencePriceEurCents": 230
         }
       ]
     },
@@ -1607,9 +1559,9 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:47.738Z",
           "currentPriceCents": 599900,
-          "currentPriceEurCents": 1634,
+          "currentPriceEurCents": 1625,
           "referencePriceCents": 599900,
-          "referencePriceEurCents": 1634
+          "referencePriceEurCents": 1625
         }
       ]
     },
@@ -1645,6 +1597,54 @@
           "currentPriceEurCents": 995,
           "referencePriceCents": 995,
           "referencePriceEurCents": 995
+        }
+      ]
+    },
+    {
+      "productId": 1096,
+      "brand": "BOURJOIS PARIS",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 351.28,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Khol & Contour olovka za oči – 01 Intense Black, 1,2 g",
+          "url": "https://www.dm.hr/p/d/2275838/bourjois-paris-khol-contour-olovka-za-oci-01-intense-black",
+          "isPromo": true,
+          "observedAt": "2026-08-28T15:49:48.933Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 195,
+          "referencePriceEurCents": 195
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Črtalo za oči Khôl & Contour, 01 Noir-issime, 1,2 g",
+          "url": "https://www.dm.si/p/d/2275838/bourjois-paris-crtalo-za-oci-khol-contour-01-noir-issime",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:32.828Z",
+          "currentPriceCents": 880,
+          "currentPriceEurCents": 880,
+          "referencePriceCents": 880,
+          "referencePriceEurCents": 880
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Szemceruza Khol & Contour, Noir-Issime 001, 6 g",
+          "url": "https://www.dm.hu/p/d/2275838/bourjois-paris-szemceruza-khol-contour-noir-issime-001",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:12.182Z",
+          "currentPriceCents": 199900,
+          "currentPriceEurCents": 541,
+          "referencePriceCents": 199900,
+          "referencePriceEurCents": 541
         }
       ]
     }
