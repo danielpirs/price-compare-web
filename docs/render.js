@@ -161,7 +161,12 @@ export function countryCellHtml(item, cc, lang) {
   var t = T(lang);
   var priceText = formatPrice(ownDisplayed);
 
-  var tipLines = [t.lastSeen + ': ' + formatDate(c.observedAt)];
+  // lastSeenAt (when the listing was last CONFIRMED PRESENT), not
+  // observedAt (when its price last CHANGED) - a stable, unchanged price
+  // leaves observedAt stale for months even on a listing reconfirmed live
+  // far more recently. See price-compare's Findings "last seen vs price
+  // last changed", caught live 2026-10-04.
+  var tipLines = [t.lastSeen + ': ' + formatDate(c.lastSeenAt)];
   if (c.currency !== 'EUR') {
     tipLines.push(formatNative(c.currentPriceCents, c.currency));
   }
