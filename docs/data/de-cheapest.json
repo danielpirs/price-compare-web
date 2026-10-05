@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T11:01:20.353Z",
+  "generatedAt": "2026-10-05T12:08:16.626Z",
   "fx": {
     "asOf": "2026-10-02",
     "rates": {
@@ -1376,57 +1376,6 @@
       ]
     },
     {
-      "productId": 14729,
-      "brand": "TOM TAILOR",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 199.4,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Happy to be edp, 30 ml",
-          "url": "https://www.dm.hr/p/d/1674778/tom-tailor-happy-to-be-edp",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:27.900Z",
-          "lastSeenAt": "2026-09-05T11:49:37.514Z",
-          "currentPriceCents": 1490,
-          "currentPriceEurCents": 1490,
-          "referencePriceCents": 1490,
-          "referencePriceEurCents": 1490
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Happy to be woman Eau de Parfum, 30 ml",
-          "url": "https://www.dm.de/p/d/1674778/tom-tailor-happy-to-be-woman-eau-de-parfum",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:19.424Z",
-          "lastSeenAt": "2026-09-05T11:49:48.444Z",
-          "currentPriceCents": 995,
-          "currentPriceEurCents": 995,
-          "referencePriceCents": 995,
-          "referencePriceEurCents": 995
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Női EdP Happy to be, 30 ml",
-          "url": "https://www.dm.hu/p/d/1674778/tom-tailor-noi-edp-happy-to-be",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:19.979Z",
-          "lastSeenAt": "2026-09-05T11:49:58.976Z",
-          "currentPriceCents": 1099900,
-          "currentPriceEurCents": 2979,
-          "referencePriceCents": 1099900,
-          "referencePriceEurCents": 2979
-        }
-      ]
-    },
-    {
       "productId": 5135,
       "brand": "Profissimo",
       "isCountryExtreme": true,
@@ -1716,6 +1665,85 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:55.609Z",
           "lastSeenAt": "2026-09-20T13:02:31.610Z",
+          "currentPriceCents": 89900,
+          "currentPriceEurCents": 244,
+          "referencePriceCents": 89900,
+          "referencePriceEurCents": 244
+        }
+      ]
+    },
+    {
+      "productId": 5271,
+      "brand": "Balea",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 187.06,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Q10 koncentrat u kapsulama protiv bora, 7 kom.",
+          "url": "https://www.dm.hr/p/d/1270981/balea-q10-koncentrat-u-kapsulama-protiv-bora",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:42.847Z",
+          "lastSeenAt": "2026-09-11T12:48:36.289Z",
+          "currentPriceCents": 115,
+          "currentPriceEurCents": 115,
+          "referencePriceCents": 115,
+          "referencePriceEurCents": 115
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Učvrstitveni koncentrat s Q10 za ublažitev gub, 7 kos",
+          "url": "https://www.dm.si/p/d/1270981/balea-ucvrstitveni-koncentrat-s-q10-za-ublazitev-gub",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:55.159Z",
+          "lastSeenAt": "2026-09-11T12:48:43.771Z",
+          "currentPriceCents": 135,
+          "currentPriceEurCents": 135,
+          "referencePriceCents": 135,
+          "referencePriceEurCents": 135
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Anti Falten Konzentrat Q10, 7 St",
+          "url": "https://www.dm.at/p/d/1270981/balea-anti-falten-konzentrat-q10",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:55.029Z",
+          "lastSeenAt": "2026-09-11T12:48:47.772Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Konzentrat Kapseln Anti-Falten Q10, 7 St",
+          "url": "https://www.dm.de/p/d/1270981/balea-konzentrat-kapseln-anti-falten-q10",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:31.622Z",
+          "lastSeenAt": "2026-09-11T12:48:57.246Z",
+          "currentPriceCents": 85,
+          "currentPriceEurCents": 85,
+          "referencePriceCents": 85,
+          "referencePriceEurCents": 85
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Q10 ránctalanító koncentrátum, 7 db",
+          "url": "https://www.dm.hu/p/d/1270981/balea-q10-ranctalanito-koncentratum",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:16.800Z",
+          "lastSeenAt": "2026-09-11T12:49:03.415Z",
           "currentPriceCents": 89900,
           "currentPriceEurCents": 244,
           "referencePriceCents": 89900,

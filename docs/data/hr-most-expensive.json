@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T11:01:20.353Z",
+  "generatedAt": "2026-10-05T12:08:16.626Z",
   "fx": {
     "asOf": "2026-10-02",
     "rates": {
@@ -1361,43 +1361,6 @@
       ]
     },
     {
-      "productId": 3443,
-      "brand": "lactovit",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 160.87,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Dezodorans u spreju Lactourea – Repairing, 200 ml",
-          "url": "https://www.dm.hr/p/d/2470099/lactovit-dezodorans-u-spreju-lactourea-repairing",
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:05:53.849Z",
-          "lastSeenAt": "2026-09-04T12:42:33.292Z",
-          "currentPriceCents": 360,
-          "currentPriceEurCents": 360,
-          "referencePriceCents": 360,
-          "referencePriceEurCents": 360
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Deo spray Lactourea Repairing, 200 ml",
-          "url": "https://www.dm.hu/p/d/2470099/lactovit-deo-spray-lactourea-repairing",
-          "isPromo": true,
-          "observedAt": "2026-09-04T12:42:52.969Z",
-          "lastSeenAt": "2026-09-04T12:42:52.969Z",
-          "currentPriceCents": 28900,
-          "currentPriceEurCents": 78,
-          "referencePriceCents": 50900,
-          "referencePriceEurCents": 138
-        }
-      ]
-    },
-    {
       "productId": 11017,
       "brand": "Aquafresh",
       "isCountryExtreme": true,
@@ -1496,6 +1459,57 @@
           "currentPriceEurCents": 1219,
           "referencePriceCents": 899900,
           "referencePriceEurCents": 2438
+        }
+      ]
+    },
+    {
+      "productId": 10188,
+      "brand": "Rexona",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 153.25,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Deo roll-on Advanced Protection Invisible Aqua, 50 ml",
+          "url": "https://www.dm.hr/p/d/3072259/rexona-deo-roll-on-advanced-protection-invisible-aqua",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:00.205Z",
+          "lastSeenAt": "2026-09-13T13:17:47.225Z",
+          "currentPriceCents": 390,
+          "currentPriceEurCents": 390,
+          "referencePriceCents": 390,
+          "referencePriceEurCents": 390
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Antiperspirant roll-on Advanced Protection..., 50 ml",
+          "url": "https://www.dm.si/p/d/3072259/rexona-antiperspirant-roll-on-advanced-protection-invisible-aqua",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:04.847Z",
+          "lastSeenAt": "2026-09-13T13:17:55.447Z",
+          "currentPriceCents": 370,
+          "currentPriceEurCents": 370,
+          "referencePriceCents": 370,
+          "referencePriceEurCents": 370
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Deo roll-on Advanced Protection, Invisible Aqua, 50 ml",
+          "url": "https://www.dm.hu/p/d/3072259/rexona-deo-roll-on-advanced-protection-invisible-aqua",
+          "isPromo": true,
+          "observedAt": "2026-09-13T13:18:22.482Z",
+          "lastSeenAt": "2026-09-13T13:18:22.482Z",
+          "currentPriceCents": 27900,
+          "currentPriceEurCents": 76,
+          "referencePriceCents": 56900,
+          "referencePriceEurCents": 154
         }
       ]
     }
