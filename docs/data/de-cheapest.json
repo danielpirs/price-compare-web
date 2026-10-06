@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-05T12:08:16.626Z",
+  "generatedAt": "2026-10-06T11:52:22.113Z",
   "fx": {
-    "asOf": "2026-10-02",
+    "asOf": "2026-10-05",
     "rates": {
-      "USD": 1.1225,
-      "JPY": 176.99,
-      "CZK": 24.47,
-      "DKK": 7.4736,
-      "GBP": 0.85033,
-      "HUF": 369.18,
-      "PLN": 4.3775,
-      "RON": 5.3488,
-      "SEK": 11.29,
-      "CHF": 0.9279,
+      "USD": 1.1204,
+      "JPY": 177.28,
+      "CZK": 24.456,
+      "DKK": 7.4745,
+      "GBP": 0.8472,
+      "HUF": 367.8,
+      "PLN": 4.3795,
+      "RON": 5.3363,
+      "SEK": 11.2525,
+      "CHF": 0.9311,
       "ISK": 137,
-      "NOK": 10.8315,
-      "TRY": 55.165,
-      "AUD": 1.6176,
-      "BRL": 5.861,
-      "CAD": 1.5984,
-      "CNY": 7.5259,
-      "HKD": 8.8084,
-      "IDR": 20149.32,
-      "ILS": 3.4408,
-      "INR": 108.1245,
-      "KRW": 1513.44,
-      "MXN": 20.5806,
-      "MYR": 4.5849,
-      "NZD": 2.0002,
-      "PHP": 70.265,
-      "SGD": 1.4366,
-      "THB": 37.71,
-      "ZAR": 18.7839
+      "NOK": 10.7575,
+      "TRY": 55.0755,
+      "AUD": 1.6097,
+      "BRL": 5.5849,
+      "CAD": 1.5969,
+      "CNY": 7.5118,
+      "HKD": 8.7925,
+      "IDR": 20069.89,
+      "ILS": 3.431,
+      "INR": 107.8915,
+      "KRW": 1505.8,
+      "MXN": 20.3348,
+      "MYR": 4.5791,
+      "NZD": 2.0038,
+      "PHP": 70.219,
+      "SGD": 1.4344,
+      "THB": 37.752,
+      "ZAR": 18.6263
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -98,9 +98,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-09-14T15:01:07.257Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 189,
+          "currentPriceEurCents": 190,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 189
+          "referencePriceEurCents": 190
         }
       ]
     },
@@ -152,6 +152,43 @@
           "currentPriceEurCents": 65,
           "referencePriceCents": 65,
           "referencePriceEurCents": 65
+        }
+      ]
+    },
+    {
+      "productId": 41748,
+      "brand": "Fascino",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 226.22,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Strumpfhose glänzend powder Gr. 50/52, 15 DEN, 1 St",
+          "url": "https://www.dm.de/p/d/1715182/fascino-strumpfhose-glaenzend-powder-gr-50-52-15-den",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:03:41.837Z",
+          "lastSeenAt": "2026-10-03T19:03:41.837Z",
+          "currentPriceCents": 160,
+          "currentPriceEurCents": 160,
+          "referencePriceCents": 225,
+          "referencePriceEurCents": 225
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fényes harisnyanadrág, púder, 15 den, 50-52, 1 db",
+          "url": "https://www.dm.hu/p/d/1715182/fascino-fenyes-harisnyanadrag-puder-15-den-50-52",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:07.326Z",
+          "lastSeenAt": "2026-09-20T13:02:31.610Z",
+          "currentPriceCents": 269900,
+          "currentPriceEurCents": 734,
+          "referencePriceCents": 269900,
+          "referencePriceEurCents": 734
         }
       ]
     },
@@ -300,47 +337,10 @@
       ]
     },
     {
-      "productId": 41748,
-      "brand": "Fascino",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 224.89,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Strumpfhose glänzend powder Gr. 50/52, 15 DEN, 1 St",
-          "url": "https://www.dm.de/p/d/1715182/fascino-strumpfhose-glaenzend-powder-gr-50-52-15-den",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:03:41.837Z",
-          "lastSeenAt": "2026-10-03T19:03:41.837Z",
-          "currentPriceCents": 160,
-          "currentPriceEurCents": 160,
-          "referencePriceCents": 225,
-          "referencePriceEurCents": 225
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fényes harisnyanadrág, púder, 15 den, 50-52, 1 db",
-          "url": "https://www.dm.hu/p/d/1715182/fascino-fenyes-harisnyanadrag-puder-15-den-50-52",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:07.326Z",
-          "lastSeenAt": "2026-09-20T13:02:31.610Z",
-          "currentPriceCents": 269900,
-          "currentPriceEurCents": 731,
-          "referencePriceCents": 269900,
-          "referencePriceEurCents": 731
-        }
-      ]
-    },
-    {
       "productId": 7017,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 218.82,
+      "overallPercentDiff": 220,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -409,9 +409,9 @@
           "observedAt": "2026-09-01T12:31:46.773Z",
           "lastSeenAt": "2026-09-24T13:32:19.547Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 271,
+          "currentPriceEurCents": 272,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 271
+          "referencePriceEurCents": 272
         }
       ]
     },
@@ -419,7 +419,7 @@
       "productId": 10916,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 218.82,
+      "overallPercentDiff": 220,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -488,9 +488,9 @@
           "observedAt": "2026-09-01T12:32:54.339Z",
           "lastSeenAt": "2026-09-17T13:25:35.754Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 271,
+          "currentPriceEurCents": 272,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 271
+          "referencePriceEurCents": 272
         }
       ]
     },
@@ -567,9 +567,9 @@
           "observedAt": "2026-09-01T12:33:11.663Z",
           "lastSeenAt": "2026-09-18T12:57:27.712Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 677,
+          "currentPriceEurCents": 679,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 677
+          "referencePriceEurCents": 679
         }
       ]
     },
@@ -692,9 +692,46 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-09-12T12:10:03.246Z",
           "currentPriceCents": 59900,
-          "currentPriceEurCents": 162,
+          "currentPriceEurCents": 163,
           "referencePriceCents": 59900,
-          "referencePriceEurCents": 162
+          "referencePriceEurCents": 163
+        }
+      ]
+    },
+    {
+      "productId": 48704,
+      "brand": "Gabriela Sabatini",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 210.2,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Eau de Toilette, 20 ml",
+          "url": "https://www.dm.de/p/d/1049471/gabriela-sabatini-eau-de-toilette",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:01.151Z",
+          "lastSeenAt": "2026-09-15T13:31:16.216Z",
+          "currentPriceCents": 745,
+          "currentPriceEurCents": 745,
+          "referencePriceCents": 745,
+          "referencePriceEurCents": 745
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Női EdT, 20 ml",
+          "url": "https://www.dm.hu/p/d/1049471/gabriela-sabatini-noi-edt",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:00.665Z",
+          "lastSeenAt": "2026-09-15T13:31:24.654Z",
+          "currentPriceCents": 849900,
+          "currentPriceEurCents": 2311,
+          "referencePriceCents": 849900,
+          "referencePriceEurCents": 2311
         }
       ]
     },
@@ -736,43 +773,6 @@
       ]
     },
     {
-      "productId": 48704,
-      "brand": "Gabriela Sabatini",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 208.99,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Eau de Toilette, 20 ml",
-          "url": "https://www.dm.de/p/d/1049471/gabriela-sabatini-eau-de-toilette",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:01.151Z",
-          "lastSeenAt": "2026-09-15T13:31:16.216Z",
-          "currentPriceCents": 745,
-          "currentPriceEurCents": 745,
-          "referencePriceCents": 745,
-          "referencePriceEurCents": 745
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Női EdT, 20 ml",
-          "url": "https://www.dm.hu/p/d/1049471/gabriela-sabatini-noi-edt",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:00.665Z",
-          "lastSeenAt": "2026-09-15T13:31:24.654Z",
-          "currentPriceCents": 849900,
-          "currentPriceEurCents": 2302,
-          "referencePriceCents": 849900,
-          "referencePriceEurCents": 2302
-        }
-      ]
-    },
-    {
       "productId": 43560,
       "brand": "Tabac Original",
       "isCountryExtreme": true,
@@ -810,47 +810,10 @@
       ]
     },
     {
-      "productId": 32100,
-      "brand": "BRISK",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 206.45,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "for men Frisiercreme super, 100 ml",
-          "url": "https://www.dm.at/p/d/1000492/brisk-for-men-frisiercreme-super",
-          "isPromo": true,
-          "observedAt": "2026-09-07T14:14:14.000Z",
-          "lastSeenAt": "2026-09-07T14:14:14.000Z",
-          "currentPriceCents": 235,
-          "currentPriceEurCents": 235,
-          "referencePriceCents": 475,
-          "referencePriceEurCents": 475
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Frisiercreme für Männer, 100 ml",
-          "url": "https://www.dm.de/p/d/1000492/brisk-frisiercreme-fuer-maenner",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:25.415Z",
-          "lastSeenAt": "2026-09-07T14:14:20.168Z",
-          "currentPriceCents": 155,
-          "currentPriceEurCents": 155,
-          "referencePriceCents": 155,
-          "referencePriceEurCents": 155
-        }
-      ]
-    },
-    {
       "productId": 28910,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 205.81,
+      "overallPercentDiff": 206.77,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -891,9 +854,46 @@
           "observedAt": "2026-09-01T12:30:10.466Z",
           "lastSeenAt": "2026-09-20T13:02:31.610Z",
           "currentPriceCents": 349900,
-          "currentPriceEurCents": 948,
+          "currentPriceEurCents": 951,
           "referencePriceCents": 349900,
-          "referencePriceEurCents": 948
+          "referencePriceEurCents": 951
+        }
+      ]
+    },
+    {
+      "productId": 32100,
+      "brand": "BRISK",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 206.45,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "for men Frisiercreme super, 100 ml",
+          "url": "https://www.dm.at/p/d/1000492/brisk-for-men-frisiercreme-super",
+          "isPromo": true,
+          "observedAt": "2026-09-07T14:14:14.000Z",
+          "lastSeenAt": "2026-09-07T14:14:14.000Z",
+          "currentPriceCents": 235,
+          "currentPriceEurCents": 235,
+          "referencePriceCents": 475,
+          "referencePriceEurCents": 475
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Frisiercreme für Männer, 100 ml",
+          "url": "https://www.dm.de/p/d/1000492/brisk-frisiercreme-fuer-maenner",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:25.415Z",
+          "lastSeenAt": "2026-09-07T14:14:20.168Z",
+          "currentPriceCents": 155,
+          "currentPriceEurCents": 155,
+          "referencePriceCents": 155,
+          "referencePriceEurCents": 155
         }
       ]
     },
@@ -989,7 +989,7 @@
       "productId": 22665,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 203.9,
+      "overallPercentDiff": 204.88,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1044,9 +1044,9 @@
           "observedAt": "2026-09-01T12:30:10.466Z",
           "lastSeenAt": "2026-09-17T13:25:33.061Z",
           "currentPriceCents": 229900,
-          "currentPriceEurCents": 623,
+          "currentPriceEurCents": 625,
           "referencePriceCents": 229900,
-          "referencePriceEurCents": 623
+          "referencePriceEurCents": 625
         }
       ]
     },
@@ -1098,6 +1098,215 @@
           "currentPriceEurCents": 395,
           "referencePriceCents": 395,
           "referencePriceEurCents": 395
+        }
+      ]
+    },
+    {
+      "productId": 3980,
+      "brand": "TOM TAILOR",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 200.5,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Dream To Be edp, 30 ml",
+          "url": "https://www.dm.hr/p/d/3099830/tom-tailor-dream-to-be-edp",
+          "isPromo": false,
+          "observedAt": "2026-08-28T16:09:41.120Z",
+          "lastSeenAt": "2026-09-15T13:30:55.284Z",
+          "currentPriceCents": 1490,
+          "currentPriceEurCents": 1490,
+          "referencePriceCents": 1490,
+          "referencePriceEurCents": 1490
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Eau de Parfum Dream to be, 30 ml",
+          "url": "https://www.dm.at/p/d/3099830/tom-tailor-eau-de-parfum-dream-to-be",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:53.579Z",
+          "lastSeenAt": "2026-09-15T13:31:04.722Z",
+          "currentPriceCents": 1395,
+          "currentPriceEurCents": 1395,
+          "referencePriceCents": 1395,
+          "referencePriceEurCents": 1395
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Dream to be Eau de Parfum, 30 ml",
+          "url": "https://www.dm.de/p/d/3099830/tom-tailor-dream-to-be-eau-de-parfum",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:26.297Z",
+          "lastSeenAt": "2026-09-15T13:31:14.345Z",
+          "currentPriceCents": 995,
+          "currentPriceEurCents": 995,
+          "referencePriceCents": 995,
+          "referencePriceEurCents": 995
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Női EdP Dream to be, 30 ml",
+          "url": "https://www.dm.hu/p/d/3099830/tom-tailor-noi-edp-dream-to-be",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:19.979Z",
+          "lastSeenAt": "2026-09-15T13:31:22.372Z",
+          "currentPriceCents": 1099900,
+          "currentPriceEurCents": 2990,
+          "referencePriceCents": 1099900,
+          "referencePriceEurCents": 2990
+        }
+      ]
+    },
+    {
+      "productId": 7985,
+      "brand": "TOM TAILOR",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 200.5,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Adventurous Extreme edt, 30 ml",
+          "url": "https://www.dm.hr/p/d/1688778/tom-tailor-adventurous-extreme-edt",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:47.431Z",
+          "lastSeenAt": "2026-09-24T13:32:01.007Z",
+          "currentPriceCents": 1390,
+          "currentPriceEurCents": 1390,
+          "referencePriceCents": 1390,
+          "referencePriceEurCents": 1390
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Eau de Toilette Adventuros Extreme, 30 ml",
+          "url": "https://www.dm.at/p/d/1688778/tom-tailor-eau-de-toilette-adventuros-extreme",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:01.644Z",
+          "lastSeenAt": "2026-09-24T13:32:06.912Z",
+          "currentPriceCents": 1395,
+          "currentPriceEurCents": 1395,
+          "referencePriceCents": 1395,
+          "referencePriceEurCents": 1395
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Adventurous Extreme Eau de Toilette, 30 ml",
+          "url": "https://www.dm.de/p/d/1688778/tom-tailor-adventurous-extreme-eau-de-toilette",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:49.548Z",
+          "lastSeenAt": "2026-09-24T13:32:14.066Z",
+          "currentPriceCents": 995,
+          "currentPriceEurCents": 995,
+          "referencePriceCents": 995,
+          "referencePriceEurCents": 995
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Férfi EdT Adventurous Extreme, 30 ml",
+          "url": "https://www.dm.hu/p/d/1688778/tom-tailor-ferfi-edt-adventurous-extreme",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:22.854Z",
+          "lastSeenAt": "2026-09-24T13:32:21.725Z",
+          "currentPriceCents": 1099900,
+          "currentPriceEurCents": 2990,
+          "referencePriceCents": 1099900,
+          "referencePriceEurCents": 2990
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Toaletna voda za moške Adventurous Extreme, 30 ml",
+          "url": "https://www.dm.si/p/d/1688778/tom-tailor-toaletna-voda-za-moske-adventurous-extreme",
+          "isPromo": false,
+          "observedAt": "2026-09-24T13:31:56.275Z",
+          "lastSeenAt": "2026-09-24T13:31:56.275Z",
+          "currentPriceCents": 1490,
+          "currentPriceEurCents": 1490,
+          "referencePriceCents": 1490,
+          "referencePriceEurCents": 1490
+        }
+      ]
+    },
+    {
+      "productId": 14619,
+      "brand": "TOM TAILOR",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 200.5,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Cool Mind for him edt, 30 ml",
+          "url": "https://www.dm.hr/p/d/1708912/tom-tailor-cool-mind-for-him-edt",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:27.900Z",
+          "lastSeenAt": "2026-09-19T12:28:55.139Z",
+          "currentPriceCents": 1390,
+          "currentPriceEurCents": 1390,
+          "referencePriceCents": 1390,
+          "referencePriceEurCents": 1390
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Eau de Toilette Cool Mind, 30 ml",
+          "url": "https://www.dm.at/p/d/1708912/tom-tailor-eau-de-toilette-cool-mind",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:45.712Z",
+          "lastSeenAt": "2026-09-19T12:28:57.901Z",
+          "currentPriceCents": 1395,
+          "currentPriceEurCents": 1395,
+          "referencePriceCents": 1395,
+          "referencePriceEurCents": 1395
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Cool Mind for him Eau de Toilette, 30 ml",
+          "url": "https://www.dm.de/p/d/1708912/tom-tailor-cool-mind-for-him-eau-de-toilette",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:15.739Z",
+          "lastSeenAt": "2026-09-19T12:29:05.833Z",
+          "currentPriceCents": 995,
+          "currentPriceEurCents": 995,
+          "referencePriceCents": 995,
+          "referencePriceEurCents": 995
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Férfi EdT Cool Mind, 30 ml",
+          "url": "https://www.dm.hu/p/d/1708912/tom-tailor-ferfi-edt-cool-mind",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:22.854Z",
+          "lastSeenAt": "2026-09-19T12:29:08.876Z",
+          "currentPriceCents": 1099900,
+          "currentPriceEurCents": 2990,
+          "referencePriceCents": 1099900,
+          "referencePriceEurCents": 2990
         }
       ]
     },
@@ -1160,218 +1369,9 @@
           "observedAt": "2026-09-01T12:31:05.211Z",
           "lastSeenAt": "2026-10-02T14:43:06.019Z",
           "currentPriceCents": 49900,
-          "currentPriceEurCents": 135,
+          "currentPriceEurCents": 136,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 135
-        }
-      ]
-    },
-    {
-      "productId": 3980,
-      "brand": "TOM TAILOR",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 199.4,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Dream To Be edp, 30 ml",
-          "url": "https://www.dm.hr/p/d/3099830/tom-tailor-dream-to-be-edp",
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:09:41.120Z",
-          "lastSeenAt": "2026-09-15T13:30:55.284Z",
-          "currentPriceCents": 1490,
-          "currentPriceEurCents": 1490,
-          "referencePriceCents": 1490,
-          "referencePriceEurCents": 1490
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Eau de Parfum Dream to be, 30 ml",
-          "url": "https://www.dm.at/p/d/3099830/tom-tailor-eau-de-parfum-dream-to-be",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:53.579Z",
-          "lastSeenAt": "2026-09-15T13:31:04.722Z",
-          "currentPriceCents": 1395,
-          "currentPriceEurCents": 1395,
-          "referencePriceCents": 1395,
-          "referencePriceEurCents": 1395
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Dream to be Eau de Parfum, 30 ml",
-          "url": "https://www.dm.de/p/d/3099830/tom-tailor-dream-to-be-eau-de-parfum",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:26.297Z",
-          "lastSeenAt": "2026-09-15T13:31:14.345Z",
-          "currentPriceCents": 995,
-          "currentPriceEurCents": 995,
-          "referencePriceCents": 995,
-          "referencePriceEurCents": 995
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Női EdP Dream to be, 30 ml",
-          "url": "https://www.dm.hu/p/d/3099830/tom-tailor-noi-edp-dream-to-be",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:19.979Z",
-          "lastSeenAt": "2026-09-15T13:31:22.372Z",
-          "currentPriceCents": 1099900,
-          "currentPriceEurCents": 2979,
-          "referencePriceCents": 1099900,
-          "referencePriceEurCents": 2979
-        }
-      ]
-    },
-    {
-      "productId": 7985,
-      "brand": "TOM TAILOR",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 199.4,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Adventurous Extreme edt, 30 ml",
-          "url": "https://www.dm.hr/p/d/1688778/tom-tailor-adventurous-extreme-edt",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:47.431Z",
-          "lastSeenAt": "2026-09-24T13:32:01.007Z",
-          "currentPriceCents": 1390,
-          "currentPriceEurCents": 1390,
-          "referencePriceCents": 1390,
-          "referencePriceEurCents": 1390
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Eau de Toilette Adventuros Extreme, 30 ml",
-          "url": "https://www.dm.at/p/d/1688778/tom-tailor-eau-de-toilette-adventuros-extreme",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:01.644Z",
-          "lastSeenAt": "2026-09-24T13:32:06.912Z",
-          "currentPriceCents": 1395,
-          "currentPriceEurCents": 1395,
-          "referencePriceCents": 1395,
-          "referencePriceEurCents": 1395
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Adventurous Extreme Eau de Toilette, 30 ml",
-          "url": "https://www.dm.de/p/d/1688778/tom-tailor-adventurous-extreme-eau-de-toilette",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:49.548Z",
-          "lastSeenAt": "2026-09-24T13:32:14.066Z",
-          "currentPriceCents": 995,
-          "currentPriceEurCents": 995,
-          "referencePriceCents": 995,
-          "referencePriceEurCents": 995
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Férfi EdT Adventurous Extreme, 30 ml",
-          "url": "https://www.dm.hu/p/d/1688778/tom-tailor-ferfi-edt-adventurous-extreme",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:22.854Z",
-          "lastSeenAt": "2026-09-24T13:32:21.725Z",
-          "currentPriceCents": 1099900,
-          "currentPriceEurCents": 2979,
-          "referencePriceCents": 1099900,
-          "referencePriceEurCents": 2979
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Toaletna voda za moške Adventurous Extreme, 30 ml",
-          "url": "https://www.dm.si/p/d/1688778/tom-tailor-toaletna-voda-za-moske-adventurous-extreme",
-          "isPromo": false,
-          "observedAt": "2026-09-24T13:31:56.275Z",
-          "lastSeenAt": "2026-09-24T13:31:56.275Z",
-          "currentPriceCents": 1490,
-          "currentPriceEurCents": 1490,
-          "referencePriceCents": 1490,
-          "referencePriceEurCents": 1490
-        }
-      ]
-    },
-    {
-      "productId": 14619,
-      "brand": "TOM TAILOR",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 199.4,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Cool Mind for him edt, 30 ml",
-          "url": "https://www.dm.hr/p/d/1708912/tom-tailor-cool-mind-for-him-edt",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:27.900Z",
-          "lastSeenAt": "2026-09-19T12:28:55.139Z",
-          "currentPriceCents": 1390,
-          "currentPriceEurCents": 1390,
-          "referencePriceCents": 1390,
-          "referencePriceEurCents": 1390
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Eau de Toilette Cool Mind, 30 ml",
-          "url": "https://www.dm.at/p/d/1708912/tom-tailor-eau-de-toilette-cool-mind",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:45.712Z",
-          "lastSeenAt": "2026-09-19T12:28:57.901Z",
-          "currentPriceCents": 1395,
-          "currentPriceEurCents": 1395,
-          "referencePriceCents": 1395,
-          "referencePriceEurCents": 1395
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Cool Mind for him Eau de Toilette, 30 ml",
-          "url": "https://www.dm.de/p/d/1708912/tom-tailor-cool-mind-for-him-eau-de-toilette",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:15.739Z",
-          "lastSeenAt": "2026-09-19T12:29:05.833Z",
-          "currentPriceCents": 995,
-          "currentPriceEurCents": 995,
-          "referencePriceCents": 995,
-          "referencePriceEurCents": 995
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Férfi EdT Cool Mind, 30 ml",
-          "url": "https://www.dm.hu/p/d/1708912/tom-tailor-ferfi-edt-cool-mind",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:22.854Z",
-          "lastSeenAt": "2026-09-19T12:29:08.876Z",
-          "currentPriceCents": 1099900,
-          "currentPriceEurCents": 2979,
-          "referencePriceCents": 1099900,
-          "referencePriceEurCents": 2979
+          "referencePriceEurCents": 136
         }
       ]
     },
@@ -1379,7 +1379,7 @@
       "productId": 5135,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 190.77,
+      "overallPercentDiff": 192.31,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1448,9 +1448,9 @@
           "observedAt": "2026-09-01T12:30:55.609Z",
           "lastSeenAt": "2026-09-20T13:02:31.610Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 189,
+          "currentPriceEurCents": 190,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 189
+          "referencePriceEurCents": 190
         }
       ]
     },
@@ -1458,7 +1458,7 @@
       "productId": 5206,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 190.77,
+      "overallPercentDiff": 192.31,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1499,9 +1499,9 @@
           "observedAt": "2026-09-01T12:29:59.422Z",
           "lastSeenAt": "2026-09-25T13:44:12.981Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 189,
+          "currentPriceEurCents": 190,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 189
+          "referencePriceEurCents": 190
         }
       ]
     },
