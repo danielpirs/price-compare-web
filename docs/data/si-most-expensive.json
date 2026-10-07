@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-06T11:52:22.113Z",
+  "generatedAt": "2026-10-07T11:37:24.644Z",
   "fx": {
-    "asOf": "2026-10-05",
+    "asOf": "2026-10-06",
     "rates": {
-      "USD": 1.1204,
-      "JPY": 177.28,
-      "CZK": 24.456,
-      "DKK": 7.4745,
-      "GBP": 0.8472,
-      "HUF": 367.8,
-      "PLN": 4.3795,
-      "RON": 5.3363,
-      "SEK": 11.2525,
-      "CHF": 0.9311,
-      "ISK": 137,
-      "NOK": 10.7575,
-      "TRY": 55.0755,
-      "AUD": 1.6097,
-      "BRL": 5.5849,
-      "CAD": 1.5969,
-      "CNY": 7.5118,
-      "HKD": 8.7925,
-      "IDR": 20069.89,
-      "ILS": 3.431,
-      "INR": 107.8915,
-      "KRW": 1505.8,
-      "MXN": 20.3348,
-      "MYR": 4.5791,
-      "NZD": 2.0038,
-      "PHP": 70.219,
-      "SGD": 1.4344,
-      "THB": 37.752,
-      "ZAR": 18.6263
+      "USD": 1.1269,
+      "JPY": 178.15,
+      "CZK": 24.405,
+      "DKK": 7.4747,
+      "GBP": 0.8488,
+      "HUF": 364.95,
+      "PLN": 4.365,
+      "RON": 5.351,
+      "SEK": 11.2425,
+      "CHF": 0.9359,
+      "ISK": 137.2,
+      "NOK": 10.778,
+      "TRY": 55.4196,
+      "AUD": 1.614,
+      "BRL": 5.5991,
+      "CAD": 1.6058,
+      "CNY": 7.5554,
+      "HKD": 8.8438,
+      "IDR": 20104.8,
+      "ILS": 3.4348,
+      "INR": 108.6615,
+      "KRW": 1508.67,
+      "MXN": 20.2217,
+      "MYR": 4.6034,
+      "NZD": 2.0061,
+      "PHP": 70.702,
+      "SGD": 1.4392,
+      "THB": 37.836,
+      "ZAR": 18.5829
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -117,7 +117,7 @@
       "productId": 19942,
       "brand": "Dontodent",
       "isCountryExtreme": true,
-      "overallPercentDiff": 548.15,
+      "overallPercentDiff": 536.36,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -158,9 +158,9 @@
           "observedAt": "2026-09-01T12:32:40.208Z",
           "lastSeenAt": "2026-09-13T13:18:24.645Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
+          "currentPriceEurCents": 55,
           "referencePriceCents": 19900,
-          "referencePriceEurCents": 54
+          "referencePriceEurCents": 55
         }
       ]
     },
@@ -219,7 +219,7 @@
       "productId": 2359,
       "brand": "WILKINSON SWORD",
       "isCountryExtreme": true,
-      "overallPercentDiff": 387.65,
+      "overallPercentDiff": 381.71,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -262,7 +262,7 @@
           "currentPriceCents": 14900,
           "currentPriceEurCents": 41,
           "referencePriceCents": 29900,
-          "referencePriceEurCents": 81
+          "referencePriceEurCents": 82
         }
       ]
     },
@@ -485,10 +485,47 @@
       ]
     },
     {
+      "productId": 2946,
+      "brand": "always",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 294.12,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "ultra noćni ulošci, 28 kom.",
+          "url": "https://www.dm.hr/p/d/2084907/always-ultra-nocni-ulosci",
+          "isPromo": true,
+          "observedAt": "2026-09-07T14:13:58.794Z",
+          "lastSeenAt": "2026-09-07T14:13:58.794Z",
+          "currentPriceCents": 40,
+          "currentPriceEurCents": 40,
+          "referencePriceCents": 170,
+          "referencePriceEurCents": 170
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Damski vložki Ultra Night, velikost 3, 28 kos",
+          "url": "https://www.dm.si/p/d/2084907/always-damski-vlozki-ultra-night-velikost-3",
+          "isPromo": true,
+          "observedAt": "2026-09-07T14:14:05.239Z",
+          "lastSeenAt": "2026-09-07T14:14:05.239Z",
+          "currentPriceCents": 470,
+          "currentPriceEurCents": 470,
+          "referencePriceCents": 670,
+          "referencePriceEurCents": 670
+        }
+      ]
+    },
+    {
       "productId": 18094,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 296.1,
+      "overallPercentDiff": 291.03,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -529,46 +566,9 @@
           "observedAt": "2026-09-01T12:32:28.621Z",
           "lastSeenAt": "2026-09-14T15:01:10.266Z",
           "currentPriceCents": 28500,
-          "currentPriceEurCents": 77,
+          "currentPriceEurCents": 78,
           "referencePriceCents": 28500,
-          "referencePriceEurCents": 77
-        }
-      ]
-    },
-    {
-      "productId": 2946,
-      "brand": "always",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 294.12,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "ultra noćni ulošci, 28 kom.",
-          "url": "https://www.dm.hr/p/d/2084907/always-ultra-nocni-ulosci",
-          "isPromo": true,
-          "observedAt": "2026-09-07T14:13:58.794Z",
-          "lastSeenAt": "2026-09-07T14:13:58.794Z",
-          "currentPriceCents": 40,
-          "currentPriceEurCents": 40,
-          "referencePriceCents": 170,
-          "referencePriceEurCents": 170
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Damski vložki Ultra Night, velikost 3, 28 kos",
-          "url": "https://www.dm.si/p/d/2084907/always-damski-vlozki-ultra-night-velikost-3",
-          "isPromo": true,
-          "observedAt": "2026-09-07T14:14:05.239Z",
-          "lastSeenAt": "2026-09-07T14:14:05.239Z",
-          "currentPriceCents": 470,
-          "currentPriceEurCents": 470,
-          "referencePriceCents": 670,
-          "referencePriceEurCents": 670
+          "referencePriceEurCents": 78
         }
       ]
     },
@@ -576,7 +576,7 @@
       "productId": 16879,
       "brand": "SKIN1004",
       "isCountryExtreme": true,
-      "overallPercentDiff": 256.6,
+      "overallPercentDiff": 253.93,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -617,9 +617,9 @@
           "observedAt": "2026-09-10T12:54:51.624Z",
           "lastSeenAt": "2026-09-10T12:54:51.624Z",
           "currentPriceCents": 94900,
-          "currentPriceEurCents": 258,
+          "currentPriceEurCents": 260,
           "referencePriceCents": 194900,
-          "referencePriceEurCents": 530
+          "referencePriceEurCents": 534
         }
       ]
     },
@@ -627,7 +627,7 @@
       "productId": 18416,
       "brand": "adidas",
       "isCountryExtreme": true,
-      "overallPercentDiff": 251.35,
+      "overallPercentDiff": 248.21,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -654,9 +654,9 @@
           "observedAt": "2026-09-14T15:01:07.257Z",
           "lastSeenAt": "2026-09-14T15:01:07.257Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
+          "currentPriceEurCents": 55,
           "referencePriceCents": 40900,
-          "referencePriceEurCents": 111
+          "referencePriceEurCents": 112
         }
       ]
     },
@@ -664,7 +664,7 @@
       "productId": 21037,
       "brand": "Beauty of Joseon",
       "isCountryExtreme": true,
-      "overallPercentDiff": 245.88,
+      "overallPercentDiff": 243.48,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -705,9 +705,9 @@
           "observedAt": "2026-10-03T19:06:13.313Z",
           "lastSeenAt": "2026-10-03T19:06:13.313Z",
           "currentPriceCents": 104900,
-          "currentPriceEurCents": 285,
+          "currentPriceEurCents": 287,
           "referencePriceCents": 209900,
-          "referencePriceEurCents": 571
+          "referencePriceEurCents": 575
         }
       ]
     },
@@ -715,7 +715,7 @@
       "productId": 17919,
       "brand": "Oral-B",
       "isCountryExtreme": true,
-      "overallPercentDiff": 245.24,
+      "overallPercentDiff": 242.52,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -742,9 +742,9 @@
           "observedAt": "2026-09-10T12:54:51.624Z",
           "lastSeenAt": "2026-09-10T12:54:51.624Z",
           "currentPriceCents": 29900,
-          "currentPriceEurCents": 81,
+          "currentPriceEurCents": 82,
           "referencePriceCents": 46500,
-          "referencePriceEurCents": 126
+          "referencePriceEurCents": 127
         }
       ]
     },
@@ -752,7 +752,7 @@
       "productId": 4018,
       "brand": "adidas",
       "isCountryExtreme": true,
-      "overallPercentDiff": 245.13,
+      "overallPercentDiff": 242.11,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -793,9 +793,9 @@
           "observedAt": "2026-09-07T14:14:25.021Z",
           "lastSeenAt": "2026-09-07T14:14:25.021Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
+          "currentPriceEurCents": 55,
           "referencePriceCents": 41500,
-          "referencePriceEurCents": 113
+          "referencePriceEurCents": 114
         }
       ]
     },
@@ -803,7 +803,7 @@
       "productId": 16410,
       "brand": "adidas",
       "isCountryExtreme": true,
-      "overallPercentDiff": 245.13,
+      "overallPercentDiff": 242.11,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -830,9 +830,9 @@
           "observedAt": "2026-10-03T19:06:17.999Z",
           "lastSeenAt": "2026-10-03T19:06:17.999Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
+          "currentPriceEurCents": 55,
           "referencePriceCents": 41500,
-          "referencePriceEurCents": 113
+          "referencePriceEurCents": 114
         }
       ]
     },
@@ -881,9 +881,9 @@
           "observedAt": "2026-09-01T12:31:42.358Z",
           "lastSeenAt": "2026-09-25T13:44:14.594Z",
           "currentPriceCents": 79900,
-          "currentPriceEurCents": 217,
+          "currentPriceEurCents": 219,
           "referencePriceCents": 79900,
-          "referencePriceEurCents": 217
+          "referencePriceEurCents": 219
         }
       ]
     },
@@ -932,9 +932,9 @@
           "observedAt": "2026-10-03T19:06:13.313Z",
           "lastSeenAt": "2026-10-03T19:06:13.313Z",
           "currentPriceCents": 219900,
-          "currentPriceEurCents": 598,
+          "currentPriceEurCents": 603,
           "referencePriceCents": 439900,
-          "referencePriceEurCents": 1196
+          "referencePriceEurCents": 1205
         }
       ]
     },
@@ -942,7 +942,7 @@
       "productId": 18438,
       "brand": "adidas",
       "isCountryExtreme": true,
-      "overallPercentDiff": 224.32,
+      "overallPercentDiff": 221.43,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -969,9 +969,9 @@
           "observedAt": "2026-10-03T19:06:17.999Z",
           "lastSeenAt": "2026-10-03T19:06:17.999Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
+          "currentPriceEurCents": 55,
           "referencePriceCents": 40900,
-          "referencePriceEurCents": 111
+          "referencePriceEurCents": 112
         }
       ]
     },
@@ -979,7 +979,7 @@
       "productId": 22917,
       "brand": "adidas",
       "isCountryExtreme": true,
-      "overallPercentDiff": 224.32,
+      "overallPercentDiff": 221.43,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1006,9 +1006,9 @@
           "observedAt": "2026-10-03T19:06:13.313Z",
           "lastSeenAt": "2026-10-03T19:06:13.313Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
+          "currentPriceEurCents": 55,
           "referencePriceCents": 40900,
-          "referencePriceEurCents": 111
+          "referencePriceEurCents": 112
         }
       ]
     },
@@ -1016,7 +1016,7 @@
       "productId": 1906,
       "brand": "GARNIER mineral",
       "isCountryExtreme": true,
-      "overallPercentDiff": 216,
+      "overallPercentDiff": 213.49,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1057,9 +1057,9 @@
           "observedAt": "2026-10-03T19:06:11.832Z",
           "lastSeenAt": "2026-10-03T19:06:11.832Z",
           "currentPriceCents": 22900,
-          "currentPriceEurCents": 62,
+          "currentPriceEurCents": 63,
           "referencePriceCents": 45900,
-          "referencePriceEurCents": 125
+          "referencePriceEurCents": 126
         }
       ]
     },
@@ -1108,9 +1108,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-09-12T12:10:03.246Z",
           "currentPriceCents": 59900,
-          "currentPriceEurCents": 163,
+          "currentPriceEurCents": 164,
           "referencePriceCents": 59900,
-          "referencePriceEurCents": 163
+          "referencePriceEurCents": 164
         }
       ]
     },
@@ -1118,7 +1118,7 @@
       "productId": 17734,
       "brand": "glade",
       "isCountryExtreme": true,
-      "overallPercentDiff": 208.14,
+      "overallPercentDiff": 205.77,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1145,9 +1145,9 @@
           "observedAt": "2026-09-14T15:01:03.538Z",
           "lastSeenAt": "2026-09-14T15:01:03.538Z",
           "currentPriceCents": 49900,
-          "currentPriceEurCents": 136,
+          "currentPriceEurCents": 137,
           "referencePriceCents": 94900,
-          "referencePriceEurCents": 258
+          "referencePriceEurCents": 260
         }
       ]
     },
@@ -1257,7 +1257,7 @@
       "productId": 25306,
       "brand": "Garnier Men",
       "isCountryExtreme": true,
-      "overallPercentDiff": 194.87,
+      "overallPercentDiff": 192.37,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1286,44 +1286,7 @@
           "currentPriceCents": 21900,
           "currentPriceEurCents": 60,
           "referencePriceCents": 42900,
-          "referencePriceEurCents": 117
-        }
-      ]
-    },
-    {
-      "productId": 19959,
-      "brand": "ebelin",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 190.44,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Blazinice za čiščenje kože z mrežico za pranje, 10 kos",
-          "url": "https://www.dm.si/p/d/1589774/ebelin-blazinice-za-ciscenje-koze-z-mrezico-za-pranje",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:17.496Z",
-          "lastSeenAt": "2026-10-03T19:13:17.496Z",
-          "currentPriceCents": 345,
-          "currentPriceEurCents": 345,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Sminklemosó korong mosóhálóval, 10 db",
-          "url": "https://www.dm.hu/p/d/1589774/ebelin-sminklemoso-korong-mosohaloval",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:06:07.103Z",
-          "lastSeenAt": "2026-10-03T19:06:07.103Z",
-          "currentPriceCents": 24900,
-          "currentPriceEurCents": 68,
-          "referencePriceCents": 49900,
-          "referencePriceEurCents": 136
+          "referencePriceEurCents": 118
         }
       ]
     },
@@ -1361,6 +1324,43 @@
           "currentPriceEurCents": 50,
           "referencePriceCents": 50,
           "referencePriceEurCents": 50
+        }
+      ]
+    },
+    {
+      "productId": 19959,
+      "brand": "ebelin",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 188.32,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Blazinice za čiščenje kože z mrežico za pranje, 10 kos",
+          "url": "https://www.dm.si/p/d/1589774/ebelin-blazinice-za-ciscenje-koze-z-mrezico-za-pranje",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:17.496Z",
+          "lastSeenAt": "2026-10-03T19:13:17.496Z",
+          "currentPriceCents": 345,
+          "currentPriceEurCents": 345,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Sminklemosó korong mosóhálóval, 10 db",
+          "url": "https://www.dm.hu/p/d/1589774/ebelin-sminklemoso-korong-mosohaloval",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:07.103Z",
+          "lastSeenAt": "2026-10-03T19:06:07.103Z",
+          "currentPriceCents": 24900,
+          "currentPriceEurCents": 68,
+          "referencePriceCents": 49900,
+          "referencePriceEurCents": 137
         }
       ]
     },
@@ -1423,9 +1423,9 @@
           "observedAt": "2026-09-01T12:32:07.099Z",
           "lastSeenAt": "2026-09-24T13:32:21.725Z",
           "currentPriceCents": 429900,
-          "currentPriceEurCents": 1169,
+          "currentPriceEurCents": 1178,
           "referencePriceCents": 429900,
-          "referencePriceEurCents": 1169
+          "referencePriceEurCents": 1178
         }
       ]
     }

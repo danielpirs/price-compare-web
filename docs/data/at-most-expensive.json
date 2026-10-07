@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-06T11:52:22.113Z",
+  "generatedAt": "2026-10-07T11:37:24.644Z",
   "fx": {
-    "asOf": "2026-10-05",
+    "asOf": "2026-10-06",
     "rates": {
-      "USD": 1.1204,
-      "JPY": 177.28,
-      "CZK": 24.456,
-      "DKK": 7.4745,
-      "GBP": 0.8472,
-      "HUF": 367.8,
-      "PLN": 4.3795,
-      "RON": 5.3363,
-      "SEK": 11.2525,
-      "CHF": 0.9311,
-      "ISK": 137,
-      "NOK": 10.7575,
-      "TRY": 55.0755,
-      "AUD": 1.6097,
-      "BRL": 5.5849,
-      "CAD": 1.5969,
-      "CNY": 7.5118,
-      "HKD": 8.7925,
-      "IDR": 20069.89,
-      "ILS": 3.431,
-      "INR": 107.8915,
-      "KRW": 1505.8,
-      "MXN": 20.3348,
-      "MYR": 4.5791,
-      "NZD": 2.0038,
-      "PHP": 70.219,
-      "SGD": 1.4344,
-      "THB": 37.752,
-      "ZAR": 18.6263
+      "USD": 1.1269,
+      "JPY": 178.15,
+      "CZK": 24.405,
+      "DKK": 7.4747,
+      "GBP": 0.8488,
+      "HUF": 364.95,
+      "PLN": 4.365,
+      "RON": 5.351,
+      "SEK": 11.2425,
+      "CHF": 0.9359,
+      "ISK": 137.2,
+      "NOK": 10.778,
+      "TRY": 55.4196,
+      "AUD": 1.614,
+      "BRL": 5.5991,
+      "CAD": 1.6058,
+      "CNY": 7.5554,
+      "HKD": 8.8438,
+      "IDR": 20104.8,
+      "ILS": 3.4348,
+      "INR": 108.6615,
+      "KRW": 1508.67,
+      "MXN": 20.2217,
+      "MYR": 4.6034,
+      "NZD": 2.0061,
+      "PHP": 70.702,
+      "SGD": 1.4392,
+      "THB": 37.836,
+      "ZAR": 18.5829
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -43,7 +43,7 @@
       "productId": 16938,
       "brand": "sundance",
       "isCountryExtreme": true,
-      "overallPercentDiff": 909.26,
+      "overallPercentDiff": 890.91,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -72,7 +72,7 @@
           "currentPriceCents": 9900,
           "currentPriceEurCents": 27,
           "referencePriceCents": 19900,
-          "referencePriceEurCents": 54
+          "referencePriceEurCents": 55
         }
       ]
     },
@@ -145,7 +145,7 @@
       "productId": 33703,
       "brand": "Scholl",
       "isCountryExtreme": true,
-      "overallPercentDiff": 426.44,
+      "overallPercentDiff": 422.83,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -186,9 +186,9 @@
           "observedAt": "2026-09-01T12:31:59.780Z",
           "lastSeenAt": "2026-09-11T12:49:03.415Z",
           "currentPriceCents": 159900,
-          "currentPriceEurCents": 435,
+          "currentPriceEurCents": 438,
           "referencePriceCents": 159900,
-          "referencePriceEurCents": 435
+          "referencePriceEurCents": 438
         }
       ]
     },
@@ -284,7 +284,7 @@
       "productId": 18518,
       "brand": "alverde NATURKOSMETIK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 312.04,
+      "overallPercentDiff": 308.26,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -325,9 +325,9 @@
           "observedAt": "2026-10-03T19:06:07.103Z",
           "lastSeenAt": "2026-10-03T19:06:07.103Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
+          "currentPriceEurCents": 55,
           "referencePriceCents": 39900,
-          "referencePriceEurCents": 108
+          "referencePriceEurCents": 109
         }
       ]
     },
@@ -427,9 +427,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-09-14T15:01:07.257Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 190,
+          "currentPriceEurCents": 192,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 190
+          "referencePriceEurCents": 192
         }
       ]
     },
@@ -485,47 +485,10 @@
       ]
     },
     {
-      "productId": 32727,
-      "brand": "alverde NATURKOSMETIK",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 264.2,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Abdeckstift & Contouring 01, 3,2 g",
-          "url": "https://www.dm.at/p/d/1453286/alverde-naturkosmetik-abdeckstift-und-contouring-01",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:02:15.740Z",
-          "lastSeenAt": "2026-10-03T19:02:15.740Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Kontúrozó és korrektor stift 01, 3,2 g",
-          "url": "https://www.dm.hu/p/d/1453286/alverde-naturkosmetik-konturozo-es-korrektor-stift-01",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:06:07.103Z",
-          "lastSeenAt": "2026-10-03T19:06:07.103Z",
-          "currentPriceCents": 14900,
-          "currentPriceEurCents": 41,
-          "referencePriceCents": 29900,
-          "referencePriceEurCents": 81
-        }
-      ]
-    },
-    {
       "productId": 18513,
       "brand": "alverde NATURKOSMETIK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 263.97,
+      "overallPercentDiff": 261.31,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -582,7 +545,44 @@
           "currentPriceCents": 24900,
           "currentPriceEurCents": 68,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 136
+          "referencePriceEurCents": 137
+        }
+      ]
+    },
+    {
+      "productId": 32727,
+      "brand": "alverde NATURKOSMETIK",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 259.76,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Abdeckstift & Contouring 01, 3,2 g",
+          "url": "https://www.dm.at/p/d/1453286/alverde-naturkosmetik-abdeckstift-und-contouring-01",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:02:15.740Z",
+          "lastSeenAt": "2026-10-03T19:02:15.740Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Kontúrozó és korrektor stift 01, 3,2 g",
+          "url": "https://www.dm.hu/p/d/1453286/alverde-naturkosmetik-konturozo-es-korrektor-stift-01",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:07.103Z",
+          "lastSeenAt": "2026-10-03T19:06:07.103Z",
+          "currentPriceCents": 14900,
+          "currentPriceEurCents": 41,
+          "referencePriceCents": 29900,
+          "referencePriceEurCents": 82
         }
       ]
     },
@@ -659,9 +659,9 @@
           "observedAt": "2026-09-01T12:32:54.339Z",
           "lastSeenAt": "2026-09-19T12:29:10.810Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1495,
+          "currentPriceEurCents": 1507,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1495
+          "referencePriceEurCents": 1507
         }
       ]
     },
@@ -738,9 +738,9 @@
           "observedAt": "2026-09-01T12:30:30.838Z",
           "lastSeenAt": "2026-09-25T13:44:12.981Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1495,
+          "currentPriceEurCents": 1507,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1495
+          "referencePriceEurCents": 1507
         }
       ]
     },
@@ -799,7 +799,7 @@
       "productId": 17624,
       "brand": "alverde NATURKOSMETIK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 249.26,
+      "overallPercentDiff": 246.72,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -856,7 +856,7 @@
           "currentPriceCents": 24900,
           "currentPriceEurCents": 68,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 136
+          "referencePriceEurCents": 137
         }
       ]
     },
@@ -864,7 +864,7 @@
       "productId": 18545,
       "brand": "alverde NATURKOSMETIK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 247.22,
+      "overallPercentDiff": 244.04,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -905,9 +905,9 @@
           "observedAt": "2026-09-10T12:54:51.624Z",
           "lastSeenAt": "2026-09-10T12:54:51.624Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
+          "currentPriceEurCents": 55,
           "referencePriceCents": 39900,
-          "referencePriceEurCents": 108
+          "referencePriceEurCents": 109
         }
       ]
     },
@@ -1051,47 +1051,10 @@
       ]
     },
     {
-      "productId": 32753,
-      "brand": "alverde NATURKOSMETIK",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 234.36,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Foundation Concealer Perfect Cover 05 Porcelain, 20 ml",
-          "url": "https://www.dm.at/p/d/1291785/alverde-naturkosmetik-foundation-concealer-perfect-cover-05-porcelain",
-          "isPromo": true,
-          "observedAt": "2026-09-06T12:08:06.156Z",
-          "lastSeenAt": "2026-09-06T12:08:06.156Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 545,
-          "referencePriceEurCents": 545
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Alapozó & korrektor Perfect Cover, 05 Porcelain, 20 ml",
-          "url": "https://www.dm.hu/p/d/1291785/alverde-naturkosmetik-alapozo-korrektor-perfect-cover-05-porcelain",
-          "isPromo": true,
-          "observedAt": "2026-09-06T12:08:10.605Z",
-          "lastSeenAt": "2026-09-06T12:08:10.605Z",
-          "currentPriceCents": 29900,
-          "currentPriceEurCents": 81,
-          "referencePriceCents": 59900,
-          "referencePriceEurCents": 163
-        }
-      ]
-    },
-    {
       "productId": 2685,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 229.79,
+      "overallPercentDiff": 227.46,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1134,123 +1097,7 @@
           "currentPriceCents": 24900,
           "currentPriceEurCents": 68,
           "referencePriceCents": 51900,
-          "referencePriceEurCents": 141
-        }
-      ]
-    },
-    {
-      "productId": 18509,
-      "brand": "alverde NATURKOSMETIK",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 227.16,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Senčilo za veke 019 Aquamarine, 1,5 g",
-          "url": "https://www.dm.si/p/d/1453305/alverde-naturkosmetik-sencilo-za-veke-019-aquamarine",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:14.941Z",
-          "lastSeenAt": "2026-10-03T19:13:14.941Z",
-          "currentPriceCents": 99,
-          "currentPriceEurCents": 99,
-          "referencePriceCents": 199,
-          "referencePriceEurCents": 199
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Lidschatten Mono 19 Aquamarine, 1,5 g",
-          "url": "https://www.dm.at/p/d/1453305/alverde-naturkosmetik-lidschatten-mono-19-aquamarine",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:02:15.740Z",
-          "lastSeenAt": "2026-10-03T19:02:15.740Z",
-          "currentPriceCents": 135,
-          "currentPriceEurCents": 135,
-          "referencePriceCents": 265,
-          "referencePriceEurCents": 265
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Lidschatten Mono 19 Aquamarine, 1,5 g",
-          "url": "https://www.dm.de/p/d/1453305/alverde-naturkosmetik-lidschatten-mono-19-aquamarine",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:03:39.249Z",
-          "lastSeenAt": "2026-10-03T19:03:39.249Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 225,
-          "referencePriceEurCents": 225
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Szemhéjpúder mono, 19 Aquamarine, 1,5 g",
-          "url": "https://www.dm.hu/p/d/1453305/alverde-naturkosmetik-szemhejpuder-mono-19-aquamarine",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:06:07.103Z",
-          "lastSeenAt": "2026-10-03T19:06:07.103Z",
-          "currentPriceCents": 14900,
-          "currentPriceEurCents": 41,
-          "referencePriceCents": 29900,
-          "referencePriceEurCents": 81
-        }
-      ]
-    },
-    {
-      "productId": 17302,
-      "brand": "Mivolis",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 226.32,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Mlečni sladkor, 500 g",
-          "url": "https://www.dm.si/p/d/1549718/mivolis-mlecni-sladkor",
-          "isPromo": true,
-          "observedAt": "2026-09-06T12:07:59.935Z",
-          "lastSeenAt": "2026-09-06T12:07:59.935Z",
-          "currentPriceCents": 65,
-          "currentPriceEurCents": 65,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Milchzucker, 500 g",
-          "url": "https://www.dm.at/p/d/1549718/mivolis-milchzucker",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:33.242Z",
-          "lastSeenAt": "2026-09-06T12:08:04.655Z",
-          "currentPriceCents": 310,
-          "currentPriceEurCents": 310,
-          "referencePriceCents": 310,
-          "referencePriceEurCents": 310
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Milchzucker, 0,5 kg",
-          "url": "https://www.dm.de/p/d/1549718/mivolis-milchzucker",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:10.408Z",
-          "lastSeenAt": "2026-09-06T12:08:16.382Z",
-          "currentPriceCents": 215,
-          "currentPriceEurCents": 215,
-          "referencePriceCents": 215,
-          "referencePriceEurCents": 215
+          "referencePriceEurCents": 142
         }
       ]
     },
@@ -1313,9 +1160,9 @@
           "observedAt": "2026-09-07T14:14:22.199Z",
           "lastSeenAt": "2026-09-07T14:14:22.199Z",
           "currentPriceCents": 29900,
-          "currentPriceEurCents": 81,
+          "currentPriceEurCents": 82,
           "referencePriceCents": 56500,
-          "referencePriceEurCents": 154
+          "referencePriceEurCents": 155
         }
       ]
     },
@@ -1392,46 +1239,74 @@
           "observedAt": "2026-09-08T13:15:29.800Z",
           "lastSeenAt": "2026-09-08T13:15:29.800Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 190,
+          "currentPriceEurCents": 192,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 190
+          "referencePriceEurCents": 192
         }
       ]
     },
     {
-      "productId": 39854,
-      "brand": "Varta",
+      "productId": 18509,
+      "brand": "alverde NATURKOSMETIK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 220.28,
+      "overallPercentDiff": 223.17,
       "gapToExtremePercent": 0,
       "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Senčilo za veke 019 Aquamarine, 1,5 g",
+          "url": "https://www.dm.si/p/d/1453305/alverde-naturkosmetik-sencilo-za-veke-019-aquamarine",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:14.941Z",
+          "lastSeenAt": "2026-10-03T19:13:14.941Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 199,
+          "referencePriceEurCents": 199
+        },
         {
           "countryCode": "AT",
           "shopId": "dm-at",
           "currency": "EUR",
-          "name": "Batterie Knopfzelle CR 2032 Lithium, 2 St",
-          "url": "https://www.dm.at/p/d/1881911/varta-batterie-knopfzelle-cr-2032-lithium",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:38:15.463Z",
-          "lastSeenAt": "2026-09-26T13:03:06.341Z",
-          "currentPriceCents": 695,
-          "currentPriceEurCents": 695,
-          "referencePriceCents": 695,
-          "referencePriceEurCents": 695
+          "name": "Lidschatten Mono 19 Aquamarine, 1,5 g",
+          "url": "https://www.dm.at/p/d/1453305/alverde-naturkosmetik-lidschatten-mono-19-aquamarine",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:02:15.740Z",
+          "lastSeenAt": "2026-10-03T19:02:15.740Z",
+          "currentPriceCents": 135,
+          "currentPriceEurCents": 135,
+          "referencePriceCents": 265,
+          "referencePriceEurCents": 265
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Lidschatten Mono 19 Aquamarine, 1,5 g",
+          "url": "https://www.dm.de/p/d/1453305/alverde-naturkosmetik-lidschatten-mono-19-aquamarine",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:03:39.249Z",
+          "lastSeenAt": "2026-10-03T19:03:39.249Z",
+          "currentPriceCents": 125,
+          "currentPriceEurCents": 125,
+          "referencePriceCents": 225,
+          "referencePriceEurCents": 225
         },
         {
           "countryCode": "HU",
           "shopId": "dm-hu",
           "currency": "HUF",
-          "name": "Gombelem CR 2032 litium, 2 db",
-          "url": "https://www.dm.hu/p/d/1881911/varta-gombelem-cr-2032-litium",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:00.665Z",
-          "lastSeenAt": "2026-09-26T13:03:14.475Z",
-          "currentPriceCents": 79900,
-          "currentPriceEurCents": 217,
-          "referencePriceCents": 79900,
-          "referencePriceEurCents": 217
+          "name": "Szemhéjpúder mono, 19 Aquamarine, 1,5 g",
+          "url": "https://www.dm.hu/p/d/1453305/alverde-naturkosmetik-szemhejpuder-mono-19-aquamarine",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:07.103Z",
+          "lastSeenAt": "2026-10-03T19:06:07.103Z",
+          "currentPriceCents": 14900,
+          "currentPriceEurCents": 41,
+          "referencePriceCents": 29900,
+          "referencePriceEurCents": 82
         }
       ]
     },
@@ -1494,74 +1369,46 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-09-09T12:58:07.591Z",
           "currentPriceCents": 61900,
-          "currentPriceEurCents": 168,
+          "currentPriceEurCents": 170,
           "referencePriceCents": 61900,
-          "referencePriceEurCents": 168
+          "referencePriceEurCents": 170
         }
       ]
     },
     {
-      "productId": 20706,
-      "brand": "HALLOHEBAMME",
+      "productId": 39854,
+      "brand": "Varta",
       "isCountryExtreme": true,
-      "overallPercentDiff": 216.67,
+      "overallPercentDiff": 217.35,
       "gapToExtremePercent": 0,
       "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Sproščujoča kopel za dojenčke z bio sivkinim oljem, 20 ml",
-          "url": "https://www.dm.si/p/d/2486245/hallohebamme-sproscujoca-kopel-za-dojencke-z-bio-sivkinim-oljem",
-          "isPromo": true,
-          "observedAt": "2026-09-06T12:07:59.935Z",
-          "lastSeenAt": "2026-09-06T12:07:59.935Z",
-          "currentPriceCents": 15,
-          "currentPriceEurCents": 15,
-          "referencePriceCents": 30,
-          "referencePriceEurCents": 30
-        },
         {
           "countryCode": "AT",
           "shopId": "dm-at",
           "currency": "EUR",
-          "name": "Baby Badezusatz Schlummer Bad, 20 ml",
-          "url": "https://www.dm.at/p/d/2486245/hallohebamme-baby-badezusatz-schlummer-bad",
+          "name": "Batterie Knopfzelle CR 2032 Lithium, 2 St",
+          "url": "https://www.dm.at/p/d/1881911/varta-batterie-knopfzelle-cr-2032-lithium",
           "isPromo": false,
-          "observedAt": "2026-08-30T22:35:57.773Z",
-          "lastSeenAt": "2026-10-06T11:14:37.262Z",
-          "currentPriceCents": 95,
-          "currentPriceEurCents": 95,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Baby Badezusatz Schlummer Bad, 20 ml",
-          "url": "https://www.dm.de/p/d/2486245/hallohebamme-baby-badezusatz-schlummer-bad",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:39.082Z",
-          "lastSeenAt": "2026-10-06T11:14:42.552Z",
-          "currentPriceCents": 95,
-          "currentPriceEurCents": 95,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
+          "observedAt": "2026-08-30T22:38:15.463Z",
+          "lastSeenAt": "2026-09-26T13:03:06.341Z",
+          "currentPriceCents": 695,
+          "currentPriceEurCents": 695,
+          "referencePriceCents": 695,
+          "referencePriceEurCents": 695
         },
         {
           "countryCode": "HU",
           "shopId": "dm-hu",
           "currency": "HUF",
-          "name": "Elalvást segítő babafürdető, 20 ml",
-          "url": "https://www.dm.hu/p/d/2486245/hallohebamme-elalvast-segito-babafurdeto",
-          "isPromo": true,
-          "observedAt": "2026-09-06T12:08:09.117Z",
-          "lastSeenAt": "2026-09-06T12:08:09.117Z",
-          "currentPriceCents": 9900,
-          "currentPriceEurCents": 27,
-          "referencePriceCents": 22900,
-          "referencePriceEurCents": 62
+          "name": "Gombelem CR 2032 litium, 2 db",
+          "url": "https://www.dm.hu/p/d/1881911/varta-gombelem-cr-2032-litium",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:00.665Z",
+          "lastSeenAt": "2026-09-26T13:03:14.475Z",
+          "currentPriceCents": 79900,
+          "currentPriceEurCents": 219,
+          "referencePriceCents": 79900,
+          "referencePriceEurCents": 219
         }
       ]
     },
@@ -1606,7 +1453,7 @@
       "productId": 32884,
       "brand": "GARNIER mineral",
       "isCountryExtreme": true,
-      "overallPercentDiff": 216,
+      "overallPercentDiff": 213.49,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1633,9 +1480,134 @@
           "observedAt": "2026-10-03T19:06:11.832Z",
           "lastSeenAt": "2026-10-03T19:06:11.832Z",
           "currentPriceCents": 22900,
-          "currentPriceEurCents": 62,
+          "currentPriceEurCents": 63,
           "referencePriceCents": 45900,
-          "referencePriceEurCents": 125
+          "referencePriceEurCents": 126
+        }
+      ]
+    },
+    {
+      "productId": 27426,
+      "brand": "4711",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 213.48,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Deo Zerstäuber Echt Kölnisch Wasser, 75 ml",
+          "url": "https://www.dm.at/p/d/1015890/4711-deo-zerstaeuber-echt-koelnisch-wasser",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:01.644Z",
+          "lastSeenAt": "2026-10-01T15:26:06.166Z",
+          "currentPriceCents": 1395,
+          "currentPriceEurCents": 1395,
+          "referencePriceCents": 1395,
+          "referencePriceEurCents": 1395
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Deo Naturalspray Echt Kölnisch Wasser, 75 ml",
+          "url": "https://www.dm.de/p/d/1015890/4711-deo-naturalspray-echt-koelnisch-wasser",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:05.412Z",
+          "lastSeenAt": "2026-10-01T15:26:02.083Z",
+          "currentPriceCents": 445,
+          "currentPriceEurCents": 445,
+          "referencePriceCents": 445,
+          "referencePriceEurCents": 445
+        }
+      ]
+    },
+    {
+      "productId": 27247,
+      "brand": "Garnier Skin Active",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 211.76,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Anti Pickel Waschgel Hautklar, 200 ml",
+          "url": "https://www.dm.at/p/d/1032155/garnier-skin-active-anti-pickel-waschgel-hautklar",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:00.636Z",
+          "lastSeenAt": "2026-09-10T12:54:32.258Z",
+          "currentPriceCents": 795,
+          "currentPriceEurCents": 795,
+          "referencePriceCents": 795,
+          "referencePriceEurCents": 795
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Anti Pickel Waschgel Hautklar, 200 ml",
+          "url": "https://www.dm.de/p/d/1032155/garnier-skin-active-anti-pickel-waschgel-hautklar",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:45.137Z",
+          "lastSeenAt": "2026-09-10T12:54:42.455Z",
+          "currentPriceCents": 255,
+          "currentPriceEurCents": 255,
+          "referencePriceCents": 255,
+          "referencePriceEurCents": 255
+        }
+      ]
+    },
+    {
+      "productId": 8224,
+      "brand": "trend !t up",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 210.53,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Cozy & Chic sprej za fiksiranje Vanilla Latte, 50 ml",
+          "url": "https://www.dm.hr/p/d/3092525/trend-t-up-cozy-chic-sprej-za-fiksiranje-vanilla-latte",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:04:19.530Z",
+          "lastSeenAt": "2026-10-03T19:04:19.530Z",
+          "currentPriceCents": 50,
+          "currentPriceEurCents": 50,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Sprej za utrjevanje ličil COZY & CHIC, 50 ml",
+          "url": "https://www.dm.si/p/d/3092525/trend-t-up-sprej-za-utrjevanje-licil-cozy-chic",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:33.748Z",
+          "lastSeenAt": "2026-10-03T19:13:33.748Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 199,
+          "referencePriceEurCents": 199
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Fixierspray Cozy & Chic Vanilla Latte, 50 ml",
+          "url": "https://www.dm.at/p/d/3092525/trend-t-up-fixierspray-cozy-und-chic-vanilla-latte",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:02:35.838Z",
+          "lastSeenAt": "2026-10-03T19:02:35.838Z",
+          "currentPriceCents": 175,
+          "currentPriceEurCents": 175,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
         }
       ]
     }

@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-06T11:52:22.113Z",
+  "generatedAt": "2026-10-07T11:37:24.644Z",
   "fx": {
-    "asOf": "2026-10-05",
+    "asOf": "2026-10-06",
     "rates": {
-      "USD": 1.1204,
-      "JPY": 177.28,
-      "CZK": 24.456,
-      "DKK": 7.4745,
-      "GBP": 0.8472,
-      "HUF": 367.8,
-      "PLN": 4.3795,
-      "RON": 5.3363,
-      "SEK": 11.2525,
-      "CHF": 0.9311,
-      "ISK": 137,
-      "NOK": 10.7575,
-      "TRY": 55.0755,
-      "AUD": 1.6097,
-      "BRL": 5.5849,
-      "CAD": 1.5969,
-      "CNY": 7.5118,
-      "HKD": 8.7925,
-      "IDR": 20069.89,
-      "ILS": 3.431,
-      "INR": 107.8915,
-      "KRW": 1505.8,
-      "MXN": 20.3348,
-      "MYR": 4.5791,
-      "NZD": 2.0038,
-      "PHP": 70.219,
-      "SGD": 1.4344,
-      "THB": 37.752,
-      "ZAR": 18.6263
+      "USD": 1.1269,
+      "JPY": 178.15,
+      "CZK": 24.405,
+      "DKK": 7.4747,
+      "GBP": 0.8488,
+      "HUF": 364.95,
+      "PLN": 4.365,
+      "RON": 5.351,
+      "SEK": 11.2425,
+      "CHF": 0.9359,
+      "ISK": 137.2,
+      "NOK": 10.778,
+      "TRY": 55.4196,
+      "AUD": 1.614,
+      "BRL": 5.5991,
+      "CAD": 1.6058,
+      "CNY": 7.5554,
+      "HKD": 8.8438,
+      "IDR": 20104.8,
+      "ILS": 3.4348,
+      "INR": 108.6615,
+      "KRW": 1508.67,
+      "MXN": 20.2217,
+      "MYR": 4.6034,
+      "NZD": 2.0061,
+      "PHP": 70.702,
+      "SGD": 1.4392,
+      "THB": 37.836,
+      "ZAR": 18.5829
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -40,75 +40,10 @@
   "kind": "cheapest",
   "items": [
     {
-      "productId": 11484,
-      "brand": "SUNDANCE",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 1001.85,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Teint koncentrat za samotamnjenje, 30 ml",
-          "url": "https://www.dm.hr/p/d/1535658/sundance-teint-koncentrat-za-samotamnjenje",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:08.143Z",
-          "lastSeenAt": "2026-10-06T11:14:33.828Z",
-          "currentPriceCents": 595,
-          "currentPriceEurCents": 595,
-          "referencePriceCents": 595,
-          "referencePriceEurCents": 595
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Selbstbräunerkonzentrat Teint, 30 ml",
-          "url": "https://www.dm.at/p/d/1535658/sundance-selbstbraeunerkonzentrat-teint",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:59.459Z",
-          "lastSeenAt": "2026-10-06T11:14:37.262Z",
-          "currentPriceCents": 595,
-          "currentPriceEurCents": 595,
-          "referencePriceCents": 595,
-          "referencePriceEurCents": 595
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Selbstbräuner Konzentrat TEINT, 30 ml",
-          "url": "https://www.dm.de/p/d/1535658/sundance-selbstbraeuner-konzentrat-teint",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:41.117Z",
-          "lastSeenAt": "2026-10-06T11:14:42.552Z",
-          "currentPriceCents": 525,
-          "currentPriceEurCents": 525,
-          "referencePriceCents": 525,
-          "referencePriceEurCents": 525
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Önbarnító koncentrátum Teint, 30 ml",
-          "url": "https://www.dm.hu/p/d/1535658/sundance-onbarnito-koncentratum-teint",
-          "isPromo": true,
-          "observedAt": "2026-09-06T12:08:10.605Z",
-          "lastSeenAt": "2026-09-06T12:08:10.605Z",
-          "currentPriceCents": 9900,
-          "currentPriceEurCents": 27,
-          "referencePriceCents": 19900,
-          "referencePriceEurCents": 54
-        }
-      ]
-    },
-    {
       "productId": 16938,
       "brand": "sundance",
       "isCountryExtreme": true,
-      "overallPercentDiff": 909.26,
+      "overallPercentDiff": 890.91,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -137,7 +72,7 @@
           "currentPriceCents": 9900,
           "currentPriceEurCents": 27,
           "referencePriceCents": 19900,
-          "referencePriceEurCents": 54
+          "referencePriceEurCents": 55
         }
       ]
     },
@@ -145,7 +80,7 @@
       "productId": 19942,
       "brand": "Dontodent",
       "isCountryExtreme": true,
-      "overallPercentDiff": 548.15,
+      "overallPercentDiff": 536.36,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -186,9 +121,9 @@
           "observedAt": "2026-09-01T12:32:40.208Z",
           "lastSeenAt": "2026-09-13T13:18:24.645Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
+          "currentPriceEurCents": 55,
           "referencePriceCents": 19900,
-          "referencePriceEurCents": 54
+          "referencePriceEurCents": 55
         }
       ]
     },
@@ -196,7 +131,7 @@
       "productId": 33703,
       "brand": "Scholl",
       "isCountryExtreme": true,
-      "overallPercentDiff": 426.44,
+      "overallPercentDiff": 422.83,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -237,9 +172,9 @@
           "observedAt": "2026-09-01T12:31:59.780Z",
           "lastSeenAt": "2026-09-11T12:49:03.415Z",
           "currentPriceCents": 159900,
-          "currentPriceEurCents": 435,
+          "currentPriceEurCents": 438,
           "referencePriceCents": 159900,
-          "referencePriceEurCents": 435
+          "referencePriceEurCents": 438
         }
       ]
     },
@@ -335,7 +270,7 @@
       "productId": 2359,
       "brand": "WILKINSON SWORD",
       "isCountryExtreme": true,
-      "overallPercentDiff": 387.65,
+      "overallPercentDiff": 381.71,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -378,7 +313,7 @@
           "currentPriceCents": 14900,
           "currentPriceEurCents": 41,
           "referencePriceCents": 29900,
-          "referencePriceEurCents": 81
+          "referencePriceEurCents": 82
         }
       ]
     },
@@ -386,7 +321,7 @@
       "productId": 9014,
       "brand": "HALLOHEBAMME",
       "isCountryExtreme": true,
-      "overallPercentDiff": 343.82,
+      "overallPercentDiff": 338.89,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -443,7 +378,7 @@
           "currentPriceCents": 9900,
           "currentPriceEurCents": 27,
           "referencePriceCents": 32900,
-          "referencePriceEurCents": 89
+          "referencePriceEurCents": 90
         }
       ]
     },
@@ -595,7 +530,7 @@
       "productId": 18518,
       "brand": "alverde NATURKOSMETIK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 312.04,
+      "overallPercentDiff": 308.26,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -636,9 +571,9 @@
           "observedAt": "2026-10-03T19:06:07.103Z",
           "lastSeenAt": "2026-10-03T19:06:07.103Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
+          "currentPriceEurCents": 55,
           "referencePriceCents": 39900,
-          "referencePriceEurCents": 108
+          "referencePriceEurCents": 109
         }
       ]
     },
@@ -646,7 +581,7 @@
       "productId": 18094,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 296.1,
+      "overallPercentDiff": 291.03,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -687,46 +622,9 @@
           "observedAt": "2026-09-01T12:32:28.621Z",
           "lastSeenAt": "2026-09-14T15:01:10.266Z",
           "currentPriceCents": 28500,
-          "currentPriceEurCents": 77,
+          "currentPriceEurCents": 78,
           "referencePriceCents": 28500,
-          "referencePriceEurCents": 77
-        }
-      ]
-    },
-    {
-      "productId": 32727,
-      "brand": "alverde NATURKOSMETIK",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 264.2,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Abdeckstift & Contouring 01, 3,2 g",
-          "url": "https://www.dm.at/p/d/1453286/alverde-naturkosmetik-abdeckstift-und-contouring-01",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:02:15.740Z",
-          "lastSeenAt": "2026-10-03T19:02:15.740Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Kontúrozó és korrektor stift 01, 3,2 g",
-          "url": "https://www.dm.hu/p/d/1453286/alverde-naturkosmetik-konturozo-es-korrektor-stift-01",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:06:07.103Z",
-          "lastSeenAt": "2026-10-03T19:06:07.103Z",
-          "currentPriceCents": 14900,
-          "currentPriceEurCents": 41,
-          "referencePriceCents": 29900,
-          "referencePriceEurCents": 81
+          "referencePriceEurCents": 78
         }
       ]
     },
@@ -734,7 +632,7 @@
       "productId": 18513,
       "brand": "alverde NATURKOSMETIK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 263.97,
+      "overallPercentDiff": 261.31,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -791,7 +689,44 @@
           "currentPriceCents": 24900,
           "currentPriceEurCents": 68,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 136
+          "referencePriceEurCents": 137
+        }
+      ]
+    },
+    {
+      "productId": 32727,
+      "brand": "alverde NATURKOSMETIK",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 259.76,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Abdeckstift & Contouring 01, 3,2 g",
+          "url": "https://www.dm.at/p/d/1453286/alverde-naturkosmetik-abdeckstift-und-contouring-01",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:02:15.740Z",
+          "lastSeenAt": "2026-10-03T19:02:15.740Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Kontúrozó és korrektor stift 01, 3,2 g",
+          "url": "https://www.dm.hu/p/d/1453286/alverde-naturkosmetik-konturozo-es-korrektor-stift-01",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:07.103Z",
+          "lastSeenAt": "2026-10-03T19:06:07.103Z",
+          "currentPriceCents": 14900,
+          "currentPriceEurCents": 41,
+          "referencePriceCents": 29900,
+          "referencePriceEurCents": 82
         }
       ]
     },
@@ -799,7 +734,7 @@
       "productId": 9740,
       "brand": "Moschino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 259.82,
+      "overallPercentDiff": 256.93,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -840,9 +775,9 @@
           "observedAt": "2026-10-03T19:06:11.832Z",
           "lastSeenAt": "2026-10-03T19:06:11.832Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 679,
+          "currentPriceEurCents": 685,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1359
+          "referencePriceEurCents": 1370
         }
       ]
     },
@@ -850,7 +785,7 @@
       "productId": 16879,
       "brand": "SKIN1004",
       "isCountryExtreme": true,
-      "overallPercentDiff": 256.6,
+      "overallPercentDiff": 253.93,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -891,9 +826,9 @@
           "observedAt": "2026-09-10T12:54:51.624Z",
           "lastSeenAt": "2026-09-10T12:54:51.624Z",
           "currentPriceCents": 94900,
-          "currentPriceEurCents": 258,
+          "currentPriceEurCents": 260,
           "referencePriceCents": 194900,
-          "referencePriceEurCents": 530
+          "referencePriceEurCents": 534
         }
       ]
     },
@@ -901,7 +836,7 @@
       "productId": 18416,
       "brand": "adidas",
       "isCountryExtreme": true,
-      "overallPercentDiff": 251.35,
+      "overallPercentDiff": 248.21,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -928,9 +863,9 @@
           "observedAt": "2026-09-14T15:01:07.257Z",
           "lastSeenAt": "2026-09-14T15:01:07.257Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
+          "currentPriceEurCents": 55,
           "referencePriceCents": 40900,
-          "referencePriceEurCents": 111
+          "referencePriceEurCents": 112
         }
       ]
     },
@@ -938,7 +873,7 @@
       "productId": 17624,
       "brand": "alverde NATURKOSMETIK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 249.26,
+      "overallPercentDiff": 246.72,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -995,7 +930,7 @@
           "currentPriceCents": 24900,
           "currentPriceEurCents": 68,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 136
+          "referencePriceEurCents": 137
         }
       ]
     },
@@ -1003,7 +938,7 @@
       "productId": 18545,
       "brand": "alverde NATURKOSMETIK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 247.22,
+      "overallPercentDiff": 244.04,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1044,9 +979,9 @@
           "observedAt": "2026-09-10T12:54:51.624Z",
           "lastSeenAt": "2026-09-10T12:54:51.624Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
+          "currentPriceEurCents": 55,
           "referencePriceCents": 39900,
-          "referencePriceEurCents": 108
+          "referencePriceEurCents": 109
         }
       ]
     },
@@ -1054,7 +989,7 @@
       "productId": 21037,
       "brand": "Beauty of Joseon",
       "isCountryExtreme": true,
-      "overallPercentDiff": 245.88,
+      "overallPercentDiff": 243.48,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1095,9 +1030,9 @@
           "observedAt": "2026-10-03T19:06:13.313Z",
           "lastSeenAt": "2026-10-03T19:06:13.313Z",
           "currentPriceCents": 104900,
-          "currentPriceEurCents": 285,
+          "currentPriceEurCents": 287,
           "referencePriceCents": 209900,
-          "referencePriceEurCents": 571
+          "referencePriceEurCents": 575
         }
       ]
     },
@@ -1105,7 +1040,7 @@
       "productId": 17919,
       "brand": "Oral-B",
       "isCountryExtreme": true,
-      "overallPercentDiff": 245.24,
+      "overallPercentDiff": 242.52,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1132,9 +1067,9 @@
           "observedAt": "2026-09-10T12:54:51.624Z",
           "lastSeenAt": "2026-09-10T12:54:51.624Z",
           "currentPriceCents": 29900,
-          "currentPriceEurCents": 81,
+          "currentPriceEurCents": 82,
           "referencePriceCents": 46500,
-          "referencePriceEurCents": 126
+          "referencePriceEurCents": 127
         }
       ]
     },
@@ -1142,7 +1077,7 @@
       "productId": 4018,
       "brand": "adidas",
       "isCountryExtreme": true,
-      "overallPercentDiff": 245.13,
+      "overallPercentDiff": 242.11,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1183,9 +1118,9 @@
           "observedAt": "2026-09-07T14:14:25.021Z",
           "lastSeenAt": "2026-09-07T14:14:25.021Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
+          "currentPriceEurCents": 55,
           "referencePriceCents": 41500,
-          "referencePriceEurCents": 113
+          "referencePriceEurCents": 114
         }
       ]
     },
@@ -1193,7 +1128,7 @@
       "productId": 16410,
       "brand": "adidas",
       "isCountryExtreme": true,
-      "overallPercentDiff": 245.13,
+      "overallPercentDiff": 242.11,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1220,46 +1155,9 @@
           "observedAt": "2026-10-03T19:06:17.999Z",
           "lastSeenAt": "2026-10-03T19:06:17.999Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
+          "currentPriceEurCents": 55,
           "referencePriceCents": 41500,
-          "referencePriceEurCents": 113
-        }
-      ]
-    },
-    {
-      "productId": 32753,
-      "brand": "alverde NATURKOSMETIK",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 234.36,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Foundation Concealer Perfect Cover 05 Porcelain, 20 ml",
-          "url": "https://www.dm.at/p/d/1291785/alverde-naturkosmetik-foundation-concealer-perfect-cover-05-porcelain",
-          "isPromo": true,
-          "observedAt": "2026-09-06T12:08:06.156Z",
-          "lastSeenAt": "2026-09-06T12:08:06.156Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 545,
-          "referencePriceEurCents": 545
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Alapozó & korrektor Perfect Cover, 05 Porcelain, 20 ml",
-          "url": "https://www.dm.hu/p/d/1291785/alverde-naturkosmetik-alapozo-korrektor-perfect-cover-05-porcelain",
-          "isPromo": true,
-          "observedAt": "2026-09-06T12:08:10.605Z",
-          "lastSeenAt": "2026-09-06T12:08:10.605Z",
-          "currentPriceCents": 29900,
-          "currentPriceEurCents": 81,
-          "referencePriceCents": 59900,
-          "referencePriceEurCents": 163
+          "referencePriceEurCents": 114
         }
       ]
     },
@@ -1267,7 +1165,7 @@
       "productId": 2685,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 229.79,
+      "overallPercentDiff": 227.46,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1310,7 +1208,7 @@
           "currentPriceCents": 24900,
           "currentPriceEurCents": 68,
           "referencePriceCents": 51900,
-          "referencePriceEurCents": 141
+          "referencePriceEurCents": 142
         }
       ]
     },
@@ -1318,7 +1216,7 @@
       "productId": 10037,
       "brand": "AXE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 228.86,
+      "overallPercentDiff": 226.67,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1361,7 +1259,7 @@
           "currentPriceCents": 27900,
           "currentPriceEurCents": 76,
           "referencePriceCents": 54900,
-          "referencePriceEurCents": 149
+          "referencePriceEurCents": 150
         }
       ]
     },
@@ -1369,7 +1267,7 @@
       "productId": 18509,
       "brand": "alverde NATURKOSMETIK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 227.16,
+      "overallPercentDiff": 223.17,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1426,7 +1324,7 @@
           "currentPriceCents": 14900,
           "currentPriceEurCents": 41,
           "referencePriceCents": 29900,
-          "referencePriceEurCents": 81
+          "referencePriceEurCents": 82
         }
       ]
     },
@@ -1434,7 +1332,7 @@
       "productId": 18438,
       "brand": "adidas",
       "isCountryExtreme": true,
-      "overallPercentDiff": 224.32,
+      "overallPercentDiff": 221.43,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1461,9 +1359,9 @@
           "observedAt": "2026-10-03T19:06:17.999Z",
           "lastSeenAt": "2026-10-03T19:06:17.999Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
+          "currentPriceEurCents": 55,
           "referencePriceCents": 40900,
-          "referencePriceEurCents": 111
+          "referencePriceEurCents": 112
         }
       ]
     },
@@ -1471,7 +1369,7 @@
       "productId": 22917,
       "brand": "adidas",
       "isCountryExtreme": true,
-      "overallPercentDiff": 224.32,
+      "overallPercentDiff": 221.43,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1498,9 +1396,9 @@
           "observedAt": "2026-10-03T19:06:13.313Z",
           "lastSeenAt": "2026-10-03T19:06:13.313Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
+          "currentPriceEurCents": 55,
           "referencePriceCents": 40900,
-          "referencePriceEurCents": 111
+          "referencePriceEurCents": 112
         }
       ]
     },
@@ -1508,7 +1406,7 @@
       "productId": 1204,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 220.28,
+      "overallPercentDiff": 217.35,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1549,9 +1447,97 @@
           "observedAt": "2026-09-12T12:10:03.246Z",
           "lastSeenAt": "2026-09-12T12:10:03.246Z",
           "currentPriceCents": 39900,
-          "currentPriceEurCents": 108,
+          "currentPriceEurCents": 109,
           "referencePriceCents": 79900,
-          "referencePriceEurCents": 217
+          "referencePriceEurCents": 219
+        }
+      ]
+    },
+    {
+      "productId": 39854,
+      "brand": "Varta",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 217.35,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Batterie Knopfzelle CR 2032 Lithium, 2 St",
+          "url": "https://www.dm.at/p/d/1881911/varta-batterie-knopfzelle-cr-2032-lithium",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:38:15.463Z",
+          "lastSeenAt": "2026-09-26T13:03:06.341Z",
+          "currentPriceCents": 695,
+          "currentPriceEurCents": 695,
+          "referencePriceCents": 695,
+          "referencePriceEurCents": 695
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Gombelem CR 2032 litium, 2 db",
+          "url": "https://www.dm.hu/p/d/1881911/varta-gombelem-cr-2032-litium",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:00.665Z",
+          "lastSeenAt": "2026-09-26T13:03:14.475Z",
+          "currentPriceCents": 79900,
+          "currentPriceEurCents": 219,
+          "referencePriceCents": 79900,
+          "referencePriceEurCents": 219
+        }
+      ]
+    },
+    {
+      "productId": 1906,
+      "brand": "GARNIER mineral",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 213.49,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Dezodorant Protection, 150 ml",
+          "url": "https://www.dm.si/p/d/2075332/garnier-mineral-dezodorant-protection",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:55:14.893Z",
+          "lastSeenAt": "2026-10-01T15:25:49.466Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "6-in-1 Protection dezodorans u spreju Floral Fresh, 150 ml",
+          "url": "https://www.dm.hr/p/d/2075332/garnier-mineral-6-in-1-protection-dezodorans-u-spreju-floral-fresh",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:42.747Z",
+          "lastSeenAt": "2026-10-01T15:25:53.408Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Deo spray 6in1 Mineralite, Floral Fresh, 150 ml",
+          "url": "https://www.dm.hu/p/d/2075332/garnier-mineral-deo-spray-6in1-mineralite-floral-fresh",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:11.832Z",
+          "lastSeenAt": "2026-10-03T19:06:11.832Z",
+          "currentPriceCents": 22900,
+          "currentPriceEurCents": 63,
+          "referencePriceCents": 45900,
+          "referencePriceEurCents": 126
         }
       ]
     }
