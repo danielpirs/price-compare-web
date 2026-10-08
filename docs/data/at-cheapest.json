@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-07T11:37:24.644Z",
+  "generatedAt": "2026-10-08T11:51:54.707Z",
   "fx": {
-    "asOf": "2026-10-06",
+    "asOf": "2026-10-07",
     "rates": {
-      "USD": 1.1269,
-      "JPY": 178.15,
-      "CZK": 24.405,
-      "DKK": 7.4747,
-      "GBP": 0.8488,
-      "HUF": 364.95,
-      "PLN": 4.365,
-      "RON": 5.351,
-      "SEK": 11.2425,
-      "CHF": 0.9359,
-      "ISK": 137.2,
-      "NOK": 10.778,
-      "TRY": 55.4196,
-      "AUD": 1.614,
-      "BRL": 5.5991,
-      "CAD": 1.6058,
-      "CNY": 7.5554,
-      "HKD": 8.8438,
-      "IDR": 20104.8,
-      "ILS": 3.4348,
-      "INR": 108.6615,
-      "KRW": 1508.67,
-      "MXN": 20.2217,
-      "MYR": 4.6034,
-      "NZD": 2.0061,
-      "PHP": 70.702,
-      "SGD": 1.4392,
-      "THB": 37.836,
-      "ZAR": 18.5829
+      "USD": 1.1177,
+      "JPY": 176.85,
+      "CZK": 24.427,
+      "DKK": 7.4745,
+      "GBP": 0.84645,
+      "HUF": 366.75,
+      "PLN": 4.3825,
+      "RON": 5.3528,
+      "SEK": 11.224,
+      "CHF": 0.9309,
+      "ISK": 137,
+      "NOK": 10.712,
+      "TRY": 54.9822,
+      "AUD": 1.6079,
+      "BRL": 5.5953,
+      "CAD": 1.5931,
+      "CNY": 7.4937,
+      "HKD": 8.7722,
+      "IDR": 19974.25,
+      "ILS": 3.429,
+      "INR": 108.1165,
+      "KRW": 1496.25,
+      "MXN": 20.2236,
+      "MYR": 4.5692,
+      "NZD": 1.9977,
+      "PHP": 70.203,
+      "SGD": 1.4311,
+      "THB": 37.661,
+      "ZAR": 18.6539
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -40,61 +40,10 @@
   "kind": "cheapest",
   "items": [
     {
-      "productId": 10472,
-      "brand": "SABRINA CARPENTER",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 285.53,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Sweet Tooth Me Espresso edp, 30 ml",
-          "url": "https://www.dm.hr/p/d/3082418/sabrina-carpenter-sweet-tooth-me-espresso-edp",
-          "isPromo": true,
-          "observedAt": "2026-09-07T14:14:01.185Z",
-          "lastSeenAt": "2026-09-07T14:14:01.185Z",
-          "currentPriceCents": 320,
-          "currentPriceEurCents": 320,
-          "referencePriceCents": 1445,
-          "referencePriceEurCents": 1445
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Eau de Parfum Sweet Tooth Me Espresso, 30 ml",
-          "url": "https://www.dm.at/p/d/3082418/sabrina-carpenter-eau-de-parfum-sweet-tooth-me-espresso",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:37:34.729Z",
-          "lastSeenAt": "2026-09-07T14:14:14.000Z",
-          "currentPriceCents": 995,
-          "currentPriceEurCents": 995,
-          "referencePriceCents": 995,
-          "referencePriceEurCents": 995
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Női EdP Sweet Tooth Me Espresso, 30 ml",
-          "url": "https://www.dm.hu/p/d/3082418/sabrina-carpenter-noi-edp-sweet-tooth-me-espresso",
-          "isPromo": true,
-          "observedAt": "2026-09-07T14:14:22.199Z",
-          "lastSeenAt": "2026-09-07T14:14:22.199Z",
-          "currentPriceCents": 699900,
-          "currentPriceEurCents": 1918,
-          "referencePriceCents": 1399900,
-          "referencePriceEurCents": 3836
-        }
-      ]
-    },
-    {
       "productId": 35767,
       "brand": "POLICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 211.57,
+      "overallPercentDiff": 210.03,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -121,9 +70,9 @@
           "observedAt": "2026-09-01T12:30:22.854Z",
           "lastSeenAt": "2026-09-21T15:05:41.766Z",
           "currentPriceCents": 1699900,
-          "currentPriceEurCents": 4658,
+          "currentPriceEurCents": 4635,
           "referencePriceCents": 1699900,
-          "referencePriceEurCents": 4658
+          "referencePriceEurCents": 4635
         }
       ]
     },
@@ -131,7 +80,7 @@
       "productId": 35884,
       "brand": "POLICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 211.57,
+      "overallPercentDiff": 210.03,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -158,9 +107,9 @@
           "observedAt": "2026-09-01T12:30:07.326Z",
           "lastSeenAt": "2026-09-23T13:37:24.417Z",
           "currentPriceCents": 1699900,
-          "currentPriceEurCents": 4658,
+          "currentPriceEurCents": 4635,
           "referencePriceCents": 1699900,
-          "referencePriceEurCents": 4658
+          "referencePriceEurCents": 4635
         }
       ]
     },
@@ -168,7 +117,7 @@
       "productId": 27011,
       "brand": "Frosch",
       "isCountryExtreme": true,
-      "overallPercentDiff": 197.29,
+      "overallPercentDiff": 195.59,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -209,9 +158,9 @@
           "observedAt": "2026-09-01T12:31:43.995Z",
           "lastSeenAt": "2026-10-05T17:07:29.410Z",
           "currentPriceCents": 319900,
-          "currentPriceEurCents": 877,
+          "currentPriceEurCents": 872,
           "referencePriceCents": 319900,
-          "referencePriceEurCents": 877
+          "referencePriceEurCents": 872
         }
       ]
     },
@@ -219,7 +168,7 @@
       "productId": 31206,
       "brand": "Jaguar",
       "isCountryExtreme": true,
-      "overallPercentDiff": 190.03,
+      "overallPercentDiff": 188.58,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -260,9 +209,9 @@
           "observedAt": "2026-09-01T12:30:19.979Z",
           "lastSeenAt": "2026-09-26T13:03:13.135Z",
           "currentPriceCents": 1899900,
-          "currentPriceEurCents": 5206,
+          "currentPriceEurCents": 5180,
           "referencePriceCents": 1899900,
-          "referencePriceEurCents": 5206
+          "referencePriceEurCents": 5180
         }
       ]
     },
@@ -270,7 +219,7 @@
       "productId": 36552,
       "brand": "Jaguar",
       "isCountryExtreme": true,
-      "overallPercentDiff": 190.03,
+      "overallPercentDiff": 188.58,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -297,9 +246,9 @@
           "observedAt": "2026-09-01T12:30:19.979Z",
           "lastSeenAt": "2026-09-17T13:25:33.061Z",
           "currentPriceCents": 1899900,
-          "currentPriceEurCents": 5206,
+          "currentPriceEurCents": 5180,
           "referencePriceCents": 1899900,
-          "referencePriceEurCents": 5206
+          "referencePriceEurCents": 5180
         }
       ]
     },
@@ -307,7 +256,7 @@
       "productId": 15608,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 188.42,
+      "overallPercentDiff": 186.32,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -348,9 +297,9 @@
           "observedAt": "2026-09-24T13:32:19.547Z",
           "lastSeenAt": "2026-09-24T13:32:19.547Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 274,
+          "currentPriceEurCents": 272,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 274
+          "referencePriceEurCents": 272
         }
       ]
     },
@@ -384,43 +333,6 @@
           "isPromo": false,
           "observedAt": "2026-08-31T20:41:26.297Z",
           "lastSeenAt": "2026-09-10T12:54:40.394Z",
-          "currentPriceCents": 995,
-          "currentPriceEurCents": 995,
-          "referencePriceCents": 995,
-          "referencePriceEurCents": 995
-        }
-      ]
-    },
-    {
-      "productId": 23740,
-      "brand": "ESPRIT",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 150.75,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Darilni set Pink Moments, 1 kos",
-          "url": "https://www.dm.si/p/d/2976729/esprit-darilni-set-pink-moments",
-          "isPromo": true,
-          "observedAt": "2026-09-07T14:14:06.698Z",
-          "lastSeenAt": "2026-09-07T14:14:06.698Z",
-          "currentPriceCents": 1250,
-          "currentPriceEurCents": 1250,
-          "referencePriceCents": 2495,
-          "referencePriceEurCents": 2495
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Geschenkset Pink Moments, 1 St",
-          "url": "https://www.dm.at/p/d/2976729/esprit-geschenkset-pink-moments",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:38:00.469Z",
-          "lastSeenAt": "2026-09-07T14:14:15.215Z",
           "currentPriceCents": 995,
           "currentPriceEurCents": 995,
           "referencePriceCents": 995,
@@ -469,7 +381,7 @@
       "productId": 3432,
       "brand": "NIVEA",
       "isCountryExtreme": true,
-      "overallPercentDiff": 150.29,
+      "overallPercentDiff": 149.14,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -524,9 +436,9 @@
           "observedAt": "2026-09-01T12:32:49.604Z",
           "lastSeenAt": "2026-09-14T15:01:10.266Z",
           "currentPriceCents": 159900,
-          "currentPriceEurCents": 438,
+          "currentPriceEurCents": 436,
           "referencePriceCents": 159900,
-          "referencePriceEurCents": 438
+          "referencePriceEurCents": 436
         }
       ]
     },
@@ -534,7 +446,7 @@
       "productId": 9739,
       "brand": "VERSACE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 147.22,
+      "overallPercentDiff": 146.02,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -589,9 +501,9 @@
           "observedAt": "2026-09-01T12:30:22.854Z",
           "lastSeenAt": "2026-09-26T13:03:13.135Z",
           "currentPriceCents": 1799900,
-          "currentPriceEurCents": 4932,
+          "currentPriceEurCents": 4908,
           "referencePriceCents": 1799900,
-          "referencePriceEurCents": 4932
+          "referencePriceEurCents": 4908
         }
       ]
     },
@@ -599,7 +511,7 @@
       "productId": 1798,
       "brand": "Dr.Beckmann",
       "isCountryExtreme": true,
-      "overallPercentDiff": 144.31,
+      "overallPercentDiff": 143.08,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -640,9 +552,9 @@
           "observedAt": "2026-09-01T12:32:54.339Z",
           "lastSeenAt": "2026-09-15T13:31:22.372Z",
           "currentPriceCents": 289900,
-          "currentPriceEurCents": 794,
+          "currentPriceEurCents": 790,
           "referencePriceCents": 289900,
-          "referencePriceEurCents": 794
+          "referencePriceEurCents": 790
         }
       ]
     },
@@ -756,9 +668,9 @@
           "observedAt": "2026-09-01T12:30:30.838Z",
           "lastSeenAt": "2026-09-09T12:58:04.990Z",
           "currentPriceCents": 169900,
-          "currentPriceEurCents": 466,
+          "currentPriceEurCents": 463,
           "referencePriceCents": 169900,
-          "referencePriceEurCents": 466
+          "referencePriceEurCents": 463
         }
       ]
     },
@@ -845,7 +757,7 @@
       "productId": 10626,
       "brand": "MUSTANG",
       "isCountryExtreme": true,
-      "overallPercentDiff": 129.29,
+      "overallPercentDiff": 128.12,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -900,9 +812,9 @@
           "observedAt": "2026-09-01T12:30:25.739Z",
           "lastSeenAt": "2026-09-10T12:54:49.395Z",
           "currentPriceCents": 999900,
-          "currentPriceEurCents": 2740,
+          "currentPriceEurCents": 2726,
           "referencePriceCents": 999900,
-          "referencePriceEurCents": 2740
+          "referencePriceEurCents": 2726
         }
       ]
     },
@@ -910,7 +822,7 @@
       "productId": 2618,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 129.1,
+      "overallPercentDiff": 127.96,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -965,9 +877,9 @@
           "observedAt": "2026-09-01T12:30:22.854Z",
           "lastSeenAt": "2026-09-15T13:31:22.372Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3425,
+          "currentPriceEurCents": 3408,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3425
+          "referencePriceEurCents": 3408
         }
       ]
     },
@@ -975,7 +887,7 @@
       "productId": 3530,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 129.1,
+      "overallPercentDiff": 127.96,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1030,9 +942,9 @@
           "observedAt": "2026-09-01T12:29:59.422Z",
           "lastSeenAt": "2026-09-19T12:29:08.876Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3425,
+          "currentPriceEurCents": 3408,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3425
+          "referencePriceEurCents": 3408
         }
       ]
     },
@@ -1040,7 +952,7 @@
       "productId": 10276,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 129.1,
+      "overallPercentDiff": 127.96,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1081,9 +993,9 @@
           "observedAt": "2026-09-01T12:30:19.979Z",
           "lastSeenAt": "2026-09-29T10:39:25.487Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3425,
+          "currentPriceEurCents": 3408,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3425
+          "referencePriceEurCents": 3408
         }
       ]
     },
@@ -1091,7 +1003,7 @@
       "productId": 10700,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 129.1,
+      "overallPercentDiff": 127.96,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1146,9 +1058,9 @@
           "observedAt": "2026-09-01T12:30:22.854Z",
           "lastSeenAt": "2026-09-18T12:57:23.012Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3425,
+          "currentPriceEurCents": 3408,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3425
+          "referencePriceEurCents": 3408
         }
       ]
     },
@@ -1156,7 +1068,7 @@
       "productId": 14224,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 129.1,
+      "overallPercentDiff": 127.96,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1211,9 +1123,9 @@
           "observedAt": "2026-09-01T12:30:22.854Z",
           "lastSeenAt": "2026-09-17T13:25:33.061Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3425,
+          "currentPriceEurCents": 3408,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3425
+          "referencePriceEurCents": 3408
         }
       ]
     },
@@ -1221,7 +1133,7 @@
       "productId": 14417,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 129.1,
+      "overallPercentDiff": 127.96,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1276,9 +1188,9 @@
           "observedAt": "2026-09-01T12:30:19.979Z",
           "lastSeenAt": "2026-09-28T16:44:28.440Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3425,
+          "currentPriceEurCents": 3408,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3425
+          "referencePriceEurCents": 3408
         }
       ]
     },
@@ -1286,7 +1198,7 @@
       "productId": 14888,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 129.1,
+      "overallPercentDiff": 127.96,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1341,9 +1253,9 @@
           "observedAt": "2026-09-01T12:30:22.854Z",
           "lastSeenAt": "2026-09-19T12:29:08.876Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3425,
+          "currentPriceEurCents": 3408,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3425
+          "referencePriceEurCents": 3408
         }
       ]
     },
@@ -1351,7 +1263,7 @@
       "productId": 38059,
       "brand": "Jaguar",
       "isCountryExtreme": true,
-      "overallPercentDiff": 128.97,
+      "overallPercentDiff": 127.86,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1378,9 +1290,9 @@
           "observedAt": "2026-09-01T12:30:19.979Z",
           "lastSeenAt": "2026-09-19T12:29:08.876Z",
           "currentPriceCents": 1499900,
-          "currentPriceEurCents": 4110,
+          "currentPriceEurCents": 4090,
           "referencePriceCents": 1499900,
-          "referencePriceEurCents": 4110
+          "referencePriceEurCents": 4090
         }
       ]
     },
@@ -1388,7 +1300,7 @@
       "productId": 26116,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 127.23,
+      "overallPercentDiff": 126.17,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1443,9 +1355,9 @@
           "observedAt": "2026-09-09T12:58:09.701Z",
           "lastSeenAt": "2026-09-09T12:58:09.701Z",
           "currentPriceCents": 199900,
-          "currentPriceEurCents": 548,
+          "currentPriceEurCents": 545,
           "referencePriceCents": 389900,
-          "referencePriceEurCents": 1068
+          "referencePriceEurCents": 1063
         }
       ]
     },
@@ -1453,7 +1365,7 @@
       "productId": 3055,
       "brand": "Jessa",
       "isCountryExtreme": true,
-      "overallPercentDiff": 125.88,
+      "overallPercentDiff": 124.71,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1522,60 +1434,9 @@
           "observedAt": "2026-09-01T12:32:09.419Z",
           "lastSeenAt": "2026-10-04T14:04:22.911Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 192,
+          "currentPriceEurCents": 191,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 192
-        }
-      ]
-    },
-    {
-      "productId": 31378,
-      "brand": "Frosch",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 123.67,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Glasreiniger Spiritus Nachfüllpack, 950 ml",
-          "url": "https://www.dm.at/p/d/1569789/frosch-glasreiniger-spiritus-nachfuellpack",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:51.807Z",
-          "lastSeenAt": "2026-09-18T12:57:09.041Z",
-          "currentPriceCents": 245,
-          "currentPriceEurCents": 245,
-          "referencePriceCents": 245,
-          "referencePriceEurCents": 245
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Glasreiniger Spiritus Nachfüllpack, 950 ml",
-          "url": "https://www.dm.de/p/d/1569789/frosch-glasreiniger-spiritus-nachfuellpack",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:14.727Z",
-          "lastSeenAt": "2026-09-18T12:57:15.774Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Spirituszos ablaktisztító utántöltő, 0,95 l",
-          "url": "https://www.dm.hu/p/d/1569789/frosch-spirituszos-ablaktisztito-utantolto",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:22.301Z",
-          "lastSeenAt": "2026-09-18T12:57:23.012Z",
-          "currentPriceCents": 199900,
-          "currentPriceEurCents": 548,
-          "referencePriceCents": 199900,
-          "referencePriceEurCents": 548
+          "referencePriceEurCents": 191
         }
       ]
     },
@@ -1631,10 +1492,61 @@
       ]
     },
     {
+      "productId": 31378,
+      "brand": "Frosch",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 122.45,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Glasreiniger Spiritus Nachfüllpack, 950 ml",
+          "url": "https://www.dm.at/p/d/1569789/frosch-glasreiniger-spiritus-nachfuellpack",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:51.807Z",
+          "lastSeenAt": "2026-09-18T12:57:09.041Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Glasreiniger Spiritus Nachfüllpack, 950 ml",
+          "url": "https://www.dm.de/p/d/1569789/frosch-glasreiniger-spiritus-nachfuellpack",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:14.727Z",
+          "lastSeenAt": "2026-09-18T12:57:15.774Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Spirituszos ablaktisztító utántöltő, 0,95 l",
+          "url": "https://www.dm.hu/p/d/1569789/frosch-spirituszos-ablaktisztito-utantolto",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:22.301Z",
+          "lastSeenAt": "2026-09-18T12:57:23.012Z",
+          "currentPriceCents": 199900,
+          "currentPriceEurCents": 545,
+          "referencePriceCents": 199900,
+          "referencePriceEurCents": 545
+        }
+      ]
+    },
+    {
       "productId": 16252,
       "brand": "Jessa",
       "isCountryExtreme": true,
-      "overallPercentDiff": 122.35,
+      "overallPercentDiff": 121.18,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1689,9 +1601,125 @@
           "observedAt": "2026-09-01T12:31:10.517Z",
           "lastSeenAt": "2026-09-26T13:03:13.135Z",
           "currentPriceCents": 68900,
-          "currentPriceEurCents": 189,
+          "currentPriceEurCents": 188,
           "referencePriceCents": 68900,
-          "referencePriceEurCents": 189
+          "referencePriceEurCents": 188
+        }
+      ]
+    },
+    {
+      "productId": 8539,
+      "brand": "Pampers Splashers",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 120.45,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Jednokratne pelene za kupanje vel. 3-4 (6-11 kg), 12 kom.",
+          "url": "https://www.dm.hr/p/d/1582118/pampers-splashers-jednokratne-pelene-za-kupanje-vel-3-4-6-11-kg",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:50.495Z",
+          "lastSeenAt": "2026-09-27T13:55:47.839Z",
+          "currentPriceCents": 795,
+          "currentPriceEurCents": 795,
+          "referencePriceCents": 795,
+          "referencePriceEurCents": 795
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Schwimmwindeln Splashers Gr.3-4 (6-11 kg), 12 St",
+          "url": "https://www.dm.at/p/d/1582118/pampers-splashers-schwimmwindeln-splashers-gr-3-4-6-11-kg",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:24.251Z",
+          "lastSeenAt": "2026-09-27T13:55:51.406Z",
+          "currentPriceCents": 445,
+          "currentPriceEurCents": 445,
+          "referencePriceCents": 445,
+          "referencePriceEurCents": 445
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Schwimmwindeln Gr. 3-4 (6-11 kg), 12 St",
+          "url": "https://www.dm.de/p/d/1582118/pampers-splashers-schwimmwindeln-gr-3-4-6-11-kg",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:48.945Z",
+          "lastSeenAt": "2026-09-27T13:55:58.149Z",
+          "currentPriceCents": 695,
+          "currentPriceEurCents": 695,
+          "referencePriceCents": 695,
+          "referencePriceEurCents": 695
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Úszópelenka midi 6-11 kg, 12 db",
+          "url": "https://www.dm.hu/p/d/1582118/pampers-splashers-uszopelenka-midi-6-11-kg",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:02.558Z",
+          "lastSeenAt": "2026-09-27T13:56:03.197Z",
+          "currentPriceCents": 359900,
+          "currentPriceEurCents": 981,
+          "referencePriceCents": 359900,
+          "referencePriceEurCents": 981
+        }
+      ]
+    },
+    {
+      "productId": 2134,
+      "brand": "POLICE",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 118.86,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Ženska parfumska voda TO BE SWEET GIRL, 40 ml",
+          "url": "https://www.dm.si/p/d/1906102/police-zenska-parfumska-voda-to-be-sweet-girl",
+          "isPromo": true,
+          "observedAt": "2026-09-14T15:00:26.651Z",
+          "lastSeenAt": "2026-09-14T15:00:26.651Z",
+          "currentPriceCents": 940,
+          "currentPriceEurCents": 940,
+          "referencePriceCents": 1880,
+          "referencePriceEurCents": 1880
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Eau de Parfum To Be Sweet Girl, 40 ml",
+          "url": "https://www.dm.at/p/d/1906102/police-eau-de-parfum-to-be-sweet-girl",
+          "isPromo": true,
+          "observedAt": "2026-09-14T15:00:42.159Z",
+          "lastSeenAt": "2026-09-14T15:00:42.159Z",
+          "currentPriceCents": 995,
+          "currentPriceEurCents": 995,
+          "referencePriceCents": 1495,
+          "referencePriceEurCents": 1495
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Női EdP Sweet Girl, 40 ml",
+          "url": "https://www.dm.hu/p/d/1906102/police-noi-edp-sweet-girl",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:19.979Z",
+          "lastSeenAt": "2026-09-14T15:01:03.538Z",
+          "currentPriceCents": 1199900,
+          "currentPriceEurCents": 3272,
+          "referencePriceCents": 1199900,
+          "referencePriceEurCents": 3272
         }
       ]
     }

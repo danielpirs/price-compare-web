@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-07T11:37:24.644Z",
+  "generatedAt": "2026-10-08T11:51:54.707Z",
   "fx": {
-    "asOf": "2026-10-06",
+    "asOf": "2026-10-07",
     "rates": {
-      "USD": 1.1269,
-      "JPY": 178.15,
-      "CZK": 24.405,
-      "DKK": 7.4747,
-      "GBP": 0.8488,
-      "HUF": 364.95,
-      "PLN": 4.365,
-      "RON": 5.351,
-      "SEK": 11.2425,
-      "CHF": 0.9359,
-      "ISK": 137.2,
-      "NOK": 10.778,
-      "TRY": 55.4196,
-      "AUD": 1.614,
-      "BRL": 5.5991,
-      "CAD": 1.6058,
-      "CNY": 7.5554,
-      "HKD": 8.8438,
-      "IDR": 20104.8,
-      "ILS": 3.4348,
-      "INR": 108.6615,
-      "KRW": 1508.67,
-      "MXN": 20.2217,
-      "MYR": 4.6034,
-      "NZD": 2.0061,
-      "PHP": 70.702,
-      "SGD": 1.4392,
-      "THB": 37.836,
-      "ZAR": 18.5829
+      "USD": 1.1177,
+      "JPY": 176.85,
+      "CZK": 24.427,
+      "DKK": 7.4745,
+      "GBP": 0.84645,
+      "HUF": 366.75,
+      "PLN": 4.3825,
+      "RON": 5.3528,
+      "SEK": 11.224,
+      "CHF": 0.9309,
+      "ISK": 137,
+      "NOK": 10.712,
+      "TRY": 54.9822,
+      "AUD": 1.6079,
+      "BRL": 5.5953,
+      "CAD": 1.5931,
+      "CNY": 7.4937,
+      "HKD": 8.7722,
+      "IDR": 19974.25,
+      "ILS": 3.429,
+      "INR": 108.1165,
+      "KRW": 1496.25,
+      "MXN": 20.2236,
+      "MYR": 4.5692,
+      "NZD": 1.9977,
+      "PHP": 70.203,
+      "SGD": 1.4311,
+      "THB": 37.661,
+      "ZAR": 18.6539
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -43,7 +43,7 @@
       "productId": 16938,
       "brand": "sundance",
       "isCountryExtreme": true,
-      "overallPercentDiff": 890.91,
+      "overallPercentDiff": 909.26,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -72,7 +72,7 @@
           "currentPriceCents": 9900,
           "currentPriceEurCents": 27,
           "referencePriceCents": 19900,
-          "referencePriceEurCents": 55
+          "referencePriceEurCents": 54
         }
       ]
     },
@@ -145,7 +145,7 @@
       "productId": 33703,
       "brand": "Scholl",
       "isCountryExtreme": true,
-      "overallPercentDiff": 422.83,
+      "overallPercentDiff": 425.23,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -186,9 +186,9 @@
           "observedAt": "2026-09-01T12:31:59.780Z",
           "lastSeenAt": "2026-09-11T12:49:03.415Z",
           "currentPriceCents": 159900,
-          "currentPriceEurCents": 438,
+          "currentPriceEurCents": 436,
           "referencePriceCents": 159900,
-          "referencePriceEurCents": 438
+          "referencePriceEurCents": 436
         }
       ]
     },
@@ -325,46 +325,9 @@
           "observedAt": "2026-10-03T19:06:07.103Z",
           "lastSeenAt": "2026-10-03T19:06:07.103Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 55,
+          "currentPriceEurCents": 54,
           "referencePriceCents": 39900,
           "referencePriceEurCents": 109
-        }
-      ]
-    },
-    {
-      "productId": 19178,
-      "brand": "CATRICE",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 299.67,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Paleta senčil za veke Wonder Woman, 010 Wonder..., 15,5 g",
-          "url": "https://www.dm.si/p/d/3057427/catrice-paleta-sencil-za-veke-wonder-woman-010-wonder-woman-story",
-          "isPromo": true,
-          "observedAt": "2026-09-07T14:14:05.239Z",
-          "lastSeenAt": "2026-09-07T14:14:05.239Z",
-          "currentPriceCents": 99,
-          "currentPriceEurCents": 99,
-          "referencePriceCents": 299,
-          "referencePriceEurCents": 299
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Lidschatten Palette Wonder Woman 010 Wonder Woman..., 15,5 g",
-          "url": "https://www.dm.at/p/d/3057427/catrice-lidschatten-palette-wonder-woman-010-wonder-woman-story",
-          "isPromo": true,
-          "observedAt": "2026-09-07T14:14:14.000Z",
-          "lastSeenAt": "2026-09-07T14:14:14.000Z",
-          "currentPriceCents": 595,
-          "currentPriceEurCents": 595,
-          "referencePriceCents": 1195,
-          "referencePriceEurCents": 1195
         }
       ]
     },
@@ -427,9 +390,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-09-14T15:01:07.257Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 192,
+          "currentPriceEurCents": 191,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 192
+          "referencePriceEurCents": 191
         }
       ]
     },
@@ -488,7 +451,7 @@
       "productId": 18513,
       "brand": "alverde NATURKOSMETIK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 261.31,
+      "overallPercentDiff": 263.97,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -545,7 +508,7 @@
           "currentPriceCents": 24900,
           "currentPriceEurCents": 68,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 137
+          "referencePriceEurCents": 136
         }
       ]
     },
@@ -659,9 +622,9 @@
           "observedAt": "2026-09-01T12:32:54.339Z",
           "lastSeenAt": "2026-09-19T12:29:10.810Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1507,
+          "currentPriceEurCents": 1499,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1507
+          "referencePriceEurCents": 1499
         }
       ]
     },
@@ -738,9 +701,9 @@
           "observedAt": "2026-09-01T12:30:30.838Z",
           "lastSeenAt": "2026-09-25T13:44:12.981Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1507,
+          "currentPriceEurCents": 1499,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1507
+          "referencePriceEurCents": 1499
         }
       ]
     },
@@ -799,7 +762,7 @@
       "productId": 17624,
       "brand": "alverde NATURKOSMETIK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 246.72,
+      "overallPercentDiff": 249.26,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -856,7 +819,7 @@
           "currentPriceCents": 24900,
           "currentPriceEurCents": 68,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 137
+          "referencePriceEurCents": 136
         }
       ]
     },
@@ -905,7 +868,7 @@
           "observedAt": "2026-09-10T12:54:51.624Z",
           "lastSeenAt": "2026-09-10T12:54:51.624Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 55,
+          "currentPriceEurCents": 54,
           "referencePriceCents": 39900,
           "referencePriceEurCents": 109
         }
@@ -1102,71 +1065,6 @@
       ]
     },
     {
-      "productId": 20707,
-      "brand": "HALLOHEBAMME",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 225,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Sredstvo za čiščenje otroške kože 2 v 1 z bio..., 50 ml",
-          "url": "https://www.dm.si/p/d/2486246/hallohebamme-sredstvo-za-ciscenje-otroske-koze-2-v-1-z-bio-mandljevim-oljem",
-          "isPromo": true,
-          "observedAt": "2026-09-07T14:14:05.239Z",
-          "lastSeenAt": "2026-09-07T14:14:05.239Z",
-          "currentPriceCents": 30,
-          "currentPriceEurCents": 30,
-          "referencePriceCents": 60,
-          "referencePriceEurCents": 60
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Babyöl Reinigung 2in1, 50 ml",
-          "url": "https://www.dm.at/p/d/2486246/hallohebamme-babyoel-reinigung-2in1",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:36.315Z",
-          "lastSeenAt": "2026-09-07T14:14:12.265Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Sanfte Reinigung für Gesicht, Hände & Po,..., 50 ml",
-          "url": "https://www.dm.de/p/d/2486246/hallohebamme-sanfte-reinigung-fuer-gesicht-haende-und-po-reisegroesse",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:45.137Z",
-          "lastSeenAt": "2026-09-07T14:14:17.678Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Vizes-olajos tisztító babáknak, 50 ml",
-          "url": "https://www.dm.hu/p/d/2486246/hallohebamme-vizes-olajos-tisztito-babaknak",
-          "isPromo": true,
-          "observedAt": "2026-09-07T14:14:22.199Z",
-          "lastSeenAt": "2026-09-07T14:14:22.199Z",
-          "currentPriceCents": 29900,
-          "currentPriceEurCents": 82,
-          "referencePriceCents": 56500,
-          "referencePriceEurCents": 155
-        }
-      ]
-    },
-    {
       "productId": 1375,
       "brand": "Profissimo",
       "isCountryExtreme": true,
@@ -1239,9 +1137,9 @@
           "observedAt": "2026-09-08T13:15:29.800Z",
           "lastSeenAt": "2026-09-08T13:15:29.800Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 192,
+          "currentPriceEurCents": 191,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 192
+          "referencePriceEurCents": 191
         }
       ]
     },
@@ -1311,6 +1209,43 @@
       ]
     },
     {
+      "productId": 39854,
+      "brand": "Varta",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 218.81,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Batterie Knopfzelle CR 2032 Lithium, 2 St",
+          "url": "https://www.dm.at/p/d/1881911/varta-batterie-knopfzelle-cr-2032-lithium",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:38:15.463Z",
+          "lastSeenAt": "2026-09-26T13:03:06.341Z",
+          "currentPriceCents": 695,
+          "currentPriceEurCents": 695,
+          "referencePriceCents": 695,
+          "referencePriceEurCents": 695
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Gombelem CR 2032 litium, 2 db",
+          "url": "https://www.dm.hu/p/d/1881911/varta-gombelem-cr-2032-litium",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:00.665Z",
+          "lastSeenAt": "2026-09-26T13:03:14.475Z",
+          "currentPriceCents": 79900,
+          "currentPriceEurCents": 218,
+          "referencePriceCents": 79900,
+          "referencePriceEurCents": 218
+        }
+      ]
+    },
+    {
       "productId": 20208,
       "brand": "dmBio",
       "isCountryExtreme": true,
@@ -1369,46 +1304,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-09-09T12:58:07.591Z",
           "currentPriceCents": 61900,
-          "currentPriceEurCents": 170,
+          "currentPriceEurCents": 169,
           "referencePriceCents": 61900,
-          "referencePriceEurCents": 170
-        }
-      ]
-    },
-    {
-      "productId": 39854,
-      "brand": "Varta",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 217.35,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Batterie Knopfzelle CR 2032 Lithium, 2 St",
-          "url": "https://www.dm.at/p/d/1881911/varta-batterie-knopfzelle-cr-2032-lithium",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:38:15.463Z",
-          "lastSeenAt": "2026-09-26T13:03:06.341Z",
-          "currentPriceCents": 695,
-          "currentPriceEurCents": 695,
-          "referencePriceCents": 695,
-          "referencePriceEurCents": 695
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Gombelem CR 2032 litium, 2 db",
-          "url": "https://www.dm.hu/p/d/1881911/varta-gombelem-cr-2032-litium",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:00.665Z",
-          "lastSeenAt": "2026-09-26T13:03:14.475Z",
-          "currentPriceCents": 79900,
-          "currentPriceEurCents": 219,
-          "referencePriceCents": 79900,
-          "referencePriceEurCents": 219
+          "referencePriceEurCents": 169
         }
       ]
     },
@@ -1453,7 +1351,7 @@
       "productId": 32884,
       "brand": "GARNIER mineral",
       "isCountryExtreme": true,
-      "overallPercentDiff": 213.49,
+      "overallPercentDiff": 216,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1480,9 +1378,9 @@
           "observedAt": "2026-10-03T19:06:11.832Z",
           "lastSeenAt": "2026-10-03T19:06:11.832Z",
           "currentPriceCents": 22900,
-          "currentPriceEurCents": 63,
+          "currentPriceEurCents": 62,
           "referencePriceCents": 45900,
-          "referencePriceEurCents": 126
+          "referencePriceEurCents": 125
         }
       ]
     },
@@ -1608,6 +1506,94 @@
           "currentPriceEurCents": 175,
           "referencePriceCents": 295,
           "referencePriceEurCents": 295
+        }
+      ]
+    },
+    {
+      "productId": 10845,
+      "brand": "babylove",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 210.53,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Široki silikonski sisač, okrugli s rupicom –..., 1 kom.",
+          "url": "https://www.dm.hr/p/d/1334039/babylove-siroki-silikonski-sisac-okrugli-s-rupicom-velicina-m",
+          "isPromo": true,
+          "observedAt": "2026-09-10T12:54:23.648Z",
+          "lastSeenAt": "2026-09-10T12:54:23.648Z",
+          "currentPriceCents": 45,
+          "currentPriceEurCents": 45,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Cucelj Premium proti kolikam iz silikona, za..., 1 kos",
+          "url": "https://www.dm.si/p/d/1334039/babylove-cucelj-premium-proti-kolikam-iz-silikona-za-steklenicke-premium-velikost-odprtine-m",
+          "isPromo": true,
+          "observedAt": "2026-09-10T12:54:26.783Z",
+          "lastSeenAt": "2026-09-10T12:54:26.783Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 150,
+          "referencePriceEurCents": 150
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Trinksauger Premium Gr. M, 1 St",
+          "url": "https://www.dm.at/p/d/1334039/babylove-trinksauger-premium-gr-m",
+          "isPromo": true,
+          "observedAt": "2026-09-10T12:54:36.582Z",
+          "lastSeenAt": "2026-09-10T12:54:36.582Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        }
+      ]
+    },
+    {
+      "productId": 43560,
+      "brand": "Tabac Original",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 208.79,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "After Shave Lotion, 200 ml",
+          "url": "https://www.dm.de/p/d/3158138/tabac-original-after-shave-lotion",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:20.165Z",
+          "lastSeenAt": "2026-09-14T15:00:47.586Z",
+          "currentPriceCents": 1195,
+          "currentPriceEurCents": 1195,
+          "referencePriceCents": 1195,
+          "referencePriceEurCents": 1195
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "After Shave Lotion, 200 ml",
+          "url": "https://www.dm.at/p/d/3158138/tabac-original-after-shave-lotion",
+          "isPromo": false,
+          "observedAt": "2026-09-14T15:00:33.087Z",
+          "lastSeenAt": "2026-09-14T15:00:33.087Z",
+          "currentPriceCents": 3690,
+          "currentPriceEurCents": 3690,
+          "referencePriceCents": 3690,
+          "referencePriceEurCents": 3690
         }
       ]
     }
