@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-08T11:51:54.707Z",
+  "generatedAt": "2026-10-09T11:43:46.390Z",
   "fx": {
-    "asOf": "2026-10-07",
+    "asOf": "2026-10-08",
     "rates": {
-      "USD": 1.1177,
-      "JPY": 176.85,
-      "CZK": 24.427,
-      "DKK": 7.4745,
-      "GBP": 0.84645,
-      "HUF": 366.75,
-      "PLN": 4.3825,
-      "RON": 5.3528,
-      "SEK": 11.224,
-      "CHF": 0.9309,
+      "USD": 1.1186,
+      "JPY": 177.05,
+      "CZK": 24.403,
+      "DKK": 7.4739,
+      "GBP": 0.84698,
+      "HUF": 366.25,
+      "PLN": 4.3753,
+      "RON": 5.3434,
+      "SEK": 11.194,
+      "CHF": 0.9326,
       "ISK": 137,
-      "NOK": 10.712,
-      "TRY": 54.9822,
-      "AUD": 1.6079,
-      "BRL": 5.5953,
-      "CAD": 1.5931,
-      "CNY": 7.4937,
-      "HKD": 8.7722,
-      "IDR": 19974.25,
-      "ILS": 3.429,
-      "INR": 108.1165,
-      "KRW": 1496.25,
-      "MXN": 20.2236,
-      "MYR": 4.5692,
-      "NZD": 1.9977,
-      "PHP": 70.203,
-      "SGD": 1.4311,
-      "THB": 37.661,
-      "ZAR": 18.6539
+      "NOK": 10.717,
+      "TRY": 55.0523,
+      "AUD": 1.611,
+      "BRL": 5.6118,
+      "CAD": 1.5953,
+      "CNY": 7.4972,
+      "HKD": 8.7783,
+      "IDR": 20045.31,
+      "ILS": 3.4423,
+      "INR": 108.2635,
+      "KRW": 1502.79,
+      "MXN": 20.1486,
+      "MYR": 4.5768,
+      "NZD": 2.0014,
+      "PHP": 70.475,
+      "SGD": 1.434,
+      "THB": 37.68,
+      "ZAR": 18.6252
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -145,7 +145,7 @@
       "productId": 33703,
       "brand": "Scholl",
       "isCountryExtreme": true,
-      "overallPercentDiff": 425.23,
+      "overallPercentDiff": 424.03,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -186,9 +186,9 @@
           "observedAt": "2026-09-01T12:31:59.780Z",
           "lastSeenAt": "2026-09-11T12:49:03.415Z",
           "currentPriceCents": 159900,
-          "currentPriceEurCents": 436,
+          "currentPriceEurCents": 437,
           "referencePriceCents": 159900,
-          "referencePriceEurCents": 436
+          "referencePriceEurCents": 437
         }
       ]
     },
@@ -622,9 +622,9 @@
           "observedAt": "2026-09-01T12:32:54.339Z",
           "lastSeenAt": "2026-09-19T12:29:10.810Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1499,
+          "currentPriceEurCents": 1501,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1499
+          "referencePriceEurCents": 1501
         }
       ]
     },
@@ -701,9 +701,9 @@
           "observedAt": "2026-09-01T12:30:30.838Z",
           "lastSeenAt": "2026-09-25T13:44:12.981Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1499,
+          "currentPriceEurCents": 1501,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1499
+          "referencePriceEurCents": 1501
         }
       ]
     },
@@ -1065,85 +1065,6 @@
       ]
     },
     {
-      "productId": 1375,
-      "brand": "Profissimo",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 223.53,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Dišeča sveča v kozarcu z vonjem Pumpkin Spice..., 1 kos",
-          "url": "https://www.dm.si/p/d/1714536/profissimo-diseca-sveca-v-kozarcu-z-vonjem-pumpkin-spice-latte",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:51:43.916Z",
-          "lastSeenAt": "2026-09-08T13:15:07.390Z",
-          "currentPriceCents": 165,
-          "currentPriceEurCents": 165,
-          "referencePriceCents": 165,
-          "referencePriceEurCents": 165
-        },
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Mirisna svijeća u čaši – Pumpkin Spice Latte, 1 kom.",
-          "url": "https://www.dm.hr/p/d/1714536/profissimo-mirisna-svijeca-u-casi-pumpkin-spice-latte",
-          "isPromo": true,
-          "observedAt": "2026-09-08T13:15:11.085Z",
-          "lastSeenAt": "2026-09-08T13:15:11.085Z",
-          "currentPriceCents": 55,
-          "currentPriceEurCents": 55,
-          "referencePriceCents": 85,
-          "referencePriceEurCents": 85
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Duftkerze im Glas Pumpkin Spice Latte, 1 St",
-          "url": "https://www.dm.at/p/d/1714536/profissimo-duftkerze-im-glas-pumpkin-spice-latte",
-          "isPromo": true,
-          "observedAt": "2026-09-08T13:15:17.643Z",
-          "lastSeenAt": "2026-09-08T13:15:17.643Z",
-          "currentPriceCents": 135,
-          "currentPriceEurCents": 135,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Duftkerze im Glas Pumpkin Spice Latte, 1 St",
-          "url": "https://www.dm.de/p/d/1714536/profissimo-duftkerze-im-glas-pumpkin-spice-latte",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:11.101Z",
-          "lastSeenAt": "2026-09-08T13:15:22.546Z",
-          "currentPriceCents": 175,
-          "currentPriceEurCents": 175,
-          "referencePriceCents": 175,
-          "referencePriceEurCents": 175
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Illatgyertya üvegben, pumpkin spice latte illattal, 1 db",
-          "url": "https://www.dm.hu/p/d/1714536/profissimo-illatgyertya-uvegben-pumpkin-spice-latte-illattal",
-          "isPromo": false,
-          "observedAt": "2026-09-08T13:15:29.800Z",
-          "lastSeenAt": "2026-09-08T13:15:29.800Z",
-          "currentPriceCents": 69900,
-          "currentPriceEurCents": 191,
-          "referencePriceCents": 69900,
-          "referencePriceEurCents": 191
-        }
-      ]
-    },
-    {
       "productId": 18509,
       "brand": "alverde NATURKOSMETIK",
       "isCountryExtreme": true,
@@ -1378,7 +1299,7 @@
           "observedAt": "2026-10-03T19:06:11.832Z",
           "lastSeenAt": "2026-10-03T19:06:11.832Z",
           "currentPriceCents": 22900,
-          "currentPriceEurCents": 62,
+          "currentPriceEurCents": 63,
           "referencePriceCents": 45900,
           "referencePriceEurCents": 125
         }
@@ -1594,6 +1515,43 @@
           "currentPriceEurCents": 3690,
           "referencePriceCents": 3690,
           "referencePriceEurCents": 3690
+        }
+      ]
+    },
+    {
+      "productId": 26283,
+      "brand": "Mivolis",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 205.13,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "FFP2 Atemschutz-Maske, 2 St",
+          "url": "https://www.dm.at/p/d/3115321/mivolis-ffp2-atemschutz-maske",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:47.163Z",
+          "lastSeenAt": "2026-09-19T12:28:56.294Z",
+          "currentPriceCents": 595,
+          "currentPriceEurCents": 595,
+          "referencePriceCents": 595,
+          "referencePriceEurCents": 595
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "FFP2 Atemschutzmaske, 2 St",
+          "url": "https://www.dm.de/p/d/3115321/mivolis-ffp2-atemschutzmaske",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:05.626Z",
+          "lastSeenAt": "2026-09-19T12:29:01.335Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 195,
+          "referencePriceEurCents": 195
         }
       ]
     }

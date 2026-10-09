@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-08T11:51:54.707Z",
+  "generatedAt": "2026-10-09T11:43:46.390Z",
   "fx": {
-    "asOf": "2026-10-07",
+    "asOf": "2026-10-08",
     "rates": {
-      "USD": 1.1177,
-      "JPY": 176.85,
-      "CZK": 24.427,
-      "DKK": 7.4745,
-      "GBP": 0.84645,
-      "HUF": 366.75,
-      "PLN": 4.3825,
-      "RON": 5.3528,
-      "SEK": 11.224,
-      "CHF": 0.9309,
+      "USD": 1.1186,
+      "JPY": 177.05,
+      "CZK": 24.403,
+      "DKK": 7.4739,
+      "GBP": 0.84698,
+      "HUF": 366.25,
+      "PLN": 4.3753,
+      "RON": 5.3434,
+      "SEK": 11.194,
+      "CHF": 0.9326,
       "ISK": 137,
-      "NOK": 10.712,
-      "TRY": 54.9822,
-      "AUD": 1.6079,
-      "BRL": 5.5953,
-      "CAD": 1.5931,
-      "CNY": 7.4937,
-      "HKD": 8.7722,
-      "IDR": 19974.25,
-      "ILS": 3.429,
-      "INR": 108.1165,
-      "KRW": 1496.25,
-      "MXN": 20.2236,
-      "MYR": 4.5692,
-      "NZD": 1.9977,
-      "PHP": 70.203,
-      "SGD": 1.4311,
-      "THB": 37.661,
-      "ZAR": 18.6539
+      "NOK": 10.717,
+      "TRY": 55.0523,
+      "AUD": 1.611,
+      "BRL": 5.6118,
+      "CAD": 1.5953,
+      "CNY": 7.4972,
+      "HKD": 8.7783,
+      "IDR": 20045.31,
+      "ILS": 3.4423,
+      "INR": 108.2635,
+      "KRW": 1502.79,
+      "MXN": 20.1486,
+      "MYR": 4.5768,
+      "NZD": 2.0014,
+      "PHP": 70.475,
+      "SGD": 1.434,
+      "THB": 37.68,
+      "ZAR": 18.6252
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -179,57 +179,6 @@
       ]
     },
     {
-      "productId": 20175,
-      "brand": "PENATEN",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 182.86,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Otroška kopel in šampon Ultra Sensitiv, 400 ml",
-          "url": "https://www.dm.si/p/d/1469289/penaten-otroska-kopel-in-sampon-ultra-sensitiv",
-          "isPromo": true,
-          "observedAt": "2026-09-08T13:15:07.390Z",
-          "lastSeenAt": "2026-09-08T13:15:07.390Z",
-          "currentPriceCents": 99,
-          "currentPriceEurCents": 99,
-          "referencePriceCents": 175,
-          "referencePriceEurCents": 175
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Baby Bad & Shampoo ultra sensitiv, 400 ml",
-          "url": "https://www.dm.at/p/d/1469289/penaten-baby-bad-und-shampoo-ultra-sensitiv",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:31.747Z",
-          "lastSeenAt": "2026-09-08T13:15:18.989Z",
-          "currentPriceCents": 475,
-          "currentPriceEurCents": 475,
-          "referencePriceCents": 475,
-          "referencePriceEurCents": 475
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Baby Badezusatz Bad & Shampoo ultra sensitiv, 400 ml",
-          "url": "https://www.dm.de/p/d/1469289/penaten-baby-badezusatz-bad-und-shampoo-ultra-sensitiv",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:56.477Z",
-          "lastSeenAt": "2026-09-08T13:15:24.348Z",
-          "currentPriceCents": 495,
-          "currentPriceEurCents": 495,
-          "referencePriceCents": 495,
-          "referencePriceEurCents": 495
-        }
-      ]
-    },
-    {
       "productId": 4031,
       "brand": "Borotalco",
       "isCountryExtreme": true,
@@ -349,7 +298,7 @@
       "productId": 54274,
       "brand": "Cosrx",
       "isCountryExtreme": true,
-      "overallPercentDiff": 147.66,
+      "overallPercentDiff": 147.27,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -378,58 +327,7 @@
           "currentPriceCents": 109900,
           "currentPriceEurCents": 300,
           "referencePriceCents": 234900,
-          "referencePriceEurCents": 640
-        }
-      ]
-    },
-    {
-      "productId": 22713,
-      "brand": "Profissimo",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 137.8,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Dvostranska gobica za čiščenje kopalnice, 1 kos",
-          "url": "https://www.dm.si/p/d/1460868/profissimo-dvostranska-gobica-za-ciscenje-kopalnice",
-          "isPromo": true,
-          "observedAt": "2026-09-08T13:15:14.313Z",
-          "lastSeenAt": "2026-09-08T13:15:14.313Z",
-          "currentPriceCents": 120,
-          "currentPriceEurCents": 120,
-          "referencePriceCents": 175,
-          "referencePriceEurCents": 175
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Duo-Badschwamm, 1 St",
-          "url": "https://www.dm.de/p/d/1460868/profissimo-duo-badschwamm",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:50.561Z",
-          "lastSeenAt": "2026-09-08T13:15:27.226Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fürdőszobai tisztítószivacs, 1 db",
-          "url": "https://www.dm.hu/p/d/1460868/profissimo-furdoszobai-tisztitoszivacs",
-          "isPromo": true,
-          "observedAt": "2026-09-08T13:15:31.945Z",
-          "lastSeenAt": "2026-09-08T13:15:31.945Z",
-          "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
-          "referencePriceCents": 29900,
-          "referencePriceEurCents": 82
+          "referencePriceEurCents": 641
         }
       ]
     },
@@ -576,7 +474,7 @@
       "productId": 47668,
       "brand": "Bondi Sands",
       "isCountryExtreme": true,
-      "overallPercentDiff": 122.04,
+      "overallPercentDiff": 121.34,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -605,7 +503,7 @@
           "currentPriceCents": 54900,
           "currentPriceEurCents": 150,
           "referencePriceCents": 114900,
-          "referencePriceEurCents": 313
+          "referencePriceEurCents": 314
         }
       ]
     },
@@ -979,7 +877,7 @@
       "productId": 13581,
       "brand": "MAYBELLINE NEW YORK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 104.85,
+      "overallPercentDiff": 104.55,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1036,7 +934,7 @@
           "currentPriceCents": 179900,
           "currentPriceEurCents": 491,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 681
+          "referencePriceEurCents": 682
         }
       ]
     },
@@ -1044,7 +942,7 @@
       "productId": 20232,
       "brand": "MAYBELLINE NEW YORK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 104.85,
+      "overallPercentDiff": 104.55,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1101,7 +999,7 @@
           "currentPriceCents": 179900,
           "currentPriceEurCents": 491,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 681
+          "referencePriceEurCents": 682
         }
       ]
     },
@@ -1109,7 +1007,7 @@
       "productId": 37960,
       "brand": "MAYBELLINE NEW YORK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 104.85,
+      "overallPercentDiff": 104.55,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1152,7 +1050,7 @@
           "currentPriceCents": 179900,
           "currentPriceEurCents": 491,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 681
+          "referencePriceEurCents": 682
         }
       ]
     },
@@ -1201,9 +1099,9 @@
           "observedAt": "2026-09-01T12:32:30.488Z",
           "lastSeenAt": "2026-09-11T12:49:05.012Z",
           "currentPriceCents": 129900,
-          "currentPriceEurCents": 354,
+          "currentPriceEurCents": 355,
           "referencePriceCents": 129900,
-          "referencePriceEurCents": 354
+          "referencePriceEurCents": 355
         }
       ]
     },
@@ -1415,7 +1313,7 @@
       "productId": 21089,
       "brand": "CATRICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 100.37,
+      "overallPercentDiff": 99.63,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1458,7 +1356,7 @@
           "currentPriceCents": 79900,
           "currentPriceEurCents": 218,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 272
+          "referencePriceEurCents": 273
         }
       ]
     },
@@ -1496,6 +1394,108 @@
           "currentPriceEurCents": 595,
           "referencePriceCents": 595,
           "referencePriceEurCents": 595
+        }
+      ]
+    },
+    {
+      "productId": 21040,
+      "brand": "HALLOHEBAMME",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 96.67,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Zaščitna otroška krema za obraz, telo in predel..., 75 ml",
+          "url": "https://www.dm.si/p/d/2486241/hallohebamme-zascitna-otroska-krema-za-obraz-telo-in-predel-plenic",
+          "isPromo": true,
+          "observedAt": "2026-09-10T12:54:28.910Z",
+          "lastSeenAt": "2026-09-10T12:54:28.910Z",
+          "currentPriceCents": 45,
+          "currentPriceEurCents": 45,
+          "referencePriceCents": 150,
+          "referencePriceEurCents": 150
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Hautschutz & Pflege Creme, 75 ml",
+          "url": "https://www.dm.de/p/d/2486241/hallohebamme-hautschutz-und-pflege-creme",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:35.806Z",
+          "lastSeenAt": "2026-09-10T12:54:44.305Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Baba védőkrém arcra, testre és a pelenka alatti..., 75 ml",
+          "url": "https://www.dm.hu/p/d/2486241/hallohebamme-baba-vedokrem-arcra-testre-es-a-pelenka-alatti-teruletre",
+          "isPromo": true,
+          "observedAt": "2026-09-10T12:54:49.395Z",
+          "lastSeenAt": "2026-09-10T12:54:49.395Z",
+          "currentPriceCents": 34900,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 67500,
+          "referencePriceEurCents": 184
+        }
+      ]
+    },
+    {
+      "productId": 22043,
+      "brand": "CATRICE",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 96.34,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Kompaktni puder All Matt Plus Shine Control, 010..., 10 g",
+          "url": "https://www.dm.si/p/d/1386622/catrice-kompaktni-puder-all-matt-plus-shine-control-010-transparent",
+          "isPromo": true,
+          "observedAt": "2026-09-15T13:31:02.714Z",
+          "lastSeenAt": "2026-09-15T13:31:02.714Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 200,
+          "referencePriceEurCents": 200
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Kompakt Puder All Matt Plus Shine Control..., 10 g",
+          "url": "https://www.dm.de/p/d/1386622/catrice-kompakt-puder-all-matt-plus-shine-control-transparent-010",
+          "isPromo": true,
+          "observedAt": "2026-09-15T13:31:18.526Z",
+          "lastSeenAt": "2026-09-15T13:31:18.526Z",
+          "currentPriceCents": 175,
+          "currentPriceEurCents": 175,
+          "referencePriceCents": 375,
+          "referencePriceEurCents": 375
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Arcpúder all matt plus - Nr. 010 Transparent, 10 g",
+          "url": "https://www.dm.hu/p/d/1386622/catrice-arcpuder-all-matt-plus-nr-010-transparent",
+          "isPromo": true,
+          "observedAt": "2026-09-15T13:31:26.573Z",
+          "lastSeenAt": "2026-09-15T13:31:26.573Z",
+          "currentPriceCents": 49900,
+          "currentPriceEurCents": 136,
+          "referencePriceCents": 69900,
+          "referencePriceEurCents": 191
         }
       ]
     }

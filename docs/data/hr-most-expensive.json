@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-08T11:51:54.707Z",
+  "generatedAt": "2026-10-09T11:43:46.390Z",
   "fx": {
-    "asOf": "2026-10-07",
+    "asOf": "2026-10-08",
     "rates": {
-      "USD": 1.1177,
-      "JPY": 176.85,
-      "CZK": 24.427,
-      "DKK": 7.4745,
-      "GBP": 0.84645,
-      "HUF": 366.75,
-      "PLN": 4.3825,
-      "RON": 5.3528,
-      "SEK": 11.224,
-      "CHF": 0.9309,
+      "USD": 1.1186,
+      "JPY": 177.05,
+      "CZK": 24.403,
+      "DKK": 7.4739,
+      "GBP": 0.84698,
+      "HUF": 366.25,
+      "PLN": 4.3753,
+      "RON": 5.3434,
+      "SEK": 11.194,
+      "CHF": 0.9326,
       "ISK": 137,
-      "NOK": 10.712,
-      "TRY": 54.9822,
-      "AUD": 1.6079,
-      "BRL": 5.5953,
-      "CAD": 1.5931,
-      "CNY": 7.4937,
-      "HKD": 8.7722,
-      "IDR": 19974.25,
-      "ILS": 3.429,
-      "INR": 108.1165,
-      "KRW": 1496.25,
-      "MXN": 20.2236,
-      "MYR": 4.5692,
-      "NZD": 1.9977,
-      "PHP": 70.203,
-      "SGD": 1.4311,
-      "THB": 37.661,
-      "ZAR": 18.6539
+      "NOK": 10.717,
+      "TRY": 55.0523,
+      "AUD": 1.611,
+      "BRL": 5.6118,
+      "CAD": 1.5953,
+      "CNY": 7.4972,
+      "HKD": 8.7783,
+      "IDR": 20045.31,
+      "ILS": 3.4423,
+      "INR": 108.2635,
+      "KRW": 1502.79,
+      "MXN": 20.1486,
+      "MYR": 4.5768,
+      "NZD": 2.0014,
+      "PHP": 70.475,
+      "SGD": 1.434,
+      "THB": 37.68,
+      "ZAR": 18.6252
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -270,7 +270,7 @@
       "productId": 9740,
       "brand": "Moschino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 258.77,
+      "overallPercentDiff": 258.24,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -311,9 +311,9 @@
           "observedAt": "2026-10-03T19:06:11.832Z",
           "lastSeenAt": "2026-10-03T19:06:11.832Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 681,
+          "currentPriceEurCents": 682,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1363
+          "referencePriceEurCents": 1365
         }
       ]
     },
@@ -543,46 +543,9 @@
           "observedAt": "2026-09-01T12:33:11.663Z",
           "lastSeenAt": "2026-09-18T12:57:27.712Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 681,
+          "currentPriceEurCents": 682,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 681
-        }
-      ]
-    },
-    {
-      "productId": 1238,
-      "brand": "NIVEA BABY",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 200,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Njegujuće ulje za masažu, 200 ml",
-          "url": "https://www.dm.hr/p/d/2032031/nivea-baby-njegujuce-ulje-za-masazu",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:50:49.982Z",
-          "lastSeenAt": "2026-09-08T13:15:11.085Z",
-          "currentPriceCents": 495,
-          "currentPriceEurCents": 495,
-          "referencePriceCents": 495,
-          "referencePriceEurCents": 495
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Masažno olje za dojenčke, 200 ml",
-          "url": "https://www.dm.si/p/d/2032031/nivea-baby-masazno-olje-za-dojencke",
-          "isPromo": true,
-          "observedAt": "2026-09-08T13:15:12.752Z",
-          "lastSeenAt": "2026-09-08T13:15:12.752Z",
-          "currentPriceCents": 80,
-          "currentPriceEurCents": 80,
-          "referencePriceCents": 165,
-          "referencePriceEurCents": 165
+          "referencePriceEurCents": 682
         }
       ]
     },
@@ -631,9 +594,9 @@
           "observedAt": "2026-09-01T12:31:52.512Z",
           "lastSeenAt": "2026-09-12T12:10:00.648Z",
           "currentPriceCents": 169900,
-          "currentPriceEurCents": 463,
+          "currentPriceEurCents": 464,
           "referencePriceCents": 169900,
-          "referencePriceEurCents": 463
+          "referencePriceEurCents": 464
         }
       ]
     },
@@ -708,43 +671,6 @@
           "currentPriceEurCents": 30,
           "referencePriceCents": 65,
           "referencePriceEurCents": 65
-        }
-      ]
-    },
-    {
-      "productId": 7177,
-      "brand": "Colgate",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 191.67,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Četkica za zube Ultra Soft duopack, više vrsta, 2 kom.",
-          "url": "https://www.dm.hr/p/d/2031113/colgate-cetkica-za-zube-ultra-soft-duopack-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:41.759Z",
-          "lastSeenAt": "2026-09-08T13:15:11.085Z",
-          "currentPriceCents": 595,
-          "currentPriceEurCents": 595,
-          "referencePriceCents": 595,
-          "referencePriceEurCents": 595
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkefe, ultra soft smile love (többféle), 2 db",
-          "url": "https://www.dm.hu/p/d/2031113/colgate-fogkefe-ultra-soft-smile-love-tobbfele",
-          "isPromo": true,
-          "observedAt": "2026-09-08T13:15:31.945Z",
-          "lastSeenAt": "2026-09-08T13:15:31.945Z",
-          "currentPriceCents": 29900,
-          "currentPriceEurCents": 82,
-          "referencePriceCents": 74900,
-          "referencePriceEurCents": 204
         }
       ]
     },
@@ -905,7 +831,7 @@
       "productId": 10590,
       "brand": "FURLA",
       "isCountryExtreme": true,
-      "overallPercentDiff": 177.51,
+      "overallPercentDiff": 177.02,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -946,9 +872,9 @@
           "observedAt": "2026-09-09T12:58:07.591Z",
           "lastSeenAt": "2026-09-09T12:58:07.591Z",
           "currentPriceCents": 309900,
-          "currentPriceEurCents": 845,
+          "currentPriceEurCents": 846,
           "referencePriceCents": 619900,
-          "referencePriceEurCents": 1690
+          "referencePriceEurCents": 1693
         }
       ]
     },
@@ -1018,10 +944,47 @@
       ]
     },
     {
+      "productId": 14514,
+      "brand": "Johnson's baby",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 171.43,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Dječja krema za zaštitu pelenskog područja, 100 ml",
+          "url": "https://www.dm.hr/p/d/3081036/johnson-s-baby-djecja-krema-za-zastitu-pelenskog-podrucja",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:27.056Z",
+          "lastSeenAt": "2026-09-24T13:32:05.161Z",
+          "currentPriceCents": 475,
+          "currentPriceEurCents": 475,
+          "referencePriceCents": 475,
+          "referencePriceEurCents": 475
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Krema za nego občutljive kože v predelu plenic, 100 ml",
+          "url": "https://www.dm.si/p/d/3081036/johnson-s-baby-krema-za-nego-obcutljive-koze-v-predelu-plenic",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:32.561Z",
+          "lastSeenAt": "2026-10-03T19:13:32.561Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 175,
+          "referencePriceEurCents": 175
+        }
+      ]
+    },
+    {
       "productId": 10118,
       "brand": "Dove MEN+CARE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 173.01,
+      "overallPercentDiff": 171.34,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1064,44 +1027,7 @@
           "currentPriceCents": 29900,
           "currentPriceEurCents": 82,
           "referencePriceCents": 59900,
-          "referencePriceEurCents": 163
-        }
-      ]
-    },
-    {
-      "productId": 14514,
-      "brand": "Johnson's baby",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 171.43,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Dječja krema za zaštitu pelenskog područja, 100 ml",
-          "url": "https://www.dm.hr/p/d/3081036/johnson-s-baby-djecja-krema-za-zastitu-pelenskog-podrucja",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:27.056Z",
-          "lastSeenAt": "2026-09-24T13:32:05.161Z",
-          "currentPriceCents": 475,
-          "currentPriceEurCents": 475,
-          "referencePriceCents": 475,
-          "referencePriceEurCents": 475
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Krema za nego občutljive kože v predelu plenic, 100 ml",
-          "url": "https://www.dm.si/p/d/3081036/johnson-s-baby-krema-za-nego-obcutljive-koze-v-predelu-plenic",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:32.561Z",
-          "lastSeenAt": "2026-10-03T19:13:32.561Z",
-          "currentPriceCents": 99,
-          "currentPriceEurCents": 99,
-          "referencePriceCents": 175,
-          "referencePriceEurCents": 175
+          "referencePriceEurCents": 164
         }
       ]
     },
@@ -1208,47 +1134,10 @@
       ]
     },
     {
-      "productId": 13800,
-      "brand": "Supradyn",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 163.52,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Energija 50+ - tablete, 30 kom.",
-          "url": "https://www.dm.hr/p/d/2277847/supradyn-energija-50-tablete",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:22.305Z",
-          "lastSeenAt": "2026-09-08T13:15:15.548Z",
-          "currentPriceCents": 2095,
-          "currentPriceEurCents": 2095,
-          "referencePriceCents": 2095,
-          "referencePriceEurCents": 2095
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Prehransko dopolnilo energija 50+, 30 kos",
-          "url": "https://www.dm.si/p/d/2277847/supradyn-prehransko-dopolnilo-energija-50",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:09.382Z",
-          "lastSeenAt": "2026-09-08T13:15:14.313Z",
-          "currentPriceCents": 795,
-          "currentPriceEurCents": 795,
-          "referencePriceCents": 795,
-          "referencePriceEurCents": 795
-        }
-      ]
-    },
-    {
       "productId": 3907,
       "brand": "COREGA",
       "isCountryExtreme": true,
-      "overallPercentDiff": 160.2,
+      "overallPercentDiff": 159.32,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1291,7 +1180,7 @@
           "currentPriceCents": 49900,
           "currentPriceEurCents": 136,
           "referencePriceCents": 107900,
-          "referencePriceEurCents": 294
+          "referencePriceEurCents": 295
         }
       ]
     },
@@ -1454,6 +1343,131 @@
           "currentPriceEurCents": 1145,
           "referencePriceCents": 1145,
           "referencePriceEurCents": 1145
+        }
+      ]
+    },
+    {
+      "productId": 13289,
+      "brand": "Christina Aguilera",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 152.4,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Signature edp, 30 ml",
+          "url": "https://www.dm.hr/p/d/1202907/christina-aguilera-signature-edp",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:20.170Z",
+          "lastSeenAt": "2026-09-10T12:54:23.648Z",
+          "currentPriceCents": 2890,
+          "currentPriceEurCents": 2890,
+          "referencePriceCents": 2890,
+          "referencePriceEurCents": 2890
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Signature Eau de Parfum, 30 ml",
+          "url": "https://www.dm.de/p/d/1202907/christina-aguilera-signature-eau-de-parfum",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:27.570Z",
+          "lastSeenAt": "2026-09-10T12:54:47.885Z",
+          "currentPriceCents": 1145,
+          "currentPriceEurCents": 1145,
+          "referencePriceCents": 1145,
+          "referencePriceEurCents": 1145
+        }
+      ]
+    },
+    {
+      "productId": 14325,
+      "brand": "Christina Aguilera",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 152.4,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Violet Noir edp, 30 ml",
+          "url": "https://www.dm.hr/p/d/1618746/christina-aguilera-violet-noir-edp",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:25.911Z",
+          "lastSeenAt": "2026-09-18T12:57:05.881Z",
+          "currentPriceCents": 2890,
+          "currentPriceEurCents": 2890,
+          "referencePriceCents": 2890,
+          "referencePriceEurCents": 2890
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Violet Noir Eau de Parfum, 30 ml",
+          "url": "https://www.dm.de/p/d/1618746/christina-aguilera-violet-noir-eau-de-parfum",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:31.956Z",
+          "lastSeenAt": "2026-09-18T12:57:21.905Z",
+          "currentPriceCents": 1145,
+          "currentPriceEurCents": 1145,
+          "referencePriceCents": 1145,
+          "referencePriceEurCents": 1145
+        }
+      ]
+    },
+    {
+      "productId": 2493,
+      "brand": "FERRAGAMO",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 151.93,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Signorina Misteriosa edp, 30 ml",
+          "url": "https://www.dm.hr/p/d/1896751/ferragamo-signorina-misteriosa-edp",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:59:12.991Z",
+          "lastSeenAt": "2026-09-22T13:24:07.513Z",
+          "currentPriceCents": 6190,
+          "currentPriceEurCents": 6190,
+          "referencePriceCents": 6190,
+          "referencePriceEurCents": 6190
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Parfumska voda Signorina Misteriosa, 30 ml",
+          "url": "https://www.dm.si/p/d/1896751/ferragamo-parfumska-voda-signorina-misteriosa",
+          "isPromo": false,
+          "observedAt": "2026-09-22T13:23:31.787Z",
+          "lastSeenAt": "2026-09-22T13:23:31.787Z",
+          "currentPriceCents": 6095,
+          "currentPriceEurCents": 6095,
+          "referencePriceCents": 6095,
+          "referencePriceEurCents": 6095
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "EdP Misteriosa, 30 ml",
+          "url": "https://www.dm.hu/p/d/1896751/ferragamo-edp-misteriosa",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:10.259Z",
+          "lastSeenAt": "2026-10-03T19:06:10.259Z",
+          "currentPriceCents": 449900,
+          "currentPriceEurCents": 1228,
+          "referencePriceCents": 899900,
+          "referencePriceEurCents": 2457
         }
       ]
     }
