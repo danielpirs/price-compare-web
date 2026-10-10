@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-09T11:43:46.390Z",
+  "generatedAt": "2026-10-10T11:01:53.250Z",
   "fx": {
-    "asOf": "2026-10-08",
+    "asOf": "2026-10-09",
     "rates": {
-      "USD": 1.1186,
-      "JPY": 177.05,
-      "CZK": 24.403,
-      "DKK": 7.4739,
-      "GBP": 0.84698,
-      "HUF": 366.25,
-      "PLN": 4.3753,
-      "RON": 5.3434,
-      "SEK": 11.194,
-      "CHF": 0.9326,
-      "ISK": 137,
-      "NOK": 10.717,
-      "TRY": 55.0523,
-      "AUD": 1.611,
-      "BRL": 5.6118,
-      "CAD": 1.5953,
-      "CNY": 7.4972,
-      "HKD": 8.7783,
-      "IDR": 20045.31,
-      "ILS": 3.4423,
-      "INR": 108.2635,
-      "KRW": 1502.79,
-      "MXN": 20.1486,
-      "MYR": 4.5768,
-      "NZD": 2.0014,
-      "PHP": 70.475,
-      "SGD": 1.434,
-      "THB": 37.68,
-      "ZAR": 18.6252
+      "USD": 1.1206,
+      "JPY": 177.34,
+      "CZK": 24.369,
+      "DKK": 7.4751,
+      "GBP": 0.84763,
+      "HUF": 365.08,
+      "PLN": 4.3835,
+      "RON": 5.3406,
+      "SEK": 11.1675,
+      "CHF": 0.9313,
+      "ISK": 136.8,
+      "NOK": 10.7155,
+      "TRY": 55.1033,
+      "AUD": 1.6052,
+      "BRL": 5.6086,
+      "CAD": 1.5942,
+      "CNY": 7.4992,
+      "HKD": 8.794,
+      "IDR": 20036.94,
+      "ILS": 3.426,
+      "INR": 108.3965,
+      "KRW": 1503.27,
+      "MXN": 20.395,
+      "MYR": 4.5777,
+      "NZD": 1.9961,
+      "PHP": 70.397,
+      "SGD": 1.4348,
+      "THB": 37.574,
+      "ZAR": 18.527
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -186,9 +186,9 @@
           "observedAt": "2026-09-01T12:30:41.384Z",
           "lastSeenAt": "2026-09-21T15:05:41.766Z",
           "currentPriceCents": 100900,
-          "currentPriceEurCents": 275,
+          "currentPriceEurCents": 276,
           "referencePriceCents": 100900,
-          "referencePriceEurCents": 275
+          "referencePriceEurCents": 276
         }
       ]
     },
@@ -270,7 +270,7 @@
       "productId": 9740,
       "brand": "Moschino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 258.24,
+      "overallPercentDiff": 257.2,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -311,9 +311,9 @@
           "observedAt": "2026-10-03T19:06:11.832Z",
           "lastSeenAt": "2026-10-03T19:06:11.832Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 682,
+          "currentPriceEurCents": 685,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1365
+          "referencePriceEurCents": 1369
         }
       ]
     },
@@ -362,9 +362,9 @@
           "observedAt": "2026-09-01T12:32:22.557Z",
           "lastSeenAt": "2026-09-15T13:31:24.654Z",
           "currentPriceCents": 78900,
-          "currentPriceEurCents": 215,
+          "currentPriceEurCents": 216,
           "referencePriceCents": 78900,
-          "referencePriceEurCents": 215
+          "referencePriceEurCents": 216
         }
       ]
     },
@@ -423,7 +423,7 @@
       "productId": 1204,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 218.81,
+      "overallPercentDiff": 217.35,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -466,7 +466,7 @@
           "currentPriceCents": 39900,
           "currentPriceEurCents": 109,
           "referencePriceCents": 79900,
-          "referencePriceEurCents": 218
+          "referencePriceEurCents": 219
         }
       ]
     },
@@ -543,9 +543,9 @@
           "observedAt": "2026-09-01T12:33:11.663Z",
           "lastSeenAt": "2026-09-18T12:57:27.712Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 682,
+          "currentPriceEurCents": 685,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 682
+          "referencePriceEurCents": 685
         }
       ]
     },
@@ -594,9 +594,9 @@
           "observedAt": "2026-09-01T12:31:52.512Z",
           "lastSeenAt": "2026-09-12T12:10:00.648Z",
           "currentPriceCents": 169900,
-          "currentPriceEurCents": 464,
+          "currentPriceEurCents": 465,
           "referencePriceCents": 169900,
-          "referencePriceEurCents": 464
+          "referencePriceEurCents": 465
         }
       ]
     },
@@ -712,10 +712,61 @@
       ]
     },
     {
+      "productId": 7334,
+      "brand": "vileda",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 185.51,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "SuperMocio 3Action zamjenske rese za mop, 1 kom.",
+          "url": "https://www.dm.hr/p/d/2137008/vileda-supermocio-3action-zamjenske-rese-za-mop",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:42.747Z",
+          "lastSeenAt": "2026-09-20T13:02:14.642Z",
+          "currentPriceCents": 985,
+          "currentPriceEurCents": 985,
+          "referencePriceCents": 985,
+          "referencePriceEurCents": 985
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Rezervna resa za močo Super 3Action čistilec, 1 kos",
+          "url": "https://www.dm.si/p/d/2137008/vileda-rezervna-resa-za-moco-super-3action-cistilec",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:22.920Z",
+          "lastSeenAt": "2026-10-03T19:13:22.920Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Gyorsfelmosó fej Supermocio 3Action, 1 db",
+          "url": "https://www.dm.hu/p/d/2137008/vileda-gyorsfelmoso-fej-supermocio-3action",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:28.672Z",
+          "lastSeenAt": "2026-09-20T13:02:34.583Z",
+          "currentPriceCents": 179900,
+          "currentPriceEurCents": 493,
+          "referencePriceCents": 179900,
+          "referencePriceEurCents": 493
+        }
+      ]
+    },
+    {
       "productId": 7605,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 187.04,
+      "overallPercentDiff": 181.82,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -770,111 +821,9 @@
           "observedAt": "2026-09-01T12:30:50.931Z",
           "lastSeenAt": "2026-10-02T14:43:06.019Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
+          "currentPriceEurCents": 55,
           "referencePriceCents": 19900,
-          "referencePriceEurCents": 54
-        }
-      ]
-    },
-    {
-      "productId": 7334,
-      "brand": "vileda",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 185.51,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "SuperMocio 3Action zamjenske rese za mop, 1 kom.",
-          "url": "https://www.dm.hr/p/d/2137008/vileda-supermocio-3action-zamjenske-rese-za-mop",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:42.747Z",
-          "lastSeenAt": "2026-09-20T13:02:14.642Z",
-          "currentPriceCents": 985,
-          "currentPriceEurCents": 985,
-          "referencePriceCents": 985,
-          "referencePriceEurCents": 985
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Rezervna resa za močo Super 3Action čistilec, 1 kos",
-          "url": "https://www.dm.si/p/d/2137008/vileda-rezervna-resa-za-moco-super-3action-cistilec",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:22.920Z",
-          "lastSeenAt": "2026-10-03T19:13:22.920Z",
-          "currentPriceCents": 99,
-          "currentPriceEurCents": 99,
-          "referencePriceCents": 345,
-          "referencePriceEurCents": 345
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Gyorsfelmosó fej Supermocio 3Action, 1 db",
-          "url": "https://www.dm.hu/p/d/2137008/vileda-gyorsfelmoso-fej-supermocio-3action",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:28.672Z",
-          "lastSeenAt": "2026-09-20T13:02:34.583Z",
-          "currentPriceCents": 179900,
-          "currentPriceEurCents": 491,
-          "referencePriceCents": 179900,
-          "referencePriceEurCents": 491
-        }
-      ]
-    },
-    {
-      "productId": 10590,
-      "brand": "FURLA",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 177.02,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Pura edp, 30 ml",
-          "url": "https://www.dm.hr/p/d/2951915/furla-pura-edp",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:03.491Z",
-          "lastSeenAt": "2026-09-09T12:57:38.438Z",
-          "currentPriceCents": 4690,
-          "currentPriceEurCents": 4690,
-          "referencePriceCents": 4690,
-          "referencePriceEurCents": 4690
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Parfumska voda za ženske Pura, 30 ml",
-          "url": "https://www.dm.si/p/d/2951915/furla-parfumska-voda-za-zenske-pura",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:17.085Z",
-          "lastSeenAt": "2026-09-09T12:57:44.124Z",
-          "currentPriceCents": 3490,
-          "currentPriceEurCents": 3490,
-          "referencePriceCents": 3490,
-          "referencePriceEurCents": 3490
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Női EdP Pura, 30 ml",
-          "url": "https://www.dm.hu/p/d/2951915/furla-noi-edp-pura",
-          "isPromo": true,
-          "observedAt": "2026-09-09T12:58:07.591Z",
-          "lastSeenAt": "2026-09-09T12:58:07.591Z",
-          "currentPriceCents": 309900,
-          "currentPriceEurCents": 846,
-          "referencePriceCents": 619900,
-          "referencePriceEurCents": 1693
+          "referencePriceEurCents": 55
         }
       ]
     },
@@ -937,9 +886,9 @@
           "observedAt": "2026-09-01T12:31:42.358Z",
           "lastSeenAt": "2026-09-10T12:54:51.624Z",
           "currentPriceCents": 34900,
-          "currentPriceEurCents": 95,
+          "currentPriceEurCents": 96,
           "referencePriceCents": 34900,
-          "referencePriceEurCents": 95
+          "referencePriceEurCents": 96
         }
       ]
     },
@@ -1137,7 +1086,7 @@
       "productId": 3907,
       "brand": "COREGA",
       "isCountryExtreme": true,
-      "overallPercentDiff": 159.32,
+      "overallPercentDiff": 158.45,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1178,9 +1127,9 @@
           "observedAt": "2026-10-03T19:06:13.313Z",
           "lastSeenAt": "2026-10-03T19:06:13.313Z",
           "currentPriceCents": 49900,
-          "currentPriceEurCents": 136,
+          "currentPriceEurCents": 137,
           "referencePriceCents": 107900,
-          "referencePriceEurCents": 295
+          "referencePriceEurCents": 296
         }
       ]
     },
@@ -1188,7 +1137,7 @@
       "productId": 11017,
       "brand": "Aquafresh",
       "isCountryExtreme": true,
-      "overallPercentDiff": 157.35,
+      "overallPercentDiff": 155.47,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1229,46 +1178,9 @@
           "observedAt": "2026-09-01T12:32:49.604Z",
           "lastSeenAt": "2026-09-18T12:57:27.712Z",
           "currentPriceCents": 49900,
-          "currentPriceEurCents": 136,
+          "currentPriceEurCents": 137,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 136
-        }
-      ]
-    },
-    {
-      "productId": 13756,
-      "brand": "SPECCHIASOL",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 152.69,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Epid sprej za usta Junior, 15 ml",
-          "url": "https://www.dm.hr/p/d/2278032/specchiasol-epid-sprej-za-usta-junior",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:22.305Z",
-          "lastSeenAt": "2026-09-09T12:57:40.357Z",
-          "currentPriceCents": 1175,
-          "currentPriceEurCents": 1175,
-          "referencePriceCents": 1175,
-          "referencePriceEurCents": 1175
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Pršilo s propolisom E.P.I.D.® Junior, 15 ml",
-          "url": "https://www.dm.si/p/d/2278032/specchiasol-prsilo-s-propolisom-e-p-i-d-junior",
-          "isPromo": true,
-          "observedAt": "2026-09-09T12:57:45.881Z",
-          "lastSeenAt": "2026-09-09T12:57:45.881Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 465,
-          "referencePriceEurCents": 465
+          "referencePriceEurCents": 137
         }
       ]
     },
@@ -1424,7 +1336,7 @@
       "productId": 2493,
       "brand": "FERRAGAMO",
       "isCountryExtreme": true,
-      "overallPercentDiff": 151.93,
+      "overallPercentDiff": 151.12,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1465,9 +1377,97 @@
           "observedAt": "2026-10-03T19:06:10.259Z",
           "lastSeenAt": "2026-10-03T19:06:10.259Z",
           "currentPriceCents": 449900,
-          "currentPriceEurCents": 1228,
+          "currentPriceEurCents": 1232,
           "referencePriceCents": 899900,
-          "referencePriceEurCents": 2457
+          "referencePriceEurCents": 2465
+        }
+      ]
+    },
+    {
+      "productId": 10188,
+      "brand": "Rexona",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 150,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Deo roll-on Advanced Protection Invisible Aqua, 50 ml",
+          "url": "https://www.dm.hr/p/d/3072259/rexona-deo-roll-on-advanced-protection-invisible-aqua",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:00.205Z",
+          "lastSeenAt": "2026-09-13T13:17:47.225Z",
+          "currentPriceCents": 390,
+          "currentPriceEurCents": 390,
+          "referencePriceCents": 390,
+          "referencePriceEurCents": 390
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Antiperspirant roll-on Advanced Protection..., 50 ml",
+          "url": "https://www.dm.si/p/d/3072259/rexona-antiperspirant-roll-on-advanced-protection-invisible-aqua",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:04.847Z",
+          "lastSeenAt": "2026-09-13T13:17:55.447Z",
+          "currentPriceCents": 370,
+          "currentPriceEurCents": 370,
+          "referencePriceCents": 370,
+          "referencePriceEurCents": 370
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Deo roll-on Advanced Protection, Invisible Aqua, 50 ml",
+          "url": "https://www.dm.hu/p/d/3072259/rexona-deo-roll-on-advanced-protection-invisible-aqua",
+          "isPromo": true,
+          "observedAt": "2026-09-13T13:18:22.482Z",
+          "lastSeenAt": "2026-09-13T13:18:22.482Z",
+          "currentPriceCents": 27900,
+          "currentPriceEurCents": 76,
+          "referencePriceCents": 56900,
+          "referencePriceEurCents": 156
+        }
+      ]
+    },
+    {
+      "productId": 6048,
+      "brand": "Signal",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 147.92,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Četkica za zube Charcoal Sensisoft, 2 kom.",
+          "url": "https://www.dm.hr/p/d/2444837/signal-cetkica-za-zube-charcoal-sensisoft",
+          "isPromo": true,
+          "observedAt": "2026-09-15T13:30:55.284Z",
+          "lastSeenAt": "2026-09-15T13:30:55.284Z",
+          "currentPriceCents": 325,
+          "currentPriceEurCents": 325,
+          "referencePriceCents": 595,
+          "referencePriceEurCents": 595
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkefe charcoal sensisoft (többféle), 2 db",
+          "url": "https://www.dm.hu/p/d/2444837/signal-fogkefe-charcoal-sensisoft-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:07.099Z",
+          "lastSeenAt": "2026-09-15T13:31:24.654Z",
+          "currentPriceCents": 87500,
+          "currentPriceEurCents": 240,
+          "referencePriceCents": 87500,
+          "referencePriceEurCents": 240
         }
       ]
     }

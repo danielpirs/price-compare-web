@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-09T11:43:46.390Z",
+  "generatedAt": "2026-10-10T11:01:53.250Z",
   "fx": {
-    "asOf": "2026-10-08",
+    "asOf": "2026-10-09",
     "rates": {
-      "USD": 1.1186,
-      "JPY": 177.05,
-      "CZK": 24.403,
-      "DKK": 7.4739,
-      "GBP": 0.84698,
-      "HUF": 366.25,
-      "PLN": 4.3753,
-      "RON": 5.3434,
-      "SEK": 11.194,
-      "CHF": 0.9326,
-      "ISK": 137,
-      "NOK": 10.717,
-      "TRY": 55.0523,
-      "AUD": 1.611,
-      "BRL": 5.6118,
-      "CAD": 1.5953,
-      "CNY": 7.4972,
-      "HKD": 8.7783,
-      "IDR": 20045.31,
-      "ILS": 3.4423,
-      "INR": 108.2635,
-      "KRW": 1502.79,
-      "MXN": 20.1486,
-      "MYR": 4.5768,
-      "NZD": 2.0014,
-      "PHP": 70.475,
-      "SGD": 1.434,
-      "THB": 37.68,
-      "ZAR": 18.6252
+      "USD": 1.1206,
+      "JPY": 177.34,
+      "CZK": 24.369,
+      "DKK": 7.4751,
+      "GBP": 0.84763,
+      "HUF": 365.08,
+      "PLN": 4.3835,
+      "RON": 5.3406,
+      "SEK": 11.1675,
+      "CHF": 0.9313,
+      "ISK": 136.8,
+      "NOK": 10.7155,
+      "TRY": 55.1033,
+      "AUD": 1.6052,
+      "BRL": 5.6086,
+      "CAD": 1.5942,
+      "CNY": 7.4992,
+      "HKD": 8.794,
+      "IDR": 20036.94,
+      "ILS": 3.426,
+      "INR": 108.3965,
+      "KRW": 1503.27,
+      "MXN": 20.395,
+      "MYR": 4.5777,
+      "NZD": 1.9961,
+      "PHP": 70.397,
+      "SGD": 1.4348,
+      "THB": 37.574,
+      "ZAR": 18.527
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -43,7 +43,7 @@
       "productId": 16938,
       "brand": "sundance",
       "isCountryExtreme": true,
-      "overallPercentDiff": 909.26,
+      "overallPercentDiff": 890.91,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -72,7 +72,7 @@
           "currentPriceCents": 9900,
           "currentPriceEurCents": 27,
           "referencePriceCents": 19900,
-          "referencePriceEurCents": 54
+          "referencePriceEurCents": 55
         }
       ]
     },
@@ -145,7 +145,7 @@
       "productId": 33703,
       "brand": "Scholl",
       "isCountryExtreme": true,
-      "overallPercentDiff": 424.03,
+      "overallPercentDiff": 422.83,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -186,9 +186,9 @@
           "observedAt": "2026-09-01T12:31:59.780Z",
           "lastSeenAt": "2026-09-11T12:49:03.415Z",
           "currentPriceCents": 159900,
-          "currentPriceEurCents": 437,
+          "currentPriceEurCents": 438,
           "referencePriceCents": 159900,
-          "referencePriceEurCents": 437
+          "referencePriceEurCents": 438
         }
       ]
     },
@@ -281,6 +281,71 @@
       ]
     },
     {
+      "productId": 3114,
+      "brand": "SEINZ.",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 333.82,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Osvežilni dezodorant v spreju, 200 ml",
+          "url": "https://www.dm.si/p/d/1689101/seinz-osvezilni-dezodorant-v-spreju",
+          "isPromo": false,
+          "observedAt": "2026-08-28T16:03:24.066Z",
+          "lastSeenAt": "2026-10-09T15:16:13.780Z",
+          "currentPriceCents": 265,
+          "currentPriceEurCents": 265,
+          "referencePriceCents": 265,
+          "referencePriceEurCents": 265
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Deodorant erfrischend, 200 ml",
+          "url": "https://www.dm.at/p/d/1689101/seinz-deodorant-erfrischend",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:50.459Z",
+          "lastSeenAt": "2026-10-09T15:16:20.941Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Deospray fresh, 200 ml",
+          "url": "https://www.dm.de/p/d/1689101/seinz-deospray-fresh",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:18.143Z",
+          "lastSeenAt": "2026-10-09T15:16:27.196Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Frissítő deo spray, 200 ml",
+          "url": "https://www.dm.hu/p/d/1689101/seinz-frissito-deo-spray",
+          "isPromo": false,
+          "observedAt": "2026-10-09T15:16:31.469Z",
+          "lastSeenAt": "2026-10-09T15:16:31.469Z",
+          "currentPriceCents": 24900,
+          "currentPriceEurCents": 68,
+          "referencePriceCents": 24900,
+          "referencePriceEurCents": 68
+        }
+      ]
+    },
+    {
       "productId": 18518,
       "brand": "alverde NATURKOSMETIK",
       "isCountryExtreme": true,
@@ -325,7 +390,7 @@
           "observedAt": "2026-10-03T19:06:07.103Z",
           "lastSeenAt": "2026-10-03T19:06:07.103Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
+          "currentPriceEurCents": 55,
           "referencePriceCents": 39900,
           "referencePriceEurCents": 109
         }
@@ -451,7 +516,7 @@
       "productId": 18513,
       "brand": "alverde NATURKOSMETIK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 263.97,
+      "overallPercentDiff": 261.31,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -508,7 +573,7 @@
           "currentPriceCents": 24900,
           "currentPriceEurCents": 68,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 136
+          "referencePriceEurCents": 137
         }
       ]
     },
@@ -622,9 +687,9 @@
           "observedAt": "2026-09-01T12:32:54.339Z",
           "lastSeenAt": "2026-09-19T12:29:10.810Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1501,
+          "currentPriceEurCents": 1506,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1501
+          "referencePriceEurCents": 1506
         }
       ]
     },
@@ -701,9 +766,9 @@
           "observedAt": "2026-09-01T12:30:30.838Z",
           "lastSeenAt": "2026-09-25T13:44:12.981Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1501,
+          "currentPriceEurCents": 1506,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1501
+          "referencePriceEurCents": 1506
         }
       ]
     },
@@ -762,7 +827,7 @@
       "productId": 17624,
       "brand": "alverde NATURKOSMETIK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 249.26,
+      "overallPercentDiff": 246.72,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -819,7 +884,7 @@
           "currentPriceCents": 24900,
           "currentPriceEurCents": 68,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 136
+          "referencePriceEurCents": 137
         }
       ]
     },
@@ -868,7 +933,7 @@
           "observedAt": "2026-09-10T12:54:51.624Z",
           "lastSeenAt": "2026-09-10T12:54:51.624Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
+          "currentPriceEurCents": 55,
           "referencePriceCents": 39900,
           "referencePriceEurCents": 109
         }
@@ -1133,7 +1198,7 @@
       "productId": 39854,
       "brand": "Varta",
       "isCountryExtreme": true,
-      "overallPercentDiff": 218.81,
+      "overallPercentDiff": 217.35,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1160,74 +1225,9 @@
           "observedAt": "2026-09-01T12:31:00.665Z",
           "lastSeenAt": "2026-09-26T13:03:14.475Z",
           "currentPriceCents": 79900,
-          "currentPriceEurCents": 218,
+          "currentPriceEurCents": 219,
           "referencePriceCents": 79900,
-          "referencePriceEurCents": 218
-        }
-      ]
-    },
-    {
-      "productId": 20208,
-      "brand": "dmBio",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 218.18,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Bio pripravek iz govedine, od 5. meseca, 125 g",
-          "url": "https://www.dm.si/p/d/1449699/dmbio-bio-pripravek-iz-govedine-od-5-meseca",
-          "isPromo": true,
-          "observedAt": "2026-09-09T12:57:44.124Z",
-          "lastSeenAt": "2026-09-09T12:57:44.124Z",
-          "currentPriceCents": 25,
-          "currentPriceEurCents": 25,
-          "referencePriceCents": 55,
-          "referencePriceEurCents": 55
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Menü Rindfleisch Zubereitung ab dem 5. Monat, 125 g",
-          "url": "https://www.dm.at/p/d/1449699/dmbio-menue-rindfleisch-zubereitung-ab-dem-5-monat",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:16.249Z",
-          "lastSeenAt": "2026-09-09T12:57:49.986Z",
-          "currentPriceCents": 175,
-          "currentPriceEurCents": 175,
-          "referencePriceCents": 175,
-          "referencePriceEurCents": 175
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Rindfleisch Zubereitung ab dem 5. Monat, 125 g",
-          "url": "https://www.dm.de/p/d/1449699/dmbio-rindfleisch-zubereitung-ab-dem-5-monat",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:25.192Z",
-          "lastSeenAt": "2026-09-09T12:57:59.589Z",
-          "currentPriceCents": 165,
-          "currentPriceEurCents": 165,
-          "referencePriceCents": 165,
-          "referencePriceEurCents": 165
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Bio bébimenü marhahúsos készítmény, 5. hónapos..., 125 g",
-          "url": "https://www.dm.hu/p/d/1449699/dmbio-bio-bebimenu-marhahusos-keszitmeny-5-honapos-kortol",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:16.800Z",
-          "lastSeenAt": "2026-09-09T12:58:07.591Z",
-          "currentPriceCents": 61900,
-          "currentPriceEurCents": 169,
-          "referencePriceCents": 61900,
-          "referencePriceEurCents": 169
+          "referencePriceEurCents": 219
         }
       ]
     },
@@ -1272,7 +1272,7 @@
       "productId": 32884,
       "brand": "GARNIER mineral",
       "isCountryExtreme": true,
-      "overallPercentDiff": 216,
+      "overallPercentDiff": 213.49,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1301,7 +1301,7 @@
           "currentPriceCents": 22900,
           "currentPriceEurCents": 63,
           "referencePriceCents": 45900,
-          "referencePriceEurCents": 125
+          "referencePriceEurCents": 126
         }
       ]
     },

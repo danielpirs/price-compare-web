@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-09T11:43:46.390Z",
+  "generatedAt": "2026-10-10T11:01:53.250Z",
   "fx": {
-    "asOf": "2026-10-08",
+    "asOf": "2026-10-09",
     "rates": {
-      "USD": 1.1186,
-      "JPY": 177.05,
-      "CZK": 24.403,
-      "DKK": 7.4739,
-      "GBP": 0.84698,
-      "HUF": 366.25,
-      "PLN": 4.3753,
-      "RON": 5.3434,
-      "SEK": 11.194,
-      "CHF": 0.9326,
-      "ISK": 137,
-      "NOK": 10.717,
-      "TRY": 55.0523,
-      "AUD": 1.611,
-      "BRL": 5.6118,
-      "CAD": 1.5953,
-      "CNY": 7.4972,
-      "HKD": 8.7783,
-      "IDR": 20045.31,
-      "ILS": 3.4423,
-      "INR": 108.2635,
-      "KRW": 1502.79,
-      "MXN": 20.1486,
-      "MYR": 4.5768,
-      "NZD": 2.0014,
-      "PHP": 70.475,
-      "SGD": 1.434,
-      "THB": 37.68,
-      "ZAR": 18.6252
+      "USD": 1.1206,
+      "JPY": 177.34,
+      "CZK": 24.369,
+      "DKK": 7.4751,
+      "GBP": 0.84763,
+      "HUF": 365.08,
+      "PLN": 4.3835,
+      "RON": 5.3406,
+      "SEK": 11.1675,
+      "CHF": 0.9313,
+      "ISK": 136.8,
+      "NOK": 10.7155,
+      "TRY": 55.1033,
+      "AUD": 1.6052,
+      "BRL": 5.6086,
+      "CAD": 1.5942,
+      "CNY": 7.4992,
+      "HKD": 8.794,
+      "IDR": 20036.94,
+      "ILS": 3.426,
+      "INR": 108.3965,
+      "KRW": 1503.27,
+      "MXN": 20.395,
+      "MYR": 4.5777,
+      "NZD": 1.9961,
+      "PHP": 70.397,
+      "SGD": 1.4348,
+      "THB": 37.574,
+      "ZAR": 18.527
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -43,7 +43,7 @@
       "productId": 16938,
       "brand": "sundance",
       "isCountryExtreme": true,
-      "overallPercentDiff": 909.26,
+      "overallPercentDiff": 890.91,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -72,7 +72,7 @@
           "currentPriceCents": 9900,
           "currentPriceEurCents": 27,
           "referencePriceCents": 19900,
-          "referencePriceEurCents": 54
+          "referencePriceEurCents": 55
         }
       ]
     },
@@ -80,7 +80,7 @@
       "productId": 19942,
       "brand": "Dontodent",
       "isCountryExtreme": true,
-      "overallPercentDiff": 548.15,
+      "overallPercentDiff": 536.36,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -121,9 +121,9 @@
           "observedAt": "2026-09-01T12:32:40.208Z",
           "lastSeenAt": "2026-09-13T13:18:24.645Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
+          "currentPriceEurCents": 55,
           "referencePriceCents": 19900,
-          "referencePriceEurCents": 54
+          "referencePriceEurCents": 55
         }
       ]
     },
@@ -131,7 +131,7 @@
       "productId": 33703,
       "brand": "Scholl",
       "isCountryExtreme": true,
-      "overallPercentDiff": 424.03,
+      "overallPercentDiff": 422.83,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -172,9 +172,9 @@
           "observedAt": "2026-09-01T12:31:59.780Z",
           "lastSeenAt": "2026-09-11T12:49:03.415Z",
           "currentPriceCents": 159900,
-          "currentPriceEurCents": 437,
+          "currentPriceEurCents": 438,
           "referencePriceCents": 159900,
-          "referencePriceEurCents": 437
+          "referencePriceEurCents": 438
         }
       ]
     },
@@ -383,6 +383,71 @@
       ]
     },
     {
+      "productId": 3114,
+      "brand": "SEINZ.",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 333.82,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Osvežilni dezodorant v spreju, 200 ml",
+          "url": "https://www.dm.si/p/d/1689101/seinz-osvezilni-dezodorant-v-spreju",
+          "isPromo": false,
+          "observedAt": "2026-08-28T16:03:24.066Z",
+          "lastSeenAt": "2026-10-09T15:16:13.780Z",
+          "currentPriceCents": 265,
+          "currentPriceEurCents": 265,
+          "referencePriceCents": 265,
+          "referencePriceEurCents": 265
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Deodorant erfrischend, 200 ml",
+          "url": "https://www.dm.at/p/d/1689101/seinz-deodorant-erfrischend",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:50.459Z",
+          "lastSeenAt": "2026-10-09T15:16:20.941Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Deospray fresh, 200 ml",
+          "url": "https://www.dm.de/p/d/1689101/seinz-deospray-fresh",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:18.143Z",
+          "lastSeenAt": "2026-10-09T15:16:27.196Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Frissítő deo spray, 200 ml",
+          "url": "https://www.dm.hu/p/d/1689101/seinz-frissito-deo-spray",
+          "isPromo": false,
+          "observedAt": "2026-10-09T15:16:31.469Z",
+          "lastSeenAt": "2026-10-09T15:16:31.469Z",
+          "currentPriceCents": 24900,
+          "currentPriceEurCents": 68,
+          "referencePriceCents": 24900,
+          "referencePriceEurCents": 68
+        }
+      ]
+    },
+    {
       "productId": 6888,
       "brand": "ebelin",
       "isCountryExtreme": true,
@@ -506,7 +571,7 @@
           "observedAt": "2026-10-03T19:06:07.103Z",
           "lastSeenAt": "2026-10-03T19:06:07.103Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
+          "currentPriceEurCents": 55,
           "referencePriceCents": 39900,
           "referencePriceEurCents": 109
         }
@@ -567,7 +632,7 @@
       "productId": 18513,
       "brand": "alverde NATURKOSMETIK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 263.97,
+      "overallPercentDiff": 261.31,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -624,7 +689,7 @@
           "currentPriceCents": 24900,
           "currentPriceEurCents": 68,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 136
+          "referencePriceEurCents": 137
         }
       ]
     },
@@ -669,7 +734,7 @@
       "productId": 9740,
       "brand": "Moschino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 258.24,
+      "overallPercentDiff": 257.2,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -710,9 +775,9 @@
           "observedAt": "2026-10-03T19:06:11.832Z",
           "lastSeenAt": "2026-10-03T19:06:11.832Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 682,
+          "currentPriceEurCents": 685,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1365
+          "referencePriceEurCents": 1369
         }
       ]
     },
@@ -720,7 +785,7 @@
       "productId": 16879,
       "brand": "SKIN1004",
       "isCountryExtreme": true,
-      "overallPercentDiff": 255.26,
+      "overallPercentDiff": 253.93,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -761,9 +826,46 @@
           "observedAt": "2026-09-10T12:54:51.624Z",
           "lastSeenAt": "2026-09-10T12:54:51.624Z",
           "currentPriceCents": 94900,
-          "currentPriceEurCents": 259,
+          "currentPriceEurCents": 260,
           "referencePriceCents": 194900,
-          "referencePriceEurCents": 532
+          "referencePriceEurCents": 534
+        }
+      ]
+    },
+    {
+      "productId": 18416,
+      "brand": "adidas",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 248.21,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Antiperspirant v spreju Invisible Control, 150 ml",
+          "url": "https://www.dm.si/p/d/3068251/adidas-antiperspirant-v-spreju-invisible-control",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:22.881Z",
+          "lastSeenAt": "2026-09-14T15:00:28.882Z",
+          "currentPriceCents": 390,
+          "currentPriceEurCents": 390,
+          "referencePriceCents": 390,
+          "referencePriceEurCents": 390
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Deo spray Invisible Control, 150 ml",
+          "url": "https://www.dm.hu/p/d/3068251/adidas-deo-spray-invisible-control",
+          "isPromo": true,
+          "observedAt": "2026-09-14T15:01:07.257Z",
+          "lastSeenAt": "2026-09-14T15:01:07.257Z",
+          "currentPriceCents": 19900,
+          "currentPriceEurCents": 55,
+          "referencePriceCents": 40900,
+          "referencePriceEurCents": 112
         }
       ]
     },
@@ -771,7 +873,7 @@
       "productId": 17624,
       "brand": "alverde NATURKOSMETIK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 249.26,
+      "overallPercentDiff": 246.72,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -828,132 +930,7 @@
           "currentPriceCents": 24900,
           "currentPriceEurCents": 68,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 136
-        }
-      ]
-    },
-    {
-      "productId": 18416,
-      "brand": "adidas",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 248.21,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Antiperspirant v spreju Invisible Control, 150 ml",
-          "url": "https://www.dm.si/p/d/3068251/adidas-antiperspirant-v-spreju-invisible-control",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:22.881Z",
-          "lastSeenAt": "2026-09-14T15:00:28.882Z",
-          "currentPriceCents": 390,
-          "currentPriceEurCents": 390,
-          "referencePriceCents": 390,
-          "referencePriceEurCents": 390
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Deo spray Invisible Control, 150 ml",
-          "url": "https://www.dm.hu/p/d/3068251/adidas-deo-spray-invisible-control",
-          "isPromo": true,
-          "observedAt": "2026-09-14T15:01:07.257Z",
-          "lastSeenAt": "2026-09-14T15:01:07.257Z",
-          "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
-          "referencePriceCents": 40900,
-          "referencePriceEurCents": 112
-        }
-      ]
-    },
-    {
-      "productId": 16410,
-      "brand": "adidas",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 245.13,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Antiperspirant v spreju Ultra Fresh Control, 150 ml",
-          "url": "https://www.dm.si/p/d/3068360/adidas-antiperspirant-v-spreju-ultra-fresh-control",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:56.419Z",
-          "lastSeenAt": "2026-10-01T15:25:52.013Z",
-          "currentPriceCents": 390,
-          "currentPriceEurCents": 390,
-          "referencePriceCents": 390,
-          "referencePriceEurCents": 390
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Deo spray Ultra Fresh Control, 150 ml",
-          "url": "https://www.dm.hu/p/d/3068360/adidas-deo-spray-ultra-fresh-control",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:06:17.999Z",
-          "lastSeenAt": "2026-10-03T19:06:17.999Z",
-          "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
-          "referencePriceCents": 41500,
-          "referencePriceEurCents": 113
-        }
-      ]
-    },
-    {
-      "productId": 21037,
-      "brand": "Beauty of Joseon",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 244.68,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Vlažilna esenca za obraz z izvlečkom ginsenga, 150 ml",
-          "url": "https://www.dm.si/p/d/2486080/beauty-of-joseon-vlazilna-esenca-za-obraz-z-izvleckom-ginsenga",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:28.819Z",
-          "lastSeenAt": "2026-10-03T19:13:28.819Z",
-          "currentPriceCents": 990,
-          "currentPriceEurCents": 990,
-          "referencePriceCents": 1975,
-          "referencePriceEurCents": 1975
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Toner Ginseng Essence Water, 150 ml",
-          "url": "https://www.dm.at/p/d/2486080/beauty-of-joseon-toner-ginseng-essence-water",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:53.266Z",
-          "lastSeenAt": "2026-09-23T13:37:12.736Z",
-          "currentPriceCents": 1895,
-          "currentPriceEurCents": 1895,
-          "referencePriceCents": 1895,
-          "referencePriceEurCents": 1895
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Arcvíz frissítő és hidratáló, 80% tiszta..., 150 ml",
-          "url": "https://www.dm.hu/p/d/2486080/beauty-of-joseon-arcviz-frissito-es-hidratalo-80-tiszta-ginzeng-gyokervizzel",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:06:13.313Z",
-          "lastSeenAt": "2026-10-03T19:06:13.313Z",
-          "currentPriceCents": 104900,
-          "currentPriceEurCents": 286,
-          "referencePriceCents": 209900,
-          "referencePriceEurCents": 573
+          "referencePriceEurCents": 137
         }
       ]
     },
@@ -1002,9 +979,60 @@
           "observedAt": "2026-09-10T12:54:51.624Z",
           "lastSeenAt": "2026-09-10T12:54:51.624Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
+          "currentPriceEurCents": 55,
           "referencePriceCents": 39900,
           "referencePriceEurCents": 109
+        }
+      ]
+    },
+    {
+      "productId": 21037,
+      "brand": "Beauty of Joseon",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 243.48,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Vlažilna esenca za obraz z izvlečkom ginsenga, 150 ml",
+          "url": "https://www.dm.si/p/d/2486080/beauty-of-joseon-vlazilna-esenca-za-obraz-z-izvleckom-ginsenga",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:28.819Z",
+          "lastSeenAt": "2026-10-03T19:13:28.819Z",
+          "currentPriceCents": 990,
+          "currentPriceEurCents": 990,
+          "referencePriceCents": 1975,
+          "referencePriceEurCents": 1975
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Toner Ginseng Essence Water, 150 ml",
+          "url": "https://www.dm.at/p/d/2486080/beauty-of-joseon-toner-ginseng-essence-water",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:53.266Z",
+          "lastSeenAt": "2026-09-23T13:37:12.736Z",
+          "currentPriceCents": 1895,
+          "currentPriceEurCents": 1895,
+          "referencePriceCents": 1895,
+          "referencePriceEurCents": 1895
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Arcvíz frissítő és hidratáló, 80% tiszta..., 150 ml",
+          "url": "https://www.dm.hu/p/d/2486080/beauty-of-joseon-arcviz-frissito-es-hidratalo-80-tiszta-ginzeng-gyokervizzel",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:13.313Z",
+          "lastSeenAt": "2026-10-03T19:06:13.313Z",
+          "currentPriceCents": 104900,
+          "currentPriceEurCents": 287,
+          "referencePriceCents": 209900,
+          "referencePriceEurCents": 575
         }
       ]
     },
@@ -1042,6 +1070,43 @@
           "currentPriceEurCents": 82,
           "referencePriceCents": 46500,
           "referencePriceEurCents": 127
+        }
+      ]
+    },
+    {
+      "productId": 16410,
+      "brand": "adidas",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 242.11,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Antiperspirant v spreju Ultra Fresh Control, 150 ml",
+          "url": "https://www.dm.si/p/d/3068360/adidas-antiperspirant-v-spreju-ultra-fresh-control",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:56.419Z",
+          "lastSeenAt": "2026-10-01T15:25:52.013Z",
+          "currentPriceCents": 390,
+          "currentPriceEurCents": 390,
+          "referencePriceCents": 390,
+          "referencePriceEurCents": 390
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Deo spray Ultra Fresh Control, 150 ml",
+          "url": "https://www.dm.hu/p/d/3068360/adidas-deo-spray-ultra-fresh-control",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:17.999Z",
+          "lastSeenAt": "2026-10-03T19:06:17.999Z",
+          "currentPriceCents": 19900,
+          "currentPriceEurCents": 55,
+          "referencePriceCents": 41500,
+          "referencePriceEurCents": 114
         }
       ]
     },
@@ -1243,7 +1308,7 @@
           "observedAt": "2026-10-03T19:06:17.999Z",
           "lastSeenAt": "2026-10-03T19:06:17.999Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
+          "currentPriceEurCents": 55,
           "referencePriceCents": 40900,
           "referencePriceEurCents": 112
         }
@@ -1280,7 +1345,7 @@
           "observedAt": "2026-10-03T19:06:13.313Z",
           "lastSeenAt": "2026-10-03T19:06:13.313Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
+          "currentPriceEurCents": 55,
           "referencePriceCents": 40900,
           "referencePriceEurCents": 112
         }
@@ -1290,7 +1355,7 @@
       "productId": 1204,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 218.81,
+      "overallPercentDiff": 217.35,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1333,7 +1398,7 @@
           "currentPriceCents": 39900,
           "currentPriceEurCents": 109,
           "referencePriceCents": 79900,
-          "referencePriceEurCents": 218
+          "referencePriceEurCents": 219
         }
       ]
     },
@@ -1341,7 +1406,7 @@
       "productId": 39854,
       "brand": "Varta",
       "isCountryExtreme": true,
-      "overallPercentDiff": 218.81,
+      "overallPercentDiff": 217.35,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1368,9 +1433,9 @@
           "observedAt": "2026-09-01T12:31:00.665Z",
           "lastSeenAt": "2026-09-26T13:03:14.475Z",
           "currentPriceCents": 79900,
-          "currentPriceEurCents": 218,
+          "currentPriceEurCents": 219,
           "referencePriceCents": 79900,
-          "referencePriceEurCents": 218
+          "referencePriceEurCents": 219
         }
       ]
     },
@@ -1378,7 +1443,7 @@
       "productId": 1906,
       "brand": "GARNIER mineral",
       "isCountryExtreme": true,
-      "overallPercentDiff": 216,
+      "overallPercentDiff": 213.49,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1421,7 +1486,7 @@
           "currentPriceCents": 22900,
           "currentPriceEurCents": 63,
           "referencePriceCents": 45900,
-          "referencePriceEurCents": 125
+          "referencePriceEurCents": 126
         }
       ]
     },
@@ -1429,7 +1494,7 @@
       "productId": 32884,
       "brand": "GARNIER mineral",
       "isCountryExtreme": true,
-      "overallPercentDiff": 216,
+      "overallPercentDiff": 213.49,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1458,44 +1523,7 @@
           "currentPriceCents": 22900,
           "currentPriceEurCents": 63,
           "referencePriceCents": 45900,
-          "referencePriceEurCents": 125
-        }
-      ]
-    },
-    {
-      "productId": 17734,
-      "brand": "glade",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 206.95,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Dišeča sveča v kozarcu Vanilla Cream Cookies, 204 g",
-          "url": "https://www.dm.si/p/d/3095833/glade-diseca-sveca-v-kozarcu-vanilla-cream-cookies",
-          "isPromo": true,
-          "observedAt": "2026-09-10T12:54:28.910Z",
-          "lastSeenAt": "2026-09-10T12:54:28.910Z",
-          "currentPriceCents": 695,
-          "currentPriceEurCents": 695,
-          "referencePriceCents": 795,
-          "referencePriceEurCents": 795
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Illatgyertya Vanilla Cream Cookies illattal, 1 db",
-          "url": "https://www.dm.hu/p/d/3095730/glade-illatgyertya-vanilla-cream-cookies-illattal",
-          "isPromo": true,
-          "observedAt": "2026-09-14T15:01:03.538Z",
-          "lastSeenAt": "2026-09-14T15:01:03.538Z",
-          "currentPriceCents": 49900,
-          "currentPriceEurCents": 136,
-          "referencePriceCents": 94900,
-          "referencePriceEurCents": 259
+          "referencePriceEurCents": 126
         }
       ]
     }
