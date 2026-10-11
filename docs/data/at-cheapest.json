@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T11:01:53.250Z",
+  "generatedAt": "2026-10-11T11:18:53.914Z",
   "fx": {
     "asOf": "2026-10-09",
     "rates": {
@@ -318,7 +318,7 @@
           "url": "https://www.dm.at/p/d/1459954/swirl-schwerlast-muellsaecke-60-l",
           "isPromo": false,
           "observedAt": "2026-08-30T22:35:56.392Z",
-          "lastSeenAt": "2026-09-10T12:54:32.258Z",
+          "lastSeenAt": "2026-10-10T14:27:25.467Z",
           "currentPriceCents": 395,
           "currentPriceEurCents": 395,
           "referencePriceCents": 395,
@@ -332,7 +332,7 @@
           "url": "https://www.dm.de/p/d/1459954/swirl-schwerlast-muellsaecke-profi-60-l-3x12-st-mit-100-prozent-recyceltem-plastik",
           "isPromo": false,
           "observedAt": "2026-08-31T20:41:26.297Z",
-          "lastSeenAt": "2026-09-10T12:54:40.394Z",
+          "lastSeenAt": "2026-10-10T14:27:28.236Z",
           "currentPriceCents": 995,
           "currentPriceEurCents": 995,
           "referencePriceCents": 995,
@@ -634,71 +634,6 @@
           "currentPriceEurCents": 150,
           "referencePriceCents": 54900,
           "referencePriceEurCents": 150
-        }
-      ]
-    },
-    {
-      "productId": 10626,
-      "brand": "MUSTANG",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 129.21,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Black Signature edt, 50 ml",
-          "url": "https://www.dm.hr/p/d/3101347/mustang-black-signature-edt",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:03.491Z",
-          "lastSeenAt": "2026-09-10T12:54:23.648Z",
-          "currentPriceCents": 1495,
-          "currentPriceEurCents": 1495,
-          "referencePriceCents": 1495,
-          "referencePriceEurCents": 1495
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Toaletna voda za moške Black Signature, 50 ml",
-          "url": "https://www.dm.si/p/d/3101347/mustang-toaletna-voda-za-moske-black-signature",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:31.607Z",
-          "lastSeenAt": "2026-09-10T12:54:30.612Z",
-          "currentPriceCents": 1695,
-          "currentPriceEurCents": 1695,
-          "referencePriceCents": 1695,
-          "referencePriceEurCents": 1695
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Eau de Toilette Black Signature, 50 ml",
-          "url": "https://www.dm.at/p/d/3101347/mustang-eau-de-toilette-black-signature",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:37:37.997Z",
-          "lastSeenAt": "2026-09-10T12:54:36.582Z",
-          "currentPriceCents": 1195,
-          "currentPriceEurCents": 1195,
-          "referencePriceCents": 1195,
-          "referencePriceEurCents": 1195
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Férfi EdT, Black Signature, 50 ml",
-          "url": "https://www.dm.hu/p/d/3101347/mustang-ferfi-edt-black-signature",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:25.739Z",
-          "lastSeenAt": "2026-09-10T12:54:49.395Z",
-          "currentPriceCents": 999900,
-          "currentPriceEurCents": 2739,
-          "referencePriceCents": 999900,
-          "referencePriceEurCents": 2739
         }
       ]
     },
@@ -1660,6 +1595,43 @@
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z",
           "lastSeenAt": "2026-09-17T13:25:33.061Z",
+          "currentPriceCents": 1199900,
+          "currentPriceEurCents": 3287,
+          "referencePriceCents": 1199900,
+          "referencePriceEurCents": 3287
+        }
+      ]
+    },
+    {
+      "productId": 38465,
+      "brand": "POLICE",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 119.87,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Eau de Toilette To Be or not to be, 40 ml",
+          "url": "https://www.dm.at/p/d/1864937/police-eau-de-toilette-to-be-or-not-to-be",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:38:02.169Z",
+          "lastSeenAt": "2026-09-21T15:05:33.295Z",
+          "currentPriceCents": 1495,
+          "currentPriceEurCents": 1495,
+          "referencePriceCents": 1495,
+          "referencePriceEurCents": 1495
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Férfi EdT To be, 40 ml",
+          "url": "https://www.dm.hu/p/d/1864937/police-ferfi-edt-to-be",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:22.854Z",
+          "lastSeenAt": "2026-09-21T15:05:41.766Z",
           "currentPriceCents": 1199900,
           "currentPriceEurCents": 3287,
           "referencePriceCents": 1199900,
