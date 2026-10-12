@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T11:18:53.914Z",
+  "generatedAt": "2026-10-12T12:54:16.476Z",
   "fx": {
     "asOf": "2026-10-09",
     "rates": {
@@ -37,59 +37,6 @@
     "fallback": false
   },
   "items": [
-    {
-      "productId": 21039,
-      "name": "Olje za masažo dojenčka, 200 ml",
-      "brand": "HALLOHEBAMME",
-      "percentDiff": 3553.33,
-      "cheapest": {
-        "countryCode": "SI",
-        "shopId": "dm-si",
-        "priceCents": 15,
-        "currency": "EUR",
-        "priceEurCents": 15,
-        "isPromo": true,
-        "observedAt": "2026-09-11T12:48:45.227Z"
-      },
-      "mostExpensive": {
-        "countryCode": "HU",
-        "shopId": "dm-hu",
-        "priceCents": 199900,
-        "currency": "HUF",
-        "priceEurCents": 548,
-        "isPromo": false,
-        "observedAt": "2026-09-01T12:32:30.488Z"
-      },
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 15,
-          "currency": "EUR",
-          "priceEurCents": 15,
-          "isPromo": true,
-          "observedAt": "2026-09-11T12:48:45.227Z"
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "priceCents": 295,
-          "currency": "EUR",
-          "priceEurCents": 295,
-          "isPromo": true,
-          "observedAt": "2026-09-11T12:48:53.861Z"
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "priceCents": 199900,
-          "currency": "HUF",
-          "priceEurCents": 548,
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:30.488Z"
-        }
-      ]
-    },
     {
       "productId": 20693,
       "name": "Olje za nego prsnih bradavic, 50 ml",
@@ -797,50 +744,6 @@
       ]
     },
     {
-      "productId": 11105,
-      "name": "Natural Response sisač br. 4, 3+ mj., 2 kom.",
-      "brand": "PHILIPS AVENT",
-      "percentDiff": 758.59,
-      "cheapest": {
-        "countryCode": "SI",
-        "shopId": "dm-si",
-        "priceCents": 99,
-        "currency": "EUR",
-        "priceEurCents": 99,
-        "isPromo": true,
-        "observedAt": "2026-09-11T12:48:41.876Z"
-      },
-      "mostExpensive": {
-        "countryCode": "HR",
-        "shopId": "dm-hr",
-        "priceCents": 850,
-        "currency": "EUR",
-        "priceEurCents": 850,
-        "isPromo": false,
-        "observedAt": "2026-08-30T22:33:05.887Z"
-      },
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "priceCents": 850,
-          "currency": "EUR",
-          "priceEurCents": 850,
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:05.887Z"
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 99,
-          "currency": "EUR",
-          "priceEurCents": 99,
-          "isPromo": true,
-          "observedAt": "2026-09-11T12:48:41.876Z"
-        }
-      ]
-    },
-    {
       "productId": 978,
       "name": "Blagi dječji šampon za kosu, 200 ml",
       "brand": "NIVEA BABY",
@@ -1005,50 +908,6 @@
           "priceEurCents": 655,
           "isPromo": false,
           "observedAt": "2026-08-31T20:42:10.408Z"
-        }
-      ]
-    },
-    {
-      "productId": 14525,
-      "name": "Double care pelene gaćice, vel. 4 (9 – 15 kg), 52 kom.",
-      "brand": "Violeta",
-      "percentDiff": 657.14,
-      "cheapest": {
-        "countryCode": "SI",
-        "shopId": "dm-si",
-        "priceCents": 210,
-        "currency": "EUR",
-        "priceEurCents": 210,
-        "isPromo": true,
-        "observedAt": "2026-09-12T12:09:41.061Z"
-      },
-      "mostExpensive": {
-        "countryCode": "HR",
-        "shopId": "dm-hr",
-        "priceCents": 1590,
-        "currency": "EUR",
-        "priceEurCents": 1590,
-        "isPromo": false,
-        "observedAt": "2026-08-30T22:33:27.056Z"
-      },
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "priceCents": 1590,
-          "currency": "EUR",
-          "priceEurCents": 1590,
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:27.056Z"
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 210,
-          "currency": "EUR",
-          "priceEurCents": 210,
-          "isPromo": true,
-          "observedAt": "2026-09-12T12:09:41.061Z"
         }
       ]
     },
@@ -1349,59 +1208,6 @@
           "priceEurCents": 27,
           "isPromo": true,
           "observedAt": "2026-10-03T19:06:13.313Z"
-        }
-      ]
-    },
-    {
-      "productId": 20705,
-      "name": "Krema za zaščito dojenčkove kože z bio rakitovcem, 75 ml",
-      "brand": "HALLOHEBAMME",
-      "percentDiff": 618.18,
-      "cheapest": {
-        "countryCode": "SI",
-        "shopId": "dm-si",
-        "priceCents": 55,
-        "currency": "EUR",
-        "priceEurCents": 55,
-        "isPromo": true,
-        "observedAt": "2026-09-11T12:48:43.771Z"
-      },
-      "mostExpensive": {
-        "countryCode": "DE",
-        "shopId": "dm-de",
-        "priceCents": 395,
-        "currency": "EUR",
-        "priceEurCents": 395,
-        "isPromo": false,
-        "observedAt": "2026-08-31T20:44:14.777Z"
-      },
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 55,
-          "currency": "EUR",
-          "priceEurCents": 55,
-          "isPromo": true,
-          "observedAt": "2026-09-11T12:48:43.771Z"
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "priceCents": 395,
-          "currency": "EUR",
-          "priceEurCents": 395,
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:14.777Z"
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "priceCents": 129900,
-          "currency": "HUF",
-          "priceEurCents": 356,
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:30.488Z"
         }
       ]
     },
@@ -2545,59 +2351,6 @@
       ]
     },
     {
-      "productId": 18554,
-      "name": "Lak za nohte Color & Care, 140 Orchid Pink, 10 ml",
-      "brand": "alverde NATURKOSMETIK",
-      "percentDiff": 548.15,
-      "cheapest": {
-        "countryCode": "HU",
-        "shopId": "dm-hu",
-        "priceCents": 9900,
-        "currency": "HUF",
-        "priceEurCents": 27,
-        "isPromo": true,
-        "observedAt": "2026-09-12T12:10:03.246Z"
-      },
-      "mostExpensive": {
-        "countryCode": "AT",
-        "shopId": "dm-at",
-        "priceCents": 175,
-        "currency": "EUR",
-        "priceEurCents": 175,
-        "isPromo": true,
-        "observedAt": "2026-09-12T12:09:48.443Z"
-      },
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 99,
-          "currency": "EUR",
-          "priceEurCents": 99,
-          "isPromo": true,
-          "observedAt": "2026-09-12T12:09:41.061Z"
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "priceCents": 175,
-          "currency": "EUR",
-          "priceEurCents": 175,
-          "isPromo": true,
-          "observedAt": "2026-09-12T12:09:48.443Z"
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "priceCents": 9900,
-          "currency": "HUF",
-          "priceEurCents": 27,
-          "isPromo": true,
-          "observedAt": "2026-09-12T12:10:03.246Z"
-        }
-      ]
-    },
-    {
       "productId": 49239,
       "name": "Nagellack Color & Care Nail Polish 50 Coral Red, 10 ml",
       "brand": "alverde NATURKOSMETIK",
@@ -2779,59 +2532,6 @@
           "priceEurCents": 30,
           "isPromo": true,
           "observedAt": "2026-10-03T19:13:24.029Z"
-        }
-      ]
-    },
-    {
-      "productId": 12403,
-      "name": "Air Mist osvježivač zraka u spreju Aloha – Dragon..., 185 ml",
-      "brand": "ambi pur",
-      "percentDiff": 533.33,
-      "cheapest": {
-        "countryCode": "SI",
-        "shopId": "dm-si",
-        "priceCents": 90,
-        "currency": "EUR",
-        "priceEurCents": 90,
-        "isPromo": true,
-        "observedAt": "2026-09-12T12:09:42.589Z"
-      },
-      "mostExpensive": {
-        "countryCode": "HR",
-        "shopId": "dm-hr",
-        "priceCents": 570,
-        "currency": "EUR",
-        "priceEurCents": 570,
-        "isPromo": false,
-        "observedAt": "2026-08-30T22:33:14.196Z"
-      },
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "priceCents": 570,
-          "currency": "EUR",
-          "priceEurCents": 570,
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:14.196Z"
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 90,
-          "currency": "EUR",
-          "priceEurCents": 90,
-          "isPromo": true,
-          "observedAt": "2026-09-12T12:09:42.589Z"
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "priceCents": 169900,
-          "currency": "HUF",
-          "priceEurCents": 465,
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:52.512Z"
         }
       ]
     },
@@ -3565,50 +3265,6 @@
           "priceEurCents": 895,
           "isPromo": false,
           "observedAt": "2026-08-31T20:43:07.562Z"
-        }
-      ]
-    },
-    {
-      "productId": 25306,
-      "name": "Dezodorant antiperspirant roll-on Extreme, 50 ml",
-      "brand": "Garnier Men",
-      "percentDiff": 475,
-      "cheapest": {
-        "countryCode": "HU",
-        "shopId": "dm-hu",
-        "priceCents": 21900,
-        "currency": "HUF",
-        "priceEurCents": 60,
-        "isPromo": true,
-        "observedAt": "2026-09-12T12:10:05.108Z"
-      },
-      "mostExpensive": {
-        "countryCode": "SI",
-        "shopId": "dm-si",
-        "priceCents": 345,
-        "currency": "EUR",
-        "priceEurCents": 345,
-        "isPromo": false,
-        "observedAt": "2026-08-30T22:35:30.160Z"
-      },
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 345,
-          "currency": "EUR",
-          "priceEurCents": 345,
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:30.160Z"
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "priceCents": 21900,
-          "currency": "HUF",
-          "priceEurCents": 60,
-          "isPromo": true,
-          "observedAt": "2026-09-12T12:10:05.108Z"
         }
       ]
     },
@@ -5488,59 +5144,6 @@
       ]
     },
     {
-      "productId": 3099,
-      "name": "Balzam za nego kože po britju s cemprinom in..., 100 ml",
-      "brand": "SEINZ.",
-      "percentDiff": 404.95,
-      "cheapest": {
-        "countryCode": "HU",
-        "shopId": "dm-hu",
-        "priceCents": 36900,
-        "currency": "HUF",
-        "priceEurCents": 101,
-        "isPromo": true,
-        "observedAt": "2026-09-11T12:49:03.415Z"
-      },
-      "mostExpensive": {
-        "countryCode": "SI",
-        "shopId": "dm-si",
-        "priceCents": 510,
-        "currency": "EUR",
-        "priceEurCents": 510,
-        "isPromo": false,
-        "observedAt": "2026-08-28T16:03:18.285Z"
-      },
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 510,
-          "currency": "EUR",
-          "priceEurCents": 510,
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:03:18.285Z"
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "priceCents": 495,
-          "currency": "EUR",
-          "priceEurCents": 495,
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:07.596Z"
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "priceCents": 36900,
-          "currency": "HUF",
-          "priceEurCents": 101,
-          "isPromo": true,
-          "observedAt": "2026-09-11T12:49:03.415Z"
-        }
-      ]
-    },
-    {
       "productId": 7350,
       "name": "Hulahopke Body Forming, 40 DEN, veličina 42 – 44..., 1 kom.",
       "brand": "Fascino",
@@ -6944,59 +6547,6 @@
       ]
     },
     {
-      "productId": 19874,
-      "name": "Servieti, 33x33 cm, 30 kos",
-      "brand": "Profissimo",
-      "percentDiff": 362.96,
-      "cheapest": {
-        "countryCode": "HU",
-        "shopId": "dm-hu",
-        "priceCents": 9900,
-        "currency": "HUF",
-        "priceEurCents": 27,
-        "isPromo": true,
-        "observedAt": "2026-09-11T12:49:03.415Z"
-      },
-      "mostExpensive": {
-        "countryCode": "AT",
-        "shopId": "dm-at",
-        "priceCents": 125,
-        "currency": "EUR",
-        "priceEurCents": 125,
-        "isPromo": false,
-        "observedAt": "2026-08-30T22:36:57.262Z"
-      },
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 75,
-          "currency": "EUR",
-          "priceEurCents": 75,
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:35.558Z"
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "priceCents": 125,
-          "currency": "EUR",
-          "priceEurCents": 125,
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:57.262Z"
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "priceCents": 9900,
-          "currency": "HUF",
-          "priceEurCents": 27,
-          "isPromo": true,
-          "observedAt": "2026-09-11T12:49:03.415Z"
-        }
-      ]
-    },
-    {
       "productId": 37937,
       "name": "Deocreme Natürlich, 1 St",
       "brand": "nuud",
@@ -8313,59 +7863,6 @@
       ]
     },
     {
-      "productId": 1204,
-      "name": "Gua Sha kamen za masažu – roze boje, 1 kom.",
-      "brand": "ebelin",
-      "percentDiff": 344.95,
-      "cheapest": {
-        "countryCode": "HU",
-        "shopId": "dm-hu",
-        "priceCents": 39900,
-        "currency": "HUF",
-        "priceEurCents": 109,
-        "isPromo": true,
-        "observedAt": "2026-09-12T12:10:03.246Z"
-      },
-      "mostExpensive": {
-        "countryCode": "HR",
-        "shopId": "dm-hr",
-        "priceCents": 485,
-        "currency": "EUR",
-        "priceEurCents": 485,
-        "isPromo": true,
-        "observedAt": "2026-09-12T12:09:32.684Z"
-      },
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "priceCents": 485,
-          "currency": "EUR",
-          "priceEurCents": 485,
-          "isPromo": true,
-          "observedAt": "2026-09-12T12:09:32.684Z"
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 410,
-          "currency": "EUR",
-          "priceEurCents": 410,
-          "isPromo": true,
-          "observedAt": "2026-09-12T12:09:41.061Z"
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "priceCents": 39900,
-          "currency": "HUF",
-          "priceEurCents": 109,
-          "isPromo": true,
-          "observedAt": "2026-09-12T12:10:03.246Z"
-        }
-      ]
-    },
-    {
       "productId": 6316,
       "name": "Tinta Color Ultimate Cover – 6.00 Dark Blonde, 1 kom.",
       "brand": "KEUNE",
@@ -8450,50 +7947,6 @@
           "priceEurCents": 438,
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:10.466Z"
-        }
-      ]
-    },
-    {
-      "productId": 17662,
-      "name": "Hlačne nogavice Supersitz 20 DEN, 40-44, sinfonie, 1 kos",
-      "brand": "Stella Jones",
-      "percentDiff": 342.42,
-      "cheapest": {
-        "countryCode": "SI",
-        "shopId": "dm-si",
-        "priceCents": 99,
-        "currency": "EUR",
-        "priceEurCents": 99,
-        "isPromo": false,
-        "observedAt": "2026-09-11T12:48:41.876Z"
-      },
-      "mostExpensive": {
-        "countryCode": "HU",
-        "shopId": "dm-hu",
-        "priceCents": 159900,
-        "currency": "HUF",
-        "priceEurCents": 438,
-        "isPromo": false,
-        "observedAt": "2026-09-01T12:30:13.724Z"
-      },
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 99,
-          "currency": "EUR",
-          "priceEurCents": 99,
-          "isPromo": false,
-          "observedAt": "2026-09-11T12:48:41.876Z"
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "priceCents": 159900,
-          "currency": "HUF",
-          "priceEurCents": 438,
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:13.724Z"
         }
       ]
     },
@@ -8894,77 +8347,6 @@
       ]
     },
     {
-      "productId": 10437,
-      "name": "Kašica od povrća s kus-kusom i piletinom, 12+ mj., 250 g",
-      "brand": "dmBio",
-      "percentDiff": 337.5,
-      "cheapest": {
-        "countryCode": "SI",
-        "shopId": "dm-si",
-        "priceCents": 40,
-        "currency": "EUR",
-        "priceEurCents": 40,
-        "isPromo": true,
-        "observedAt": "2026-09-11T12:48:43.771Z"
-      },
-      "mostExpensive": {
-        "countryCode": "HR",
-        "shopId": "dm-hr",
-        "priceCents": 175,
-        "currency": "EUR",
-        "priceEurCents": 175,
-        "isPromo": false,
-        "observedAt": "2026-08-30T22:33:02.420Z"
-      },
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "priceCents": 175,
-          "currency": "EUR",
-          "priceEurCents": 175,
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:02.420Z"
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 40,
-          "currency": "EUR",
-          "priceEurCents": 40,
-          "isPromo": true,
-          "observedAt": "2026-09-11T12:48:43.771Z"
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "priceCents": 175,
-          "currency": "EUR",
-          "priceEurCents": 175,
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:37:37.997Z"
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "priceCents": 155,
-          "currency": "EUR",
-          "priceEurCents": 155,
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:01.151Z"
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "priceCents": 54900,
-          "currency": "HUF",
-          "priceEurCents": 150,
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:32.921Z"
-        }
-      ]
-    },
-    {
       "productId": 11330,
       "name": "Dječje vlažne maramice – malina, 20 kom.",
       "brand": "SauBär",
@@ -9288,50 +8670,6 @@
           "priceEurCents": 195,
           "isPromo": false,
           "observedAt": "2026-08-31T20:40:19.020Z"
-        }
-      ]
-    },
-    {
-      "productId": 4090,
-      "name": "Sončna očala za odrasle, 1 kos",
-      "brand": "sundance",
-      "percentDiff": 333.11,
-      "cheapest": {
-        "countryCode": "SI",
-        "shopId": "dm-si",
-        "priceCents": 299,
-        "currency": "EUR",
-        "priceEurCents": 299,
-        "isPromo": true,
-        "observedAt": "2026-09-11T12:48:41.876Z"
-      },
-      "mostExpensive": {
-        "countryCode": "HR",
-        "shopId": "dm-hr",
-        "priceCents": 1295,
-        "currency": "EUR",
-        "priceEurCents": 1295,
-        "isPromo": false,
-        "observedAt": "2026-08-30T22:33:27.900Z"
-      },
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 299,
-          "currency": "EUR",
-          "priceEurCents": 299,
-          "isPromo": true,
-          "observedAt": "2026-09-11T12:48:41.876Z"
-        },
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "priceCents": 1295,
-          "currency": "EUR",
-          "priceEurCents": 1295,
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:27.900Z"
         }
       ]
     },
@@ -9769,50 +9107,6 @@
       ]
     },
     {
-      "productId": 20637,
-      "name": "Krema za zaščito dojenčkove kože s cinkovim..., 50 ml",
-      "brand": "HALLOHEBAMME",
-      "percentDiff": 324.44,
-      "cheapest": {
-        "countryCode": "SI",
-        "shopId": "dm-si",
-        "priceCents": 45,
-        "currency": "EUR",
-        "priceEurCents": 45,
-        "isPromo": true,
-        "observedAt": "2026-09-12T12:09:41.061Z"
-      },
-      "mostExpensive": {
-        "countryCode": "HU",
-        "shopId": "dm-hu",
-        "priceCents": 69900,
-        "currency": "HUF",
-        "priceEurCents": 191,
-        "isPromo": true,
-        "observedAt": "2026-09-12T12:10:03.246Z"
-      },
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 45,
-          "currency": "EUR",
-          "priceEurCents": 45,
-          "isPromo": true,
-          "observedAt": "2026-09-12T12:09:41.061Z"
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "priceCents": 69900,
-          "currency": "HUF",
-          "priceEurCents": 191,
-          "isPromo": true,
-          "observedAt": "2026-09-12T12:10:03.246Z"
-        }
-      ]
-    },
-    {
       "productId": 1017,
       "name": "Sensitive Daily Protect hidratantna krema, SPF 30, 50 ml",
       "brand": "NIVEA MEN",
@@ -10078,50 +9372,6 @@
       ]
     },
     {
-      "productId": 6044,
-      "name": "mega size maskara – Black, 10 kom.",
-      "brand": "EVELINE COSMETICS",
-      "percentDiff": 320,
-      "cheapest": {
-        "countryCode": "HR",
-        "shopId": "dm-hr",
-        "priceCents": 125,
-        "currency": "EUR",
-        "priceEurCents": 125,
-        "isPromo": true,
-        "observedAt": "2026-09-11T12:48:36.289Z"
-      },
-      "mostExpensive": {
-        "countryCode": "SI",
-        "shopId": "dm-si",
-        "priceCents": 525,
-        "currency": "EUR",
-        "priceEurCents": 525,
-        "isPromo": false,
-        "observedAt": "2026-08-30T22:35:28.786Z"
-      },
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "priceCents": 125,
-          "currency": "EUR",
-          "priceEurCents": 125,
-          "isPromo": true,
-          "observedAt": "2026-09-11T12:48:36.289Z"
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 525,
-          "currency": "EUR",
-          "priceEurCents": 525,
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:28.786Z"
-        }
-      ]
-    },
-    {
       "productId": 27495,
       "name": "Eau de Parfum Of Cherry Blossom, 30 ml",
       "brand": "SPIRIT",
@@ -10224,59 +9474,6 @@
           "priceEurCents": 137,
           "isPromo": true,
           "observedAt": "2026-10-03T19:06:07.103Z"
-        }
-      ]
-    },
-    {
-      "productId": 29920,
-      "name": "Eau de Parfum of romantic love, 30 ml",
-      "brand": "SPIRIT",
-      "percentDiff": 319.71,
-      "cheapest": {
-        "countryCode": "HU",
-        "shopId": "dm-hu",
-        "priceCents": 49900,
-        "currency": "HUF",
-        "priceEurCents": 137,
-        "isPromo": true,
-        "observedAt": "2026-09-12T12:10:03.246Z"
-      },
-      "mostExpensive": {
-        "countryCode": "AT",
-        "shopId": "dm-at",
-        "priceCents": 575,
-        "currency": "EUR",
-        "priceEurCents": 575,
-        "isPromo": false,
-        "observedAt": "2026-08-30T22:36:34.775Z"
-      },
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "priceCents": 575,
-          "currency": "EUR",
-          "priceEurCents": 575,
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:34.775Z"
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "priceCents": 385,
-          "currency": "EUR",
-          "priceEurCents": 385,
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:59.460Z"
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "priceCents": 49900,
-          "currency": "HUF",
-          "priceEurCents": 137,
-          "isPromo": true,
-          "observedAt": "2026-09-12T12:10:03.246Z"
         }
       ]
     },
@@ -10409,6 +9606,782 @@
           "priceEurCents": 895,
           "isPromo": true,
           "observedAt": "2026-10-03T19:13:30.185Z"
+        }
+      ]
+    },
+    {
+      "productId": 7081,
+      "name": "Valjak za čišćenje odjeće – mini, više vrsta, 1 kom.",
+      "brand": "Profissimo",
+      "percentDiff": 316,
+      "cheapest": {
+        "countryCode": "SI",
+        "shopId": "dm-si",
+        "priceCents": 25,
+        "currency": "EUR",
+        "priceEurCents": 25,
+        "isPromo": true,
+        "observedAt": "2026-10-03T19:13:14.941Z"
+      },
+      "mostExpensive": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 37900,
+        "currency": "HUF",
+        "priceEurCents": 104,
+        "isPromo": false,
+        "observedAt": "2026-09-01T12:33:07.322Z"
+      },
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "priceCents": 60,
+          "currency": "EUR",
+          "priceEurCents": 60,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:41.759Z"
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "priceCents": 25,
+          "currency": "EUR",
+          "priceEurCents": 25,
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:14.941Z"
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "priceCents": 65,
+          "currency": "EUR",
+          "priceEurCents": 65,
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:51.188Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 37900,
+          "currency": "HUF",
+          "priceEurCents": 104,
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:33:07.322Z"
+        }
+      ]
+    },
+    {
+      "productId": 6096,
+      "name": "Detangling Mini četka za kosu The Devil Wears..., 1 kom.",
+      "brand": "TANGLE TEEZER",
+      "percentDiff": 315.95,
+      "cheapest": {
+        "countryCode": "HR",
+        "shopId": "dm-hr",
+        "priceCents": 395,
+        "currency": "EUR",
+        "priceEurCents": 395,
+        "isPromo": true,
+        "observedAt": "2026-10-03T19:04:19.530Z"
+      },
+      "mostExpensive": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 599900,
+        "currency": "HUF",
+        "priceEurCents": 1643,
+        "isPromo": false,
+        "observedAt": "2026-09-01T12:32:47.738Z"
+      },
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "priceCents": 395,
+          "currency": "EUR",
+          "priceEurCents": 395,
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:04:19.530Z"
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "priceCents": 895,
+          "currency": "EUR",
+          "priceEurCents": 895,
+          "isPromo": true,
+          "observedAt": "2026-09-27T13:55:41.703Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 599900,
+          "currency": "HUF",
+          "priceEurCents": 1643,
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:47.738Z"
+        }
+      ]
+    },
+    {
+      "productId": 2092,
+      "name": "Obojestranski samolepilni trak za pritrjevanje..., 2 kos",
+      "brand": "Paradies",
+      "percentDiff": 315.79,
+      "cheapest": {
+        "countryCode": "HR",
+        "shopId": "dm-hr",
+        "priceCents": 95,
+        "currency": "EUR",
+        "priceEurCents": 95,
+        "isPromo": true,
+        "observedAt": "2026-09-05T11:49:33.439Z"
+      },
+      "mostExpensive": {
+        "countryCode": "AT",
+        "shopId": "dm-at",
+        "priceCents": 395,
+        "currency": "EUR",
+        "priceEurCents": 395,
+        "isPromo": false,
+        "observedAt": "2026-08-30T22:36:44.201Z"
+      },
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "priceCents": 95,
+          "currency": "EUR",
+          "priceEurCents": 95,
+          "isPromo": true,
+          "observedAt": "2026-09-05T11:49:33.439Z"
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "priceCents": 395,
+          "currency": "EUR",
+          "priceEurCents": 395,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:44.201Z"
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "priceCents": 325,
+          "currency": "EUR",
+          "priceEurCents": 325,
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:14.777Z"
+        }
+      ]
+    },
+    {
+      "productId": 7647,
+      "name": "Glow vitamin C 2-fazna kura, 7 x 2 ml, 14 ml",
+      "brand": "Balea",
+      "percentDiff": 315.79,
+      "cheapest": {
+        "countryCode": "HR",
+        "shopId": "dm-hr",
+        "priceCents": 95,
+        "currency": "EUR",
+        "priceEurCents": 95,
+        "isPromo": true,
+        "observedAt": "2026-10-09T15:16:16.813Z"
+      },
+      "mostExpensive": {
+        "countryCode": "SI",
+        "shopId": "dm-si",
+        "priceCents": 395,
+        "currency": "EUR",
+        "priceEurCents": 395,
+        "isPromo": false,
+        "observedAt": "2026-08-30T22:33:52.544Z"
+      },
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "priceCents": 95,
+          "currency": "EUR",
+          "priceEurCents": 95,
+          "isPromo": true,
+          "observedAt": "2026-10-09T15:16:16.813Z"
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "priceCents": 395,
+          "currency": "EUR",
+          "priceEurCents": 395,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:52.544Z"
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "priceCents": 395,
+          "currency": "EUR",
+          "priceEurCents": 395,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:28.761Z"
+        }
+      ]
+    },
+    {
+      "productId": 20324,
+      "name": "Hlačne nogavice Bikini 20 DEN, 38-40, črne, 1 kos",
+      "brand": "Stella Jones",
+      "percentDiff": 315.17,
+      "cheapest": {
+        "countryCode": "SI",
+        "shopId": "dm-si",
+        "priceCents": 145,
+        "currency": "EUR",
+        "priceEurCents": 145,
+        "isPromo": true,
+        "observedAt": "2026-10-03T19:13:20.552Z"
+      },
+      "mostExpensive": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 219900,
+        "currency": "HUF",
+        "priceEurCents": 602,
+        "isPromo": false,
+        "observedAt": "2026-09-01T12:30:13.724Z"
+      },
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "priceCents": 145,
+          "currency": "EUR",
+          "priceEurCents": 145,
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:20.552Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 219900,
+          "currency": "HUF",
+          "priceEurCents": 602,
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:13.724Z"
+        }
+      ]
+    },
+    {
+      "productId": 6056,
+      "name": "Detangling četka za kosu The Devil Wears Prada –..., 1 kom.",
+      "brand": "TANGLE TEEZER",
+      "percentDiff": 314.95,
+      "cheapest": {
+        "countryCode": "HR",
+        "shopId": "dm-hr",
+        "priceCents": 495,
+        "currency": "EUR",
+        "priceEurCents": 495,
+        "isPromo": true,
+        "observedAt": "2026-10-03T19:04:19.530Z"
+      },
+      "mostExpensive": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 749900,
+        "currency": "HUF",
+        "priceEurCents": 2054,
+        "isPromo": false,
+        "observedAt": "2026-09-01T12:30:55.609Z"
+      },
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "priceCents": 495,
+          "currency": "EUR",
+          "priceEurCents": 495,
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:04:19.530Z"
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "priceCents": 1995,
+          "currency": "EUR",
+          "priceEurCents": 1995,
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:43.104Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 749900,
+          "currency": "HUF",
+          "priceEurCents": 2054,
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:55.609Z"
+        }
+      ]
+    },
+    {
+      "productId": 19433,
+      "name": "Serviete Heart Flora, 25 x 25 cm",
+      "brand": "Profissimo",
+      "percentDiff": 314.29,
+      "cheapest": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 12900,
+        "currency": "HUF",
+        "priceEurCents": 35,
+        "isPromo": true,
+        "observedAt": "2026-10-03T19:06:20.793Z"
+      },
+      "mostExpensive": {
+        "countryCode": "AT",
+        "shopId": "dm-at",
+        "priceCents": 145,
+        "currency": "EUR",
+        "priceEurCents": 145,
+        "isPromo": false,
+        "observedAt": "2026-08-30T22:37:33.185Z"
+      },
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "priceCents": 95,
+          "currency": "EUR",
+          "priceEurCents": 95,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:31.741Z"
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "priceCents": 145,
+          "currency": "EUR",
+          "priceEurCents": 145,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:37:33.185Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 12900,
+          "currency": "HUF",
+          "priceEurCents": 35,
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:20.793Z"
+        }
+      ]
+    },
+    {
+      "productId": 19516,
+      "name": "Serviete Jesensko cvetje, 25 x 25 cm, 20 kos",
+      "brand": "Profissimo",
+      "percentDiff": 314.29,
+      "cheapest": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 12900,
+        "currency": "HUF",
+        "priceEurCents": 35,
+        "isPromo": true,
+        "observedAt": "2026-10-03T19:06:20.793Z"
+      },
+      "mostExpensive": {
+        "countryCode": "AT",
+        "shopId": "dm-at",
+        "priceCents": 145,
+        "currency": "EUR",
+        "priceEurCents": 145,
+        "isPromo": false,
+        "observedAt": "2026-08-30T22:37:33.185Z"
+      },
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "priceCents": 95,
+          "currency": "EUR",
+          "priceEurCents": 95,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:32.828Z"
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "priceCents": 145,
+          "currency": "EUR",
+          "priceEurCents": 145,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:37:33.185Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 12900,
+          "currency": "HUF",
+          "priceEurCents": 35,
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:20.793Z"
+        }
+      ]
+    },
+    {
+      "productId": 26474,
+      "name": "Servietten Leo Heart 25 x 25 cm, 20 St",
+      "brand": "Profissimo",
+      "percentDiff": 314.29,
+      "cheapest": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 12900,
+        "currency": "HUF",
+        "priceEurCents": 35,
+        "isPromo": true,
+        "observedAt": "2026-10-03T19:06:20.793Z"
+      },
+      "mostExpensive": {
+        "countryCode": "AT",
+        "shopId": "dm-at",
+        "priceCents": 145,
+        "currency": "EUR",
+        "priceEurCents": 145,
+        "isPromo": false,
+        "observedAt": "2026-08-30T22:35:50.459Z"
+      },
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "priceCents": 145,
+          "currency": "EUR",
+          "priceEurCents": 145,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:50.459Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 12900,
+          "currency": "HUF",
+          "priceEurCents": 35,
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:20.793Z"
+        }
+      ]
+    },
+    {
+      "productId": 35101,
+      "name": "Servietten Happy Birthday 25 x 25 cm, 20 St",
+      "brand": "Profissimo",
+      "percentDiff": 314.29,
+      "cheapest": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 12900,
+        "currency": "HUF",
+        "priceEurCents": 35,
+        "isPromo": true,
+        "observedAt": "2026-10-03T19:06:20.793Z"
+      },
+      "mostExpensive": {
+        "countryCode": "AT",
+        "shopId": "dm-at",
+        "priceCents": 145,
+        "currency": "EUR",
+        "priceEurCents": 145,
+        "isPromo": false,
+        "observedAt": "2026-08-30T22:37:29.993Z"
+      },
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "priceCents": 145,
+          "currency": "EUR",
+          "priceEurCents": 145,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:37:29.993Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 12900,
+          "currency": "HUF",
+          "priceEurCents": 35,
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:20.793Z"
+        }
+      ]
+    },
+    {
+      "productId": 35193,
+      "name": "Servietten Papierboot 25 x 25 cm, 20 St",
+      "brand": "Profissimo",
+      "percentDiff": 314.29,
+      "cheapest": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 12900,
+        "currency": "HUF",
+        "priceEurCents": 35,
+        "isPromo": true,
+        "observedAt": "2026-10-03T19:06:20.793Z"
+      },
+      "mostExpensive": {
+        "countryCode": "AT",
+        "shopId": "dm-at",
+        "priceCents": 145,
+        "currency": "EUR",
+        "priceEurCents": 145,
+        "isPromo": false,
+        "observedAt": "2026-08-30T22:37:31.635Z"
+      },
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "priceCents": 145,
+          "currency": "EUR",
+          "priceEurCents": 145,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:37:31.635Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 12900,
+          "currency": "HUF",
+          "priceEurCents": 35,
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:20.793Z"
+        }
+      ]
+    },
+    {
+      "productId": 35239,
+      "name": "Servietten Plant Lover 25 x 25 cm, 20 St",
+      "brand": "Profissimo",
+      "percentDiff": 314.29,
+      "cheapest": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 12900,
+        "currency": "HUF",
+        "priceEurCents": 35,
+        "isPromo": true,
+        "observedAt": "2026-10-03T19:06:20.793Z"
+      },
+      "mostExpensive": {
+        "countryCode": "AT",
+        "shopId": "dm-at",
+        "priceCents": 145,
+        "currency": "EUR",
+        "priceEurCents": 145,
+        "isPromo": false,
+        "observedAt": "2026-08-30T22:37:31.635Z"
+      },
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "priceCents": 145,
+          "currency": "EUR",
+          "priceEurCents": 145,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:37:31.635Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 12900,
+          "currency": "HUF",
+          "priceEurCents": 35,
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:20.793Z"
+        }
+      ]
+    },
+    {
+      "productId": 35240,
+      "name": "Servietten Palmen 25 x 25 cm, 20 St",
+      "brand": "Profissimo",
+      "percentDiff": 314.29,
+      "cheapest": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 12900,
+        "currency": "HUF",
+        "priceEurCents": 35,
+        "isPromo": true,
+        "observedAt": "2026-10-03T19:06:20.793Z"
+      },
+      "mostExpensive": {
+        "countryCode": "AT",
+        "shopId": "dm-at",
+        "priceCents": 145,
+        "currency": "EUR",
+        "priceEurCents": 145,
+        "isPromo": false,
+        "observedAt": "2026-08-30T22:37:31.635Z"
+      },
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "priceCents": 145,
+          "currency": "EUR",
+          "priceEurCents": 145,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:37:31.635Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 12900,
+          "currency": "HUF",
+          "priceEurCents": 35,
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:20.793Z"
+        }
+      ]
+    },
+    {
+      "productId": 35290,
+      "name": "Servietten Sardines 25 x 25 cm, 20 St",
+      "brand": "Profissimo",
+      "percentDiff": 314.29,
+      "cheapest": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 12900,
+        "currency": "HUF",
+        "priceEurCents": 35,
+        "isPromo": true,
+        "observedAt": "2026-10-03T19:06:20.793Z"
+      },
+      "mostExpensive": {
+        "countryCode": "AT",
+        "shopId": "dm-at",
+        "priceCents": 145,
+        "currency": "EUR",
+        "priceEurCents": 145,
+        "isPromo": false,
+        "observedAt": "2026-08-30T22:37:31.635Z"
+      },
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "priceCents": 145,
+          "currency": "EUR",
+          "priceEurCents": 145,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:37:31.635Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 12900,
+          "currency": "HUF",
+          "priceEurCents": 35,
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:20.793Z"
+        }
+      ]
+    },
+    {
+      "productId": 35304,
+      "name": "Servietten Konfetti 25 x 25 cm, 20 St",
+      "brand": "Profissimo",
+      "percentDiff": 314.29,
+      "cheapest": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 12900,
+        "currency": "HUF",
+        "priceEurCents": 35,
+        "isPromo": true,
+        "observedAt": "2026-10-03T19:06:20.793Z"
+      },
+      "mostExpensive": {
+        "countryCode": "AT",
+        "shopId": "dm-at",
+        "priceCents": 145,
+        "currency": "EUR",
+        "priceEurCents": 145,
+        "isPromo": false,
+        "observedAt": "2026-08-30T22:37:33.185Z"
+      },
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "priceCents": 145,
+          "currency": "EUR",
+          "priceEurCents": 145,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:37:33.185Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 12900,
+          "currency": "HUF",
+          "priceEurCents": 35,
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:20.793Z"
+        }
+      ]
+    },
+    {
+      "productId": 35317,
+      "name": "Servietten Berry & Ice 25 x 25 cm, 20 St",
+      "brand": "Profissimo",
+      "percentDiff": 314.29,
+      "cheapest": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 12900,
+        "currency": "HUF",
+        "priceEurCents": 35,
+        "isPromo": true,
+        "observedAt": "2026-10-03T19:06:20.793Z"
+      },
+      "mostExpensive": {
+        "countryCode": "AT",
+        "shopId": "dm-at",
+        "priceCents": 145,
+        "currency": "EUR",
+        "priceEurCents": 145,
+        "isPromo": false,
+        "observedAt": "2026-08-30T22:37:33.185Z"
+      },
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "priceCents": 145,
+          "currency": "EUR",
+          "priceEurCents": 145,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:37:33.185Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 12900,
+          "currency": "HUF",
+          "priceEurCents": 35,
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:20.793Z"
         }
       ]
     }

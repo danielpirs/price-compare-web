@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T11:18:53.914Z",
+  "generatedAt": "2026-10-12T12:54:16.476Z",
   "fx": {
     "asOf": "2026-10-09",
     "rates": {
@@ -1246,57 +1246,6 @@
       ]
     },
     {
-      "productId": 18007,
-      "brand": "Balea",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 122.73,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Mleko za lase Joyful Times, 200 ml",
-          "url": "https://www.dm.si/p/d/2978268/balea-mleko-za-lase-joyful-times",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:18.489Z",
-          "lastSeenAt": "2026-09-11T12:48:43.771Z",
-          "currentPriceCents": 245,
-          "currentPriceEurCents": 245,
-          "referencePriceCents": 245,
-          "referencePriceEurCents": 245
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Haarmilch Joyful Times, 200 ml",
-          "url": "https://www.dm.at/p/d/2978268/balea-haarmilch-joyful-times",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:48.780Z",
-          "lastSeenAt": "2026-09-11T12:48:49.606Z",
-          "currentPriceCents": 110,
-          "currentPriceEurCents": 110,
-          "referencePriceCents": 110,
-          "referencePriceEurCents": 110
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Haarmilch Joyful Times 30 Jahre, 200 ml",
-          "url": "https://www.dm.de/p/d/2978268/balea-haarmilch-joyful-times-30-jahre",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:51.188Z",
-          "lastSeenAt": "2026-09-11T12:48:57.246Z",
-          "currentPriceCents": 155,
-          "currentPriceEurCents": 155,
-          "referencePriceCents": 155,
-          "referencePriceEurCents": 155
-        }
-      ]
-    },
-    {
       "productId": 16252,
       "brand": "Jessa",
       "isCountryExtreme": true,
@@ -1636,6 +1585,57 @@
           "currentPriceEurCents": 3287,
           "referencePriceCents": 1199900,
           "referencePriceEurCents": 3287
+        }
+      ]
+    },
+    {
+      "productId": 22258,
+      "brand": "Profissimo",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 118.67,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Parfumsko olje Weihnachten, 10 ml",
+          "url": "https://www.dm.si/p/d/3080140/profissimo-parfumsko-olje-weihnachten",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:57.127Z",
+          "lastSeenAt": "2026-09-15T13:31:02.714Z",
+          "currentPriceCents": 95,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Parfüm-Öl Weihnachten, 10 ml",
+          "url": "https://www.dm.at/p/d/3080140/profissimo-parfuem-oel-weihnachten",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:57.262Z",
+          "lastSeenAt": "2026-09-15T13:31:06.946Z",
+          "currentPriceCents": 75,
+          "currentPriceEurCents": 75,
+          "referencePriceCents": 75,
+          "referencePriceEurCents": 75
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Illóolajok karácsonyi gyümölcs illattal, 10 ml",
+          "url": "https://www.dm.hu/p/d/3080140/profissimo-illoolajok-karacsonyi-gyumolcs-illattal",
+          "isPromo": true,
+          "observedAt": "2026-09-15T13:31:22.372Z",
+          "lastSeenAt": "2026-09-15T13:31:22.372Z",
+          "currentPriceCents": 39900,
+          "currentPriceEurCents": 109,
+          "referencePriceCents": 59900,
+          "referencePriceEurCents": 164
         }
       ]
     }
