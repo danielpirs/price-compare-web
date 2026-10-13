@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-12T12:54:16.476Z",
+  "generatedAt": "2026-10-13T12:32:02.426Z",
   "fx": {
-    "asOf": "2026-10-09",
+    "asOf": "2026-10-12",
     "rates": {
-      "USD": 1.1206,
-      "JPY": 177.34,
-      "CZK": 24.369,
-      "DKK": 7.4751,
-      "GBP": 0.84763,
-      "HUF": 365.08,
-      "PLN": 4.3835,
-      "RON": 5.3406,
-      "SEK": 11.1675,
-      "CHF": 0.9313,
-      "ISK": 136.8,
-      "NOK": 10.7155,
-      "TRY": 55.1033,
-      "AUD": 1.6052,
-      "BRL": 5.6086,
-      "CAD": 1.5942,
-      "CNY": 7.4992,
-      "HKD": 8.794,
-      "IDR": 20036.94,
-      "ILS": 3.426,
-      "INR": 108.3965,
-      "KRW": 1503.27,
-      "MXN": 20.395,
-      "MYR": 4.5777,
-      "NZD": 1.9961,
-      "PHP": 70.397,
-      "SGD": 1.4348,
-      "THB": 37.574,
-      "ZAR": 18.527
+      "USD": 1.1181,
+      "JPY": 177.33,
+      "CZK": 24.391,
+      "DKK": 7.4748,
+      "GBP": 0.84478,
+      "HUF": 365.13,
+      "PLN": 4.385,
+      "RON": 5.337,
+      "SEK": 11.1965,
+      "CHF": 0.9312,
+      "ISK": 136.4,
+      "NOK": 10.6955,
+      "TRY": 55.1635,
+      "AUD": 1.6032,
+      "BRL": 5.5819,
+      "CAD": 1.5946,
+      "CNY": 7.4832,
+      "HKD": 8.7743,
+      "IDR": 20036.18,
+      "ILS": 3.432,
+      "INR": 107.086,
+      "KRW": 1490.53,
+      "MXN": 20.5081,
+      "MYR": 4.5663,
+      "NZD": 1.9968,
+      "PHP": 70.169,
+      "SGD": 1.4314,
+      "THB": 37.585,
+      "ZAR": 18.4945
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -39,6 +39,43 @@
   "countryCode": "HR",
   "kind": "most-expensive",
   "items": [
+    {
+      "productId": 23320,
+      "brand": "BIBS",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 1290,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Anti-kolik cucelj, silikon - počasen pretok, 0m+, 2 kos",
+          "url": "https://www.dm.si/p/d/3106598/bibs-anti-kolik-cucelj-silikon-pocasen-pretok-0m",
+          "isPromo": true,
+          "observedAt": "2026-09-13T13:17:55.447Z",
+          "lastSeenAt": "2026-09-13T13:17:55.447Z",
+          "currentPriceCents": 25,
+          "currentPriceEurCents": 25,
+          "referencePriceCents": 50,
+          "referencePriceEurCents": 50
+        },
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Sisač sa sporim protokom istjecanja – od..., 2 kom.",
+          "url": "https://www.dm.hr/p/d/3106598/bibs-sisac-sa-sporim-protokom-istjecanja-od-medicinskog-silikona",
+          "isPromo": false,
+          "observedAt": "2026-10-13T11:43:59.172Z",
+          "lastSeenAt": "2026-10-13T11:43:59.172Z",
+          "currentPriceCents": 695,
+          "currentPriceEurCents": 695,
+          "referencePriceCents": 695,
+          "referencePriceEurCents": 695
+        }
+      ]
+    },
     {
       "productId": 9014,
       "brand": "HALLOHEBAMME",
@@ -54,7 +91,7 @@
           "url": "https://www.dm.hr/p/d/2486107/hallohebamme-higijenski-ulosci-nakon-poroda",
           "isPromo": false,
           "observedAt": "2026-08-30T22:32:52.603Z",
-          "lastSeenAt": "2026-09-13T13:17:43.732Z",
+          "lastSeenAt": "2026-10-13T11:43:59.172Z",
           "currentPriceCents": 395,
           "currentPriceEurCents": 395,
           "referencePriceCents": 395,
@@ -82,7 +119,7 @@
           "url": "https://www.dm.de/p/d/2486107/hallohebamme-wochenbetteinlagen",
           "isPromo": false,
           "observedAt": "2026-08-31T20:41:43.104Z",
-          "lastSeenAt": "2026-09-13T13:18:08.457Z",
+          "lastSeenAt": "2026-10-13T11:44:07.619Z",
           "currentPriceCents": 275,
           "currentPriceEurCents": 275,
           "referencePriceCents": 275,
@@ -207,7 +244,7 @@
           "url": "https://www.dm.hr/p/d/2220444/violeta-pelene-gacice-vel-5-12-17-kg",
           "isPromo": false,
           "observedAt": "2026-08-30T22:33:27.900Z",
-          "lastSeenAt": "2026-09-13T13:17:49.184Z",
+          "lastSeenAt": "2026-10-13T11:43:59.172Z",
           "currentPriceCents": 1590,
           "currentPriceEurCents": 1590,
           "referencePriceCents": 1590,
@@ -274,7 +311,7 @@
           "observedAt": "2026-10-03T19:06:11.832Z",
           "lastSeenAt": "2026-10-03T19:06:11.832Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 685,
+          "currentPriceEurCents": 684,
           "referencePriceCents": 499900,
           "referencePriceEurCents": 1369
         }
@@ -404,9 +441,9 @@
           "observedAt": "2026-09-01T12:33:11.663Z",
           "lastSeenAt": "2026-09-18T12:57:27.712Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 685,
+          "currentPriceEurCents": 684,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 685
+          "referencePriceEurCents": 684
         }
       ]
     },
@@ -1157,7 +1194,7 @@
           "url": "https://www.dm.si/p/d/3072259/rexona-antiperspirant-roll-on-advanced-protection-invisible-aqua",
           "isPromo": false,
           "observedAt": "2026-08-30T22:35:04.847Z",
-          "lastSeenAt": "2026-09-13T13:17:55.447Z",
+          "lastSeenAt": "2026-10-13T11:43:57.780Z",
           "currentPriceCents": 370,
           "currentPriceEurCents": 370,
           "referencePriceCents": 370,
@@ -1213,6 +1250,57 @@
           "currentPriceEurCents": 240,
           "referencePriceCents": 87500,
           "referencePriceEurCents": 240
+        }
+      ]
+    },
+    {
+      "productId": 11106,
+      "brand": "Jordan",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 145.83,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Pasta za zube Junior, 6 – 12 god., više vrsta, 50 ml",
+          "url": "https://www.dm.hr/p/d/2158438/jordan-pasta-za-zube-junior-6-12-god-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:05.887Z",
+          "lastSeenAt": "2026-10-12T17:51:29.335Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Zobna krema za otroke 6-12 let, 50 ml",
+          "url": "https://www.dm.si/p/d/2158438/jordan-zobna-krema-za-otroke-6-12-let",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:19.593Z",
+          "lastSeenAt": "2026-10-12T17:51:25.488Z",
+          "currentPriceCents": 285,
+          "currentPriceEurCents": 285,
+          "referencePriceCents": 285,
+          "referencePriceEurCents": 285
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkrém junior 6 éves kortól, 50 ml",
+          "url": "https://www.dm.hu/p/d/2158438/jordan-fogkrem-junior-6-eves-kortol",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:35.474Z",
+          "lastSeenAt": "2026-10-12T17:51:42.466Z",
+          "currentPriceCents": 43900,
+          "currentPriceEurCents": 120,
+          "referencePriceCents": 43900,
+          "referencePriceEurCents": 120
         }
       ]
     },
@@ -1380,80 +1468,6 @@
           "currentPriceEurCents": 95,
           "referencePriceCents": 145,
           "referencePriceEurCents": 145
-        }
-      ]
-    },
-    {
-      "productId": 11075,
-      "brand": "you&me",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 144.07,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Lubricated prezervativi, 12 kom.",
-          "url": "https://www.dm.hr/p/d/2406577/you-me-lubricated-prezervativi",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:05.887Z",
-          "lastSeenAt": "2026-09-14T15:00:19.160Z",
-          "currentPriceCents": 720,
-          "currentPriceEurCents": 720,
-          "referencePriceCents": 720,
-          "referencePriceEurCents": 720
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Kondomi ROMEO z dodanim lubrikantom, 12 kos",
-          "url": "https://www.dm.si/p/d/2406577/you-me-kondomi-romeo-z-dodanim-lubrikantom",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:03.751Z",
-          "lastSeenAt": "2026-09-14T15:00:28.882Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        }
-      ]
-    },
-    {
-      "productId": 11077,
-      "brand": "you&me",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 144.07,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Prezervativi Darling, 12 kom.",
-          "url": "https://www.dm.hr/p/d/2407205/you-me-prezervativi-darling",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:05.887Z",
-          "lastSeenAt": "2026-09-13T13:17:47.225Z",
-          "currentPriceCents": 720,
-          "currentPriceEurCents": 720,
-          "referencePriceCents": 720,
-          "referencePriceEurCents": 720
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Kondomi DARLING Sensitive, 12 kos",
-          "url": "https://www.dm.si/p/d/2407205/you-me-kondomi-darling-sensitive",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:03.751Z",
-          "lastSeenAt": "2026-09-13T13:17:50.140Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
         }
       ]
     }

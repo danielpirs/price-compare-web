@@ -1,42 +1,86 @@
 {
-  "generatedAt": "2026-10-12T12:54:16.476Z",
+  "generatedAt": "2026-10-13T12:32:02.426Z",
   "fx": {
-    "asOf": "2026-10-09",
+    "asOf": "2026-10-12",
     "rates": {
-      "USD": 1.1206,
-      "JPY": 177.34,
-      "CZK": 24.369,
-      "DKK": 7.4751,
-      "GBP": 0.84763,
-      "HUF": 365.08,
-      "PLN": 4.3835,
-      "RON": 5.3406,
-      "SEK": 11.1675,
-      "CHF": 0.9313,
-      "ISK": 136.8,
-      "NOK": 10.7155,
-      "TRY": 55.1033,
-      "AUD": 1.6052,
-      "BRL": 5.6086,
-      "CAD": 1.5942,
-      "CNY": 7.4992,
-      "HKD": 8.794,
-      "IDR": 20036.94,
-      "ILS": 3.426,
-      "INR": 108.3965,
-      "KRW": 1503.27,
-      "MXN": 20.395,
-      "MYR": 4.5777,
-      "NZD": 1.9961,
-      "PHP": 70.397,
-      "SGD": 1.4348,
-      "THB": 37.574,
-      "ZAR": 18.527
+      "USD": 1.1181,
+      "JPY": 177.33,
+      "CZK": 24.391,
+      "DKK": 7.4748,
+      "GBP": 0.84478,
+      "HUF": 365.13,
+      "PLN": 4.385,
+      "RON": 5.337,
+      "SEK": 11.1965,
+      "CHF": 0.9312,
+      "ISK": 136.4,
+      "NOK": 10.6955,
+      "TRY": 55.1635,
+      "AUD": 1.6032,
+      "BRL": 5.5819,
+      "CAD": 1.5946,
+      "CNY": 7.4832,
+      "HKD": 8.7743,
+      "IDR": 20036.18,
+      "ILS": 3.432,
+      "INR": 107.086,
+      "KRW": 1490.53,
+      "MXN": 20.5081,
+      "MYR": 4.5663,
+      "NZD": 1.9968,
+      "PHP": 70.169,
+      "SGD": 1.4314,
+      "THB": 37.585,
+      "ZAR": 18.4945
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
   },
   "items": [
+    {
+      "productId": 23320,
+      "name": "Anti-kolik cucelj, silikon - počasen pretok, 0m+, 2 kos",
+      "brand": "BIBS",
+      "percentDiff": 2680,
+      "cheapest": {
+        "countryCode": "SI",
+        "shopId": "dm-si",
+        "priceCents": 25,
+        "currency": "EUR",
+        "priceEurCents": 25,
+        "isPromo": true,
+        "observedAt": "2026-09-13T13:17:55.447Z"
+      },
+      "mostExpensive": {
+        "countryCode": "HR",
+        "shopId": "dm-hr",
+        "priceCents": 695,
+        "currency": "EUR",
+        "priceEurCents": 695,
+        "isPromo": false,
+        "observedAt": "2026-10-13T11:43:59.172Z"
+      },
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "priceCents": 25,
+          "currency": "EUR",
+          "priceEurCents": 25,
+          "isPromo": true,
+          "observedAt": "2026-09-13T13:17:55.447Z"
+        },
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "priceCents": 695,
+          "currency": "EUR",
+          "priceEurCents": 695,
+          "isPromo": false,
+          "observedAt": "2026-10-13T11:43:59.172Z"
+        }
+      ]
+    },
     {
       "productId": 20693,
       "name": "Olje za nego prsnih bradavic, 50 ml",
@@ -800,7 +844,7 @@
       "productId": 10532,
       "name": "time to live! edp, 30 ml",
       "brand": "TOM TAILOR",
-      "percentDiff": 714.32,
+      "percentDiff": 714.05,
       "cheapest": {
         "countryCode": "HR",
         "shopId": "dm-hr",
@@ -815,7 +859,7 @@
         "shopId": "dm-hu",
         "priceCents": 1099900,
         "currency": "HUF",
-        "priceEurCents": 3013,
+        "priceEurCents": 3012,
         "isPromo": false,
         "observedAt": "2026-09-01T12:30:22.854Z"
       },
@@ -852,7 +896,7 @@
           "shopId": "dm-hu",
           "priceCents": 1099900,
           "currency": "HUF",
-          "priceEurCents": 3013,
+          "priceEurCents": 3012,
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:22.854Z"
         }
@@ -1215,13 +1259,13 @@
       "productId": 9740,
       "name": "Cheap and Chic edt, 30 ml",
       "brand": "Moschino",
-      "percentDiff": 613.87,
+      "percentDiff": 614.91,
       "cheapest": {
         "countryCode": "HU",
         "shopId": "dm-hu",
         "priceCents": 249900,
         "currency": "HUF",
-        "priceEurCents": 685,
+        "priceEurCents": 684,
         "isPromo": true,
         "observedAt": "2026-10-03T19:06:11.832Z"
       },
@@ -1258,7 +1302,7 @@
           "shopId": "dm-hu",
           "priceCents": 249900,
           "currency": "HUF",
-          "priceEurCents": 685,
+          "priceEurCents": 684,
           "isPromo": true,
           "observedAt": "2026-10-03T19:06:11.832Z"
         }
@@ -1444,7 +1488,7 @@
       "productId": 10497,
       "name": "Eleganza Intensa edp, 60 ml",
       "brand": "bugatti",
-      "percentDiff": 591.72,
+      "percentDiff": 591.52,
       "cheapest": {
         "countryCode": "HR",
         "shopId": "dm-hr",
@@ -1459,7 +1503,7 @@
         "shopId": "dm-hu",
         "priceCents": 1249900,
         "currency": "HUF",
-        "priceEurCents": 3424,
+        "priceEurCents": 3423,
         "isPromo": false,
         "observedAt": "2026-09-01T12:30:19.979Z"
       },
@@ -1487,7 +1531,7 @@
           "shopId": "dm-hu",
           "priceCents": 1249900,
           "currency": "HUF",
-          "priceEurCents": 3424,
+          "priceEurCents": 3423,
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z"
         }
@@ -1497,7 +1541,7 @@
       "productId": 10498,
       "name": "Eleganza edp, 60 ml",
       "brand": "bugatti",
-      "percentDiff": 591.72,
+      "percentDiff": 591.52,
       "cheapest": {
         "countryCode": "HR",
         "shopId": "dm-hr",
@@ -1512,7 +1556,7 @@
         "shopId": "dm-hu",
         "priceCents": 1249900,
         "currency": "HUF",
-        "priceEurCents": 3424,
+        "priceEurCents": 3423,
         "isPromo": false,
         "observedAt": "2026-09-01T12:30:19.979Z"
       },
@@ -1540,7 +1584,7 @@
           "shopId": "dm-hu",
           "priceCents": 1249900,
           "currency": "HUF",
-          "priceEurCents": 3424,
+          "priceEurCents": 3423,
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z"
         }
@@ -1550,7 +1594,7 @@
       "productId": 8236,
       "name": "pretty precious paleta sjenila za oči, 4,8 g",
       "brand": "trend !t up",
-      "percentDiff": 585,
+      "percentDiff": 584,
       "cheapest": {
         "countryCode": "HR",
         "shopId": "dm-hr",
@@ -1565,7 +1609,7 @@
         "shopId": "dm-hu",
         "priceCents": 249900,
         "currency": "HUF",
-        "priceEurCents": 685,
+        "priceEurCents": 684,
         "isPromo": false,
         "observedAt": "2026-09-01T12:32:16.800Z"
       },
@@ -1593,7 +1637,7 @@
           "shopId": "dm-hu",
           "priceCents": 249900,
           "currency": "HUF",
-          "priceEurCents": 685,
+          "priceEurCents": 684,
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:16.800Z"
         }
@@ -2865,7 +2909,7 @@
           "shopId": "dm-hu",
           "priceCents": 429900,
           "currency": "HUF",
-          "priceEurCents": 1178,
+          "priceEurCents": 1177,
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:07.099Z"
         }
@@ -3643,7 +3687,7 @@
       "productId": 6549,
       "name": "Perivi uložak – normal, 1 kom.",
       "brand": "Jessa",
-      "percentDiff": 453.54,
+      "percentDiff": 452.53,
       "cheapest": {
         "countryCode": "SI",
         "shopId": "dm-si",
@@ -3658,7 +3702,7 @@
         "shopId": "dm-hu",
         "priceCents": 199900,
         "currency": "HUF",
-        "priceEurCents": 548,
+        "priceEurCents": 547,
         "isPromo": true,
         "observedAt": "2026-10-03T19:06:07.103Z"
       },
@@ -3704,7 +3748,7 @@
           "shopId": "dm-hu",
           "priceCents": 199900,
           "currency": "HUF",
-          "priceEurCents": 548,
+          "priceEurCents": 547,
           "isPromo": true,
           "observedAt": "2026-10-03T19:06:07.103Z"
         }
@@ -3714,7 +3758,7 @@
       "productId": 19592,
       "name": "Tonik za obraz BEAUTY EXPERT Glow, 100 ml",
       "brand": "Balea",
-      "percentDiff": 453.54,
+      "percentDiff": 452.53,
       "cheapest": {
         "countryCode": "SI",
         "shopId": "dm-si",
@@ -3729,7 +3773,7 @@
         "shopId": "dm-hu",
         "priceCents": 199900,
         "currency": "HUF",
-        "priceEurCents": 548,
+        "priceEurCents": 547,
         "isPromo": false,
         "observedAt": "2026-09-01T12:31:02.831Z"
       },
@@ -3748,7 +3792,7 @@
           "shopId": "dm-hu",
           "priceCents": 199900,
           "currency": "HUF",
-          "priceEurCents": 548,
+          "priceEurCents": 547,
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:02.831Z"
         }
@@ -3846,13 +3890,13 @@
       "productId": 18312,
       "name": "Toaletna voda za ženske White Tea Ginger Lily, 30 ml",
       "brand": "Elizabeth Arden",
-      "percentDiff": 446.53,
+      "percentDiff": 447.53,
       "cheapest": {
         "countryCode": "HU",
         "shopId": "dm-hu",
         "priceCents": 199900,
         "currency": "HUF",
-        "priceEurCents": 548,
+        "priceEurCents": 547,
         "isPromo": true,
         "observedAt": "2026-09-15T13:31:24.654Z"
       },
@@ -3880,7 +3924,7 @@
           "shopId": "dm-hu",
           "priceCents": 199900,
           "currency": "HUF",
-          "priceEurCents": 548,
+          "priceEurCents": 547,
           "isPromo": true,
           "observedAt": "2026-09-15T13:31:24.654Z"
         }
@@ -5650,7 +5694,7 @@
       "productId": 7168,
       "name": "Duda varalica za djevojčice ultra air, 18+ mj.,..., 2 kom.",
       "brand": "PHILIPS AVENT",
-      "percentDiff": 395.71,
+      "percentDiff": 395.24,
       "cheapest": {
         "countryCode": "SI",
         "shopId": "dm-si",
@@ -5665,7 +5709,7 @@
         "shopId": "dm-hu",
         "priceCents": 379900,
         "currency": "HUF",
-        "priceEurCents": 1041,
+        "priceEurCents": 1040,
         "isPromo": false,
         "observedAt": "2026-09-01T12:31:14.536Z"
       },
@@ -5693,7 +5737,7 @@
           "shopId": "dm-hu",
           "priceCents": 379900,
           "currency": "HUF",
-          "priceEurCents": 1041,
+          "priceEurCents": 1040,
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:14.536Z"
         }
@@ -5703,7 +5747,7 @@
       "productId": 13750,
       "name": "Duda varalica za dječake ultra air, 18+ mj. –..., 2 kom.",
       "brand": "PHILIPS AVENT",
-      "percentDiff": 395.71,
+      "percentDiff": 395.24,
       "cheapest": {
         "countryCode": "SI",
         "shopId": "dm-si",
@@ -5718,7 +5762,7 @@
         "shopId": "dm-hu",
         "priceCents": 379900,
         "currency": "HUF",
-        "priceEurCents": 1041,
+        "priceEurCents": 1040,
         "isPromo": false,
         "observedAt": "2026-09-01T12:32:13.914Z"
       },
@@ -5746,7 +5790,7 @@
           "shopId": "dm-hu",
           "priceCents": 379900,
           "currency": "HUF",
-          "priceEurCents": 1041,
+          "priceEurCents": 1040,
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:13.914Z"
         }
@@ -6591,165 +6635,6 @@
       ]
     },
     {
-      "productId": 3643,
-      "name": "Duda varalica ultra air , 18+ mj., 2 kom.",
-      "brand": "PHILIPS AVENT",
-      "percentDiff": 362.67,
-      "cheapest": {
-        "countryCode": "SI",
-        "shopId": "dm-si",
-        "priceCents": 225,
-        "currency": "EUR",
-        "priceEurCents": 225,
-        "isPromo": true,
-        "observedAt": "2026-10-03T19:13:33.748Z"
-      },
-      "mostExpensive": {
-        "countryCode": "HU",
-        "shopId": "dm-hu",
-        "priceCents": 379900,
-        "currency": "HUF",
-        "priceEurCents": 1041,
-        "isPromo": false,
-        "observedAt": "2026-09-01T12:31:10.517Z"
-      },
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "priceCents": 895,
-          "currency": "EUR",
-          "priceEurCents": 895,
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:07:21.758Z"
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 225,
-          "currency": "EUR",
-          "priceEurCents": 225,
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:33.748Z"
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "priceCents": 379900,
-          "currency": "HUF",
-          "priceEurCents": 1041,
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:10.517Z"
-        }
-      ]
-    },
-    {
-      "productId": 9241,
-      "name": "Noćna duda varalica za dječake ultra air, 6 – 18..., 2 kom.",
-      "brand": "PHILIPS AVENT",
-      "percentDiff": 362.67,
-      "cheapest": {
-        "countryCode": "SI",
-        "shopId": "dm-si",
-        "priceCents": 225,
-        "currency": "EUR",
-        "priceEurCents": 225,
-        "isPromo": true,
-        "observedAt": "2026-10-03T19:13:33.748Z"
-      },
-      "mostExpensive": {
-        "countryCode": "HU",
-        "shopId": "dm-hu",
-        "priceCents": 379900,
-        "currency": "HUF",
-        "priceEurCents": 1041,
-        "isPromo": false,
-        "observedAt": "2026-09-01T12:32:13.914Z"
-      },
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "priceCents": 895,
-          "currency": "EUR",
-          "priceEurCents": 895,
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:53.765Z"
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 225,
-          "currency": "EUR",
-          "priceEurCents": 225,
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:33.748Z"
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "priceCents": 379900,
-          "currency": "HUF",
-          "priceEurCents": 1041,
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:13.914Z"
-        }
-      ]
-    },
-    {
-      "productId": 10933,
-      "name": "Duda varalica za djevojčice ultra air, 6 – 18 mj...., 2 kom.",
-      "brand": "PHILIPS AVENT",
-      "percentDiff": 362.67,
-      "cheapest": {
-        "countryCode": "SI",
-        "shopId": "dm-si",
-        "priceCents": 225,
-        "currency": "EUR",
-        "priceEurCents": 225,
-        "isPromo": true,
-        "observedAt": "2026-10-03T19:13:33.748Z"
-      },
-      "mostExpensive": {
-        "countryCode": "HU",
-        "shopId": "dm-hu",
-        "priceCents": 379900,
-        "currency": "HUF",
-        "priceEurCents": 1041,
-        "isPromo": false,
-        "observedAt": "2026-09-01T12:31:37.751Z"
-      },
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "priceCents": 895,
-          "currency": "EUR",
-          "priceEurCents": 895,
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:04.766Z"
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 225,
-          "currency": "EUR",
-          "priceEurCents": 225,
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:33.748Z"
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "priceCents": 379900,
-          "currency": "HUF",
-          "priceEurCents": 1041,
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:37.751Z"
-        }
-      ]
-    },
-    {
       "productId": 10609,
       "name": "Soul Garden edt, 20 ml",
       "brand": "Betty Barclay",
@@ -6799,6 +6684,165 @@
           "priceEurCents": 411,
           "isPromo": true,
           "observedAt": "2026-10-03T19:06:17.999Z"
+        }
+      ]
+    },
+    {
+      "productId": 3643,
+      "name": "Duda varalica ultra air , 18+ mj., 2 kom.",
+      "brand": "PHILIPS AVENT",
+      "percentDiff": 362.22,
+      "cheapest": {
+        "countryCode": "SI",
+        "shopId": "dm-si",
+        "priceCents": 225,
+        "currency": "EUR",
+        "priceEurCents": 225,
+        "isPromo": true,
+        "observedAt": "2026-10-03T19:13:33.748Z"
+      },
+      "mostExpensive": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 379900,
+        "currency": "HUF",
+        "priceEurCents": 1040,
+        "isPromo": false,
+        "observedAt": "2026-09-01T12:31:10.517Z"
+      },
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "priceCents": 895,
+          "currency": "EUR",
+          "priceEurCents": 895,
+          "isPromo": false,
+          "observedAt": "2026-08-28T16:07:21.758Z"
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "priceCents": 225,
+          "currency": "EUR",
+          "priceEurCents": 225,
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:33.748Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 379900,
+          "currency": "HUF",
+          "priceEurCents": 1040,
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:10.517Z"
+        }
+      ]
+    },
+    {
+      "productId": 9241,
+      "name": "Noćna duda varalica za dječake ultra air, 6 – 18..., 2 kom.",
+      "brand": "PHILIPS AVENT",
+      "percentDiff": 362.22,
+      "cheapest": {
+        "countryCode": "SI",
+        "shopId": "dm-si",
+        "priceCents": 225,
+        "currency": "EUR",
+        "priceEurCents": 225,
+        "isPromo": true,
+        "observedAt": "2026-10-03T19:13:33.748Z"
+      },
+      "mostExpensive": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 379900,
+        "currency": "HUF",
+        "priceEurCents": 1040,
+        "isPromo": false,
+        "observedAt": "2026-09-01T12:32:13.914Z"
+      },
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "priceCents": 895,
+          "currency": "EUR",
+          "priceEurCents": 895,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:53.765Z"
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "priceCents": 225,
+          "currency": "EUR",
+          "priceEurCents": 225,
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:33.748Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 379900,
+          "currency": "HUF",
+          "priceEurCents": 1040,
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:13.914Z"
+        }
+      ]
+    },
+    {
+      "productId": 10933,
+      "name": "Duda varalica za djevojčice ultra air, 6 – 18 mj...., 2 kom.",
+      "brand": "PHILIPS AVENT",
+      "percentDiff": 362.22,
+      "cheapest": {
+        "countryCode": "SI",
+        "shopId": "dm-si",
+        "priceCents": 225,
+        "currency": "EUR",
+        "priceEurCents": 225,
+        "isPromo": true,
+        "observedAt": "2026-10-03T19:13:33.748Z"
+      },
+      "mostExpensive": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 379900,
+        "currency": "HUF",
+        "priceEurCents": 1040,
+        "isPromo": false,
+        "observedAt": "2026-09-01T12:31:37.751Z"
+      },
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "priceCents": 895,
+          "currency": "EUR",
+          "priceEurCents": 895,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:04.766Z"
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "priceCents": 225,
+          "currency": "EUR",
+          "priceEurCents": 225,
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:33.748Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 379900,
+          "currency": "HUF",
+          "priceEurCents": 1040,
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:37.751Z"
         }
       ]
     },
@@ -7046,6 +7090,68 @@
           "priceEurCents": 115,
           "isPromo": false,
           "observedAt": "2026-09-17T13:25:33.061Z"
+        }
+      ]
+    },
+    {
+      "productId": 6407,
+      "name": "Hulahopke Spezial, 30 DEN, veličina 42 – 44 –..., 1 kom.",
+      "brand": "Fascino",
+      "percentDiff": 359.35,
+      "cheapest": {
+        "countryCode": "HR",
+        "shopId": "dm-hr",
+        "priceCents": 155,
+        "currency": "EUR",
+        "priceEurCents": 155,
+        "isPromo": true,
+        "observedAt": "2026-10-12T17:51:30.603Z"
+      },
+      "mostExpensive": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 259900,
+        "currency": "HUF",
+        "priceEurCents": 712,
+        "isPromo": false,
+        "observedAt": "2026-09-01T12:30:10.466Z"
+      },
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "priceCents": 155,
+          "currency": "EUR",
+          "priceEurCents": 155,
+          "isPromo": true,
+          "observedAt": "2026-10-12T17:51:30.603Z"
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "priceCents": 495,
+          "currency": "EUR",
+          "priceEurCents": 495,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:37:47.048Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 259900,
+          "currency": "HUF",
+          "priceEurCents": 712,
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:10.466Z"
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "priceCents": 495,
+          "currency": "EUR",
+          "priceEurCents": 495,
+          "isPromo": false,
+          "observedAt": "2026-10-12T17:51:25.488Z"
         }
       ]
     },
@@ -7467,7 +7573,7 @@
           "shopId": "dm-hu",
           "priceCents": 199900,
           "currency": "HUF",
-          "priceEurCents": 548,
+          "priceEurCents": 547,
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:12.182Z"
         }
@@ -10285,94 +10391,6 @@
           "priceEurCents": 145,
           "isPromo": false,
           "observedAt": "2026-08-30T22:37:31.635Z"
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "priceCents": 12900,
-          "currency": "HUF",
-          "priceEurCents": 35,
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:06:20.793Z"
-        }
-      ]
-    },
-    {
-      "productId": 35304,
-      "name": "Servietten Konfetti 25 x 25 cm, 20 St",
-      "brand": "Profissimo",
-      "percentDiff": 314.29,
-      "cheapest": {
-        "countryCode": "HU",
-        "shopId": "dm-hu",
-        "priceCents": 12900,
-        "currency": "HUF",
-        "priceEurCents": 35,
-        "isPromo": true,
-        "observedAt": "2026-10-03T19:06:20.793Z"
-      },
-      "mostExpensive": {
-        "countryCode": "AT",
-        "shopId": "dm-at",
-        "priceCents": 145,
-        "currency": "EUR",
-        "priceEurCents": 145,
-        "isPromo": false,
-        "observedAt": "2026-08-30T22:37:33.185Z"
-      },
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "priceCents": 145,
-          "currency": "EUR",
-          "priceEurCents": 145,
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:37:33.185Z"
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "priceCents": 12900,
-          "currency": "HUF",
-          "priceEurCents": 35,
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:06:20.793Z"
-        }
-      ]
-    },
-    {
-      "productId": 35317,
-      "name": "Servietten Berry & Ice 25 x 25 cm, 20 St",
-      "brand": "Profissimo",
-      "percentDiff": 314.29,
-      "cheapest": {
-        "countryCode": "HU",
-        "shopId": "dm-hu",
-        "priceCents": 12900,
-        "currency": "HUF",
-        "priceEurCents": 35,
-        "isPromo": true,
-        "observedAt": "2026-10-03T19:06:20.793Z"
-      },
-      "mostExpensive": {
-        "countryCode": "AT",
-        "shopId": "dm-at",
-        "priceCents": 145,
-        "currency": "EUR",
-        "priceEurCents": 145,
-        "isPromo": false,
-        "observedAt": "2026-08-30T22:37:33.185Z"
-      },
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "priceCents": 145,
-          "currency": "EUR",
-          "priceEurCents": 145,
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:37:33.185Z"
         },
         {
           "countryCode": "HU",

@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-12T12:54:16.476Z",
+  "generatedAt": "2026-10-13T12:32:02.426Z",
   "fx": {
-    "asOf": "2026-10-09",
+    "asOf": "2026-10-12",
     "rates": {
-      "USD": 1.1206,
-      "JPY": 177.34,
-      "CZK": 24.369,
-      "DKK": 7.4751,
-      "GBP": 0.84763,
-      "HUF": 365.08,
-      "PLN": 4.3835,
-      "RON": 5.3406,
-      "SEK": 11.1675,
-      "CHF": 0.9313,
-      "ISK": 136.8,
-      "NOK": 10.7155,
-      "TRY": 55.1033,
-      "AUD": 1.6052,
-      "BRL": 5.6086,
-      "CAD": 1.5942,
-      "CNY": 7.4992,
-      "HKD": 8.794,
-      "IDR": 20036.94,
-      "ILS": 3.426,
-      "INR": 108.3965,
-      "KRW": 1503.27,
-      "MXN": 20.395,
-      "MYR": 4.5777,
-      "NZD": 1.9961,
-      "PHP": 70.397,
-      "SGD": 1.4348,
-      "THB": 37.574,
-      "ZAR": 18.527
+      "USD": 1.1181,
+      "JPY": 177.33,
+      "CZK": 24.391,
+      "DKK": 7.4748,
+      "GBP": 0.84478,
+      "HUF": 365.13,
+      "PLN": 4.385,
+      "RON": 5.337,
+      "SEK": 11.1965,
+      "CHF": 0.9312,
+      "ISK": 136.4,
+      "NOK": 10.6955,
+      "TRY": 55.1635,
+      "AUD": 1.6032,
+      "BRL": 5.5819,
+      "CAD": 1.5946,
+      "CNY": 7.4832,
+      "HKD": 8.7743,
+      "IDR": 20036.18,
+      "ILS": 3.432,
+      "INR": 107.086,
+      "KRW": 1490.53,
+      "MXN": 20.5081,
+      "MYR": 4.5663,
+      "NZD": 1.9968,
+      "PHP": 70.169,
+      "SGD": 1.4314,
+      "THB": 37.585,
+      "ZAR": 18.4945
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -91,7 +91,7 @@
           "url": "https://www.dm.si/p/d/1685426/dontodent-nadomestne-glave-za-zobno-scetko-medium",
           "isPromo": false,
           "observedAt": "2026-08-30T22:34:36.892Z",
-          "lastSeenAt": "2026-09-13T13:17:53.392Z",
+          "lastSeenAt": "2026-10-13T11:43:53.796Z",
           "currentPriceCents": 350,
           "currentPriceEurCents": 350,
           "referencePriceCents": 350,
@@ -230,7 +230,7 @@
           "url": "https://www.dm.hr/p/d/2486107/hallohebamme-higijenski-ulosci-nakon-poroda",
           "isPromo": false,
           "observedAt": "2026-08-30T22:32:52.603Z",
-          "lastSeenAt": "2026-09-13T13:17:43.732Z",
+          "lastSeenAt": "2026-10-13T11:43:59.172Z",
           "currentPriceCents": 395,
           "currentPriceEurCents": 395,
           "referencePriceCents": 395,
@@ -258,7 +258,7 @@
           "url": "https://www.dm.de/p/d/2486107/hallohebamme-wochenbetteinlagen",
           "isPromo": false,
           "observedAt": "2026-08-31T20:41:43.104Z",
-          "lastSeenAt": "2026-09-13T13:18:08.457Z",
+          "lastSeenAt": "2026-10-13T11:44:07.619Z",
           "currentPriceCents": 275,
           "currentPriceEurCents": 275,
           "referencePriceCents": 275,
@@ -673,7 +673,7 @@
           "observedAt": "2026-10-03T19:06:11.832Z",
           "lastSeenAt": "2026-10-03T19:06:11.832Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 685,
+          "currentPriceEurCents": 684,
           "referencePriceCents": 499900,
           "referencePriceEurCents": 1369
         }
@@ -1202,7 +1202,7 @@
       "productId": 8829,
       "brand": "HADA LABO TOKYO",
       "isCountryExtreme": true,
-      "overallPercentDiff": 191.24,
+      "overallPercentDiff": 191.67,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1259,7 +1259,7 @@
           "currentPriceCents": 124900,
           "currentPriceEurCents": 342,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 685
+          "referencePriceEurCents": 684
         }
       ]
     },
@@ -1482,6 +1482,57 @@
       ]
     },
     {
+      "productId": 11188,
+      "brand": "Balea",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 186.59,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Kremasto-uljna kupka Sweet Cherry Moment, 500 ml",
+          "url": "https://www.dm.hr/p/d/3090762/balea-kremasto-uljna-kupka-sweet-cherry-moment",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:07.072Z",
+          "lastSeenAt": "2026-10-12T17:51:30.603Z",
+          "currentPriceCents": 215,
+          "currentPriceEurCents": 215,
+          "referencePriceCents": 215,
+          "referencePriceEurCents": 215
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Kremna kopel na oljni osnovi Sweet CHERRY MOMENT, 500 ml",
+          "url": "https://www.dm.si/p/d/3090762/balea-kremna-kopel-na-oljni-osnovi-sweet-cherry-moment",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:59.311Z",
+          "lastSeenAt": "2026-10-12T17:51:27.981Z",
+          "currentPriceCents": 235,
+          "currentPriceEurCents": 235,
+          "referencePriceCents": 235,
+          "referencePriceEurCents": 235
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Krémes-olajos habfürdő Sweet Cherry Moment, 500 ml",
+          "url": "https://www.dm.hu/p/d/3090762/balea-kremes-olajos-habfurdo-sweet-cherry-moment",
+          "isPromo": false,
+          "observedAt": "2026-10-12T17:51:40.619Z",
+          "lastSeenAt": "2026-10-12T17:51:40.619Z",
+          "currentPriceCents": 29900,
+          "currentPriceEurCents": 82,
+          "referencePriceCents": 29900,
+          "referencePriceEurCents": 82
+        }
+      ]
+    },
+    {
       "productId": 7605,
       "brand": "ebelin",
       "isCountryExtreme": true,
@@ -1543,43 +1594,6 @@
           "currentPriceEurCents": 55,
           "referencePriceCents": 19900,
           "referencePriceEurCents": 55
-        }
-      ]
-    },
-    {
-      "productId": 5466,
-      "brand": "Jordan",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 180.61,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Zobna ščetka Extra Soft 0-2 let, več različic, 1 kos",
-          "url": "https://www.dm.si/p/d/2102292/jordan-zobna-scetka-extra-soft-0-2-let-vec-razlicic",
-          "isPromo": false,
-          "observedAt": "2026-08-30T21:47:44.606Z",
-          "lastSeenAt": "2026-09-23T13:37:00.506Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkefe baby step by step 0-2 év (többféle), 1 db",
-          "url": "https://www.dm.hu/p/d/2102292/jordan-fogkefe-baby-step-by-step-0-2-ev-tobbfele",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:01.877Z",
-          "lastSeenAt": "2026-09-23T13:37:24.417Z",
-          "currentPriceCents": 35900,
-          "currentPriceEurCents": 98,
-          "referencePriceCents": 35900,
-          "referencePriceEurCents": 98
         }
       ]
     }
