@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-13T12:32:02.426Z",
+  "generatedAt": "2026-10-14T09:59:21.069Z",
   "fx": {
-    "asOf": "2026-10-12",
+    "asOf": "2026-10-13",
     "rates": {
-      "USD": 1.1181,
-      "JPY": 177.33,
-      "CZK": 24.391,
-      "DKK": 7.4748,
-      "GBP": 0.84478,
-      "HUF": 365.13,
-      "PLN": 4.385,
-      "RON": 5.337,
-      "SEK": 11.1965,
+      "USD": 1.1188,
+      "JPY": 176.91,
+      "CZK": 24.368,
+      "DKK": 7.4753,
+      "GBP": 0.8446,
+      "HUF": 364.31,
+      "PLN": 4.3768,
+      "RON": 5.3363,
+      "SEK": 11.1698,
       "CHF": 0.9312,
-      "ISK": 136.4,
-      "NOK": 10.6955,
-      "TRY": 55.1635,
-      "AUD": 1.6032,
-      "BRL": 5.5819,
-      "CAD": 1.5946,
-      "CNY": 7.4832,
-      "HKD": 8.7743,
-      "IDR": 20036.18,
-      "ILS": 3.432,
-      "INR": 107.086,
-      "KRW": 1490.53,
-      "MXN": 20.5081,
-      "MYR": 4.5663,
-      "NZD": 1.9968,
-      "PHP": 70.169,
-      "SGD": 1.4314,
-      "THB": 37.585,
-      "ZAR": 18.4945
+      "ISK": 136.2,
+      "NOK": 10.6685,
+      "TRY": 55.2325,
+      "AUD": 1.6033,
+      "BRL": 5.6125,
+      "CAD": 1.5933,
+      "CNY": 7.489,
+      "HKD": 8.7802,
+      "IDR": 20004.87,
+      "ILS": 3.4404,
+      "INR": 106.6,
+      "KRW": 1500.81,
+      "MXN": 20.5126,
+      "MYR": 4.5714,
+      "NZD": 1.9931,
+      "PHP": 70.225,
+      "SGD": 1.4319,
+      "THB": 37.58,
+      "ZAR": 18.4561
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -39,108 +39,6 @@
   "countryCode": "HR",
   "kind": "most-expensive",
   "items": [
-    {
-      "productId": 23320,
-      "brand": "BIBS",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 1290,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Anti-kolik cucelj, silikon - počasen pretok, 0m+, 2 kos",
-          "url": "https://www.dm.si/p/d/3106598/bibs-anti-kolik-cucelj-silikon-pocasen-pretok-0m",
-          "isPromo": true,
-          "observedAt": "2026-09-13T13:17:55.447Z",
-          "lastSeenAt": "2026-09-13T13:17:55.447Z",
-          "currentPriceCents": 25,
-          "currentPriceEurCents": 25,
-          "referencePriceCents": 50,
-          "referencePriceEurCents": 50
-        },
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Sisač sa sporim protokom istjecanja – od..., 2 kom.",
-          "url": "https://www.dm.hr/p/d/3106598/bibs-sisac-sa-sporim-protokom-istjecanja-od-medicinskog-silikona",
-          "isPromo": false,
-          "observedAt": "2026-10-13T11:43:59.172Z",
-          "lastSeenAt": "2026-10-13T11:43:59.172Z",
-          "currentPriceCents": 695,
-          "currentPriceEurCents": 695,
-          "referencePriceCents": 695,
-          "referencePriceEurCents": 695
-        }
-      ]
-    },
-    {
-      "productId": 9014,
-      "brand": "HALLOHEBAMME",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 338.89,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Higijenski ulošci nakon poroda, 10 kom.",
-          "url": "https://www.dm.hr/p/d/2486107/hallohebamme-higijenski-ulosci-nakon-poroda",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:52.603Z",
-          "lastSeenAt": "2026-10-13T11:43:59.172Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Higienski vložki za porodnice, 10 kos",
-          "url": "https://www.dm.si/p/d/2486107/hallohebamme-higienski-vlozki-za-porodnice",
-          "isPromo": true,
-          "observedAt": "2026-09-13T13:17:53.392Z",
-          "lastSeenAt": "2026-09-13T13:17:53.392Z",
-          "currentPriceCents": 95,
-          "currentPriceEurCents": 95,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Wochenbetteinlagen, 10 St",
-          "url": "https://www.dm.de/p/d/2486107/hallohebamme-wochenbetteinlagen",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:43.104Z",
-          "lastSeenAt": "2026-10-13T11:44:07.619Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Szülés utáni betét, 10 db",
-          "url": "https://www.dm.hu/p/d/2486107/hallohebamme-szules-utani-betet",
-          "isPromo": true,
-          "observedAt": "2026-09-13T13:18:22.482Z",
-          "lastSeenAt": "2026-09-13T13:18:22.482Z",
-          "currentPriceCents": 9900,
-          "currentPriceEurCents": 27,
-          "referencePriceCents": 32900,
-          "referencePriceEurCents": 90
-        }
-      ]
-    },
     {
       "productId": 8591,
       "brand": "Johnson's baby",
@@ -223,46 +121,9 @@
           "observedAt": "2026-09-01T12:30:41.384Z",
           "lastSeenAt": "2026-09-21T15:05:41.766Z",
           "currentPriceCents": 100900,
-          "currentPriceEurCents": 276,
+          "currentPriceEurCents": 277,
           "referencePriceCents": 100900,
-          "referencePriceEurCents": 276
-        }
-      ]
-    },
-    {
-      "productId": 14740,
-      "brand": "Violeta",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 274.12,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Pelene gaćice vel. 5 (12 – 17 kg), 48 kom.",
-          "url": "https://www.dm.hr/p/d/2220444/violeta-pelene-gacice-vel-5-12-17-kg",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:27.900Z",
-          "lastSeenAt": "2026-10-13T11:43:59.172Z",
-          "currentPriceCents": 1590,
-          "currentPriceEurCents": 1590,
-          "referencePriceCents": 1590,
-          "referencePriceEurCents": 1590
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Hlačne plenice, velikost 5, 12-17 kg, 48 kos",
-          "url": "https://www.dm.si/p/d/2220444/violeta-hlacne-plenice-velikost-5-12-17-kg",
-          "isPromo": true,
-          "observedAt": "2026-09-13T13:17:53.392Z",
-          "lastSeenAt": "2026-09-13T13:17:53.392Z",
-          "currentPriceCents": 210,
-          "currentPriceEurCents": 210,
-          "referencePriceCents": 425,
-          "referencePriceEurCents": 425
+          "referencePriceEurCents": 277
         }
       ]
     },
@@ -270,7 +131,7 @@
       "productId": 9740,
       "brand": "Moschino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 257.2,
+      "overallPercentDiff": 256.41,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -311,9 +172,9 @@
           "observedAt": "2026-10-03T19:06:11.832Z",
           "lastSeenAt": "2026-10-03T19:06:11.832Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 684,
+          "currentPriceEurCents": 686,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1369
+          "referencePriceEurCents": 1372
         }
       ]
     },
@@ -362,9 +223,9 @@
           "observedAt": "2026-09-01T12:32:22.557Z",
           "lastSeenAt": "2026-09-15T13:31:24.654Z",
           "currentPriceCents": 78900,
-          "currentPriceEurCents": 216,
+          "currentPriceEurCents": 217,
           "referencePriceCents": 78900,
-          "referencePriceEurCents": 216
+          "referencePriceEurCents": 217
         }
       ]
     },
@@ -441,9 +302,9 @@
           "observedAt": "2026-09-01T12:33:11.663Z",
           "lastSeenAt": "2026-09-18T12:57:27.712Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 684,
+          "currentPriceEurCents": 686,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 684
+          "referencePriceEurCents": 686
         }
       ]
     },
@@ -603,9 +464,9 @@
           "observedAt": "2026-09-01T12:31:28.672Z",
           "lastSeenAt": "2026-09-20T13:02:34.583Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 493,
+          "currentPriceEurCents": 494,
           "referencePriceCents": 179900,
-          "referencePriceEurCents": 493
+          "referencePriceEurCents": 494
         }
       ]
     },
@@ -1118,7 +979,7 @@
       "productId": 2493,
       "brand": "FERRAGAMO",
       "isCountryExtreme": true,
-      "overallPercentDiff": 151.12,
+      "overallPercentDiff": 150.61,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1159,60 +1020,9 @@
           "observedAt": "2026-10-03T19:06:10.259Z",
           "lastSeenAt": "2026-10-03T19:06:10.259Z",
           "currentPriceCents": 449900,
-          "currentPriceEurCents": 1232,
+          "currentPriceEurCents": 1235,
           "referencePriceCents": 899900,
-          "referencePriceEurCents": 2465
-        }
-      ]
-    },
-    {
-      "productId": 10188,
-      "brand": "Rexona",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 150,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Deo roll-on Advanced Protection Invisible Aqua, 50 ml",
-          "url": "https://www.dm.hr/p/d/3072259/rexona-deo-roll-on-advanced-protection-invisible-aqua",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:00.205Z",
-          "lastSeenAt": "2026-09-13T13:17:47.225Z",
-          "currentPriceCents": 390,
-          "currentPriceEurCents": 390,
-          "referencePriceCents": 390,
-          "referencePriceEurCents": 390
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Antiperspirant roll-on Advanced Protection..., 50 ml",
-          "url": "https://www.dm.si/p/d/3072259/rexona-antiperspirant-roll-on-advanced-protection-invisible-aqua",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:04.847Z",
-          "lastSeenAt": "2026-10-13T11:43:57.780Z",
-          "currentPriceCents": 370,
-          "currentPriceEurCents": 370,
-          "referencePriceCents": 370,
-          "referencePriceEurCents": 370
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Deo roll-on Advanced Protection, Invisible Aqua, 50 ml",
-          "url": "https://www.dm.hu/p/d/3072259/rexona-deo-roll-on-advanced-protection-invisible-aqua",
-          "isPromo": true,
-          "observedAt": "2026-09-13T13:18:22.482Z",
-          "lastSeenAt": "2026-09-13T13:18:22.482Z",
-          "currentPriceCents": 27900,
-          "currentPriceEurCents": 76,
-          "referencePriceCents": 56900,
-          "referencePriceEurCents": 156
+          "referencePriceEurCents": 2470
         }
       ]
     },
@@ -1250,108 +1060,6 @@
           "currentPriceEurCents": 240,
           "referencePriceCents": 87500,
           "referencePriceEurCents": 240
-        }
-      ]
-    },
-    {
-      "productId": 11106,
-      "brand": "Jordan",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 145.83,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Pasta za zube Junior, 6 – 12 god., više vrsta, 50 ml",
-          "url": "https://www.dm.hr/p/d/2158438/jordan-pasta-za-zube-junior-6-12-god-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:05.887Z",
-          "lastSeenAt": "2026-10-12T17:51:29.335Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Zobna krema za otroke 6-12 let, 50 ml",
-          "url": "https://www.dm.si/p/d/2158438/jordan-zobna-krema-za-otroke-6-12-let",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:19.593Z",
-          "lastSeenAt": "2026-10-12T17:51:25.488Z",
-          "currentPriceCents": 285,
-          "currentPriceEurCents": 285,
-          "referencePriceCents": 285,
-          "referencePriceEurCents": 285
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkrém junior 6 éves kortól, 50 ml",
-          "url": "https://www.dm.hu/p/d/2158438/jordan-fogkrem-junior-6-eves-kortol",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:35.474Z",
-          "lastSeenAt": "2026-10-12T17:51:42.466Z",
-          "currentPriceCents": 43900,
-          "currentPriceEurCents": 120,
-          "referencePriceCents": 43900,
-          "referencePriceEurCents": 120
-        }
-      ]
-    },
-    {
-      "productId": 12130,
-      "brand": "Jordan",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 145.83,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Pasta za zube Kids, 0 – 5 god., više vrsta, 50 ml",
-          "url": "https://www.dm.hr/p/d/2158437/jordan-pasta-za-zube-kids-0-5-god-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:13.032Z",
-          "lastSeenAt": "2026-10-05T17:07:07.902Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Zobna krema za otroke 0-5 let, 50 ml",
-          "url": "https://www.dm.si/p/d/2158437/jordan-zobna-krema-za-otroke-0-5-let",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:48.431Z",
-          "lastSeenAt": "2026-10-05T17:07:12.031Z",
-          "currentPriceCents": 285,
-          "currentPriceEurCents": 285,
-          "referencePriceCents": 285,
-          "referencePriceEurCents": 285
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkrém kids 0-5 éves gyerekeknek, többféle, 50 ml",
-          "url": "https://www.dm.hu/p/d/2158437/jordan-fogkrem-kids-0-5-eves-gyerekeknek-tobbfele",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:32.566Z",
-          "lastSeenAt": "2026-10-05T17:07:29.410Z",
-          "currentPriceCents": 43900,
-          "currentPriceEurCents": 120,
-          "referencePriceCents": 43900,
-          "referencePriceEurCents": 120
         }
       ]
     },
@@ -1468,6 +1176,298 @@
           "currentPriceEurCents": 95,
           "referencePriceCents": 145,
           "referencePriceEurCents": 145
+        }
+      ]
+    },
+    {
+      "productId": 11075,
+      "brand": "you&me",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 144.07,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Lubricated prezervativi, 12 kom.",
+          "url": "https://www.dm.hr/p/d/2406577/you-me-lubricated-prezervativi",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:05.887Z",
+          "lastSeenAt": "2026-09-14T15:00:19.160Z",
+          "currentPriceCents": 720,
+          "currentPriceEurCents": 720,
+          "referencePriceCents": 720,
+          "referencePriceEurCents": 720
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Kondomi ROMEO z dodanim lubrikantom, 12 kos",
+          "url": "https://www.dm.si/p/d/2406577/you-me-kondomi-romeo-z-dodanim-lubrikantom",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:03.751Z",
+          "lastSeenAt": "2026-09-14T15:00:28.882Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        }
+      ]
+    },
+    {
+      "productId": 11077,
+      "brand": "you&me",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 144.07,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Prezervativi Darling, 12 kom.",
+          "url": "https://www.dm.hr/p/d/2407205/you-me-prezervativi-darling",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:05.887Z",
+          "lastSeenAt": "2026-10-13T11:44:00.972Z",
+          "currentPriceCents": 720,
+          "currentPriceEurCents": 720,
+          "referencePriceCents": 720,
+          "referencePriceEurCents": 720
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Kondomi DARLING Sensitive, 12 kos",
+          "url": "https://www.dm.si/p/d/2407205/you-me-kondomi-darling-sensitive",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:03.751Z",
+          "lastSeenAt": "2026-10-13T11:43:53.796Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        }
+      ]
+    },
+    {
+      "productId": 11106,
+      "brand": "Jordan",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 143.8,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Pasta za zube Junior, 6 – 12 god., više vrsta, 50 ml",
+          "url": "https://www.dm.hr/p/d/2158438/jordan-pasta-za-zube-junior-6-12-god-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:05.887Z",
+          "lastSeenAt": "2026-10-12T17:51:29.335Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Zobna krema za otroke 6-12 let, 50 ml",
+          "url": "https://www.dm.si/p/d/2158438/jordan-zobna-krema-za-otroke-6-12-let",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:19.593Z",
+          "lastSeenAt": "2026-10-12T17:51:25.488Z",
+          "currentPriceCents": 285,
+          "currentPriceEurCents": 285,
+          "referencePriceCents": 285,
+          "referencePriceEurCents": 285
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkrém junior 6 éves kortól, 50 ml",
+          "url": "https://www.dm.hu/p/d/2158438/jordan-fogkrem-junior-6-eves-kortol",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:35.474Z",
+          "lastSeenAt": "2026-10-12T17:51:42.466Z",
+          "currentPriceCents": 43900,
+          "currentPriceEurCents": 121,
+          "referencePriceCents": 43900,
+          "referencePriceEurCents": 121
+        }
+      ]
+    },
+    {
+      "productId": 12130,
+      "brand": "Jordan",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 143.8,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Pasta za zube Kids, 0 – 5 god., više vrsta, 50 ml",
+          "url": "https://www.dm.hr/p/d/2158437/jordan-pasta-za-zube-kids-0-5-god-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:13.032Z",
+          "lastSeenAt": "2026-10-05T17:07:07.902Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Zobna krema za otroke 0-5 let, 50 ml",
+          "url": "https://www.dm.si/p/d/2158437/jordan-zobna-krema-za-otroke-0-5-let",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:48.431Z",
+          "lastSeenAt": "2026-10-05T17:07:12.031Z",
+          "currentPriceCents": 285,
+          "currentPriceEurCents": 285,
+          "referencePriceCents": 285,
+          "referencePriceEurCents": 285
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkrém kids 0-5 éves gyerekeknek, többféle, 50 ml",
+          "url": "https://www.dm.hu/p/d/2158437/jordan-fogkrem-kids-0-5-eves-gyerekeknek-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:32.566Z",
+          "lastSeenAt": "2026-10-05T17:07:29.410Z",
+          "currentPriceCents": 43900,
+          "currentPriceEurCents": 121,
+          "referencePriceCents": 43900,
+          "referencePriceEurCents": 121
+        }
+      ]
+    },
+    {
+      "productId": 448,
+      "brand": "Dontodent PRO+",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 141.23,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Sensitive Complete Care četkica za zube – soft,..., 2 kom.",
+          "url": "https://www.dm.hr/p/d/3042913/dontodent-pro-sensitive-complete-care-cetkica-za-zube-soft-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:44:40.309Z",
+          "lastSeenAt": "2026-09-23T13:37:05.414Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Zobna ščetka za občutljive zobe PRO+, soft, več..., 2 kos",
+          "url": "https://www.dm.si/p/d/3042913/dontodent-pro-zobna-scetka-za-obcutljive-zobe-pro-soft-vec-razlicic",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:48:45.895Z",
+          "lastSeenAt": "2026-09-23T13:37:00.506Z",
+          "currentPriceCents": 230,
+          "currentPriceEurCents": 230,
+          "referencePriceCents": 230,
+          "referencePriceEurCents": 230
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Zahnbürste PRO+ Sensitive Complete Care, soft, 2 St",
+          "url": "https://www.dm.de/p/d/3042913/dontodent-pro-zahnbuerste-pro-sensitive-complete-care-soft",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:33.872Z",
+          "lastSeenAt": "2026-09-23T13:37:18.237Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkefe érzékeny fogakra PRO+, puha, többféle, 2 db",
+          "url": "https://www.dm.hu/p/d/3042913/dontodent-pro-fogkefe-erzekeny-fogakra-pro-puha-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:17.495Z",
+          "lastSeenAt": "2026-09-23T13:37:24.417Z",
+          "currentPriceCents": 41500,
+          "currentPriceEurCents": 114,
+          "referencePriceCents": 41500,
+          "referencePriceEurCents": 114
+        }
+      ]
+    },
+    {
+      "productId": 11889,
+      "brand": "wellaflex",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 136,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Power Hold lak za kosu – snaga učvršćivanja 5, 75 ml",
+          "url": "https://www.dm.hr/p/d/1384113/wellaflex-power-hold-lak-za-kosu-snaga-ucvrscivanja-5",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:10.515Z",
+          "lastSeenAt": "2026-09-24T13:32:02.821Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Haarspray Power Halt Form & Finish, 75 ml",
+          "url": "https://www.dm.at/p/d/1384113/wellaflex-haarspray-power-halt-form-und-finish",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:44.201Z",
+          "lastSeenAt": "2026-09-24T13:32:08.988Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Haarlack Power Hold, Reisegröße, 75 ml",
+          "url": "https://www.dm.de/p/d/1384113/wellaflex-haarlack-power-hold-reisegroesse",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:14.777Z",
+          "lastSeenAt": "2026-09-24T13:32:15.916Z",
+          "currentPriceCents": 125,
+          "currentPriceEurCents": 125,
+          "referencePriceCents": 125,
+          "referencePriceEurCents": 125
         }
       ]
     }

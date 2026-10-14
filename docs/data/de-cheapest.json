@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-13T12:32:02.426Z",
+  "generatedAt": "2026-10-14T09:59:21.069Z",
   "fx": {
-    "asOf": "2026-10-12",
+    "asOf": "2026-10-13",
     "rates": {
-      "USD": 1.1181,
-      "JPY": 177.33,
-      "CZK": 24.391,
-      "DKK": 7.4748,
-      "GBP": 0.84478,
-      "HUF": 365.13,
-      "PLN": 4.385,
-      "RON": 5.337,
-      "SEK": 11.1965,
+      "USD": 1.1188,
+      "JPY": 176.91,
+      "CZK": 24.368,
+      "DKK": 7.4753,
+      "GBP": 0.8446,
+      "HUF": 364.31,
+      "PLN": 4.3768,
+      "RON": 5.3363,
+      "SEK": 11.1698,
       "CHF": 0.9312,
-      "ISK": 136.4,
-      "NOK": 10.6955,
-      "TRY": 55.1635,
-      "AUD": 1.6032,
-      "BRL": 5.5819,
-      "CAD": 1.5946,
-      "CNY": 7.4832,
-      "HKD": 8.7743,
-      "IDR": 20036.18,
-      "ILS": 3.432,
-      "INR": 107.086,
-      "KRW": 1490.53,
-      "MXN": 20.5081,
-      "MYR": 4.5663,
-      "NZD": 1.9968,
-      "PHP": 70.169,
-      "SGD": 1.4314,
-      "THB": 37.585,
-      "ZAR": 18.4945
+      "ISK": 136.2,
+      "NOK": 10.6685,
+      "TRY": 55.2325,
+      "AUD": 1.6033,
+      "BRL": 5.6125,
+      "CAD": 1.5933,
+      "CNY": 7.489,
+      "HKD": 8.7802,
+      "IDR": 20004.87,
+      "ILS": 3.4404,
+      "INR": 106.6,
+      "KRW": 1500.81,
+      "MXN": 20.5126,
+      "MYR": 4.5714,
+      "NZD": 1.9931,
+      "PHP": 70.225,
+      "SGD": 1.4319,
+      "THB": 37.58,
+      "ZAR": 18.4561
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -98,9 +98,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-09-14T15:01:07.257Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 191,
+          "currentPriceEurCents": 192,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 191
+          "referencePriceEurCents": 192
         }
       ]
     },
@@ -156,47 +156,10 @@
       ]
     },
     {
-      "productId": 41748,
-      "brand": "Fascino",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 228.44,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Strumpfhose glänzend powder Gr. 50/52, 15 DEN, 1 St",
-          "url": "https://www.dm.de/p/d/1715182/fascino-strumpfhose-glaenzend-powder-gr-50-52-15-den",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:03:41.837Z",
-          "lastSeenAt": "2026-10-03T19:03:41.837Z",
-          "currentPriceCents": 160,
-          "currentPriceEurCents": 160,
-          "referencePriceCents": 225,
-          "referencePriceEurCents": 225
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fényes harisnyanadrág, púder, 15 den, 50-52, 1 db",
-          "url": "https://www.dm.hu/p/d/1715182/fascino-fenyes-harisnyanadrag-puder-15-den-50-52",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:07.326Z",
-          "lastSeenAt": "2026-09-20T13:02:31.610Z",
-          "currentPriceCents": 269900,
-          "currentPriceEurCents": 739,
-          "referencePriceCents": 269900,
-          "referencePriceEurCents": 739
-        }
-      ]
-    },
-    {
       "productId": 15471,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 228,
+      "overallPercentDiff": 229.33,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -251,9 +214,9 @@
           "observedAt": "2026-09-01T12:31:37.751Z",
           "lastSeenAt": "2026-10-01T15:26:11.718Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 246,
+          "currentPriceEurCents": 247,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 246
+          "referencePriceEurCents": 247
         },
         {
           "countryCode": "HR",
@@ -275,7 +238,7 @@
       "productId": 3966,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 228,
+      "overallPercentDiff": 229.33,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -330,9 +293,46 @@
           "observedAt": "2026-09-01T12:30:17.495Z",
           "lastSeenAt": "2026-10-03T13:21:34.631Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 246,
+          "currentPriceEurCents": 247,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 246
+          "referencePriceEurCents": 247
+        }
+      ]
+    },
+    {
+      "productId": 41748,
+      "brand": "Fascino",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 229.33,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Strumpfhose glänzend powder Gr. 50/52, 15 DEN, 1 St",
+          "url": "https://www.dm.de/p/d/1715182/fascino-strumpfhose-glaenzend-powder-gr-50-52-15-den",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:03:41.837Z",
+          "lastSeenAt": "2026-10-03T19:03:41.837Z",
+          "currentPriceCents": 160,
+          "currentPriceEurCents": 160,
+          "referencePriceCents": 225,
+          "referencePriceEurCents": 225
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fényes harisnyanadrág, púder, 15 den, 50-52, 1 db",
+          "url": "https://www.dm.hu/p/d/1715182/fascino-fenyes-harisnyanadrag-puder-15-den-50-52",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:07.326Z",
+          "lastSeenAt": "2026-09-20T13:02:31.610Z",
+          "currentPriceCents": 269900,
+          "currentPriceEurCents": 741,
+          "referencePriceCents": 269900,
+          "referencePriceEurCents": 741
         }
       ]
     },
@@ -567,9 +567,9 @@
           "observedAt": "2026-09-01T12:33:11.663Z",
           "lastSeenAt": "2026-09-18T12:57:27.712Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 684,
+          "currentPriceEurCents": 686,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 684
+          "referencePriceEurCents": 686
         }
       ]
     },
@@ -614,7 +614,7 @@
       "productId": 48704,
       "brand": "Gabriela Sabatini",
       "isCountryExtreme": true,
-      "overallPercentDiff": 212.48,
+      "overallPercentDiff": 213.15,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -641,9 +641,9 @@
           "observedAt": "2026-09-01T12:31:00.665Z",
           "lastSeenAt": "2026-09-15T13:31:24.654Z",
           "currentPriceCents": 849900,
-          "currentPriceEurCents": 2328,
+          "currentPriceEurCents": 2333,
           "referencePriceCents": 849900,
-          "referencePriceEurCents": 2328
+          "referencePriceEurCents": 2333
         }
       ]
     },
@@ -688,7 +688,7 @@
       "productId": 28910,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 209.03,
+      "overallPercentDiff": 209.68,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -729,9 +729,9 @@
           "observedAt": "2026-09-01T12:30:10.466Z",
           "lastSeenAt": "2026-09-20T13:02:31.610Z",
           "currentPriceCents": 349900,
-          "currentPriceEurCents": 958,
+          "currentPriceEurCents": 960,
           "referencePriceCents": 349900,
-          "referencePriceEurCents": 958
+          "referencePriceEurCents": 960
         }
       ]
     },
@@ -776,7 +776,7 @@
       "productId": 22665,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 207.32,
+      "overallPercentDiff": 207.8,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -831,9 +831,9 @@
           "observedAt": "2026-09-01T12:30:10.466Z",
           "lastSeenAt": "2026-09-17T13:25:33.061Z",
           "currentPriceCents": 229900,
-          "currentPriceEurCents": 630,
+          "currentPriceEurCents": 631,
           "referencePriceCents": 229900,
-          "referencePriceEurCents": 630
+          "referencePriceEurCents": 631
         }
       ]
     },
@@ -929,7 +929,7 @@
       "productId": 3980,
       "brand": "TOM TAILOR",
       "isCountryExtreme": true,
-      "overallPercentDiff": 202.71,
+      "overallPercentDiff": 203.42,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -984,9 +984,9 @@
           "observedAt": "2026-09-01T12:30:19.979Z",
           "lastSeenAt": "2026-09-15T13:31:22.372Z",
           "currentPriceCents": 1099900,
-          "currentPriceEurCents": 3012,
+          "currentPriceEurCents": 3019,
           "referencePriceCents": 1099900,
-          "referencePriceEurCents": 3012
+          "referencePriceEurCents": 3019
         }
       ]
     },
@@ -994,7 +994,7 @@
       "productId": 7985,
       "brand": "TOM TAILOR",
       "isCountryExtreme": true,
-      "overallPercentDiff": 202.71,
+      "overallPercentDiff": 203.42,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1049,9 +1049,9 @@
           "observedAt": "2026-09-01T12:30:22.854Z",
           "lastSeenAt": "2026-09-24T13:32:21.725Z",
           "currentPriceCents": 1099900,
-          "currentPriceEurCents": 3012,
+          "currentPriceEurCents": 3019,
           "referencePriceCents": 1099900,
-          "referencePriceEurCents": 3012
+          "referencePriceEurCents": 3019
         },
         {
           "countryCode": "SI",
@@ -1073,7 +1073,7 @@
       "productId": 14619,
       "brand": "TOM TAILOR",
       "isCountryExtreme": true,
-      "overallPercentDiff": 202.71,
+      "overallPercentDiff": 203.42,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1128,9 +1128,9 @@
           "observedAt": "2026-09-01T12:30:22.854Z",
           "lastSeenAt": "2026-09-19T12:29:08.876Z",
           "currentPriceCents": 1099900,
-          "currentPriceEurCents": 3012,
+          "currentPriceEurCents": 3019,
           "referencePriceCents": 1099900,
-          "referencePriceEurCents": 3012
+          "referencePriceEurCents": 3019
         }
       ]
     },
@@ -1254,7 +1254,7 @@
       "productId": 5135,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 193.85,
+      "overallPercentDiff": 195.38,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1323,9 +1323,9 @@
           "observedAt": "2026-09-01T12:30:55.609Z",
           "lastSeenAt": "2026-09-20T13:02:31.610Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 191,
+          "currentPriceEurCents": 192,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 191
+          "referencePriceEurCents": 192
         }
       ]
     },
@@ -1333,7 +1333,7 @@
       "productId": 5206,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 193.85,
+      "overallPercentDiff": 195.38,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1374,60 +1374,9 @@
           "observedAt": "2026-09-01T12:29:59.422Z",
           "lastSeenAt": "2026-09-25T13:44:12.981Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 191,
+          "currentPriceEurCents": 192,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 191
-        }
-      ]
-    },
-    {
-      "productId": 20591,
-      "brand": "s.Oliver",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 190.45,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Losjon po britju SUPERIOR MEN, 50 ml",
-          "url": "https://www.dm.si/p/d/1284468/s-oliver-losjon-po-britju-superior-men",
-          "isPromo": true,
-          "observedAt": "2026-09-14T15:00:28.882Z",
-          "lastSeenAt": "2026-09-14T15:00:28.882Z",
-          "currentPriceCents": 995,
-          "currentPriceEurCents": 995,
-          "referencePriceCents": 1680,
-          "referencePriceEurCents": 1680
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "After Shave Lotion Superior, 50 ml",
-          "url": "https://www.dm.at/p/d/1284468/s-oliver-after-shave-lotion-superior",
-          "isPromo": true,
-          "observedAt": "2026-09-14T15:00:37.534Z",
-          "lastSeenAt": "2026-09-14T15:00:37.534Z",
-          "currentPriceCents": 1445,
-          "currentPriceEurCents": 1445,
-          "referencePriceCents": 2890,
-          "referencePriceEurCents": 2890
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "After Shave Superior, 50 ml",
-          "url": "https://www.dm.de/p/d/1284468/s-oliver-after-shave-superior",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:16.760Z",
-          "lastSeenAt": "2026-09-14T15:00:56.692Z",
-          "currentPriceCents": 995,
-          "currentPriceEurCents": 995,
-          "referencePriceCents": 995,
-          "referencePriceEurCents": 995
+          "referencePriceEurCents": 192
         }
       ]
     },
@@ -1435,7 +1384,7 @@
       "productId": 3304,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 189.41,
+      "overallPercentDiff": 190.59,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1504,9 +1453,9 @@
           "observedAt": "2026-09-01T12:30:55.609Z",
           "lastSeenAt": "2026-09-20T13:02:31.610Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 246,
+          "currentPriceEurCents": 247,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 246
+          "referencePriceEurCents": 247
         }
       ]
     },
@@ -1514,7 +1463,7 @@
       "productId": 5271,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 189.41,
+      "overallPercentDiff": 190.59,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1583,9 +1532,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-10-11T14:54:15.303Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 246,
+          "currentPriceEurCents": 247,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 246
+          "referencePriceEurCents": 247
         }
       ]
     },
@@ -1593,7 +1542,7 @@
       "productId": 7733,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 189.41,
+      "overallPercentDiff": 190.59,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1662,9 +1611,60 @@
           "observedAt": "2026-09-01T12:31:07.865Z",
           "lastSeenAt": "2026-10-01T15:26:09.549Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 246,
+          "currentPriceEurCents": 247,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 246
+          "referencePriceEurCents": 247
+        }
+      ]
+    },
+    {
+      "productId": 20591,
+      "brand": "s.Oliver",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 190.45,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Losjon po britju SUPERIOR MEN, 50 ml",
+          "url": "https://www.dm.si/p/d/1284468/s-oliver-losjon-po-britju-superior-men",
+          "isPromo": true,
+          "observedAt": "2026-09-14T15:00:28.882Z",
+          "lastSeenAt": "2026-09-14T15:00:28.882Z",
+          "currentPriceCents": 995,
+          "currentPriceEurCents": 995,
+          "referencePriceCents": 1680,
+          "referencePriceEurCents": 1680
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "After Shave Lotion Superior, 50 ml",
+          "url": "https://www.dm.at/p/d/1284468/s-oliver-after-shave-lotion-superior",
+          "isPromo": true,
+          "observedAt": "2026-09-14T15:00:37.534Z",
+          "lastSeenAt": "2026-09-14T15:00:37.534Z",
+          "currentPriceCents": 1445,
+          "currentPriceEurCents": 1445,
+          "referencePriceCents": 2890,
+          "referencePriceEurCents": 2890
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "After Shave Superior, 50 ml",
+          "url": "https://www.dm.de/p/d/1284468/s-oliver-after-shave-superior",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:16.760Z",
+          "lastSeenAt": "2026-09-14T15:00:56.692Z",
+          "currentPriceCents": 995,
+          "currentPriceEurCents": 995,
+          "referencePriceCents": 995,
+          "referencePriceEurCents": 995
         }
       ]
     },
@@ -1672,7 +1672,7 @@
       "productId": 27818,
       "brand": "Finish",
       "isCountryExtreme": true,
-      "overallPercentDiff": 188.73,
+      "overallPercentDiff": 189.45,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1713,9 +1713,9 @@
           "observedAt": "2026-09-01T12:32:40.208Z",
           "lastSeenAt": "2026-10-03T13:21:36.090Z",
           "currentPriceCents": 289900,
-          "currentPriceEurCents": 794,
+          "currentPriceEurCents": 796,
           "referencePriceCents": 289900,
-          "referencePriceEurCents": 794
+          "referencePriceEurCents": 796
         }
       ]
     },
@@ -1799,67 +1799,53 @@
       ]
     },
     {
-      "productId": 17335,
-      "brand": "Denkmit",
+      "productId": 3477,
+      "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 188.42,
+      "overallPercentDiff": 185.6,
       "gapToExtremePercent": 0,
       "countries": [
         {
-          "countryCode": "SI",
-          "shopId": "dm-si",
+          "countryCode": "HR",
+          "shopId": "dm-hr",
           "currency": "EUR",
-          "name": "WC-osvežilec Lemon, 2 kos",
-          "url": "https://www.dm.si/p/d/1678840/denkmit-wc-osvezilec-lemon",
+          "name": "Power Alkaline Micro AAA baterije, 8 kom.",
+          "url": "https://www.dm.hr/p/d/3059759/paradies-power-alkaline-micro-aaa-baterije",
           "isPromo": false,
-          "observedAt": "2026-08-30T22:34:11.741Z",
-          "lastSeenAt": "2026-09-13T13:17:53.392Z",
-          "currentPriceCents": 165,
-          "currentPriceEurCents": 165,
-          "referencePriceCents": 165,
-          "referencePriceEurCents": 165
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "WC-Reiniger Blauspüler 5-fach Power, 2 St",
-          "url": "https://www.dm.at/p/d/1678840/denkmit-wc-reiniger-blauspueler-5-fach-power",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:05.271Z",
-          "lastSeenAt": "2026-09-13T13:18:01.323Z",
-          "currentPriceCents": 115,
-          "currentPriceEurCents": 115,
-          "referencePriceCents": 115,
-          "referencePriceEurCents": 115
+          "observedAt": "2026-08-28T16:06:07.061Z",
+          "lastSeenAt": "2026-10-13T11:44:00.972Z",
+          "currentPriceCents": 160,
+          "currentPriceEurCents": 160,
+          "referencePriceCents": 160,
+          "referencePriceEurCents": 160
         },
         {
           "countryCode": "DE",
           "shopId": "dm-de",
           "currency": "EUR",
-          "name": "WC-Blauspüler Lemon, 2 St",
-          "url": "https://www.dm.de/p/d/1678840/denkmit-wc-blauspueler-lemon",
+          "name": "Batterien Power Micro AAA, 8 St",
+          "url": "https://www.dm.de/p/d/3059759/paradies-batterien-power-micro-aaa",
           "isPromo": false,
-          "observedAt": "2026-08-31T20:43:09.706Z",
-          "lastSeenAt": "2026-09-13T13:18:14.365Z",
-          "currentPriceCents": 95,
-          "currentPriceEurCents": 95,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
+          "observedAt": "2026-08-31T20:44:36.189Z",
+          "lastSeenAt": "2026-10-13T11:44:11.577Z",
+          "currentPriceCents": 125,
+          "currentPriceEurCents": 125,
+          "referencePriceCents": 125,
+          "referencePriceEurCents": 125
         },
         {
           "countryCode": "HU",
           "shopId": "dm-hu",
           "currency": "HUF",
-          "name": "WC-öblítő rúd Lemon, kék vízszínezővel, kosárral, 2 db",
-          "url": "https://www.dm.hu/p/d/1678840/denkmit-wc-oblito-rud-lemon-kek-vizszinezovel-kosarral",
+          "name": "Alkáli ceruzaelem AAA, LR 03 Micro, 1,5 V, 8 db",
+          "url": "https://www.dm.hu/p/d/3059759/paradies-alkali-ceruzaelem-aaa-lr-03-micro-1-5-v",
           "isPromo": false,
-          "observedAt": "2026-09-01T12:31:32.921Z",
-          "lastSeenAt": "2026-09-13T13:18:22.482Z",
-          "currentPriceCents": 99900,
-          "currentPriceEurCents": 274,
-          "referencePriceCents": 99900,
-          "referencePriceEurCents": 274
+          "observedAt": "2026-09-01T12:32:47.738Z",
+          "lastSeenAt": "2026-10-13T11:44:16.827Z",
+          "currentPriceCents": 129900,
+          "currentPriceEurCents": 357,
+          "referencePriceCents": 129900,
+          "referencePriceEurCents": 357
         }
       ]
     }

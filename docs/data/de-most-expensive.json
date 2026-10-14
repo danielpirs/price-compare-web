@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-13T12:32:02.426Z",
+  "generatedAt": "2026-10-14T09:59:21.069Z",
   "fx": {
-    "asOf": "2026-10-12",
+    "asOf": "2026-10-13",
     "rates": {
-      "USD": 1.1181,
-      "JPY": 177.33,
-      "CZK": 24.391,
-      "DKK": 7.4748,
-      "GBP": 0.84478,
-      "HUF": 365.13,
-      "PLN": 4.385,
-      "RON": 5.337,
-      "SEK": 11.1965,
+      "USD": 1.1188,
+      "JPY": 176.91,
+      "CZK": 24.368,
+      "DKK": 7.4753,
+      "GBP": 0.8446,
+      "HUF": 364.31,
+      "PLN": 4.3768,
+      "RON": 5.3363,
+      "SEK": 11.1698,
       "CHF": 0.9312,
-      "ISK": 136.4,
-      "NOK": 10.6955,
-      "TRY": 55.1635,
-      "AUD": 1.6032,
-      "BRL": 5.5819,
-      "CAD": 1.5946,
-      "CNY": 7.4832,
-      "HKD": 8.7743,
-      "IDR": 20036.18,
-      "ILS": 3.432,
-      "INR": 107.086,
-      "KRW": 1490.53,
-      "MXN": 20.5081,
-      "MYR": 4.5663,
-      "NZD": 1.9968,
-      "PHP": 70.169,
-      "SGD": 1.4314,
-      "THB": 37.585,
-      "ZAR": 18.4945
+      "ISK": 136.2,
+      "NOK": 10.6685,
+      "TRY": 55.2325,
+      "AUD": 1.6033,
+      "BRL": 5.6125,
+      "CAD": 1.5933,
+      "CNY": 7.489,
+      "HKD": 8.7802,
+      "IDR": 20004.87,
+      "ILS": 3.4404,
+      "INR": 106.6,
+      "KRW": 1500.81,
+      "MXN": 20.5126,
+      "MYR": 4.5714,
+      "NZD": 1.9931,
+      "PHP": 70.225,
+      "SGD": 1.4319,
+      "THB": 37.58,
+      "ZAR": 18.4561
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -39,94 +39,6 @@
   "countryCode": "DE",
   "kind": "most-expensive",
   "items": [
-    {
-      "productId": 49239,
-      "brand": "alverde NATURKOSMETIK",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 407.35,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Nagellack Color & Care Nail Polish 50 Coral Red, 10 ml",
-          "url": "https://www.dm.de/p/d/1344174/alverde-naturkosmetik-nagellack-color-und-care-nail-polish-50-coral-red",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:03:39.249Z",
-          "lastSeenAt": "2026-10-03T19:03:39.249Z",
-          "currentPriceCents": 175,
-          "currentPriceEurCents": 175,
-          "referencePriceCents": 345,
-          "referencePriceEurCents": 345
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Körömlakk Color & Care,  50 Coral Red, 10 ml",
-          "url": "https://www.dm.hu/p/d/1344174/alverde-naturkosmetik-koromlakk-color-care-50-coral-red",
-          "isPromo": true,
-          "observedAt": "2026-09-13T13:18:22.482Z",
-          "lastSeenAt": "2026-09-13T13:18:22.482Z",
-          "currentPriceCents": 9900,
-          "currentPriceEurCents": 27,
-          "referencePriceCents": 24900,
-          "referencePriceEurCents": 68
-        }
-      ]
-    },
-    {
-      "productId": 18533,
-      "brand": "alverde NATURKOSMETIK",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 188.32,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Maskara Bye Bye Short Lashes, 14 ml",
-          "url": "https://www.dm.si/p/d/2485861/alverde-naturkosmetik-maskara-bye-bye-short-lashes",
-          "isPromo": true,
-          "observedAt": "2026-09-13T13:17:53.392Z",
-          "lastSeenAt": "2026-09-13T13:17:53.392Z",
-          "currentPriceCents": 99,
-          "currentPriceEurCents": 99,
-          "referencePriceCents": 299,
-          "referencePriceEurCents": 299
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Mascara Bye Bye Short Lashes Schwarz, 14 ml",
-          "url": "https://www.dm.de/p/d/2485861/alverde-naturkosmetik-mascara-bye-bye-short-lashes-schwarz",
-          "isPromo": true,
-          "observedAt": "2026-09-13T13:18:16.562Z",
-          "lastSeenAt": "2026-09-13T13:18:16.562Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fekete szempillaspirál Bye Bye Short Lashes",
-          "url": "https://www.dm.hu/p/d/2485861/alverde-naturkosmetik-fekete-szempillaspiral-bye-bye-short-lashes",
-          "isPromo": true,
-          "observedAt": "2026-09-13T13:18:22.482Z",
-          "lastSeenAt": "2026-09-13T13:18:22.482Z",
-          "currentPriceCents": 24900,
-          "currentPriceEurCents": 68,
-          "referencePriceCents": 49900,
-          "referencePriceEurCents": 137
-        }
-      ]
-    },
     {
       "productId": 2079,
       "brand": "Profissimo",
@@ -298,7 +210,7 @@
       "productId": 54274,
       "brand": "Cosrx",
       "isCountryExtreme": true,
-      "overallPercentDiff": 146.5,
+      "overallPercentDiff": 145.74,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -325,9 +237,9 @@
           "observedAt": "2026-10-03T19:06:07.103Z",
           "lastSeenAt": "2026-10-03T19:06:07.103Z",
           "currentPriceCents": 109900,
-          "currentPriceEurCents": 301,
+          "currentPriceEurCents": 302,
           "referencePriceCents": 234900,
-          "referencePriceEurCents": 643
+          "referencePriceEurCents": 645
         }
       ]
     },
@@ -409,7 +321,7 @@
       "productId": 3575,
       "brand": "Visiomax",
       "isCountryExtreme": true,
-      "overallPercentDiff": 124.74,
+      "overallPercentDiff": 123.96,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -464,9 +376,9 @@
           "observedAt": "2026-09-01T12:30:07.326Z",
           "lastSeenAt": "2026-09-19T12:29:08.876Z",
           "currentPriceCents": 104900,
-          "currentPriceEurCents": 287,
+          "currentPriceEurCents": 288,
           "referencePriceCents": 104900,
-          "referencePriceEurCents": 287
+          "referencePriceEurCents": 288
         }
       ]
     },
@@ -501,7 +413,7 @@
           "observedAt": "2026-10-03T19:06:13.313Z",
           "lastSeenAt": "2026-10-03T19:06:13.313Z",
           "currentPriceCents": 54900,
-          "currentPriceEurCents": 150,
+          "currentPriceEurCents": 151,
           "referencePriceCents": 114900,
           "referencePriceEurCents": 315
         }
@@ -614,7 +526,7 @@
           "currentPriceCents": 29900,
           "currentPriceEurCents": 82,
           "referencePriceCents": 39900,
-          "referencePriceEurCents": 109
+          "referencePriceEurCents": 110
         },
         {
           "countryCode": "DE",
@@ -840,7 +752,7 @@
       "productId": 13581,
       "brand": "MAYBELLINE NEW YORK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 103.95,
+      "overallPercentDiff": 103.35,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -895,9 +807,9 @@
           "observedAt": "2026-10-03T19:06:10.259Z",
           "lastSeenAt": "2026-10-03T19:06:10.259Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 493,
+          "currentPriceEurCents": 494,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 684
+          "referencePriceEurCents": 686
         }
       ]
     },
@@ -905,7 +817,7 @@
       "productId": 20232,
       "brand": "MAYBELLINE NEW YORK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 103.95,
+      "overallPercentDiff": 103.35,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -960,9 +872,9 @@
           "observedAt": "2026-10-03T19:06:10.259Z",
           "lastSeenAt": "2026-10-03T19:06:10.259Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 493,
+          "currentPriceEurCents": 494,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 684
+          "referencePriceEurCents": 686
         }
       ]
     },
@@ -1025,9 +937,9 @@
           "observedAt": "2026-09-01T12:31:32.921Z",
           "lastSeenAt": "2026-10-06T11:14:44.822Z",
           "currentPriceCents": 109900,
-          "currentPriceEurCents": 301,
+          "currentPriceEurCents": 302,
           "referencePriceCents": 109900,
-          "referencePriceEurCents": 301
+          "referencePriceEurCents": 302
         }
       ]
     },
@@ -1160,7 +1072,7 @@
       "productId": 22043,
       "brand": "CATRICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 96.34,
+      "overallPercentDiff": 95.31,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1203,7 +1115,7 @@
           "currentPriceCents": 49900,
           "currentPriceEurCents": 137,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 191
+          "referencePriceEurCents": 192
         }
       ]
     },
@@ -1340,7 +1252,7 @@
           "observedAt": "2026-10-03T19:06:07.103Z",
           "lastSeenAt": "2026-10-03T19:06:07.103Z",
           "currentPriceCents": 39900,
-          "currentPriceEurCents": 109,
+          "currentPriceEurCents": 110,
           "referencePriceCents": 59900,
           "referencePriceEurCents": 164
         }
@@ -1391,7 +1303,7 @@
           "observedAt": "2026-10-03T19:06:07.103Z",
           "lastSeenAt": "2026-10-03T19:06:07.103Z",
           "currentPriceCents": 39900,
-          "currentPriceEurCents": 109,
+          "currentPriceEurCents": 110,
           "referencePriceCents": 59900,
           "referencePriceEurCents": 164
         }
@@ -1444,7 +1356,7 @@
           "currentPriceCents": 59900,
           "currentPriceEurCents": 164,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 191
+          "referencePriceEurCents": 192
         }
       ]
     },
@@ -1495,7 +1407,95 @@
           "currentPriceCents": 59900,
           "currentPriceEurCents": 164,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 191
+          "referencePriceEurCents": 192
+        }
+      ]
+    },
+    {
+      "productId": 21038,
+      "brand": "HALLOHEBAMME",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 90.32,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Kremni gel za tuširanje 3 v 1, 200 ml",
+          "url": "https://www.dm.si/p/d/2486106/hallohebamme-kremni-gel-za-tusiranje-3-v-1",
+          "isPromo": true,
+          "observedAt": "2026-09-14T15:00:28.882Z",
+          "lastSeenAt": "2026-09-14T15:00:28.882Z",
+          "currentPriceCents": 45,
+          "currentPriceEurCents": 45,
+          "referencePriceCents": 155,
+          "referencePriceEurCents": 155
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Duschcreme 3in1, 200 ml",
+          "url": "https://www.dm.de/p/d/2486106/hallohebamme-duschcreme-3in1",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:18.143Z",
+          "lastSeenAt": "2026-09-14T15:00:47.586Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "3in1 krémes tusfürdő, 200 ml",
+          "url": "https://www.dm.hu/p/d/2486106/hallohebamme-3in1-kremes-tusfurdo",
+          "isPromo": true,
+          "observedAt": "2026-09-14T15:01:07.257Z",
+          "lastSeenAt": "2026-09-14T15:01:07.257Z",
+          "currentPriceCents": 39900,
+          "currentPriceEurCents": 110,
+          "referencePriceCents": 82900,
+          "referencePriceEurCents": 228
+        }
+      ]
+    },
+    {
+      "productId": 21249,
+      "brand": "essence",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 90.32,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Balzam za ustnice in lica Juicy Berry, 3 g",
+          "url": "https://www.dm.si/p/d/3044462/essence-balzam-za-ustnice-in-lica-juicy-berry",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:30.185Z",
+          "lastSeenAt": "2026-10-03T19:13:30.185Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 155,
+          "referencePriceEurCents": 155
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Lippenbalsam Juicy Berry Tinted Lip & Cheek Balm, 3 g",
+          "url": "https://www.dm.de/p/d/3044462/essence-lippenbalsam-juicy-berry-tinted-lip-und-cheek-balm",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:29.975Z",
+          "lastSeenAt": "2026-09-16T13:29:32.822Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
         }
       ]
     }
