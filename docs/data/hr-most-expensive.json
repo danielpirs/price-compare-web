@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-14T09:59:21.069Z",
+  "generatedAt": "2026-10-15T09:41:09.600Z",
   "fx": {
-    "asOf": "2026-10-13",
+    "asOf": "2026-10-14",
     "rates": {
-      "USD": 1.1188,
-      "JPY": 176.91,
-      "CZK": 24.368,
-      "DKK": 7.4753,
-      "GBP": 0.8446,
-      "HUF": 364.31,
-      "PLN": 4.3768,
-      "RON": 5.3363,
-      "SEK": 11.1698,
-      "CHF": 0.9312,
-      "ISK": 136.2,
-      "NOK": 10.6685,
-      "TRY": 55.2325,
-      "AUD": 1.6033,
-      "BRL": 5.6125,
-      "CAD": 1.5933,
-      "CNY": 7.489,
-      "HKD": 8.7802,
-      "IDR": 20004.87,
-      "ILS": 3.4404,
-      "INR": 106.6,
-      "KRW": 1500.81,
-      "MXN": 20.5126,
-      "MYR": 4.5714,
-      "NZD": 1.9931,
-      "PHP": 70.225,
-      "SGD": 1.4319,
-      "THB": 37.58,
-      "ZAR": 18.4561
+      "USD": 1.1195,
+      "JPY": 177.39,
+      "CZK": 24.357,
+      "DKK": 7.4754,
+      "GBP": 0.84385,
+      "HUF": 363.3,
+      "PLN": 4.3658,
+      "RON": 5.3442,
+      "SEK": 11.158,
+      "CHF": 0.933,
+      "ISK": 136.4,
+      "NOK": 10.6035,
+      "TRY": 55.2921,
+      "AUD": 1.5971,
+      "BRL": 5.6246,
+      "CAD": 1.5918,
+      "CNY": 7.4925,
+      "HKD": 8.7859,
+      "IDR": 20062.67,
+      "ILS": 3.4443,
+      "INR": 106.5283,
+      "KRW": 1496.54,
+      "MXN": 20.56,
+      "MYR": 4.5704,
+      "NZD": 1.9941,
+      "PHP": 70.393,
+      "SGD": 1.4359,
+      "THB": 37.587,
+      "ZAR": 18.4382
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -121,9 +121,9 @@
           "observedAt": "2026-09-01T12:30:41.384Z",
           "lastSeenAt": "2026-09-21T15:05:41.766Z",
           "currentPriceCents": 100900,
-          "currentPriceEurCents": 277,
+          "currentPriceEurCents": 278,
           "referencePriceCents": 100900,
-          "referencePriceEurCents": 277
+          "referencePriceEurCents": 278
         }
       ]
     },
@@ -131,7 +131,7 @@
       "productId": 9740,
       "brand": "Moschino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 256.41,
+      "overallPercentDiff": 255.38,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -172,9 +172,9 @@
           "observedAt": "2026-10-03T19:06:11.832Z",
           "lastSeenAt": "2026-10-03T19:06:11.832Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 686,
+          "currentPriceEurCents": 688,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1372
+          "referencePriceEurCents": 1376
         }
       ]
     },
@@ -302,9 +302,9 @@
           "observedAt": "2026-09-01T12:33:11.663Z",
           "lastSeenAt": "2026-09-18T12:57:27.712Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 686,
+          "currentPriceEurCents": 688,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 686
+          "referencePriceEurCents": 688
         }
       ]
     },
@@ -464,9 +464,9 @@
           "observedAt": "2026-09-01T12:31:28.672Z",
           "lastSeenAt": "2026-09-20T13:02:34.583Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 494,
+          "currentPriceEurCents": 495,
           "referencePriceCents": 179900,
-          "referencePriceEurCents": 494
+          "referencePriceEurCents": 495
         }
       ]
     },
@@ -576,7 +576,7 @@
       "productId": 10118,
       "brand": "Dove MEN+CARE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 171.34,
+      "overallPercentDiff": 169.7,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -619,7 +619,7 @@
           "currentPriceCents": 29900,
           "currentPriceEurCents": 82,
           "referencePriceCents": 59900,
-          "referencePriceEurCents": 164
+          "referencePriceEurCents": 165
         }
       ]
     },
@@ -664,7 +664,7 @@
       "productId": 15006,
       "brand": "NIVEA",
       "isCountryExtreme": true,
-      "overallPercentDiff": 167.61,
+      "overallPercentDiff": 165.73,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -721,7 +721,7 @@
           "currentPriceCents": 25900,
           "currentPriceEurCents": 71,
           "referencePriceCents": 51900,
-          "referencePriceEurCents": 142
+          "referencePriceEurCents": 143
         }
       ]
     },
@@ -729,7 +729,7 @@
       "productId": 3907,
       "brand": "COREGA",
       "isCountryExtreme": true,
-      "overallPercentDiff": 158.45,
+      "overallPercentDiff": 157.58,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -772,7 +772,7 @@
           "currentPriceCents": 49900,
           "currentPriceEurCents": 137,
           "referencePriceCents": 107900,
-          "referencePriceEurCents": 296
+          "referencePriceEurCents": 297
         }
       ]
     },
@@ -979,7 +979,7 @@
       "productId": 2493,
       "brand": "FERRAGAMO",
       "isCountryExtreme": true,
-      "overallPercentDiff": 150.61,
+      "overallPercentDiff": 149.9,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1020,9 +1020,9 @@
           "observedAt": "2026-10-03T19:06:10.259Z",
           "lastSeenAt": "2026-10-03T19:06:10.259Z",
           "currentPriceCents": 449900,
-          "currentPriceEurCents": 1235,
+          "currentPriceEurCents": 1238,
           "referencePriceCents": 899900,
-          "referencePriceEurCents": 2470
+          "referencePriceEurCents": 2477
         }
       ]
     },
@@ -1030,7 +1030,7 @@
       "productId": 6048,
       "brand": "Signal",
       "isCountryExtreme": true,
-      "overallPercentDiff": 147.92,
+      "overallPercentDiff": 146.89,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1057,88 +1057,9 @@
           "observedAt": "2026-09-01T12:32:07.099Z",
           "lastSeenAt": "2026-09-15T13:31:24.654Z",
           "currentPriceCents": 87500,
-          "currentPriceEurCents": 240,
+          "currentPriceEurCents": 241,
           "referencePriceCents": 87500,
-          "referencePriceEurCents": 240
-        }
-      ]
-    },
-    {
-      "productId": 2245,
-      "brand": "Dontodent PRO+",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 145.54,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Četkica za zube – soft, više vrsta, 2 kom.",
-          "url": "https://www.dm.hr/p/d/3042915/dontodent-pro-cetkica-za-zube-soft-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:57:35.873Z",
-          "lastSeenAt": "2026-09-17T13:25:06.330Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Zobna ščetka za krepitev in zaščito dlesni PRO+,..., 2 kos",
-          "url": "https://www.dm.si/p/d/3042915/dontodent-pro-zobna-scetka-za-krepitev-in-zascito-dlesni-pro-soft-vec-razlicic",
-          "isPromo": false,
-          "observedAt": "2026-08-30T21:47:45.469Z",
-          "lastSeenAt": "2026-09-17T13:24:59.356Z",
-          "currentPriceCents": 230,
-          "currentPriceEurCents": 230,
-          "referencePriceCents": 230,
-          "referencePriceEurCents": 230
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Zahnbürste Pro+ Sensitive Complete Care weich..., 2 St",
-          "url": "https://www.dm.at/p/d/3042915/dontodent-pro-zahnbuerste-pro-sensitive-complete-care-weich-sortiert",
-          "isPromo": false,
-          "observedAt": "2026-08-30T21:47:47.920Z",
-          "lastSeenAt": "2026-09-17T13:25:12.258Z",
-          "currentPriceCents": 245,
-          "currentPriceEurCents": 245,
-          "referencePriceCents": 245,
-          "referencePriceEurCents": 245
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Zahnbürste PRO+ Zahnfleischschutz & Stärkung weich, 2 St",
-          "url": "https://www.dm.de/p/d/3042915/dontodent-pro-zahnbuerste-pro-zahnfleischschutz-und-staerkung-weich",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:11.101Z",
-          "lastSeenAt": "2026-09-17T13:25:25.489Z",
-          "currentPriceCents": 245,
-          "currentPriceEurCents": 245,
-          "referencePriceCents": 245,
-          "referencePriceEurCents": 245
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Ínyvédő és erősítő fogkefe PRO+, puha, többféle, 2 db",
-          "url": "https://www.dm.hu/p/d/3042915/dontodent-pro-inyvedo-es-erosito-fogkefe-pro-puha-tobbfele",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:29:46.464Z",
-          "lastSeenAt": "2026-09-17T13:25:33.061Z",
-          "currentPriceCents": 40900,
-          "currentPriceEurCents": 112,
-          "referencePriceCents": 40900,
-          "referencePriceEurCents": 112
+          "referencePriceEurCents": 241
         }
       ]
     },
@@ -1194,7 +1115,7 @@
           "url": "https://www.dm.hr/p/d/2406577/you-me-lubricated-prezervativi",
           "isPromo": false,
           "observedAt": "2026-08-30T22:33:05.887Z",
-          "lastSeenAt": "2026-09-14T15:00:19.160Z",
+          "lastSeenAt": "2026-10-14T13:40:56.462Z",
           "currentPriceCents": 720,
           "currentPriceEurCents": 720,
           "referencePriceCents": 720,
@@ -1208,7 +1129,7 @@
           "url": "https://www.dm.si/p/d/2406577/you-me-kondomi-romeo-z-dodanim-lubrikantom",
           "isPromo": false,
           "observedAt": "2026-08-30T22:34:03.751Z",
-          "lastSeenAt": "2026-09-14T15:00:28.882Z",
+          "lastSeenAt": "2026-10-14T13:41:01.971Z",
           "currentPriceCents": 295,
           "currentPriceEurCents": 295,
           "referencePriceCents": 295,
@@ -1352,6 +1273,85 @@
           "currentPriceEurCents": 121,
           "referencePriceCents": 43900,
           "referencePriceEurCents": 121
+        }
+      ]
+    },
+    {
+      "productId": 2245,
+      "brand": "Dontodent PRO+",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 143.36,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Četkica za zube – soft, više vrsta, 2 kom.",
+          "url": "https://www.dm.hr/p/d/3042915/dontodent-pro-cetkica-za-zube-soft-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:57:35.873Z",
+          "lastSeenAt": "2026-09-17T13:25:06.330Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Zobna ščetka za krepitev in zaščito dlesni PRO+,..., 2 kos",
+          "url": "https://www.dm.si/p/d/3042915/dontodent-pro-zobna-scetka-za-krepitev-in-zascito-dlesni-pro-soft-vec-razlicic",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:45.469Z",
+          "lastSeenAt": "2026-09-17T13:24:59.356Z",
+          "currentPriceCents": 230,
+          "currentPriceEurCents": 230,
+          "referencePriceCents": 230,
+          "referencePriceEurCents": 230
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Zahnbürste Pro+ Sensitive Complete Care weich..., 2 St",
+          "url": "https://www.dm.at/p/d/3042915/dontodent-pro-zahnbuerste-pro-sensitive-complete-care-weich-sortiert",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:47.920Z",
+          "lastSeenAt": "2026-09-17T13:25:12.258Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Zahnbürste PRO+ Zahnfleischschutz & Stärkung weich, 2 St",
+          "url": "https://www.dm.de/p/d/3042915/dontodent-pro-zahnbuerste-pro-zahnfleischschutz-und-staerkung-weich",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:11.101Z",
+          "lastSeenAt": "2026-09-17T13:25:25.489Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Ínyvédő és erősítő fogkefe PRO+, puha, többféle, 2 db",
+          "url": "https://www.dm.hu/p/d/3042915/dontodent-pro-inyvedo-es-erosito-fogkefe-pro-puha-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:29:46.464Z",
+          "lastSeenAt": "2026-09-17T13:25:33.061Z",
+          "currentPriceCents": 40900,
+          "currentPriceEurCents": 113,
+          "referencePriceCents": 40900,
+          "referencePriceEurCents": 113
         }
       ]
     },

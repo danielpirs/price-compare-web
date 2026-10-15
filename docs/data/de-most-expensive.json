@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-14T09:59:21.069Z",
+  "generatedAt": "2026-10-15T09:41:09.600Z",
   "fx": {
-    "asOf": "2026-10-13",
+    "asOf": "2026-10-14",
     "rates": {
-      "USD": 1.1188,
-      "JPY": 176.91,
-      "CZK": 24.368,
-      "DKK": 7.4753,
-      "GBP": 0.8446,
-      "HUF": 364.31,
-      "PLN": 4.3768,
-      "RON": 5.3363,
-      "SEK": 11.1698,
-      "CHF": 0.9312,
-      "ISK": 136.2,
-      "NOK": 10.6685,
-      "TRY": 55.2325,
-      "AUD": 1.6033,
-      "BRL": 5.6125,
-      "CAD": 1.5933,
-      "CNY": 7.489,
-      "HKD": 8.7802,
-      "IDR": 20004.87,
-      "ILS": 3.4404,
-      "INR": 106.6,
-      "KRW": 1500.81,
-      "MXN": 20.5126,
-      "MYR": 4.5714,
-      "NZD": 1.9931,
-      "PHP": 70.225,
-      "SGD": 1.4319,
-      "THB": 37.58,
-      "ZAR": 18.4561
+      "USD": 1.1195,
+      "JPY": 177.39,
+      "CZK": 24.357,
+      "DKK": 7.4754,
+      "GBP": 0.84385,
+      "HUF": 363.3,
+      "PLN": 4.3658,
+      "RON": 5.3442,
+      "SEK": 11.158,
+      "CHF": 0.933,
+      "ISK": 136.4,
+      "NOK": 10.6035,
+      "TRY": 55.2921,
+      "AUD": 1.5971,
+      "BRL": 5.6246,
+      "CAD": 1.5918,
+      "CNY": 7.4925,
+      "HKD": 8.7859,
+      "IDR": 20062.67,
+      "ILS": 3.4443,
+      "INR": 106.5283,
+      "KRW": 1496.54,
+      "MXN": 20.56,
+      "MYR": 4.5704,
+      "NZD": 1.9941,
+      "PHP": 70.393,
+      "SGD": 1.4359,
+      "THB": 37.587,
+      "ZAR": 18.4382
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -91,85 +91,6 @@
       ]
     },
     {
-      "productId": 4031,
-      "brand": "Borotalco",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 166.47,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Soft deo roll-on, 50 ml",
-          "url": "https://www.dm.hr/p/d/1914783/borotalco-soft-deo-roll-on",
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:10:02.388Z",
-          "lastSeenAt": "2026-09-14T15:00:19.160Z",
-          "currentPriceCents": 270,
-          "currentPriceEurCents": 270,
-          "referencePriceCents": 270,
-          "referencePriceEurCents": 270
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Roll on deodorant Soft, 50 ml",
-          "url": "https://www.dm.si/p/d/1914783/borotalco-roll-on-deodorant-soft",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:42.628Z",
-          "lastSeenAt": "2026-09-14T15:00:26.651Z",
-          "currentPriceCents": 410,
-          "currentPriceEurCents": 410,
-          "referencePriceCents": 410,
-          "referencePriceEurCents": 410
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Antitranspirant Roll-On Soft, 50 ml",
-          "url": "https://www.dm.at/p/d/1914783/borotalco-antitranspirant-roll-on-soft",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:52.153Z",
-          "lastSeenAt": "2026-09-14T15:00:33.087Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Deo Roll-on Soft Flower, 50 ml",
-          "url": "https://www.dm.de/p/d/1914783/borotalco-deo-roll-on-soft-flower",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:11.679Z",
-          "lastSeenAt": "2026-09-14T15:00:56.692Z",
-          "currentPriceCents": 445,
-          "currentPriceEurCents": 445,
-          "referencePriceCents": 445,
-          "referencePriceEurCents": 445
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Deo roll-on Soft Pink, 50 ml",
-          "url": "https://www.dm.hu/p/d/1914783/borotalco-deo-roll-on-soft-pink",
-          "isPromo": true,
-          "observedAt": "2026-09-14T15:01:07.257Z",
-          "lastSeenAt": "2026-09-14T15:01:07.257Z",
-          "currentPriceCents": 29900,
-          "currentPriceEurCents": 82,
-          "referencePriceCents": 60900,
-          "referencePriceEurCents": 167
-        }
-      ]
-    },
-    {
       "productId": 26903,
       "brand": "Swirl",
       "isCountryExtreme": true,
@@ -210,7 +131,7 @@
       "productId": 54274,
       "brand": "Cosrx",
       "isCountryExtreme": true,
-      "overallPercentDiff": 145.74,
+      "overallPercentDiff": 144.98,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -237,9 +158,9 @@
           "observedAt": "2026-10-03T19:06:07.103Z",
           "lastSeenAt": "2026-10-03T19:06:07.103Z",
           "currentPriceCents": 109900,
-          "currentPriceEurCents": 302,
+          "currentPriceEurCents": 303,
           "referencePriceCents": 234900,
-          "referencePriceEurCents": 645
+          "referencePriceEurCents": 647
         }
       ]
     },
@@ -321,7 +242,7 @@
       "productId": 3575,
       "brand": "Visiomax",
       "isCountryExtreme": true,
-      "overallPercentDiff": 123.96,
+      "overallPercentDiff": 123.18,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -376,9 +297,9 @@
           "observedAt": "2026-09-01T12:30:07.326Z",
           "lastSeenAt": "2026-09-19T12:29:08.876Z",
           "currentPriceCents": 104900,
-          "currentPriceEurCents": 288,
+          "currentPriceEurCents": 289,
           "referencePriceCents": 104900,
-          "referencePriceEurCents": 288
+          "referencePriceEurCents": 289
         }
       ]
     },
@@ -386,7 +307,7 @@
       "productId": 47668,
       "brand": "Bondi Sands",
       "isCountryExtreme": true,
-      "overallPercentDiff": 120.63,
+      "overallPercentDiff": 119.94,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -415,7 +336,7 @@
           "currentPriceCents": 54900,
           "currentPriceEurCents": 151,
           "referencePriceCents": 114900,
-          "referencePriceEurCents": 315
+          "referencePriceEurCents": 316
         }
       ]
     },
@@ -453,94 +374,6 @@
           "currentPriceEurCents": 1095,
           "referencePriceCents": 1095,
           "referencePriceEurCents": 1095
-        }
-      ]
-    },
-    {
-      "productId": 21441,
-      "brand": "Denkmit",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 106.25,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Večnamensko čistilo, 500 ml",
-          "url": "https://www.dm.si/p/d/2477856/denkmit-vecnamensko-cistilo",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:49.733Z",
-          "lastSeenAt": "2026-09-14T15:00:31.364Z",
-          "currentPriceCents": 80,
-          "currentPriceEurCents": 80,
-          "referencePriceCents": 80,
-          "referencePriceEurCents": 80
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Allzweckreiniger Spray Natron Meeresmineralien, 500 ml",
-          "url": "https://www.dm.de/p/d/2477856/denkmit-allzweckreiniger-spray-natron-meeresmineralien",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:54.335Z",
-          "lastSeenAt": "2026-09-14T15:00:56.692Z",
-          "currentPriceCents": 165,
-          "currentPriceEurCents": 165,
-          "referencePriceCents": 165,
-          "referencePriceEurCents": 165
-        }
-      ]
-    },
-    {
-      "productId": 22010,
-      "brand": "essence",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 105.88,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Gel lak za nohte, 70 fairy FLOSS, 8 ml",
-          "url": "https://www.dm.si/p/d/1425612/essence-gel-lak-za-nohte-70-fairy-floss",
-          "isPromo": true,
-          "observedAt": "2026-09-14T15:00:31.364Z",
-          "lastSeenAt": "2026-09-14T15:00:31.364Z",
-          "currentPriceCents": 50,
-          "currentPriceEurCents": 50,
-          "referencePriceCents": 85,
-          "referencePriceEurCents": 85
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Körömlakk gél - Nr. 70 Fairy FLoss, 8 ml",
-          "url": "https://www.dm.hu/p/d/1425612/essence-koromlakk-gel-nr-70-fairy-floss",
-          "isPromo": true,
-          "observedAt": "2026-09-14T15:01:10.266Z",
-          "lastSeenAt": "2026-09-14T15:01:10.266Z",
-          "currentPriceCents": 29900,
-          "currentPriceEurCents": 82,
-          "referencePriceCents": 39900,
-          "referencePriceEurCents": 110
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Gel Nagellack 70 Light Rose, 8 ml",
-          "url": "https://www.dm.de/p/d/1425612/essence-gel-nagellack-70-light-rose",
-          "isPromo": true,
-          "observedAt": "2026-09-14T15:00:47.586Z",
-          "lastSeenAt": "2026-09-14T15:00:47.586Z",
-          "currentPriceCents": 95,
-          "currentPriceEurCents": 95,
-          "referencePriceCents": 175,
-          "referencePriceEurCents": 175
         }
       ]
     },
@@ -752,7 +585,7 @@
       "productId": 13581,
       "brand": "MAYBELLINE NEW YORK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 103.35,
+      "overallPercentDiff": 102.76,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -807,9 +640,9 @@
           "observedAt": "2026-10-03T19:06:10.259Z",
           "lastSeenAt": "2026-10-03T19:06:10.259Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 494,
+          "currentPriceEurCents": 495,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 686
+          "referencePriceEurCents": 688
         }
       ]
     },
@@ -817,7 +650,7 @@
       "productId": 20232,
       "brand": "MAYBELLINE NEW YORK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 103.35,
+      "overallPercentDiff": 102.76,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -872,9 +705,9 @@
           "observedAt": "2026-10-03T19:06:10.259Z",
           "lastSeenAt": "2026-10-03T19:06:10.259Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 494,
+          "currentPriceEurCents": 495,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 686
+          "referencePriceEurCents": 688
         }
       ]
     },
@@ -937,9 +770,9 @@
           "observedAt": "2026-09-01T12:31:32.921Z",
           "lastSeenAt": "2026-10-06T11:14:44.822Z",
           "currentPriceCents": 109900,
-          "currentPriceEurCents": 302,
+          "currentPriceEurCents": 303,
           "referencePriceCents": 109900,
-          "referencePriceEurCents": 302
+          "referencePriceEurCents": 303
         }
       ]
     },
@@ -1021,7 +854,7 @@
       "productId": 21089,
       "brand": "CATRICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 98.91,
+      "overallPercentDiff": 98.18,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1062,9 +895,9 @@
           "observedAt": "2026-10-03T19:06:07.103Z",
           "lastSeenAt": "2026-10-03T19:06:07.103Z",
           "currentPriceCents": 79900,
-          "currentPriceEurCents": 219,
+          "currentPriceEurCents": 220,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 274
+          "referencePriceEurCents": 275
         }
       ]
     },
@@ -1164,9 +997,9 @@
           "observedAt": "2026-10-03T19:06:07.103Z",
           "lastSeenAt": "2026-10-03T19:06:07.103Z",
           "currentPriceCents": 79900,
-          "currentPriceEurCents": 219,
+          "currentPriceEurCents": 220,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 274
+          "referencePriceEurCents": 275
         }
       ]
     },
@@ -1254,7 +1087,7 @@
           "currentPriceCents": 39900,
           "currentPriceEurCents": 110,
           "referencePriceCents": 59900,
-          "referencePriceEurCents": 164
+          "referencePriceEurCents": 165
         }
       ]
     },
@@ -1305,58 +1138,7 @@
           "currentPriceCents": 39900,
           "currentPriceEurCents": 110,
           "referencePriceCents": 59900,
-          "referencePriceEurCents": 164
-        }
-      ]
-    },
-    {
-      "productId": 20484,
-      "brand": "essence",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 90.32,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Balzam za ustnice in lica Juicy Melon, 3 g",
-          "url": "https://www.dm.si/p/d/2483031/essence-balzam-za-ustnice-in-lica-juicy-melon",
-          "isPromo": true,
-          "observedAt": "2026-09-14T15:00:26.651Z",
-          "lastSeenAt": "2026-09-14T15:00:26.651Z",
-          "currentPriceCents": 99,
-          "currentPriceEurCents": 99,
-          "referencePriceCents": 155,
-          "referencePriceEurCents": 155
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Lippenbalsam Juicy Melon Tinted, 3 g",
-          "url": "https://www.dm.de/p/d/2483031/essence-lippenbalsam-juicy-melon-tinted",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:36.189Z",
-          "lastSeenAt": "2026-09-14T15:00:43.818Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Ajak- és arcbalzsam, Juicy Tinted Lip & Cheek -..., 3 g",
-          "url": "https://www.dm.hu/p/d/2483031/essence-ajak-es-arcbalzsam-juicy-tinted-lip-cheek-melon",
-          "isPromo": true,
-          "observedAt": "2026-09-14T15:01:10.266Z",
-          "lastSeenAt": "2026-09-14T15:01:10.266Z",
-          "currentPriceCents": 59900,
-          "currentPriceEurCents": 164,
-          "referencePriceCents": 69900,
-          "referencePriceEurCents": 192
+          "referencePriceEurCents": 165
         }
       ]
     },
@@ -1405,60 +1187,9 @@
           "observedAt": "2026-10-03T19:06:15.966Z",
           "lastSeenAt": "2026-10-03T19:06:15.966Z",
           "currentPriceCents": 59900,
-          "currentPriceEurCents": 164,
+          "currentPriceEurCents": 165,
           "referencePriceCents": 69900,
           "referencePriceEurCents": 192
-        }
-      ]
-    },
-    {
-      "productId": 21038,
-      "brand": "HALLOHEBAMME",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 90.32,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Kremni gel za tuširanje 3 v 1, 200 ml",
-          "url": "https://www.dm.si/p/d/2486106/hallohebamme-kremni-gel-za-tusiranje-3-v-1",
-          "isPromo": true,
-          "observedAt": "2026-09-14T15:00:28.882Z",
-          "lastSeenAt": "2026-09-14T15:00:28.882Z",
-          "currentPriceCents": 45,
-          "currentPriceEurCents": 45,
-          "referencePriceCents": 155,
-          "referencePriceEurCents": 155
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Duschcreme 3in1, 200 ml",
-          "url": "https://www.dm.de/p/d/2486106/hallohebamme-duschcreme-3in1",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:18.143Z",
-          "lastSeenAt": "2026-09-14T15:00:47.586Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "3in1 krémes tusfürdő, 200 ml",
-          "url": "https://www.dm.hu/p/d/2486106/hallohebamme-3in1-kremes-tusfurdo",
-          "isPromo": true,
-          "observedAt": "2026-09-14T15:01:07.257Z",
-          "lastSeenAt": "2026-09-14T15:01:07.257Z",
-          "currentPriceCents": 39900,
-          "currentPriceEurCents": 110,
-          "referencePriceCents": 82900,
-          "referencePriceEurCents": 228
         }
       ]
     },
@@ -1496,6 +1227,261 @@
           "currentPriceEurCents": 295,
           "referencePriceCents": 295,
           "referencePriceEurCents": 295
+        }
+      ]
+    },
+    {
+      "productId": 16779,
+      "brand": "essence",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 89.66,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Balzam za ustnice Juicy Bomb 01 One In A Melon, 2,5 g",
+          "url": "https://www.dm.si/p/d/2483983/essence-balzam-za-ustnice-juicy-bomb-01-one-in-a-melon",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:28.819Z",
+          "lastSeenAt": "2026-10-03T19:13:28.819Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Lippenbalsam Juicy Bomb Glossy 01 One In A Melon, 2,5 g",
+          "url": "https://www.dm.de/p/d/2483983/essence-lippenbalsam-juicy-bomb-glossy-01-one-in-a-melon",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:03:41.837Z",
+          "lastSeenAt": "2026-10-03T19:03:41.837Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Ajakbalzsam, Juicy Bomb - Nr. 01 One In A Melon, 2,5 g",
+          "url": "https://www.dm.hu/p/d/2483983/essence-ajakbalzsam-juicy-bomb-nr-01-one-in-a-melon",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:13.313Z",
+          "lastSeenAt": "2026-10-03T19:06:13.313Z",
+          "currentPriceCents": 49900,
+          "currentPriceEurCents": 137,
+          "referencePriceCents": 59900,
+          "referencePriceEurCents": 165
+        }
+      ]
+    },
+    {
+      "productId": 22295,
+      "brand": "essence",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 89.66,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Maskara maximum definition 01, 8 ml",
+          "url": "https://www.dm.si/p/d/1212315/essence-maskara-maximum-definition-01",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:14.941Z",
+          "lastSeenAt": "2026-10-03T19:13:14.941Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Mascara Maximum Definition Volume 01, 8 ml",
+          "url": "https://www.dm.de/p/d/1212315/essence-mascara-maximum-definition-volume-01",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:03:39.249Z",
+          "lastSeenAt": "2026-10-03T19:03:39.249Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Szempillaspirál maximum defintion, 8 ml",
+          "url": "https://www.dm.hu/p/d/1212315/essence-szempillaspiral-maximum-defintion",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:07.103Z",
+          "lastSeenAt": "2026-10-03T19:06:07.103Z",
+          "currentPriceCents": 59900,
+          "currentPriceEurCents": 165,
+          "referencePriceCents": 69900,
+          "referencePriceEurCents": 192
+        }
+      ]
+    },
+    {
+      "productId": 20230,
+      "brand": "CATRICE",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 89.36,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Umetne trepalnice Dramatic Curl Lashes, 1 kos",
+          "url": "https://www.dm.si/p/d/1678939/catrice-umetne-trepalnice-dramatic-curl-lashes",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:19.250Z",
+          "lastSeenAt": "2026-10-03T19:13:19.250Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 235,
+          "referencePriceEurCents": 235
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Künstliche Wimpern Dramatic Curl (1 Paar), 2 St",
+          "url": "https://www.dm.de/p/d/1678939/catrice-kuenstliche-wimpern-dramatic-curl-1-paar",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:16.904Z",
+          "lastSeenAt": "2026-09-20T13:02:27.089Z",
+          "currentPriceCents": 445,
+          "currentPriceEurCents": 445,
+          "referencePriceCents": 445,
+          "referencePriceEurCents": 445
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Műszempilla, Faked Dramatic Curl, 1 db",
+          "url": "https://www.dm.hu/p/d/1678939/catrice-muszempilla-faked-dramatic-curl",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:07.103Z",
+          "lastSeenAt": "2026-10-03T19:06:07.103Z",
+          "currentPriceCents": 69900,
+          "currentPriceEurCents": 192,
+          "referencePriceCents": 89900,
+          "referencePriceEurCents": 247
+        }
+      ]
+    },
+    {
+      "productId": 20342,
+      "brand": "CATRICE",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 88.89,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Stik za oblikovanje in utrditev obrvi Brow Fix, 1 g",
+          "url": "https://www.dm.si/p/d/1697302/catrice-stik-za-oblikovanje-in-utrditev-obrvi-brow-fix",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:19.250Z",
+          "lastSeenAt": "2026-10-03T19:13:19.250Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 225,
+          "referencePriceEurCents": 225
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Augenbrauenstift Brow Fix Soap Stick 010..., 1 g",
+          "url": "https://www.dm.de/p/d/1697302/catrice-augenbrauenstift-brow-fix-soap-stick-010-transparent",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:03:41.837Z",
+          "lastSeenAt": "2026-10-03T19:03:41.837Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 425,
+          "referencePriceEurCents": 425
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Szemöldökrögzítő szappan stift - Brow Fix Soap..., 1 g",
+          "url": "https://www.dm.hu/p/d/1697302/catrice-szemoldokrogzito-szappan-stift-brow-fix-soap-stick-nr-010-transparent",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:10.259Z",
+          "lastSeenAt": "2026-10-03T19:06:10.259Z",
+          "currentPriceCents": 69900,
+          "currentPriceEurCents": 192,
+          "referencePriceCents": 89900,
+          "referencePriceEurCents": 247
+        }
+      ]
+    },
+    {
+      "productId": 21409,
+      "brand": "essence",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 88.46,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Nadlak za nohte extreme last, 01 Perfect Stay, 8 ml",
+          "url": "https://www.dm.si/p/d/2484026/essence-nadlak-za-nohte-extreme-last-01-perfect-stay",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:28.819Z",
+          "lastSeenAt": "2026-10-03T19:13:28.819Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 130,
+          "referencePriceEurCents": 130
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Top Coat Extreme Last 01 Perfect Stay, 8 ml",
+          "url": "https://www.dm.de/p/d/2484026/essence-top-coat-extreme-last-01-perfect-stay",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:03:42.971Z",
+          "lastSeenAt": "2026-10-03T19:03:42.971Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fedőlakk, Extreme Last Top Coat - Nr. 01 Perfect..., 8 ml",
+          "url": "https://www.dm.hu/p/d/2484026/essence-fedolakk-extreme-last-top-coat-nr-01-perfect-stay",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:13.313Z",
+          "lastSeenAt": "2026-10-03T19:06:13.313Z",
+          "currentPriceCents": 49900,
+          "currentPriceEurCents": 137,
+          "referencePriceCents": 59900,
+          "referencePriceEurCents": 165
         }
       ]
     }

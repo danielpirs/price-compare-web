@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-14T09:59:21.069Z",
+  "generatedAt": "2026-10-15T09:41:09.600Z",
   "fx": {
-    "asOf": "2026-10-13",
+    "asOf": "2026-10-14",
     "rates": {
-      "USD": 1.1188,
-      "JPY": 176.91,
-      "CZK": 24.368,
-      "DKK": 7.4753,
-      "GBP": 0.8446,
-      "HUF": 364.31,
-      "PLN": 4.3768,
-      "RON": 5.3363,
-      "SEK": 11.1698,
-      "CHF": 0.9312,
-      "ISK": 136.2,
-      "NOK": 10.6685,
-      "TRY": 55.2325,
-      "AUD": 1.6033,
-      "BRL": 5.6125,
-      "CAD": 1.5933,
-      "CNY": 7.489,
-      "HKD": 8.7802,
-      "IDR": 20004.87,
-      "ILS": 3.4404,
-      "INR": 106.6,
-      "KRW": 1500.81,
-      "MXN": 20.5126,
-      "MYR": 4.5714,
-      "NZD": 1.9931,
-      "PHP": 70.225,
-      "SGD": 1.4319,
-      "THB": 37.58,
-      "ZAR": 18.4561
+      "USD": 1.1195,
+      "JPY": 177.39,
+      "CZK": 24.357,
+      "DKK": 7.4754,
+      "GBP": 0.84385,
+      "HUF": 363.3,
+      "PLN": 4.3658,
+      "RON": 5.3442,
+      "SEK": 11.158,
+      "CHF": 0.933,
+      "ISK": 136.4,
+      "NOK": 10.6035,
+      "TRY": 55.2921,
+      "AUD": 1.5971,
+      "BRL": 5.6246,
+      "CAD": 1.5918,
+      "CNY": 7.4925,
+      "HKD": 8.7859,
+      "IDR": 20062.67,
+      "ILS": 3.4443,
+      "INR": 106.5283,
+      "KRW": 1496.54,
+      "MXN": 20.56,
+      "MYR": 4.5704,
+      "NZD": 1.9941,
+      "PHP": 70.393,
+      "SGD": 1.4359,
+      "THB": 37.587,
+      "ZAR": 18.4382
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -137,44 +137,7 @@
           "currentPriceCents": 9900,
           "currentPriceEurCents": 27,
           "referencePriceCents": 24900,
-          "referencePriceEurCents": 68
-        }
-      ]
-    },
-    {
-      "productId": 17795,
-      "brand": "L'ORÉAL PARiS",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 406.78,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Osvetljevalec Icoconic Glow 01, 9 g",
-          "url": "https://www.dm.si/p/d/1459123/l-oreal-paris-osvetljevalec-icoconic-glow-01",
-          "isPromo": true,
-          "observedAt": "2026-09-14T15:00:28.882Z",
-          "lastSeenAt": "2026-09-14T15:00:28.882Z",
-          "currentPriceCents": 99,
-          "currentPriceEurCents": 99,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Highlighter Icoconic Glow 01 Coconut Addict, 10 ml",
-          "url": "https://www.dm.at/p/d/1459123/l-oreal-paris-highlighter-icoconic-glow-01-coconut-addict",
-          "isPromo": true,
-          "observedAt": "2026-09-14T15:00:35.541Z",
-          "lastSeenAt": "2026-09-14T15:00:35.541Z",
-          "currentPriceCents": 745,
-          "currentPriceEurCents": 745,
-          "referencePriceCents": 1495,
-          "referencePriceEurCents": 1495
+          "referencePriceEurCents": 69
         }
       ]
     },
@@ -182,7 +145,7 @@
       "productId": 3114,
       "brand": "SEINZ.",
       "isCountryExtreme": true,
-      "overallPercentDiff": 333.82,
+      "overallPercentDiff": 327.54,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -237,9 +200,9 @@
           "observedAt": "2026-10-09T15:16:31.469Z",
           "lastSeenAt": "2026-10-09T15:16:31.469Z",
           "currentPriceCents": 24900,
-          "currentPriceEurCents": 68,
+          "currentPriceEurCents": 69,
           "referencePriceCents": 24900,
-          "referencePriceEurCents": 68
+          "referencePriceEurCents": 69
         }
       ]
     },
@@ -309,7 +272,7 @@
           "url": "https://www.dm.si/p/d/2979017/paradies-litijeva-baterija-cr2032-3v",
           "isPromo": false,
           "observedAt": "2026-08-30T22:35:01.846Z",
-          "lastSeenAt": "2026-09-14T15:00:31.364Z",
+          "lastSeenAt": "2026-10-14T13:41:03.989Z",
           "currentPriceCents": 135,
           "currentPriceEurCents": 135,
           "referencePriceCents": 135,
@@ -319,11 +282,11 @@
           "countryCode": "AT",
           "shopId": "dm-at",
           "currency": "EUR",
-          "name": "Batterien Knopfzelle CR2032",
+          "name": "Batterien Knopfzelle CR2032, 1 St",
           "url": "https://www.dm.at/p/d/2979017/paradies-batterien-knopfzelle-cr2032",
           "isPromo": false,
           "observedAt": "2026-08-30T22:37:10.200Z",
-          "lastSeenAt": "2026-09-14T15:00:37.534Z",
+          "lastSeenAt": "2026-10-14T13:41:08.025Z",
           "currentPriceCents": 255,
           "currentPriceEurCents": 255,
           "referencePriceCents": 255,
@@ -333,11 +296,11 @@
           "countryCode": "DE",
           "shopId": "dm-de",
           "currency": "EUR",
-          "name": "Knopfzelle CR 2032, 2 St",
-          "url": "https://www.dm.de/p/d/2979017/paradies-knopfzelle-cr-2032",
+          "name": "Batterien Knopfzelle CR 2032, 2 St",
+          "url": "https://www.dm.de/p/d/2979017/paradies-batterien-knopfzelle-cr-2032",
           "isPromo": false,
           "observedAt": "2026-08-31T20:44:16.760Z",
-          "lastSeenAt": "2026-09-14T15:00:56.692Z",
+          "lastSeenAt": "2026-10-14T13:41:11.897Z",
           "currentPriceCents": 65,
           "currentPriceEurCents": 65,
           "referencePriceCents": 65,
@@ -351,7 +314,7 @@
           "url": "https://www.dm.hu/p/d/2979017/paradies-litium-gombelem-cr2032-3v",
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:16.800Z",
-          "lastSeenAt": "2026-09-14T15:01:07.257Z",
+          "lastSeenAt": "2026-10-14T13:41:20.909Z",
           "currentPriceCents": 69900,
           "currentPriceEurCents": 192,
           "referencePriceCents": 69900,
@@ -469,7 +432,7 @@
           "observedAt": "2026-10-03T19:06:07.103Z",
           "lastSeenAt": "2026-10-03T19:06:07.103Z",
           "currentPriceCents": 24900,
-          "currentPriceEurCents": 68,
+          "currentPriceEurCents": 69,
           "referencePriceCents": 49900,
           "referencePriceEurCents": 137
         }
@@ -585,9 +548,9 @@
           "observedAt": "2026-09-01T12:32:54.339Z",
           "lastSeenAt": "2026-09-19T12:29:10.810Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1509,
+          "currentPriceEurCents": 1514,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1509
+          "referencePriceEurCents": 1514
         }
       ]
     },
@@ -664,9 +627,9 @@
           "observedAt": "2026-09-01T12:30:30.838Z",
           "lastSeenAt": "2026-09-25T13:44:12.981Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1509,
+          "currentPriceEurCents": 1514,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1509
+          "referencePriceEurCents": 1514
         }
       ]
     },
@@ -780,7 +743,7 @@
           "observedAt": "2026-10-03T19:06:07.103Z",
           "lastSeenAt": "2026-10-03T19:06:07.103Z",
           "currentPriceCents": 24900,
-          "currentPriceEurCents": 68,
+          "currentPriceEurCents": 69,
           "referencePriceCents": 49900,
           "referencePriceEurCents": 137
         }
@@ -991,43 +954,6 @@
       ]
     },
     {
-      "productId": 39854,
-      "brand": "Varta",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 217.35,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Batterie Knopfzelle CR 2032 Lithium, 2 St",
-          "url": "https://www.dm.at/p/d/1881911/varta-batterie-knopfzelle-cr-2032-lithium",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:38:15.463Z",
-          "lastSeenAt": "2026-09-26T13:03:06.341Z",
-          "currentPriceCents": 695,
-          "currentPriceEurCents": 695,
-          "referencePriceCents": 695,
-          "referencePriceEurCents": 695
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Gombelem CR 2032 litium, 2 db",
-          "url": "https://www.dm.hu/p/d/1881911/varta-gombelem-cr-2032-litium",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:00.665Z",
-          "lastSeenAt": "2026-09-26T13:03:14.475Z",
-          "currentPriceCents": 79900,
-          "currentPriceEurCents": 219,
-          "referencePriceCents": 79900,
-          "referencePriceEurCents": 219
-        }
-      ]
-    },
-    {
       "productId": 24752,
       "brand": "Profissimo",
       "isCountryExtreme": true,
@@ -1061,6 +987,43 @@
           "currentPriceEurCents": 285,
           "referencePriceCents": 395,
           "referencePriceEurCents": 395
+        }
+      ]
+    },
+    {
+      "productId": 39854,
+      "brand": "Varta",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 215.91,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Batterie Knopfzelle CR 2032 Lithium, 2 St",
+          "url": "https://www.dm.at/p/d/1881911/varta-batterie-knopfzelle-cr-2032-lithium",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:38:15.463Z",
+          "lastSeenAt": "2026-09-26T13:03:06.341Z",
+          "currentPriceCents": 695,
+          "currentPriceEurCents": 695,
+          "referencePriceCents": 695,
+          "referencePriceEurCents": 695
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Gombelem CR 2032 litium, 2 db",
+          "url": "https://www.dm.hu/p/d/1881911/varta-gombelem-cr-2032-litium",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:00.665Z",
+          "lastSeenAt": "2026-09-26T13:03:14.475Z",
+          "currentPriceCents": 79900,
+          "currentPriceEurCents": 220,
+          "referencePriceCents": 79900,
+          "referencePriceEurCents": 220
         }
       ]
     },
@@ -1241,7 +1204,7 @@
           "url": "https://www.dm.de/p/d/3158138/tabac-original-after-shave-lotion",
           "isPromo": false,
           "observedAt": "2026-08-31T20:41:20.165Z",
-          "lastSeenAt": "2026-09-14T15:00:47.586Z",
+          "lastSeenAt": "2026-10-14T13:41:11.897Z",
           "currentPriceCents": 1195,
           "currentPriceEurCents": 1195,
           "referencePriceCents": 1195,
@@ -1255,7 +1218,7 @@
           "url": "https://www.dm.at/p/d/3158138/tabac-original-after-shave-lotion",
           "isPromo": false,
           "observedAt": "2026-09-14T15:00:33.087Z",
-          "lastSeenAt": "2026-09-14T15:00:33.087Z",
+          "lastSeenAt": "2026-10-14T13:41:06.014Z",
           "currentPriceCents": 3690,
           "currentPriceEurCents": 3690,
           "referencePriceCents": 3690,
@@ -1471,7 +1434,7 @@
       "productId": 8829,
       "brand": "HADA LABO TOKYO",
       "isCountryExtreme": true,
-      "overallPercentDiff": 190.82,
+      "overallPercentDiff": 189.97,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1526,60 +1489,139 @@
           "observedAt": "2026-10-03T19:06:15.966Z",
           "lastSeenAt": "2026-10-03T19:06:15.966Z",
           "currentPriceCents": 124900,
-          "currentPriceEurCents": 343,
+          "currentPriceEurCents": 344,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 686
+          "referencePriceEurCents": 688
         }
       ]
     },
     {
-      "productId": 20591,
-      "brand": "s.Oliver",
+      "productId": 18542,
+      "brand": "alverde NATURKOSMETIK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 190.45,
+      "overallPercentDiff": 188.32,
       "gapToExtremePercent": 0,
       "countries": [
         {
           "countryCode": "SI",
           "shopId": "dm-si",
           "currency": "EUR",
-          "name": "Losjon po britju SUPERIOR MEN, 50 ml",
-          "url": "https://www.dm.si/p/d/1284468/s-oliver-losjon-po-britju-superior-men",
+          "name": "Roll-on za nego kože okrog oči Hydro, 20 ml",
+          "url": "https://www.dm.si/p/d/1320682/alverde-naturkosmetik-roll-on-za-nego-koze-okrog-oci-hydro",
           "isPromo": true,
-          "observedAt": "2026-09-14T15:00:28.882Z",
-          "lastSeenAt": "2026-09-14T15:00:28.882Z",
-          "currentPriceCents": 995,
-          "currentPriceEurCents": 995,
-          "referencePriceCents": 1680,
-          "referencePriceEurCents": 1680
+          "observedAt": "2026-10-03T19:13:14.941Z",
+          "lastSeenAt": "2026-10-03T19:13:14.941Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 199,
+          "referencePriceEurCents": 199
         },
         {
           "countryCode": "AT",
           "shopId": "dm-at",
           "currency": "EUR",
-          "name": "After Shave Lotion Superior, 50 ml",
-          "url": "https://www.dm.at/p/d/1284468/s-oliver-after-shave-lotion-superior",
+          "name": "Augen Roll-on Hydro mit Hyaluronsäure, 20 ml",
+          "url": "https://www.dm.at/p/d/1320682/alverde-naturkosmetik-augen-roll-on-hydro-mit-hyaluronsaeure",
           "isPromo": true,
-          "observedAt": "2026-09-14T15:00:37.534Z",
-          "lastSeenAt": "2026-09-14T15:00:37.534Z",
-          "currentPriceCents": 1445,
-          "currentPriceEurCents": 1445,
-          "referencePriceCents": 2890,
-          "referencePriceEurCents": 2890
+          "observedAt": "2026-10-03T19:02:13.123Z",
+          "lastSeenAt": "2026-10-03T19:02:13.123Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
         },
         {
           "countryCode": "DE",
           "shopId": "dm-de",
           "currency": "EUR",
-          "name": "After Shave Superior, 50 ml",
-          "url": "https://www.dm.de/p/d/1284468/s-oliver-after-shave-superior",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:16.760Z",
-          "lastSeenAt": "2026-09-14T15:00:56.692Z",
-          "currentPriceCents": 995,
-          "currentPriceEurCents": 995,
-          "referencePriceCents": 995,
-          "referencePriceEurCents": 995
+          "name": "Augen Roll-on mit Hyaluron, 20 ml",
+          "url": "https://www.dm.de/p/d/1320682/alverde-naturkosmetik-augen-roll-on-mit-hyaluron",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:03:39.249Z",
+          "lastSeenAt": "2026-10-03T19:03:39.249Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Szemkörnyékápoló roll-on, Hydro, 20 ml",
+          "url": "https://www.dm.hu/p/d/1320682/alverde-naturkosmetik-szemkornyekapolo-roll-on-hydro",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:07.103Z",
+          "lastSeenAt": "2026-10-03T19:06:07.103Z",
+          "currentPriceCents": 24900,
+          "currentPriceEurCents": 69,
+          "referencePriceCents": 49900,
+          "referencePriceEurCents": 137
+        }
+      ]
+    },
+    {
+      "productId": 18560,
+      "brand": "alverde NATURKOSMETIK",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 188.32,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Kremni korektor camouflage, 7 g",
+          "url": "https://www.dm.si/p/d/1547368/alverde-naturkosmetik-kremni-korektor-camouflage",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:17.496Z",
+          "lastSeenAt": "2026-10-03T19:13:17.496Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 299,
+          "referencePriceEurCents": 299
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Concealer Camouflage 01 Sand, 7 g",
+          "url": "https://www.dm.at/p/d/1547368/alverde-naturkosmetik-concealer-camouflage-01-sand",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:02:15.740Z",
+          "lastSeenAt": "2026-10-03T19:02:15.740Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Camouflage Sand 01, 7 g",
+          "url": "https://www.dm.de/p/d/1547368/alverde-naturkosmetik-camouflage-sand-01",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:03:39.249Z",
+          "lastSeenAt": "2026-10-03T19:03:39.249Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Korrektor Camouflage, 001 Sand, 7 g",
+          "url": "https://www.dm.hu/p/d/1547368/alverde-naturkosmetik-korrektor-camouflage-001-sand",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:07.103Z",
+          "lastSeenAt": "2026-10-03T19:06:07.103Z",
+          "currentPriceCents": 24900,
+          "currentPriceEurCents": 69,
+          "referencePriceCents": 49900,
+          "referencePriceEurCents": 137
         }
       ]
     }
