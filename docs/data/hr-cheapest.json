@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-15T09:41:09.600Z",
+  "generatedAt": "2026-10-16T09:34:55.758Z",
   "fx": {
-    "asOf": "2026-10-14",
+    "asOf": "2026-10-15",
     "rates": {
-      "USD": 1.1195,
-      "JPY": 177.39,
-      "CZK": 24.357,
-      "DKK": 7.4754,
-      "GBP": 0.84385,
-      "HUF": 363.3,
-      "PLN": 4.3658,
-      "RON": 5.3442,
-      "SEK": 11.158,
-      "CHF": 0.933,
+      "USD": 1.1208,
+      "JPY": 177.06,
+      "CZK": 24.353,
+      "DKK": 7.475,
+      "GBP": 0.8461,
+      "HUF": 363.6,
+      "PLN": 4.37,
+      "RON": 5.3337,
+      "SEK": 11.1765,
+      "CHF": 0.9305,
       "ISK": 136.4,
-      "NOK": 10.6035,
-      "TRY": 55.2921,
-      "AUD": 1.5971,
-      "BRL": 5.6246,
-      "CAD": 1.5918,
-      "CNY": 7.4925,
-      "HKD": 8.7859,
-      "IDR": 20062.67,
-      "ILS": 3.4443,
-      "INR": 106.5283,
-      "KRW": 1496.54,
-      "MXN": 20.56,
-      "MYR": 4.5704,
-      "NZD": 1.9941,
-      "PHP": 70.393,
-      "SGD": 1.4359,
-      "THB": 37.587,
-      "ZAR": 18.4382
+      "NOK": 10.652,
+      "TRY": 55.3873,
+      "AUD": 1.6218,
+      "BRL": 5.6679,
+      "CAD": 1.5923,
+      "CNY": 7.4993,
+      "HKD": 8.7953,
+      "IDR": 20112.25,
+      "ILS": 3.4769,
+      "INR": 106.5408,
+      "KRW": 1508.48,
+      "MXN": 20.7596,
+      "MYR": 4.5757,
+      "NZD": 2.0012,
+      "PHP": 70.693,
+      "SGD": 1.4379,
+      "THB": 37.592,
+      "ZAR": 18.5569
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -137,7 +137,7 @@
           "currentPriceCents": 9900,
           "currentPriceEurCents": 27,
           "referencePriceCents": 24900,
-          "referencePriceEurCents": 69
+          "referencePriceEurCents": 68
         }
       ]
     },
@@ -230,10 +230,47 @@
       ]
     },
     {
+      "productId": 4151,
+      "brand": "sundance",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 306.12,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Sončna očala za odrasle, rožnata, 1 kos",
+          "url": "https://www.dm.si/p/d/1711993/sundance-soncna-ocala-za-odrasle-roznata",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:19.250Z",
+          "lastSeenAt": "2026-10-03T19:13:19.250Z",
+          "currentPriceCents": 595,
+          "currentPriceEurCents": 595,
+          "referencePriceCents": 995,
+          "referencePriceEurCents": 995
+        },
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Sunčane naočale za odrasle – rozi metalni okvir, 1 kom.",
+          "url": "https://www.dm.hr/p/d/1711993/sundance-suncane-naocale-za-odrasle-rozi-metalni-okvir",
+          "isPromo": true,
+          "observedAt": "2026-10-02T14:42:57.066Z",
+          "lastSeenAt": "2026-10-02T14:42:57.066Z",
+          "currentPriceCents": 120,
+          "currentPriceEurCents": 120,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
+        }
+      ]
+    },
+    {
       "productId": 10532,
       "brand": "TOM TAILOR",
       "isCountryExtreme": true,
-      "overallPercentDiff": 306.44,
+      "overallPercentDiff": 306.04,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -288,46 +325,9 @@
           "observedAt": "2026-09-01T12:30:22.854Z",
           "lastSeenAt": "2026-09-29T10:39:25.487Z",
           "currentPriceCents": 1099900,
-          "currentPriceEurCents": 3028,
+          "currentPriceEurCents": 3025,
           "referencePriceCents": 1099900,
-          "referencePriceEurCents": 3028
-        }
-      ]
-    },
-    {
-      "productId": 4151,
-      "brand": "sundance",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 306.12,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Sončna očala za odrasle, rožnata, 1 kos",
-          "url": "https://www.dm.si/p/d/1711993/sundance-soncna-ocala-za-odrasle-roznata",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:19.250Z",
-          "lastSeenAt": "2026-10-03T19:13:19.250Z",
-          "currentPriceCents": 595,
-          "currentPriceEurCents": 595,
-          "referencePriceCents": 995,
-          "referencePriceEurCents": 995
-        },
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Sunčane naočale za odrasle – rozi metalni okvir, 1 kom.",
-          "url": "https://www.dm.hr/p/d/1711993/sundance-suncane-naocale-za-odrasle-rozi-metalni-okvir",
-          "isPromo": true,
-          "observedAt": "2026-10-02T14:42:57.066Z",
-          "lastSeenAt": "2026-10-02T14:42:57.066Z",
-          "currentPriceCents": 120,
-          "currentPriceEurCents": 120,
-          "referencePriceCents": 245,
-          "referencePriceEurCents": 245
+          "referencePriceEurCents": 3025
         }
       ]
     },
@@ -404,9 +404,9 @@
           "observedAt": "2026-09-01T12:32:54.339Z",
           "lastSeenAt": "2026-09-19T12:29:10.810Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1514,
+          "currentPriceEurCents": 1512,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1514
+          "referencePriceEurCents": 1512
         }
       ]
     },
@@ -483,9 +483,9 @@
           "observedAt": "2026-09-01T12:30:30.838Z",
           "lastSeenAt": "2026-09-25T13:44:12.981Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1514,
+          "currentPriceEurCents": 1512,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1514
+          "referencePriceEurCents": 1512
         }
       ]
     },
@@ -493,7 +493,7 @@
       "productId": 10497,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 245.73,
+      "overallPercentDiff": 245.53,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -534,9 +534,9 @@
           "observedAt": "2026-09-01T12:30:19.979Z",
           "lastSeenAt": "2026-09-17T13:25:33.061Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3440,
+          "currentPriceEurCents": 3438,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3440
+          "referencePriceEurCents": 3438
         }
       ]
     },
@@ -544,7 +544,7 @@
       "productId": 10498,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 245.73,
+      "overallPercentDiff": 245.53,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -585,9 +585,9 @@
           "observedAt": "2026-09-01T12:30:19.979Z",
           "lastSeenAt": "2026-09-19T12:29:08.876Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3440,
+          "currentPriceEurCents": 3438,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3440
+          "referencePriceEurCents": 3438
         }
       ]
     },
@@ -740,7 +740,7 @@
           "currentPriceCents": 219900,
           "currentPriceEurCents": 605,
           "referencePriceCents": 439900,
-          "referencePriceEurCents": 1211
+          "referencePriceEurCents": 1210
         }
       ]
     },
@@ -799,7 +799,7 @@
       "productId": 12122,
       "brand": "L'ORÉAL PARiS",
       "isCountryExtreme": true,
-      "overallPercentDiff": 205.78,
+      "overallPercentDiff": 205.56,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -840,9 +840,9 @@
           "observedAt": "2026-09-01T12:31:30.809Z",
           "lastSeenAt": "2026-09-29T10:39:25.487Z",
           "currentPriceCents": 499900,
-          "currentPriceEurCents": 1376,
+          "currentPriceEurCents": 1375,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1376
+          "referencePriceEurCents": 1375
         }
       ]
     },
@@ -850,7 +850,7 @@
       "productId": 10571,
       "brand": "PARIS CORNER",
       "isCountryExtreme": true,
-      "overallPercentDiff": 195.99,
+      "overallPercentDiff": 195.7,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -891,9 +891,9 @@
           "observedAt": "2026-09-01T12:30:22.854Z",
           "lastSeenAt": "2026-09-21T15:05:41.766Z",
           "currentPriceCents": 1499900,
-          "currentPriceEurCents": 4129,
+          "currentPriceEurCents": 4125,
           "referencePriceCents": 1499900,
-          "referencePriceEurCents": 4129
+          "referencePriceEurCents": 4125
         }
       ]
     },
@@ -901,7 +901,7 @@
       "productId": 12985,
       "brand": "DKNY",
       "isCountryExtreme": true,
-      "overallPercentDiff": 193.35,
+      "overallPercentDiff": 193.1,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -942,9 +942,9 @@
           "observedAt": "2026-09-01T12:32:59.257Z",
           "lastSeenAt": "2026-09-23T13:37:24.417Z",
           "currentPriceCents": 1699900,
-          "currentPriceEurCents": 4679,
+          "currentPriceEurCents": 4675,
           "referencePriceCents": 1699900,
-          "referencePriceEurCents": 4679
+          "referencePriceEurCents": 4675
         }
       ]
     },
@@ -1007,9 +1007,9 @@
           "observedAt": "2026-09-01T12:32:07.099Z",
           "lastSeenAt": "2026-09-24T13:32:21.725Z",
           "currentPriceCents": 429900,
-          "currentPriceEurCents": 1183,
+          "currentPriceEurCents": 1182,
           "referencePriceCents": 429900,
-          "referencePriceEurCents": 1183
+          "referencePriceEurCents": 1182
         }
       ]
     },
@@ -1096,7 +1096,7 @@
       "productId": 837,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 186.4,
+      "overallPercentDiff": 185.6,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1151,9 +1151,9 @@
           "observedAt": "2026-09-01T12:29:59.422Z",
           "lastSeenAt": "2026-10-08T15:34:01.248Z",
           "currentPriceCents": 129900,
-          "currentPriceEurCents": 358,
+          "currentPriceEurCents": 357,
           "referencePriceCents": 129900,
-          "referencePriceEurCents": 358
+          "referencePriceEurCents": 357
         }
       ]
     },
@@ -1161,7 +1161,7 @@
       "productId": 10595,
       "brand": "L'ORÉAL PARiS",
       "isCountryExtreme": true,
-      "overallPercentDiff": 181.33,
+      "overallPercentDiff": 181.11,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1230,9 +1230,9 @@
           "observedAt": "2026-09-01T12:32:25.549Z",
           "lastSeenAt": "2026-09-22T13:25:13.904Z",
           "currentPriceCents": 459900,
-          "currentPriceEurCents": 1266,
+          "currentPriceEurCents": 1265,
           "referencePriceCents": 459900,
-          "referencePriceEurCents": 1266
+          "referencePriceEurCents": 1265
         }
       ]
     },
@@ -1291,7 +1291,7 @@
       "productId": 8236,
       "brand": "trend !t up",
       "isCountryExtreme": true,
-      "overallPercentDiff": 180.82,
+      "overallPercentDiff": 180.41,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1332,9 +1332,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-09-18T12:57:27.712Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 688,
+          "currentPriceEurCents": 687,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 688
+          "referencePriceEurCents": 687
         }
       ]
     },
@@ -1500,7 +1500,7 @@
       "productId": 12783,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 165.19,
+      "overallPercentDiff": 164.44,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1541,9 +1541,9 @@
           "observedAt": "2026-09-01T12:32:02.558Z",
           "lastSeenAt": "2026-10-03T13:21:34.631Z",
           "currentPriceCents": 129900,
-          "currentPriceEurCents": 358,
+          "currentPriceEurCents": 357,
           "referencePriceCents": 129900,
-          "referencePriceEurCents": 358
+          "referencePriceEurCents": 357
         }
       ]
     },
@@ -1620,60 +1620,9 @@
           "observedAt": "2026-09-01T12:32:11.497Z",
           "lastSeenAt": "2026-10-01T15:26:11.718Z",
           "currentPriceCents": 52900,
-          "currentPriceEurCents": 146,
+          "currentPriceEurCents": 145,
           "referencePriceCents": 52900,
-          "referencePriceEurCents": 146
-        }
-      ]
-    },
-    {
-      "productId": 1767,
-      "brand": "syoss",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 160,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Sprej za oblikovanje kose Glaze 3u1 Topcoat, 200 ml",
-          "url": "https://www.dm.hr/p/d/3117103/syoss-sprej-za-oblikovanje-kose-glaze-3u1-topcoat",
-          "isPromo": true,
-          "observedAt": "2026-09-15T13:30:52.365Z",
-          "lastSeenAt": "2026-09-15T13:30:52.365Z",
-          "currentPriceCents": 150,
-          "currentPriceEurCents": 150,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Nadlak za lase Glaze, 200 ml",
-          "url": "https://www.dm.si/p/d/3117103/syoss-nadlak-za-lase-glaze",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:32.828Z",
-          "lastSeenAt": "2026-09-15T13:31:00.648Z",
-          "currentPriceCents": 545,
-          "currentPriceEurCents": 545,
-          "referencePriceCents": 545,
-          "referencePriceEurCents": 545
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Hajformázó spray Glaze Fedőréteg, 200 ml",
-          "url": "https://www.dm.hu/p/d/3117103/syoss-hajformazo-spray-glaze-fedoreteg",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:54.339Z",
-          "lastSeenAt": "2026-09-15T13:31:26.573Z",
-          "currentPriceCents": 259900,
-          "currentPriceEurCents": 715,
-          "referencePriceCents": 259900,
-          "referencePriceEurCents": 715
+          "referencePriceEurCents": 145
         }
       ]
     },
@@ -1801,9 +1750,74 @@
           "observedAt": "2026-09-01T12:29:57.331Z",
           "lastSeenAt": "2026-09-28T16:44:26.494Z",
           "currentPriceCents": 28900,
-          "currentPriceEurCents": 80,
+          "currentPriceEurCents": 79,
           "referencePriceCents": 28900,
-          "referencePriceEurCents": 80
+          "referencePriceEurCents": 79
+        }
+      ]
+    },
+    {
+      "productId": 2995,
+      "brand": "syoss",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 160,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Primer za kosu Glaze 3in1, 150 ml",
+          "url": "https://www.dm.hr/p/d/3117038/syoss-primer-za-kosu-glaze-3in1",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:04:19.530Z",
+          "lastSeenAt": "2026-10-03T19:04:19.530Z",
+          "currentPriceCents": 135,
+          "currentPriceEurCents": 135,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Primer za lase Glaze 3 v 1, 150 ml",
+          "url": "https://www.dm.si/p/d/3117038/syoss-primer-za-lase-glaze-3-v-1",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:04.847Z",
+          "lastSeenAt": "2026-09-26T13:02:57.773Z",
+          "currentPriceCents": 545,
+          "currentPriceEurCents": 545,
+          "referencePriceCents": 545,
+          "referencePriceEurCents": 545
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Haarkur Glaze Primer 3in1, 150 ml",
+          "url": "https://www.dm.at/p/d/3117038/syoss-haarkur-glaze-primer-3in1",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:34.775Z",
+          "lastSeenAt": "2026-09-26T13:03:04.783Z",
+          "currentPriceCents": 545,
+          "currentPriceEurCents": 545,
+          "referencePriceCents": 545,
+          "referencePriceEurCents": 545
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Hajformázó spray Glaze Primer, 150 ml",
+          "url": "https://www.dm.hu/p/d/3117038/syoss-hajformazo-spray-glaze-primer",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:49.604Z",
+          "lastSeenAt": "2026-09-26T13:03:14.475Z",
+          "currentPriceCents": 259900,
+          "currentPriceEurCents": 715,
+          "referencePriceCents": 259900,
+          "referencePriceEurCents": 715
         }
       ]
     }

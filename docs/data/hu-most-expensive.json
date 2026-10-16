@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-15T09:41:09.600Z",
+  "generatedAt": "2026-10-16T09:34:55.758Z",
   "fx": {
-    "asOf": "2026-10-14",
+    "asOf": "2026-10-15",
     "rates": {
-      "USD": 1.1195,
-      "JPY": 177.39,
-      "CZK": 24.357,
-      "DKK": 7.4754,
-      "GBP": 0.84385,
-      "HUF": 363.3,
-      "PLN": 4.3658,
-      "RON": 5.3442,
-      "SEK": 11.158,
-      "CHF": 0.933,
+      "USD": 1.1208,
+      "JPY": 177.06,
+      "CZK": 24.353,
+      "DKK": 7.475,
+      "GBP": 0.8461,
+      "HUF": 363.6,
+      "PLN": 4.37,
+      "RON": 5.3337,
+      "SEK": 11.1765,
+      "CHF": 0.9305,
       "ISK": 136.4,
-      "NOK": 10.6035,
-      "TRY": 55.2921,
-      "AUD": 1.5971,
-      "BRL": 5.6246,
-      "CAD": 1.5918,
-      "CNY": 7.4925,
-      "HKD": 8.7859,
-      "IDR": 20062.67,
-      "ILS": 3.4443,
-      "INR": 106.5283,
-      "KRW": 1496.54,
-      "MXN": 20.56,
-      "MYR": 4.5704,
-      "NZD": 1.9941,
-      "PHP": 70.393,
-      "SGD": 1.4359,
-      "THB": 37.587,
-      "ZAR": 18.4382
+      "NOK": 10.652,
+      "TRY": 55.3873,
+      "AUD": 1.6218,
+      "BRL": 5.6679,
+      "CAD": 1.5923,
+      "CNY": 7.4993,
+      "HKD": 8.7953,
+      "IDR": 20112.25,
+      "ILS": 3.4769,
+      "INR": 106.5408,
+      "KRW": 1508.48,
+      "MXN": 20.7596,
+      "MYR": 4.5757,
+      "NZD": 2.0012,
+      "PHP": 70.693,
+      "SGD": 1.4379,
+      "THB": 37.592,
+      "ZAR": 18.5569
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -94,7 +94,7 @@
       "productId": 21062,
       "brand": "HALLOHEBAMME",
       "isCountryExtreme": true,
-      "overallPercentDiff": 450.53,
+      "overallPercentDiff": 449.47,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -137,58 +137,7 @@
           "currentPriceCents": 99900,
           "currentPriceEurCents": 275,
           "referencePriceCents": 189900,
-          "referencePriceEurCents": 523
-        }
-      ]
-    },
-    {
-      "productId": 21179,
-      "brand": "HALLOHEBAMME",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 450.53,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Masažni gel za nego brazgotin in strij, 50 ml",
-          "url": "https://www.dm.si/p/d/2486105/hallohebamme-masazni-gel-za-nego-brazgotin-in-strij",
-          "isPromo": true,
-          "observedAt": "2026-09-15T13:31:00.648Z",
-          "lastSeenAt": "2026-09-15T13:31:00.648Z",
-          "currentPriceCents": 45,
-          "currentPriceEurCents": 45,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Massage Gel, 50 ml",
-          "url": "https://www.dm.de/p/d/2486105/hallohebamme-massage-gel",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:36.786Z",
-          "lastSeenAt": "2026-09-15T13:31:14.345Z",
-          "currentPriceCents": 495,
-          "currentPriceEurCents": 495,
-          "referencePriceCents": 495,
-          "referencePriceEurCents": 495
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Masszázsgél kismamáknak, 50 ml",
-          "url": "https://www.dm.hu/p/d/2486105/hallohebamme-masszazsgel-kismamaknak",
-          "isPromo": true,
-          "observedAt": "2026-09-15T13:31:24.654Z",
-          "lastSeenAt": "2026-09-15T13:31:24.654Z",
-          "currentPriceCents": 99900,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 189900,
-          "referencePriceEurCents": 523
+          "referencePriceEurCents": 522
         }
       ]
     },
@@ -196,7 +145,7 @@
       "productId": 11299,
       "brand": "BIBS",
       "isCountryExtreme": true,
-      "overallPercentDiff": 413.22,
+      "overallPercentDiff": 412.54,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -251,9 +200,9 @@
           "observedAt": "2026-09-01T12:29:59.422Z",
           "lastSeenAt": "2026-10-01T15:26:09.549Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1514,
+          "currentPriceEurCents": 1512,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1514
+          "referencePriceEurCents": 1512
         }
       ]
     },
@@ -261,7 +210,7 @@
       "productId": 9358,
       "brand": "BIBS",
       "isCountryExtreme": true,
-      "overallPercentDiff": 395.33,
+      "overallPercentDiff": 395,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -302,9 +251,9 @@
           "observedAt": "2026-09-01T12:32:25.549Z",
           "lastSeenAt": "2026-09-21T15:05:43.878Z",
           "currentPriceCents": 539900,
-          "currentPriceEurCents": 1486,
+          "currentPriceEurCents": 1485,
           "referencePriceCents": 539900,
-          "referencePriceEurCents": 1486
+          "referencePriceEurCents": 1485
         }
       ]
     },
@@ -363,7 +312,7 @@
       "productId": 10532,
       "brand": "TOM TAILOR",
       "isCountryExtreme": true,
-      "overallPercentDiff": 306.44,
+      "overallPercentDiff": 306.04,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -418,9 +367,9 @@
           "observedAt": "2026-09-01T12:30:22.854Z",
           "lastSeenAt": "2026-09-29T10:39:25.487Z",
           "currentPriceCents": 1099900,
-          "currentPriceEurCents": 3028,
+          "currentPriceEurCents": 3025,
           "referencePriceCents": 1099900,
-          "referencePriceEurCents": 3028
+          "referencePriceEurCents": 3025
         }
       ]
     },
@@ -465,7 +414,7 @@
       "productId": 10497,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 245.73,
+      "overallPercentDiff": 245.53,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -506,9 +455,9 @@
           "observedAt": "2026-09-01T12:30:19.979Z",
           "lastSeenAt": "2026-09-17T13:25:33.061Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3440,
+          "currentPriceEurCents": 3438,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3440
+          "referencePriceEurCents": 3438
         }
       ]
     },
@@ -516,7 +465,7 @@
       "productId": 10498,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 245.73,
+      "overallPercentDiff": 245.53,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -557,9 +506,88 @@
           "observedAt": "2026-09-01T12:30:19.979Z",
           "lastSeenAt": "2026-09-19T12:29:08.876Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3440,
+          "currentPriceEurCents": 3438,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3440
+          "referencePriceEurCents": 3438
+        }
+      ]
+    },
+    {
+      "productId": 2140,
+      "brand": "ebelin",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 236.11,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Spiralna četka za raščešljavanje kose – mačka,..., 1 kom.",
+          "url": "https://www.dm.hr/p/d/3063718/ebelin-spiralna-cetka-za-rascesljavanje-kose-macka-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:56:56.054Z",
+          "lastSeenAt": "2026-10-15T13:23:03.684Z",
+          "currentPriceCents": 345,
+          "currentPriceEurCents": 345,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Spiralna krtača za razčesavanje, več različic, 1 kos",
+          "url": "https://www.dm.si/p/d/3063718/ebelin-spiralna-krtaca-za-razcesavanje-vec-razlicic",
+          "isPromo": false,
+          "observedAt": "2026-10-15T13:23:09.814Z",
+          "lastSeenAt": "2026-10-15T13:23:09.814Z",
+          "currentPriceCents": 180,
+          "currentPriceEurCents": 180,
+          "referencePriceCents": 180,
+          "referencePriceEurCents": 180
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Spiralentwirrbürste Katzenoptik sortiert, 1 St",
+          "url": "https://www.dm.at/p/d/3063718/ebelin-spiralentwirrbuerste-katzenoptik-sortiert",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:36.315Z",
+          "lastSeenAt": "2026-10-15T13:23:15.659Z",
+          "currentPriceCents": 345,
+          "currentPriceEurCents": 345,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Spiralentwirrbürste mit Katzenohren, 1 St",
+          "url": "https://www.dm.de/p/d/3063718/ebelin-spiralentwirrbuerste-mit-katzenohren",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:59.460Z",
+          "lastSeenAt": "2026-10-15T13:23:24.454Z",
+          "currentPriceCents": 345,
+          "currentPriceEurCents": 345,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Spirál alakú hajbontókefe macskafülekkel, többféle, 1 db",
+          "url": "https://www.dm.hu/p/d/3063718/ebelin-spiral-alaku-hajbontokefe-macskafulekkel-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:00.665Z",
+          "lastSeenAt": "2026-10-15T13:23:25.815Z",
+          "currentPriceCents": 219900,
+          "currentPriceEurCents": 605,
+          "referencePriceCents": 219900,
+          "referencePriceEurCents": 605
         }
       ]
     },
@@ -601,47 +629,10 @@
       ]
     },
     {
-      "productId": 41748,
-      "brand": "Fascino",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 230.22,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Strumpfhose glänzend powder Gr. 50/52, 15 DEN, 1 St",
-          "url": "https://www.dm.de/p/d/1715182/fascino-strumpfhose-glaenzend-powder-gr-50-52-15-den",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:03:41.837Z",
-          "lastSeenAt": "2026-10-03T19:03:41.837Z",
-          "currentPriceCents": 160,
-          "currentPriceEurCents": 160,
-          "referencePriceCents": 225,
-          "referencePriceEurCents": 225
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fényes harisnyanadrág, púder, 15 den, 50-52, 1 db",
-          "url": "https://www.dm.hu/p/d/1715182/fascino-fenyes-harisnyanadrag-puder-15-den-50-52",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:07.326Z",
-          "lastSeenAt": "2026-09-20T13:02:31.610Z",
-          "currentPriceCents": 269900,
-          "currentPriceEurCents": 743,
-          "referencePriceCents": 269900,
-          "referencePriceEurCents": 743
-        }
-      ]
-    },
-    {
       "productId": 22234,
       "brand": "Stella Jones",
       "isCountryExtreme": true,
-      "overallPercentDiff": 230.18,
+      "overallPercentDiff": 229.82,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -668,9 +659,46 @@
           "observedAt": "2026-09-01T12:30:10.466Z",
           "lastSeenAt": "2026-09-16T13:29:34.060Z",
           "currentPriceCents": 329900,
-          "currentPriceEurCents": 908,
+          "currentPriceEurCents": 907,
           "referencePriceCents": 329900,
-          "referencePriceEurCents": 908
+          "referencePriceEurCents": 907
+        }
+      ]
+    },
+    {
+      "productId": 41748,
+      "brand": "Fascino",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 229.78,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Strumpfhose glänzend powder Gr. 50/52, 15 DEN, 1 St",
+          "url": "https://www.dm.de/p/d/1715182/fascino-strumpfhose-glaenzend-powder-gr-50-52-15-den",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:03:41.837Z",
+          "lastSeenAt": "2026-10-03T19:03:41.837Z",
+          "currentPriceCents": 160,
+          "currentPriceEurCents": 160,
+          "referencePriceCents": 225,
+          "referencePriceEurCents": 225
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fényes harisnyanadrág, púder, 15 den, 50-52, 1 db",
+          "url": "https://www.dm.hu/p/d/1715182/fascino-fenyes-harisnyanadrag-puder-15-den-50-52",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:07.326Z",
+          "lastSeenAt": "2026-09-20T13:02:31.610Z",
+          "currentPriceCents": 269900,
+          "currentPriceEurCents": 742,
+          "referencePriceCents": 269900,
+          "referencePriceEurCents": 742
         }
       ]
     },
@@ -1042,47 +1070,10 @@
       ]
     },
     {
-      "productId": 48704,
-      "brand": "Gabriela Sabatini",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 213.96,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Eau de Toilette, 20 ml",
-          "url": "https://www.dm.de/p/d/1049471/gabriela-sabatini-eau-de-toilette",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:01.151Z",
-          "lastSeenAt": "2026-09-15T13:31:16.216Z",
-          "currentPriceCents": 745,
-          "currentPriceEurCents": 745,
-          "referencePriceCents": 745,
-          "referencePriceEurCents": 745
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Női EdT, 20 ml",
-          "url": "https://www.dm.hu/p/d/1049471/gabriela-sabatini-noi-edt",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:00.665Z",
-          "lastSeenAt": "2026-09-15T13:31:24.654Z",
-          "currentPriceCents": 849900,
-          "currentPriceEurCents": 2339,
-          "referencePriceCents": 849900,
-          "referencePriceEurCents": 2339
-        }
-      ]
-    },
-    {
       "productId": 35767,
       "brand": "POLICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 212.98,
+      "overallPercentDiff": 212.71,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1109,9 +1100,9 @@
           "observedAt": "2026-09-01T12:30:22.854Z",
           "lastSeenAt": "2026-09-21T15:05:41.766Z",
           "currentPriceCents": 1699900,
-          "currentPriceEurCents": 4679,
+          "currentPriceEurCents": 4675,
           "referencePriceCents": 1699900,
-          "referencePriceEurCents": 4679
+          "referencePriceEurCents": 4675
         }
       ]
     },
@@ -1119,7 +1110,7 @@
       "productId": 35884,
       "brand": "POLICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 212.98,
+      "overallPercentDiff": 212.71,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1146,9 +1137,9 @@
           "observedAt": "2026-09-01T12:30:07.326Z",
           "lastSeenAt": "2026-09-23T13:37:24.417Z",
           "currentPriceCents": 1699900,
-          "currentPriceEurCents": 4679,
+          "currentPriceEurCents": 4675,
           "referencePriceCents": 1699900,
-          "referencePriceEurCents": 4679
+          "referencePriceEurCents": 4675
         }
       ]
     },
@@ -1156,7 +1147,7 @@
       "productId": 28910,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 210.65,
+      "overallPercentDiff": 210.32,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1197,9 +1188,9 @@
           "observedAt": "2026-09-01T12:30:10.466Z",
           "lastSeenAt": "2026-09-20T13:02:31.610Z",
           "currentPriceCents": 349900,
-          "currentPriceEurCents": 963,
+          "currentPriceEurCents": 962,
           "referencePriceCents": 349900,
-          "referencePriceEurCents": 963
+          "referencePriceEurCents": 962
         }
       ]
     },
@@ -1244,7 +1235,7 @@
       "productId": 22665,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 208.78,
+      "overallPercentDiff": 208.29,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1299,9 +1290,9 @@
           "observedAt": "2026-09-01T12:30:10.466Z",
           "lastSeenAt": "2026-09-17T13:25:33.061Z",
           "currentPriceCents": 229900,
-          "currentPriceEurCents": 633,
+          "currentPriceEurCents": 632,
           "referencePriceCents": 229900,
-          "referencePriceEurCents": 633
+          "referencePriceEurCents": 632
         }
       ]
     },
@@ -1309,7 +1300,7 @@
       "productId": 12122,
       "brand": "L'ORÉAL PARiS",
       "isCountryExtreme": true,
-      "overallPercentDiff": 205.78,
+      "overallPercentDiff": 205.56,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1350,74 +1341,9 @@
           "observedAt": "2026-09-01T12:31:30.809Z",
           "lastSeenAt": "2026-09-29T10:39:25.487Z",
           "currentPriceCents": 499900,
-          "currentPriceEurCents": 1376,
+          "currentPriceEurCents": 1375,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1376
-        }
-      ]
-    },
-    {
-      "productId": 3980,
-      "brand": "TOM TAILOR",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 204.32,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Dream To Be edp, 30 ml",
-          "url": "https://www.dm.hr/p/d/3099830/tom-tailor-dream-to-be-edp",
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:09:41.120Z",
-          "lastSeenAt": "2026-09-15T13:30:55.284Z",
-          "currentPriceCents": 1490,
-          "currentPriceEurCents": 1490,
-          "referencePriceCents": 1490,
-          "referencePriceEurCents": 1490
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Eau de Parfum Dream to be, 30 ml",
-          "url": "https://www.dm.at/p/d/3099830/tom-tailor-eau-de-parfum-dream-to-be",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:53.579Z",
-          "lastSeenAt": "2026-09-15T13:31:04.722Z",
-          "currentPriceCents": 1395,
-          "currentPriceEurCents": 1395,
-          "referencePriceCents": 1395,
-          "referencePriceEurCents": 1395
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Dream to be Eau de Parfum, 30 ml",
-          "url": "https://www.dm.de/p/d/3099830/tom-tailor-dream-to-be-eau-de-parfum",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:26.297Z",
-          "lastSeenAt": "2026-09-15T13:31:14.345Z",
-          "currentPriceCents": 995,
-          "currentPriceEurCents": 995,
-          "referencePriceCents": 995,
-          "referencePriceEurCents": 995
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Női EdP Dream to be, 30 ml",
-          "url": "https://www.dm.hu/p/d/3099830/tom-tailor-noi-edp-dream-to-be",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:19.979Z",
-          "lastSeenAt": "2026-09-15T13:31:22.372Z",
-          "currentPriceCents": 1099900,
-          "currentPriceEurCents": 3028,
-          "referencePriceCents": 1099900,
-          "referencePriceEurCents": 3028
+          "referencePriceEurCents": 1375
         }
       ]
     },
@@ -1425,7 +1351,7 @@
       "productId": 7985,
       "brand": "TOM TAILOR",
       "isCountryExtreme": true,
-      "overallPercentDiff": 204.32,
+      "overallPercentDiff": 204.02,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1480,9 +1406,9 @@
           "observedAt": "2026-09-01T12:30:22.854Z",
           "lastSeenAt": "2026-09-24T13:32:21.725Z",
           "currentPriceCents": 1099900,
-          "currentPriceEurCents": 3028,
+          "currentPriceEurCents": 3025,
           "referencePriceCents": 1099900,
-          "referencePriceEurCents": 3028
+          "referencePriceEurCents": 3025
         },
         {
           "countryCode": "SI",
@@ -1504,7 +1430,7 @@
       "productId": 14619,
       "brand": "TOM TAILOR",
       "isCountryExtreme": true,
-      "overallPercentDiff": 204.32,
+      "overallPercentDiff": 204.02,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1559,9 +1485,9 @@
           "observedAt": "2026-09-01T12:30:22.854Z",
           "lastSeenAt": "2026-09-19T12:29:08.876Z",
           "currentPriceCents": 1099900,
-          "currentPriceEurCents": 3028,
+          "currentPriceEurCents": 3025,
           "referencePriceCents": 1099900,
-          "referencePriceEurCents": 3028
+          "referencePriceEurCents": 3025
         }
       ]
     },
@@ -1603,7 +1529,7 @@
       ]
     },
     {
-      "productId": 23829,
+      "productId": 25348,
       "brand": "Stella Jones",
       "isCountryExtreme": true,
       "overallPercentDiff": 203.45,
@@ -1613,11 +1539,11 @@
           "countryCode": "SI",
           "shopId": "dm-si",
           "currency": "EUR",
-          "name": "Hlačne nogavice Supersitz 20 DEN, 46-48, mandel, 1 kos",
-          "url": "https://www.dm.si/p/d/1894569/stella-jones-hlacne-nogavice-supersitz-20-den-46-48-mandel",
+          "name": "Hlačne nogavice Supersitz 20 DEN, 36-40, mandel, 1 kos",
+          "url": "https://www.dm.si/p/d/1893749/stella-jones-hlacne-nogavice-supersitz-20-den-36-40-mandel",
           "isPromo": true,
-          "observedAt": "2026-09-15T13:31:02.714Z",
-          "lastSeenAt": "2026-09-15T13:31:02.714Z",
+          "observedAt": "2026-10-03T19:13:20.552Z",
+          "lastSeenAt": "2026-10-03T19:13:20.552Z",
           "currentPriceCents": 95,
           "currentPriceEurCents": 95,
           "referencePriceCents": 145,
@@ -1627,15 +1553,117 @@
           "countryCode": "HU",
           "shopId": "dm-hu",
           "currency": "HUF",
-          "name": "Harisnyanadrág Supersitz 20 DEN, mandel, 46-48, 1 db",
-          "url": "https://www.dm.hu/p/d/1894569/stella-jones-harisnyanadrag-supersitz-20-den-mandel-46-48",
+          "name": "Harisnyanadrág Supersitz 20 DEN, mandel, 36-40, 1 db",
+          "url": "https://www.dm.hu/p/d/1893749/stella-jones-harisnyanadrag-supersitz-20-den-mandel-36-40",
           "isPromo": false,
-          "observedAt": "2026-09-01T12:30:10.466Z",
-          "lastSeenAt": "2026-09-15T13:31:22.372Z",
+          "observedAt": "2026-09-01T12:30:13.724Z",
+          "lastSeenAt": "2026-09-24T13:32:21.725Z",
           "currentPriceCents": 159900,
           "currentPriceEurCents": 440,
           "referencePriceCents": 159900,
           "referencePriceEurCents": 440
+        }
+      ]
+    },
+    {
+      "productId": 27011,
+      "brand": "Frosch",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 198.31,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Hygienereiniger Waschmaschine Citrus, 250 g",
+          "url": "https://www.dm.at/p/d/1489116/frosch-hygienereiniger-waschmaschine-citrus",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:57.773Z",
+          "lastSeenAt": "2026-10-05T17:07:18.202Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Hygienereiniger Waschmaschine Citrus, 250 g",
+          "url": "https://www.dm.de/p/d/1489116/frosch-hygienereiniger-waschmaschine-citrus",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:36.786Z",
+          "lastSeenAt": "2026-10-05T17:07:24.623Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Higiéniás mosógéptisztító por, 250 g",
+          "url": "https://www.dm.hu/p/d/1489116/frosch-higienias-mosogeptisztito-por",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:43.995Z",
+          "lastSeenAt": "2026-10-05T17:07:29.410Z",
+          "currentPriceCents": 319900,
+          "currentPriceEurCents": 880,
+          "referencePriceCents": 319900,
+          "referencePriceEurCents": 880
+        }
+      ]
+    },
+    {
+      "productId": 10571,
+      "brand": "PARIS CORNER",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 195.7,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Rifaaqat edp, 85 ml",
+          "url": "https://www.dm.hr/p/d/2977562/paris-corner-rifaaqat-edp",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:04:16.543Z",
+          "lastSeenAt": "2026-10-03T19:04:16.543Z",
+          "currentPriceCents": 695,
+          "currentPriceEurCents": 695,
+          "referencePriceCents": 1395,
+          "referencePriceEurCents": 1395
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Unisex parfumska voda Rifaaqat, 85 ml",
+          "url": "https://www.dm.si/p/d/2977562/paris-corner-unisex-parfumska-voda-rifaaqat",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:24.230Z",
+          "lastSeenAt": "2026-09-21T15:05:26.029Z",
+          "currentPriceCents": 2790,
+          "currentPriceEurCents": 2790,
+          "referencePriceCents": 2790,
+          "referencePriceEurCents": 2790
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Uniszex EdP Rifaaqat, 85 ml",
+          "url": "https://www.dm.hu/p/d/2977562/paris-corner-uniszex-edp-rifaaqat",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:22.854Z",
+          "lastSeenAt": "2026-09-21T15:05:41.766Z",
+          "currentPriceCents": 1499900,
+          "currentPriceEurCents": 4125,
+          "referencePriceCents": 1499900,
+          "referencePriceEurCents": 4125
         }
       ]
     }

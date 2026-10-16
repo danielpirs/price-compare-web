@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-15T09:41:09.600Z",
+  "generatedAt": "2026-10-16T09:34:55.758Z",
   "fx": {
-    "asOf": "2026-10-14",
+    "asOf": "2026-10-15",
     "rates": {
-      "USD": 1.1195,
-      "JPY": 177.39,
-      "CZK": 24.357,
-      "DKK": 7.4754,
-      "GBP": 0.84385,
-      "HUF": 363.3,
-      "PLN": 4.3658,
-      "RON": 5.3442,
-      "SEK": 11.158,
-      "CHF": 0.933,
+      "USD": 1.1208,
+      "JPY": 177.06,
+      "CZK": 24.353,
+      "DKK": 7.475,
+      "GBP": 0.8461,
+      "HUF": 363.6,
+      "PLN": 4.37,
+      "RON": 5.3337,
+      "SEK": 11.1765,
+      "CHF": 0.9305,
       "ISK": 136.4,
-      "NOK": 10.6035,
-      "TRY": 55.2921,
-      "AUD": 1.5971,
-      "BRL": 5.6246,
-      "CAD": 1.5918,
-      "CNY": 7.4925,
-      "HKD": 8.7859,
-      "IDR": 20062.67,
-      "ILS": 3.4443,
-      "INR": 106.5283,
-      "KRW": 1496.54,
-      "MXN": 20.56,
-      "MYR": 4.5704,
-      "NZD": 1.9941,
-      "PHP": 70.393,
-      "SGD": 1.4359,
-      "THB": 37.587,
-      "ZAR": 18.4382
+      "NOK": 10.652,
+      "TRY": 55.3873,
+      "AUD": 1.6218,
+      "BRL": 5.6679,
+      "CAD": 1.5923,
+      "CNY": 7.4993,
+      "HKD": 8.7953,
+      "IDR": 20112.25,
+      "ILS": 3.4769,
+      "INR": 106.5408,
+      "KRW": 1508.48,
+      "MXN": 20.7596,
+      "MYR": 4.5757,
+      "NZD": 2.0012,
+      "PHP": 70.693,
+      "SGD": 1.4379,
+      "THB": 37.592,
+      "ZAR": 18.5569
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -131,7 +131,7 @@
       "productId": 9740,
       "brand": "Moschino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 255.38,
+      "overallPercentDiff": 255.64,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -172,60 +172,9 @@
           "observedAt": "2026-10-03T19:06:11.832Z",
           "lastSeenAt": "2026-10-03T19:06:11.832Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 688,
+          "currentPriceEurCents": 687,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1376
-        }
-      ]
-    },
-    {
-      "productId": 917,
-      "brand": "NIVEA BABY",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 247.06,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "My first crème– krema za lice i tijelo, 75 ml",
-          "url": "https://www.dm.hr/p/d/2032029/nivea-baby-my-first-creme-krema-za-lice-i-tijelo",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:48:30.619Z",
-          "lastSeenAt": "2026-09-15T13:30:52.365Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Krema za dojenčke My First Creme, 75 ml",
-          "url": "https://www.dm.si/p/d/2032029/nivea-baby-krema-za-dojencke-my-first-creme",
-          "isPromo": true,
-          "observedAt": "2026-09-15T13:31:02.714Z",
-          "lastSeenAt": "2026-09-15T13:31:02.714Z",
-          "currentPriceCents": 40,
-          "currentPriceEurCents": 40,
-          "referencePriceCents": 85,
-          "referencePriceEurCents": 85
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Univerzális krém, My First Créme, 75 ml",
-          "url": "https://www.dm.hu/p/d/2032029/nivea-baby-univerzalis-krem-my-first-creme",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:22.557Z",
-          "lastSeenAt": "2026-09-15T13:31:24.654Z",
-          "currentPriceCents": 78900,
-          "currentPriceEurCents": 217,
-          "referencePriceCents": 78900,
-          "referencePriceEurCents": 217
+          "referencePriceEurCents": 1375
         }
       ]
     },
@@ -302,9 +251,9 @@
           "observedAt": "2026-09-01T12:33:11.663Z",
           "lastSeenAt": "2026-09-18T12:57:27.712Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 688,
+          "currentPriceEurCents": 687,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 688
+          "referencePriceEurCents": 687
         }
       ]
     },
@@ -979,7 +928,7 @@
       "productId": 2493,
       "brand": "FERRAGAMO",
       "isCountryExtreme": true,
-      "overallPercentDiff": 149.9,
+      "overallPercentDiff": 150.1,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1020,46 +969,88 @@
           "observedAt": "2026-10-03T19:06:10.259Z",
           "lastSeenAt": "2026-10-03T19:06:10.259Z",
           "currentPriceCents": 449900,
-          "currentPriceEurCents": 1238,
+          "currentPriceEurCents": 1237,
           "referencePriceCents": 899900,
-          "referencePriceEurCents": 2477
+          "referencePriceEurCents": 2475
         }
       ]
     },
     {
-      "productId": 6048,
-      "brand": "Signal",
+      "productId": 2245,
+      "brand": "Dontodent PRO+",
       "isCountryExtreme": true,
-      "overallPercentDiff": 146.89,
+      "overallPercentDiff": 145.54,
       "gapToExtremePercent": 0,
       "countries": [
         {
           "countryCode": "HR",
           "shopId": "dm-hr",
           "currency": "EUR",
-          "name": "Četkica za zube Charcoal Sensisoft, 2 kom.",
-          "url": "https://www.dm.hr/p/d/2444837/signal-cetkica-za-zube-charcoal-sensisoft",
-          "isPromo": true,
-          "observedAt": "2026-09-15T13:30:55.284Z",
-          "lastSeenAt": "2026-09-15T13:30:55.284Z",
-          "currentPriceCents": 325,
-          "currentPriceEurCents": 325,
-          "referencePriceCents": 595,
-          "referencePriceEurCents": 595
+          "name": "Četkica za zube – soft, više vrsta, 2 kom.",
+          "url": "https://www.dm.hr/p/d/3042915/dontodent-pro-cetkica-za-zube-soft-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:57:35.873Z",
+          "lastSeenAt": "2026-09-17T13:25:06.330Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Zobna ščetka za krepitev in zaščito dlesni PRO+,..., 2 kos",
+          "url": "https://www.dm.si/p/d/3042915/dontodent-pro-zobna-scetka-za-krepitev-in-zascito-dlesni-pro-soft-vec-razlicic",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:45.469Z",
+          "lastSeenAt": "2026-09-17T13:24:59.356Z",
+          "currentPriceCents": 230,
+          "currentPriceEurCents": 230,
+          "referencePriceCents": 230,
+          "referencePriceEurCents": 230
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Zahnbürste Pro+ Sensitive Complete Care weich..., 2 St",
+          "url": "https://www.dm.at/p/d/3042915/dontodent-pro-zahnbuerste-pro-sensitive-complete-care-weich-sortiert",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:47.920Z",
+          "lastSeenAt": "2026-09-17T13:25:12.258Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Zahnbürste PRO+ Zahnfleischschutz & Stärkung weich, 2 St",
+          "url": "https://www.dm.de/p/d/3042915/dontodent-pro-zahnbuerste-pro-zahnfleischschutz-und-staerkung-weich",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:11.101Z",
+          "lastSeenAt": "2026-09-17T13:25:25.489Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
         },
         {
           "countryCode": "HU",
           "shopId": "dm-hu",
           "currency": "HUF",
-          "name": "Fogkefe charcoal sensisoft (többféle), 2 db",
-          "url": "https://www.dm.hu/p/d/2444837/signal-fogkefe-charcoal-sensisoft-tobbfele",
+          "name": "Ínyvédő és erősítő fogkefe PRO+, puha, többféle, 2 db",
+          "url": "https://www.dm.hu/p/d/3042915/dontodent-pro-inyvedo-es-erosito-fogkefe-pro-puha-tobbfele",
           "isPromo": false,
-          "observedAt": "2026-09-01T12:32:07.099Z",
-          "lastSeenAt": "2026-09-15T13:31:24.654Z",
-          "currentPriceCents": 87500,
-          "currentPriceEurCents": 241,
-          "referencePriceCents": 87500,
-          "referencePriceEurCents": 241
+          "observedAt": "2026-09-01T12:29:46.464Z",
+          "lastSeenAt": "2026-09-17T13:25:33.061Z",
+          "currentPriceCents": 40900,
+          "currentPriceEurCents": 112,
+          "referencePriceCents": 40900,
+          "referencePriceEurCents": 112
         }
       ]
     },
@@ -1277,85 +1268,6 @@
       ]
     },
     {
-      "productId": 2245,
-      "brand": "Dontodent PRO+",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 143.36,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Četkica za zube – soft, više vrsta, 2 kom.",
-          "url": "https://www.dm.hr/p/d/3042915/dontodent-pro-cetkica-za-zube-soft-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:57:35.873Z",
-          "lastSeenAt": "2026-09-17T13:25:06.330Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Zobna ščetka za krepitev in zaščito dlesni PRO+,..., 2 kos",
-          "url": "https://www.dm.si/p/d/3042915/dontodent-pro-zobna-scetka-za-krepitev-in-zascito-dlesni-pro-soft-vec-razlicic",
-          "isPromo": false,
-          "observedAt": "2026-08-30T21:47:45.469Z",
-          "lastSeenAt": "2026-09-17T13:24:59.356Z",
-          "currentPriceCents": 230,
-          "currentPriceEurCents": 230,
-          "referencePriceCents": 230,
-          "referencePriceEurCents": 230
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Zahnbürste Pro+ Sensitive Complete Care weich..., 2 St",
-          "url": "https://www.dm.at/p/d/3042915/dontodent-pro-zahnbuerste-pro-sensitive-complete-care-weich-sortiert",
-          "isPromo": false,
-          "observedAt": "2026-08-30T21:47:47.920Z",
-          "lastSeenAt": "2026-09-17T13:25:12.258Z",
-          "currentPriceCents": 245,
-          "currentPriceEurCents": 245,
-          "referencePriceCents": 245,
-          "referencePriceEurCents": 245
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Zahnbürste PRO+ Zahnfleischschutz & Stärkung weich, 2 St",
-          "url": "https://www.dm.de/p/d/3042915/dontodent-pro-zahnbuerste-pro-zahnfleischschutz-und-staerkung-weich",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:11.101Z",
-          "lastSeenAt": "2026-09-17T13:25:25.489Z",
-          "currentPriceCents": 245,
-          "currentPriceEurCents": 245,
-          "referencePriceCents": 245,
-          "referencePriceEurCents": 245
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Ínyvédő és erősítő fogkefe PRO+, puha, többféle, 2 db",
-          "url": "https://www.dm.hu/p/d/3042915/dontodent-pro-inyvedo-es-erosito-fogkefe-pro-puha-tobbfele",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:29:46.464Z",
-          "lastSeenAt": "2026-09-17T13:25:33.061Z",
-          "currentPriceCents": 40900,
-          "currentPriceEurCents": 113,
-          "referencePriceCents": 40900,
-          "referencePriceEurCents": 113
-        }
-      ]
-    },
-    {
       "productId": 448,
       "brand": "Dontodent PRO+",
       "isCountryExtreme": true,
@@ -1468,6 +1380,164 @@
           "currentPriceEurCents": 125,
           "referencePriceCents": 125,
           "referencePriceEurCents": 125
+        }
+      ]
+    },
+    {
+      "productId": 10299,
+      "brand": "Dontodent",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 133.33,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Junior dječja četkica za zube – mekana, više vrsta, 2 kom.",
+          "url": "https://www.dm.hr/p/d/3042366/dontodent-junior-djecja-cetkica-za-zube-mekana-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:01.290Z",
+          "lastSeenAt": "2026-09-19T12:28:52.086Z",
+          "currentPriceCents": 175,
+          "currentPriceEurCents": 175,
+          "referencePriceCents": 175,
+          "referencePriceEurCents": 175
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Otroška zobna ščetka Junior X-Cut, mehka, 6+ let,..., 2 kos",
+          "url": "https://www.dm.si/p/d/3042366/dontodent-otroska-zobna-scetka-junior-x-cut-mehka-6-let-vec-razlicic",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:05.929Z",
+          "lastSeenAt": "2026-09-19T12:28:47.362Z",
+          "currentPriceCents": 95,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Zahnbürste Junior sortiert, 2 St",
+          "url": "https://www.dm.at/p/d/3042366/dontodent-zahnbuerste-junior-sortiert",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:25.759Z",
+          "lastSeenAt": "2026-09-19T12:28:56.294Z",
+          "currentPriceCents": 115,
+          "currentPriceEurCents": 115,
+          "referencePriceCents": 115,
+          "referencePriceEurCents": 115
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Zahnbürste Junior X-Cut weich, 2 St",
+          "url": "https://www.dm.de/p/d/3042366/dontodent-zahnbuerste-junior-x-cut-weich",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:13.515Z",
+          "lastSeenAt": "2026-09-19T12:29:01.335Z",
+          "currentPriceCents": 75,
+          "currentPriceEurCents": 75,
+          "referencePriceCents": 75,
+          "referencePriceEurCents": 75
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkefe X-profilú sörtékkel, gyermekeknek 6 éves..., 2 db",
+          "url": "https://www.dm.hu/p/d/3042366/dontodent-fogkefe-x-profilu-sortekkel-gyermekeknek-6-eves-kortol-puha-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:04.184Z",
+          "lastSeenAt": "2026-09-19T12:29:08.876Z",
+          "currentPriceCents": 37900,
+          "currentPriceEurCents": 104,
+          "referencePriceCents": 37900,
+          "referencePriceEurCents": 104
+        }
+      ]
+    },
+    {
+      "productId": 12578,
+      "brand": "Balea PROFESSIONAL",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 130.77,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Šampon za rast i jačanje kose, 250 ml",
+          "url": "https://www.dm.hr/p/d/1624322/balea-professional-sampon-za-rast-i-jacanje-kose",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:15.395Z",
+          "lastSeenAt": "2026-09-19T12:28:52.086Z",
+          "currentPriceCents": 330,
+          "currentPriceEurCents": 330,
+          "referencePriceCents": 330,
+          "referencePriceEurCents": 330
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Šampon za lase WACHSTUM + STÄRKE, 250 ml",
+          "url": "https://www.dm.si/p/d/1624322/balea-professional-sampon-za-lase-wachstum-starke",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:05.929Z",
+          "lastSeenAt": "2026-09-19T12:28:50.169Z",
+          "currentPriceCents": 265,
+          "currentPriceEurCents": 265,
+          "referencePriceCents": 265,
+          "referencePriceEurCents": 265
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Shampoo Wachstum und Stärke, 250 ml",
+          "url": "https://www.dm.at/p/d/1624322/balea-professional-shampoo-wachstum-und-staerke",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:13.158Z",
+          "lastSeenAt": "2026-09-19T12:28:56.294Z",
+          "currentPriceCents": 265,
+          "currentPriceEurCents": 265,
+          "referencePriceCents": 265,
+          "referencePriceEurCents": 265
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Shampoo Wachstum + Stärke, 250 ml",
+          "url": "https://www.dm.de/p/d/1624322/balea-professional-shampoo-wachstum-staerke",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:19.091Z",
+          "lastSeenAt": "2026-09-19T12:29:05.833Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 195,
+          "referencePriceEurCents": 195
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Növekedést segítő és hajerősítő sampon, gyenge és..., 250 ml",
+          "url": "https://www.dm.hu/p/d/1624322/balea-professional-novekedest-segito-es-hajerosito-sampon-gyenge-es-toredezett-hajra",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:17.495Z",
+          "lastSeenAt": "2026-09-19T12:29:08.876Z",
+          "currentPriceCents": 51900,
+          "currentPriceEurCents": 143,
+          "referencePriceCents": 51900,
+          "referencePriceEurCents": 143
         }
       ]
     }

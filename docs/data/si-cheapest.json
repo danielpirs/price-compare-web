@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-15T09:41:09.600Z",
+  "generatedAt": "2026-10-16T09:34:55.758Z",
   "fx": {
-    "asOf": "2026-10-14",
+    "asOf": "2026-10-15",
     "rates": {
-      "USD": 1.1195,
-      "JPY": 177.39,
-      "CZK": 24.357,
-      "DKK": 7.4754,
-      "GBP": 0.84385,
-      "HUF": 363.3,
-      "PLN": 4.3658,
-      "RON": 5.3442,
-      "SEK": 11.158,
-      "CHF": 0.933,
+      "USD": 1.1208,
+      "JPY": 177.06,
+      "CZK": 24.353,
+      "DKK": 7.475,
+      "GBP": 0.8461,
+      "HUF": 363.6,
+      "PLN": 4.37,
+      "RON": 5.3337,
+      "SEK": 11.1765,
+      "CHF": 0.9305,
       "ISK": 136.4,
-      "NOK": 10.6035,
-      "TRY": 55.2921,
-      "AUD": 1.5971,
-      "BRL": 5.6246,
-      "CAD": 1.5918,
-      "CNY": 7.4925,
-      "HKD": 8.7859,
-      "IDR": 20062.67,
-      "ILS": 3.4443,
-      "INR": 106.5283,
-      "KRW": 1496.54,
-      "MXN": 20.56,
-      "MYR": 4.5704,
-      "NZD": 1.9941,
-      "PHP": 70.393,
-      "SGD": 1.4359,
-      "THB": 37.587,
-      "ZAR": 18.4382
+      "NOK": 10.652,
+      "TRY": 55.3873,
+      "AUD": 1.6218,
+      "BRL": 5.6679,
+      "CAD": 1.5923,
+      "CNY": 7.4993,
+      "HKD": 8.7953,
+      "IDR": 20112.25,
+      "ILS": 3.4769,
+      "INR": 106.5408,
+      "KRW": 1508.48,
+      "MXN": 20.7596,
+      "MYR": 4.5757,
+      "NZD": 2.0012,
+      "PHP": 70.693,
+      "SGD": 1.4379,
+      "THB": 37.592,
+      "ZAR": 18.5569
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -94,7 +94,7 @@
       "productId": 21062,
       "brand": "HALLOHEBAMME",
       "isCountryExtreme": true,
-      "overallPercentDiff": 450.53,
+      "overallPercentDiff": 449.47,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -137,58 +137,7 @@
           "currentPriceCents": 99900,
           "currentPriceEurCents": 275,
           "referencePriceCents": 189900,
-          "referencePriceEurCents": 523
-        }
-      ]
-    },
-    {
-      "productId": 21179,
-      "brand": "HALLOHEBAMME",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 450.53,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Masažni gel za nego brazgotin in strij, 50 ml",
-          "url": "https://www.dm.si/p/d/2486105/hallohebamme-masazni-gel-za-nego-brazgotin-in-strij",
-          "isPromo": true,
-          "observedAt": "2026-09-15T13:31:00.648Z",
-          "lastSeenAt": "2026-09-15T13:31:00.648Z",
-          "currentPriceCents": 45,
-          "currentPriceEurCents": 45,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Massage Gel, 50 ml",
-          "url": "https://www.dm.de/p/d/2486105/hallohebamme-massage-gel",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:36.786Z",
-          "lastSeenAt": "2026-09-15T13:31:14.345Z",
-          "currentPriceCents": 495,
-          "currentPriceEurCents": 495,
-          "referencePriceCents": 495,
-          "referencePriceEurCents": 495
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Masszázsgél kismamáknak, 50 ml",
-          "url": "https://www.dm.hu/p/d/2486105/hallohebamme-masszazsgel-kismamaknak",
-          "isPromo": true,
-          "observedAt": "2026-09-15T13:31:24.654Z",
-          "lastSeenAt": "2026-09-15T13:31:24.654Z",
-          "currentPriceCents": 99900,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 189900,
-          "referencePriceEurCents": 523
+          "referencePriceEurCents": 522
         }
       ]
     },
@@ -196,7 +145,7 @@
       "productId": 11299,
       "brand": "BIBS",
       "isCountryExtreme": true,
-      "overallPercentDiff": 413.22,
+      "overallPercentDiff": 412.54,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -251,9 +200,9 @@
           "observedAt": "2026-09-01T12:29:59.422Z",
           "lastSeenAt": "2026-10-01T15:26:09.549Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1514,
+          "currentPriceEurCents": 1512,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1514
+          "referencePriceEurCents": 1512
         }
       ]
     },
@@ -261,7 +210,7 @@
       "productId": 9358,
       "brand": "BIBS",
       "isCountryExtreme": true,
-      "overallPercentDiff": 395.33,
+      "overallPercentDiff": 395,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -302,9 +251,9 @@
           "observedAt": "2026-09-01T12:32:25.549Z",
           "lastSeenAt": "2026-09-21T15:05:43.878Z",
           "currentPriceCents": 539900,
-          "currentPriceEurCents": 1486,
+          "currentPriceEurCents": 1485,
           "referencePriceCents": 539900,
-          "referencePriceEurCents": 1486
+          "referencePriceEurCents": 1485
         }
       ]
     },
@@ -536,57 +485,6 @@
       ]
     },
     {
-      "productId": 917,
-      "brand": "NIVEA BABY",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 247.06,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "My first crème– krema za lice i tijelo, 75 ml",
-          "url": "https://www.dm.hr/p/d/2032029/nivea-baby-my-first-creme-krema-za-lice-i-tijelo",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:48:30.619Z",
-          "lastSeenAt": "2026-09-15T13:30:52.365Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Krema za dojenčke My First Creme, 75 ml",
-          "url": "https://www.dm.si/p/d/2032029/nivea-baby-krema-za-dojencke-my-first-creme",
-          "isPromo": true,
-          "observedAt": "2026-09-15T13:31:02.714Z",
-          "lastSeenAt": "2026-09-15T13:31:02.714Z",
-          "currentPriceCents": 40,
-          "currentPriceEurCents": 40,
-          "referencePriceCents": 85,
-          "referencePriceEurCents": 85
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Univerzális krém, My First Créme, 75 ml",
-          "url": "https://www.dm.hu/p/d/2032029/nivea-baby-univerzalis-krem-my-first-creme",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:22.557Z",
-          "lastSeenAt": "2026-09-15T13:31:24.654Z",
-          "currentPriceCents": 78900,
-          "currentPriceEurCents": 217,
-          "referencePriceCents": 78900,
-          "referencePriceEurCents": 217
-        }
-      ]
-    },
-    {
       "productId": 20907,
       "brand": "WELEDA baby",
       "isCountryExtreme": true,
@@ -675,6 +573,85 @@
       ]
     },
     {
+      "productId": 2140,
+      "brand": "ebelin",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 236.11,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Spiralna četka za raščešljavanje kose – mačka,..., 1 kom.",
+          "url": "https://www.dm.hr/p/d/3063718/ebelin-spiralna-cetka-za-rascesljavanje-kose-macka-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:56:56.054Z",
+          "lastSeenAt": "2026-10-15T13:23:03.684Z",
+          "currentPriceCents": 345,
+          "currentPriceEurCents": 345,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Spiralna krtača za razčesavanje, več različic, 1 kos",
+          "url": "https://www.dm.si/p/d/3063718/ebelin-spiralna-krtaca-za-razcesavanje-vec-razlicic",
+          "isPromo": false,
+          "observedAt": "2026-10-15T13:23:09.814Z",
+          "lastSeenAt": "2026-10-15T13:23:09.814Z",
+          "currentPriceCents": 180,
+          "currentPriceEurCents": 180,
+          "referencePriceCents": 180,
+          "referencePriceEurCents": 180
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Spiralentwirrbürste Katzenoptik sortiert, 1 St",
+          "url": "https://www.dm.at/p/d/3063718/ebelin-spiralentwirrbuerste-katzenoptik-sortiert",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:36.315Z",
+          "lastSeenAt": "2026-10-15T13:23:15.659Z",
+          "currentPriceCents": 345,
+          "currentPriceEurCents": 345,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Spiralentwirrbürste mit Katzenohren, 1 St",
+          "url": "https://www.dm.de/p/d/3063718/ebelin-spiralentwirrbuerste-mit-katzenohren",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:59.460Z",
+          "lastSeenAt": "2026-10-15T13:23:24.454Z",
+          "currentPriceCents": 345,
+          "currentPriceEurCents": 345,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Spirál alakú hajbontókefe macskafülekkel, többféle, 1 db",
+          "url": "https://www.dm.hu/p/d/3063718/ebelin-spiral-alaku-hajbontokefe-macskafulekkel-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:00.665Z",
+          "lastSeenAt": "2026-10-15T13:23:25.815Z",
+          "currentPriceCents": 219900,
+          "currentPriceEurCents": 605,
+          "referencePriceCents": 219900,
+          "referencePriceEurCents": 605
+        }
+      ]
+    },
+    {
       "productId": 55919,
       "brand": "Stella Jones",
       "isCountryExtreme": true,
@@ -715,7 +692,7 @@
       "productId": 22234,
       "brand": "Stella Jones",
       "isCountryExtreme": true,
-      "overallPercentDiff": 230.18,
+      "overallPercentDiff": 229.82,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -742,9 +719,9 @@
           "observedAt": "2026-09-01T12:30:10.466Z",
           "lastSeenAt": "2026-09-16T13:29:34.060Z",
           "currentPriceCents": 329900,
-          "currentPriceEurCents": 908,
+          "currentPriceEurCents": 907,
           "referencePriceCents": 329900,
-          "referencePriceEurCents": 908
+          "referencePriceEurCents": 907
         }
       ]
     },
@@ -921,43 +898,6 @@
           "currentPriceEurCents": 605,
           "referencePriceCents": 219900,
           "referencePriceEurCents": 605
-        }
-      ]
-    },
-    {
-      "productId": 23829,
-      "brand": "Stella Jones",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 203.45,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Hlačne nogavice Supersitz 20 DEN, 46-48, mandel, 1 kos",
-          "url": "https://www.dm.si/p/d/1894569/stella-jones-hlacne-nogavice-supersitz-20-den-46-48-mandel",
-          "isPromo": true,
-          "observedAt": "2026-09-15T13:31:02.714Z",
-          "lastSeenAt": "2026-09-15T13:31:02.714Z",
-          "currentPriceCents": 95,
-          "currentPriceEurCents": 95,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Harisnyanadrág Supersitz 20 DEN, mandel, 46-48, 1 db",
-          "url": "https://www.dm.hu/p/d/1894569/stella-jones-harisnyanadrag-supersitz-20-den-mandel-46-48",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:10.466Z",
-          "lastSeenAt": "2026-09-15T13:31:22.372Z",
-          "currentPriceCents": 159900,
-          "currentPriceEurCents": 440,
-          "referencePriceCents": 159900,
-          "referencePriceEurCents": 440
         }
       ]
     },
@@ -1252,7 +1192,7 @@
       "productId": 16032,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 184.83,
+      "overallPercentDiff": 184.14,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1293,9 +1233,9 @@
           "observedAt": "2026-09-01T12:32:30.488Z",
           "lastSeenAt": "2026-09-17T13:25:35.754Z",
           "currentPriceCents": 149900,
-          "currentPriceEurCents": 413,
+          "currentPriceEurCents": 412,
           "referencePriceCents": 149900,
-          "referencePriceEurCents": 413
+          "referencePriceEurCents": 412
         }
       ]
     },
@@ -1440,6 +1380,80 @@
           "currentPriceEurCents": 375,
           "referencePriceCents": 375,
           "referencePriceEurCents": 375
+        }
+      ]
+    },
+    {
+      "productId": 19304,
+      "brand": "Stella Jones",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 179.66,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Hlačne nogavice Resistant 20 DEN, 46-48,..., 1 kos",
+          "url": "https://www.dm.si/p/d/1745238/stella-jones-hlacne-nogavice-resistant-20-den-46-48-champagner",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:20.552Z",
+          "lastSeenAt": "2026-10-03T19:13:20.552Z",
+          "currentPriceCents": 199,
+          "currentPriceEurCents": 199,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Harisnyanadrág Resistant 20 DEN, champagner, 46-48, 1 db",
+          "url": "https://www.dm.hu/p/d/1745238/stella-jones-harisnyanadrag-resistant-20-den-champagner-46-48",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:10.466Z",
+          "lastSeenAt": "2026-10-03T13:21:36.090Z",
+          "currentPriceCents": 299900,
+          "currentPriceEurCents": 825,
+          "referencePriceCents": 299900,
+          "referencePriceEurCents": 825
+        }
+      ]
+    },
+    {
+      "productId": 19815,
+      "brand": "Stella Jones",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 179.66,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Hlačne nogavice Resistant 20 DEN, 46-48, črne, 1 kos",
+          "url": "https://www.dm.si/p/d/1745241/stella-jones-hlacne-nogavice-resistant-20-den-46-48-crne",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:20.552Z",
+          "lastSeenAt": "2026-10-03T19:13:20.552Z",
+          "currentPriceCents": 199,
+          "currentPriceEurCents": 199,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Harisnyanadrág Resistant 20 DEN, fekete, 46-48, 1 db",
+          "url": "https://www.dm.hu/p/d/1745241/stella-jones-harisnyanadrag-resistant-20-den-fekete-46-48",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:13.724Z",
+          "lastSeenAt": "2026-09-17T13:25:33.061Z",
+          "currentPriceCents": 299900,
+          "currentPriceEurCents": 825,
+          "referencePriceCents": 299900,
+          "referencePriceEurCents": 825
         }
       ]
     }
