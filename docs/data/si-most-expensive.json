@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-16T09:34:55.758Z",
+  "generatedAt": "2026-10-17T09:05:39.497Z",
   "fx": {
-    "asOf": "2026-10-15",
+    "asOf": "2026-10-16",
     "rates": {
-      "USD": 1.1208,
-      "JPY": 177.06,
-      "CZK": 24.353,
-      "DKK": 7.475,
-      "GBP": 0.8461,
-      "HUF": 363.6,
+      "USD": 1.1253,
+      "JPY": 177.82,
+      "CZK": 24.323,
+      "DKK": 7.4748,
+      "GBP": 0.84385,
+      "HUF": 363.08,
       "PLN": 4.37,
-      "RON": 5.3337,
-      "SEK": 11.1765,
-      "CHF": 0.9305,
-      "ISK": 136.4,
-      "NOK": 10.652,
-      "TRY": 55.3873,
-      "AUD": 1.6218,
-      "BRL": 5.6679,
-      "CAD": 1.5923,
-      "CNY": 7.4993,
-      "HKD": 8.7953,
-      "IDR": 20112.25,
-      "ILS": 3.4769,
-      "INR": 106.5408,
-      "KRW": 1508.48,
-      "MXN": 20.7596,
-      "MYR": 4.5757,
-      "NZD": 2.0012,
-      "PHP": 70.693,
-      "SGD": 1.4379,
-      "THB": 37.592,
-      "ZAR": 18.5569
+      "RON": 5.331,
+      "SEK": 11.145,
+      "CHF": 0.9272,
+      "ISK": 136.2,
+      "NOK": 10.624,
+      "TRY": 55.7328,
+      "AUD": 1.6171,
+      "BRL": 5.7197,
+      "CAD": 1.5935,
+      "CNY": 7.524,
+      "HKD": 8.8316,
+      "IDR": 20290.28,
+      "ILS": 3.4822,
+      "INR": 106.864,
+      "KRW": 1499.01,
+      "MXN": 20.6871,
+      "MYR": 4.5929,
+      "NZD": 1.9868,
+      "PHP": 70.858,
+      "SGD": 1.4395,
+      "THB": 37.602,
+      "ZAR": 18.493
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -68,7 +68,7 @@
           "url": "https://www.dm.hr/p/d/1712002/sundance-suncane-naocale-za-odrasle-rozi-motiv",
           "isPromo": true,
           "observedAt": "2026-09-16T13:29:12.194Z",
-          "lastSeenAt": "2026-09-16T13:29:12.194Z",
+          "lastSeenAt": "2026-10-16T13:13:38.697Z",
           "currentPriceCents": 145,
           "currentPriceEurCents": 145,
           "referencePriceCents": 210,
@@ -124,85 +124,6 @@
           "currentPriceEurCents": 145,
           "referencePriceCents": 145,
           "referencePriceEurCents": 145
-        }
-      ]
-    },
-    {
-      "productId": 6888,
-      "brand": "ebelin",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 314.29,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Osvježavajuće maramice, 10 kom.",
-          "url": "https://www.dm.hr/p/d/1673199/ebelin-osvjezavajuce-maramice",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:40.566Z",
-          "lastSeenAt": "2026-09-25T13:43:59.322Z",
-          "currentPriceCents": 120,
-          "currentPriceEurCents": 120,
-          "referencePriceCents": 120,
-          "referencePriceEurCents": 120
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Osvežilni robčki z vonjem po limoni, 10 kos",
-          "url": "https://www.dm.si/p/d/1673199/ebelin-osvezilni-robcki-z-vonjem-po-limoni",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:32.828Z",
-          "lastSeenAt": "2026-09-25T13:43:54.989Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Erfrischungstücher Citrusduft, 10 St",
-          "url": "https://www.dm.at/p/d/1673199/ebelin-erfrischungstuecher-citrusduft",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:38:13.953Z",
-          "lastSeenAt": "2026-09-25T13:44:09.066Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Erfrischungstücher Citrusduft, 10 St",
-          "url": "https://www.dm.de/p/d/1673199/ebelin-erfrischungstuecher-citrusduft",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:34.304Z",
-          "lastSeenAt": "2026-09-25T13:44:04.966Z",
-          "currentPriceCents": 95,
-          "currentPriceEurCents": 95,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Arcfrissítő kendők citrus illattal, 10 db",
-          "url": "https://www.dm.hu/p/d/1673199/ebelin-arcfrissito-kendok-citrus-illattal",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:06:07.103Z",
-          "lastSeenAt": "2026-10-03T19:06:07.103Z",
-          "currentPriceCents": 9900,
-          "currentPriceEurCents": 27,
-          "referencePriceCents": 12900,
-          "referencePriceEurCents": 35
         }
       ]
     },
@@ -281,10 +202,126 @@
       ]
     },
     {
+      "productId": 6888,
+      "brand": "ebelin",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 302.78,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Osvježavajuće maramice, 10 kom.",
+          "url": "https://www.dm.hr/p/d/1673199/ebelin-osvjezavajuce-maramice",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:40.566Z",
+          "lastSeenAt": "2026-09-25T13:43:59.322Z",
+          "currentPriceCents": 120,
+          "currentPriceEurCents": 120,
+          "referencePriceCents": 120,
+          "referencePriceEurCents": 120
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Osvežilni robčki z vonjem po limoni, 10 kos",
+          "url": "https://www.dm.si/p/d/1673199/ebelin-osvezilni-robcki-z-vonjem-po-limoni",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:32.828Z",
+          "lastSeenAt": "2026-09-25T13:43:54.989Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Erfrischungstücher Citrusduft, 10 St",
+          "url": "https://www.dm.at/p/d/1673199/ebelin-erfrischungstuecher-citrusduft",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:38:13.953Z",
+          "lastSeenAt": "2026-09-25T13:44:09.066Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Erfrischungstücher Citrusduft, 10 St",
+          "url": "https://www.dm.de/p/d/1673199/ebelin-erfrischungstuecher-citrusduft",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:34.304Z",
+          "lastSeenAt": "2026-09-25T13:44:04.966Z",
+          "currentPriceCents": 95,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Arcfrissítő kendők citrus illattal, 10 db",
+          "url": "https://www.dm.hu/p/d/1673199/ebelin-arcfrissito-kendok-citrus-illattal",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:07.103Z",
+          "lastSeenAt": "2026-10-03T19:06:07.103Z",
+          "currentPriceCents": 9900,
+          "currentPriceEurCents": 27,
+          "referencePriceCents": 12900,
+          "referencePriceEurCents": 36
+        }
+      ]
+    },
+    {
+      "productId": 16410,
+      "brand": "adidas",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 242.11,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Antiperspirant v spreju Ultra Fresh Control, 150 ml",
+          "url": "https://www.dm.si/p/d/3068360/adidas-antiperspirant-v-spreju-ultra-fresh-control",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:56.419Z",
+          "lastSeenAt": "2026-10-01T15:25:52.013Z",
+          "currentPriceCents": 390,
+          "currentPriceEurCents": 390,
+          "referencePriceCents": 390,
+          "referencePriceEurCents": 390
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Deo spray Ultra Fresh Control, 150 ml",
+          "url": "https://www.dm.hu/p/d/3068360/adidas-deo-spray-ultra-fresh-control",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:17.999Z",
+          "lastSeenAt": "2026-10-03T19:06:17.999Z",
+          "currentPriceCents": 19900,
+          "currentPriceEurCents": 55,
+          "referencePriceCents": 41500,
+          "referencePriceEurCents": 114
+        }
+      ]
+    },
+    {
       "productId": 21037,
       "brand": "Beauty of Joseon",
       "isCountryExtreme": true,
-      "overallPercentDiff": 242.29,
+      "overallPercentDiff": 241.7,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -327,44 +364,7 @@
           "currentPriceCents": 104900,
           "currentPriceEurCents": 289,
           "referencePriceCents": 209900,
-          "referencePriceEurCents": 577
-        }
-      ]
-    },
-    {
-      "productId": 16410,
-      "brand": "adidas",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 242.11,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Antiperspirant v spreju Ultra Fresh Control, 150 ml",
-          "url": "https://www.dm.si/p/d/3068360/adidas-antiperspirant-v-spreju-ultra-fresh-control",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:56.419Z",
-          "lastSeenAt": "2026-10-01T15:25:52.013Z",
-          "currentPriceCents": 390,
-          "currentPriceEurCents": 390,
-          "referencePriceCents": 390,
-          "referencePriceEurCents": 390
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Deo spray Ultra Fresh Control, 150 ml",
-          "url": "https://www.dm.hu/p/d/3068360/adidas-deo-spray-ultra-fresh-control",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:06:17.999Z",
-          "lastSeenAt": "2026-10-03T19:06:17.999Z",
-          "currentPriceCents": 19900,
-          "currentPriceEurCents": 55,
-          "referencePriceCents": 41500,
-          "referencePriceEurCents": 114
+          "referencePriceEurCents": 578
         }
       ]
     },
@@ -464,9 +464,9 @@
           "observedAt": "2026-10-03T19:06:13.313Z",
           "lastSeenAt": "2026-10-03T19:06:13.313Z",
           "currentPriceCents": 219900,
-          "currentPriceEurCents": 605,
+          "currentPriceEurCents": 606,
           "referencePriceCents": 439900,
-          "referencePriceEurCents": 1210
+          "referencePriceEurCents": 1212
         }
       ]
     },
@@ -474,7 +474,7 @@
       "productId": 18438,
       "brand": "adidas",
       "isCountryExtreme": true,
-      "overallPercentDiff": 221.43,
+      "overallPercentDiff": 218.58,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -503,7 +503,7 @@
           "currentPriceCents": 19900,
           "currentPriceEurCents": 55,
           "referencePriceCents": 40900,
-          "referencePriceEurCents": 112
+          "referencePriceEurCents": 113
         }
       ]
     },
@@ -511,7 +511,7 @@
       "productId": 22917,
       "brand": "adidas",
       "isCountryExtreme": true,
-      "overallPercentDiff": 221.43,
+      "overallPercentDiff": 218.58,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -540,7 +540,7 @@
           "currentPriceCents": 19900,
           "currentPriceEurCents": 55,
           "referencePriceCents": 40900,
-          "referencePriceEurCents": 112
+          "referencePriceEurCents": 113
         }
       ]
     },
@@ -728,7 +728,7 @@
           "observedAt": "2026-10-03T19:06:07.103Z",
           "lastSeenAt": "2026-10-03T19:06:07.103Z",
           "currentPriceCents": 24900,
-          "currentPriceEurCents": 68,
+          "currentPriceEurCents": 69,
           "referencePriceCents": 49900,
           "referencePriceEurCents": 137
         }
@@ -793,9 +793,9 @@
           "observedAt": "2026-09-01T12:32:07.099Z",
           "lastSeenAt": "2026-09-24T13:32:21.725Z",
           "currentPriceCents": 429900,
-          "currentPriceEurCents": 1182,
+          "currentPriceEurCents": 1184,
           "referencePriceCents": 429900,
-          "referencePriceEurCents": 1182
+          "referencePriceEurCents": 1184
         }
       ]
     },
@@ -872,9 +872,9 @@
           "observedAt": "2026-09-01T12:30:17.495Z",
           "lastSeenAt": "2026-09-28T16:44:26.494Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 247,
+          "currentPriceEurCents": 248,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 247
+          "referencePriceEurCents": 248
         }
       ]
     },
@@ -970,7 +970,7 @@
       "productId": 7071,
       "brand": "Rexona",
       "isCountryExtreme": true,
-      "overallPercentDiff": 175.64,
+      "overallPercentDiff": 173.89,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1013,7 +1013,7 @@
           "currentPriceCents": 27900,
           "currentPriceEurCents": 77,
           "referencePriceCents": 56900,
-          "referencePriceEurCents": 156
+          "referencePriceEurCents": 157
         }
       ]
     },
@@ -1021,7 +1021,7 @@
       "productId": 13220,
       "brand": "Rexona",
       "isCountryExtreme": true,
-      "overallPercentDiff": 175.64,
+      "overallPercentDiff": 173.89,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1064,7 +1064,7 @@
           "currentPriceCents": 27900,
           "currentPriceEurCents": 77,
           "referencePriceCents": 56900,
-          "referencePriceEurCents": 156
+          "referencePriceEurCents": 157
         }
       ]
     },
@@ -1278,43 +1278,6 @@
       ]
     },
     {
-      "productId": 22467,
-      "brand": "Neutrogena",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 158.16,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Balzam za obnavljanje kože Hydro Boost, 50 ml",
-          "url": "https://www.dm.si/p/d/2118233/neutrogena-balzam-za-obnavljanje-koze-hydro-boost",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:22.920Z",
-          "lastSeenAt": "2026-10-03T19:13:22.920Z",
-          "currentPriceCents": 870,
-          "currentPriceEurCents": 870,
-          "referencePriceCents": 1740,
-          "referencePriceEurCents": 1740
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Arcbalzsam Hydro boost, intenzív hidratáló, 50 ml",
-          "url": "https://www.dm.hu/p/d/2118233/neutrogena-arcbalzsam-hydro-boost-intenziv-hidratalo",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:06:11.832Z",
-          "lastSeenAt": "2026-10-03T19:06:11.832Z",
-          "currentPriceCents": 119900,
-          "currentPriceEurCents": 330,
-          "referencePriceCents": 244900,
-          "referencePriceEurCents": 674
-        }
-      ]
-    },
-    {
       "productId": 6535,
       "brand": "Denkmit",
       "isCountryExtreme": true,
@@ -1329,7 +1292,7 @@
           "url": "https://www.dm.hr/p/d/1046013/denkmit-sol-za-odstranjivanje-mrlja",
           "isPromo": false,
           "observedAt": "2026-08-30T22:32:38.262Z",
-          "lastSeenAt": "2026-09-16T13:29:12.194Z",
+          "lastSeenAt": "2026-10-16T13:13:41.587Z",
           "currentPriceCents": 155,
           "currentPriceEurCents": 155,
           "referencePriceCents": 155,
@@ -1343,7 +1306,7 @@
           "url": "https://www.dm.si/p/d/1046013/denkmit-sol-za-odstranjevanje-madezev",
           "isPromo": false,
           "observedAt": "2026-08-30T22:34:21.479Z",
-          "lastSeenAt": "2026-09-16T13:29:15.000Z",
+          "lastSeenAt": "2026-10-16T13:13:43.302Z",
           "currentPriceCents": 245,
           "currentPriceEurCents": 245,
           "referencePriceCents": 245,
@@ -1357,7 +1320,7 @@
           "url": "https://www.dm.at/p/d/1046013/denkmit-fleckenentferner-salz-soda-power",
           "isPromo": false,
           "observedAt": "2026-08-30T22:35:56.392Z",
-          "lastSeenAt": "2026-09-16T13:29:22.458Z",
+          "lastSeenAt": "2026-10-16T13:13:48.901Z",
           "currentPriceCents": 155,
           "currentPriceEurCents": 155,
           "referencePriceCents": 155,
@@ -1371,7 +1334,7 @@
           "url": "https://www.dm.de/p/d/1046013/denkmit-fleckenentferner-salz-fuer-weiss-und-buntwaesche",
           "isPromo": false,
           "observedAt": "2026-08-31T20:42:19.091Z",
-          "lastSeenAt": "2026-09-16T13:29:27.453Z",
+          "lastSeenAt": "2026-10-16T13:13:53.517Z",
           "currentPriceCents": 95,
           "currentPriceEurCents": 95,
           "referencePriceCents": 95,
@@ -1385,7 +1348,7 @@
           "url": "https://www.dm.hu/p/d/1046013/denkmit-folttisztito-so",
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:09.419Z",
-          "lastSeenAt": "2026-09-16T13:29:34.060Z",
+          "lastSeenAt": "2026-10-16T13:14:00.743Z",
           "currentPriceCents": 74900,
           "currentPriceEurCents": 206,
           "referencePriceCents": 74900,
@@ -1469,6 +1432,94 @@
           "currentPriceEurCents": 82,
           "referencePriceCents": 59900,
           "referencePriceEurCents": 165
+        }
+      ]
+    },
+    {
+      "productId": 22467,
+      "brand": "Neutrogena",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 157.78,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Balzam za obnavljanje kože Hydro Boost, 50 ml",
+          "url": "https://www.dm.si/p/d/2118233/neutrogena-balzam-za-obnavljanje-koze-hydro-boost",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:22.920Z",
+          "lastSeenAt": "2026-10-03T19:13:22.920Z",
+          "currentPriceCents": 870,
+          "currentPriceEurCents": 870,
+          "referencePriceCents": 1740,
+          "referencePriceEurCents": 1740
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Arcbalzsam Hydro boost, intenzív hidratáló, 50 ml",
+          "url": "https://www.dm.hu/p/d/2118233/neutrogena-arcbalzsam-hydro-boost-intenziv-hidratalo",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:11.832Z",
+          "lastSeenAt": "2026-10-03T19:06:11.832Z",
+          "currentPriceCents": 119900,
+          "currentPriceEurCents": 330,
+          "referencePriceCents": 244900,
+          "referencePriceEurCents": 675
+        }
+      ]
+    },
+    {
+      "productId": 9740,
+      "brand": "Moschino",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 153.81,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Cheap and Chic edt, 30 ml",
+          "url": "https://www.dm.hr/p/d/2141807/moschino-cheap-and-chic-edt",
+          "isPromo": false,
+          "observedAt": "2026-10-16T13:13:41.587Z",
+          "lastSeenAt": "2026-10-16T13:13:41.587Z",
+          "currentPriceCents": 3490,
+          "currentPriceEurCents": 3490,
+          "referencePriceCents": 3490,
+          "referencePriceEurCents": 3490
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Toaletna voda Cheap and Chic, 30 ml",
+          "url": "https://www.dm.si/p/d/2141807/moschino-toaletna-voda-cheap-and-chic",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:22.881Z",
+          "lastSeenAt": "2026-10-16T13:13:43.302Z",
+          "currentPriceCents": 3495,
+          "currentPriceEurCents": 3495,
+          "referencePriceCents": 3495,
+          "referencePriceEurCents": 3495
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Női EdT Cheap & Chic, 30 ml",
+          "url": "https://www.dm.hu/p/d/2141807/moschino-noi-edt-cheap-chic",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:11.832Z",
+          "lastSeenAt": "2026-10-03T19:06:11.832Z",
+          "currentPriceCents": 249900,
+          "currentPriceEurCents": 688,
+          "referencePriceCents": 499900,
+          "referencePriceEurCents": 1377
         }
       ]
     },
@@ -1585,43 +1636,6 @@
           "currentPriceEurCents": 275,
           "referencePriceCents": 99900,
           "referencePriceEurCents": 275
-        }
-      ]
-    },
-    {
-      "productId": 16719,
-      "brand": "JOOP!",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 150.47,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Toaletna voda za moške Joop!, 30 ml",
-          "url": "https://www.dm.si/p/d/1531708/joop-toaletna-voda-za-moske-joop",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:00.643Z",
-          "lastSeenAt": "2026-10-14T13:41:01.971Z",
-          "currentPriceCents": 3995,
-          "currentPriceEurCents": 3995,
-          "referencePriceCents": 3995,
-          "referencePriceEurCents": 3995
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Eau de Toilette Homme, 30 ml",
-          "url": "https://www.dm.at/p/d/1531708/joop-eau-de-toilette-homme",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:18.966Z",
-          "lastSeenAt": "2026-10-14T13:41:06.014Z",
-          "currentPriceCents": 1595,
-          "currentPriceEurCents": 1595,
-          "referencePriceCents": 1595,
-          "referencePriceEurCents": 1595
         }
       ]
     }
