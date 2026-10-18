@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T09:05:39.497Z",
+  "generatedAt": "2026-10-18T09:23:43.781Z",
   "fx": {
     "asOf": "2026-10-16",
     "rates": {
@@ -943,59 +943,6 @@
           "priceEurCents": 695,
           "isPromo": true,
           "observedAt": "2026-10-03T19:03:42.971Z"
-        }
-      ]
-    },
-    {
-      "productId": 10497,
-      "name": "Eleganza Intensa edp, 60 ml",
-      "brand": "bugatti",
-      "percentDiff": 595.35,
-      "cheapest": {
-        "countryCode": "HR",
-        "shopId": "dm-hr",
-        "priceCents": 495,
-        "currency": "EUR",
-        "priceEurCents": 495,
-        "isPromo": true,
-        "observedAt": "2026-10-03T19:04:16.543Z"
-      },
-      "mostExpensive": {
-        "countryCode": "HU",
-        "shopId": "dm-hu",
-        "priceCents": 1249900,
-        "currency": "HUF",
-        "priceEurCents": 3442,
-        "isPromo": false,
-        "observedAt": "2026-09-01T12:30:19.979Z"
-      },
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "priceCents": 495,
-          "currency": "EUR",
-          "priceEurCents": 495,
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:04:16.543Z"
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "priceCents": 845,
-          "currency": "EUR",
-          "priceEurCents": 845,
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:02:19.402Z"
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "priceCents": 1249900,
-          "currency": "HUF",
-          "priceEurCents": 3442,
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:19.979Z"
         }
       ]
     },
@@ -3815,6 +3762,59 @@
           "priceEurCents": 316,
           "isPromo": true,
           "observedAt": "2026-10-03T19:06:15.966Z"
+        }
+      ]
+    },
+    {
+      "productId": 10497,
+      "name": "Eleganza Intensa edp, 60 ml",
+      "brand": "bugatti",
+      "percentDiff": 400.81,
+      "cheapest": {
+        "countryCode": "HR",
+        "shopId": "dm-hr",
+        "priceCents": 495,
+        "currency": "EUR",
+        "priceEurCents": 495,
+        "isPromo": true,
+        "observedAt": "2026-10-03T19:04:16.543Z"
+      },
+      "mostExpensive": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 899900,
+        "currency": "HUF",
+        "priceEurCents": 2479,
+        "isPromo": false,
+        "observedAt": "2026-10-17T12:10:22.820Z"
+      },
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "priceCents": 495,
+          "currency": "EUR",
+          "priceEurCents": 495,
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:04:16.543Z"
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "priceCents": 845,
+          "currency": "EUR",
+          "priceEurCents": 845,
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:02:19.402Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 899900,
+          "currency": "HUF",
+          "priceEurCents": 2479,
+          "isPromo": false,
+          "observedAt": "2026-10-17T12:10:22.820Z"
         }
       ]
     },
@@ -6903,15 +6903,6 @@
           "priceEurCents": 95,
           "isPromo": true,
           "observedAt": "2026-10-03T19:13:32.561Z"
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "priceCents": 295,
-          "currency": "EUR",
-          "priceEurCents": 295,
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:46.590Z"
         },
         {
           "countryCode": "HU",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T09:05:39.497Z",
+  "generatedAt": "2026-10-18T09:23:43.781Z",
   "fx": {
     "asOf": "2026-10-16",
     "rates": {
@@ -486,57 +486,6 @@
           "currentPriceEurCents": 1515,
           "referencePriceCents": 549900,
           "referencePriceEurCents": 1515
-        }
-      ]
-    },
-    {
-      "productId": 10497,
-      "brand": "bugatti",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 245.93,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Eleganza Intensa edp, 60 ml",
-          "url": "https://www.dm.hr/p/d/1688755/bugatti-eleganza-intensa-edp",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:04:16.543Z",
-          "lastSeenAt": "2026-10-03T19:04:16.543Z",
-          "currentPriceCents": 495,
-          "currentPriceEurCents": 495,
-          "referencePriceCents": 995,
-          "referencePriceEurCents": 995
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Eau de Parfum Eleganza Intensa, 60 ml",
-          "url": "https://www.dm.at/p/d/1688755/bugatti-eau-de-parfum-eleganza-intensa",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:02:19.402Z",
-          "lastSeenAt": "2026-10-03T19:02:19.402Z",
-          "currentPriceCents": 845,
-          "currentPriceEurCents": 845,
-          "referencePriceCents": 1695,
-          "referencePriceEurCents": 1695
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Női EdP Eleganza Intensa, 60 ml",
-          "url": "https://www.dm.hu/p/d/1688755/bugatti-noi-edp-eleganza-intensa",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:19.979Z",
-          "lastSeenAt": "2026-09-17T13:25:33.061Z",
-          "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3442,
-          "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3442
         }
       ]
     },
@@ -1818,6 +1767,85 @@
           "currentPriceEurCents": 80,
           "referencePriceCents": 28900,
           "referencePriceEurCents": 80
+        }
+      ]
+    },
+    {
+      "productId": 7387,
+      "brand": "ebelin",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 157.89,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Vlažne krpice za pranje za osjetljivu kožu Ultra..., 20 kom.",
+          "url": "https://www.dm.hr/p/d/1459826/ebelin-vlazne-krpice-za-pranje-za-osjetljivu-kozu-ultra-sensitive",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:42.747Z",
+          "lastSeenAt": "2026-10-14T13:40:56.462Z",
+          "currentPriceCents": 95,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Vlažni robčki za čiščenje obraza Ultra Sensitive, 20 kos",
+          "url": "https://www.dm.si/p/d/1459826/ebelin-vlazni-robcki-za-ciscenje-obraza-ultra-sensitive",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:10.434Z",
+          "lastSeenAt": "2026-10-14T13:41:01.971Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 195,
+          "referencePriceEurCents": 195
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Waschlappen Ultra Sensitiv Feucht, 20 St",
+          "url": "https://www.dm.at/p/d/1459826/ebelin-waschlappen-ultra-sensitiv-feucht",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:47.183Z",
+          "lastSeenAt": "2026-10-14T13:41:06.014Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Waschlappen Ultra sensitive, 20 St",
+          "url": "https://www.dm.de/p/d/1459826/ebelin-waschlappen-ultra-sensitive",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:20.667Z",
+          "lastSeenAt": "2026-10-14T13:41:19.370Z",
+          "currentPriceCents": 125,
+          "currentPriceEurCents": 125,
+          "referencePriceCents": 125,
+          "referencePriceEurCents": 125
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Ultra szenzitív nedves törlőkendő, 20 db",
+          "url": "https://www.dm.hu/p/d/1459826/ebelin-ultra-szenzitiv-nedves-torlokendo",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:09.419Z",
+          "lastSeenAt": "2026-10-14T13:41:24.201Z",
+          "currentPriceCents": 39900,
+          "currentPriceEurCents": 110,
+          "referencePriceCents": 39900,
+          "referencePriceEurCents": 110
         }
       ]
     }
