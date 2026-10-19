@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T09:23:43.781Z",
+  "generatedAt": "2026-10-19T10:36:15.992Z",
   "fx": {
     "asOf": "2026-10-16",
     "rates": {
@@ -1237,57 +1237,6 @@
       ]
     },
     {
-      "productId": 8236,
-      "brand": "trend !t up",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 180.82,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "pretty precious paleta sjenila za oči, 4,8 g",
-          "url": "https://www.dm.hr/p/d/2476886/trend-t-up-pretty-precious-paleta-sjenila-za-oci",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:04:16.543Z",
-          "lastSeenAt": "2026-10-03T19:04:16.543Z",
-          "currentPriceCents": 100,
-          "currentPriceEurCents": 100,
-          "referencePriceCents": 245,
-          "referencePriceEurCents": 245
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Paleta senčil za veke 010 Pretty Precious, 4,8 g",
-          "url": "https://www.dm.si/p/d/2476886/trend-t-up-paleta-sencil-za-veke-010-pretty-precious",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:28.819Z",
-          "lastSeenAt": "2026-10-03T19:13:28.819Z",
-          "currentPriceCents": 299,
-          "currentPriceEurCents": 299,
-          "referencePriceCents": 495,
-          "referencePriceEurCents": 495
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Szemhéjpúder-paletta, Pretty Precious, 4,8 g",
-          "url": "https://www.dm.hu/p/d/2476886/trend-t-up-szemhejpuder-paletta-pretty-precious",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:16.800Z",
-          "lastSeenAt": "2026-09-18T12:57:27.712Z",
-          "currentPriceCents": 249900,
-          "currentPriceEurCents": 688,
-          "referencePriceCents": 249900,
-          "referencePriceEurCents": 688
-        }
-      ]
-    },
-    {
       "productId": 3296,
       "brand": "alverde NATURKOSMETIK",
       "isCountryExtreme": true,
@@ -1846,6 +1795,85 @@
           "currentPriceEurCents": 110,
           "referencePriceCents": 39900,
           "referencePriceEurCents": 110
+        }
+      ]
+    },
+    {
+      "productId": 8205,
+      "brand": "alverde NATURKOSMETIK",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 157.89,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Automatic olovka za oči – 01 crna, 0,3 g",
+          "url": "https://www.dm.hr/p/d/1496499/alverde-naturkosmetik-automatic-olovka-za-oci-01-crna",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:04:16.543Z",
+          "lastSeenAt": "2026-10-03T19:04:16.543Z",
+          "currentPriceCents": 50,
+          "currentPriceEurCents": 50,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Črtalo za oči Automatic, 01 Schwarz, 0,3 g",
+          "url": "https://www.dm.si/p/d/1496499/alverde-naturkosmetik-crtalo-za-oci-automatic-01-schwarz",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:17.496Z",
+          "lastSeenAt": "2026-10-03T19:13:17.496Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Eyeliner Automatic 01 Schwarz, 0,3 g",
+          "url": "https://www.dm.at/p/d/1496499/alverde-naturkosmetik-eyeliner-automatic-01-schwarz",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:02:15.740Z",
+          "lastSeenAt": "2026-10-03T19:02:15.740Z",
+          "currentPriceCents": 95,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 195,
+          "referencePriceEurCents": 195
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Eyeliner Automatic 01 Schwarz, 0,3 g",
+          "url": "https://www.dm.de/p/d/1496499/alverde-naturkosmetik-eyeliner-automatic-01-schwarz",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:03:39.249Z",
+          "lastSeenAt": "2026-10-03T19:03:39.249Z",
+          "currentPriceCents": 95,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 175,
+          "referencePriceEurCents": 175
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Automata szemceruza, 01 fekete, 0,3 g",
+          "url": "https://www.dm.hu/p/d/1496499/alverde-naturkosmetik-automata-szemceruza-01-fekete",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:07.103Z",
+          "lastSeenAt": "2026-10-03T19:06:07.103Z",
+          "currentPriceCents": 29900,
+          "currentPriceEurCents": 82,
+          "referencePriceCents": 59900,
+          "referencePriceEurCents": 165
         }
       ]
     }
