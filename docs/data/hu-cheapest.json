@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-19T10:36:15.992Z",
+  "generatedAt": "2026-10-20T09:52:54.176Z",
   "fx": {
-    "asOf": "2026-10-16",
+    "asOf": "2026-10-19",
     "rates": {
-      "USD": 1.1253,
-      "JPY": 177.82,
-      "CZK": 24.323,
-      "DKK": 7.4748,
-      "GBP": 0.84385,
-      "HUF": 363.08,
-      "PLN": 4.37,
-      "RON": 5.331,
-      "SEK": 11.145,
-      "CHF": 0.9272,
-      "ISK": 136.2,
-      "NOK": 10.624,
-      "TRY": 55.7328,
-      "AUD": 1.6171,
-      "BRL": 5.7197,
-      "CAD": 1.5935,
-      "CNY": 7.524,
-      "HKD": 8.8316,
-      "IDR": 20290.28,
-      "ILS": 3.4822,
-      "INR": 106.864,
-      "KRW": 1499.01,
-      "MXN": 20.6871,
-      "MYR": 4.5929,
-      "NZD": 1.9868,
-      "PHP": 70.858,
-      "SGD": 1.4395,
-      "THB": 37.602,
-      "ZAR": 18.493
+      "USD": 1.1225,
+      "JPY": 177.63,
+      "CZK": 24.343,
+      "DKK": 7.4747,
+      "GBP": 0.84205,
+      "HUF": 363.4,
+      "PLN": 4.3713,
+      "RON": 5.3264,
+      "SEK": 11.104,
+      "CHF": 0.9261,
+      "ISK": 136.4,
+      "NOK": 10.5555,
+      "TRY": 55.6227,
+      "AUD": 1.6068,
+      "BRL": 5.6633,
+      "CAD": 1.5798,
+      "CNY": 7.4991,
+      "HKD": 8.8097,
+      "IDR": 20253.16,
+      "ILS": 3.489,
+      "INR": 106.559,
+      "KRW": 1492.35,
+      "MXN": 20.7481,
+      "MYR": 4.5826,
+      "NZD": 1.9792,
+      "PHP": 70.715,
+      "SGD": 1.4357,
+      "THB": 37.665,
+      "ZAR": 18.4469
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -142,61 +142,10 @@
       ]
     },
     {
-      "productId": 18518,
-      "brand": "alverde NATURKOSMETIK",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 304.55,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Tekoča podlaga Mineral 01 Naturelle, 30 ml",
-          "url": "https://www.dm.si/p/d/1270490/alverde-naturkosmetik-tekoca-podlaga-mineral-01-naturelle",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:14.941Z",
-          "lastSeenAt": "2026-10-03T19:13:14.941Z",
-          "currentPriceCents": 99,
-          "currentPriceEurCents": 99,
-          "referencePriceCents": 299,
-          "referencePriceEurCents": 299
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Foundation Mineral 01 Naturelle, 30 ml",
-          "url": "https://www.dm.at/p/d/1270490/alverde-naturkosmetik-foundation-mineral-01-naturelle",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:02:13.123Z",
-          "lastSeenAt": "2026-10-03T19:02:13.123Z",
-          "currentPriceCents": 225,
-          "currentPriceEurCents": 225,
-          "referencePriceCents": 445,
-          "referencePriceEurCents": 445
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Ásványi alapozó, 01 Naturelle, 30 ml",
-          "url": "https://www.dm.hu/p/d/1270490/alverde-naturkosmetik-asvanyi-alapozo-01-naturelle",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:06:07.103Z",
-          "lastSeenAt": "2026-10-03T19:06:07.103Z",
-          "currentPriceCents": 19900,
-          "currentPriceEurCents": 55,
-          "referencePriceCents": 39900,
-          "referencePriceEurCents": 110
-        }
-      ]
-    },
-    {
       "productId": 6888,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 302.78,
+      "overallPercentDiff": 314.29,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -267,7 +216,58 @@
           "currentPriceCents": 9900,
           "currentPriceEurCents": 27,
           "referencePriceCents": 12900,
-          "referencePriceEurCents": 36
+          "referencePriceEurCents": 35
+        }
+      ]
+    },
+    {
+      "productId": 18518,
+      "brand": "alverde NATURKOSMETIK",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 304.55,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Tekoča podlaga Mineral 01 Naturelle, 30 ml",
+          "url": "https://www.dm.si/p/d/1270490/alverde-naturkosmetik-tekoca-podlaga-mineral-01-naturelle",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:14.941Z",
+          "lastSeenAt": "2026-10-03T19:13:14.941Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 299,
+          "referencePriceEurCents": 299
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Foundation Mineral 01 Naturelle, 30 ml",
+          "url": "https://www.dm.at/p/d/1270490/alverde-naturkosmetik-foundation-mineral-01-naturelle",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:02:13.123Z",
+          "lastSeenAt": "2026-10-03T19:02:13.123Z",
+          "currentPriceCents": 225,
+          "currentPriceEurCents": 225,
+          "referencePriceCents": 445,
+          "referencePriceEurCents": 445
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Ásványi alapozó, 01 Naturelle, 30 ml",
+          "url": "https://www.dm.hu/p/d/1270490/alverde-naturkosmetik-asvanyi-alapozo-01-naturelle",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:07.103Z",
+          "lastSeenAt": "2026-10-03T19:06:07.103Z",
+          "currentPriceCents": 19900,
+          "currentPriceEurCents": 55,
+          "referencePriceCents": 39900,
+          "referencePriceEurCents": 110
         }
       ]
     },
@@ -794,7 +794,7 @@
       "productId": 15502,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 192.34,
+      "overallPercentDiff": 193.52,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -849,9 +849,9 @@
           "observedAt": "2026-09-01T12:30:04.184Z",
           "lastSeenAt": "2026-10-08T15:34:01.248Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 248,
+          "currentPriceEurCents": 247,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 248
+          "referencePriceEurCents": 247
         }
       ]
     },
@@ -1383,7 +1383,7 @@
       "productId": 33797,
       "brand": "Jennifer Lopez",
       "isCountryExtreme": true,
-      "overallPercentDiff": 171.57,
+      "overallPercentDiff": 171.82,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1410,9 +1410,9 @@
           "observedAt": "2026-10-03T19:06:10.259Z",
           "lastSeenAt": "2026-10-03T19:06:10.259Z",
           "currentPriceCents": 199900,
-          "currentPriceEurCents": 551,
+          "currentPriceEurCents": 550,
           "referencePriceCents": 399900,
-          "referencePriceEurCents": 1101
+          "referencePriceEurCents": 1100
         }
       ]
     },
@@ -1475,7 +1475,7 @@
           "observedAt": "2026-10-03T19:06:07.103Z",
           "lastSeenAt": "2026-10-03T19:06:07.103Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 248,
+          "currentPriceEurCents": 247,
           "referencePriceCents": 119900,
           "referencePriceEurCents": 330
         }

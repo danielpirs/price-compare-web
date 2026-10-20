@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-19T10:36:15.992Z",
+  "generatedAt": "2026-10-20T09:52:54.176Z",
   "fx": {
-    "asOf": "2026-10-16",
+    "asOf": "2026-10-19",
     "rates": {
-      "USD": 1.1253,
-      "JPY": 177.82,
-      "CZK": 24.323,
-      "DKK": 7.4748,
-      "GBP": 0.84385,
-      "HUF": 363.08,
-      "PLN": 4.37,
-      "RON": 5.331,
-      "SEK": 11.145,
-      "CHF": 0.9272,
-      "ISK": 136.2,
-      "NOK": 10.624,
-      "TRY": 55.7328,
-      "AUD": 1.6171,
-      "BRL": 5.7197,
-      "CAD": 1.5935,
-      "CNY": 7.524,
-      "HKD": 8.8316,
-      "IDR": 20290.28,
-      "ILS": 3.4822,
-      "INR": 106.864,
-      "KRW": 1499.01,
-      "MXN": 20.6871,
-      "MYR": 4.5929,
-      "NZD": 1.9868,
-      "PHP": 70.858,
-      "SGD": 1.4395,
-      "THB": 37.602,
-      "ZAR": 18.493
+      "USD": 1.1225,
+      "JPY": 177.63,
+      "CZK": 24.343,
+      "DKK": 7.4747,
+      "GBP": 0.84205,
+      "HUF": 363.4,
+      "PLN": 4.3713,
+      "RON": 5.3264,
+      "SEK": 11.104,
+      "CHF": 0.9261,
+      "ISK": 136.4,
+      "NOK": 10.5555,
+      "TRY": 55.6227,
+      "AUD": 1.6068,
+      "BRL": 5.6633,
+      "CAD": 1.5798,
+      "CNY": 7.4991,
+      "HKD": 8.8097,
+      "IDR": 20253.16,
+      "ILS": 3.489,
+      "INR": 106.559,
+      "KRW": 1492.35,
+      "MXN": 20.7481,
+      "MYR": 4.5826,
+      "NZD": 1.9792,
+      "PHP": 70.715,
+      "SGD": 1.4357,
+      "THB": 37.665,
+      "ZAR": 18.4469
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -128,84 +128,10 @@
       ]
     },
     {
-      "productId": 10284,
-      "brand": "babylove",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 312.64,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Mama Stuff torba za pohranu, 1 kom.",
-          "url": "https://www.dm.hr/p/d/2973721/babylove-mama-stuff-torba-za-pohranu",
-          "isPromo": true,
-          "observedAt": "2026-09-28T16:44:10.044Z",
-          "lastSeenAt": "2026-09-28T16:44:10.044Z",
-          "currentPriceCents": 215,
-          "currentPriceEurCents": 215,
-          "referencePriceCents": 435,
-          "referencePriceEurCents": 435
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Torba z denarnico, 1 kos",
-          "url": "https://www.dm.si/p/d/2973721/babylove-torba-z-denarnico",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:30.185Z",
-          "lastSeenAt": "2026-10-03T19:13:30.185Z",
-          "currentPriceCents": 895,
-          "currentPriceEurCents": 895,
-          "referencePriceCents": 1795,
-          "referencePriceEurCents": 1795
-        }
-      ]
-    },
-    {
-      "productId": 4151,
-      "brand": "sundance",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 306.12,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Sončna očala za odrasle, rožnata, 1 kos",
-          "url": "https://www.dm.si/p/d/1711993/sundance-soncna-ocala-za-odrasle-roznata",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:19.250Z",
-          "lastSeenAt": "2026-10-03T19:13:19.250Z",
-          "currentPriceCents": 595,
-          "currentPriceEurCents": 595,
-          "referencePriceCents": 995,
-          "referencePriceEurCents": 995
-        },
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Sunčane naočale za odrasle – rozi metalni okvir, 1 kom.",
-          "url": "https://www.dm.hr/p/d/1711993/sundance-suncane-naocale-za-odrasle-rozi-metalni-okvir",
-          "isPromo": true,
-          "observedAt": "2026-10-02T14:42:57.066Z",
-          "lastSeenAt": "2026-10-02T14:42:57.066Z",
-          "currentPriceCents": 120,
-          "currentPriceEurCents": 120,
-          "referencePriceCents": 245,
-          "referencePriceEurCents": 245
-        }
-      ]
-    },
-    {
       "productId": 6888,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 302.78,
+      "overallPercentDiff": 314.29,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -276,7 +202,81 @@
           "currentPriceCents": 9900,
           "currentPriceEurCents": 27,
           "referencePriceCents": 12900,
-          "referencePriceEurCents": 36
+          "referencePriceEurCents": 35
+        }
+      ]
+    },
+    {
+      "productId": 10284,
+      "brand": "babylove",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 312.64,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Mama Stuff torba za pohranu, 1 kom.",
+          "url": "https://www.dm.hr/p/d/2973721/babylove-mama-stuff-torba-za-pohranu",
+          "isPromo": true,
+          "observedAt": "2026-09-28T16:44:10.044Z",
+          "lastSeenAt": "2026-09-28T16:44:10.044Z",
+          "currentPriceCents": 215,
+          "currentPriceEurCents": 215,
+          "referencePriceCents": 435,
+          "referencePriceEurCents": 435
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Torba z denarnico, 1 kos",
+          "url": "https://www.dm.si/p/d/2973721/babylove-torba-z-denarnico",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:30.185Z",
+          "lastSeenAt": "2026-10-03T19:13:30.185Z",
+          "currentPriceCents": 895,
+          "currentPriceEurCents": 895,
+          "referencePriceCents": 1795,
+          "referencePriceEurCents": 1795
+        }
+      ]
+    },
+    {
+      "productId": 4151,
+      "brand": "sundance",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 306.12,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Sončna očala za odrasle, rožnata, 1 kos",
+          "url": "https://www.dm.si/p/d/1711993/sundance-soncna-ocala-za-odrasle-roznata",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:19.250Z",
+          "lastSeenAt": "2026-10-03T19:13:19.250Z",
+          "currentPriceCents": 595,
+          "currentPriceEurCents": 595,
+          "referencePriceCents": 995,
+          "referencePriceEurCents": 995
+        },
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Sunčane naočale za odrasle – rozi metalni okvir, 1 kom.",
+          "url": "https://www.dm.hr/p/d/1711993/sundance-suncane-naocale-za-odrasle-rozi-metalni-okvir",
+          "isPromo": true,
+          "observedAt": "2026-10-02T14:42:57.066Z",
+          "lastSeenAt": "2026-10-02T14:42:57.066Z",
+          "currentPriceCents": 120,
+          "currentPriceEurCents": 120,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
         }
       ]
     },
@@ -464,9 +464,9 @@
           "observedAt": "2026-10-03T19:06:13.313Z",
           "lastSeenAt": "2026-10-03T19:06:13.313Z",
           "currentPriceCents": 219900,
-          "currentPriceEurCents": 606,
+          "currentPriceEurCents": 605,
           "referencePriceCents": 439900,
-          "referencePriceEurCents": 1212
+          "referencePriceEurCents": 1211
         }
       ]
     },
@@ -793,9 +793,9 @@
           "observedAt": "2026-09-01T12:32:07.099Z",
           "lastSeenAt": "2026-09-24T13:32:21.725Z",
           "currentPriceCents": 429900,
-          "currentPriceEurCents": 1184,
+          "currentPriceEurCents": 1183,
           "referencePriceCents": 429900,
-          "referencePriceEurCents": 1184
+          "referencePriceEurCents": 1183
         }
       ]
     },
@@ -872,9 +872,9 @@
           "observedAt": "2026-09-01T12:30:17.495Z",
           "lastSeenAt": "2026-09-28T16:44:26.494Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 248,
+          "currentPriceEurCents": 247,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 248
+          "referencePriceEurCents": 247
         }
       ]
     },
@@ -1227,6 +1227,85 @@
       ]
     },
     {
+      "productId": 9537,
+      "brand": "Balea",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 168.29,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Kremasto-uljna kupka Soft Lotus Dream, 500 ml",
+          "url": "https://www.dm.hr/p/d/3090716/balea-kremasto-uljna-kupka-soft-lotus-dream",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:56.123Z",
+          "lastSeenAt": "2026-10-19T15:34:17.188Z",
+          "currentPriceCents": 215,
+          "currentPriceEurCents": 215,
+          "referencePriceCents": 215,
+          "referencePriceEurCents": 215
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Kremna kopel na oljni osnovi Soft LOTUS DREAM, 500 ml",
+          "url": "https://www.dm.si/p/d/3090716/balea-kremna-kopel-na-oljni-osnovi-soft-lotus-dream",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:57.723Z",
+          "lastSeenAt": "2026-10-19T15:34:09.260Z",
+          "currentPriceCents": 220,
+          "currentPriceEurCents": 220,
+          "referencePriceCents": 220,
+          "referencePriceEurCents": 220
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Badezusatz Creme-Öl Lotus Dream, 500 ml",
+          "url": "https://www.dm.at/p/d/3090716/balea-badezusatz-creme-oel-lotus-dream",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:34.775Z",
+          "lastSeenAt": "2026-10-19T15:34:22.548Z",
+          "currentPriceCents": 215,
+          "currentPriceEurCents": 215,
+          "referencePriceCents": 215,
+          "referencePriceEurCents": 215
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Creme-Öl Bad Soft LOTUS DREAM, 500 ml",
+          "url": "https://www.dm.de/p/d/3090716/balea-creme-oel-bad-soft-lotus-dream",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:19.020Z",
+          "lastSeenAt": "2026-10-19T15:34:32.211Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Krémes-olajos habfürdő Soft Lotus Dream,..., 500 ml",
+          "url": "https://www.dm.hu/p/d/3090716/balea-kremes-olajos-habfurdo-soft-lotus-dream-sargabarackmag-olajjal-es-lotuszvirag-kivonattal",
+          "isPromo": false,
+          "observedAt": "2026-10-19T15:34:35.501Z",
+          "lastSeenAt": "2026-10-19T15:34:35.501Z",
+          "currentPriceCents": 29900,
+          "currentPriceEurCents": 82,
+          "referencePriceCents": 29900,
+          "referencePriceEurCents": 82
+        }
+      ]
+    },
+    {
       "productId": 10619,
       "brand": "Dove",
       "isCountryExtreme": true,
@@ -1274,6 +1353,43 @@
           "currentPriceEurCents": 82,
           "referencePriceCents": 59900,
           "referencePriceEurCents": 165
+        }
+      ]
+    },
+    {
+      "productId": 22467,
+      "brand": "Neutrogena",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 158.16,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Balzam za obnavljanje kože Hydro Boost, 50 ml",
+          "url": "https://www.dm.si/p/d/2118233/neutrogena-balzam-za-obnavljanje-koze-hydro-boost",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:22.920Z",
+          "lastSeenAt": "2026-10-03T19:13:22.920Z",
+          "currentPriceCents": 870,
+          "currentPriceEurCents": 870,
+          "referencePriceCents": 1740,
+          "referencePriceEurCents": 1740
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Arcbalzsam Hydro boost, intenzív hidratáló, 50 ml",
+          "url": "https://www.dm.hu/p/d/2118233/neutrogena-arcbalzsam-hydro-boost-intenziv-hidratalo",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:11.832Z",
+          "lastSeenAt": "2026-10-03T19:06:11.832Z",
+          "currentPriceCents": 119900,
+          "currentPriceEurCents": 330,
+          "referencePriceCents": 244900,
+          "referencePriceEurCents": 674
         }
       ]
     },
@@ -1436,47 +1552,10 @@
       ]
     },
     {
-      "productId": 22467,
-      "brand": "Neutrogena",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 157.78,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Balzam za obnavljanje kože Hydro Boost, 50 ml",
-          "url": "https://www.dm.si/p/d/2118233/neutrogena-balzam-za-obnavljanje-koze-hydro-boost",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:22.920Z",
-          "lastSeenAt": "2026-10-03T19:13:22.920Z",
-          "currentPriceCents": 870,
-          "currentPriceEurCents": 870,
-          "referencePriceCents": 1740,
-          "referencePriceEurCents": 1740
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Arcbalzsam Hydro boost, intenzív hidratáló, 50 ml",
-          "url": "https://www.dm.hu/p/d/2118233/neutrogena-arcbalzsam-hydro-boost-intenziv-hidratalo",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:06:11.832Z",
-          "lastSeenAt": "2026-10-03T19:06:11.832Z",
-          "currentPriceCents": 119900,
-          "currentPriceEurCents": 330,
-          "referencePriceCents": 244900,
-          "referencePriceEurCents": 675
-        }
-      ]
-    },
-    {
       "productId": 9740,
       "brand": "Moschino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 153.81,
+      "overallPercentDiff": 154,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1519,7 +1598,7 @@
           "currentPriceCents": 249900,
           "currentPriceEurCents": 688,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1377
+          "referencePriceEurCents": 1376
         }
       ]
     },
@@ -1571,71 +1650,6 @@
           "currentPriceEurCents": 542,
           "referencePriceCents": 196900,
           "referencePriceEurCents": 542
-        }
-      ]
-    },
-    {
-      "productId": 6165,
-      "brand": "trend !t up",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 151.72,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Sjajilo za usne Island girl – 020, 5 ml",
-          "url": "https://www.dm.hr/p/d/3139391/trend-t-up-sjajilo-za-usne-island-girl-020",
-          "isPromo": true,
-          "observedAt": "2026-09-28T16:44:08.304Z",
-          "lastSeenAt": "2026-09-28T16:44:08.304Z",
-          "currentPriceCents": 165,
-          "currentPriceEurCents": 165,
-          "referencePriceCents": 335,
-          "referencePriceEurCents": 335
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Obarvan glos za ustnice Tropical Island girl - 020, 5 ml",
-          "url": "https://www.dm.si/p/d/3139391/trend-t-up-obarvan-glos-za-ustnice-tropical-island-girl-020",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:44.749Z",
-          "lastSeenAt": "2026-09-28T16:44:03.713Z",
-          "currentPriceCents": 365,
-          "currentPriceEurCents": 365,
-          "referencePriceCents": 365,
-          "referencePriceEurCents": 365
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Lipgloss Island Girl, Tropical Tint Gloss..., 5 ml",
-          "url": "https://www.dm.de/p/d/3139391/trend-t-up-lipgloss-island-girl-tropical-tint-gloss-staining-020",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:45.137Z",
-          "lastSeenAt": "2026-09-28T16:44:20.512Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Ajakszínező szájfény, Tropical Island girl - 020, 5 ml",
-          "url": "https://www.dm.hu/p/d/3139391/trend-t-up-ajakszinezo-szajfeny-tropical-island-girl-020",
-          "isPromo": false,
-          "observedAt": "2026-09-28T16:44:26.494Z",
-          "lastSeenAt": "2026-09-28T16:44:26.494Z",
-          "currentPriceCents": 99900,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 99900,
-          "referencePriceEurCents": 275
         }
       ]
     }

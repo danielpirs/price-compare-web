@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-19T10:36:15.992Z",
+  "generatedAt": "2026-10-20T09:52:54.176Z",
   "fx": {
-    "asOf": "2026-10-16",
+    "asOf": "2026-10-19",
     "rates": {
-      "USD": 1.1253,
-      "JPY": 177.82,
-      "CZK": 24.323,
-      "DKK": 7.4748,
-      "GBP": 0.84385,
-      "HUF": 363.08,
-      "PLN": 4.37,
-      "RON": 5.331,
-      "SEK": 11.145,
-      "CHF": 0.9272,
-      "ISK": 136.2,
-      "NOK": 10.624,
-      "TRY": 55.7328,
-      "AUD": 1.6171,
-      "BRL": 5.7197,
-      "CAD": 1.5935,
-      "CNY": 7.524,
-      "HKD": 8.8316,
-      "IDR": 20290.28,
-      "ILS": 3.4822,
-      "INR": 106.864,
-      "KRW": 1499.01,
-      "MXN": 20.6871,
-      "MYR": 4.5929,
-      "NZD": 1.9868,
-      "PHP": 70.858,
-      "SGD": 1.4395,
-      "THB": 37.602,
-      "ZAR": 18.493
+      "USD": 1.1225,
+      "JPY": 177.63,
+      "CZK": 24.343,
+      "DKK": 7.4747,
+      "GBP": 0.84205,
+      "HUF": 363.4,
+      "PLN": 4.3713,
+      "RON": 5.3264,
+      "SEK": 11.104,
+      "CHF": 0.9261,
+      "ISK": 136.4,
+      "NOK": 10.5555,
+      "TRY": 55.6227,
+      "AUD": 1.6068,
+      "BRL": 5.6633,
+      "CAD": 1.5798,
+      "CNY": 7.4991,
+      "HKD": 8.8097,
+      "IDR": 20253.16,
+      "ILS": 3.489,
+      "INR": 106.559,
+      "KRW": 1492.35,
+      "MXN": 20.7481,
+      "MYR": 4.5826,
+      "NZD": 1.9792,
+      "PHP": 70.715,
+      "SGD": 1.4357,
+      "THB": 37.665,
+      "ZAR": 18.4469
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -98,9 +98,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-10-14T13:41:20.909Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 193,
+          "currentPriceEurCents": 192,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 193
+          "referencePriceEurCents": 192
         }
       ]
     },
@@ -156,10 +156,47 @@
       ]
     },
     {
+      "productId": 41748,
+      "brand": "Fascino",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 230.22,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Strumpfhose glänzend powder Gr. 50/52, 15 DEN, 1 St",
+          "url": "https://www.dm.de/p/d/1715182/fascino-strumpfhose-glaenzend-powder-gr-50-52-15-den",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:03:41.837Z",
+          "lastSeenAt": "2026-10-03T19:03:41.837Z",
+          "currentPriceCents": 160,
+          "currentPriceEurCents": 160,
+          "referencePriceCents": 225,
+          "referencePriceEurCents": 225
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fényes harisnyanadrág, púder, 15 den, 50-52, 1 db",
+          "url": "https://www.dm.hu/p/d/1715182/fascino-fenyes-harisnyanadrag-puder-15-den-50-52",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:07.326Z",
+          "lastSeenAt": "2026-09-20T13:02:31.610Z",
+          "currentPriceCents": 269900,
+          "currentPriceEurCents": 743,
+          "referencePriceCents": 269900,
+          "referencePriceEurCents": 743
+        }
+      ]
+    },
+    {
       "productId": 15471,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 230.67,
+      "overallPercentDiff": 229.33,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -214,9 +251,9 @@
           "observedAt": "2026-09-01T12:31:37.751Z",
           "lastSeenAt": "2026-10-01T15:26:11.718Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 248,
+          "currentPriceEurCents": 247,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 248
+          "referencePriceEurCents": 247
         },
         {
           "countryCode": "HR",
@@ -238,7 +275,7 @@
       "productId": 3966,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 230.67,
+      "overallPercentDiff": 229.33,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -293,46 +330,9 @@
           "observedAt": "2026-09-01T12:30:17.495Z",
           "lastSeenAt": "2026-10-03T13:21:34.631Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 248,
+          "currentPriceEurCents": 247,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 248
-        }
-      ]
-    },
-    {
-      "productId": 41748,
-      "brand": "Fascino",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 230.22,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Strumpfhose glänzend powder Gr. 50/52, 15 DEN, 1 St",
-          "url": "https://www.dm.de/p/d/1715182/fascino-strumpfhose-glaenzend-powder-gr-50-52-15-den",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:03:41.837Z",
-          "lastSeenAt": "2026-10-03T19:03:41.837Z",
-          "currentPriceCents": 160,
-          "currentPriceEurCents": 160,
-          "referencePriceCents": 225,
-          "referencePriceEurCents": 225
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fényes harisnyanadrág, púder, 15 den, 50-52, 1 db",
-          "url": "https://www.dm.hu/p/d/1715182/fascino-fenyes-harisnyanadrag-puder-15-den-50-52",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:07.326Z",
-          "lastSeenAt": "2026-09-20T13:02:31.610Z",
-          "currentPriceCents": 269900,
-          "currentPriceEurCents": 743,
-          "referencePriceCents": 269900,
-          "referencePriceEurCents": 743
+          "referencePriceEurCents": 247
         }
       ]
     },
@@ -567,9 +567,9 @@
           "observedAt": "2026-10-18T12:36:09.737Z",
           "lastSeenAt": "2026-10-18T12:36:09.737Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 826,
+          "currentPriceEurCents": 825,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 826
+          "referencePriceEurCents": 825
         }
       ]
     },
@@ -651,7 +651,7 @@
       "productId": 28910,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 210.97,
+      "overallPercentDiff": 210.65,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -692,9 +692,9 @@
           "observedAt": "2026-09-01T12:30:10.466Z",
           "lastSeenAt": "2026-09-20T13:02:31.610Z",
           "currentPriceCents": 349900,
-          "currentPriceEurCents": 964,
+          "currentPriceEurCents": 963,
           "referencePriceCents": 349900,
-          "referencePriceEurCents": 964
+          "referencePriceEurCents": 963
         }
       ]
     },
@@ -866,7 +866,7 @@
           "url": "https://www.dm.at/p/d/3115321/mivolis-ffp2-atemschutz-maske",
           "isPromo": false,
           "observedAt": "2026-08-30T22:35:47.163Z",
-          "lastSeenAt": "2026-09-19T12:28:56.294Z",
+          "lastSeenAt": "2026-10-19T15:34:25.335Z",
           "currentPriceCents": 595,
           "currentPriceEurCents": 595,
           "referencePriceCents": 595,
@@ -880,7 +880,7 @@
           "url": "https://www.dm.de/p/d/3115321/mivolis-ffp2-atemschutzmaske",
           "isPromo": false,
           "observedAt": "2026-08-31T20:41:05.626Z",
-          "lastSeenAt": "2026-09-19T12:29:01.335Z",
+          "lastSeenAt": "2026-10-19T15:34:32.211Z",
           "currentPriceCents": 195,
           "currentPriceEurCents": 195,
           "referencePriceCents": 195,
@@ -892,7 +892,7 @@
       "productId": 7985,
       "brand": "TOM TAILOR",
       "isCountryExtreme": true,
-      "overallPercentDiff": 204.42,
+      "overallPercentDiff": 204.22,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -947,9 +947,9 @@
           "observedAt": "2026-09-01T12:30:22.854Z",
           "lastSeenAt": "2026-09-24T13:32:21.725Z",
           "currentPriceCents": 1099900,
-          "currentPriceEurCents": 3029,
+          "currentPriceEurCents": 3027,
           "referencePriceCents": 1099900,
-          "referencePriceEurCents": 3029
+          "referencePriceEurCents": 3027
         },
         {
           "countryCode": "SI",
@@ -964,71 +964,6 @@
           "currentPriceEurCents": 1490,
           "referencePriceCents": 1490,
           "referencePriceEurCents": 1490
-        }
-      ]
-    },
-    {
-      "productId": 14619,
-      "brand": "TOM TAILOR",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 204.42,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Cool Mind for him edt, 30 ml",
-          "url": "https://www.dm.hr/p/d/1708912/tom-tailor-cool-mind-for-him-edt",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:27.900Z",
-          "lastSeenAt": "2026-09-19T12:28:55.139Z",
-          "currentPriceCents": 1390,
-          "currentPriceEurCents": 1390,
-          "referencePriceCents": 1390,
-          "referencePriceEurCents": 1390
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Eau de Toilette Cool Mind, 30 ml",
-          "url": "https://www.dm.at/p/d/1708912/tom-tailor-eau-de-toilette-cool-mind",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:45.712Z",
-          "lastSeenAt": "2026-09-19T12:28:57.901Z",
-          "currentPriceCents": 1395,
-          "currentPriceEurCents": 1395,
-          "referencePriceCents": 1395,
-          "referencePriceEurCents": 1395
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Cool Mind for him Eau de Toilette, 30 ml",
-          "url": "https://www.dm.de/p/d/1708912/tom-tailor-cool-mind-for-him-eau-de-toilette",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:15.739Z",
-          "lastSeenAt": "2026-09-19T12:29:05.833Z",
-          "currentPriceCents": 995,
-          "currentPriceEurCents": 995,
-          "referencePriceCents": 995,
-          "referencePriceEurCents": 995
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Férfi EdT Cool Mind, 30 ml",
-          "url": "https://www.dm.hu/p/d/1708912/tom-tailor-ferfi-edt-cool-mind",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:22.854Z",
-          "lastSeenAt": "2026-09-19T12:29:08.876Z",
-          "currentPriceCents": 1099900,
-          "currentPriceEurCents": 3029,
-          "referencePriceCents": 1099900,
-          "referencePriceEurCents": 3029
         }
       ]
     },
@@ -1152,7 +1087,7 @@
       "productId": 5135,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 196.92,
+      "overallPercentDiff": 195.38,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1221,9 +1156,9 @@
           "observedAt": "2026-09-01T12:30:55.609Z",
           "lastSeenAt": "2026-09-20T13:02:31.610Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 193,
+          "currentPriceEurCents": 192,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 193
+          "referencePriceEurCents": 192
         }
       ]
     },
@@ -1231,7 +1166,7 @@
       "productId": 5206,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 196.92,
+      "overallPercentDiff": 195.38,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1272,9 +1207,9 @@
           "observedAt": "2026-09-01T12:29:59.422Z",
           "lastSeenAt": "2026-09-25T13:44:12.981Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 193,
+          "currentPriceEurCents": 192,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 193
+          "referencePriceEurCents": 192
         }
       ]
     },
@@ -1282,7 +1217,7 @@
       "productId": 3304,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 191.76,
+      "overallPercentDiff": 190.59,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1351,9 +1286,9 @@
           "observedAt": "2026-09-01T12:30:55.609Z",
           "lastSeenAt": "2026-09-20T13:02:31.610Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 248,
+          "currentPriceEurCents": 247,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 248
+          "referencePriceEurCents": 247
         }
       ]
     },
@@ -1361,7 +1296,7 @@
       "productId": 5271,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 191.76,
+      "overallPercentDiff": 190.59,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1430,9 +1365,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-10-11T14:54:15.303Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 248,
+          "currentPriceEurCents": 247,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 248
+          "referencePriceEurCents": 247
         }
       ]
     },
@@ -1440,7 +1375,7 @@
       "productId": 7733,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 191.76,
+      "overallPercentDiff": 190.59,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1509,9 +1444,9 @@
           "observedAt": "2026-09-01T12:31:07.865Z",
           "lastSeenAt": "2026-10-01T15:26:09.549Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 248,
+          "currentPriceEurCents": 247,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 248
+          "referencePriceEurCents": 247
         }
       ]
     },
@@ -1649,7 +1584,7 @@
       "productId": 3477,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 186.4,
+      "overallPercentDiff": 185.6,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1690,9 +1625,9 @@
           "observedAt": "2026-09-01T12:32:47.738Z",
           "lastSeenAt": "2026-10-13T11:44:16.827Z",
           "currentPriceCents": 129900,
-          "currentPriceEurCents": 358,
+          "currentPriceEurCents": 357,
           "referencePriceCents": 129900,
-          "referencePriceEurCents": 358
+          "referencePriceEurCents": 357
         }
       ]
     },
@@ -1700,7 +1635,7 @@
       "productId": 6257,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 186.4,
+      "overallPercentDiff": 185.6,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1741,9 +1676,9 @@
           "observedAt": "2026-09-01T12:32:59.257Z",
           "lastSeenAt": "2026-09-25T13:44:14.594Z",
           "currentPriceCents": 129900,
-          "currentPriceEurCents": 358,
+          "currentPriceEurCents": 357,
           "referencePriceCents": 129900,
-          "referencePriceEurCents": 358
+          "referencePriceEurCents": 357
         }
       ]
     },
@@ -1751,7 +1686,7 @@
       "productId": 42826,
       "brand": "Jaguar",
       "isCountryExtreme": true,
-      "overallPercentDiff": 183.63,
+      "overallPercentDiff": 183.36,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1778,9 +1713,9 @@
           "observedAt": "2026-09-01T12:30:19.979Z",
           "lastSeenAt": "2026-09-21T15:05:41.766Z",
           "currentPriceCents": 1899900,
-          "currentPriceEurCents": 5233,
+          "currentPriceEurCents": 5228,
           "referencePriceCents": 1899900,
-          "referencePriceEurCents": 5233
+          "referencePriceEurCents": 5228
         }
       ]
     },
@@ -1845,6 +1780,43 @@
           "currentPriceCents": 179900,
           "currentPriceEurCents": 495,
           "referencePriceCents": 179900,
+          "referencePriceEurCents": 495
+        }
+      ]
+    },
+    {
+      "productId": 27695,
+      "brand": "Tabac Original",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 181.82,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Deodorant Stick, 75 ml",
+          "url": "https://www.dm.at/p/d/1011575/tabac-original-deodorant-stick",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:05.271Z",
+          "lastSeenAt": "2026-10-03T13:21:25.746Z",
+          "currentPriceCents": 1395,
+          "currentPriceEurCents": 1395,
+          "referencePriceCents": 1395,
+          "referencePriceEurCents": 1395
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Deostick, 75 ml",
+          "url": "https://www.dm.de/p/d/1011575/tabac-original-deostick",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:06.109Z",
+          "lastSeenAt": "2026-10-03T13:21:31.579Z",
+          "currentPriceCents": 495,
+          "currentPriceEurCents": 495,
+          "referencePriceCents": 495,
           "referencePriceEurCents": 495
         }
       ]
