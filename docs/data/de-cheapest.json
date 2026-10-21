@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-20T09:52:54.176Z",
+  "generatedAt": "2026-10-21T09:54:14.049Z",
   "fx": {
-    "asOf": "2026-10-19",
+    "asOf": "2026-10-20",
     "rates": {
-      "USD": 1.1225,
-      "JPY": 177.63,
-      "CZK": 24.343,
-      "DKK": 7.4747,
-      "GBP": 0.84205,
-      "HUF": 363.4,
-      "PLN": 4.3713,
-      "RON": 5.3264,
-      "SEK": 11.104,
-      "CHF": 0.9261,
-      "ISK": 136.4,
-      "NOK": 10.5555,
-      "TRY": 55.6227,
-      "AUD": 1.6068,
-      "BRL": 5.6633,
-      "CAD": 1.5798,
-      "CNY": 7.4991,
-      "HKD": 8.8097,
-      "IDR": 20253.16,
-      "ILS": 3.489,
-      "INR": 106.559,
-      "KRW": 1492.35,
-      "MXN": 20.7481,
-      "MYR": 4.5826,
-      "NZD": 1.9792,
-      "PHP": 70.715,
-      "SGD": 1.4357,
-      "THB": 37.665,
-      "ZAR": 18.4469
+      "USD": 1.1215,
+      "JPY": 177.34,
+      "CZK": 24.329,
+      "DKK": 7.4746,
+      "GBP": 0.84028,
+      "HUF": 364.68,
+      "PLN": 4.3768,
+      "RON": 5.3308,
+      "SEK": 11.123,
+      "CHF": 0.9237,
+      "ISK": 136.2,
+      "NOK": 10.5245,
+      "TRY": 55.6009,
+      "AUD": 1.6056,
+      "BRL": 5.6339,
+      "CAD": 1.5758,
+      "CNY": 7.4894,
+      "HKD": 8.8023,
+      "IDR": 20170.57,
+      "ILS": 3.4853,
+      "INR": 106.459,
+      "KRW": 1489.17,
+      "MXN": 20.7719,
+      "MYR": 4.5788,
+      "NZD": 1.9748,
+      "PHP": 70.804,
+      "SGD": 1.4338,
+      "THB": 37.738,
+      "ZAR": 18.4769
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -152,43 +152,6 @@
           "currentPriceEurCents": 65,
           "referencePriceCents": 65,
           "referencePriceEurCents": 65
-        }
-      ]
-    },
-    {
-      "productId": 41748,
-      "brand": "Fascino",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 230.22,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Strumpfhose glänzend powder Gr. 50/52, 15 DEN, 1 St",
-          "url": "https://www.dm.de/p/d/1715182/fascino-strumpfhose-glaenzend-powder-gr-50-52-15-den",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:03:41.837Z",
-          "lastSeenAt": "2026-10-03T19:03:41.837Z",
-          "currentPriceCents": 160,
-          "currentPriceEurCents": 160,
-          "referencePriceCents": 225,
-          "referencePriceEurCents": 225
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fényes harisnyanadrág, púder, 15 den, 50-52, 1 db",
-          "url": "https://www.dm.hu/p/d/1715182/fascino-fenyes-harisnyanadrag-puder-15-den-50-52",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:07.326Z",
-          "lastSeenAt": "2026-09-20T13:02:31.610Z",
-          "currentPriceCents": 269900,
-          "currentPriceEurCents": 743,
-          "referencePriceCents": 269900,
-          "referencePriceEurCents": 743
         }
       ]
     },
@@ -337,10 +300,47 @@
       ]
     },
     {
+      "productId": 41748,
+      "brand": "Fascino",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 228.89,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Strumpfhose glänzend powder Gr. 50/52, 15 DEN, 1 St",
+          "url": "https://www.dm.de/p/d/1715182/fascino-strumpfhose-glaenzend-powder-gr-50-52-15-den",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:03:41.837Z",
+          "lastSeenAt": "2026-10-03T19:03:41.837Z",
+          "currentPriceCents": 160,
+          "currentPriceEurCents": 160,
+          "referencePriceCents": 225,
+          "referencePriceEurCents": 225
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fényes harisnyanadrág, púder, 15 den, 50-52, 1 db",
+          "url": "https://www.dm.hu/p/d/1715182/fascino-fenyes-harisnyanadrag-puder-15-den-50-52",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:07.326Z",
+          "lastSeenAt": "2026-10-20T13:32:51.463Z",
+          "currentPriceCents": 269900,
+          "currentPriceEurCents": 740,
+          "referencePriceCents": 269900,
+          "referencePriceEurCents": 740
+        }
+      ]
+    },
+    {
       "productId": 7017,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 223.53,
+      "overallPercentDiff": 222.35,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -409,9 +409,9 @@
           "observedAt": "2026-09-01T12:31:46.773Z",
           "lastSeenAt": "2026-09-24T13:32:19.547Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 275,
+          "currentPriceEurCents": 274,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 275
+          "referencePriceEurCents": 274
         }
       ]
     },
@@ -419,7 +419,7 @@
       "productId": 10916,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 223.53,
+      "overallPercentDiff": 222.35,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -488,9 +488,9 @@
           "observedAt": "2026-09-01T12:32:54.339Z",
           "lastSeenAt": "2026-10-17T12:10:21.109Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 275,
+          "currentPriceEurCents": 274,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 275
+          "referencePriceEurCents": 274
         }
       ]
     },
@@ -567,9 +567,9 @@
           "observedAt": "2026-10-18T12:36:09.737Z",
           "lastSeenAt": "2026-10-18T12:36:09.737Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 825,
+          "currentPriceEurCents": 822,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 825
+          "referencePriceEurCents": 822
         }
       ]
     },
@@ -651,7 +651,7 @@
       "productId": 28910,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 210.65,
+      "overallPercentDiff": 209.35,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -662,7 +662,7 @@
           "url": "https://www.dm.at/p/d/2970339/fascino-strumpfhose-antistatisch-caramel-20-den-gr-38-40",
           "isPromo": false,
           "observedAt": "2026-08-30T22:36:22.891Z",
-          "lastSeenAt": "2026-09-20T13:02:22.093Z",
+          "lastSeenAt": "2026-10-20T13:32:41.157Z",
           "currentPriceCents": 495,
           "currentPriceEurCents": 495,
           "referencePriceCents": 495,
@@ -690,11 +690,11 @@
           "url": "https://www.dm.hu/p/d/2970339/fascino-antisztatikus-harisnyanadrag-caramel-38-40",
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:10.466Z",
-          "lastSeenAt": "2026-09-20T13:02:31.610Z",
+          "lastSeenAt": "2026-10-20T13:32:51.463Z",
           "currentPriceCents": 349900,
-          "currentPriceEurCents": 963,
+          "currentPriceEurCents": 959,
           "referencePriceCents": 349900,
-          "referencePriceEurCents": 963
+          "referencePriceEurCents": 959
         }
       ]
     },
@@ -739,7 +739,7 @@
       "productId": 22665,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 208.78,
+      "overallPercentDiff": 207.32,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -794,9 +794,9 @@
           "observedAt": "2026-09-01T12:30:10.466Z",
           "lastSeenAt": "2026-10-17T12:10:22.820Z",
           "currentPriceCents": 229900,
-          "currentPriceEurCents": 633,
+          "currentPriceEurCents": 630,
           "referencePriceCents": 229900,
-          "referencePriceEurCents": 633
+          "referencePriceEurCents": 630
         }
       ]
     },
@@ -892,7 +892,7 @@
       "productId": 7985,
       "brand": "TOM TAILOR",
       "isCountryExtreme": true,
-      "overallPercentDiff": 204.22,
+      "overallPercentDiff": 203.12,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -947,9 +947,9 @@
           "observedAt": "2026-09-01T12:30:22.854Z",
           "lastSeenAt": "2026-09-24T13:32:21.725Z",
           "currentPriceCents": 1099900,
-          "currentPriceEurCents": 3027,
+          "currentPriceEurCents": 3016,
           "referencePriceCents": 1099900,
-          "referencePriceEurCents": 3027
+          "referencePriceEurCents": 3016
         },
         {
           "countryCode": "SI",
@@ -1098,7 +1098,7 @@
           "url": "https://www.dm.at/p/d/2969724/profissimo-muellbeutel-10-l-mit-tragegriff",
           "isPromo": false,
           "observedAt": "2026-08-28T16:55:45.671Z",
-          "lastSeenAt": "2026-09-20T13:02:20.097Z",
+          "lastSeenAt": "2026-10-20T13:32:41.157Z",
           "currentPriceCents": 95,
           "currentPriceEurCents": 95,
           "referencePriceCents": 95,
@@ -1112,7 +1112,7 @@
           "url": "https://www.dm.hr/p/d/2969724/profissimo-vrece-za-smece-s-ruckama-10-l",
           "isPromo": false,
           "observedAt": "2026-08-30T22:32:46.230Z",
-          "lastSeenAt": "2026-09-20T13:02:14.642Z",
+          "lastSeenAt": "2026-10-20T13:32:37.365Z",
           "currentPriceCents": 95,
           "currentPriceEurCents": 95,
           "referencePriceCents": 95,
@@ -1126,7 +1126,7 @@
           "url": "https://www.dm.si/p/d/2969724/profissimo-vrecke-za-smeti-z-rocaji-10l",
           "isPromo": false,
           "observedAt": "2026-08-30T22:33:45.838Z",
-          "lastSeenAt": "2026-09-20T13:02:09.830Z",
+          "lastSeenAt": "2026-10-20T13:32:32.376Z",
           "currentPriceCents": 95,
           "currentPriceEurCents": 95,
           "referencePriceCents": 95,
@@ -1140,7 +1140,7 @@
           "url": "https://www.dm.de/p/d/2969724/profissimo-muellbeutel-10-l-mit-tragegriff-fuer-kosmetikeimer",
           "isPromo": false,
           "observedAt": "2026-08-31T20:40:58.444Z",
-          "lastSeenAt": "2026-09-20T13:02:24.504Z",
+          "lastSeenAt": "2026-10-20T13:32:48.032Z",
           "currentPriceCents": 65,
           "currentPriceEurCents": 65,
           "referencePriceCents": 65,
@@ -1154,7 +1154,7 @@
           "url": "https://www.dm.hu/p/d/2969724/profissimo-szemeteszsak-fogofullel-10-literes-kozmetikai-szemetesbe",
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:55.609Z",
-          "lastSeenAt": "2026-09-20T13:02:31.610Z",
+          "lastSeenAt": "2026-10-20T13:32:53.855Z",
           "currentPriceCents": 69900,
           "currentPriceEurCents": 192,
           "referencePriceCents": 69900,
@@ -1228,7 +1228,7 @@
           "url": "https://www.dm.hr/p/d/1632447/balea-ucvrscujuci-koncentrat-za-lice-s-retinolom",
           "isPromo": false,
           "observedAt": "2026-08-28T16:04:48.588Z",
-          "lastSeenAt": "2026-09-20T13:02:14.642Z",
+          "lastSeenAt": "2026-10-20T13:32:35.678Z",
           "currentPriceCents": 115,
           "currentPriceEurCents": 115,
           "referencePriceCents": 115,
@@ -1242,25 +1242,11 @@
           "url": "https://www.dm.si/p/d/1632447/balea-ucvrstitveni-koncentrat-z-retinolom",
           "isPromo": false,
           "observedAt": "2026-08-30T22:33:57.723Z",
-          "lastSeenAt": "2026-09-20T13:02:09.830Z",
+          "lastSeenAt": "2026-10-20T13:32:28.846Z",
           "currentPriceCents": 135,
           "currentPriceEurCents": 135,
           "referencePriceCents": 135,
           "referencePriceEurCents": 135
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Konzentrat Retinol, 7 St",
-          "url": "https://www.dm.at/p/d/1632447/balea-konzentrat-retinol",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:36.315Z",
-          "lastSeenAt": "2026-09-20T13:02:20.097Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
         },
         {
           "countryCode": "DE",
@@ -1270,7 +1256,7 @@
           "url": "https://www.dm.de/p/d/1632447/balea-konzentrat-retinol",
           "isPromo": false,
           "observedAt": "2026-08-31T20:43:01.151Z",
-          "lastSeenAt": "2026-09-20T13:02:24.504Z",
+          "lastSeenAt": "2026-10-20T13:32:48.032Z",
           "currentPriceCents": 85,
           "currentPriceEurCents": 85,
           "referencePriceCents": 85,
@@ -1284,7 +1270,7 @@
           "url": "https://www.dm.hu/p/d/1632447/balea-borfeszesito-koncentratum-retinollal",
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:55.609Z",
-          "lastSeenAt": "2026-09-20T13:02:31.610Z",
+          "lastSeenAt": "2026-10-20T13:32:51.463Z",
           "currentPriceCents": 89900,
           "currentPriceEurCents": 247,
           "referencePriceCents": 89900,
@@ -1454,7 +1440,7 @@
       "productId": 27818,
       "brand": "Finish",
       "isCountryExtreme": true,
-      "overallPercentDiff": 190.18,
+      "overallPercentDiff": 189.09,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1495,9 +1481,9 @@
           "observedAt": "2026-09-01T12:32:40.208Z",
           "lastSeenAt": "2026-10-03T13:21:36.090Z",
           "currentPriceCents": 289900,
-          "currentPriceEurCents": 798,
+          "currentPriceEurCents": 795,
           "referencePriceCents": 289900,
-          "referencePriceEurCents": 798
+          "referencePriceEurCents": 795
         }
       ]
     },
@@ -1505,7 +1491,7 @@
       "productId": 2456,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 189.47,
+      "overallPercentDiff": 188.42,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1574,9 +1560,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-10-12T17:51:42.466Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 275,
+          "currentPriceEurCents": 274,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 275
+          "referencePriceEurCents": 274
         }
       ]
     },
@@ -1584,7 +1570,7 @@
       "productId": 3477,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 185.6,
+      "overallPercentDiff": 184.8,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1625,9 +1611,9 @@
           "observedAt": "2026-09-01T12:32:47.738Z",
           "lastSeenAt": "2026-10-13T11:44:16.827Z",
           "currentPriceCents": 129900,
-          "currentPriceEurCents": 357,
+          "currentPriceEurCents": 356,
           "referencePriceCents": 129900,
-          "referencePriceEurCents": 357
+          "referencePriceEurCents": 356
         }
       ]
     },
@@ -1635,7 +1621,7 @@
       "productId": 6257,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 185.6,
+      "overallPercentDiff": 184.8,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1676,9 +1662,9 @@
           "observedAt": "2026-09-01T12:32:59.257Z",
           "lastSeenAt": "2026-09-25T13:44:14.594Z",
           "currentPriceCents": 129900,
-          "currentPriceEurCents": 357,
+          "currentPriceEurCents": 356,
           "referencePriceCents": 129900,
-          "referencePriceEurCents": 357
+          "referencePriceEurCents": 356
         }
       ]
     },
@@ -1686,7 +1672,7 @@
       "productId": 42826,
       "brand": "Jaguar",
       "isCountryExtreme": true,
-      "overallPercentDiff": 183.36,
+      "overallPercentDiff": 182.38,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1713,74 +1699,9 @@
           "observedAt": "2026-09-01T12:30:19.979Z",
           "lastSeenAt": "2026-09-21T15:05:41.766Z",
           "currentPriceCents": 1899900,
-          "currentPriceEurCents": 5228,
+          "currentPriceEurCents": 5210,
           "referencePriceCents": 1899900,
-          "referencePriceEurCents": 5228
-        }
-      ]
-    },
-    {
-      "productId": 5519,
-      "brand": "Denkmit",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 182.86,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "WC-osvežilec Ocean, 4 kos",
-          "url": "https://www.dm.si/p/d/3138119/denkmit-wc-osvezilec-ocean",
-          "isPromo": false,
-          "observedAt": "2026-08-30T21:47:45.469Z",
-          "lastSeenAt": "2026-10-03T13:21:20.411Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "WC-Reiniger Blauspüler Ocean, 4 St",
-          "url": "https://www.dm.at/p/d/3138119/denkmit-wc-reiniger-blauspueler-ocean",
-          "isPromo": false,
-          "observedAt": "2026-08-30T21:47:49.158Z",
-          "lastSeenAt": "2026-10-03T13:21:25.746Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "WC-Blauspüler Ocean, 4 St",
-          "url": "https://www.dm.de/p/d/3138119/denkmit-wc-blauspueler-ocean",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:29.418Z",
-          "lastSeenAt": "2026-10-03T13:21:31.579Z",
-          "currentPriceCents": 175,
-          "currentPriceEurCents": 175,
-          "referencePriceCents": 175,
-          "referencePriceEurCents": 175
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "WC-illatosító rúd, Óceán, 4 db",
-          "url": "https://www.dm.hu/p/d/3138119/denkmit-wc-illatosito-rud-ocean",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:01.877Z",
-          "lastSeenAt": "2026-10-03T13:21:34.631Z",
-          "currentPriceCents": 179900,
-          "currentPriceEurCents": 495,
-          "referencePriceCents": 179900,
-          "referencePriceEurCents": 495
+          "referencePriceEurCents": 5210
         }
       ]
     },
@@ -1814,6 +1735,43 @@
           "isPromo": false,
           "observedAt": "2026-08-31T20:42:06.109Z",
           "lastSeenAt": "2026-10-03T13:21:31.579Z",
+          "currentPriceCents": 495,
+          "currentPriceEurCents": 495,
+          "referencePriceCents": 495,
+          "referencePriceEurCents": 495
+        }
+      ]
+    },
+    {
+      "productId": 39160,
+      "brand": "Tabac Original",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 181.82,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Deospray Natural, 100 ml",
+          "url": "https://www.dm.at/p/d/1016800/tabac-original-deospray-natural",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:38:09.044Z",
+          "lastSeenAt": "2026-09-29T10:39:18.230Z",
+          "currentPriceCents": 1395,
+          "currentPriceEurCents": 1395,
+          "referencePriceCents": 1395,
+          "referencePriceEurCents": 1395
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Deo Naturalspray, 100 ml",
+          "url": "https://www.dm.de/p/d/1016800/tabac-original-deo-naturalspray",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:16.760Z",
+          "lastSeenAt": "2026-09-29T10:39:24.096Z",
           "currentPriceCents": 495,
           "currentPriceEurCents": 495,
           "referencePriceCents": 495,
