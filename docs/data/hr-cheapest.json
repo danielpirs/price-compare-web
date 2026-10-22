@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-21T09:54:14.049Z",
+  "generatedAt": "2026-10-22T09:54:15.349Z",
   "fx": {
-    "asOf": "2026-10-20",
+    "asOf": "2026-10-21",
     "rates": {
-      "USD": 1.1215,
-      "JPY": 177.34,
-      "CZK": 24.329,
+      "USD": 1.1234,
+      "JPY": 177.36,
+      "CZK": 24.262,
       "DKK": 7.4746,
-      "GBP": 0.84028,
-      "HUF": 364.68,
-      "PLN": 4.3768,
-      "RON": 5.3308,
-      "SEK": 11.123,
-      "CHF": 0.9237,
+      "GBP": 0.83825,
+      "HUF": 365,
+      "PLN": 4.3635,
+      "RON": 5.3365,
+      "SEK": 11.0975,
+      "CHF": 0.9256,
       "ISK": 136.2,
-      "NOK": 10.5245,
-      "TRY": 55.6009,
-      "AUD": 1.6056,
-      "BRL": 5.6339,
-      "CAD": 1.5758,
-      "CNY": 7.4894,
-      "HKD": 8.8023,
-      "IDR": 20170.57,
-      "ILS": 3.4853,
-      "INR": 106.459,
-      "KRW": 1489.17,
-      "MXN": 20.7719,
-      "MYR": 4.5788,
-      "NZD": 1.9748,
-      "PHP": 70.804,
-      "SGD": 1.4338,
-      "THB": 37.738,
-      "ZAR": 18.4769
+      "NOK": 10.512,
+      "TRY": 55.7233,
+      "AUD": 1.5971,
+      "BRL": 5.6432,
+      "CAD": 1.5779,
+      "CNY": 7.4999,
+      "HKD": 8.8155,
+      "IDR": 20269.17,
+      "ILS": 3.4726,
+      "INR": 106.1265,
+      "KRW": 1489.15,
+      "MXN": 20.7632,
+      "MYR": 4.5843,
+      "NZD": 1.9735,
+      "PHP": 71.121,
+      "SGD": 1.4348,
+      "THB": 37.718,
+      "ZAR": 18.393
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -270,7 +270,7 @@
       "productId": 10532,
       "brand": "TOM TAILOR",
       "isCountryExtreme": true,
-      "overallPercentDiff": 304.83,
+      "overallPercentDiff": 304.43,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -325,9 +325,9 @@
           "observedAt": "2026-09-01T12:30:22.854Z",
           "lastSeenAt": "2026-09-29T10:39:25.487Z",
           "currentPriceCents": 1099900,
-          "currentPriceEurCents": 3016,
+          "currentPriceEurCents": 3013,
           "referencePriceCents": 1099900,
-          "referencePriceEurCents": 3016
+          "referencePriceEurCents": 3013
         }
       ]
     },
@@ -404,9 +404,9 @@
           "observedAt": "2026-10-19T15:34:35.501Z",
           "lastSeenAt": "2026-10-19T15:34:35.501Z",
           "currentPriceCents": 499900,
-          "currentPriceEurCents": 1371,
+          "currentPriceEurCents": 1370,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1371
+          "referencePriceEurCents": 1370
         }
       ]
     },
@@ -483,9 +483,9 @@
           "observedAt": "2026-09-01T12:30:30.838Z",
           "lastSeenAt": "2026-09-25T13:44:12.981Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1508,
+          "currentPriceEurCents": 1507,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1508
+          "referencePriceEurCents": 1507
         }
       ]
     },
@@ -636,9 +636,9 @@
           "observedAt": "2026-10-03T19:06:13.313Z",
           "lastSeenAt": "2026-10-03T19:06:13.313Z",
           "currentPriceCents": 219900,
-          "currentPriceEurCents": 603,
+          "currentPriceEurCents": 602,
           "referencePriceCents": 439900,
-          "referencePriceEurCents": 1206
+          "referencePriceEurCents": 1205
         }
       ]
     },
@@ -697,7 +697,7 @@
       "productId": 12122,
       "brand": "L'ORÉAL PARiS",
       "isCountryExtreme": true,
-      "overallPercentDiff": 204.67,
+      "overallPercentDiff": 204.44,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -738,60 +738,9 @@
           "observedAt": "2026-09-01T12:31:30.809Z",
           "lastSeenAt": "2026-09-29T10:39:25.487Z",
           "currentPriceCents": 499900,
-          "currentPriceEurCents": 1371,
+          "currentPriceEurCents": 1370,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1371
-        }
-      ]
-    },
-    {
-      "productId": 10571,
-      "brand": "PARIS CORNER",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 194.84,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Rifaaqat edp, 85 ml",
-          "url": "https://www.dm.hr/p/d/2977562/paris-corner-rifaaqat-edp",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:04:16.543Z",
-          "lastSeenAt": "2026-10-03T19:04:16.543Z",
-          "currentPriceCents": 695,
-          "currentPriceEurCents": 695,
-          "referencePriceCents": 1395,
-          "referencePriceEurCents": 1395
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Unisex parfumska voda Rifaaqat, 85 ml",
-          "url": "https://www.dm.si/p/d/2977562/paris-corner-unisex-parfumska-voda-rifaaqat",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:24.230Z",
-          "lastSeenAt": "2026-09-21T15:05:26.029Z",
-          "currentPriceCents": 2790,
-          "currentPriceEurCents": 2790,
-          "referencePriceCents": 2790,
-          "referencePriceEurCents": 2790
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Uniszex EdP Rifaaqat, 85 ml",
-          "url": "https://www.dm.hu/p/d/2977562/paris-corner-uniszex-edp-rifaaqat",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:22.854Z",
-          "lastSeenAt": "2026-09-21T15:05:41.766Z",
-          "currentPriceCents": 1499900,
-          "currentPriceEurCents": 4113,
-          "referencePriceCents": 1499900,
-          "referencePriceEurCents": 4113
+          "referencePriceEurCents": 1370
         }
       ]
     },
@@ -799,7 +748,7 @@
       "productId": 12985,
       "brand": "DKNY",
       "isCountryExtreme": true,
-      "overallPercentDiff": 192.23,
+      "overallPercentDiff": 191.97,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -840,9 +789,9 @@
           "observedAt": "2026-09-01T12:32:59.257Z",
           "lastSeenAt": "2026-09-23T13:37:24.417Z",
           "currentPriceCents": 1699900,
-          "currentPriceEurCents": 4661,
+          "currentPriceEurCents": 4657,
           "referencePriceCents": 1699900,
-          "referencePriceEurCents": 4661
+          "referencePriceEurCents": 4657
         }
       ]
     },
@@ -905,9 +854,9 @@
           "observedAt": "2026-09-01T12:32:07.099Z",
           "lastSeenAt": "2026-09-24T13:32:21.725Z",
           "currentPriceCents": 429900,
-          "currentPriceEurCents": 1179,
+          "currentPriceEurCents": 1178,
           "referencePriceCents": 429900,
-          "referencePriceEurCents": 1179
+          "referencePriceEurCents": 1178
         }
       ]
     },
@@ -984,9 +933,9 @@
           "observedAt": "2026-09-01T12:30:17.495Z",
           "lastSeenAt": "2026-09-28T16:44:26.494Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 247,
+          "currentPriceEurCents": 246,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 247
+          "referencePriceEurCents": 246
         }
       ]
     },
@@ -1059,7 +1008,7 @@
       "productId": 10595,
       "brand": "L'ORÉAL PARiS",
       "isCountryExtreme": true,
-      "overallPercentDiff": 180.22,
+      "overallPercentDiff": 180,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1128,9 +1077,9 @@
           "observedAt": "2026-09-01T12:32:25.549Z",
           "lastSeenAt": "2026-09-22T13:25:13.904Z",
           "currentPriceCents": 459900,
-          "currentPriceEurCents": 1261,
+          "currentPriceEurCents": 1260,
           "referencePriceCents": 459900,
-          "referencePriceEurCents": 1261
+          "referencePriceEurCents": 1260
         }
       ]
     },
@@ -1138,7 +1087,7 @@
       "productId": 8497,
       "brand": "dmBio",
       "isCountryExtreme": true,
-      "overallPercentDiff": 180,
+      "overallPercentDiff": 179.57,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1179,9 +1128,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-10-09T15:16:29.929Z",
           "currentPriceCents": 239900,
-          "currentPriceEurCents": 658,
+          "currentPriceEurCents": 657,
           "referencePriceCents": 239900,
-          "referencePriceEurCents": 658
+          "referencePriceEurCents": 657
         }
       ]
     },
@@ -1607,7 +1556,7 @@
       "productId": 2995,
       "brand": "syoss",
       "isCountryExtreme": true,
-      "overallPercentDiff": 159.27,
+      "overallPercentDiff": 158.91,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1662,9 +1611,9 @@
           "observedAt": "2026-09-01T12:32:49.604Z",
           "lastSeenAt": "2026-09-26T13:03:14.475Z",
           "currentPriceCents": 259900,
-          "currentPriceEurCents": 713,
+          "currentPriceEurCents": 712,
           "referencePriceCents": 259900,
-          "referencePriceEurCents": 713
+          "referencePriceEurCents": 712
         }
       ]
     },
@@ -1900,6 +1849,57 @@
           "lastSeenAt": "2026-10-06T11:14:46.769Z",
           "currentPriceCents": 49900,
           "currentPriceEurCents": 137,
+          "referencePriceCents": 49900,
+          "referencePriceEurCents": 137
+        }
+      ]
+    },
+    {
+      "productId": 8076,
+      "brand": "s-he colour&style",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 148.75,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Olovka za nokte – 115/001 bijela, 1 kom.",
+          "url": "https://www.dm.hr/p/d/1821450/s-he-colour-style-olovka-za-nokte-115-001-bijela",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:04:16.543Z",
+          "lastSeenAt": "2026-10-03T19:04:16.543Z",
+          "currentPriceCents": 50,
+          "currentPriceEurCents": 50,
+          "referencePriceCents": 80,
+          "referencePriceEurCents": 80
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Bel svinčnik za nohte, 1 kos",
+          "url": "https://www.dm.si/p/d/1821450/s-he-colour-style-bel-svincnik-za-nohte",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:20.552Z",
+          "lastSeenAt": "2026-10-03T19:13:20.552Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 199,
+          "referencePriceEurCents": 199
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Körömfehérítő ceruza, 1 db",
+          "url": "https://www.dm.hu/p/d/1821450/s-he-colour-style-koromfeherito-ceruza",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:10.259Z",
+          "lastSeenAt": "2026-10-03T19:06:10.259Z",
+          "currentPriceCents": 34900,
+          "currentPriceEurCents": 96,
           "referencePriceCents": 49900,
           "referencePriceEurCents": 137
         }

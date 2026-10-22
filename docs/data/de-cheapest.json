@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-21T09:54:14.049Z",
+  "generatedAt": "2026-10-22T09:54:15.349Z",
   "fx": {
-    "asOf": "2026-10-20",
+    "asOf": "2026-10-21",
     "rates": {
-      "USD": 1.1215,
-      "JPY": 177.34,
-      "CZK": 24.329,
+      "USD": 1.1234,
+      "JPY": 177.36,
+      "CZK": 24.262,
       "DKK": 7.4746,
-      "GBP": 0.84028,
-      "HUF": 364.68,
-      "PLN": 4.3768,
-      "RON": 5.3308,
-      "SEK": 11.123,
-      "CHF": 0.9237,
+      "GBP": 0.83825,
+      "HUF": 365,
+      "PLN": 4.3635,
+      "RON": 5.3365,
+      "SEK": 11.0975,
+      "CHF": 0.9256,
       "ISK": 136.2,
-      "NOK": 10.5245,
-      "TRY": 55.6009,
-      "AUD": 1.6056,
-      "BRL": 5.6339,
-      "CAD": 1.5758,
-      "CNY": 7.4894,
-      "HKD": 8.8023,
-      "IDR": 20170.57,
-      "ILS": 3.4853,
-      "INR": 106.459,
-      "KRW": 1489.17,
-      "MXN": 20.7719,
-      "MYR": 4.5788,
-      "NZD": 1.9748,
-      "PHP": 70.804,
-      "SGD": 1.4338,
-      "THB": 37.738,
-      "ZAR": 18.4769
+      "NOK": 10.512,
+      "TRY": 55.7233,
+      "AUD": 1.5971,
+      "BRL": 5.6432,
+      "CAD": 1.5779,
+      "CNY": 7.4999,
+      "HKD": 8.8155,
+      "IDR": 20269.17,
+      "ILS": 3.4726,
+      "INR": 106.1265,
+      "KRW": 1489.15,
+      "MXN": 20.7632,
+      "MYR": 4.5843,
+      "NZD": 1.9735,
+      "PHP": 71.121,
+      "SGD": 1.4348,
+      "THB": 37.718,
+      "ZAR": 18.393
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -156,10 +156,47 @@
       ]
     },
     {
+      "productId": 41748,
+      "brand": "Fascino",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 228.44,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Strumpfhose glänzend powder Gr. 50/52, 15 DEN, 1 St",
+          "url": "https://www.dm.de/p/d/1715182/fascino-strumpfhose-glaenzend-powder-gr-50-52-15-den",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:03:41.837Z",
+          "lastSeenAt": "2026-10-03T19:03:41.837Z",
+          "currentPriceCents": 160,
+          "currentPriceEurCents": 160,
+          "referencePriceCents": 225,
+          "referencePriceEurCents": 225
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fényes harisnyanadrág, púder, 15 den, 50-52, 1 db",
+          "url": "https://www.dm.hu/p/d/1715182/fascino-fenyes-harisnyanadrag-puder-15-den-50-52",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:07.326Z",
+          "lastSeenAt": "2026-10-20T13:32:51.463Z",
+          "currentPriceCents": 269900,
+          "currentPriceEurCents": 739,
+          "referencePriceCents": 269900,
+          "referencePriceEurCents": 739
+        }
+      ]
+    },
+    {
       "productId": 15471,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 229.33,
+      "overallPercentDiff": 228,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -214,9 +251,9 @@
           "observedAt": "2026-09-01T12:31:37.751Z",
           "lastSeenAt": "2026-10-01T15:26:11.718Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 247,
+          "currentPriceEurCents": 246,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 247
+          "referencePriceEurCents": 246
         },
         {
           "countryCode": "HR",
@@ -238,7 +275,7 @@
       "productId": 3966,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 229.33,
+      "overallPercentDiff": 228,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -293,46 +330,9 @@
           "observedAt": "2026-09-01T12:30:17.495Z",
           "lastSeenAt": "2026-10-03T13:21:34.631Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 247,
+          "currentPriceEurCents": 246,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 247
-        }
-      ]
-    },
-    {
-      "productId": 41748,
-      "brand": "Fascino",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 228.89,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Strumpfhose glänzend powder Gr. 50/52, 15 DEN, 1 St",
-          "url": "https://www.dm.de/p/d/1715182/fascino-strumpfhose-glaenzend-powder-gr-50-52-15-den",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:03:41.837Z",
-          "lastSeenAt": "2026-10-03T19:03:41.837Z",
-          "currentPriceCents": 160,
-          "currentPriceEurCents": 160,
-          "referencePriceCents": 225,
-          "referencePriceEurCents": 225
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fényes harisnyanadrág, púder, 15 den, 50-52, 1 db",
-          "url": "https://www.dm.hu/p/d/1715182/fascino-fenyes-harisnyanadrag-puder-15-den-50-52",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:07.326Z",
-          "lastSeenAt": "2026-10-20T13:32:51.463Z",
-          "currentPriceCents": 269900,
-          "currentPriceEurCents": 740,
-          "referencePriceCents": 269900,
-          "referencePriceEurCents": 740
+          "referencePriceEurCents": 246
         }
       ]
     },
@@ -815,25 +815,11 @@
           "url": "https://www.dm.si/p/d/1492228/colgate-zobna-scetka-za-otroke-super-soft-vec-razlicic",
           "isPromo": false,
           "observedAt": "2026-08-30T22:34:18.489Z",
-          "lastSeenAt": "2026-09-21T15:05:26.029Z",
+          "lastSeenAt": "2026-10-21T13:44:37.793Z",
           "currentPriceCents": 290,
           "currentPriceEurCents": 290,
           "referencePriceCents": 290,
           "referencePriceEurCents": 290
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Zahnbürste Kinder Minions/Trolls 2 bis 6 Jahre..., 1 St",
-          "url": "https://www.dm.at/p/d/1492228/colgate-zahnbuerste-kinder-minions-trolls-2-bis-6-jahre-extra-soft-sortiert",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:38:00.469Z",
-          "lastSeenAt": "2026-09-21T15:05:28.118Z",
-          "currentPriceCents": 255,
-          "currentPriceEurCents": 255,
-          "referencePriceCents": 255,
-          "referencePriceEurCents": 255
         },
         {
           "countryCode": "DE",
@@ -843,7 +829,7 @@
           "url": "https://www.dm.de/p/d/1492228/colgate-zahnbuerste-kinder-minions-trolls-2-6-jahren-extra-soft",
           "isPromo": false,
           "observedAt": "2026-08-31T20:43:27.891Z",
-          "lastSeenAt": "2026-09-21T15:05:34.483Z",
+          "lastSeenAt": "2026-10-21T13:44:46.413Z",
           "currentPriceCents": 95,
           "currentPriceEurCents": 95,
           "referencePriceCents": 95,
@@ -892,7 +878,7 @@
       "productId": 7985,
       "brand": "TOM TAILOR",
       "isCountryExtreme": true,
-      "overallPercentDiff": 203.12,
+      "overallPercentDiff": 202.81,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -947,9 +933,9 @@
           "observedAt": "2026-09-01T12:30:22.854Z",
           "lastSeenAt": "2026-09-24T13:32:21.725Z",
           "currentPriceCents": 1099900,
-          "currentPriceEurCents": 3016,
+          "currentPriceEurCents": 3013,
           "referencePriceCents": 1099900,
-          "referencePriceEurCents": 3016
+          "referencePriceEurCents": 3013
         },
         {
           "countryCode": "SI",
@@ -1217,7 +1203,7 @@
       "productId": 3304,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 190.59,
+      "overallPercentDiff": 189.41,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1272,9 +1258,9 @@
           "observedAt": "2026-09-01T12:30:55.609Z",
           "lastSeenAt": "2026-10-20T13:32:51.463Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 247,
+          "currentPriceEurCents": 246,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 247
+          "referencePriceEurCents": 246
         }
       ]
     },
@@ -1282,7 +1268,7 @@
       "productId": 5271,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 190.59,
+      "overallPercentDiff": 189.41,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1351,9 +1337,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-10-11T14:54:15.303Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 247,
+          "currentPriceEurCents": 246,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 247
+          "referencePriceEurCents": 246
         }
       ]
     },
@@ -1361,7 +1347,7 @@
       "productId": 7733,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 190.59,
+      "overallPercentDiff": 189.41,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1430,9 +1416,9 @@
           "observedAt": "2026-09-01T12:31:07.865Z",
           "lastSeenAt": "2026-10-01T15:26:09.549Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 247,
+          "currentPriceEurCents": 246,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 247
+          "referencePriceEurCents": 246
         }
       ]
     },
@@ -1440,7 +1426,7 @@
       "productId": 27818,
       "brand": "Finish",
       "isCountryExtreme": true,
-      "overallPercentDiff": 189.09,
+      "overallPercentDiff": 188.73,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1481,9 +1467,9 @@
           "observedAt": "2026-09-01T12:32:40.208Z",
           "lastSeenAt": "2026-10-03T13:21:36.090Z",
           "currentPriceCents": 289900,
-          "currentPriceEurCents": 795,
+          "currentPriceEurCents": 794,
           "referencePriceCents": 289900,
-          "referencePriceEurCents": 795
+          "referencePriceEurCents": 794
         }
       ]
     },
@@ -1669,43 +1655,6 @@
       ]
     },
     {
-      "productId": 42826,
-      "brand": "Jaguar",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 182.38,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Era Eau de Toilette, 100 ml",
-          "url": "https://www.dm.de/p/d/1709586/jaguar-era-eau-de-toilette",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:03.605Z",
-          "lastSeenAt": "2026-09-21T15:05:36.736Z",
-          "currentPriceCents": 1845,
-          "currentPriceEurCents": 1845,
-          "referencePriceCents": 1845,
-          "referencePriceEurCents": 1845
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Férfi EdT Era, 100 ml",
-          "url": "https://www.dm.hu/p/d/1709586/jaguar-ferfi-edt-era",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:19.979Z",
-          "lastSeenAt": "2026-09-21T15:05:41.766Z",
-          "currentPriceCents": 1899900,
-          "currentPriceEurCents": 5210,
-          "referencePriceCents": 1899900,
-          "referencePriceEurCents": 5210
-        }
-      ]
-    },
-    {
       "productId": 27695,
       "brand": "Tabac Original",
       "isCountryExtreme": true,
@@ -1776,6 +1725,71 @@
           "currentPriceEurCents": 495,
           "referencePriceCents": 495,
           "referencePriceEurCents": 495
+        }
+      ]
+    },
+    {
+      "productId": 5519,
+      "brand": "Denkmit",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 181.71,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "WC-osvežilec Ocean, 4 kos",
+          "url": "https://www.dm.si/p/d/3138119/denkmit-wc-osvezilec-ocean",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:45.469Z",
+          "lastSeenAt": "2026-10-03T13:21:20.411Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 195,
+          "referencePriceEurCents": 195
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "WC-Reiniger Blauspüler Ocean, 4 St",
+          "url": "https://www.dm.at/p/d/3138119/denkmit-wc-reiniger-blauspueler-ocean",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:49.158Z",
+          "lastSeenAt": "2026-10-03T13:21:25.746Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 195,
+          "referencePriceEurCents": 195
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "WC-Blauspüler Ocean, 4 St",
+          "url": "https://www.dm.de/p/d/3138119/denkmit-wc-blauspueler-ocean",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:29.418Z",
+          "lastSeenAt": "2026-10-03T13:21:31.579Z",
+          "currentPriceCents": 175,
+          "currentPriceEurCents": 175,
+          "referencePriceCents": 175,
+          "referencePriceEurCents": 175
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "WC-illatosító rúd, Óceán, 4 db",
+          "url": "https://www.dm.hu/p/d/3138119/denkmit-wc-illatosito-rud-ocean",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:01.877Z",
+          "lastSeenAt": "2026-10-03T13:21:34.631Z",
+          "currentPriceCents": 179900,
+          "currentPriceEurCents": 493,
+          "referencePriceCents": 179900,
+          "referencePriceEurCents": 493
         }
       ]
     }

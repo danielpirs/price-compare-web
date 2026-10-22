@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-21T09:54:14.049Z",
+  "generatedAt": "2026-10-22T09:54:15.349Z",
   "fx": {
-    "asOf": "2026-10-20",
+    "asOf": "2026-10-21",
     "rates": {
-      "USD": 1.1215,
-      "JPY": 177.34,
-      "CZK": 24.329,
+      "USD": 1.1234,
+      "JPY": 177.36,
+      "CZK": 24.262,
       "DKK": 7.4746,
-      "GBP": 0.84028,
-      "HUF": 364.68,
-      "PLN": 4.3768,
-      "RON": 5.3308,
-      "SEK": 11.123,
-      "CHF": 0.9237,
+      "GBP": 0.83825,
+      "HUF": 365,
+      "PLN": 4.3635,
+      "RON": 5.3365,
+      "SEK": 11.0975,
+      "CHF": 0.9256,
       "ISK": 136.2,
-      "NOK": 10.5245,
-      "TRY": 55.6009,
-      "AUD": 1.6056,
-      "BRL": 5.6339,
-      "CAD": 1.5758,
-      "CNY": 7.4894,
-      "HKD": 8.8023,
-      "IDR": 20170.57,
-      "ILS": 3.4853,
-      "INR": 106.459,
-      "KRW": 1489.17,
-      "MXN": 20.7719,
-      "MYR": 4.5788,
-      "NZD": 1.9748,
-      "PHP": 70.804,
-      "SGD": 1.4338,
-      "THB": 37.738,
-      "ZAR": 18.4769
+      "NOK": 10.512,
+      "TRY": 55.7233,
+      "AUD": 1.5971,
+      "BRL": 5.6432,
+      "CAD": 1.5779,
+      "CNY": 7.4999,
+      "HKD": 8.8155,
+      "IDR": 20269.17,
+      "ILS": 3.4726,
+      "INR": 106.1265,
+      "KRW": 1489.15,
+      "MXN": 20.7632,
+      "MYR": 4.5843,
+      "NZD": 1.9735,
+      "PHP": 71.121,
+      "SGD": 1.4348,
+      "THB": 37.718,
+      "ZAR": 18.393
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -142,7 +142,7 @@
           "url": "https://www.dm.de/p/d/1569494/cosrx-toner-aha-bha-clarifying-treatment",
           "isPromo": false,
           "observedAt": "2026-08-31T20:44:23.453Z",
-          "lastSeenAt": "2026-09-21T15:05:36.736Z",
+          "lastSeenAt": "2026-10-21T13:44:43.221Z",
           "currentPriceCents": 1585,
           "currentPriceEurCents": 1585,
           "referencePriceCents": 1585,
@@ -242,7 +242,7 @@
       "productId": 3575,
       "brand": "Visiomax",
       "isCountryExtreme": true,
-      "overallPercentDiff": 123.96,
+      "overallPercentDiff": 124.74,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -297,9 +297,9 @@
           "observedAt": "2026-09-01T12:30:07.326Z",
           "lastSeenAt": "2026-10-19T15:34:35.501Z",
           "currentPriceCents": 104900,
-          "currentPriceEurCents": 288,
+          "currentPriceEurCents": 287,
           "referencePriceCents": 104900,
-          "referencePriceEurCents": 288
+          "referencePriceEurCents": 287
         }
       ]
     },
@@ -334,7 +334,7 @@
           "observedAt": "2026-10-03T19:06:13.313Z",
           "lastSeenAt": "2026-10-03T19:06:13.313Z",
           "currentPriceCents": 54900,
-          "currentPriceEurCents": 151,
+          "currentPriceEurCents": 150,
           "referencePriceCents": 114900,
           "referencePriceEurCents": 315
         }
@@ -573,7 +573,7 @@
           "url": "https://www.dm.de/p/d/3093609/profissimo-parfuem-oel-zimt",
           "isPromo": false,
           "observedAt": "2026-08-31T20:40:19.020Z",
-          "lastSeenAt": "2026-09-21T15:05:34.483Z",
+          "lastSeenAt": "2026-10-21T13:44:46.413Z",
           "currentPriceCents": 195,
           "currentPriceEurCents": 195,
           "referencePriceCents": 195,
@@ -791,7 +791,7 @@
           "url": "https://www.dm.at/p/d/3066010/nivea-peeling-liquid-refiner-luminous-skin-glow",
           "isPromo": false,
           "observedAt": "2026-08-30T22:37:56.104Z",
-          "lastSeenAt": "2026-09-21T15:05:31.338Z",
+          "lastSeenAt": "2026-10-21T13:44:39.182Z",
           "currentPriceCents": 495,
           "currentPriceEurCents": 495,
           "referencePriceCents": 495,
@@ -1328,7 +1328,7 @@
           "currentPriceCents": 69900,
           "currentPriceEurCents": 192,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 247
+          "referencePriceEurCents": 246
         },
         {
           "countryCode": "AT",
@@ -1393,7 +1393,7 @@
           "currentPriceCents": 69900,
           "currentPriceEurCents": 192,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 247
+          "referencePriceEurCents": 246
         }
       ]
     },

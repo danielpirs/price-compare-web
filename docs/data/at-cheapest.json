@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-21T09:54:14.049Z",
+  "generatedAt": "2026-10-22T09:54:15.349Z",
   "fx": {
-    "asOf": "2026-10-20",
+    "asOf": "2026-10-21",
     "rates": {
-      "USD": 1.1215,
-      "JPY": 177.34,
-      "CZK": 24.329,
+      "USD": 1.1234,
+      "JPY": 177.36,
+      "CZK": 24.262,
       "DKK": 7.4746,
-      "GBP": 0.84028,
-      "HUF": 364.68,
-      "PLN": 4.3768,
-      "RON": 5.3308,
-      "SEK": 11.123,
-      "CHF": 0.9237,
+      "GBP": 0.83825,
+      "HUF": 365,
+      "PLN": 4.3635,
+      "RON": 5.3365,
+      "SEK": 11.0975,
+      "CHF": 0.9256,
       "ISK": 136.2,
-      "NOK": 10.5245,
-      "TRY": 55.6009,
-      "AUD": 1.6056,
-      "BRL": 5.6339,
-      "CAD": 1.5758,
-      "CNY": 7.4894,
-      "HKD": 8.8023,
-      "IDR": 20170.57,
-      "ILS": 3.4853,
-      "INR": 106.459,
-      "KRW": 1489.17,
-      "MXN": 20.7719,
-      "MYR": 4.5788,
-      "NZD": 1.9748,
-      "PHP": 70.804,
-      "SGD": 1.4338,
-      "THB": 37.738,
-      "ZAR": 18.4769
+      "NOK": 10.512,
+      "TRY": 55.7233,
+      "AUD": 1.5971,
+      "BRL": 5.6432,
+      "CAD": 1.5779,
+      "CNY": 7.4999,
+      "HKD": 8.8155,
+      "IDR": 20269.17,
+      "ILS": 3.4726,
+      "INR": 106.1265,
+      "KRW": 1489.15,
+      "MXN": 20.7632,
+      "MYR": 4.5843,
+      "NZD": 1.9735,
+      "PHP": 71.121,
+      "SGD": 1.4348,
+      "THB": 37.718,
+      "ZAR": 18.393
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -40,47 +40,10 @@
   "kind": "cheapest",
   "items": [
     {
-      "productId": 35767,
-      "brand": "POLICE",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 211.77,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Eau de Parfum Rich Guy, 40 ml",
-          "url": "https://www.dm.at/p/d/3077427/police-eau-de-parfum-rich-guy",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:37:37.997Z",
-          "lastSeenAt": "2026-09-21T15:05:31.338Z",
-          "currentPriceCents": 1495,
-          "currentPriceEurCents": 1495,
-          "referencePriceCents": 1495,
-          "referencePriceEurCents": 1495
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Férfi EdT Rich Guy, 50 ml",
-          "url": "https://www.dm.hu/p/d/3077427/police-ferfi-edt-rich-guy",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:22.854Z",
-          "lastSeenAt": "2026-09-21T15:05:41.766Z",
-          "currentPriceCents": 1699900,
-          "currentPriceEurCents": 4661,
-          "referencePriceCents": 1699900,
-          "referencePriceEurCents": 4661
-        }
-      ]
-    },
-    {
       "productId": 35884,
       "brand": "POLICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 211.77,
+      "overallPercentDiff": 211.51,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -107,9 +70,9 @@
           "observedAt": "2026-09-01T12:30:07.326Z",
           "lastSeenAt": "2026-09-23T13:37:24.417Z",
           "currentPriceCents": 1699900,
-          "currentPriceEurCents": 4661,
+          "currentPriceEurCents": 4657,
           "referencePriceCents": 1699900,
-          "referencePriceEurCents": 4661
+          "referencePriceEurCents": 4657
         }
       ]
     },
@@ -117,7 +80,7 @@
       "productId": 27011,
       "brand": "Frosch",
       "isCountryExtreme": true,
-      "overallPercentDiff": 197.29,
+      "overallPercentDiff": 196.95,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -158,9 +121,9 @@
           "observedAt": "2026-09-01T12:31:43.995Z",
           "lastSeenAt": "2026-10-05T17:07:29.410Z",
           "currentPriceCents": 319900,
-          "currentPriceEurCents": 877,
+          "currentPriceEurCents": 876,
           "referencePriceCents": 319900,
-          "referencePriceEurCents": 877
+          "referencePriceEurCents": 876
         }
       ]
     },
@@ -168,7 +131,7 @@
       "productId": 31206,
       "brand": "Jaguar",
       "isCountryExtreme": true,
-      "overallPercentDiff": 190.25,
+      "overallPercentDiff": 189.97,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -209,9 +172,9 @@
           "observedAt": "2026-09-01T12:30:19.979Z",
           "lastSeenAt": "2026-09-26T13:03:13.135Z",
           "currentPriceCents": 1899900,
-          "currentPriceEurCents": 5210,
+          "currentPriceEurCents": 5205,
           "referencePriceCents": 1899900,
-          "referencePriceEurCents": 5210
+          "referencePriceEurCents": 5205
         }
       ]
     },
@@ -409,7 +372,7 @@
       "productId": 9739,
       "brand": "VERSACE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 147.42,
+      "overallPercentDiff": 147.17,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -464,9 +427,9 @@
           "observedAt": "2026-09-01T12:30:22.854Z",
           "lastSeenAt": "2026-09-26T13:03:13.135Z",
           "currentPriceCents": 1799900,
-          "currentPriceEurCents": 4936,
+          "currentPriceEurCents": 4931,
           "referencePriceCents": 1799900,
-          "referencePriceEurCents": 4936
+          "referencePriceEurCents": 4931
         }
       ]
     },
@@ -474,7 +437,7 @@
       "productId": 433,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 132.31,
+      "overallPercentDiff": 130.77,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -485,7 +448,7 @@
           "url": "https://www.dm.hr/p/d/1457120/balea-nocna-krema-protiv-bora-q10-i-omega-kompleks",
           "isPromo": false,
           "observedAt": "2026-08-28T15:44:30.867Z",
-          "lastSeenAt": "2026-09-21T15:05:17.340Z",
+          "lastSeenAt": "2026-10-21T13:44:31.302Z",
           "currentPriceCents": 85,
           "currentPriceEurCents": 85,
           "referencePriceCents": 85,
@@ -499,7 +462,7 @@
           "url": "https://www.dm.si/p/d/1457120/balea-nocna-krema-proti-gubam-s-q10-potovalna-velikost",
           "isPromo": false,
           "observedAt": "2026-08-28T16:04:10.857Z",
-          "lastSeenAt": "2026-09-21T15:05:23.384Z",
+          "lastSeenAt": "2026-10-21T13:44:37.793Z",
           "currentPriceCents": 95,
           "currentPriceEurCents": 95,
           "referencePriceCents": 95,
@@ -513,7 +476,7 @@
           "url": "https://www.dm.at/p/d/1457120/balea-nachtcreme-q10-reisegroesse",
           "isPromo": false,
           "observedAt": "2026-08-30T21:47:47.920Z",
-          "lastSeenAt": "2026-09-21T15:05:28.118Z",
+          "lastSeenAt": "2026-10-21T13:44:40.738Z",
           "currentPriceCents": 65,
           "currentPriceEurCents": 65,
           "referencePriceCents": 65,
@@ -527,7 +490,7 @@
           "url": "https://www.dm.de/p/d/1457120/balea-nachtcreme-q10-reisegroesse",
           "isPromo": false,
           "observedAt": "2026-08-31T20:40:26.163Z",
-          "lastSeenAt": "2026-09-21T15:05:34.483Z",
+          "lastSeenAt": "2026-10-21T13:44:43.221Z",
           "currentPriceCents": 95,
           "currentPriceEurCents": 95,
           "referencePriceCents": 95,
@@ -541,11 +504,11 @@
           "url": "https://www.dm.hu/p/d/1457120/balea-ejszakai-ranctalanito-krem-q10-zel-mini-kiszereles",
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:01.877Z",
-          "lastSeenAt": "2026-09-21T15:05:41.766Z",
+          "lastSeenAt": "2026-10-21T13:44:52.705Z",
           "currentPriceCents": 54900,
-          "currentPriceEurCents": 151,
+          "currentPriceEurCents": 150,
           "referencePriceCents": 54900,
-          "referencePriceEurCents": 151
+          "referencePriceEurCents": 150
         }
       ]
     },
@@ -553,7 +516,7 @@
       "productId": 10276,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 129.23,
+      "overallPercentDiff": 129.03,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -594,9 +557,9 @@
           "observedAt": "2026-09-01T12:30:19.979Z",
           "lastSeenAt": "2026-09-29T10:39:25.487Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3427,
+          "currentPriceEurCents": 3424,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3427
+          "referencePriceEurCents": 3424
         }
       ]
     },
@@ -604,7 +567,7 @@
       "productId": 14417,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 129.23,
+      "overallPercentDiff": 129.03,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -659,9 +622,9 @@
           "observedAt": "2026-09-01T12:30:19.979Z",
           "lastSeenAt": "2026-09-28T16:44:28.440Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3427,
+          "currentPriceEurCents": 3424,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3427
+          "referencePriceEurCents": 3424
         }
       ]
     },
@@ -864,7 +827,7 @@
       "productId": 8539,
       "brand": "Pampers Splashers",
       "isCountryExtreme": true,
-      "overallPercentDiff": 121.8,
+      "overallPercentDiff": 121.57,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -919,9 +882,9 @@
           "observedAt": "2026-09-01T12:32:02.558Z",
           "lastSeenAt": "2026-09-27T13:56:03.197Z",
           "currentPriceCents": 359900,
-          "currentPriceEurCents": 987,
+          "currentPriceEurCents": 986,
           "referencePriceCents": 359900,
-          "referencePriceEurCents": 987
+          "referencePriceEurCents": 986
         }
       ]
     },
@@ -929,7 +892,7 @@
       "productId": 20531,
       "brand": "POLICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 120.07,
+      "overallPercentDiff": 119.87,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -970,46 +933,9 @@
           "observedAt": "2026-09-01T12:30:22.854Z",
           "lastSeenAt": "2026-09-26T13:03:13.135Z",
           "currentPriceCents": 1199900,
-          "currentPriceEurCents": 3290,
+          "currentPriceEurCents": 3287,
           "referencePriceCents": 1199900,
-          "referencePriceEurCents": 3290
-        }
-      ]
-    },
-    {
-      "productId": 38465,
-      "brand": "POLICE",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 120.07,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Eau de Toilette To Be or not to be, 40 ml",
-          "url": "https://www.dm.at/p/d/1864937/police-eau-de-toilette-to-be-or-not-to-be",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:38:02.169Z",
-          "lastSeenAt": "2026-09-21T15:05:33.295Z",
-          "currentPriceCents": 1495,
-          "currentPriceEurCents": 1495,
-          "referencePriceCents": 1495,
-          "referencePriceEurCents": 1495
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Férfi EdT To be, 40 ml",
-          "url": "https://www.dm.hu/p/d/1864937/police-ferfi-edt-to-be",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:22.854Z",
-          "lastSeenAt": "2026-09-21T15:05:41.766Z",
-          "currentPriceCents": 1199900,
-          "currentPriceEurCents": 3290,
-          "referencePriceCents": 1199900,
-          "referencePriceEurCents": 3290
+          "referencePriceEurCents": 3287
         }
       ]
     },
@@ -1017,7 +943,7 @@
       "productId": 33693,
       "brand": "TOM TAILOR",
       "isCountryExtreme": true,
-      "overallPercentDiff": 117.04,
+      "overallPercentDiff": 116.83,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1044,9 +970,9 @@
           "observedAt": "2026-09-01T12:30:22.854Z",
           "lastSeenAt": "2026-09-22T13:25:13.904Z",
           "currentPriceCents": 1499900,
-          "currentPriceEurCents": 4113,
+          "currentPriceEurCents": 4109,
           "referencePriceCents": 1499900,
-          "referencePriceEurCents": 4113
+          "referencePriceEurCents": 4109
         }
       ]
     },
@@ -1054,7 +980,7 @@
       "productId": 11362,
       "brand": "MAX FACTOR",
       "isCountryExtreme": true,
-      "overallPercentDiff": 115.19,
+      "overallPercentDiff": 114.94,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1109,9 +1035,9 @@
           "observedAt": "2026-09-01T12:31:26.625Z",
           "lastSeenAt": "2026-09-23T13:37:26.502Z",
           "currentPriceCents": 309900,
-          "currentPriceEurCents": 850,
+          "currentPriceEurCents": 849,
           "referencePriceCents": 309900,
-          "referencePriceEurCents": 850
+          "referencePriceEurCents": 849
         }
       ]
     },
@@ -1360,7 +1286,7 @@
       "productId": 10767,
       "brand": "JIL SANDER",
       "isCountryExtreme": true,
-      "overallPercentDiff": 105.87,
+      "overallPercentDiff": 105.67,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1429,9 +1355,9 @@
           "observedAt": "2026-09-01T12:32:13.914Z",
           "lastSeenAt": "2026-10-08T15:34:03.270Z",
           "currentPriceCents": 1099900,
-          "currentPriceEurCents": 3016,
+          "currentPriceEurCents": 3013,
           "referencePriceCents": 1099900,
-          "referencePriceEurCents": 3016
+          "referencePriceEurCents": 3013
         }
       ]
     },
@@ -1561,10 +1487,61 @@
       ]
     },
     {
+      "productId": 21938,
+      "brand": "Denkmit",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 102.11,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "WC-Reinigungsgel Magnolie, 750 ml",
+          "url": "https://www.dm.at/p/d/3084145/denkmit-wc-reinigungsgel-magnolie",
+          "isPromo": true,
+          "observedAt": "2026-09-06T12:08:06.156Z",
+          "lastSeenAt": "2026-10-06T11:14:37.262Z",
+          "currentPriceCents": 80,
+          "currentPriceEurCents": 80,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "WC-Reiniger Magnolie, 750 ml",
+          "url": "https://www.dm.de/p/d/3084145/denkmit-wc-reiniger-magnolie",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:48.726Z",
+          "lastSeenAt": "2026-10-06T11:14:44.015Z",
+          "currentPriceCents": 95,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "WC-tisztító gél magnólia illattal, 750 ml",
+          "url": "https://www.dm.hu/p/d/3084145/denkmit-wc-tisztito-gel-magnolia-illattal",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:07.865Z",
+          "lastSeenAt": "2026-10-06T11:14:46.769Z",
+          "currentPriceCents": 69900,
+          "currentPriceEurCents": 192,
+          "referencePriceCents": 69900,
+          "referencePriceEurCents": 192
+        }
+      ]
+    },
+    {
       "productId": 11323,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 102.18,
+      "overallPercentDiff": 102.01,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1605,9 +1582,74 @@
           "observedAt": "2026-09-01T12:30:19.979Z",
           "lastSeenAt": "2026-09-29T10:39:25.487Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3427,
+          "currentPriceEurCents": 3424,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3427
+          "referencePriceEurCents": 3424
+        }
+      ]
+    },
+    {
+      "productId": 16954,
+      "brand": "sundance",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 101.69,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "SENSITIV krema za zaščito pred soncem, vetrom in..., 50 ml",
+          "url": "https://www.dm.si/p/d/3106472/sundance-sensitiv-krema-za-zascito-pred-soncem-vetrom-in-mrazom-z-izvleckom-bio-rjastega-sleca-zf-50-visoka-zascita",
+          "isPromo": true,
+          "observedAt": "2026-09-06T12:07:57.907Z",
+          "lastSeenAt": "2026-10-06T11:14:28.524Z",
+          "currentPriceCents": 335,
+          "currentPriceEurCents": 335,
+          "referencePriceCents": 475,
+          "referencePriceEurCents": 475
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Sonnencreme Alpin sensitiv mit Kälteschutz, LSF 50, 50 ml",
+          "url": "https://www.dm.at/p/d/3106472/sundance-sonnencreme-alpin-sensitiv-mit-kaelteschutz-lsf-50",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:08.243Z",
+          "lastSeenAt": "2026-10-06T11:14:35.699Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Sonnencreme Alpin sensitiv mit Kälteschutz, LSF 50, 50 ml",
+          "url": "https://www.dm.de/p/d/3106472/sundance-sonnencreme-alpin-sensitiv-mit-kaelteschutz-lsf-50",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:48.945Z",
+          "lastSeenAt": "2026-10-06T11:14:39.408Z",
+          "currentPriceCents": 595,
+          "currentPriceEurCents": 595,
+          "referencePriceCents": 595,
+          "referencePriceEurCents": 595
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Szenzitív alpesi napozókrém, FF50 magas..., 50 ml",
+          "url": "https://www.dm.hu/p/d/3106472/sundance-szenzitiv-alpesi-napozokrem-ff50-magas-fenyvedelem",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:32.921Z",
+          "lastSeenAt": "2026-10-06T11:14:44.822Z",
+          "currentPriceCents": 109900,
+          "currentPriceEurCents": 301,
+          "referencePriceCents": 109900,
+          "referencePriceEurCents": 301
         }
       ]
     }
