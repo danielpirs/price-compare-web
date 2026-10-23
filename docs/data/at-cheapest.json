@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-22T09:54:15.349Z",
+  "generatedAt": "2026-10-23T09:48:24.467Z",
   "fx": {
-    "asOf": "2026-10-21",
+    "asOf": "2026-10-22",
     "rates": {
-      "USD": 1.1234,
-      "JPY": 177.36,
-      "CZK": 24.262,
-      "DKK": 7.4746,
-      "GBP": 0.83825,
-      "HUF": 365,
-      "PLN": 4.3635,
-      "RON": 5.3365,
-      "SEK": 11.0975,
-      "CHF": 0.9256,
+      "USD": 1.1205,
+      "JPY": 175.97,
+      "CZK": 24.26,
+      "DKK": 7.4747,
+      "GBP": 0.8377,
+      "HUF": 366.43,
+      "PLN": 4.3695,
+      "RON": 5.345,
+      "SEK": 11.112,
+      "CHF": 0.9211,
       "ISK": 136.2,
-      "NOK": 10.512,
-      "TRY": 55.7233,
-      "AUD": 1.5971,
-      "BRL": 5.6432,
-      "CAD": 1.5779,
-      "CNY": 7.4999,
-      "HKD": 8.8155,
-      "IDR": 20269.17,
-      "ILS": 3.4726,
-      "INR": 106.1265,
-      "KRW": 1489.15,
-      "MXN": 20.7632,
-      "MYR": 4.5843,
-      "NZD": 1.9735,
-      "PHP": 71.121,
-      "SGD": 1.4348,
-      "THB": 37.718,
-      "ZAR": 18.393
+      "NOK": 10.488,
+      "TRY": 55.6079,
+      "AUD": 1.598,
+      "BRL": 5.6574,
+      "CAD": 1.5725,
+      "CNY": 7.4786,
+      "HKD": 8.7845,
+      "IDR": 20253.88,
+      "ILS": 3.4824,
+      "INR": 106.249,
+      "KRW": 1484.25,
+      "MXN": 21.0215,
+      "MYR": 4.5756,
+      "NZD": 1.9724,
+      "PHP": 71.162,
+      "SGD": 1.4315,
+      "THB": 37.811,
+      "ZAR": 18.5058
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -43,7 +43,7 @@
       "productId": 35884,
       "brand": "POLICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 211.51,
+      "overallPercentDiff": 210.3,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -70,9 +70,9 @@
           "observedAt": "2026-09-01T12:30:07.326Z",
           "lastSeenAt": "2026-09-23T13:37:24.417Z",
           "currentPriceCents": 1699900,
-          "currentPriceEurCents": 4657,
+          "currentPriceEurCents": 4639,
           "referencePriceCents": 1699900,
-          "referencePriceEurCents": 4657
+          "referencePriceEurCents": 4639
         }
       ]
     },
@@ -80,7 +80,7 @@
       "productId": 27011,
       "brand": "Frosch",
       "isCountryExtreme": true,
-      "overallPercentDiff": 196.95,
+      "overallPercentDiff": 195.93,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -121,9 +121,9 @@
           "observedAt": "2026-09-01T12:31:43.995Z",
           "lastSeenAt": "2026-10-05T17:07:29.410Z",
           "currentPriceCents": 319900,
-          "currentPriceEurCents": 876,
+          "currentPriceEurCents": 873,
           "referencePriceCents": 319900,
-          "referencePriceEurCents": 876
+          "referencePriceEurCents": 873
         }
       ]
     },
@@ -131,7 +131,7 @@
       "productId": 31206,
       "brand": "Jaguar",
       "isCountryExtreme": true,
-      "overallPercentDiff": 189.97,
+      "overallPercentDiff": 188.86,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -172,9 +172,9 @@
           "observedAt": "2026-09-01T12:30:19.979Z",
           "lastSeenAt": "2026-09-26T13:03:13.135Z",
           "currentPriceCents": 1899900,
-          "currentPriceEurCents": 5205,
+          "currentPriceEurCents": 5185,
           "referencePriceCents": 1899900,
-          "referencePriceEurCents": 5205
+          "referencePriceEurCents": 5185
         }
       ]
     },
@@ -182,7 +182,7 @@
       "productId": 15608,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 188.42,
+      "overallPercentDiff": 187.37,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -223,9 +223,9 @@
           "observedAt": "2026-09-24T13:32:19.547Z",
           "lastSeenAt": "2026-09-24T13:32:19.547Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 274,
+          "currentPriceEurCents": 273,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 274
+          "referencePriceEurCents": 273
         }
       ]
     },
@@ -307,7 +307,7 @@
       "productId": 3432,
       "brand": "NIVEA",
       "isCountryExtreme": true,
-      "overallPercentDiff": 150.29,
+      "overallPercentDiff": 149.14,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -362,9 +362,9 @@
           "observedAt": "2026-09-01T12:32:49.604Z",
           "lastSeenAt": "2026-10-14T13:41:24.201Z",
           "currentPriceCents": 159900,
-          "currentPriceEurCents": 438,
+          "currentPriceEurCents": 436,
           "referencePriceCents": 159900,
-          "referencePriceEurCents": 438
+          "referencePriceEurCents": 436
         }
       ]
     },
@@ -372,7 +372,7 @@
       "productId": 9739,
       "brand": "VERSACE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 147.17,
+      "overallPercentDiff": 146.22,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -427,9 +427,9 @@
           "observedAt": "2026-09-01T12:30:22.854Z",
           "lastSeenAt": "2026-09-26T13:03:13.135Z",
           "currentPriceCents": 1799900,
-          "currentPriceEurCents": 4931,
+          "currentPriceEurCents": 4912,
           "referencePriceCents": 1799900,
-          "referencePriceEurCents": 4931
+          "referencePriceEurCents": 4912
         }
       ]
     },
@@ -516,7 +516,7 @@
       "productId": 10276,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 129.03,
+      "overallPercentDiff": 128.16,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -557,9 +557,9 @@
           "observedAt": "2026-09-01T12:30:19.979Z",
           "lastSeenAt": "2026-09-29T10:39:25.487Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3424,
+          "currentPriceEurCents": 3411,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3424
+          "referencePriceEurCents": 3411
         }
       ]
     },
@@ -567,7 +567,7 @@
       "productId": 14417,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 129.03,
+      "overallPercentDiff": 128.16,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -622,9 +622,9 @@
           "observedAt": "2026-09-01T12:30:19.979Z",
           "lastSeenAt": "2026-09-28T16:44:28.440Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3424,
+          "currentPriceEurCents": 3411,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3424
+          "referencePriceEurCents": 3411
         }
       ]
     },
@@ -632,7 +632,7 @@
       "productId": 3055,
       "brand": "Jessa",
       "isCountryExtreme": true,
-      "overallPercentDiff": 125.88,
+      "overallPercentDiff": 124.71,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -701,9 +701,9 @@
           "observedAt": "2026-09-01T12:32:09.419Z",
           "lastSeenAt": "2026-10-04T14:04:22.911Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 192,
+          "currentPriceEurCents": 191,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 192
+          "referencePriceEurCents": 191
         }
       ]
     },
@@ -711,7 +711,7 @@
       "productId": 31378,
       "brand": "Frosch",
       "isCountryExtreme": true,
-      "overallPercentDiff": 123.67,
+      "overallPercentDiff": 122.86,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -752,9 +752,9 @@
           "observedAt": "2026-09-01T12:31:22.301Z",
           "lastSeenAt": "2026-10-18T12:36:08.084Z",
           "currentPriceCents": 199900,
-          "currentPriceEurCents": 548,
+          "currentPriceEurCents": 546,
           "referencePriceCents": 199900,
-          "referencePriceEurCents": 548
+          "referencePriceEurCents": 546
         }
       ]
     },
@@ -762,7 +762,7 @@
       "productId": 16252,
       "brand": "Jessa",
       "isCountryExtreme": true,
-      "overallPercentDiff": 122.35,
+      "overallPercentDiff": 121.18,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -817,9 +817,9 @@
           "observedAt": "2026-09-01T12:31:10.517Z",
           "lastSeenAt": "2026-09-26T13:03:13.135Z",
           "currentPriceCents": 68900,
-          "currentPriceEurCents": 189,
+          "currentPriceEurCents": 188,
           "referencePriceCents": 68900,
-          "referencePriceEurCents": 189
+          "referencePriceEurCents": 188
         }
       ]
     },
@@ -827,7 +827,7 @@
       "productId": 8539,
       "brand": "Pampers Splashers",
       "isCountryExtreme": true,
-      "overallPercentDiff": 121.57,
+      "overallPercentDiff": 120.67,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -882,9 +882,9 @@
           "observedAt": "2026-09-01T12:32:02.558Z",
           "lastSeenAt": "2026-09-27T13:56:03.197Z",
           "currentPriceCents": 359900,
-          "currentPriceEurCents": 986,
+          "currentPriceEurCents": 982,
           "referencePriceCents": 359900,
-          "referencePriceEurCents": 986
+          "referencePriceEurCents": 982
         }
       ]
     },
@@ -892,7 +892,7 @@
       "productId": 20531,
       "brand": "POLICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 119.87,
+      "overallPercentDiff": 119.06,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -933,46 +933,9 @@
           "observedAt": "2026-09-01T12:30:22.854Z",
           "lastSeenAt": "2026-09-26T13:03:13.135Z",
           "currentPriceCents": 1199900,
-          "currentPriceEurCents": 3287,
+          "currentPriceEurCents": 3275,
           "referencePriceCents": 1199900,
-          "referencePriceEurCents": 3287
-        }
-      ]
-    },
-    {
-      "productId": 33693,
-      "brand": "TOM TAILOR",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 116.83,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Eau de Toilette Perspective, 50 ml",
-          "url": "https://www.dm.at/p/d/1870645/tom-tailor-eau-de-toilette-perspective",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:02:24.108Z",
-          "lastSeenAt": "2026-10-03T19:02:24.108Z",
-          "currentPriceCents": 945,
-          "currentPriceEurCents": 945,
-          "referencePriceCents": 1895,
-          "referencePriceEurCents": 1895
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Férfi EdT Perspective, 50 ml",
-          "url": "https://www.dm.hu/p/d/1870645/tom-tailor-ferfi-edt-perspective",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:22.854Z",
-          "lastSeenAt": "2026-09-22T13:25:13.904Z",
-          "currentPriceCents": 1499900,
-          "currentPriceEurCents": 4109,
-          "referencePriceCents": 1499900,
-          "referencePriceEurCents": 4109
+          "referencePriceEurCents": 3275
         }
       ]
     },
@@ -980,7 +943,7 @@
       "productId": 11362,
       "brand": "MAX FACTOR",
       "isCountryExtreme": true,
-      "overallPercentDiff": 114.94,
+      "overallPercentDiff": 114.18,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1035,9 +998,9 @@
           "observedAt": "2026-09-01T12:31:26.625Z",
           "lastSeenAt": "2026-09-23T13:37:26.502Z",
           "currentPriceCents": 309900,
-          "currentPriceEurCents": 849,
+          "currentPriceEurCents": 846,
           "referencePriceCents": 309900,
-          "referencePriceEurCents": 849
+          "referencePriceEurCents": 846
         }
       ]
     },
@@ -1096,7 +1059,7 @@
       "productId": 6095,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 110.77,
+      "overallPercentDiff": 109.74,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1123,9 +1086,9 @@
           "observedAt": "2026-09-09T12:58:04.990Z",
           "lastSeenAt": "2026-10-09T15:16:29.929Z",
           "currentPriceCents": 149900,
-          "currentPriceEurCents": 411,
+          "currentPriceEurCents": 409,
           "referencePriceCents": 149900,
-          "referencePriceEurCents": 411
+          "referencePriceEurCents": 409
         }
       ]
     },
@@ -1163,57 +1126,6 @@
           "currentPriceEurCents": 2390,
           "referencePriceCents": 2390,
           "referencePriceEurCents": 2390
-        }
-      ]
-    },
-    {
-      "productId": 29014,
-      "brand": "Frosch",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 108.1,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Raumduft Stäbchen Nachfüllpack Zitronengrasfrische, 90 ml",
-          "url": "https://www.dm.at/p/d/1335285/frosch-raumduft-staebchen-nachfuellpack-zitronengrasfrische",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:24.251Z",
-          "lastSeenAt": "2026-09-22T13:24:27.009Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Duftstäbchen Raumerfrischer Nachfüllpack..., 90 ml",
-          "url": "https://www.dm.de/p/d/1335285/frosch-duftstaebchen-raumerfrischer-nachfuellpack-zitronengras",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:25.415Z",
-          "lastSeenAt": "2026-09-22T13:25:10.504Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Oase pálcás illatosító utántöltő Citromfű illattal, 90 ml",
-          "url": "https://www.dm.hu/p/d/1335285/frosch-oase-palcas-illatosito-utantolto-citromfu-illattal",
-          "isPromo": false,
-          "observedAt": "2026-09-22T13:25:13.904Z",
-          "lastSeenAt": "2026-09-22T13:25:13.904Z",
-          "currentPriceCents": 299900,
-          "currentPriceEurCents": 822,
-          "referencePriceCents": 299900,
-          "referencePriceEurCents": 822
         }
       ]
     },
@@ -1283,10 +1195,98 @@
       ]
     },
     {
+      "productId": 29014,
+      "brand": "Frosch",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 107.09,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Raumduft Stäbchen Nachfüllpack Zitronengrasfrische, 90 ml",
+          "url": "https://www.dm.at/p/d/1335285/frosch-raumduft-staebchen-nachfuellpack-zitronengrasfrische",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:24.251Z",
+          "lastSeenAt": "2026-10-22T13:45:54.974Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Duftstäbchen Raumerfrischer Nachfüllpack..., 90 ml",
+          "url": "https://www.dm.de/p/d/1335285/frosch-duftstaebchen-raumerfrischer-nachfuellpack-zitronengras",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:25.415Z",
+          "lastSeenAt": "2026-10-22T13:45:59.982Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Oase pálcás illatosító utántöltő Citromfű illattal, 90 ml",
+          "url": "https://www.dm.hu/p/d/1335285/frosch-oase-palcas-illatosito-utantolto-citromfu-illattal",
+          "isPromo": false,
+          "observedAt": "2026-09-22T13:25:13.904Z",
+          "lastSeenAt": "2026-10-22T13:46:10.714Z",
+          "currentPriceCents": 299900,
+          "currentPriceEurCents": 818,
+          "referencePriceCents": 299900,
+          "referencePriceEurCents": 818
+        }
+      ]
+    },
+    {
+      "productId": 20141,
+      "brand": "Profissimo",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 105.26,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Metlica za čiščenje wc školjke, več različic, 1 kos",
+          "url": "https://www.dm.si/p/d/1229296/profissimo-metlica-za-ciscenje-wc-skoljke-vec-razlicic",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:14.941Z",
+          "lastSeenAt": "2026-10-03T19:13:14.941Z",
+          "currentPriceCents": 135,
+          "currentPriceEurCents": 135,
+          "referencePriceCents": 195,
+          "referencePriceEurCents": 195
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Toilettenbürste sortiert, 1 St",
+          "url": "https://www.dm.at/p/d/1229296/profissimo-toilettenbuerste-sortiert",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:02:13.123Z",
+          "lastSeenAt": "2026-10-03T19:02:13.123Z",
+          "currentPriceCents": 65,
+          "currentPriceEurCents": 65,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
+        }
+      ]
+    },
+    {
       "productId": 10767,
       "brand": "JIL SANDER",
       "isCountryExtreme": true,
-      "overallPercentDiff": 105.67,
+      "overallPercentDiff": 104.91,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1355,46 +1355,9 @@
           "observedAt": "2026-09-01T12:32:13.914Z",
           "lastSeenAt": "2026-10-08T15:34:03.270Z",
           "currentPriceCents": 1099900,
-          "currentPriceEurCents": 3013,
+          "currentPriceEurCents": 3002,
           "referencePriceCents": 1099900,
-          "referencePriceEurCents": 3013
-        }
-      ]
-    },
-    {
-      "productId": 20141,
-      "brand": "Profissimo",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 105.26,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Metlica za čiščenje wc školjke, več različic, 1 kos",
-          "url": "https://www.dm.si/p/d/1229296/profissimo-metlica-za-ciscenje-wc-skoljke-vec-razlicic",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:14.941Z",
-          "lastSeenAt": "2026-10-03T19:13:14.941Z",
-          "currentPriceCents": 135,
-          "currentPriceEurCents": 135,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Toilettenbürste sortiert, 1 St",
-          "url": "https://www.dm.at/p/d/1229296/profissimo-toilettenbuerste-sortiert",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:02:13.123Z",
-          "lastSeenAt": "2026-10-03T19:02:13.123Z",
-          "currentPriceCents": 65,
-          "currentPriceEurCents": 65,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
+          "referencePriceEurCents": 3002
         }
       ]
     },
@@ -1487,108 +1450,6 @@
       ]
     },
     {
-      "productId": 21938,
-      "brand": "Denkmit",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 102.11,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "WC-Reinigungsgel Magnolie, 750 ml",
-          "url": "https://www.dm.at/p/d/3084145/denkmit-wc-reinigungsgel-magnolie",
-          "isPromo": true,
-          "observedAt": "2026-09-06T12:08:06.156Z",
-          "lastSeenAt": "2026-10-06T11:14:37.262Z",
-          "currentPriceCents": 80,
-          "currentPriceEurCents": 80,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "WC-Reiniger Magnolie, 750 ml",
-          "url": "https://www.dm.de/p/d/3084145/denkmit-wc-reiniger-magnolie",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:48.726Z",
-          "lastSeenAt": "2026-10-06T11:14:44.015Z",
-          "currentPriceCents": 95,
-          "currentPriceEurCents": 95,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "WC-tisztító gél magnólia illattal, 750 ml",
-          "url": "https://www.dm.hu/p/d/3084145/denkmit-wc-tisztito-gel-magnolia-illattal",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:07.865Z",
-          "lastSeenAt": "2026-10-06T11:14:46.769Z",
-          "currentPriceCents": 69900,
-          "currentPriceEurCents": 192,
-          "referencePriceCents": 69900,
-          "referencePriceEurCents": 192
-        }
-      ]
-    },
-    {
-      "productId": 11323,
-      "brand": "bugatti",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 102.01,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "bellissima edp, 60 ml",
-          "url": "https://www.dm.hr/p/d/2968717/bugatti-bellissima-edp",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:07.072Z",
-          "lastSeenAt": "2026-09-29T10:39:14.146Z",
-          "currentPriceCents": 1995,
-          "currentPriceEurCents": 1995,
-          "referencePriceCents": 1995,
-          "referencePriceEurCents": 1995
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Eau de Parfum Bellissima for her, 60 ml",
-          "url": "https://www.dm.at/p/d/2968717/bugatti-eau-de-parfum-bellissima-for-her",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:02:30.446Z",
-          "lastSeenAt": "2026-10-03T19:02:30.446Z",
-          "currentPriceCents": 845,
-          "currentPriceEurCents": 845,
-          "referencePriceCents": 1695,
-          "referencePriceEurCents": 1695
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Női EdP Bellissima, 60 ml",
-          "url": "https://www.dm.hu/p/d/2968717/bugatti-noi-edp-bellissima",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:19.979Z",
-          "lastSeenAt": "2026-09-29T10:39:25.487Z",
-          "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3424,
-          "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3424
-        }
-      ]
-    },
-    {
       "productId": 16954,
       "brand": "sundance",
       "isCountryExtreme": true,
@@ -1647,9 +1508,148 @@
           "observedAt": "2026-09-01T12:31:32.921Z",
           "lastSeenAt": "2026-10-06T11:14:44.822Z",
           "currentPriceCents": 109900,
-          "currentPriceEurCents": 301,
+          "currentPriceEurCents": 300,
           "referencePriceCents": 109900,
-          "referencePriceEurCents": 301
+          "referencePriceEurCents": 300
+        }
+      ]
+    },
+    {
+      "productId": 11323,
+      "brand": "bugatti",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 101.24,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "bellissima edp, 60 ml",
+          "url": "https://www.dm.hr/p/d/2968717/bugatti-bellissima-edp",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:07.072Z",
+          "lastSeenAt": "2026-09-29T10:39:14.146Z",
+          "currentPriceCents": 1995,
+          "currentPriceEurCents": 1995,
+          "referencePriceCents": 1995,
+          "referencePriceEurCents": 1995
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Eau de Parfum Bellissima for her, 60 ml",
+          "url": "https://www.dm.at/p/d/2968717/bugatti-eau-de-parfum-bellissima-for-her",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:02:30.446Z",
+          "lastSeenAt": "2026-10-03T19:02:30.446Z",
+          "currentPriceCents": 845,
+          "currentPriceEurCents": 845,
+          "referencePriceCents": 1695,
+          "referencePriceEurCents": 1695
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Női EdP Bellissima, 60 ml",
+          "url": "https://www.dm.hu/p/d/2968717/bugatti-noi-edp-bellissima",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:19.979Z",
+          "lastSeenAt": "2026-09-29T10:39:25.487Z",
+          "currentPriceCents": 1249900,
+          "currentPriceEurCents": 3411,
+          "referencePriceCents": 1249900,
+          "referencePriceEurCents": 3411
+        }
+      ]
+    },
+    {
+      "productId": 21938,
+      "brand": "Denkmit",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 101.05,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "WC-Reinigungsgel Magnolie, 750 ml",
+          "url": "https://www.dm.at/p/d/3084145/denkmit-wc-reinigungsgel-magnolie",
+          "isPromo": true,
+          "observedAt": "2026-09-06T12:08:06.156Z",
+          "lastSeenAt": "2026-10-06T11:14:37.262Z",
+          "currentPriceCents": 80,
+          "currentPriceEurCents": 80,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "WC-Reiniger Magnolie, 750 ml",
+          "url": "https://www.dm.de/p/d/3084145/denkmit-wc-reiniger-magnolie",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:48.726Z",
+          "lastSeenAt": "2026-10-06T11:14:44.015Z",
+          "currentPriceCents": 95,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "WC-tisztító gél magnólia illattal, 750 ml",
+          "url": "https://www.dm.hu/p/d/3084145/denkmit-wc-tisztito-gel-magnolia-illattal",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:07.865Z",
+          "lastSeenAt": "2026-10-06T11:14:46.769Z",
+          "currentPriceCents": 69900,
+          "currentPriceEurCents": 191,
+          "referencePriceCents": 69900,
+          "referencePriceEurCents": 191
+        }
+      ]
+    },
+    {
+      "productId": 37909,
+      "brand": "NIVEA",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 101.01,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Peeling Liquid Refiner Luminous Skin Glow, 100 ml",
+          "url": "https://www.dm.at/p/d/3066010/nivea-peeling-liquid-refiner-luminous-skin-glow",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:37:56.104Z",
+          "lastSeenAt": "2026-10-21T13:44:39.182Z",
+          "currentPriceCents": 495,
+          "currentPriceEurCents": 495,
+          "referencePriceCents": 495,
+          "referencePriceEurCents": 495
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Liquid Refiner Luminous Skin Glow, 100 ml",
+          "url": "https://www.dm.de/p/d/3066010/nivea-liquid-refiner-luminous-skin-glow",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:03:44.122Z",
+          "lastSeenAt": "2026-10-03T19:03:44.122Z",
+          "currentPriceCents": 495,
+          "currentPriceEurCents": 495,
+          "referencePriceCents": 995,
+          "referencePriceEurCents": 995
         }
       ]
     }

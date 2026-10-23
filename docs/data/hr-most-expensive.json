@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-22T09:54:15.349Z",
+  "generatedAt": "2026-10-23T09:48:24.467Z",
   "fx": {
-    "asOf": "2026-10-21",
+    "asOf": "2026-10-22",
     "rates": {
-      "USD": 1.1234,
-      "JPY": 177.36,
-      "CZK": 24.262,
-      "DKK": 7.4746,
-      "GBP": 0.83825,
-      "HUF": 365,
-      "PLN": 4.3635,
-      "RON": 5.3365,
-      "SEK": 11.0975,
-      "CHF": 0.9256,
+      "USD": 1.1205,
+      "JPY": 175.97,
+      "CZK": 24.26,
+      "DKK": 7.4747,
+      "GBP": 0.8377,
+      "HUF": 366.43,
+      "PLN": 4.3695,
+      "RON": 5.345,
+      "SEK": 11.112,
+      "CHF": 0.9211,
       "ISK": 136.2,
-      "NOK": 10.512,
-      "TRY": 55.7233,
-      "AUD": 1.5971,
-      "BRL": 5.6432,
-      "CAD": 1.5779,
-      "CNY": 7.4999,
-      "HKD": 8.8155,
-      "IDR": 20269.17,
-      "ILS": 3.4726,
-      "INR": 106.1265,
-      "KRW": 1489.15,
-      "MXN": 20.7632,
-      "MYR": 4.5843,
-      "NZD": 1.9735,
-      "PHP": 71.121,
-      "SGD": 1.4348,
-      "THB": 37.718,
-      "ZAR": 18.393
+      "NOK": 10.488,
+      "TRY": 55.6079,
+      "AUD": 1.598,
+      "BRL": 5.6574,
+      "CAD": 1.5725,
+      "CNY": 7.4786,
+      "HKD": 8.7845,
+      "IDR": 20253.88,
+      "ILS": 3.4824,
+      "INR": 106.249,
+      "KRW": 1484.25,
+      "MXN": 21.0215,
+      "MYR": 4.5756,
+      "NZD": 1.9724,
+      "PHP": 71.162,
+      "SGD": 1.4315,
+      "THB": 37.811,
+      "ZAR": 18.5058
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -121,9 +121,9 @@
           "observedAt": "2026-09-01T12:30:41.384Z",
           "lastSeenAt": "2026-10-21T13:44:49.512Z",
           "currentPriceCents": 100900,
-          "currentPriceEurCents": 276,
+          "currentPriceEurCents": 275,
           "referencePriceCents": 100900,
-          "referencePriceEurCents": 276
+          "referencePriceEurCents": 275
         }
       ]
     },
@@ -200,9 +200,9 @@
           "observedAt": "2026-10-18T12:36:09.737Z",
           "lastSeenAt": "2026-10-18T12:36:09.737Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 822,
+          "currentPriceEurCents": 818,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 822
+          "referencePriceEurCents": 818
         }
       ]
     },
@@ -295,7 +295,7 @@
           "url": "https://www.dm.hr/p/d/2278532/nivea-baby-face-body-soft-cream-krema-za-lice-i-tijelo",
           "isPromo": false,
           "observedAt": "2026-08-28T15:49:11.495Z",
-          "lastSeenAt": "2026-09-22T13:23:46.779Z",
+          "lastSeenAt": "2026-10-22T13:45:10.296Z",
           "currentPriceCents": 495,
           "currentPriceEurCents": 495,
           "referencePriceCents": 495,
@@ -318,61 +318,10 @@
       ]
     },
     {
-      "productId": 7334,
-      "brand": "vileda",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 185.51,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "SuperMocio 3Action zamjenske rese za mop, 1 kom.",
-          "url": "https://www.dm.hr/p/d/2137008/vileda-supermocio-3action-zamjenske-rese-za-mop",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:42.747Z",
-          "lastSeenAt": "2026-10-20T13:32:33.945Z",
-          "currentPriceCents": 985,
-          "currentPriceEurCents": 985,
-          "referencePriceCents": 985,
-          "referencePriceEurCents": 985
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Rezervna resa za močo Super 3Action čistilec, 1 kos",
-          "url": "https://www.dm.si/p/d/2137008/vileda-rezervna-resa-za-moco-super-3action-cistilec",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:22.920Z",
-          "lastSeenAt": "2026-10-03T19:13:22.920Z",
-          "currentPriceCents": 99,
-          "currentPriceEurCents": 99,
-          "referencePriceCents": 345,
-          "referencePriceEurCents": 345
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Gyorsfelmosó fej Supermocio 3Action, 1 db",
-          "url": "https://www.dm.hu/p/d/2137008/vileda-gyorsfelmoso-fej-supermocio-3action",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:28.672Z",
-          "lastSeenAt": "2026-10-20T13:32:51.463Z",
-          "currentPriceCents": 179900,
-          "currentPriceEurCents": 493,
-          "referencePriceCents": 179900,
-          "referencePriceEurCents": 493
-        }
-      ]
-    },
-    {
       "productId": 7605,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 181.82,
+      "overallPercentDiff": 187.04,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -427,46 +376,60 @@
           "observedAt": "2026-09-01T12:30:50.931Z",
           "lastSeenAt": "2026-10-02T14:43:06.019Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 55,
+          "currentPriceEurCents": 54,
           "referencePriceCents": 19900,
-          "referencePriceEurCents": 55
+          "referencePriceEurCents": 54
         }
       ]
     },
     {
-      "productId": 14514,
-      "brand": "Johnson's baby",
+      "productId": 7334,
+      "brand": "vileda",
       "isCountryExtreme": true,
-      "overallPercentDiff": 171.43,
+      "overallPercentDiff": 185.51,
       "gapToExtremePercent": 0,
       "countries": [
         {
           "countryCode": "HR",
           "shopId": "dm-hr",
           "currency": "EUR",
-          "name": "Dječja krema za zaštitu pelenskog područja, 100 ml",
-          "url": "https://www.dm.hr/p/d/3081036/johnson-s-baby-djecja-krema-za-zastitu-pelenskog-podrucja",
+          "name": "SuperMocio 3Action zamjenske rese za mop, 1 kom.",
+          "url": "https://www.dm.hr/p/d/2137008/vileda-supermocio-3action-zamjenske-rese-za-mop",
           "isPromo": false,
-          "observedAt": "2026-08-30T22:33:27.056Z",
-          "lastSeenAt": "2026-09-24T13:32:05.161Z",
-          "currentPriceCents": 475,
-          "currentPriceEurCents": 475,
-          "referencePriceCents": 475,
-          "referencePriceEurCents": 475
+          "observedAt": "2026-08-30T22:32:42.747Z",
+          "lastSeenAt": "2026-10-20T13:32:33.945Z",
+          "currentPriceCents": 985,
+          "currentPriceEurCents": 985,
+          "referencePriceCents": 985,
+          "referencePriceEurCents": 985
         },
         {
           "countryCode": "SI",
           "shopId": "dm-si",
           "currency": "EUR",
-          "name": "Krema za nego občutljive kože v predelu plenic, 100 ml",
-          "url": "https://www.dm.si/p/d/3081036/johnson-s-baby-krema-za-nego-obcutljive-koze-v-predelu-plenic",
+          "name": "Rezervna resa za močo Super 3Action čistilec, 1 kos",
+          "url": "https://www.dm.si/p/d/2137008/vileda-rezervna-resa-za-moco-super-3action-cistilec",
           "isPromo": true,
-          "observedAt": "2026-10-03T19:13:32.561Z",
-          "lastSeenAt": "2026-10-03T19:13:32.561Z",
+          "observedAt": "2026-10-03T19:13:22.920Z",
+          "lastSeenAt": "2026-10-03T19:13:22.920Z",
           "currentPriceCents": 99,
           "currentPriceEurCents": 99,
-          "referencePriceCents": 175,
-          "referencePriceEurCents": 175
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Gyorsfelmosó fej Supermocio 3Action, 1 db",
+          "url": "https://www.dm.hu/p/d/2137008/vileda-gyorsfelmoso-fej-supermocio-3action",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:28.672Z",
+          "lastSeenAt": "2026-10-20T13:32:51.463Z",
+          "currentPriceCents": 179900,
+          "currentPriceEurCents": 491,
+          "referencePriceCents": 179900,
+          "referencePriceEurCents": 491
         }
       ]
     },
@@ -474,7 +437,7 @@
       "productId": 10118,
       "brand": "Dove MEN+CARE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 171.34,
+      "overallPercentDiff": 173.01,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -517,7 +480,44 @@
           "currentPriceCents": 29900,
           "currentPriceEurCents": 82,
           "referencePriceCents": 59900,
-          "referencePriceEurCents": 164
+          "referencePriceEurCents": 163
+        }
+      ]
+    },
+    {
+      "productId": 14514,
+      "brand": "Johnson's baby",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 171.43,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Dječja krema za zaštitu pelenskog područja, 100 ml",
+          "url": "https://www.dm.hr/p/d/3081036/johnson-s-baby-djecja-krema-za-zastitu-pelenskog-podrucja",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:27.056Z",
+          "lastSeenAt": "2026-09-24T13:32:05.161Z",
+          "currentPriceCents": 475,
+          "currentPriceEurCents": 475,
+          "referencePriceCents": 475,
+          "referencePriceEurCents": 475
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Krema za nego občutljive kože v predelu plenic, 100 ml",
+          "url": "https://www.dm.si/p/d/3081036/johnson-s-baby-krema-za-nego-obcutljive-koze-v-predelu-plenic",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:32.561Z",
+          "lastSeenAt": "2026-10-03T19:13:32.561Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 175,
+          "referencePriceEurCents": 175
         }
       ]
     },
@@ -627,7 +627,7 @@
       "productId": 3907,
       "brand": "COREGA",
       "isCountryExtreme": true,
-      "overallPercentDiff": 158.45,
+      "overallPercentDiff": 160.2,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -668,9 +668,9 @@
           "observedAt": "2026-10-03T19:06:13.313Z",
           "lastSeenAt": "2026-10-03T19:06:13.313Z",
           "currentPriceCents": 49900,
-          "currentPriceEurCents": 137,
+          "currentPriceEurCents": 136,
           "referencePriceCents": 107900,
-          "referencePriceEurCents": 296
+          "referencePriceEurCents": 294
         }
       ]
     },
@@ -678,7 +678,7 @@
       "productId": 11017,
       "brand": "Aquafresh",
       "isCountryExtreme": true,
-      "overallPercentDiff": 155.47,
+      "overallPercentDiff": 157.35,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -719,9 +719,9 @@
           "observedAt": "2026-09-01T12:32:49.604Z",
           "lastSeenAt": "2026-10-18T12:36:08.084Z",
           "currentPriceCents": 49900,
-          "currentPriceEurCents": 137,
+          "currentPriceEurCents": 136,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 137
+          "referencePriceEurCents": 136
         }
       ]
     },
@@ -877,7 +877,7 @@
       "productId": 2493,
       "brand": "FERRAGAMO",
       "isCountryExtreme": true,
-      "overallPercentDiff": 151.12,
+      "overallPercentDiff": 152.04,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -888,7 +888,7 @@
           "url": "https://www.dm.hr/p/d/1896751/ferragamo-signorina-misteriosa-edp",
           "isPromo": false,
           "observedAt": "2026-08-28T15:59:12.991Z",
-          "lastSeenAt": "2026-09-22T13:24:07.513Z",
+          "lastSeenAt": "2026-10-22T13:45:10.296Z",
           "currentPriceCents": 6190,
           "currentPriceEurCents": 6190,
           "referencePriceCents": 6190,
@@ -902,7 +902,7 @@
           "url": "https://www.dm.si/p/d/1896751/ferragamo-parfumska-voda-signorina-misteriosa",
           "isPromo": false,
           "observedAt": "2026-09-22T13:23:31.787Z",
-          "lastSeenAt": "2026-09-22T13:23:31.787Z",
+          "lastSeenAt": "2026-10-22T13:45:51.602Z",
           "currentPriceCents": 6095,
           "currentPriceEurCents": 6095,
           "referencePriceCents": 6095,
@@ -918,9 +918,9 @@
           "observedAt": "2026-10-03T19:06:10.259Z",
           "lastSeenAt": "2026-10-03T19:06:10.259Z",
           "currentPriceCents": 449900,
-          "currentPriceEurCents": 1233,
+          "currentPriceEurCents": 1228,
           "referencePriceCents": 899900,
-          "referencePriceEurCents": 2465
+          "referencePriceEurCents": 2456
         }
       ]
     },
@@ -1220,7 +1220,7 @@
       "productId": 448,
       "brand": "Dontodent PRO+",
       "isCountryExtreme": true,
-      "overallPercentDiff": 141.23,
+      "overallPercentDiff": 143.36,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1275,9 +1275,9 @@
           "observedAt": "2026-09-01T12:30:17.495Z",
           "lastSeenAt": "2026-09-23T13:37:24.417Z",
           "currentPriceCents": 41500,
-          "currentPriceEurCents": 114,
+          "currentPriceEurCents": 113,
           "referencePriceCents": 41500,
-          "referencePriceEurCents": 114
+          "referencePriceEurCents": 113
         }
       ]
     },
@@ -1405,9 +1405,9 @@
           "observedAt": "2026-09-01T12:30:04.184Z",
           "lastSeenAt": "2026-10-19T15:34:37.210Z",
           "currentPriceCents": 37900,
-          "currentPriceEurCents": 104,
+          "currentPriceEurCents": 103,
           "referencePriceCents": 37900,
-          "referencePriceEurCents": 104
+          "referencePriceEurCents": 103
         }
       ]
     },

@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-22T09:54:15.349Z",
+  "generatedAt": "2026-10-23T09:48:24.467Z",
   "fx": {
-    "asOf": "2026-10-21",
+    "asOf": "2026-10-22",
     "rates": {
-      "USD": 1.1234,
-      "JPY": 177.36,
-      "CZK": 24.262,
-      "DKK": 7.4746,
-      "GBP": 0.83825,
-      "HUF": 365,
-      "PLN": 4.3635,
-      "RON": 5.3365,
-      "SEK": 11.0975,
-      "CHF": 0.9256,
+      "USD": 1.1205,
+      "JPY": 175.97,
+      "CZK": 24.26,
+      "DKK": 7.4747,
+      "GBP": 0.8377,
+      "HUF": 366.43,
+      "PLN": 4.3695,
+      "RON": 5.345,
+      "SEK": 11.112,
+      "CHF": 0.9211,
       "ISK": 136.2,
-      "NOK": 10.512,
-      "TRY": 55.7233,
-      "AUD": 1.5971,
-      "BRL": 5.6432,
-      "CAD": 1.5779,
-      "CNY": 7.4999,
-      "HKD": 8.8155,
-      "IDR": 20269.17,
-      "ILS": 3.4726,
-      "INR": 106.1265,
-      "KRW": 1489.15,
-      "MXN": 20.7632,
-      "MYR": 4.5843,
-      "NZD": 1.9735,
-      "PHP": 71.121,
-      "SGD": 1.4348,
-      "THB": 37.718,
-      "ZAR": 18.393
+      "NOK": 10.488,
+      "TRY": 55.6079,
+      "AUD": 1.598,
+      "BRL": 5.6574,
+      "CAD": 1.5725,
+      "CNY": 7.4786,
+      "HKD": 8.7845,
+      "IDR": 20253.88,
+      "ILS": 3.4824,
+      "INR": 106.249,
+      "KRW": 1484.25,
+      "MXN": 21.0215,
+      "MYR": 4.5756,
+      "NZD": 1.9724,
+      "PHP": 71.162,
+      "SGD": 1.4315,
+      "THB": 37.811,
+      "ZAR": 18.5058
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -281,10 +281,47 @@
       ]
     },
     {
+      "productId": 16410,
+      "brand": "adidas",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 245.13,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Antiperspirant v spreju Ultra Fresh Control, 150 ml",
+          "url": "https://www.dm.si/p/d/3068360/adidas-antiperspirant-v-spreju-ultra-fresh-control",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:56.419Z",
+          "lastSeenAt": "2026-10-01T15:25:52.013Z",
+          "currentPriceCents": 390,
+          "currentPriceEurCents": 390,
+          "referencePriceCents": 390,
+          "referencePriceEurCents": 390
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Deo spray Ultra Fresh Control, 150 ml",
+          "url": "https://www.dm.hu/p/d/3068360/adidas-deo-spray-ultra-fresh-control",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:17.999Z",
+          "lastSeenAt": "2026-10-03T19:06:17.999Z",
+          "currentPriceCents": 19900,
+          "currentPriceEurCents": 54,
+          "referencePriceCents": 41500,
+          "referencePriceEurCents": 113
+        }
+      ]
+    },
+    {
       "productId": 21037,
       "brand": "Beauty of Joseon",
       "isCountryExtreme": true,
-      "overallPercentDiff": 243.48,
+      "overallPercentDiff": 244.68,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -325,46 +362,9 @@
           "observedAt": "2026-10-03T19:06:13.313Z",
           "lastSeenAt": "2026-10-03T19:06:13.313Z",
           "currentPriceCents": 104900,
-          "currentPriceEurCents": 287,
+          "currentPriceEurCents": 286,
           "referencePriceCents": 209900,
-          "referencePriceEurCents": 575
-        }
-      ]
-    },
-    {
-      "productId": 16410,
-      "brand": "adidas",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 242.11,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Antiperspirant v spreju Ultra Fresh Control, 150 ml",
-          "url": "https://www.dm.si/p/d/3068360/adidas-antiperspirant-v-spreju-ultra-fresh-control",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:56.419Z",
-          "lastSeenAt": "2026-10-01T15:25:52.013Z",
-          "currentPriceCents": 390,
-          "currentPriceEurCents": 390,
-          "referencePriceCents": 390,
-          "referencePriceEurCents": 390
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Deo spray Ultra Fresh Control, 150 ml",
-          "url": "https://www.dm.hu/p/d/3068360/adidas-deo-spray-ultra-fresh-control",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:06:17.999Z",
-          "lastSeenAt": "2026-10-03T19:06:17.999Z",
-          "currentPriceCents": 19900,
-          "currentPriceEurCents": 55,
-          "referencePriceCents": 41500,
-          "referencePriceEurCents": 114
+          "referencePriceEurCents": 573
         }
       ]
     },
@@ -413,9 +413,9 @@
           "observedAt": "2026-09-01T12:31:42.358Z",
           "lastSeenAt": "2026-09-25T13:44:14.594Z",
           "currentPriceCents": 79900,
-          "currentPriceEurCents": 219,
+          "currentPriceEurCents": 218,
           "referencePriceCents": 79900,
-          "referencePriceEurCents": 219
+          "referencePriceEurCents": 218
         }
       ]
     },
@@ -464,9 +464,9 @@
           "observedAt": "2026-10-03T19:06:13.313Z",
           "lastSeenAt": "2026-10-03T19:06:13.313Z",
           "currentPriceCents": 219900,
-          "currentPriceEurCents": 602,
+          "currentPriceEurCents": 600,
           "referencePriceCents": 439900,
-          "referencePriceEurCents": 1205
+          "referencePriceEurCents": 1201
         }
       ]
     },
@@ -501,7 +501,7 @@
           "observedAt": "2026-10-03T19:06:17.999Z",
           "lastSeenAt": "2026-10-03T19:06:17.999Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 55,
+          "currentPriceEurCents": 54,
           "referencePriceCents": 40900,
           "referencePriceEurCents": 112
         }
@@ -538,7 +538,7 @@
           "observedAt": "2026-10-03T19:06:13.313Z",
           "lastSeenAt": "2026-10-03T19:06:13.313Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 55,
+          "currentPriceEurCents": 54,
           "referencePriceCents": 40900,
           "referencePriceEurCents": 112
         }
@@ -548,7 +548,7 @@
       "productId": 1906,
       "brand": "GARNIER mineral",
       "isCountryExtreme": true,
-      "overallPercentDiff": 213.49,
+      "overallPercentDiff": 216,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -589,9 +589,9 @@
           "observedAt": "2026-10-03T19:06:11.832Z",
           "lastSeenAt": "2026-10-03T19:06:11.832Z",
           "currentPriceCents": 22900,
-          "currentPriceEurCents": 63,
+          "currentPriceEurCents": 62,
           "referencePriceCents": 45900,
-          "referencePriceEurCents": 126
+          "referencePriceEurCents": 125
         }
       ]
     },
@@ -687,7 +687,7 @@
       "productId": 19959,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 188.32,
+      "overallPercentDiff": 190.44,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -716,7 +716,7 @@
           "currentPriceCents": 24900,
           "currentPriceEurCents": 68,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 137
+          "referencePriceEurCents": 136
         }
       ]
     },
@@ -779,9 +779,9 @@
           "observedAt": "2026-09-01T12:32:07.099Z",
           "lastSeenAt": "2026-09-24T13:32:21.725Z",
           "currentPriceCents": 429900,
-          "currentPriceEurCents": 1178,
+          "currentPriceEurCents": 1173,
           "referencePriceCents": 429900,
-          "referencePriceEurCents": 1178
+          "referencePriceEurCents": 1173
         }
       ]
     },
@@ -858,9 +858,9 @@
           "observedAt": "2026-09-01T12:30:17.495Z",
           "lastSeenAt": "2026-09-28T16:44:26.494Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 246,
+          "currentPriceEurCents": 245,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 246
+          "referencePriceEurCents": 245
         }
       ]
     },
@@ -956,7 +956,7 @@
       "productId": 7071,
       "brand": "Rexona",
       "isCountryExtreme": true,
-      "overallPercentDiff": 175.64,
+      "overallPercentDiff": 177.42,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -999,7 +999,7 @@
           "currentPriceCents": 27900,
           "currentPriceEurCents": 76,
           "referencePriceCents": 56900,
-          "referencePriceEurCents": 156
+          "referencePriceEurCents": 155
         }
       ]
     },
@@ -1007,7 +1007,7 @@
       "productId": 13220,
       "brand": "Rexona",
       "isCountryExtreme": true,
-      "overallPercentDiff": 175.64,
+      "overallPercentDiff": 177.42,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1050,7 +1050,7 @@
           "currentPriceCents": 27900,
           "currentPriceEurCents": 76,
           "referencePriceCents": 56900,
-          "referencePriceEurCents": 156
+          "referencePriceEurCents": 155
         }
       ]
     },
@@ -1295,7 +1295,7 @@
       "productId": 10619,
       "brand": "Dove",
       "isCountryExtreme": true,
-      "overallPercentDiff": 165.24,
+      "overallPercentDiff": 166.87,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1338,7 +1338,7 @@
           "currentPriceCents": 29900,
           "currentPriceEurCents": 82,
           "referencePriceCents": 59900,
-          "referencePriceEurCents": 164
+          "referencePriceEurCents": 163
         }
       ]
     },
@@ -1346,7 +1346,7 @@
       "productId": 22467,
       "brand": "Neutrogena",
       "isCountryExtreme": true,
-      "overallPercentDiff": 159.31,
+      "overallPercentDiff": 160.48,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1373,9 +1373,9 @@
           "observedAt": "2026-10-03T19:06:11.832Z",
           "lastSeenAt": "2026-10-03T19:06:11.832Z",
           "currentPriceCents": 119900,
-          "currentPriceEurCents": 328,
+          "currentPriceEurCents": 327,
           "referencePriceCents": 244900,
-          "referencePriceEurCents": 671
+          "referencePriceEurCents": 668
         }
       ]
     },
@@ -1452,9 +1452,9 @@
           "observedAt": "2026-09-01T12:32:09.419Z",
           "lastSeenAt": "2026-10-16T13:14:00.743Z",
           "currentPriceCents": 74900,
-          "currentPriceEurCents": 205,
+          "currentPriceEurCents": 204,
           "referencePriceCents": 74900,
-          "referencePriceEurCents": 205
+          "referencePriceEurCents": 204
         }
       ]
     },
@@ -1533,7 +1533,7 @@
           "currentPriceCents": 29900,
           "currentPriceEurCents": 82,
           "referencePriceCents": 59900,
-          "referencePriceEurCents": 164
+          "referencePriceEurCents": 163
         }
       ]
     },
@@ -1541,7 +1541,7 @@
       "productId": 9740,
       "brand": "Moschino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 155.11,
+      "overallPercentDiff": 156.23,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1582,9 +1582,9 @@
           "observedAt": "2026-10-03T19:06:11.832Z",
           "lastSeenAt": "2026-10-03T19:06:11.832Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 685,
+          "currentPriceEurCents": 682,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1370
+          "referencePriceEurCents": 1364
         }
       ]
     },
@@ -1592,7 +1592,7 @@
       "productId": 7970,
       "brand": "Gillette Venus",
       "isCountryExtreme": true,
-      "overallPercentDiff": 154.17,
+      "overallPercentDiff": 155.12,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1633,9 +1633,9 @@
           "observedAt": "2026-09-01T12:30:13.724Z",
           "lastSeenAt": "2026-10-09T15:16:31.469Z",
           "currentPriceCents": 196900,
-          "currentPriceEurCents": 539,
+          "currentPriceEurCents": 537,
           "referencePriceCents": 196900,
-          "referencePriceEurCents": 539
+          "referencePriceEurCents": 537
         }
       ]
     }
