@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-23T09:48:24.467Z",
+  "generatedAt": "2026-10-24T09:21:21.457Z",
   "fx": {
-    "asOf": "2026-10-22",
+    "asOf": "2026-10-23",
     "rates": {
-      "USD": 1.1205,
-      "JPY": 175.97,
-      "CZK": 24.26,
-      "DKK": 7.4747,
-      "GBP": 0.8377,
-      "HUF": 366.43,
-      "PLN": 4.3695,
-      "RON": 5.345,
-      "SEK": 11.112,
-      "CHF": 0.9211,
+      "USD": 1.1193,
+      "JPY": 175.51,
+      "CZK": 24.327,
+      "DKK": 7.4748,
+      "GBP": 0.83728,
+      "HUF": 366.73,
+      "PLN": 4.3945,
+      "RON": 5.3492,
+      "SEK": 11.131,
+      "CHF": 0.9227,
       "ISK": 136.2,
-      "NOK": 10.488,
-      "TRY": 55.6079,
-      "AUD": 1.598,
-      "BRL": 5.6574,
-      "CAD": 1.5725,
-      "CNY": 7.4786,
-      "HKD": 8.7845,
-      "IDR": 20253.88,
-      "ILS": 3.4824,
-      "INR": 106.249,
-      "KRW": 1484.25,
-      "MXN": 21.0215,
-      "MYR": 4.5756,
-      "NZD": 1.9724,
-      "PHP": 71.162,
-      "SGD": 1.4315,
-      "THB": 37.811,
-      "ZAR": 18.5058
+      "NOK": 10.4665,
+      "TRY": 55.6715,
+      "AUD": 1.5939,
+      "BRL": 5.6485,
+      "CAD": 1.5665,
+      "CNY": 7.466,
+      "HKD": 8.7793,
+      "IDR": 20268.06,
+      "ILS": 3.4939,
+      "INR": 106.272,
+      "KRW": 1482.46,
+      "MXN": 21.0226,
+      "MYR": 4.5729,
+      "NZD": 1.9682,
+      "PHP": 71.235,
+      "SGD": 1.431,
+      "THB": 37.771,
+      "ZAR": 18.5777
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -40,47 +40,10 @@
   "kind": "cheapest",
   "items": [
     {
-      "productId": 35884,
-      "brand": "POLICE",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 210.3,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Eau de Parfum Rich Girl, 40 ml",
-          "url": "https://www.dm.at/p/d/3077403/police-eau-de-parfum-rich-girl",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:37:37.997Z",
-          "lastSeenAt": "2026-09-23T13:37:10.239Z",
-          "currentPriceCents": 1495,
-          "currentPriceEurCents": 1495,
-          "referencePriceCents": 1495,
-          "referencePriceEurCents": 1495
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Női EdP Rich Girl, 50 ml",
-          "url": "https://www.dm.hu/p/d/3077403/police-noi-edp-rich-girl",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:07.326Z",
-          "lastSeenAt": "2026-09-23T13:37:24.417Z",
-          "currentPriceCents": 1699900,
-          "currentPriceEurCents": 4639,
-          "referencePriceCents": 1699900,
-          "referencePriceEurCents": 4639
-        }
-      ]
-    },
-    {
       "productId": 27011,
       "brand": "Frosch",
       "isCountryExtreme": true,
-      "overallPercentDiff": 195.93,
+      "overallPercentDiff": 195.59,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -121,9 +84,9 @@
           "observedAt": "2026-09-01T12:31:43.995Z",
           "lastSeenAt": "2026-10-05T17:07:29.410Z",
           "currentPriceCents": 319900,
-          "currentPriceEurCents": 873,
+          "currentPriceEurCents": 872,
           "referencePriceCents": 319900,
-          "referencePriceEurCents": 873
+          "referencePriceEurCents": 872
         }
       ]
     },
@@ -131,7 +94,7 @@
       "productId": 31206,
       "brand": "Jaguar",
       "isCountryExtreme": true,
-      "overallPercentDiff": 188.86,
+      "overallPercentDiff": 188.64,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -172,9 +135,9 @@
           "observedAt": "2026-09-01T12:30:19.979Z",
           "lastSeenAt": "2026-09-26T13:03:13.135Z",
           "currentPriceCents": 1899900,
-          "currentPriceEurCents": 5185,
+          "currentPriceEurCents": 5181,
           "referencePriceCents": 1899900,
-          "referencePriceEurCents": 5185
+          "referencePriceEurCents": 5181
         }
       ]
     },
@@ -182,7 +145,7 @@
       "productId": 15608,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 187.37,
+      "overallPercentDiff": 186.32,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -223,9 +186,9 @@
           "observedAt": "2026-09-24T13:32:19.547Z",
           "lastSeenAt": "2026-09-24T13:32:19.547Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 273,
+          "currentPriceEurCents": 272,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 273
+          "referencePriceEurCents": 272
         }
       ]
     },
@@ -372,7 +335,7 @@
       "productId": 9739,
       "brand": "VERSACE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 146.22,
+      "overallPercentDiff": 146.02,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -427,9 +390,9 @@
           "observedAt": "2026-09-01T12:30:22.854Z",
           "lastSeenAt": "2026-09-26T13:03:13.135Z",
           "currentPriceCents": 1799900,
-          "currentPriceEurCents": 4912,
+          "currentPriceEurCents": 4908,
           "referencePriceCents": 1799900,
-          "referencePriceEurCents": 4912
+          "referencePriceEurCents": 4908
         }
       ]
     },
@@ -516,7 +479,7 @@
       "productId": 10276,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 128.16,
+      "overallPercentDiff": 127.96,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -557,9 +520,9 @@
           "observedAt": "2026-09-01T12:30:19.979Z",
           "lastSeenAt": "2026-09-29T10:39:25.487Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3411,
+          "currentPriceEurCents": 3408,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3411
+          "referencePriceEurCents": 3408
         }
       ]
     },
@@ -567,7 +530,7 @@
       "productId": 14417,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 128.16,
+      "overallPercentDiff": 127.96,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -622,9 +585,9 @@
           "observedAt": "2026-09-01T12:30:19.979Z",
           "lastSeenAt": "2026-09-28T16:44:28.440Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3411,
+          "currentPriceEurCents": 3408,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3411
+          "referencePriceEurCents": 3408
         }
       ]
     },
@@ -711,7 +674,7 @@
       "productId": 31378,
       "brand": "Frosch",
       "isCountryExtreme": true,
-      "overallPercentDiff": 122.86,
+      "overallPercentDiff": 122.45,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -752,9 +715,9 @@
           "observedAt": "2026-09-01T12:31:22.301Z",
           "lastSeenAt": "2026-10-18T12:36:08.084Z",
           "currentPriceCents": 199900,
-          "currentPriceEurCents": 546,
+          "currentPriceEurCents": 545,
           "referencePriceCents": 199900,
-          "referencePriceEurCents": 546
+          "referencePriceEurCents": 545
         }
       ]
     },
@@ -827,7 +790,7 @@
       "productId": 8539,
       "brand": "Pampers Splashers",
       "isCountryExtreme": true,
-      "overallPercentDiff": 120.67,
+      "overallPercentDiff": 120.45,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -882,9 +845,9 @@
           "observedAt": "2026-09-01T12:32:02.558Z",
           "lastSeenAt": "2026-09-27T13:56:03.197Z",
           "currentPriceCents": 359900,
-          "currentPriceEurCents": 982,
+          "currentPriceEurCents": 981,
           "referencePriceCents": 359900,
-          "referencePriceEurCents": 982
+          "referencePriceEurCents": 981
         }
       ]
     },
@@ -892,7 +855,7 @@
       "productId": 20531,
       "brand": "POLICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 119.06,
+      "overallPercentDiff": 118.86,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -933,9 +896,9 @@
           "observedAt": "2026-09-01T12:30:22.854Z",
           "lastSeenAt": "2026-09-26T13:03:13.135Z",
           "currentPriceCents": 1199900,
-          "currentPriceEurCents": 3275,
+          "currentPriceEurCents": 3272,
           "referencePriceCents": 1199900,
-          "referencePriceEurCents": 3275
+          "referencePriceEurCents": 3272
         }
       ]
     },
@@ -943,7 +906,7 @@
       "productId": 11362,
       "brand": "MAX FACTOR",
       "isCountryExtreme": true,
-      "overallPercentDiff": 114.18,
+      "overallPercentDiff": 113.92,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -954,7 +917,7 @@
           "url": "https://www.dm.hr/p/d/1021916/max-factor-olovka-za-oci-020-black",
           "isPromo": false,
           "observedAt": "2026-09-23T13:37:05.414Z",
-          "lastSeenAt": "2026-09-23T13:37:05.414Z",
+          "lastSeenAt": "2026-10-23T13:22:38.291Z",
           "currentPriceCents": 790,
           "currentPriceEurCents": 790,
           "referencePriceCents": 790,
@@ -968,7 +931,7 @@
           "url": "https://www.dm.si/p/d/1021916/max-factor-svincnik-za-oci-kohl-pencil-020-black",
           "isPromo": false,
           "observedAt": "2026-08-30T22:34:32.828Z",
-          "lastSeenAt": "2026-09-23T13:37:03.507Z",
+          "lastSeenAt": "2026-10-23T13:22:25.716Z",
           "currentPriceCents": 785,
           "currentPriceEurCents": 785,
           "referencePriceCents": 785,
@@ -982,7 +945,7 @@
           "url": "https://www.dm.at/p/d/1021916/max-factor-kohl-kajal-020-black",
           "isPromo": false,
           "observedAt": "2026-08-30T22:37:57.626Z",
-          "lastSeenAt": "2026-09-23T13:37:14.566Z",
+          "lastSeenAt": "2026-10-23T13:22:40.863Z",
           "currentPriceCents": 395,
           "currentPriceEurCents": 395,
           "referencePriceCents": 395,
@@ -996,11 +959,11 @@
           "url": "https://www.dm.hu/p/d/1021916/max-factor-szemcerura-fekete-20",
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:26.625Z",
-          "lastSeenAt": "2026-09-23T13:37:26.502Z",
+          "lastSeenAt": "2026-10-23T13:22:57.120Z",
           "currentPriceCents": 309900,
-          "currentPriceEurCents": 846,
+          "currentPriceEurCents": 845,
           "referencePriceCents": 309900,
-          "referencePriceEurCents": 846
+          "referencePriceEurCents": 845
         }
       ]
     },
@@ -1286,7 +1249,7 @@
       "productId": 10767,
       "brand": "JIL SANDER",
       "isCountryExtreme": true,
-      "overallPercentDiff": 104.91,
+      "overallPercentDiff": 104.71,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1355,9 +1318,9 @@
           "observedAt": "2026-09-01T12:32:13.914Z",
           "lastSeenAt": "2026-10-08T15:34:03.270Z",
           "currentPriceCents": 1099900,
-          "currentPriceEurCents": 3002,
+          "currentPriceEurCents": 2999,
           "referencePriceCents": 1099900,
-          "referencePriceEurCents": 3002
+          "referencePriceEurCents": 2999
         }
       ]
     },
@@ -1518,7 +1481,7 @@
       "productId": 11323,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 101.24,
+      "overallPercentDiff": 101.06,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1559,9 +1522,9 @@
           "observedAt": "2026-09-01T12:30:19.979Z",
           "lastSeenAt": "2026-09-29T10:39:25.487Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3411,
+          "currentPriceEurCents": 3408,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3411
+          "referencePriceEurCents": 3408
         }
       ]
     },
@@ -1650,6 +1613,71 @@
           "currentPriceEurCents": 495,
           "referencePriceCents": 995,
           "referencePriceEurCents": 995
+        }
+      ]
+    },
+    {
+      "productId": 15571,
+      "brand": "Pampers",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 100.74,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Vlažni robčki Sensitive, 4 × 80, 320 kos",
+          "url": "https://www.dm.si/p/d/1888279/pampers-vlazni-robcki-sensitive-4-80",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:43.741Z",
+          "lastSeenAt": "2026-10-16T13:13:45.459Z",
+          "currentPriceCents": 1355,
+          "currentPriceEurCents": 1355,
+          "referencePriceCents": 1355,
+          "referencePriceEurCents": 1355
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "sensitive Feuchttücher, 320 St",
+          "url": "https://www.dm.at/p/d/1888279/pampers-sensitive-feuchttuecher",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:09.884Z",
+          "lastSeenAt": "2026-10-16T13:13:48.901Z",
+          "currentPriceCents": 675,
+          "currentPriceEurCents": 675,
+          "referencePriceCents": 675,
+          "referencePriceEurCents": 675
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Feuchttücher Sensitive (4x80 St), 320 St",
+          "url": "https://www.dm.de/p/d/1888279/pampers-feuchttuecher-sensitive-4x80-st",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:05.626Z",
+          "lastSeenAt": "2026-10-16T13:13:55.249Z",
+          "currentPriceCents": 795,
+          "currentPriceEurCents": 795,
+          "referencePriceCents": 795,
+          "referencePriceEurCents": 795
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Nedves törlőkendő, Sensitive, 4x80 db, 320 db",
+          "url": "https://www.dm.hu/p/d/1888279/pampers-nedves-torlokendo-sensitive-4x80-db",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:53.159Z",
+          "lastSeenAt": "2026-10-16T13:13:58.684Z",
+          "currentPriceCents": 449900,
+          "currentPriceEurCents": 1227,
+          "referencePriceCents": 449900,
+          "referencePriceEurCents": 1227
         }
       ]
     }

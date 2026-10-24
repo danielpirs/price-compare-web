@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-23T09:48:24.467Z",
+  "generatedAt": "2026-10-24T09:21:21.457Z",
   "fx": {
-    "asOf": "2026-10-22",
+    "asOf": "2026-10-23",
     "rates": {
-      "USD": 1.1205,
-      "JPY": 175.97,
-      "CZK": 24.26,
-      "DKK": 7.4747,
-      "GBP": 0.8377,
-      "HUF": 366.43,
-      "PLN": 4.3695,
-      "RON": 5.345,
-      "SEK": 11.112,
-      "CHF": 0.9211,
+      "USD": 1.1193,
+      "JPY": 175.51,
+      "CZK": 24.327,
+      "DKK": 7.4748,
+      "GBP": 0.83728,
+      "HUF": 366.73,
+      "PLN": 4.3945,
+      "RON": 5.3492,
+      "SEK": 11.131,
+      "CHF": 0.9227,
       "ISK": 136.2,
-      "NOK": 10.488,
-      "TRY": 55.6079,
-      "AUD": 1.598,
-      "BRL": 5.6574,
-      "CAD": 1.5725,
-      "CNY": 7.4786,
-      "HKD": 8.7845,
-      "IDR": 20253.88,
-      "ILS": 3.4824,
-      "INR": 106.249,
-      "KRW": 1484.25,
-      "MXN": 21.0215,
-      "MYR": 4.5756,
-      "NZD": 1.9724,
-      "PHP": 71.162,
-      "SGD": 1.4315,
-      "THB": 37.811,
-      "ZAR": 18.5058
+      "NOK": 10.4665,
+      "TRY": 55.6715,
+      "AUD": 1.5939,
+      "BRL": 5.6485,
+      "CAD": 1.5665,
+      "CNY": 7.466,
+      "HKD": 8.7793,
+      "IDR": 20268.06,
+      "ILS": 3.4939,
+      "INR": 106.272,
+      "KRW": 1482.46,
+      "MXN": 21.0226,
+      "MYR": 4.5729,
+      "NZD": 1.9682,
+      "PHP": 71.235,
+      "SGD": 1.431,
+      "THB": 37.771,
+      "ZAR": 18.5777
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -307,7 +307,7 @@
       "productId": 47668,
       "brand": "Bondi Sands",
       "isCountryExtreme": true,
-      "overallPercentDiff": 121.34,
+      "overallPercentDiff": 122.04,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -336,7 +336,7 @@
           "currentPriceCents": 54900,
           "currentPriceEurCents": 150,
           "referencePriceCents": 114900,
-          "referencePriceEurCents": 314
+          "referencePriceEurCents": 313
         }
       ]
     },
@@ -374,6 +374,57 @@
           "currentPriceEurCents": 1095,
           "referencePriceCents": 1095,
           "referencePriceEurCents": 1095
+        }
+      ]
+    },
+    {
+      "productId": 448,
+      "brand": "Dontodent PRO+",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 116.81,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Zobna ščetka za občutljive zobe PRO+, soft, več..., 2 kos",
+          "url": "https://www.dm.si/p/d/3042913/dontodent-pro-zobna-scetka-za-obcutljive-zobe-pro-soft-vec-razlicic",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:48:45.895Z",
+          "lastSeenAt": "2026-10-23T13:22:25.716Z",
+          "currentPriceCents": 230,
+          "currentPriceEurCents": 230,
+          "referencePriceCents": 230,
+          "referencePriceEurCents": 230
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Zahnbürste PRO+ Sensitive Complete Care, soft, 2 St",
+          "url": "https://www.dm.de/p/d/3042913/dontodent-pro-zahnbuerste-pro-sensitive-complete-care-soft",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:33.872Z",
+          "lastSeenAt": "2026-10-23T13:22:51.129Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkefe érzékeny fogakra PRO+, puha, többféle, 2 db",
+          "url": "https://www.dm.hu/p/d/3042913/dontodent-pro-fogkefe-erzekeny-fogakra-pro-puha-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:17.495Z",
+          "lastSeenAt": "2026-10-23T13:22:57.120Z",
+          "currentPriceCents": 41500,
+          "currentPriceEurCents": 113,
+          "referencePriceCents": 41500,
+          "referencePriceEurCents": 113
         }
       ]
     },
@@ -585,7 +636,7 @@
       "productId": 13581,
       "brand": "MAYBELLINE NEW YORK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 104.55,
+      "overallPercentDiff": 104.85,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -642,7 +693,7 @@
           "currentPriceCents": 179900,
           "currentPriceEurCents": 491,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 682
+          "referencePriceEurCents": 681
         }
       ]
     },
@@ -650,7 +701,7 @@
       "productId": 20232,
       "brand": "MAYBELLINE NEW YORK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 104.55,
+      "overallPercentDiff": 104.85,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -707,7 +758,7 @@
           "currentPriceCents": 179900,
           "currentPriceEurCents": 491,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 682
+          "referencePriceEurCents": 681
         }
       ]
     },
@@ -854,7 +905,7 @@
       "productId": 21089,
       "brand": "CATRICE",
       "isCountryExtreme": true,
-      "overallPercentDiff": 99.63,
+      "overallPercentDiff": 100.37,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -897,7 +948,7 @@
           "currentPriceCents": 79900,
           "currentPriceEurCents": 218,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 273
+          "referencePriceEurCents": 272
         }
       ]
     },
@@ -948,7 +999,7 @@
           "currentPriceCents": 79900,
           "currentPriceEurCents": 218,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 273
+          "referencePriceEurCents": 272
         }
       ]
     },
@@ -1445,57 +1496,6 @@
           "currentPriceEurCents": 136,
           "referencePriceCents": 59900,
           "referencePriceEurCents": 163
-        }
-      ]
-    },
-    {
-      "productId": 20306,
-      "brand": "CATRICE",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 87.5,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Lak za nohte Sheer Beauties 100 Lavender Whispers, 10,5 ml",
-          "url": "https://www.dm.si/p/d/3041052/catrice-lak-za-nohte-sheer-beauties-100-lavender-whispers",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:30.185Z",
-          "lastSeenAt": "2026-10-03T19:13:30.185Z",
-          "currentPriceCents": 99,
-          "currentPriceEurCents": 99,
-          "referencePriceCents": 200,
-          "referencePriceEurCents": 200
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Nagellack Sheer Beauties 100 Lavender Whispers, 10,5 ml",
-          "url": "https://www.dm.de/p/d/3041052/catrice-nagellack-sheer-beauties-100-lavender-whispers",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:03:42.971Z",
-          "lastSeenAt": "2026-10-03T19:03:42.971Z",
-          "currentPriceCents": 175,
-          "currentPriceEurCents": 175,
-          "referencePriceCents": 375,
-          "referencePriceEurCents": 375
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Körömlakk, Sheer Beauties - Nr. 100 Lavender..., 10,5 ml",
-          "url": "https://www.dm.hu/p/d/3041052/catrice-koromlakk-sheer-beauties-nr-100-lavender-whispers",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:06:15.966Z",
-          "lastSeenAt": "2026-10-03T19:06:15.966Z",
-          "currentPriceCents": 59900,
-          "currentPriceEurCents": 163,
-          "referencePriceCents": 79900,
-          "referencePriceEurCents": 218
         }
       ]
     }
