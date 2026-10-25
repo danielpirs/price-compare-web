@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T09:21:21.457Z",
+  "generatedAt": "2026-10-25T09:38:40.801Z",
   "fx": {
     "asOf": "2026-10-23",
     "rates": {
@@ -1954,68 +1954,6 @@
       ]
     },
     {
-      "productId": 12113,
-      "name": "Lash Sensational Sky High maskara – Space Diamond, 7,5 ml",
-      "brand": "MAYBELLINE NEW YORK",
-      "percentDiff": 512.82,
-      "cheapest": {
-        "countryCode": "HR",
-        "shopId": "dm-hr",
-        "priceCents": 195,
-        "currency": "EUR",
-        "priceEurCents": 195,
-        "isPromo": true,
-        "observedAt": "2026-10-03T19:04:16.543Z"
-      },
-      "mostExpensive": {
-        "countryCode": "AT",
-        "shopId": "dm-at",
-        "priceCents": 1195,
-        "currency": "EUR",
-        "priceEurCents": 1195,
-        "isPromo": false,
-        "observedAt": "2026-08-30T22:37:33.185Z"
-      },
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "priceCents": 195,
-          "currency": "EUR",
-          "priceEurCents": 195,
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:04:16.543Z"
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 595,
-          "currency": "EUR",
-          "priceEurCents": 595,
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:30.185Z"
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "priceCents": 1195,
-          "currency": "EUR",
-          "priceEurCents": 1195,
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:37:33.185Z"
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "priceCents": 429900,
-          "currency": "HUF",
-          "priceEurCents": 1172,
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:07.099Z"
-        }
-      ]
-    },
-    {
       "productId": 26301,
       "name": "Pflaster für Kinder Frozen, 20 St",
       "brand": "Hansaplast",
@@ -2056,6 +1994,59 @@
           "priceEurCents": 82,
           "isPromo": true,
           "observedAt": "2026-10-03T19:06:07.103Z"
+        }
+      ]
+    },
+    {
+      "productId": 12113,
+      "name": "Lash Sensational Sky High maskara – Space Diamond, 7,5 ml",
+      "brand": "MAYBELLINE NEW YORK",
+      "percentDiff": 501.03,
+      "cheapest": {
+        "countryCode": "HR",
+        "shopId": "dm-hr",
+        "priceCents": 195,
+        "currency": "EUR",
+        "priceEurCents": 195,
+        "isPromo": true,
+        "observedAt": "2026-10-03T19:04:16.543Z"
+      },
+      "mostExpensive": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 429900,
+        "currency": "HUF",
+        "priceEurCents": 1172,
+        "isPromo": false,
+        "observedAt": "2026-09-01T12:32:07.099Z"
+      },
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "priceCents": 195,
+          "currency": "EUR",
+          "priceEurCents": 195,
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:04:16.543Z"
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "priceCents": 595,
+          "currency": "EUR",
+          "priceEurCents": 595,
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:30.185Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 429900,
+          "currency": "HUF",
+          "priceEurCents": 1172,
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:07.099Z"
         }
       ]
     },
@@ -3541,6 +3532,15 @@
           "priceEurCents": 504,
           "isPromo": false,
           "observedAt": "2026-09-01T12:29:46.464Z"
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "priceCents": 445,
+          "currency": "EUR",
+          "priceEurCents": 445,
+          "isPromo": false,
+          "observedAt": "2026-10-24T12:39:17.623Z"
         }
       ]
     },
@@ -5778,11 +5778,11 @@
         {
           "countryCode": "HU",
           "shopId": "dm-hu",
-          "priceCents": 199900,
+          "priceCents": 229900,
           "currency": "HUF",
-          "priceEurCents": 545,
+          "priceEurCents": 627,
           "isPromo": false,
-          "observedAt": "2026-09-01T12:31:12.182Z"
+          "observedAt": "2026-10-24T12:39:26.268Z"
         }
       ]
     },
