@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-26T10:51:10.784Z",
+  "generatedAt": "2026-10-27T10:16:44.075Z",
   "fx": {
-    "asOf": "2026-10-23",
+    "asOf": "2026-10-26",
     "rates": {
-      "USD": 1.1193,
-      "JPY": 175.51,
-      "CZK": 24.327,
-      "DKK": 7.4748,
-      "GBP": 0.83728,
-      "HUF": 366.73,
-      "PLN": 4.3945,
-      "RON": 5.3492,
-      "SEK": 11.131,
-      "CHF": 0.9227,
-      "ISK": 136.2,
-      "NOK": 10.4665,
-      "TRY": 55.6715,
-      "AUD": 1.5939,
-      "BRL": 5.6485,
-      "CAD": 1.5665,
-      "CNY": 7.466,
-      "HKD": 8.7793,
-      "IDR": 20268.06,
-      "ILS": 3.4939,
-      "INR": 106.272,
-      "KRW": 1482.46,
-      "MXN": 21.0226,
-      "MYR": 4.5729,
-      "NZD": 1.9682,
-      "PHP": 71.235,
-      "SGD": 1.431,
-      "THB": 37.771,
-      "ZAR": 18.5777
+      "USD": 1.1188,
+      "JPY": 176.15,
+      "CZK": 24.369,
+      "DKK": 7.4747,
+      "GBP": 0.8382,
+      "HUF": 367.45,
+      "PLN": 4.4038,
+      "RON": 5.3473,
+      "SEK": 11.1385,
+      "CHF": 0.9243,
+      "ISK": 136.4,
+      "NOK": 10.4545,
+      "TRY": 55.6746,
+      "AUD": 1.5927,
+      "BRL": 6.2523,
+      "CAD": 1.5695,
+      "CNY": 7.4603,
+      "HKD": 8.7768,
+      "IDR": 20320.32,
+      "ILS": 3.4458,
+      "INR": 106.4935,
+      "KRW": 1482.72,
+      "MXN": 20.8271,
+      "MYR": 4.5731,
+      "NZD": 1.9695,
+      "PHP": 71.54,
+      "SGD": 1.4327,
+      "THB": 37.821,
+      "ZAR": 18.6046
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -200,9 +200,9 @@
           "observedAt": "2026-10-18T12:36:09.737Z",
           "lastSeenAt": "2026-10-18T12:36:09.737Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 818,
+          "currentPriceEurCents": 816,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 818
+          "referencePriceEurCents": 816
         }
       ]
     },
@@ -427,9 +427,9 @@
           "observedAt": "2026-09-01T12:31:28.672Z",
           "lastSeenAt": "2026-10-20T13:32:51.463Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 491,
+          "currentPriceEurCents": 490,
           "referencePriceCents": 179900,
-          "referencePriceEurCents": 491
+          "referencePriceEurCents": 490
         }
       ]
     },
@@ -478,7 +478,7 @@
           "observedAt": "2026-10-03T19:06:17.999Z",
           "lastSeenAt": "2026-10-03T19:06:17.999Z",
           "currentPriceCents": 29900,
-          "currentPriceEurCents": 82,
+          "currentPriceEurCents": 81,
           "referencePriceCents": 59900,
           "referencePriceEurCents": 163
         }
@@ -522,47 +522,10 @@
       ]
     },
     {
-      "productId": 2378,
-      "brand": "Denkmit",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 169.23,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Vlažne maramice za čišćenje jako zaprljanih ploha, 20 kom.",
-          "url": "https://www.dm.hr/p/d/3042324/denkmit-vlazne-maramice-za-ciscenje-jako-zaprljanih-ploha",
-          "isPromo": true,
-          "observedAt": "2026-10-01T15:25:53.408Z",
-          "lastSeenAt": "2026-10-01T15:25:53.408Z",
-          "currentPriceCents": 120,
-          "currentPriceEurCents": 120,
-          "referencePriceCents": 175,
-          "referencePriceEurCents": 175
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Vlažne večnamenske krpice, 20 kos",
-          "url": "https://www.dm.si/p/d/3042324/denkmit-vlazne-vecnamenske-krpice",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:30.185Z",
-          "lastSeenAt": "2026-10-03T19:13:30.185Z",
-          "currentPriceCents": 45,
-          "currentPriceEurCents": 45,
-          "referencePriceCents": 65,
-          "referencePriceEurCents": 65
-        }
-      ]
-    },
-    {
       "productId": 15006,
       "brand": "NIVEA",
       "isCountryExtreme": true,
-      "overallPercentDiff": 167.61,
+      "overallPercentDiff": 169.5,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -617,9 +580,46 @@
           "observedAt": "2026-10-03T19:06:10.259Z",
           "lastSeenAt": "2026-10-03T19:06:10.259Z",
           "currentPriceCents": 25900,
-          "currentPriceEurCents": 71,
+          "currentPriceEurCents": 70,
           "referencePriceCents": 51900,
-          "referencePriceEurCents": 142
+          "referencePriceEurCents": 141
+        }
+      ]
+    },
+    {
+      "productId": 2378,
+      "brand": "Denkmit",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 169.23,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Vlažne maramice za čišćenje jako zaprljanih ploha, 20 kom.",
+          "url": "https://www.dm.hr/p/d/3042324/denkmit-vlazne-maramice-za-ciscenje-jako-zaprljanih-ploha",
+          "isPromo": true,
+          "observedAt": "2026-10-01T15:25:53.408Z",
+          "lastSeenAt": "2026-10-01T15:25:53.408Z",
+          "currentPriceCents": 120,
+          "currentPriceEurCents": 120,
+          "referencePriceCents": 175,
+          "referencePriceEurCents": 175
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Vlažne večnamenske krpice, 20 kos",
+          "url": "https://www.dm.si/p/d/3042324/denkmit-vlazne-vecnamenske-krpice",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:30.185Z",
+          "lastSeenAt": "2026-10-03T19:13:30.185Z",
+          "currentPriceCents": 45,
+          "currentPriceEurCents": 45,
+          "referencePriceCents": 65,
+          "referencePriceEurCents": 65
         }
       ]
     },
@@ -722,6 +722,57 @@
           "currentPriceEurCents": 136,
           "referencePriceCents": 49900,
           "referencePriceEurCents": 136
+        }
+      ]
+    },
+    {
+      "productId": 2493,
+      "brand": "FERRAGAMO",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 152.76,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Signorina Misteriosa edp, 30 ml",
+          "url": "https://www.dm.hr/p/d/1896751/ferragamo-signorina-misteriosa-edp",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:59:12.991Z",
+          "lastSeenAt": "2026-10-22T13:45:10.296Z",
+          "currentPriceCents": 6190,
+          "currentPriceEurCents": 6190,
+          "referencePriceCents": 6190,
+          "referencePriceEurCents": 6190
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Parfumska voda Signorina Misteriosa, 30 ml",
+          "url": "https://www.dm.si/p/d/1896751/ferragamo-parfumska-voda-signorina-misteriosa",
+          "isPromo": false,
+          "observedAt": "2026-09-22T13:23:31.787Z",
+          "lastSeenAt": "2026-10-22T13:45:51.602Z",
+          "currentPriceCents": 6095,
+          "currentPriceEurCents": 6095,
+          "referencePriceCents": 6095,
+          "referencePriceEurCents": 6095
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "EdP Misteriosa, 30 ml",
+          "url": "https://www.dm.hu/p/d/1896751/ferragamo-edp-misteriosa",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:10.259Z",
+          "lastSeenAt": "2026-10-03T19:06:10.259Z",
+          "currentPriceCents": 449900,
+          "currentPriceEurCents": 1224,
+          "referencePriceCents": 899900,
+          "referencePriceEurCents": 2449
         }
       ]
     },
@@ -874,61 +925,10 @@
       ]
     },
     {
-      "productId": 2493,
-      "brand": "FERRAGAMO",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 152.24,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Signorina Misteriosa edp, 30 ml",
-          "url": "https://www.dm.hr/p/d/1896751/ferragamo-signorina-misteriosa-edp",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:59:12.991Z",
-          "lastSeenAt": "2026-10-22T13:45:10.296Z",
-          "currentPriceCents": 6190,
-          "currentPriceEurCents": 6190,
-          "referencePriceCents": 6190,
-          "referencePriceEurCents": 6190
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Parfumska voda Signorina Misteriosa, 30 ml",
-          "url": "https://www.dm.si/p/d/1896751/ferragamo-parfumska-voda-signorina-misteriosa",
-          "isPromo": false,
-          "observedAt": "2026-09-22T13:23:31.787Z",
-          "lastSeenAt": "2026-10-22T13:45:51.602Z",
-          "currentPriceCents": 6095,
-          "currentPriceEurCents": 6095,
-          "referencePriceCents": 6095,
-          "referencePriceEurCents": 6095
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "EdP Misteriosa, 30 ml",
-          "url": "https://www.dm.hu/p/d/1896751/ferragamo-edp-misteriosa",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:06:10.259Z",
-          "lastSeenAt": "2026-10-03T19:06:10.259Z",
-          "currentPriceCents": 449900,
-          "currentPriceEurCents": 1227,
-          "referencePriceCents": 899900,
-          "referencePriceEurCents": 2454
-        }
-      ]
-    },
-    {
       "productId": 11106,
       "brand": "Jordan",
       "isCountryExtreme": true,
-      "overallPercentDiff": 145.83,
+      "overallPercentDiff": 147.9,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -969,9 +969,9 @@
           "observedAt": "2026-09-01T12:30:35.474Z",
           "lastSeenAt": "2026-10-12T17:51:42.466Z",
           "currentPriceCents": 43900,
-          "currentPriceEurCents": 120,
+          "currentPriceEurCents": 119,
           "referencePriceCents": 43900,
-          "referencePriceEurCents": 120
+          "referencePriceEurCents": 119
         }
       ]
     },
@@ -979,7 +979,7 @@
       "productId": 12130,
       "brand": "Jordan",
       "isCountryExtreme": true,
-      "overallPercentDiff": 145.83,
+      "overallPercentDiff": 147.9,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1020,9 +1020,9 @@
           "observedAt": "2026-09-01T12:30:32.566Z",
           "lastSeenAt": "2026-10-05T17:07:29.410Z",
           "currentPriceCents": 43900,
-          "currentPriceEurCents": 120,
+          "currentPriceEurCents": 119,
           "referencePriceCents": 43900,
-          "referencePriceEurCents": 120
+          "referencePriceEurCents": 119
         }
       ]
     },
@@ -1030,7 +1030,7 @@
       "productId": 2245,
       "brand": "Dontodent PRO+",
       "isCountryExtreme": true,
-      "overallPercentDiff": 145.54,
+      "overallPercentDiff": 147.75,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1099,9 +1099,9 @@
           "observedAt": "2026-09-01T12:29:46.464Z",
           "lastSeenAt": "2026-10-17T12:10:22.820Z",
           "currentPriceCents": 40900,
-          "currentPriceEurCents": 112,
+          "currentPriceEurCents": 111,
           "referencePriceCents": 40900,
-          "referencePriceEurCents": 112
+          "referencePriceEurCents": 111
         }
       ]
     },
@@ -1268,6 +1268,85 @@
       ]
     },
     {
+      "productId": 12578,
+      "brand": "Balea PROFESSIONAL",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 134.04,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Šampon za obnovu oštećene kose i jačanje korijena..., 250 ml",
+          "url": "https://www.dm.hr/p/d/1624322/balea-professional-sampon-za-obnovu-ostecene-kose-i-jacanje-korijena-kose",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:15.395Z",
+          "lastSeenAt": "2026-10-19T15:34:17.188Z",
+          "currentPriceCents": 330,
+          "currentPriceEurCents": 330,
+          "referencePriceCents": 330,
+          "referencePriceEurCents": 330
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Šampon za lase WACHSTUM + STÄRKE, 250 ml",
+          "url": "https://www.dm.si/p/d/1624322/balea-professional-sampon-za-lase-wachstum-starke",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:05.929Z",
+          "lastSeenAt": "2026-10-19T15:34:12.359Z",
+          "currentPriceCents": 265,
+          "currentPriceEurCents": 265,
+          "referencePriceCents": 265,
+          "referencePriceEurCents": 265
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Shampoo Wachstum und Stärke, 250 ml",
+          "url": "https://www.dm.at/p/d/1624322/balea-professional-shampoo-wachstum-und-staerke",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:13.158Z",
+          "lastSeenAt": "2026-10-19T15:34:27.141Z",
+          "currentPriceCents": 265,
+          "currentPriceEurCents": 265,
+          "referencePriceCents": 265,
+          "referencePriceEurCents": 265
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Shampoo Wachstum + Stärke, 250 ml",
+          "url": "https://www.dm.de/p/d/1624322/balea-professional-shampoo-wachstum-staerke",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:19.091Z",
+          "lastSeenAt": "2026-10-19T15:34:33.938Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 195,
+          "referencePriceEurCents": 195
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Növekedést segítő és hajerősítő sampon, gyenge és..., 250 ml",
+          "url": "https://www.dm.hu/p/d/1624322/balea-professional-novekedest-segito-es-hajerosito-sampon-gyenge-es-toredezett-hajra",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:17.495Z",
+          "lastSeenAt": "2026-10-19T15:34:35.501Z",
+          "currentPriceCents": 51900,
+          "currentPriceEurCents": 141,
+          "referencePriceCents": 51900,
+          "referencePriceEurCents": 141
+        }
+      ]
+    },
+    {
       "productId": 10299,
       "brand": "Dontodent",
       "isCountryExtreme": true,
@@ -1347,89 +1426,10 @@
       ]
     },
     {
-      "productId": 12578,
-      "brand": "Balea PROFESSIONAL",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 132.39,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Šampon za obnovu oštećene kose i jačanje korijena..., 250 ml",
-          "url": "https://www.dm.hr/p/d/1624322/balea-professional-sampon-za-obnovu-ostecene-kose-i-jacanje-korijena-kose",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:15.395Z",
-          "lastSeenAt": "2026-10-19T15:34:17.188Z",
-          "currentPriceCents": 330,
-          "currentPriceEurCents": 330,
-          "referencePriceCents": 330,
-          "referencePriceEurCents": 330
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Šampon za lase WACHSTUM + STÄRKE, 250 ml",
-          "url": "https://www.dm.si/p/d/1624322/balea-professional-sampon-za-lase-wachstum-starke",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:05.929Z",
-          "lastSeenAt": "2026-10-19T15:34:12.359Z",
-          "currentPriceCents": 265,
-          "currentPriceEurCents": 265,
-          "referencePriceCents": 265,
-          "referencePriceEurCents": 265
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Shampoo Wachstum und Stärke, 250 ml",
-          "url": "https://www.dm.at/p/d/1624322/balea-professional-shampoo-wachstum-und-staerke",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:13.158Z",
-          "lastSeenAt": "2026-10-19T15:34:27.141Z",
-          "currentPriceCents": 265,
-          "currentPriceEurCents": 265,
-          "referencePriceCents": 265,
-          "referencePriceEurCents": 265
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Shampoo Wachstum + Stärke, 250 ml",
-          "url": "https://www.dm.de/p/d/1624322/balea-professional-shampoo-wachstum-staerke",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:19.091Z",
-          "lastSeenAt": "2026-10-19T15:34:33.938Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Növekedést segítő és hajerősítő sampon, gyenge és..., 250 ml",
-          "url": "https://www.dm.hu/p/d/1624322/balea-professional-novekedest-segito-es-hajerosito-sampon-gyenge-es-toredezett-hajra",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:17.495Z",
-          "lastSeenAt": "2026-10-19T15:34:35.501Z",
-          "currentPriceCents": 51900,
-          "currentPriceEurCents": 142,
-          "referencePriceCents": 51900,
-          "referencePriceEurCents": 142
-        }
-      ]
-    },
-    {
       "productId": 6077,
       "brand": "Dontodent PRO+",
       "isCountryExtreme": true,
-      "overallPercentDiff": 131.09,
+      "overallPercentDiff": 133.05,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1470,9 +1470,9 @@
           "observedAt": "2026-09-01T12:31:37.751Z",
           "lastSeenAt": "2026-10-15T13:23:25.815Z",
           "currentPriceCents": 43500,
-          "currentPriceEurCents": 119,
+          "currentPriceEurCents": 118,
           "referencePriceCents": 43500,
-          "referencePriceEurCents": 119
+          "referencePriceEurCents": 118
         }
       ]
     },

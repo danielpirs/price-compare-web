@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-26T10:51:10.784Z",
+  "generatedAt": "2026-10-27T10:16:44.075Z",
   "fx": {
-    "asOf": "2026-10-23",
+    "asOf": "2026-10-26",
     "rates": {
-      "USD": 1.1193,
-      "JPY": 175.51,
-      "CZK": 24.327,
-      "DKK": 7.4748,
-      "GBP": 0.83728,
-      "HUF": 366.73,
-      "PLN": 4.3945,
-      "RON": 5.3492,
-      "SEK": 11.131,
-      "CHF": 0.9227,
-      "ISK": 136.2,
-      "NOK": 10.4665,
-      "TRY": 55.6715,
-      "AUD": 1.5939,
-      "BRL": 5.6485,
-      "CAD": 1.5665,
-      "CNY": 7.466,
-      "HKD": 8.7793,
-      "IDR": 20268.06,
-      "ILS": 3.4939,
-      "INR": 106.272,
-      "KRW": 1482.46,
-      "MXN": 21.0226,
-      "MYR": 4.5729,
-      "NZD": 1.9682,
-      "PHP": 71.235,
-      "SGD": 1.431,
-      "THB": 37.771,
-      "ZAR": 18.5777
+      "USD": 1.1188,
+      "JPY": 176.15,
+      "CZK": 24.369,
+      "DKK": 7.4747,
+      "GBP": 0.8382,
+      "HUF": 367.45,
+      "PLN": 4.4038,
+      "RON": 5.3473,
+      "SEK": 11.1385,
+      "CHF": 0.9243,
+      "ISK": 136.4,
+      "NOK": 10.4545,
+      "TRY": 55.6746,
+      "AUD": 1.5927,
+      "BRL": 6.2523,
+      "CAD": 1.5695,
+      "CNY": 7.4603,
+      "HKD": 8.7768,
+      "IDR": 20320.32,
+      "ILS": 3.4458,
+      "INR": 106.4935,
+      "KRW": 1482.72,
+      "MXN": 20.8271,
+      "MYR": 4.5731,
+      "NZD": 1.9695,
+      "PHP": 71.54,
+      "SGD": 1.4327,
+      "THB": 37.821,
+      "ZAR": 18.6046
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -316,9 +316,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-10-14T13:41:20.909Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 191,
+          "currentPriceEurCents": 190,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 191
+          "referencePriceEurCents": 190
         }
       ]
     },
@@ -370,6 +370,43 @@
           "currentPriceEurCents": 65,
           "referencePriceCents": 65,
           "referencePriceEurCents": 65
+        }
+      ]
+    },
+    {
+      "productId": 32727,
+      "brand": "alverde NATURKOSMETIK",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 264.2,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Abdeckstift & Contouring 01, 3,2 g",
+          "url": "https://www.dm.at/p/d/1453286/alverde-naturkosmetik-abdeckstift-und-contouring-01",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:02:15.740Z",
+          "lastSeenAt": "2026-10-03T19:02:15.740Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Kontúrozó és korrektor stift 01, 3,2 g",
+          "url": "https://www.dm.hu/p/d/1453286/alverde-naturkosmetik-konturozo-es-korrektor-stift-01",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:07.103Z",
+          "lastSeenAt": "2026-10-03T19:06:07.103Z",
+          "currentPriceCents": 14900,
+          "currentPriceEurCents": 41,
+          "referencePriceCents": 29900,
+          "referencePriceEurCents": 81
         }
       ]
     },
@@ -435,43 +472,6 @@
           "currentPriceEurCents": 68,
           "referencePriceCents": 49900,
           "referencePriceEurCents": 136
-        }
-      ]
-    },
-    {
-      "productId": 32727,
-      "brand": "alverde NATURKOSMETIK",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 259.76,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Abdeckstift & Contouring 01, 3,2 g",
-          "url": "https://www.dm.at/p/d/1453286/alverde-naturkosmetik-abdeckstift-und-contouring-01",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:02:15.740Z",
-          "lastSeenAt": "2026-10-03T19:02:15.740Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Kontúrozó és korrektor stift 01, 3,2 g",
-          "url": "https://www.dm.hu/p/d/1453286/alverde-naturkosmetik-konturozo-es-korrektor-stift-01",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:06:07.103Z",
-          "lastSeenAt": "2026-10-03T19:06:07.103Z",
-          "currentPriceCents": 14900,
-          "currentPriceEurCents": 41,
-          "referencePriceCents": 29900,
-          "referencePriceEurCents": 82
         }
       ]
     },
@@ -548,9 +548,9 @@
           "observedAt": "2026-10-19T15:34:35.501Z",
           "lastSeenAt": "2026-10-19T15:34:35.501Z",
           "currentPriceCents": 499900,
-          "currentPriceEurCents": 1363,
+          "currentPriceEurCents": 1360,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1363
+          "referencePriceEurCents": 1360
         }
       ]
     },
@@ -627,9 +627,9 @@
           "observedAt": "2026-10-25T13:10:24.522Z",
           "lastSeenAt": "2026-10-25T13:10:24.522Z",
           "currentPriceCents": 499900,
-          "currentPriceEurCents": 1363,
+          "currentPriceEurCents": 1360,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1363
+          "referencePriceEurCents": 1360
         }
       ]
     },
@@ -892,7 +892,7 @@
       "productId": 18509,
       "brand": "alverde NATURKOSMETIK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 223.17,
+      "overallPercentDiff": 227.16,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -949,7 +949,7 @@
           "currentPriceCents": 14900,
           "currentPriceEurCents": 41,
           "referencePriceCents": 29900,
-          "referencePriceEurCents": 82
+          "referencePriceEurCents": 81
         }
       ]
     },
@@ -957,7 +957,7 @@
       "productId": 39854,
       "brand": "Varta",
       "isCountryExtreme": true,
-      "overallPercentDiff": 218.81,
+      "overallPercentDiff": 220.28,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -968,7 +968,7 @@
           "url": "https://www.dm.at/p/d/1881911/varta-batterie-knopfzelle-cr-2032-lithium",
           "isPromo": false,
           "observedAt": "2026-08-30T22:38:15.463Z",
-          "lastSeenAt": "2026-09-26T13:03:06.341Z",
+          "lastSeenAt": "2026-10-26T15:09:33.669Z",
           "currentPriceCents": 695,
           "currentPriceEurCents": 695,
           "referencePriceCents": 695,
@@ -982,11 +982,11 @@
           "url": "https://www.dm.hu/p/d/1881911/varta-gombelem-cr-2032-litium",
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:00.665Z",
-          "lastSeenAt": "2026-09-26T13:03:14.475Z",
+          "lastSeenAt": "2026-10-26T15:09:43.287Z",
           "currentPriceCents": 79900,
-          "currentPriceEurCents": 218,
+          "currentPriceEurCents": 217,
           "referencePriceCents": 79900,
-          "referencePriceEurCents": 218
+          "referencePriceEurCents": 217
         }
       ]
     },
@@ -1434,7 +1434,7 @@
       "productId": 8829,
       "brand": "HADA LABO TOKYO",
       "isCountryExtreme": true,
-      "overallPercentDiff": 192.95,
+      "overallPercentDiff": 193.38,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1489,9 +1489,9 @@
           "observedAt": "2026-10-03T19:06:15.966Z",
           "lastSeenAt": "2026-10-03T19:06:15.966Z",
           "currentPriceCents": 124900,
-          "currentPriceEurCents": 341,
+          "currentPriceEurCents": 340,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 681
+          "referencePriceEurCents": 680
         }
       ]
     },

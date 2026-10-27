@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-26T10:51:10.784Z",
+  "generatedAt": "2026-10-27T10:16:44.075Z",
   "fx": {
-    "asOf": "2026-10-23",
+    "asOf": "2026-10-26",
     "rates": {
-      "USD": 1.1193,
-      "JPY": 175.51,
-      "CZK": 24.327,
-      "DKK": 7.4748,
-      "GBP": 0.83728,
-      "HUF": 366.73,
-      "PLN": 4.3945,
-      "RON": 5.3492,
-      "SEK": 11.131,
-      "CHF": 0.9227,
-      "ISK": 136.2,
-      "NOK": 10.4665,
-      "TRY": 55.6715,
-      "AUD": 1.5939,
-      "BRL": 5.6485,
-      "CAD": 1.5665,
-      "CNY": 7.466,
-      "HKD": 8.7793,
-      "IDR": 20268.06,
-      "ILS": 3.4939,
-      "INR": 106.272,
-      "KRW": 1482.46,
-      "MXN": 21.0226,
-      "MYR": 4.5729,
-      "NZD": 1.9682,
-      "PHP": 71.235,
-      "SGD": 1.431,
-      "THB": 37.771,
-      "ZAR": 18.5777
+      "USD": 1.1188,
+      "JPY": 176.15,
+      "CZK": 24.369,
+      "DKK": 7.4747,
+      "GBP": 0.8382,
+      "HUF": 367.45,
+      "PLN": 4.4038,
+      "RON": 5.3473,
+      "SEK": 11.1385,
+      "CHF": 0.9243,
+      "ISK": 136.4,
+      "NOK": 10.4545,
+      "TRY": 55.6746,
+      "AUD": 1.5927,
+      "BRL": 6.2523,
+      "CAD": 1.5695,
+      "CNY": 7.4603,
+      "HKD": 8.7768,
+      "IDR": 20320.32,
+      "ILS": 3.4458,
+      "INR": 106.4935,
+      "KRW": 1482.72,
+      "MXN": 20.8271,
+      "MYR": 4.5731,
+      "NZD": 1.9695,
+      "PHP": 71.54,
+      "SGD": 1.4327,
+      "THB": 37.821,
+      "ZAR": 18.6046
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -131,7 +131,7 @@
       "productId": 54274,
       "brand": "Cosrx",
       "isCountryExtreme": true,
-      "overallPercentDiff": 147.27,
+      "overallPercentDiff": 148.04,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -158,9 +158,9 @@
           "observedAt": "2026-10-03T19:06:07.103Z",
           "lastSeenAt": "2026-10-03T19:06:07.103Z",
           "currentPriceCents": 109900,
-          "currentPriceEurCents": 300,
+          "currentPriceEurCents": 299,
           "referencePriceCents": 234900,
-          "referencePriceEurCents": 641
+          "referencePriceEurCents": 639
         }
       ]
     },
@@ -242,7 +242,7 @@
       "productId": 3575,
       "brand": "Visiomax",
       "isCountryExtreme": true,
-      "overallPercentDiff": 125.52,
+      "overallPercentDiff": 126.32,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -297,9 +297,9 @@
           "observedAt": "2026-09-01T12:30:07.326Z",
           "lastSeenAt": "2026-10-19T15:34:35.501Z",
           "currentPriceCents": 104900,
-          "currentPriceEurCents": 286,
+          "currentPriceEurCents": 285,
           "referencePriceCents": 104900,
-          "referencePriceEurCents": 286
+          "referencePriceEurCents": 285
         }
       ]
     },
@@ -334,7 +334,7 @@
           "observedAt": "2026-10-03T19:06:13.313Z",
           "lastSeenAt": "2026-10-03T19:06:13.313Z",
           "currentPriceCents": 54900,
-          "currentPriceEurCents": 150,
+          "currentPriceEurCents": 149,
           "referencePriceCents": 114900,
           "referencePriceEurCents": 313
         }
@@ -517,85 +517,6 @@
       ]
     },
     {
-      "productId": 3337,
-      "brand": "Mivolis",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 105.26,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Vodoodporni otroški obliži v traku Aqua, 20 kos",
-          "url": "https://www.dm.si/p/d/1545732/mivolis-vodoodporni-otroski-oblizi-v-traku-aqua",
-          "isPromo": false,
-          "observedAt": "2026-09-26T13:02:55.204Z",
-          "lastSeenAt": "2026-09-26T13:02:55.204Z",
-          "currentPriceCents": 95,
-          "currentPriceEurCents": 95,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
-        },
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Vodootporni flasteri za djecu – morske životinje, 20 kom.",
-          "url": "https://www.dm.hr/p/d/1545732/mivolis-vodootporni-flasteri-za-djecu-morske-zivotinje",
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:05:59.485Z",
-          "lastSeenAt": "2026-09-26T13:02:59.112Z",
-          "currentPriceCents": 155,
-          "currentPriceEurCents": 155,
-          "referencePriceCents": 155,
-          "referencePriceEurCents": 155
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Aqua-Pflasterstrips für Kinder, 20 St",
-          "url": "https://www.dm.at/p/d/1545732/mivolis-aqua-pflasterstrips-fuer-kinder",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:59.459Z",
-          "lastSeenAt": "2026-09-26T13:03:04.783Z",
-          "currentPriceCents": 175,
-          "currentPriceEurCents": 175,
-          "referencePriceCents": 175,
-          "referencePriceEurCents": 175
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Aqua-Pflasterstrips für Kinder, 20 St",
-          "url": "https://www.dm.de/p/d/1545732/mivolis-aqua-pflasterstrips-fuer-kinder",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:36.786Z",
-          "lastSeenAt": "2026-09-26T13:03:10.554Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Vízálló sebtapaszok gyermekeknek három méretben, 20 db",
-          "url": "https://www.dm.hu/p/d/1545732/mivolis-vizallo-sebtapaszok-gyermekeknek-harom-meretben",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:28.672Z",
-          "lastSeenAt": "2026-09-26T13:03:14.475Z",
-          "currentPriceCents": 57900,
-          "currentPriceEurCents": 158,
-          "referencePriceCents": 57900,
-          "referencePriceEurCents": 158
-        }
-      ]
-    },
-    {
       "productId": 17872,
       "brand": "Profissimo",
       "isCountryExtreme": true,
@@ -636,7 +557,7 @@
       "productId": 13581,
       "brand": "MAYBELLINE NEW YORK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 104.85,
+      "overallPercentDiff": 105.15,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -691,9 +612,9 @@
           "observedAt": "2026-10-03T19:06:10.259Z",
           "lastSeenAt": "2026-10-03T19:06:10.259Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 491,
+          "currentPriceEurCents": 490,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 681
+          "referencePriceEurCents": 680
         }
       ]
     },
@@ -701,7 +622,7 @@
       "productId": 20232,
       "brand": "MAYBELLINE NEW YORK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 104.85,
+      "overallPercentDiff": 105.15,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -756,9 +677,9 @@
           "observedAt": "2026-10-03T19:06:10.259Z",
           "lastSeenAt": "2026-10-03T19:06:10.259Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 491,
+          "currentPriceEurCents": 490,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 681
+          "referencePriceEurCents": 680
         }
       ]
     },
@@ -821,9 +742,9 @@
           "observedAt": "2026-09-01T12:31:32.921Z",
           "lastSeenAt": "2026-10-06T11:14:44.822Z",
           "currentPriceCents": 109900,
-          "currentPriceEurCents": 300,
+          "currentPriceEurCents": 299,
           "referencePriceCents": 109900,
-          "referencePriceEurCents": 300
+          "referencePriceEurCents": 299
         }
       ]
     },
@@ -946,7 +867,7 @@
           "observedAt": "2026-10-03T19:06:07.103Z",
           "lastSeenAt": "2026-10-03T19:06:07.103Z",
           "currentPriceCents": 79900,
-          "currentPriceEurCents": 218,
+          "currentPriceEurCents": 217,
           "referencePriceCents": 99900,
           "referencePriceEurCents": 272
         }
@@ -997,7 +918,7 @@
           "observedAt": "2026-10-03T19:06:07.103Z",
           "lastSeenAt": "2026-10-03T19:06:07.103Z",
           "currentPriceCents": 79900,
-          "currentPriceEurCents": 218,
+          "currentPriceEurCents": 217,
           "referencePriceCents": 99900,
           "referencePriceEurCents": 272
         }
@@ -1189,7 +1110,7 @@
           "currentPriceCents": 59900,
           "currentPriceEurCents": 163,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 191
+          "referencePriceEurCents": 190
         }
       ]
     },
@@ -1328,7 +1249,7 @@
           "currentPriceCents": 59900,
           "currentPriceEurCents": 163,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 191
+          "referencePriceEurCents": 190
         }
       ]
     },
@@ -1377,7 +1298,7 @@
           "observedAt": "2026-10-03T19:06:07.103Z",
           "lastSeenAt": "2026-10-03T19:06:07.103Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 191,
+          "currentPriceEurCents": 190,
           "referencePriceCents": 89900,
           "referencePriceEurCents": 245
         },
@@ -1442,7 +1363,7 @@
           "observedAt": "2026-10-03T19:06:10.259Z",
           "lastSeenAt": "2026-10-03T19:06:10.259Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 191,
+          "currentPriceEurCents": 190,
           "referencePriceCents": 89900,
           "referencePriceEurCents": 245
         }
@@ -1496,6 +1417,43 @@
           "currentPriceEurCents": 136,
           "referencePriceCents": 59900,
           "referencePriceEurCents": 163
+        }
+      ]
+    },
+    {
+      "productId": 63840,
+      "brand": "Calvin Klein",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 88.08,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Eau de Toilette One Gold, 100 ml",
+          "url": "https://www.dm.at/p/d/2951627/calvin-klein-eau-de-toilette-one-gold",
+          "isPromo": false,
+          "observedAt": "2026-09-23T13:37:10.239Z",
+          "lastSeenAt": "2026-10-23T13:22:42.990Z",
+          "currentPriceCents": 2390,
+          "currentPriceEurCents": 2390,
+          "referencePriceCents": 2390,
+          "referencePriceEurCents": 2390
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "One Gold Eau de Toilette, 100 ml",
+          "url": "https://www.dm.de/p/d/2951627/calvin-klein-one-gold-eau-de-toilette",
+          "isPromo": false,
+          "observedAt": "2026-10-23T13:22:46.439Z",
+          "lastSeenAt": "2026-10-23T13:22:46.439Z",
+          "currentPriceCents": 4495,
+          "currentPriceEurCents": 4495,
+          "referencePriceCents": 4495,
+          "referencePriceEurCents": 4495
         }
       ]
     }
