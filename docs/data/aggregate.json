@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-27T10:16:44.075Z",
+  "generatedAt": "2026-10-28T11:09:01.720Z",
   "fx": {
-    "asOf": "2026-10-26",
+    "asOf": "2026-10-27",
     "rates": {
-      "USD": 1.1188,
-      "JPY": 176.15,
-      "CZK": 24.369,
-      "DKK": 7.4747,
-      "GBP": 0.8382,
-      "HUF": 367.45,
-      "PLN": 4.4038,
-      "RON": 5.3473,
-      "SEK": 11.1385,
-      "CHF": 0.9243,
+      "USD": 1.115,
+      "JPY": 175.97,
+      "CZK": 24.348,
+      "DKK": 7.4742,
+      "GBP": 0.83658,
+      "HUF": 367.48,
+      "PLN": 4.402,
+      "RON": 5.3488,
+      "SEK": 11.0795,
+      "CHF": 0.9239,
       "ISK": 136.4,
-      "NOK": 10.4545,
-      "TRY": 55.6746,
-      "AUD": 1.5927,
-      "BRL": 6.2523,
-      "CAD": 1.5695,
-      "CNY": 7.4603,
-      "HKD": 8.7768,
-      "IDR": 20320.32,
-      "ILS": 3.4458,
-      "INR": 106.4935,
-      "KRW": 1482.72,
-      "MXN": 20.8271,
-      "MYR": 4.5731,
-      "NZD": 1.9695,
-      "PHP": 71.54,
-      "SGD": 1.4327,
-      "THB": 37.821,
-      "ZAR": 18.6046
+      "NOK": 10.3885,
+      "TRY": 55.513,
+      "AUD": 1.5856,
+      "BRL": 5.9624,
+      "CAD": 1.5636,
+      "CNY": 7.4343,
+      "HKD": 8.7466,
+      "IDR": 20224.54,
+      "ILS": 3.4003,
+      "INR": 106.0635,
+      "KRW": 1480.44,
+      "MXN": 20.78,
+      "MYR": 4.5592,
+      "NZD": 1.9552,
+      "PHP": 71.353,
+      "SGD": 1.4285,
+      "THB": 37.654,
+      "ZAR": 18.5633
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -281,59 +281,6 @@
           "priceEurCents": 490,
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:28.672Z"
-        }
-      ]
-    },
-    {
-      "productId": 7208,
-      "name": "Tablete za pranje zuba s ﬂuoridom, 62 kom.",
-      "brand": "Dontodent",
-      "percentDiff": 880,
-      "cheapest": {
-        "countryCode": "HR",
-        "shopId": "dm-hr",
-        "priceCents": 25,
-        "currency": "EUR",
-        "priceEurCents": 25,
-        "isPromo": true,
-        "observedAt": "2026-09-27T13:55:46.191Z"
-      },
-      "mostExpensive": {
-        "countryCode": "SI",
-        "shopId": "dm-si",
-        "priceCents": 245,
-        "currency": "EUR",
-        "priceEurCents": 245,
-        "isPromo": false,
-        "observedAt": "2026-08-30T22:35:13.105Z"
-      },
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "priceCents": 25,
-          "currency": "EUR",
-          "priceEurCents": 25,
-          "isPromo": true,
-          "observedAt": "2026-09-27T13:55:46.191Z"
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 245,
-          "currency": "EUR",
-          "priceEurCents": 245,
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:13.105Z"
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "priceCents": 145,
-          "currency": "EUR",
-          "priceEurCents": 145,
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:59.910Z"
         }
       ]
     },
@@ -703,7 +650,7 @@
       "productId": 11299,
       "name": "Colour Glow In The Dark duda varalica Sage/Cloud,..., 2 kom.",
       "brand": "BIBS",
-      "percentDiff": 652.26,
+      "percentDiff": 651.76,
       "cheapest": {
         "countryCode": "SI",
         "shopId": "dm-si",
@@ -718,7 +665,7 @@
         "shopId": "dm-hu",
         "priceCents": 549900,
         "currency": "HUF",
-        "priceEurCents": 1497,
+        "priceEurCents": 1496,
         "isPromo": false,
         "observedAt": "2026-09-01T12:29:59.422Z"
       },
@@ -755,7 +702,7 @@
           "shopId": "dm-hu",
           "priceCents": 549900,
           "currency": "HUF",
-          "priceEurCents": 1497,
+          "priceEurCents": 1496,
           "isPromo": false,
           "observedAt": "2026-09-01T12:29:59.422Z"
         }
@@ -1225,59 +1172,6 @@
           "priceEurCents": 272,
           "isPromo": true,
           "observedAt": "2026-10-03T19:06:11.832Z"
-        }
-      ]
-    },
-    {
-      "productId": 8229,
-      "name": "Face Contouring set za konturiranje, 7,5 g",
-      "brand": "trend !t up",
-      "percentDiff": 553,
-      "cheapest": {
-        "countryCode": "HR",
-        "shopId": "dm-hr",
-        "priceCents": 100,
-        "currency": "EUR",
-        "priceEurCents": 100,
-        "isPromo": true,
-        "observedAt": "2026-10-03T19:04:16.543Z"
-      },
-      "mostExpensive": {
-        "countryCode": "HU",
-        "shopId": "dm-hu",
-        "priceCents": 239900,
-        "currency": "HUF",
-        "priceEurCents": 653,
-        "isPromo": false,
-        "observedAt": "2026-09-01T12:33:11.663Z"
-      },
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "priceCents": 100,
-          "currency": "EUR",
-          "priceEurCents": 100,
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:04:16.543Z"
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 299,
-          "currency": "EUR",
-          "priceEurCents": 299,
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:14.941Z"
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "priceCents": 239900,
-          "currency": "HUF",
-          "priceEurCents": 653,
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:33:11.663Z"
         }
       ]
     },
@@ -3335,7 +3229,7 @@
       "productId": 10595,
       "name": "Volumissime Royale x10 maskara – Black, 7,5 ml",
       "brand": "L'ORÉAL PARiS",
-      "percentDiff": 411.02,
+      "percentDiff": 410.61,
       "cheapest": {
         "countryCode": "HR",
         "shopId": "dm-hr",
@@ -3350,7 +3244,7 @@
         "shopId": "dm-hu",
         "priceCents": 459900,
         "currency": "HUF",
-        "priceEurCents": 1252,
+        "priceEurCents": 1251,
         "isPromo": false,
         "observedAt": "2026-09-01T12:32:25.549Z"
       },
@@ -3396,7 +3290,7 @@
           "shopId": "dm-hu",
           "priceCents": 459900,
           "currency": "HUF",
-          "priceEurCents": 1252,
+          "priceEurCents": 1251,
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:25.549Z"
         }
@@ -5366,7 +5260,7 @@
       "productId": 41748,
       "name": "Strumpfhose glänzend powder Gr. 50/52, 15 DEN, 1 St",
       "brand": "Fascino",
-      "percentDiff": 359.38,
+      "percentDiff": 358.75,
       "cheapest": {
         "countryCode": "DE",
         "shopId": "dm-de",
@@ -5381,7 +5275,7 @@
         "shopId": "dm-hu",
         "priceCents": 269900,
         "currency": "HUF",
-        "priceEurCents": 735,
+        "priceEurCents": 734,
         "isPromo": false,
         "observedAt": "2026-09-01T12:30:07.326Z"
       },
@@ -5400,7 +5294,7 @@
           "shopId": "dm-hu",
           "priceCents": 269900,
           "currency": "HUF",
-          "priceEurCents": 735,
+          "priceEurCents": 734,
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:07.326Z"
         }
@@ -6055,13 +5949,13 @@
       "productId": 13207,
       "name": "United men edt, 50 ml",
       "brand": "s.Oliver",
-      "percentDiff": 348.3,
+      "percentDiff": 348.91,
       "cheapest": {
         "countryCode": "HU",
         "shopId": "dm-hu",
         "priceCents": 269900,
         "currency": "HUF",
-        "priceEurCents": 735,
+        "priceEurCents": 734,
         "isPromo": true,
         "observedAt": "2026-10-03T19:06:17.999Z"
       },
@@ -6107,7 +6001,7 @@
           "shopId": "dm-hu",
           "priceCents": 269900,
           "currency": "HUF",
-          "priceEurCents": 735,
+          "priceEurCents": 734,
           "isPromo": true,
           "observedAt": "2026-10-03T19:06:17.999Z"
         }
@@ -8498,7 +8392,7 @@
       "productId": 6096,
       "name": "Detangling Mini četka za kosu The Devil Wears..., 1 kom.",
       "brand": "TANGLE TEEZER",
-      "percentDiff": 313.42,
+      "percentDiff": 313.16,
       "cheapest": {
         "countryCode": "HR",
         "shopId": "dm-hr",
@@ -8513,7 +8407,7 @@
         "shopId": "dm-hu",
         "priceCents": 599900,
         "currency": "HUF",
-        "priceEurCents": 1633,
+        "priceEurCents": 1632,
         "isPromo": false,
         "observedAt": "2026-09-01T12:32:47.738Z"
       },
@@ -8528,20 +8422,11 @@
           "observedAt": "2026-10-03T19:04:19.530Z"
         },
         {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 895,
-          "currency": "EUR",
-          "priceEurCents": 895,
-          "isPromo": true,
-          "observedAt": "2026-09-27T13:55:41.703Z"
-        },
-        {
           "countryCode": "HU",
           "shopId": "dm-hu",
           "priceCents": 599900,
           "currency": "HUF",
-          "priceEurCents": 1633,
+          "priceEurCents": 1632,
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:47.738Z"
         }
@@ -9045,13 +8930,13 @@
       "productId": 16115,
       "name": "Toaletna voda za ženske Red Jeans, 75 ml",
       "brand": "VERSACE",
-      "percentDiff": 306.8,
+      "percentDiff": 307.36,
       "cheapest": {
         "countryCode": "HU",
         "shopId": "dm-hu",
         "priceCents": 269900,
         "currency": "HUF",
-        "priceEurCents": 735,
+        "priceEurCents": 734,
         "isPromo": true,
         "observedAt": "2026-10-03T19:06:10.259Z"
       },
@@ -9079,7 +8964,7 @@
           "shopId": "dm-hu",
           "priceCents": 269900,
           "currency": "HUF",
-          "priceEurCents": 735,
+          "priceEurCents": 734,
           "isPromo": true,
           "observedAt": "2026-10-03T19:06:10.259Z"
         }
@@ -9397,7 +9282,7 @@
       "productId": 11323,
       "name": "bellissima edp, 60 ml",
       "brand": "bugatti",
-      "percentDiff": 302.6,
+      "percentDiff": 302.49,
       "cheapest": {
         "countryCode": "AT",
         "shopId": "dm-at",
@@ -9412,7 +9297,7 @@
         "shopId": "dm-hu",
         "priceCents": 1249900,
         "currency": "HUF",
-        "priceEurCents": 3402,
+        "priceEurCents": 3401,
         "isPromo": false,
         "observedAt": "2026-09-01T12:30:19.979Z"
       },
@@ -9440,7 +9325,7 @@
           "shopId": "dm-hu",
           "priceCents": 1249900,
           "currency": "HUF",
-          "priceEurCents": 3402,
+          "priceEurCents": 3401,
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:19.979Z"
         }
@@ -10202,6 +10087,112 @@
           "priceEurCents": 195,
           "isPromo": false,
           "observedAt": "2026-08-30T22:33:57.723Z"
+        }
+      ]
+    },
+    {
+      "productId": 7604,
+      "name": "Sensitiv krema za sunčanje, SPF 30, 100 ml",
+      "brand": "SUNDANCE",
+      "percentDiff": 289.91,
+      "cheapest": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 39900,
+        "currency": "HUF",
+        "priceEurCents": 109,
+        "isPromo": true,
+        "observedAt": "2026-10-09T15:16:31.469Z"
+      },
+      "mostExpensive": {
+        "countryCode": "AT",
+        "shopId": "dm-at",
+        "priceCents": 425,
+        "currency": "EUR",
+        "priceEurCents": 425,
+        "isPromo": false,
+        "observedAt": "2026-08-30T22:36:00.636Z"
+      },
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "priceCents": 360,
+          "currency": "EUR",
+          "priceEurCents": 360,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:45.205Z"
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "priceCents": 425,
+          "currency": "EUR",
+          "priceEurCents": 425,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:00.636Z"
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "priceCents": 295,
+          "currency": "EUR",
+          "priceEurCents": 295,
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:07.596Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 39900,
+          "currency": "HUF",
+          "priceEurCents": 109,
+          "isPromo": true,
+          "observedAt": "2026-10-09T15:16:31.469Z"
+        }
+      ]
+    },
+    {
+      "productId": 14945,
+      "name": "Cuté edp, 100 ml",
+      "brand": "LA RIVE",
+      "percentDiff": 289.71,
+      "cheapest": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 74900,
+        "currency": "HUF",
+        "priceEurCents": 204,
+        "isPromo": true,
+        "observedAt": "2026-10-03T19:06:07.103Z"
+      },
+      "mostExpensive": {
+        "countryCode": "HR",
+        "shopId": "dm-hr",
+        "priceCents": 795,
+        "currency": "EUR",
+        "priceEurCents": 795,
+        "isPromo": false,
+        "observedAt": "2026-08-30T22:33:28.940Z"
+      },
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "priceCents": 795,
+          "currency": "EUR",
+          "priceEurCents": 795,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:28.940Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 74900,
+          "currency": "HUF",
+          "priceEurCents": 204,
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:07.103Z"
         }
       ]
     }

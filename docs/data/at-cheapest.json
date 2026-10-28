@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-27T10:16:44.075Z",
+  "generatedAt": "2026-10-28T11:09:01.720Z",
   "fx": {
-    "asOf": "2026-10-26",
+    "asOf": "2026-10-27",
     "rates": {
-      "USD": 1.1188,
-      "JPY": 176.15,
-      "CZK": 24.369,
-      "DKK": 7.4747,
-      "GBP": 0.8382,
-      "HUF": 367.45,
-      "PLN": 4.4038,
-      "RON": 5.3473,
-      "SEK": 11.1385,
-      "CHF": 0.9243,
+      "USD": 1.115,
+      "JPY": 175.97,
+      "CZK": 24.348,
+      "DKK": 7.4742,
+      "GBP": 0.83658,
+      "HUF": 367.48,
+      "PLN": 4.402,
+      "RON": 5.3488,
+      "SEK": 11.0795,
+      "CHF": 0.9239,
       "ISK": 136.4,
-      "NOK": 10.4545,
-      "TRY": 55.6746,
-      "AUD": 1.5927,
-      "BRL": 6.2523,
-      "CAD": 1.5695,
-      "CNY": 7.4603,
-      "HKD": 8.7768,
-      "IDR": 20320.32,
-      "ILS": 3.4458,
-      "INR": 106.4935,
-      "KRW": 1482.72,
-      "MXN": 20.8271,
-      "MYR": 4.5731,
-      "NZD": 1.9695,
-      "PHP": 71.54,
-      "SGD": 1.4327,
-      "THB": 37.821,
-      "ZAR": 18.6046
+      "NOK": 10.3885,
+      "TRY": 55.513,
+      "AUD": 1.5856,
+      "BRL": 5.9624,
+      "CAD": 1.5636,
+      "CNY": 7.4343,
+      "HKD": 8.7466,
+      "IDR": 20224.54,
+      "ILS": 3.4003,
+      "INR": 106.0635,
+      "KRW": 1480.44,
+      "MXN": 20.78,
+      "MYR": 4.5592,
+      "NZD": 1.9552,
+      "PHP": 71.353,
+      "SGD": 1.4285,
+      "THB": 37.654,
+      "ZAR": 18.5633
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -363,7 +363,7 @@
       "productId": 10276,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 127.56,
+      "overallPercentDiff": 127.49,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -404,9 +404,9 @@
           "observedAt": "2026-09-01T12:30:19.979Z",
           "lastSeenAt": "2026-09-29T10:39:25.487Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3402,
+          "currentPriceEurCents": 3401,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3402
+          "referencePriceEurCents": 3401
         }
       ]
     },
@@ -414,7 +414,7 @@
       "productId": 14417,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 127.56,
+      "overallPercentDiff": 127.49,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -469,9 +469,9 @@
           "observedAt": "2026-09-01T12:30:19.979Z",
           "lastSeenAt": "2026-09-28T16:44:28.440Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3402,
+          "currentPriceEurCents": 3401,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3402
+          "referencePriceEurCents": 3401
         }
       ]
     },
@@ -606,10 +606,75 @@
       ]
     },
     {
+      "productId": 8539,
+      "brand": "Pampers Splashers",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 120,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Jednokratne pelene za kupanje vel. 3-4 (6-11 kg), 12 kom.",
+          "url": "https://www.dm.hr/p/d/1582118/pampers-splashers-jednokratne-pelene-za-kupanje-vel-3-4-6-11-kg",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:50.495Z",
+          "lastSeenAt": "2026-10-27T14:27:09.015Z",
+          "currentPriceCents": 795,
+          "currentPriceEurCents": 795,
+          "referencePriceCents": 795,
+          "referencePriceEurCents": 795
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Schwimmwindeln Splashers Gr.3-4 (6-11 kg), 12 St",
+          "url": "https://www.dm.at/p/d/1582118/pampers-splashers-schwimmwindeln-splashers-gr-3-4-6-11-kg",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:24.251Z",
+          "lastSeenAt": "2026-10-27T14:27:17.082Z",
+          "currentPriceCents": 445,
+          "currentPriceEurCents": 445,
+          "referencePriceCents": 445,
+          "referencePriceEurCents": 445
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Schwimmwindeln Gr. 3-4 (6-11 kg), 12 St",
+          "url": "https://www.dm.de/p/d/1582118/pampers-splashers-schwimmwindeln-gr-3-4-6-11-kg",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:48.945Z",
+          "lastSeenAt": "2026-10-27T14:27:23.016Z",
+          "currentPriceCents": 695,
+          "currentPriceEurCents": 695,
+          "referencePriceCents": 695,
+          "referencePriceEurCents": 695
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Úszópelenka midi 6-11 kg, 12 db",
+          "url": "https://www.dm.hu/p/d/1582118/pampers-splashers-uszopelenka-midi-6-11-kg",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:02.558Z",
+          "lastSeenAt": "2026-10-27T14:27:30.381Z",
+          "currentPriceCents": 359900,
+          "currentPriceEurCents": 979,
+          "referencePriceCents": 359900,
+          "referencePriceEurCents": 979
+        }
+      ]
+    },
+    {
       "productId": 16252,
       "brand": "Jessa",
       "isCountryExtreme": true,
-      "overallPercentDiff": 121.18,
+      "overallPercentDiff": 120,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -664,74 +729,9 @@
           "observedAt": "2026-09-01T12:31:10.517Z",
           "lastSeenAt": "2026-10-26T15:09:43.287Z",
           "currentPriceCents": 68900,
-          "currentPriceEurCents": 188,
+          "currentPriceEurCents": 187,
           "referencePriceCents": 68900,
-          "referencePriceEurCents": 188
-        }
-      ]
-    },
-    {
-      "productId": 8539,
-      "brand": "Pampers Splashers",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 120,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Jednokratne pelene za kupanje vel. 3-4 (6-11 kg), 12 kom.",
-          "url": "https://www.dm.hr/p/d/1582118/pampers-splashers-jednokratne-pelene-za-kupanje-vel-3-4-6-11-kg",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:50.495Z",
-          "lastSeenAt": "2026-09-27T13:55:47.839Z",
-          "currentPriceCents": 795,
-          "currentPriceEurCents": 795,
-          "referencePriceCents": 795,
-          "referencePriceEurCents": 795
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Schwimmwindeln Splashers Gr.3-4 (6-11 kg), 12 St",
-          "url": "https://www.dm.at/p/d/1582118/pampers-splashers-schwimmwindeln-splashers-gr-3-4-6-11-kg",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:24.251Z",
-          "lastSeenAt": "2026-09-27T13:55:51.406Z",
-          "currentPriceCents": 445,
-          "currentPriceEurCents": 445,
-          "referencePriceCents": 445,
-          "referencePriceEurCents": 445
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Schwimmwindeln Gr. 3-4 (6-11 kg), 12 St",
-          "url": "https://www.dm.de/p/d/1582118/pampers-splashers-schwimmwindeln-gr-3-4-6-11-kg",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:48.945Z",
-          "lastSeenAt": "2026-09-27T13:55:58.149Z",
-          "currentPriceCents": 695,
-          "currentPriceEurCents": 695,
-          "referencePriceCents": 695,
-          "referencePriceEurCents": 695
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Úszópelenka midi 6-11 kg, 12 db",
-          "url": "https://www.dm.hu/p/d/1582118/pampers-splashers-uszopelenka-midi-6-11-kg",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:02.558Z",
-          "lastSeenAt": "2026-09-27T13:56:03.197Z",
-          "currentPriceCents": 359900,
-          "currentPriceEurCents": 979,
-          "referencePriceCents": 359900,
-          "referencePriceEurCents": 979
+          "referencePriceEurCents": 187
         }
       ]
     },
@@ -859,9 +859,9 @@
           "observedAt": "2026-10-26T15:09:43.287Z",
           "lastSeenAt": "2026-10-26T15:09:43.287Z",
           "currentPriceCents": 1299900,
-          "currentPriceEurCents": 3538,
+          "currentPriceEurCents": 3537,
           "referencePriceCents": 1299900,
-          "referencePriceEurCents": 3538
+          "referencePriceEurCents": 3537
         }
       ]
     },
@@ -1140,6 +1140,57 @@
           "currentPriceEurCents": 65,
           "referencePriceCents": 95,
           "referencePriceEurCents": 95
+        }
+      ]
+    },
+    {
+      "productId": 28728,
+      "brand": "Calvin Klein",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 104.7,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Eau de Toilette ck be, 50 ml",
+          "url": "https://www.dm.at/p/d/1489431/calvin-klein-eau-de-toilette-ck-be",
+          "isPromo": false,
+          "observedAt": "2026-10-27T14:27:14.810Z",
+          "lastSeenAt": "2026-10-27T14:27:14.810Z",
+          "currentPriceCents": 1595,
+          "currentPriceEurCents": 1595,
+          "referencePriceCents": 1595,
+          "referencePriceEurCents": 1595
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "ck be Eau de Toilette, 50 ml",
+          "url": "https://www.dm.de/p/d/1489431/calvin-klein-ck-be-eau-de-toilette",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:37.315Z",
+          "lastSeenAt": "2026-10-27T14:27:24.951Z",
+          "currentPriceCents": 1995,
+          "currentPriceEurCents": 1995,
+          "referencePriceCents": 1995,
+          "referencePriceEurCents": 1995
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Uniszex EdT Be, 50 ml",
+          "url": "https://www.dm.hu/p/d/1489431/calvin-klein-uniszex-edt-be",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:22.301Z",
+          "lastSeenAt": "2026-10-27T14:27:28.630Z",
+          "currentPriceCents": 1199900,
+          "currentPriceEurCents": 3265,
+          "referencePriceCents": 1199900,
+          "referencePriceEurCents": 3265
         }
       ]
     },
@@ -1543,10 +1594,47 @@
       ]
     },
     {
+      "productId": 14479,
+      "brand": "LA RIVE",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 100.67,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Poklon-paket Charisme, 1 kom.",
+          "url": "https://www.dm.hr/p/d/3103028/la-rive-poklon-paket-charisme",
+          "isPromo": false,
+          "observedAt": "2026-10-16T13:13:41.587Z",
+          "lastSeenAt": "2026-10-16T13:13:41.587Z",
+          "currentPriceCents": 1495,
+          "currentPriceEurCents": 1495,
+          "referencePriceCents": 1495,
+          "referencePriceEurCents": 1495
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Geschenkset Charisme, 1 St",
+          "url": "https://www.dm.at/p/d/3103028/la-rive-geschenkset-charisme",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:45.712Z",
+          "lastSeenAt": "2026-10-16T13:13:48.901Z",
+          "currentPriceCents": 745,
+          "currentPriceEurCents": 745,
+          "referencePriceCents": 745,
+          "referencePriceEurCents": 745
+        }
+      ]
+    },
+    {
       "productId": 11323,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 100.71,
+      "overallPercentDiff": 100.65,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1587,83 +1675,9 @@
           "observedAt": "2026-09-01T12:30:19.979Z",
           "lastSeenAt": "2026-09-29T10:39:25.487Z",
           "currentPriceCents": 1249900,
-          "currentPriceEurCents": 3402,
+          "currentPriceEurCents": 3401,
           "referencePriceCents": 1249900,
-          "referencePriceEurCents": 3402
-        }
-      ]
-    },
-    {
-      "productId": 14479,
-      "brand": "LA RIVE",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 100.67,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Poklon-paket Charisme, 1 kom.",
-          "url": "https://www.dm.hr/p/d/3103028/la-rive-poklon-paket-charisme",
-          "isPromo": false,
-          "observedAt": "2026-10-16T13:13:41.587Z",
-          "lastSeenAt": "2026-10-16T13:13:41.587Z",
-          "currentPriceCents": 1495,
-          "currentPriceEurCents": 1495,
-          "referencePriceCents": 1495,
-          "referencePriceEurCents": 1495
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Geschenkset Charisme, 1 St",
-          "url": "https://www.dm.at/p/d/3103028/la-rive-geschenkset-charisme",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:45.712Z",
-          "lastSeenAt": "2026-10-16T13:13:48.901Z",
-          "currentPriceCents": 745,
-          "currentPriceEurCents": 745,
-          "referencePriceCents": 745,
-          "referencePriceEurCents": 745
-        }
-      ]
-    },
-    {
-      "productId": 872,
-      "brand": "Weißer Riese",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 100.63,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Praškasti deterdžent za rublje – Universal, 45..., 2,25 kg",
-          "url": "https://www.dm.hr/p/d/3130709/wei-er-riese-praskasti-deterdzent-za-rublje-universal-45-pranja",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:48:11.656Z",
-          "lastSeenAt": "2026-09-28T16:44:10.044Z",
-          "currentPriceCents": 1595,
-          "currentPriceEurCents": 1595,
-          "referencePriceCents": 1595,
-          "referencePriceEurCents": 1595
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Vollwaschmittel Pulver Riesenfrisch, 45 Wl",
-          "url": "https://www.dm.at/p/d/3130709/weisser-riese-vollwaschmittel-pulver-riesenfrisch",
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:43:30.608Z",
-          "lastSeenAt": "2026-09-28T16:44:12.879Z",
-          "currentPriceCents": 795,
-          "currentPriceEurCents": 795,
-          "referencePriceCents": 795,
-          "referencePriceEurCents": 795
+          "referencePriceEurCents": 3401
         }
       ]
     }
