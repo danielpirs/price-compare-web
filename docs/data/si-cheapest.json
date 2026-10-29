@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-28T11:09:01.720Z",
+  "generatedAt": "2026-10-29T11:22:14.211Z",
   "fx": {
-    "asOf": "2026-10-27",
+    "asOf": "2026-10-28",
     "rates": {
-      "USD": 1.115,
-      "JPY": 175.97,
-      "CZK": 24.348,
-      "DKK": 7.4742,
-      "GBP": 0.83658,
-      "HUF": 367.48,
-      "PLN": 4.402,
-      "RON": 5.3488,
-      "SEK": 11.0795,
-      "CHF": 0.9239,
-      "ISK": 136.4,
-      "NOK": 10.3885,
-      "TRY": 55.513,
-      "AUD": 1.5856,
-      "BRL": 5.9624,
-      "CAD": 1.5636,
-      "CNY": 7.4343,
-      "HKD": 8.7466,
-      "IDR": 20224.54,
-      "ILS": 3.4003,
-      "INR": 106.0635,
-      "KRW": 1480.44,
-      "MXN": 20.78,
-      "MYR": 4.5592,
-      "NZD": 1.9552,
-      "PHP": 71.353,
-      "SGD": 1.4285,
-      "THB": 37.654,
-      "ZAR": 18.5633
+      "USD": 1.1133,
+      "JPY": 175.86,
+      "CZK": 24.367,
+      "DKK": 7.4741,
+      "GBP": 0.83785,
+      "HUF": 366.88,
+      "PLN": 4.4045,
+      "RON": 5.3508,
+      "SEK": 11.056,
+      "CHF": 0.9247,
+      "ISK": 135.8,
+      "NOK": 10.3475,
+      "TRY": 55.4846,
+      "AUD": 1.583,
+      "BRL": 5.9307,
+      "CAD": 1.5638,
+      "CNY": 7.4217,
+      "HKD": 8.7339,
+      "IDR": 20235.79,
+      "ILS": 3.4801,
+      "INR": 106.0095,
+      "KRW": 1492.35,
+      "MXN": 20.7416,
+      "MYR": 4.5389,
+      "NZD": 1.9833,
+      "PHP": 71.24,
+      "SGD": 1.4274,
+      "THB": 37.602,
+      "ZAR": 18.5339
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -43,7 +43,7 @@
       "productId": 20693,
       "brand": "HALLOHEBAMME",
       "isCountryExtreme": true,
-      "overallPercentDiff": 690.91,
+      "overallPercentDiff": 692.73,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -86,7 +86,7 @@
           "currentPriceCents": 99900,
           "currentPriceEurCents": 272,
           "referencePriceCents": 159900,
-          "referencePriceEurCents": 435
+          "referencePriceEurCents": 436
         }
       ]
     },
@@ -94,7 +94,7 @@
       "productId": 21062,
       "brand": "HALLOHEBAMME",
       "isCountryExtreme": true,
-      "overallPercentDiff": 444.21,
+      "overallPercentDiff": 445.26,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -137,7 +137,7 @@
           "currentPriceCents": 99900,
           "currentPriceEurCents": 272,
           "referencePriceCents": 189900,
-          "referencePriceEurCents": 517
+          "referencePriceEurCents": 518
         }
       ]
     },
@@ -145,7 +145,7 @@
       "productId": 11299,
       "brand": "BIBS",
       "isCountryExtreme": true,
-      "overallPercentDiff": 407.12,
+      "overallPercentDiff": 408.14,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -200,9 +200,9 @@
           "observedAt": "2026-09-01T12:29:59.422Z",
           "lastSeenAt": "2026-10-01T15:26:09.549Z",
           "currentPriceCents": 549900,
-          "currentPriceEurCents": 1496,
+          "currentPriceEurCents": 1499,
           "referencePriceCents": 549900,
-          "referencePriceEurCents": 1496
+          "referencePriceEurCents": 1499
         }
       ]
     },
@@ -210,7 +210,7 @@
       "productId": 9358,
       "brand": "BIBS",
       "isCountryExtreme": true,
-      "overallPercentDiff": 389.67,
+      "overallPercentDiff": 390.67,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -251,9 +251,9 @@
           "observedAt": "2026-09-01T12:32:25.549Z",
           "lastSeenAt": "2026-10-21T13:44:49.512Z",
           "currentPriceCents": 539900,
-          "currentPriceEurCents": 1469,
+          "currentPriceEurCents": 1472,
           "referencePriceCents": 539900,
-          "referencePriceEurCents": 1469
+          "referencePriceEurCents": 1472
         }
       ]
     },
@@ -261,7 +261,7 @@
       "productId": 21567,
       "brand": "Frosch",
       "isCountryExtreme": true,
-      "overallPercentDiff": 357.89,
+      "overallPercentDiff": 358.95,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -279,20 +279,6 @@
           "referencePriceEurCents": 95
         },
         {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Essigreiniger Essenz, 300 ml",
-          "url": "https://www.dm.at/p/d/1919488/frosch-essigreiniger-essenz",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:03.865Z",
-          "lastSeenAt": "2026-09-29T10:39:16.858Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
           "countryCode": "HU",
           "shopId": "dm-hu",
           "currency": "HUF",
@@ -304,7 +290,7 @@
           "currentPriceCents": 99900,
           "currentPriceEurCents": 272,
           "referencePriceCents": 159900,
-          "referencePriceEurCents": 435
+          "referencePriceEurCents": 436
         }
       ]
     },
@@ -400,7 +386,7 @@
       "productId": 17645,
       "brand": "Stella Jones",
       "isCountryExtreme": true,
-      "overallPercentDiff": 262.5,
+      "overallPercentDiff": 263.33,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -427,9 +413,9 @@
           "observedAt": "2026-09-01T12:30:10.466Z",
           "lastSeenAt": "2026-10-24T12:39:23.327Z",
           "currentPriceCents": 159900,
-          "currentPriceEurCents": 435,
+          "currentPriceEurCents": 436,
           "referencePriceCents": 159900,
-          "referencePriceEurCents": 435
+          "referencePriceEurCents": 436
         }
       ]
     },
@@ -576,7 +562,7 @@
       "productId": 2140,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 232.22,
+      "overallPercentDiff": 232.78,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -645,9 +631,9 @@
           "observedAt": "2026-09-01T12:31:00.665Z",
           "lastSeenAt": "2026-10-15T13:23:25.815Z",
           "currentPriceCents": 219900,
-          "currentPriceEurCents": 598,
+          "currentPriceEurCents": 599,
           "referencePriceCents": 219900,
-          "referencePriceEurCents": 598
+          "referencePriceEurCents": 599
         }
       ]
     },
@@ -655,7 +641,7 @@
       "productId": 55919,
       "brand": "Stella Jones",
       "isCountryExtreme": true,
-      "overallPercentDiff": 228.14,
+      "overallPercentDiff": 228.64,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -668,9 +654,9 @@
           "observedAt": "2026-09-01T12:30:13.724Z",
           "lastSeenAt": "2026-10-18T12:36:09.737Z",
           "currentPriceCents": 239900,
-          "currentPriceEurCents": 653,
+          "currentPriceEurCents": 654,
           "referencePriceCents": 239900,
-          "referencePriceEurCents": 653
+          "referencePriceEurCents": 654
         },
         {
           "countryCode": "SI",
@@ -689,47 +675,10 @@
       ]
     },
     {
-      "productId": 22234,
-      "brand": "Stella Jones",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 226.55,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Hlačne nogavice Energize 40 DEN, 46-48, črne, 1 kos",
-          "url": "https://www.dm.si/p/d/1724735/stella-jones-hlacne-nogavice-energize-40-den-46-48-crne",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:20.552Z",
-          "lastSeenAt": "2026-10-03T19:13:20.552Z",
-          "currentPriceCents": 199,
-          "currentPriceEurCents": 199,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Harisnyanadrág Energize 40 DEN, fekete, 46-48, 1 db",
-          "url": "https://www.dm.hu/p/d/1724735/stella-jones-harisnyanadrag-energize-40-den-fekete-46-48",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:10.466Z",
-          "lastSeenAt": "2026-10-16T13:14:00.743Z",
-          "currentPriceCents": 329900,
-          "currentPriceEurCents": 898,
-          "referencePriceCents": 329900,
-          "referencePriceEurCents": 898
-        }
-      ]
-    },
-    {
       "productId": 5557,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 225.45,
+      "overallPercentDiff": 227.27,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -784,9 +733,46 @@
           "observedAt": "2026-09-01T12:30:58.541Z",
           "lastSeenAt": "2026-10-01T15:26:09.549Z",
           "currentPriceCents": 65900,
-          "currentPriceEurCents": 179,
+          "currentPriceEurCents": 180,
           "referencePriceCents": 65900,
-          "referencePriceEurCents": 179
+          "referencePriceEurCents": 180
+        }
+      ]
+    },
+    {
+      "productId": 22234,
+      "brand": "Stella Jones",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 226.91,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Hlačne nogavice Energize 40 DEN, 46-48, črne, 1 kos",
+          "url": "https://www.dm.si/p/d/1724735/stella-jones-hlacne-nogavice-energize-40-den-46-48-crne",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:20.552Z",
+          "lastSeenAt": "2026-10-03T19:13:20.552Z",
+          "currentPriceCents": 199,
+          "currentPriceEurCents": 199,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Harisnyanadrág Energize 40 DEN, fekete, 46-48, 1 db",
+          "url": "https://www.dm.hu/p/d/1724735/stella-jones-harisnyanadrag-energize-40-den-fekete-46-48",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:10.466Z",
+          "lastSeenAt": "2026-10-16T13:14:00.743Z",
+          "currentPriceCents": 329900,
+          "currentPriceEurCents": 899,
+          "referencePriceCents": 329900,
+          "referencePriceEurCents": 899
         }
       ]
     },
@@ -831,7 +817,7 @@
       "productId": 20324,
       "brand": "Stella Jones",
       "isCountryExtreme": true,
-      "overallPercentDiff": 206.67,
+      "overallPercentDiff": 207.18,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -858,9 +844,9 @@
           "observedAt": "2026-09-01T12:30:13.724Z",
           "lastSeenAt": "2026-10-18T12:36:08.084Z",
           "currentPriceCents": 219900,
-          "currentPriceEurCents": 598,
+          "currentPriceEurCents": 599,
           "referencePriceCents": 219900,
-          "referencePriceEurCents": 598
+          "referencePriceEurCents": 599
         }
       ]
     },
@@ -868,7 +854,7 @@
       "productId": 24501,
       "brand": "Stella Jones",
       "isCountryExtreme": true,
-      "overallPercentDiff": 200.5,
+      "overallPercentDiff": 201.01,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -895,9 +881,9 @@
           "observedAt": "2026-09-01T12:30:10.466Z",
           "lastSeenAt": "2026-10-07T15:32:35.169Z",
           "currentPriceCents": 219900,
-          "currentPriceEurCents": 598,
+          "currentPriceEurCents": 599,
           "referencePriceCents": 219900,
-          "referencePriceEurCents": 598
+          "referencePriceEurCents": 599
         }
       ]
     },
@@ -905,7 +891,7 @@
       "productId": 25348,
       "brand": "Stella Jones",
       "isCountryExtreme": true,
-      "overallPercentDiff": 200,
+      "overallPercentDiff": 200.69,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -932,9 +918,9 @@
           "observedAt": "2026-09-01T12:30:13.724Z",
           "lastSeenAt": "2026-10-24T12:39:24.951Z",
           "currentPriceCents": 159900,
-          "currentPriceEurCents": 435,
+          "currentPriceEurCents": 436,
           "referencePriceCents": 159900,
-          "referencePriceEurCents": 435
+          "referencePriceEurCents": 436
         }
       ]
     },
@@ -1192,7 +1178,7 @@
       "productId": 16032,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 181.38,
+      "overallPercentDiff": 182.07,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1219,9 +1205,9 @@
           "observedAt": "2026-09-01T12:32:30.488Z",
           "lastSeenAt": "2026-10-17T12:10:21.109Z",
           "currentPriceCents": 149900,
-          "currentPriceEurCents": 408,
+          "currentPriceEurCents": 409,
           "referencePriceCents": 149900,
-          "referencePriceEurCents": 408
+          "referencePriceEurCents": 409
         }
       ]
     },
@@ -1359,7 +1345,7 @@
       "productId": 19304,
       "brand": "Stella Jones",
       "isCountryExtreme": true,
-      "overallPercentDiff": 176.61,
+      "overallPercentDiff": 176.95,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1386,9 +1372,9 @@
           "observedAt": "2026-09-01T12:30:10.466Z",
           "lastSeenAt": "2026-10-03T13:21:36.090Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 816,
+          "currentPriceEurCents": 817,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 816
+          "referencePriceEurCents": 817
         }
       ]
     },
@@ -1396,7 +1382,7 @@
       "productId": 19815,
       "brand": "Stella Jones",
       "isCountryExtreme": true,
-      "overallPercentDiff": 176.61,
+      "overallPercentDiff": 176.95,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1423,9 +1409,9 @@
           "observedAt": "2026-09-01T12:30:13.724Z",
           "lastSeenAt": "2026-10-17T12:10:24.362Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 816,
+          "currentPriceEurCents": 817,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 816
+          "referencePriceEurCents": 817
         }
       ]
     }

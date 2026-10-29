@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-28T11:09:01.720Z",
+  "generatedAt": "2026-10-29T11:22:14.211Z",
   "fx": {
-    "asOf": "2026-10-27",
+    "asOf": "2026-10-28",
     "rates": {
-      "USD": 1.115,
-      "JPY": 175.97,
-      "CZK": 24.348,
-      "DKK": 7.4742,
-      "GBP": 0.83658,
-      "HUF": 367.48,
-      "PLN": 4.402,
-      "RON": 5.3488,
-      "SEK": 11.0795,
-      "CHF": 0.9239,
-      "ISK": 136.4,
-      "NOK": 10.3885,
-      "TRY": 55.513,
-      "AUD": 1.5856,
-      "BRL": 5.9624,
-      "CAD": 1.5636,
-      "CNY": 7.4343,
-      "HKD": 8.7466,
-      "IDR": 20224.54,
-      "ILS": 3.4003,
-      "INR": 106.0635,
-      "KRW": 1480.44,
-      "MXN": 20.78,
-      "MYR": 4.5592,
-      "NZD": 1.9552,
-      "PHP": 71.353,
-      "SGD": 1.4285,
-      "THB": 37.654,
-      "ZAR": 18.5633
+      "USD": 1.1133,
+      "JPY": 175.86,
+      "CZK": 24.367,
+      "DKK": 7.4741,
+      "GBP": 0.83785,
+      "HUF": 366.88,
+      "PLN": 4.4045,
+      "RON": 5.3508,
+      "SEK": 11.056,
+      "CHF": 0.9247,
+      "ISK": 135.8,
+      "NOK": 10.3475,
+      "TRY": 55.4846,
+      "AUD": 1.583,
+      "BRL": 5.9307,
+      "CAD": 1.5638,
+      "CNY": 7.4217,
+      "HKD": 8.7339,
+      "IDR": 20235.79,
+      "ILS": 3.4801,
+      "INR": 106.0095,
+      "KRW": 1492.35,
+      "MXN": 20.7416,
+      "MYR": 4.5389,
+      "NZD": 1.9833,
+      "PHP": 71.24,
+      "SGD": 1.4274,
+      "THB": 37.602,
+      "ZAR": 18.5339
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -156,7 +156,7 @@
           "url": "https://www.dm.hr/p/d/2973721/babylove-mama-stuff-torba-za-pohranu",
           "isPromo": true,
           "observedAt": "2026-09-28T16:44:10.044Z",
-          "lastSeenAt": "2026-09-28T16:44:10.044Z",
+          "lastSeenAt": "2026-10-28T15:04:57.900Z",
           "currentPriceCents": 215,
           "currentPriceEurCents": 215,
           "referencePriceCents": 435,
@@ -212,71 +212,6 @@
           "currentPriceEurCents": 120,
           "referencePriceCents": 245,
           "referencePriceEurCents": 245
-        }
-      ]
-    },
-    {
-      "productId": 10532,
-      "brand": "TOM TAILOR",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 301.74,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "time to live! edp, 30 ml",
-          "url": "https://www.dm.hr/p/d/3076857/tom-tailor-time-to-live-edp",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:04:19.530Z",
-          "lastSeenAt": "2026-10-03T19:04:19.530Z",
-          "currentPriceCents": 370,
-          "currentPriceEurCents": 370,
-          "referencePriceCents": 745,
-          "referencePriceEurCents": 745
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Ženska parfumska voda time to live!, 30 ml",
-          "url": "https://www.dm.si/p/d/3076857/tom-tailor-zenska-parfumska-voda-time-to-live",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:00.003Z",
-          "lastSeenAt": "2026-09-29T10:39:11.219Z",
-          "currentPriceCents": 1490,
-          "currentPriceEurCents": 1490,
-          "referencePriceCents": 1490,
-          "referencePriceEurCents": 1490
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Eau de Parfum Time to live, 30 ml",
-          "url": "https://www.dm.at/p/d/3076857/tom-tailor-eau-de-parfum-time-to-live",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:37:27.993Z",
-          "lastSeenAt": "2026-09-29T10:39:16.858Z",
-          "currentPriceCents": 1395,
-          "currentPriceEurCents": 1395,
-          "referencePriceCents": 1395,
-          "referencePriceEurCents": 1395
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Női EdP Time to live!, 30 ml",
-          "url": "https://www.dm.hu/p/d/3076857/tom-tailor-noi-edp-time-to-live",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:22.854Z",
-          "lastSeenAt": "2026-09-29T10:39:25.487Z",
-          "currentPriceCents": 1099900,
-          "currentPriceEurCents": 2993,
-          "referencePriceCents": 1099900,
-          "referencePriceEurCents": 2993
         }
       ]
     },
@@ -353,9 +288,9 @@
           "observedAt": "2026-10-19T15:34:35.501Z",
           "lastSeenAt": "2026-10-19T15:34:35.501Z",
           "currentPriceCents": 499900,
-          "currentPriceEurCents": 1360,
+          "currentPriceEurCents": 1363,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1360
+          "referencePriceEurCents": 1363
         }
       ]
     },
@@ -432,9 +367,9 @@
           "observedAt": "2026-10-25T13:10:24.522Z",
           "lastSeenAt": "2026-10-25T13:10:24.522Z",
           "currentPriceCents": 499900,
-          "currentPriceEurCents": 1360,
+          "currentPriceEurCents": 1363,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1360
+          "referencePriceEurCents": 1363
         }
       ]
     },
@@ -534,9 +469,9 @@
           "observedAt": "2026-10-03T19:06:13.313Z",
           "lastSeenAt": "2026-10-03T19:06:13.313Z",
           "currentPriceCents": 219900,
-          "currentPriceEurCents": 598,
+          "currentPriceEurCents": 599,
           "referencePriceCents": 439900,
-          "referencePriceEurCents": 1197
+          "referencePriceEurCents": 1199
         }
       ]
     },
@@ -592,61 +527,10 @@
       ]
     },
     {
-      "productId": 12122,
-      "brand": "L'ORÉAL PARiS",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 202.22,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Lash Paradise maskara Intense volume & length –..., 6,4 ml",
-          "url": "https://www.dm.hr/p/d/1454475/l-oreal-paris-lash-paradise-maskara-intense-volume-length-forever-noir",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:04:16.543Z",
-          "lastSeenAt": "2026-10-03T19:04:16.543Z",
-          "currentPriceCents": 245,
-          "currentPriceEurCents": 245,
-          "referencePriceCents": 450,
-          "referencePriceEurCents": 450
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Mascara Lash Paradise Forever Noir, 6,4 ml",
-          "url": "https://www.dm.de/p/d/1454475/l-oreal-paris-mascara-lash-paradise-forever-noir",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:29.418Z",
-          "lastSeenAt": "2026-09-29T10:39:21.004Z",
-          "currentPriceCents": 1295,
-          "currentPriceEurCents": 1295,
-          "referencePriceCents": 1295,
-          "referencePriceEurCents": 1295
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Szempillaspirál, Lash Paradise Forever Noir, 6,4 ml",
-          "url": "https://www.dm.hu/p/d/1454475/l-oreal-paris-szempillaspiral-lash-paradise-forever-noir",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:30.809Z",
-          "lastSeenAt": "2026-09-29T10:39:25.487Z",
-          "currentPriceCents": 499900,
-          "currentPriceEurCents": 1360,
-          "referencePriceCents": 499900,
-          "referencePriceEurCents": 1360
-        }
-      ]
-    },
-    {
       "productId": 12985,
       "brand": "DKNY",
       "isCountryExtreme": true,
-      "overallPercentDiff": 190.03,
+      "overallPercentDiff": 190.47,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -687,9 +571,9 @@
           "observedAt": "2026-09-01T12:32:59.257Z",
           "lastSeenAt": "2026-10-23T13:22:57.120Z",
           "currentPriceCents": 1699900,
-          "currentPriceEurCents": 4626,
+          "currentPriceEurCents": 4633,
           "referencePriceCents": 1699900,
-          "referencePriceEurCents": 4626
+          "referencePriceEurCents": 4633
         }
       ]
     },
@@ -738,9 +622,9 @@
           "observedAt": "2026-09-01T12:32:07.099Z",
           "lastSeenAt": "2026-10-24T12:39:23.327Z",
           "currentPriceCents": 429900,
-          "currentPriceEurCents": 1170,
+          "currentPriceEurCents": 1172,
           "referencePriceCents": 429900,
-          "referencePriceEurCents": 1170
+          "referencePriceEurCents": 1172
         }
       ]
     },
@@ -759,7 +643,7 @@
           "url": "https://www.dm.hr/p/d/1512930/balea-njegujuce-ulje-za-nokte",
           "isPromo": false,
           "observedAt": "2026-08-28T15:44:32.113Z",
-          "lastSeenAt": "2026-09-28T16:44:08.304Z",
+          "lastSeenAt": "2026-10-28T15:04:53.135Z",
           "currentPriceCents": 155,
           "currentPriceEurCents": 155,
           "referencePriceCents": 155,
@@ -773,7 +657,7 @@
           "url": "https://www.dm.si/p/d/1512930/balea-negovalno-olje-za-nohte",
           "isPromo": false,
           "observedAt": "2026-08-28T15:48:58.875Z",
-          "lastSeenAt": "2026-09-28T16:44:03.713Z",
+          "lastSeenAt": "2026-10-28T15:04:56.150Z",
           "currentPriceCents": 445,
           "currentPriceEurCents": 445,
           "referencePriceCents": 445,
@@ -787,7 +671,7 @@
           "url": "https://www.dm.at/p/d/1512930/balea-nagelpflegeoel",
           "isPromo": false,
           "observedAt": "2026-08-30T22:36:55.121Z",
-          "lastSeenAt": "2026-09-28T16:44:12.879Z",
+          "lastSeenAt": "2026-10-28T15:05:02.945Z",
           "currentPriceCents": 445,
           "currentPriceEurCents": 445,
           "referencePriceCents": 445,
@@ -801,7 +685,7 @@
           "url": "https://www.dm.de/p/d/1512930/balea-nagelpflegeoel",
           "isPromo": false,
           "observedAt": "2026-08-31T20:43:48.726Z",
-          "lastSeenAt": "2026-09-28T16:44:24.882Z",
+          "lastSeenAt": "2026-10-28T15:05:08.797Z",
           "currentPriceCents": 425,
           "currentPriceEurCents": 425,
           "referencePriceCents": 425,
@@ -815,7 +699,7 @@
           "url": "https://www.dm.hu/p/d/1512930/balea-koromapolo-olaj-aloe-veraval",
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:17.495Z",
-          "lastSeenAt": "2026-09-28T16:44:26.494Z",
+          "lastSeenAt": "2026-10-28T15:05:22.610Z",
           "currentPriceCents": 89900,
           "currentPriceEurCents": 245,
           "referencePriceCents": 89900,
@@ -827,7 +711,7 @@
       "productId": 837,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 182.4,
+      "overallPercentDiff": 183.2,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -882,9 +766,9 @@
           "observedAt": "2026-09-01T12:29:59.422Z",
           "lastSeenAt": "2026-10-08T15:34:01.248Z",
           "currentPriceCents": 129900,
-          "currentPriceEurCents": 353,
+          "currentPriceEurCents": 354,
           "referencePriceCents": 129900,
-          "referencePriceEurCents": 353
+          "referencePriceEurCents": 354
         }
       ]
     },
@@ -892,7 +776,7 @@
       "productId": 10595,
       "brand": "L'ORÉAL PARiS",
       "isCountryExtreme": true,
-      "overallPercentDiff": 178,
+      "overallPercentDiff": 178.67,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -961,9 +845,9 @@
           "observedAt": "2026-09-01T12:32:25.549Z",
           "lastSeenAt": "2026-10-22T13:46:10.714Z",
           "currentPriceCents": 459900,
-          "currentPriceEurCents": 1251,
+          "currentPriceEurCents": 1254,
           "referencePriceCents": 459900,
-          "referencePriceEurCents": 1251
+          "referencePriceEurCents": 1254
         }
       ]
     },
@@ -971,7 +855,7 @@
       "productId": 8497,
       "brand": "dmBio",
       "isCountryExtreme": true,
-      "overallPercentDiff": 177.87,
+      "overallPercentDiff": 178.3,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1012,9 +896,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-10-09T15:16:29.929Z",
           "currentPriceCents": 239900,
-          "currentPriceEurCents": 653,
+          "currentPriceEurCents": 654,
           "referencePriceCents": 239900,
-          "referencePriceEurCents": 653
+          "referencePriceEurCents": 654
         }
       ]
     },
@@ -1180,7 +1064,7 @@
       "productId": 12783,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 161.48,
+      "overallPercentDiff": 162.22,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1221,9 +1105,9 @@
           "observedAt": "2026-09-01T12:32:02.558Z",
           "lastSeenAt": "2026-10-03T13:21:34.631Z",
           "currentPriceCents": 129900,
-          "currentPriceEurCents": 353,
+          "currentPriceEurCents": 354,
           "referencePriceCents": 129900,
-          "referencePriceEurCents": 353
+          "referencePriceEurCents": 354
         }
       ]
     },
@@ -1372,7 +1256,7 @@
           "url": "https://www.dm.hr/p/d/3038087/balea-aromaticni-tekuci-sapun-refill",
           "isPromo": false,
           "observedAt": "2026-08-28T15:59:18.504Z",
-          "lastSeenAt": "2026-09-28T16:44:08.304Z",
+          "lastSeenAt": "2026-10-28T15:04:57.900Z",
           "currentPriceCents": 75,
           "currentPriceEurCents": 75,
           "referencePriceCents": 75,
@@ -1386,7 +1270,7 @@
           "url": "https://www.dm.si/p/d/3038087/balea-tekoce-milo-za-roke-eucalyptus-lotus-polnilo",
           "isPromo": false,
           "observedAt": "2026-08-30T22:33:56.419Z",
-          "lastSeenAt": "2026-09-28T16:44:03.713Z",
+          "lastSeenAt": "2026-10-28T15:04:56.150Z",
           "currentPriceCents": 95,
           "currentPriceEurCents": 95,
           "referencePriceCents": 95,
@@ -1400,7 +1284,7 @@
           "url": "https://www.dm.at/p/d/3038087/balea-fluessigseife-eukalyptus-und-lotus-nachfuellpack",
           "isPromo": false,
           "observedAt": "2026-08-30T22:36:11.522Z",
-          "lastSeenAt": "2026-09-28T16:44:15.656Z",
+          "lastSeenAt": "2026-10-28T15:05:02.945Z",
           "currentPriceCents": 195,
           "currentPriceEurCents": 195,
           "referencePriceCents": 195,
@@ -1414,7 +1298,7 @@
           "url": "https://www.dm.de/p/d/3038087/balea-fluessigseife-eukalyptus-und-lotus-nachfuellpack",
           "isPromo": false,
           "observedAt": "2026-08-31T20:40:11.101Z",
-          "lastSeenAt": "2026-09-28T16:44:18.547Z",
+          "lastSeenAt": "2026-10-28T15:05:15.975Z",
           "currentPriceCents": 195,
           "currentPriceEurCents": 195,
           "referencePriceCents": 195,
@@ -1428,7 +1312,7 @@
           "url": "https://www.dm.hu/p/d/3038087/balea-aromas-folyekony-szappan-utantolto-eukaliptusz-es-lotusz-illattal",
           "isPromo": false,
           "observedAt": "2026-09-01T12:29:57.331Z",
-          "lastSeenAt": "2026-09-28T16:44:26.494Z",
+          "lastSeenAt": "2026-10-28T15:05:18.088Z",
           "currentPriceCents": 28900,
           "currentPriceEurCents": 79,
           "referencePriceCents": 28900,
@@ -1598,7 +1482,7 @@
       "productId": 2995,
       "brand": "syoss",
       "isCountryExtreme": true,
-      "overallPercentDiff": 157.09,
+      "overallPercentDiff": 157.45,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1653,9 +1537,9 @@
           "observedAt": "2026-09-01T12:32:49.604Z",
           "lastSeenAt": "2026-10-26T15:09:45.010Z",
           "currentPriceCents": 259900,
-          "currentPriceEurCents": 707,
+          "currentPriceEurCents": 708,
           "referencePriceCents": 259900,
-          "referencePriceEurCents": 707
+          "referencePriceEurCents": 708
         }
       ]
     },
@@ -1793,7 +1677,7 @@
       "productId": 10497,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 146.13,
+      "overallPercentDiff": 146.53,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1834,9 +1718,9 @@
           "observedAt": "2026-10-17T12:10:22.820Z",
           "lastSeenAt": "2026-10-17T12:10:22.820Z",
           "currentPriceCents": 899900,
-          "currentPriceEurCents": 2449,
+          "currentPriceEurCents": 2453,
           "referencePriceCents": 899900,
-          "referencePriceEurCents": 2449
+          "referencePriceEurCents": 2453
         }
       ]
     },
@@ -1844,7 +1728,7 @@
       "productId": 10498,
       "brand": "bugatti",
       "isCountryExtreme": true,
-      "overallPercentDiff": 146.13,
+      "overallPercentDiff": 146.53,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1885,9 +1769,111 @@
           "observedAt": "2026-10-19T15:34:37.210Z",
           "lastSeenAt": "2026-10-19T15:34:37.210Z",
           "currentPriceCents": 899900,
-          "currentPriceEurCents": 2449,
+          "currentPriceEurCents": 2453,
           "referencePriceCents": 899900,
-          "referencePriceEurCents": 2449
+          "referencePriceEurCents": 2453
+        }
+      ]
+    },
+    {
+      "productId": 8235,
+      "brand": "trend !t up",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 144.14,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Luxe Lid tekuće sjenilo za oči – 010, 4,5 ml",
+          "url": "https://www.dm.hr/p/d/2476871/trend-t-up-luxe-lid-tekuce-sjenilo-za-oci-010",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:04:16.543Z",
+          "lastSeenAt": "2026-10-03T19:04:16.543Z",
+          "currentPriceCents": 100,
+          "currentPriceEurCents": 100,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Tekoče senčilo za veke Luxe Lid 010, 4,5 ml",
+          "url": "https://www.dm.si/p/d/2476871/trend-t-up-tekoce-sencilo-za-veke-luxe-lid-010",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:28.819Z",
+          "lastSeenAt": "2026-10-03T19:13:28.819Z",
+          "currentPriceCents": 199,
+          "currentPriceEurCents": 199,
+          "referencePriceCents": 325,
+          "referencePriceEurCents": 325
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Folyékony szemhéjfesték Luxe Lid, 010, 4,5 ml",
+          "url": "https://www.dm.hu/p/d/2476871/trend-t-up-folyekony-szemhejfestek-luxe-lid-010",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:33:09.616Z",
+          "lastSeenAt": "2026-10-18T12:36:09.737Z",
+          "currentPriceCents": 129900,
+          "currentPriceEurCents": 354,
+          "referencePriceCents": 129900,
+          "referencePriceEurCents": 354
+        }
+      ]
+    },
+    {
+      "productId": 8057,
+      "brand": "s-he colour&style",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 143.75,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Sjenilo za oči mono – 184/017, 2 g",
+          "url": "https://www.dm.hr/p/d/1908715/s-he-colour-style-sjenilo-za-oci-mono-184-017",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:04:16.543Z",
+          "lastSeenAt": "2026-10-03T19:04:16.543Z",
+          "currentPriceCents": 50,
+          "currentPriceEurCents": 50,
+          "referencePriceCents": 80,
+          "referencePriceEurCents": 80
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Senčilo za veke 184/017, 2 g",
+          "url": "https://www.dm.si/p/d/1908715/s-he-colour-style-sencilo-za-veke-184-017",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:21.759Z",
+          "lastSeenAt": "2026-10-03T19:13:21.759Z",
+          "currentPriceCents": 99,
+          "currentPriceEurCents": 99,
+          "referencePriceCents": 195,
+          "referencePriceEurCents": 195
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Mono szemhéjpúder, 017, 2 g",
+          "url": "https://www.dm.hu/p/d/1908715/s-he-colour-style-mono-szemhejpuder-017",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:10.259Z",
+          "lastSeenAt": "2026-10-03T19:06:10.259Z",
+          "currentPriceCents": 49900,
+          "currentPriceEurCents": 136,
+          "referencePriceCents": 64900,
+          "referencePriceEurCents": 177
         }
       ]
     }

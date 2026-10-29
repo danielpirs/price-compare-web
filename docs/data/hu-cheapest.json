@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-28T11:09:01.720Z",
+  "generatedAt": "2026-10-29T11:22:14.211Z",
   "fx": {
-    "asOf": "2026-10-27",
+    "asOf": "2026-10-28",
     "rates": {
-      "USD": 1.115,
-      "JPY": 175.97,
-      "CZK": 24.348,
-      "DKK": 7.4742,
-      "GBP": 0.83658,
-      "HUF": 367.48,
-      "PLN": 4.402,
-      "RON": 5.3488,
-      "SEK": 11.0795,
-      "CHF": 0.9239,
-      "ISK": 136.4,
-      "NOK": 10.3885,
-      "TRY": 55.513,
-      "AUD": 1.5856,
-      "BRL": 5.9624,
-      "CAD": 1.5636,
-      "CNY": 7.4343,
-      "HKD": 8.7466,
-      "IDR": 20224.54,
-      "ILS": 3.4003,
-      "INR": 106.0635,
-      "KRW": 1480.44,
-      "MXN": 20.78,
-      "MYR": 4.5592,
-      "NZD": 1.9552,
-      "PHP": 71.353,
-      "SGD": 1.4285,
-      "THB": 37.654,
-      "ZAR": 18.5633
+      "USD": 1.1133,
+      "JPY": 175.86,
+      "CZK": 24.367,
+      "DKK": 7.4741,
+      "GBP": 0.83785,
+      "HUF": 366.88,
+      "PLN": 4.4045,
+      "RON": 5.3508,
+      "SEK": 11.056,
+      "CHF": 0.9247,
+      "ISK": 135.8,
+      "NOK": 10.3475,
+      "TRY": 55.4846,
+      "AUD": 1.583,
+      "BRL": 5.9307,
+      "CAD": 1.5638,
+      "CNY": 7.4217,
+      "HKD": 8.7339,
+      "IDR": 20235.79,
+      "ILS": 3.4801,
+      "INR": 106.0095,
+      "KRW": 1492.35,
+      "MXN": 20.7416,
+      "MYR": 4.5389,
+      "NZD": 1.9833,
+      "PHP": 71.24,
+      "SGD": 1.4274,
+      "THB": 37.602,
+      "ZAR": 18.5339
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -442,7 +442,7 @@
       "productId": 21037,
       "brand": "Beauty of Joseon",
       "isCountryExtreme": true,
-      "overallPercentDiff": 245.88,
+      "overallPercentDiff": 245.28,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -483,9 +483,9 @@
           "observedAt": "2026-10-03T19:06:13.313Z",
           "lastSeenAt": "2026-10-03T19:06:13.313Z",
           "currentPriceCents": 104900,
-          "currentPriceEurCents": 285,
+          "currentPriceEurCents": 286,
           "referencePriceCents": 209900,
-          "referencePriceEurCents": 571
+          "referencePriceEurCents": 572
         }
       ]
     },
@@ -643,7 +643,7 @@
           "url": "https://www.dm.si/p/d/2249158/adidas-antiperspirant-roll-on-control",
           "isPromo": false,
           "observedAt": "2026-08-30T22:35:04.847Z",
-          "lastSeenAt": "2026-09-28T16:44:06.583Z",
+          "lastSeenAt": "2026-10-28T15:04:56.150Z",
           "currentPriceCents": 360,
           "currentPriceEurCents": 360,
           "referencePriceCents": 360,
@@ -669,7 +669,7 @@
       "productId": 39854,
       "brand": "Varta",
       "isCountryExtreme": true,
-      "overallPercentDiff": 220.28,
+      "overallPercentDiff": 218.81,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -696,9 +696,9 @@
           "observedAt": "2026-09-01T12:31:00.665Z",
           "lastSeenAt": "2026-10-26T15:09:43.287Z",
           "currentPriceCents": 79900,
-          "currentPriceEurCents": 217,
+          "currentPriceEurCents": 218,
           "referencePriceCents": 79900,
-          "referencePriceEurCents": 217
+          "referencePriceEurCents": 218
         }
       ]
     },
@@ -859,7 +859,7 @@
       "productId": 8829,
       "brand": "HADA LABO TOKYO",
       "isCountryExtreme": true,
-      "overallPercentDiff": 193.38,
+      "overallPercentDiff": 192.95,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -916,7 +916,7 @@
           "currentPriceCents": 124900,
           "currentPriceEurCents": 340,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 680
+          "referencePriceEurCents": 681
         }
       ]
     },
@@ -1278,57 +1278,6 @@
       ]
     },
     {
-      "productId": 7071,
-      "brand": "Rexona",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 177.42,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Advanced Protection dezodorans u spreju Cotton Dry, 150 ml",
-          "url": "https://www.dm.hr/p/d/3049817/rexona-advanced-protection-dezodorans-u-spreju-cotton-dry",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:41.759Z",
-          "lastSeenAt": "2026-09-29T10:39:12.620Z",
-          "currentPriceCents": 340,
-          "currentPriceEurCents": 340,
-          "referencePriceCents": 340,
-          "referencePriceEurCents": 340
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Antiperspirant v spreju Cotton Dry, 150 ml",
-          "url": "https://www.dm.si/p/d/3049817/rexona-antiperspirant-v-spreju-cotton-dry",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:22.881Z",
-          "lastSeenAt": "2026-09-29T10:39:11.219Z",
-          "currentPriceCents": 430,
-          "currentPriceEurCents": 430,
-          "referencePriceCents": 430,
-          "referencePriceEurCents": 430
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Deo spray, Advanced Protection Cotton Dry, 150 ml",
-          "url": "https://www.dm.hu/p/d/3049817/rexona-deo-spray-advanced-protection-cotton-dry",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:06:15.966Z",
-          "lastSeenAt": "2026-10-03T19:06:15.966Z",
-          "currentPriceCents": 27900,
-          "currentPriceEurCents": 76,
-          "referencePriceCents": 56900,
-          "referencePriceEurCents": 155
-        }
-      ]
-    },
-    {
       "productId": 13220,
       "brand": "Rexona",
       "isCountryExtreme": true,
@@ -1383,7 +1332,7 @@
       "productId": 33797,
       "brand": "Jennifer Lopez",
       "isCountryExtreme": true,
-      "overallPercentDiff": 174.82,
+      "overallPercentDiff": 174.31,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1410,9 +1359,9 @@
           "observedAt": "2026-10-03T19:06:10.259Z",
           "lastSeenAt": "2026-10-03T19:06:10.259Z",
           "currentPriceCents": 199900,
-          "currentPriceEurCents": 544,
+          "currentPriceEurCents": 545,
           "referencePriceCents": 399900,
-          "referencePriceEurCents": 1088
+          "referencePriceEurCents": 1090
         }
       ]
     },
@@ -1420,7 +1369,7 @@
       "productId": 17826,
       "brand": "MAYBELLINE NEW YORK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 174.54,
+      "overallPercentDiff": 173.7,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1477,7 +1426,7 @@
           "currentPriceCents": 89900,
           "currentPriceEurCents": 245,
           "referencePriceCents": 119900,
-          "referencePriceEurCents": 326
+          "referencePriceEurCents": 327
         }
       ]
     },
@@ -1594,6 +1543,85 @@
           "currentPriceEurCents": 81,
           "referencePriceCents": 59900,
           "referencePriceEurCents": 163
+        }
+      ]
+    },
+    {
+      "productId": 7190,
+      "brand": "ebelin",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 172.06,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Rašpica protiv listanja noktiju, više vrsta, 1 kom.",
+          "url": "https://www.dm.hr/p/d/1345882/ebelin-raspica-protiv-listanja-noktiju-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:41.759Z",
+          "lastSeenAt": "2026-10-08T15:33:44.096Z",
+          "currentPriceCents": 125,
+          "currentPriceEurCents": 125,
+          "referencePriceCents": 125,
+          "referencePriceEurCents": 125
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Pilica proti razcepljenim nohtom, več različic, 1 kos",
+          "url": "https://www.dm.si/p/d/1345882/ebelin-pilica-proti-razcepljenim-nohtom-vec-razlicic",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:00.003Z",
+          "lastSeenAt": "2026-10-08T15:33:39.232Z",
+          "currentPriceCents": 165,
+          "currentPriceEurCents": 165,
+          "referencePriceCents": 165,
+          "referencePriceEurCents": 165
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Nagelfeile Anti-Splitter sortiert, 1 St",
+          "url": "https://www.dm.at/p/d/1345882/ebelin-nagelfeile-anti-splitter-sortiert",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:36.315Z",
+          "lastSeenAt": "2026-10-08T15:33:49.601Z",
+          "currentPriceCents": 185,
+          "currentPriceEurCents": 185,
+          "referencePriceCents": 185,
+          "referencePriceEurCents": 185
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Nagelfeile Anti-Splitter, 1 St",
+          "url": "https://www.dm.de/p/d/1345882/ebelin-nagelfeile-anti-splitter",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:35.778Z",
+          "lastSeenAt": "2026-10-08T15:33:57.813Z",
+          "currentPriceCents": 125,
+          "currentPriceEurCents": 125,
+          "referencePriceCents": 125,
+          "referencePriceEurCents": 125
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Körömreszelő töredezett körmökre, többféle, 1 db",
+          "url": "https://www.dm.hu/p/d/1345882/ebelin-koromreszelo-toredezett-kormokre-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:02.558Z",
+          "lastSeenAt": "2026-10-08T15:34:01.248Z",
+          "currentPriceCents": 24900,
+          "currentPriceEurCents": 68,
+          "referencePriceCents": 24900,
+          "referencePriceEurCents": 68
         }
       ]
     }
