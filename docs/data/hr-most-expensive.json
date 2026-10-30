@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-29T11:22:14.211Z",
+  "generatedAt": "2026-10-30T11:14:32.307Z",
   "fx": {
-    "asOf": "2026-10-28",
+    "asOf": "2026-10-29",
     "rates": {
-      "USD": 1.1133,
-      "JPY": 175.86,
-      "CZK": 24.367,
-      "DKK": 7.4741,
-      "GBP": 0.83785,
-      "HUF": 366.88,
-      "PLN": 4.4045,
-      "RON": 5.3508,
-      "SEK": 11.056,
-      "CHF": 0.9247,
+      "USD": 1.113,
+      "JPY": 175.92,
+      "CZK": 24.336,
+      "DKK": 7.4736,
+      "GBP": 0.83578,
+      "HUF": 365.95,
+      "PLN": 4.3938,
+      "RON": 5.3441,
+      "SEK": 10.9995,
+      "CHF": 0.9222,
       "ISK": 135.8,
-      "NOK": 10.3475,
-      "TRY": 55.4846,
-      "AUD": 1.583,
-      "BRL": 5.9307,
-      "CAD": 1.5638,
-      "CNY": 7.4217,
-      "HKD": 8.7339,
-      "IDR": 20235.79,
-      "ILS": 3.4801,
-      "INR": 106.0095,
-      "KRW": 1492.35,
-      "MXN": 20.7416,
-      "MYR": 4.5389,
-      "NZD": 1.9833,
-      "PHP": 71.24,
-      "SGD": 1.4274,
-      "THB": 37.602,
-      "ZAR": 18.5339
+      "NOK": 10.3315,
+      "TRY": 55.4691,
+      "AUD": 1.5842,
+      "BRL": 5.9563,
+      "CAD": 1.5577,
+      "CNY": 7.4144,
+      "HKD": 8.733,
+      "IDR": 20193.16,
+      "ILS": 3.468,
+      "INR": 106.0345,
+      "KRW": 1488.4,
+      "MXN": 20.8661,
+      "MYR": 4.5182,
+      "NZD": 1.9817,
+      "PHP": 71.052,
+      "SGD": 1.4265,
+      "THB": 37.569,
+      "ZAR": 18.5218
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -121,9 +121,9 @@
           "observedAt": "2026-09-01T12:30:41.384Z",
           "lastSeenAt": "2026-10-21T13:44:49.512Z",
           "currentPriceCents": 100900,
-          "currentPriceEurCents": 275,
+          "currentPriceEurCents": 276,
           "referencePriceCents": 100900,
-          "referencePriceEurCents": 275
+          "referencePriceEurCents": 276
         }
       ]
     },
@@ -200,9 +200,9 @@
           "observedAt": "2026-10-18T12:36:09.737Z",
           "lastSeenAt": "2026-10-18T12:36:09.737Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 817,
+          "currentPriceEurCents": 820,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 817
+          "referencePriceEurCents": 820
         }
       ]
     },
@@ -427,60 +427,9 @@
           "observedAt": "2026-09-01T12:31:28.672Z",
           "lastSeenAt": "2026-10-20T13:32:51.463Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 490,
+          "currentPriceEurCents": 492,
           "referencePriceCents": 179900,
-          "referencePriceEurCents": 490
-        }
-      ]
-    },
-    {
-      "productId": 10118,
-      "brand": "Dove MEN+CARE",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 173.01,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Sandalwood + Vanilla dezodorans u spreju, 150 ml",
-          "url": "https://www.dm.hr/p/d/3059229/dove-men-care-sandalwood-vanilla-dezodorans-u-spreju",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:00.205Z",
-          "lastSeenAt": "2026-10-23T13:22:38.291Z",
-          "currentPriceCents": 445,
-          "currentPriceEurCents": 445,
-          "referencePriceCents": 445,
-          "referencePriceEurCents": 445
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Deodorant v spreju Sandalwood & Vanilla, 150 ml",
-          "url": "https://www.dm.si/p/d/3059229/dove-men-care-deodorant-v-spreju-sandalwood-vanilla",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:03.751Z",
-          "lastSeenAt": "2026-10-23T13:22:32.896Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Férfi deo spray, Sandalwood + Vanilla, 150 ml",
-          "url": "https://www.dm.hu/p/d/3059229/dove-men-care-ferfi-deo-spray-sandalwood-vanilla",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:06:17.999Z",
-          "lastSeenAt": "2026-10-03T19:06:17.999Z",
-          "currentPriceCents": 29900,
-          "currentPriceEurCents": 81,
-          "referencePriceCents": 59900,
-          "referencePriceEurCents": 163
+          "referencePriceEurCents": 492
         }
       ]
     },
@@ -522,6 +471,57 @@
       ]
     },
     {
+      "productId": 10118,
+      "brand": "Dove MEN+CARE",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 171.34,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Sandalwood + Vanilla dezodorans u spreju, 150 ml",
+          "url": "https://www.dm.hr/p/d/3059229/dove-men-care-sandalwood-vanilla-dezodorans-u-spreju",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:00.205Z",
+          "lastSeenAt": "2026-10-23T13:22:38.291Z",
+          "currentPriceCents": 445,
+          "currentPriceEurCents": 445,
+          "referencePriceCents": 445,
+          "referencePriceEurCents": 445
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Deodorant v spreju Sandalwood & Vanilla, 150 ml",
+          "url": "https://www.dm.si/p/d/3059229/dove-men-care-deodorant-v-spreju-sandalwood-vanilla",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:03.751Z",
+          "lastSeenAt": "2026-10-23T13:22:32.896Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Férfi deo spray, Sandalwood + Vanilla, 150 ml",
+          "url": "https://www.dm.hu/p/d/3059229/dove-men-care-ferfi-deo-spray-sandalwood-vanilla",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:17.999Z",
+          "lastSeenAt": "2026-10-03T19:06:17.999Z",
+          "currentPriceCents": 29900,
+          "currentPriceEurCents": 82,
+          "referencePriceCents": 59900,
+          "referencePriceEurCents": 164
+        }
+      ]
+    },
+    {
       "productId": 2378,
       "brand": "Denkmit",
       "isCountryExtreme": true,
@@ -559,10 +559,61 @@
       ]
     },
     {
+      "productId": 15006,
+      "brand": "NIVEA",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 167.61,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Black&White Invisible Pure dezodorans u spreju, 150 ml",
+          "url": "https://www.dm.hr/p/d/1830345/nivea-black-white-invisible-pure-dezodorans-u-spreju",
+          "isPromo": true,
+          "observedAt": "2026-10-29T15:12:19.963Z",
+          "lastSeenAt": "2026-10-29T15:12:19.963Z",
+          "currentPriceCents": 190,
+          "currentPriceEurCents": 190,
+          "referencePriceCents": 380,
+          "referencePriceEurCents": 380
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Dezodorant Black & White Invisible Pure, 150 ml",
+          "url": "https://www.dm.si/p/d/1830345/nivea-dezodorant-black-white-invisible-pure",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:20.552Z",
+          "lastSeenAt": "2026-10-03T19:13:20.552Z",
+          "currentPriceCents": 175,
+          "currentPriceEurCents": 175,
+          "referencePriceCents": 350,
+          "referencePriceEurCents": 350
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Deo spray Black & White Invisible Pure, 150 ml",
+          "url": "https://www.dm.hu/p/d/1830345/nivea-deo-spray-black-white-invisible-pure",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:10.259Z",
+          "lastSeenAt": "2026-10-03T19:06:10.259Z",
+          "currentPriceCents": 25900,
+          "currentPriceEurCents": 71,
+          "referencePriceCents": 51900,
+          "referencePriceEurCents": 142
+        }
+      ]
+    },
+    {
       "productId": 3907,
       "brand": "COREGA",
       "isCountryExtreme": true,
-      "overallPercentDiff": 160.2,
+      "overallPercentDiff": 159.32,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -605,7 +656,7 @@
           "currentPriceCents": 49900,
           "currentPriceEurCents": 136,
           "referencePriceCents": 107900,
-          "referencePriceEurCents": 294
+          "referencePriceEurCents": 295
         }
       ]
     },
@@ -812,7 +863,7 @@
       "productId": 2493,
       "brand": "FERRAGAMO",
       "isCountryExtreme": true,
-      "overallPercentDiff": 152.34,
+      "overallPercentDiff": 151.73,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -853,88 +904,9 @@
           "observedAt": "2026-10-03T19:06:10.259Z",
           "lastSeenAt": "2026-10-03T19:06:10.259Z",
           "currentPriceCents": 449900,
-          "currentPriceEurCents": 1226,
+          "currentPriceEurCents": 1229,
           "referencePriceCents": 899900,
-          "referencePriceEurCents": 2453
-        }
-      ]
-    },
-    {
-      "productId": 2245,
-      "brand": "Dontodent PRO+",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 147.75,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Četkica za zube – soft, više vrsta, 2 kom.",
-          "url": "https://www.dm.hr/p/d/3042915/dontodent-pro-cetkica-za-zube-soft-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:57:35.873Z",
-          "lastSeenAt": "2026-10-17T12:10:01.272Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Zobna ščetka za krepitev in zaščito dlesni PRO+,..., 2 kos",
-          "url": "https://www.dm.si/p/d/3042915/dontodent-pro-zobna-scetka-za-krepitev-in-zascito-dlesni-pro-soft-vec-razlicic",
-          "isPromo": false,
-          "observedAt": "2026-08-30T21:47:45.469Z",
-          "lastSeenAt": "2026-10-17T12:09:59.866Z",
-          "currentPriceCents": 230,
-          "currentPriceEurCents": 230,
-          "referencePriceCents": 230,
-          "referencePriceEurCents": 230
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Zahnbürste Pro+ Sensitive Complete Care weich..., 2 St",
-          "url": "https://www.dm.at/p/d/3042915/dontodent-pro-zahnbuerste-pro-sensitive-complete-care-weich-sortiert",
-          "isPromo": false,
-          "observedAt": "2026-08-30T21:47:47.920Z",
-          "lastSeenAt": "2026-10-17T12:10:11.667Z",
-          "currentPriceCents": 245,
-          "currentPriceEurCents": 245,
-          "referencePriceCents": 245,
-          "referencePriceEurCents": 245
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Zahnbürste PRO+ Zahnfleischschutz & Stärkung weich, 2 St",
-          "url": "https://www.dm.de/p/d/3042915/dontodent-pro-zahnbuerste-pro-zahnfleischschutz-und-staerkung-weich",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:11.101Z",
-          "lastSeenAt": "2026-10-17T12:10:17.379Z",
-          "currentPriceCents": 245,
-          "currentPriceEurCents": 245,
-          "referencePriceCents": 245,
-          "referencePriceEurCents": 245
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Ínyvédő és erősítő fogkefe PRO+, puha, többféle, 2 db",
-          "url": "https://www.dm.hu/p/d/3042915/dontodent-pro-inyvedo-es-erosito-fogkefe-pro-puha-tobbfele",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:29:46.464Z",
-          "lastSeenAt": "2026-10-17T12:10:22.820Z",
-          "currentPriceCents": 40900,
-          "currentPriceEurCents": 111,
-          "referencePriceCents": 40900,
-          "referencePriceEurCents": 111
+          "referencePriceEurCents": 2459
         }
       ]
     },
@@ -1037,6 +1009,85 @@
           "currentPriceEurCents": 120,
           "referencePriceCents": 43900,
           "referencePriceEurCents": 120
+        }
+      ]
+    },
+    {
+      "productId": 2245,
+      "brand": "Dontodent PRO+",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 145.54,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Četkica za zube – soft, više vrsta, 2 kom.",
+          "url": "https://www.dm.hr/p/d/3042915/dontodent-pro-cetkica-za-zube-soft-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:57:35.873Z",
+          "lastSeenAt": "2026-10-17T12:10:01.272Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Zobna ščetka za krepitev in zaščito dlesni PRO+,..., 2 kos",
+          "url": "https://www.dm.si/p/d/3042915/dontodent-pro-zobna-scetka-za-krepitev-in-zascito-dlesni-pro-soft-vec-razlicic",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:45.469Z",
+          "lastSeenAt": "2026-10-17T12:09:59.866Z",
+          "currentPriceCents": 230,
+          "currentPriceEurCents": 230,
+          "referencePriceCents": 230,
+          "referencePriceEurCents": 230
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Zahnbürste Pro+ Sensitive Complete Care weich..., 2 St",
+          "url": "https://www.dm.at/p/d/3042915/dontodent-pro-zahnbuerste-pro-sensitive-complete-care-weich-sortiert",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:47.920Z",
+          "lastSeenAt": "2026-10-17T12:10:11.667Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Zahnbürste PRO+ Zahnfleischschutz & Stärkung weich, 2 St",
+          "url": "https://www.dm.de/p/d/3042915/dontodent-pro-zahnbuerste-pro-zahnfleischschutz-und-staerkung-weich",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:11.101Z",
+          "lastSeenAt": "2026-10-17T12:10:17.379Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Ínyvédő és erősítő fogkefe PRO+, puha, többféle, 2 db",
+          "url": "https://www.dm.hu/p/d/3042915/dontodent-pro-inyvedo-es-erosito-fogkefe-pro-puha-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:29:46.464Z",
+          "lastSeenAt": "2026-10-17T12:10:22.820Z",
+          "currentPriceCents": 40900,
+          "currentPriceEurCents": 112,
+          "referencePriceCents": 40900,
+          "referencePriceEurCents": 112
         }
       ]
     },
@@ -1203,85 +1254,6 @@
       ]
     },
     {
-      "productId": 12578,
-      "brand": "Balea PROFESSIONAL",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 134.04,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Šampon za obnovu oštećene kose i jačanje korijena..., 250 ml",
-          "url": "https://www.dm.hr/p/d/1624322/balea-professional-sampon-za-obnovu-ostecene-kose-i-jacanje-korijena-kose",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:15.395Z",
-          "lastSeenAt": "2026-10-19T15:34:17.188Z",
-          "currentPriceCents": 330,
-          "currentPriceEurCents": 330,
-          "referencePriceCents": 330,
-          "referencePriceEurCents": 330
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Šampon za lase WACHSTUM + STÄRKE, 250 ml",
-          "url": "https://www.dm.si/p/d/1624322/balea-professional-sampon-za-lase-wachstum-starke",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:05.929Z",
-          "lastSeenAt": "2026-10-19T15:34:12.359Z",
-          "currentPriceCents": 265,
-          "currentPriceEurCents": 265,
-          "referencePriceCents": 265,
-          "referencePriceEurCents": 265
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Shampoo Wachstum und Stärke, 250 ml",
-          "url": "https://www.dm.at/p/d/1624322/balea-professional-shampoo-wachstum-und-staerke",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:13.158Z",
-          "lastSeenAt": "2026-10-19T15:34:27.141Z",
-          "currentPriceCents": 265,
-          "currentPriceEurCents": 265,
-          "referencePriceCents": 265,
-          "referencePriceEurCents": 265
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Shampoo Wachstum + Stärke, 250 ml",
-          "url": "https://www.dm.de/p/d/1624322/balea-professional-shampoo-wachstum-staerke",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:19.091Z",
-          "lastSeenAt": "2026-10-19T15:34:33.938Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Növekedést segítő és hajerősítő sampon, gyenge és..., 250 ml",
-          "url": "https://www.dm.hu/p/d/1624322/balea-professional-novekedest-segito-es-hajerosito-sampon-gyenge-es-toredezett-hajra",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:17.495Z",
-          "lastSeenAt": "2026-10-19T15:34:35.501Z",
-          "currentPriceCents": 51900,
-          "currentPriceEurCents": 141,
-          "referencePriceCents": 51900,
-          "referencePriceEurCents": 141
-        }
-      ]
-    },
-    {
       "productId": 10299,
       "brand": "Dontodent",
       "isCountryExtreme": true,
@@ -1354,9 +1326,88 @@
           "observedAt": "2026-09-01T12:30:04.184Z",
           "lastSeenAt": "2026-10-19T15:34:37.210Z",
           "currentPriceCents": 37900,
-          "currentPriceEurCents": 103,
+          "currentPriceEurCents": 104,
           "referencePriceCents": 37900,
-          "referencePriceEurCents": 103
+          "referencePriceEurCents": 104
+        }
+      ]
+    },
+    {
+      "productId": 12578,
+      "brand": "Balea PROFESSIONAL",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 132.39,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Šampon za obnovu oštećene kose i jačanje korijena..., 250 ml",
+          "url": "https://www.dm.hr/p/d/1624322/balea-professional-sampon-za-obnovu-ostecene-kose-i-jacanje-korijena-kose",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:15.395Z",
+          "lastSeenAt": "2026-10-19T15:34:17.188Z",
+          "currentPriceCents": 330,
+          "currentPriceEurCents": 330,
+          "referencePriceCents": 330,
+          "referencePriceEurCents": 330
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Šampon za lase WACHSTUM + STÄRKE, 250 ml",
+          "url": "https://www.dm.si/p/d/1624322/balea-professional-sampon-za-lase-wachstum-starke",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:05.929Z",
+          "lastSeenAt": "2026-10-19T15:34:12.359Z",
+          "currentPriceCents": 265,
+          "currentPriceEurCents": 265,
+          "referencePriceCents": 265,
+          "referencePriceEurCents": 265
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Shampoo Wachstum und Stärke, 250 ml",
+          "url": "https://www.dm.at/p/d/1624322/balea-professional-shampoo-wachstum-und-staerke",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:13.158Z",
+          "lastSeenAt": "2026-10-19T15:34:27.141Z",
+          "currentPriceCents": 265,
+          "currentPriceEurCents": 265,
+          "referencePriceCents": 265,
+          "referencePriceEurCents": 265
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Shampoo Wachstum + Stärke, 250 ml",
+          "url": "https://www.dm.de/p/d/1624322/balea-professional-shampoo-wachstum-staerke",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:19.091Z",
+          "lastSeenAt": "2026-10-19T15:34:33.938Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 195,
+          "referencePriceEurCents": 195
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Növekedést segítő és hajerősítő sampon, gyenge és..., 250 ml",
+          "url": "https://www.dm.hu/p/d/1624322/balea-professional-novekedest-segito-es-hajerosito-sampon-gyenge-es-toredezett-hajra",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:17.495Z",
+          "lastSeenAt": "2026-10-19T15:34:35.501Z",
+          "currentPriceCents": 51900,
+          "currentPriceEurCents": 142,
+          "referencePriceCents": 51900,
+          "referencePriceEurCents": 142
         }
       ]
     },
@@ -1415,7 +1466,7 @@
       "productId": 6100,
       "brand": "Dontodent PRO+",
       "isCountryExtreme": true,
-      "overallPercentDiff": 125.41,
+      "overallPercentDiff": 123.58,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1470,46 +1521,9 @@
           "observedAt": "2026-09-01T12:31:30.809Z",
           "lastSeenAt": "2026-10-02T14:43:06.019Z",
           "currentPriceCents": 44900,
-          "currentPriceEurCents": 122,
+          "currentPriceEurCents": 123,
           "referencePriceCents": 44900,
-          "referencePriceEurCents": 122
-        }
-      ]
-    },
-    {
-      "productId": 13586,
-      "brand": "proteini.si",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 123.53,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Proteinska pločica - crni ribiz i brusnica, 55 g",
-          "url": "https://www.dm.hr/p/d/2197425/proteini-si-proteinska-plocica-crni-ribiz-i-brusnica",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:21.355Z",
-          "lastSeenAt": "2026-10-23T13:22:38.291Z",
-          "currentPriceCents": 190,
-          "currentPriceEurCents": 190,
-          "referencePriceCents": 190,
-          "referencePriceEurCents": 190
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Beljakovinska ploščica Črni ribez & brusnica, 55 g",
-          "url": "https://www.dm.si/p/d/2197425/proteini-si-beljakovinska-ploscica-crni-ribez-brusnica",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:24.029Z",
-          "lastSeenAt": "2026-10-03T19:13:24.029Z",
-          "currentPriceCents": 40,
-          "currentPriceEurCents": 40,
-          "referencePriceCents": 85,
-          "referencePriceEurCents": 85
+          "referencePriceEurCents": 123
         }
       ]
     }

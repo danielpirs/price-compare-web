@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-29T11:22:14.211Z",
+  "generatedAt": "2026-10-30T11:14:32.307Z",
   "fx": {
-    "asOf": "2026-10-28",
+    "asOf": "2026-10-29",
     "rates": {
-      "USD": 1.1133,
-      "JPY": 175.86,
-      "CZK": 24.367,
-      "DKK": 7.4741,
-      "GBP": 0.83785,
-      "HUF": 366.88,
-      "PLN": 4.4045,
-      "RON": 5.3508,
-      "SEK": 11.056,
-      "CHF": 0.9247,
+      "USD": 1.113,
+      "JPY": 175.92,
+      "CZK": 24.336,
+      "DKK": 7.4736,
+      "GBP": 0.83578,
+      "HUF": 365.95,
+      "PLN": 4.3938,
+      "RON": 5.3441,
+      "SEK": 10.9995,
+      "CHF": 0.9222,
       "ISK": 135.8,
-      "NOK": 10.3475,
-      "TRY": 55.4846,
-      "AUD": 1.583,
-      "BRL": 5.9307,
-      "CAD": 1.5638,
-      "CNY": 7.4217,
-      "HKD": 8.7339,
-      "IDR": 20235.79,
-      "ILS": 3.4801,
-      "INR": 106.0095,
-      "KRW": 1492.35,
-      "MXN": 20.7416,
-      "MYR": 4.5389,
-      "NZD": 1.9833,
-      "PHP": 71.24,
-      "SGD": 1.4274,
-      "THB": 37.602,
-      "ZAR": 18.5339
+      "NOK": 10.3315,
+      "TRY": 55.4691,
+      "AUD": 1.5842,
+      "BRL": 5.9563,
+      "CAD": 1.5577,
+      "CNY": 7.4144,
+      "HKD": 8.733,
+      "IDR": 20193.16,
+      "ILS": 3.468,
+      "INR": 106.0345,
+      "KRW": 1488.4,
+      "MXN": 20.8661,
+      "MYR": 4.5182,
+      "NZD": 1.9817,
+      "PHP": 71.052,
+      "SGD": 1.4265,
+      "THB": 37.569,
+      "ZAR": 18.5218
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -374,43 +374,6 @@
       ]
     },
     {
-      "productId": 32727,
-      "brand": "alverde NATURKOSMETIK",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 264.2,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Abdeckstift & Contouring 01, 3,2 g",
-          "url": "https://www.dm.at/p/d/1453286/alverde-naturkosmetik-abdeckstift-und-contouring-01",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:02:15.740Z",
-          "lastSeenAt": "2026-10-03T19:02:15.740Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Kontúrozó és korrektor stift 01, 3,2 g",
-          "url": "https://www.dm.hu/p/d/1453286/alverde-naturkosmetik-konturozo-es-korrektor-stift-01",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:06:07.103Z",
-          "lastSeenAt": "2026-10-03T19:06:07.103Z",
-          "currentPriceCents": 14900,
-          "currentPriceEurCents": 41,
-          "referencePriceCents": 29900,
-          "referencePriceEurCents": 81
-        }
-      ]
-    },
-    {
       "productId": 18513,
       "brand": "alverde NATURKOSMETIK",
       "isCountryExtreme": true,
@@ -472,6 +435,43 @@
           "currentPriceEurCents": 68,
           "referencePriceCents": 49900,
           "referencePriceEurCents": 136
+        }
+      ]
+    },
+    {
+      "productId": 32727,
+      "brand": "alverde NATURKOSMETIK",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 259.76,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Abdeckstift & Contouring 01, 3,2 g",
+          "url": "https://www.dm.at/p/d/1453286/alverde-naturkosmetik-abdeckstift-und-contouring-01",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:02:15.740Z",
+          "lastSeenAt": "2026-10-03T19:02:15.740Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Kontúrozó és korrektor stift 01, 3,2 g",
+          "url": "https://www.dm.hu/p/d/1453286/alverde-naturkosmetik-konturozo-es-korrektor-stift-01",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:07.103Z",
+          "lastSeenAt": "2026-10-03T19:06:07.103Z",
+          "currentPriceCents": 14900,
+          "currentPriceEurCents": 41,
+          "referencePriceCents": 29900,
+          "referencePriceEurCents": 82
         }
       ]
     },
@@ -548,9 +548,9 @@
           "observedAt": "2026-10-19T15:34:35.501Z",
           "lastSeenAt": "2026-10-19T15:34:35.501Z",
           "currentPriceCents": 499900,
-          "currentPriceEurCents": 1363,
+          "currentPriceEurCents": 1366,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1363
+          "referencePriceEurCents": 1366
         }
       ]
     },
@@ -627,9 +627,9 @@
           "observedAt": "2026-10-25T13:10:24.522Z",
           "lastSeenAt": "2026-10-25T13:10:24.522Z",
           "currentPriceCents": 499900,
-          "currentPriceEurCents": 1363,
+          "currentPriceEurCents": 1366,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1363
+          "referencePriceEurCents": 1366
         }
       ]
     },
@@ -892,7 +892,7 @@
       "productId": 18509,
       "brand": "alverde NATURKOSMETIK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 227.16,
+      "overallPercentDiff": 223.17,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -949,7 +949,7 @@
           "currentPriceCents": 14900,
           "currentPriceEurCents": 41,
           "referencePriceCents": 29900,
-          "referencePriceEurCents": 81
+          "referencePriceEurCents": 82
         }
       ]
     },
@@ -1058,7 +1058,7 @@
           "observedAt": "2026-10-03T19:06:11.832Z",
           "lastSeenAt": "2026-10-03T19:06:11.832Z",
           "currentPriceCents": 22900,
-          "currentPriceEurCents": 62,
+          "currentPriceEurCents": 63,
           "referencePriceCents": 45900,
           "referencePriceEurCents": 125
         }
@@ -1369,7 +1369,7 @@
       "productId": 15502,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 195.92,
+      "overallPercentDiff": 194.72,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1424,9 +1424,9 @@
           "observedAt": "2026-09-01T12:30:04.184Z",
           "lastSeenAt": "2026-10-08T15:34:01.248Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 245,
+          "currentPriceEurCents": 246,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 245
+          "referencePriceEurCents": 246
         }
       ]
     },
@@ -1434,7 +1434,7 @@
       "productId": 8829,
       "brand": "HADA LABO TOKYO",
       "isCountryExtreme": true,
-      "overallPercentDiff": 192.95,
+      "overallPercentDiff": 192.09,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1489,9 +1489,9 @@
           "observedAt": "2026-10-03T19:06:15.966Z",
           "lastSeenAt": "2026-10-03T19:06:15.966Z",
           "currentPriceCents": 124900,
-          "currentPriceEurCents": 340,
+          "currentPriceEurCents": 341,
           "referencePriceCents": 249900,
-          "referencePriceEurCents": 681
+          "referencePriceEurCents": 683
         }
       ]
     },

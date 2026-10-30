@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-29T11:22:14.211Z",
+  "generatedAt": "2026-10-30T11:14:32.307Z",
   "fx": {
-    "asOf": "2026-10-28",
+    "asOf": "2026-10-29",
     "rates": {
-      "USD": 1.1133,
-      "JPY": 175.86,
-      "CZK": 24.367,
-      "DKK": 7.4741,
-      "GBP": 0.83785,
-      "HUF": 366.88,
-      "PLN": 4.4045,
-      "RON": 5.3508,
-      "SEK": 11.056,
-      "CHF": 0.9247,
+      "USD": 1.113,
+      "JPY": 175.92,
+      "CZK": 24.336,
+      "DKK": 7.4736,
+      "GBP": 0.83578,
+      "HUF": 365.95,
+      "PLN": 4.3938,
+      "RON": 5.3441,
+      "SEK": 10.9995,
+      "CHF": 0.9222,
       "ISK": 135.8,
-      "NOK": 10.3475,
-      "TRY": 55.4846,
-      "AUD": 1.583,
-      "BRL": 5.9307,
-      "CAD": 1.5638,
-      "CNY": 7.4217,
-      "HKD": 8.7339,
-      "IDR": 20235.79,
-      "ILS": 3.4801,
-      "INR": 106.0095,
-      "KRW": 1492.35,
-      "MXN": 20.7416,
-      "MYR": 4.5389,
-      "NZD": 1.9833,
-      "PHP": 71.24,
-      "SGD": 1.4274,
-      "THB": 37.602,
-      "ZAR": 18.5339
+      "NOK": 10.3315,
+      "TRY": 55.4691,
+      "AUD": 1.5842,
+      "BRL": 5.9563,
+      "CAD": 1.5577,
+      "CNY": 7.4144,
+      "HKD": 8.733,
+      "IDR": 20193.16,
+      "ILS": 3.468,
+      "INR": 106.0345,
+      "KRW": 1488.4,
+      "MXN": 20.8661,
+      "MYR": 4.5182,
+      "NZD": 1.9817,
+      "PHP": 71.052,
+      "SGD": 1.4265,
+      "THB": 37.569,
+      "ZAR": 18.5218
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -230,10 +230,47 @@
       ]
     },
     {
+      "productId": 16410,
+      "brand": "adidas",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 245.13,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Antiperspirant v spreju Ultra Fresh Control, 150 ml",
+          "url": "https://www.dm.si/p/d/3068360/adidas-antiperspirant-v-spreju-ultra-fresh-control",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:56.419Z",
+          "lastSeenAt": "2026-10-01T15:25:52.013Z",
+          "currentPriceCents": 390,
+          "currentPriceEurCents": 390,
+          "referencePriceCents": 390,
+          "referencePriceEurCents": 390
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Deo spray Ultra Fresh Control, 150 ml",
+          "url": "https://www.dm.hu/p/d/3068360/adidas-deo-spray-ultra-fresh-control",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:17.999Z",
+          "lastSeenAt": "2026-10-03T19:06:17.999Z",
+          "currentPriceCents": 19900,
+          "currentPriceEurCents": 54,
+          "referencePriceCents": 41500,
+          "referencePriceEurCents": 113
+        }
+      ]
+    },
+    {
       "productId": 21037,
       "brand": "Beauty of Joseon",
       "isCountryExtreme": true,
-      "overallPercentDiff": 245.28,
+      "overallPercentDiff": 244.08,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -274,46 +311,9 @@
           "observedAt": "2026-10-03T19:06:13.313Z",
           "lastSeenAt": "2026-10-03T19:06:13.313Z",
           "currentPriceCents": 104900,
-          "currentPriceEurCents": 286,
+          "currentPriceEurCents": 287,
           "referencePriceCents": 209900,
-          "referencePriceEurCents": 572
-        }
-      ]
-    },
-    {
-      "productId": 16410,
-      "brand": "adidas",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 245.13,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Antiperspirant v spreju Ultra Fresh Control, 150 ml",
-          "url": "https://www.dm.si/p/d/3068360/adidas-antiperspirant-v-spreju-ultra-fresh-control",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:56.419Z",
-          "lastSeenAt": "2026-10-01T15:25:52.013Z",
-          "currentPriceCents": 390,
-          "currentPriceEurCents": 390,
-          "referencePriceCents": 390,
-          "referencePriceEurCents": 390
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Deo spray Ultra Fresh Control, 150 ml",
-          "url": "https://www.dm.hu/p/d/3068360/adidas-deo-spray-ultra-fresh-control",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:06:17.999Z",
-          "lastSeenAt": "2026-10-03T19:06:17.999Z",
-          "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
-          "referencePriceCents": 41500,
-          "referencePriceEurCents": 113
+          "referencePriceEurCents": 574
         }
       ]
     },
@@ -362,9 +362,9 @@
           "observedAt": "2026-10-03T19:06:13.313Z",
           "lastSeenAt": "2026-10-03T19:06:13.313Z",
           "currentPriceCents": 219900,
-          "currentPriceEurCents": 599,
+          "currentPriceEurCents": 601,
           "referencePriceCents": 439900,
-          "referencePriceEurCents": 1199
+          "referencePriceEurCents": 1202
         }
       ]
     },
@@ -372,7 +372,7 @@
       "productId": 18438,
       "brand": "adidas",
       "isCountryExtreme": true,
-      "overallPercentDiff": 224.32,
+      "overallPercentDiff": 221.43,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -401,7 +401,7 @@
           "currentPriceCents": 19900,
           "currentPriceEurCents": 54,
           "referencePriceCents": 40900,
-          "referencePriceEurCents": 111
+          "referencePriceEurCents": 112
         }
       ]
     },
@@ -409,7 +409,7 @@
       "productId": 22917,
       "brand": "adidas",
       "isCountryExtreme": true,
-      "overallPercentDiff": 224.32,
+      "overallPercentDiff": 221.43,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -438,7 +438,7 @@
           "currentPriceCents": 19900,
           "currentPriceEurCents": 54,
           "referencePriceCents": 40900,
-          "referencePriceEurCents": 111
+          "referencePriceEurCents": 112
         }
       ]
     },
@@ -487,7 +487,7 @@
           "observedAt": "2026-10-03T19:06:11.832Z",
           "lastSeenAt": "2026-10-03T19:06:11.832Z",
           "currentPriceCents": 22900,
-          "currentPriceEurCents": 62,
+          "currentPriceEurCents": 63,
           "referencePriceCents": 45900,
           "referencePriceEurCents": 125
         }
@@ -619,57 +619,6 @@
       ]
     },
     {
-      "productId": 11188,
-      "brand": "Balea",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 190.12,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Kremasto-uljna kupka Sweet Cherry Moment, 500 ml",
-          "url": "https://www.dm.hr/p/d/3090762/balea-kremasto-uljna-kupka-sweet-cherry-moment",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:07.072Z",
-          "lastSeenAt": "2026-10-12T17:51:30.603Z",
-          "currentPriceCents": 215,
-          "currentPriceEurCents": 215,
-          "referencePriceCents": 215,
-          "referencePriceEurCents": 215
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Kremna kopel na oljni osnovi Sweet CHERRY MOMENT, 500 ml",
-          "url": "https://www.dm.si/p/d/3090762/balea-kremna-kopel-na-oljni-osnovi-sweet-cherry-moment",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:59.311Z",
-          "lastSeenAt": "2026-10-12T17:51:27.981Z",
-          "currentPriceCents": 235,
-          "currentPriceEurCents": 235,
-          "referencePriceCents": 235,
-          "referencePriceEurCents": 235
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Krémes-olajos habfürdő Sweet Cherry Moment, 500 ml",
-          "url": "https://www.dm.hu/p/d/3090762/balea-kremes-olajos-habfurdo-sweet-cherry-moment",
-          "isPromo": false,
-          "observedAt": "2026-10-12T17:51:40.619Z",
-          "lastSeenAt": "2026-10-12T17:51:40.619Z",
-          "currentPriceCents": 29900,
-          "currentPriceEurCents": 81,
-          "referencePriceCents": 29900,
-          "referencePriceEurCents": 81
-        }
-      ]
-    },
-    {
       "productId": 12113,
       "brand": "MAYBELLINE NEW YORK",
       "isCountryExtreme": true,
@@ -714,9 +663,9 @@
           "observedAt": "2026-09-01T12:32:07.099Z",
           "lastSeenAt": "2026-10-24T12:39:23.327Z",
           "currentPriceCents": 429900,
-          "currentPriceEurCents": 1172,
+          "currentPriceEurCents": 1175,
           "referencePriceCents": 429900,
-          "referencePriceEurCents": 1172
+          "referencePriceEurCents": 1175
         }
       ]
     },
@@ -793,9 +742,60 @@
           "observedAt": "2026-09-01T12:30:17.495Z",
           "lastSeenAt": "2026-10-28T15:05:22.610Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 245,
+          "currentPriceEurCents": 246,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 245
+          "referencePriceEurCents": 246
+        }
+      ]
+    },
+    {
+      "productId": 11188,
+      "brand": "Balea",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 186.59,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Kremasto-uljna kupka Sweet Cherry Moment, 500 ml",
+          "url": "https://www.dm.hr/p/d/3090762/balea-kremasto-uljna-kupka-sweet-cherry-moment",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:07.072Z",
+          "lastSeenAt": "2026-10-12T17:51:30.603Z",
+          "currentPriceCents": 215,
+          "currentPriceEurCents": 215,
+          "referencePriceCents": 215,
+          "referencePriceEurCents": 215
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Kremna kopel na oljni osnovi Sweet CHERRY MOMENT, 500 ml",
+          "url": "https://www.dm.si/p/d/3090762/balea-kremna-kopel-na-oljni-osnovi-sweet-cherry-moment",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:59.311Z",
+          "lastSeenAt": "2026-10-12T17:51:27.981Z",
+          "currentPriceCents": 235,
+          "currentPriceEurCents": 235,
+          "referencePriceCents": 235,
+          "referencePriceEurCents": 235
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Krémes-olajos habfürdő Sweet Cherry Moment, 500 ml",
+          "url": "https://www.dm.hu/p/d/3090762/balea-kremes-olajos-habfurdo-sweet-cherry-moment",
+          "isPromo": false,
+          "observedAt": "2026-10-12T17:51:40.619Z",
+          "lastSeenAt": "2026-10-12T17:51:40.619Z",
+          "currentPriceCents": 29900,
+          "currentPriceEurCents": 82,
+          "referencePriceCents": 29900,
+          "referencePriceEurCents": 82
         }
       ]
     },
@@ -833,6 +833,57 @@
           "currentPriceEurCents": 98,
           "referencePriceCents": 35900,
           "referencePriceEurCents": 98
+        }
+      ]
+    },
+    {
+      "productId": 7071,
+      "brand": "Rexona",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 177.42,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Advanced Protection dezodorans u spreju Cotton Dry, 150 ml",
+          "url": "https://www.dm.hr/p/d/3049817/rexona-advanced-protection-dezodorans-u-spreju-cotton-dry",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:41.759Z",
+          "lastSeenAt": "2026-10-29T15:12:19.963Z",
+          "currentPriceCents": 340,
+          "currentPriceEurCents": 340,
+          "referencePriceCents": 340,
+          "referencePriceEurCents": 340
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Antiperspirant v spreju Cotton Dry, 150 ml",
+          "url": "https://www.dm.si/p/d/3049817/rexona-antiperspirant-v-spreju-cotton-dry",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:22.881Z",
+          "lastSeenAt": "2026-10-29T15:12:17.316Z",
+          "currentPriceCents": 430,
+          "currentPriceEurCents": 430,
+          "referencePriceCents": 430,
+          "referencePriceEurCents": 430
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Deo spray, Advanced Protection Cotton Dry, 150 ml",
+          "url": "https://www.dm.hu/p/d/3049817/rexona-deo-spray-advanced-protection-cotton-dry",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:06:15.966Z",
+          "lastSeenAt": "2026-10-03T19:06:15.966Z",
+          "currentPriceCents": 27900,
+          "currentPriceEurCents": 76,
+          "referencePriceCents": 56900,
+          "referencePriceEurCents": 155
         }
       ]
     },
@@ -884,85 +935,6 @@
           "currentPriceEurCents": 76,
           "referencePriceCents": 56900,
           "referencePriceEurCents": 155
-        }
-      ]
-    },
-    {
-      "productId": 9537,
-      "brand": "Balea",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 171.6,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Kremasto-uljna kupka Soft Lotus Dream, 500 ml",
-          "url": "https://www.dm.hr/p/d/3090716/balea-kremasto-uljna-kupka-soft-lotus-dream",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:56.123Z",
-          "lastSeenAt": "2026-10-19T15:34:17.188Z",
-          "currentPriceCents": 215,
-          "currentPriceEurCents": 215,
-          "referencePriceCents": 215,
-          "referencePriceEurCents": 215
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Kremna kopel na oljni osnovi Soft LOTUS DREAM, 500 ml",
-          "url": "https://www.dm.si/p/d/3090716/balea-kremna-kopel-na-oljni-osnovi-soft-lotus-dream",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:57.723Z",
-          "lastSeenAt": "2026-10-19T15:34:09.260Z",
-          "currentPriceCents": 220,
-          "currentPriceEurCents": 220,
-          "referencePriceCents": 220,
-          "referencePriceEurCents": 220
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Badezusatz Creme-Öl Lotus Dream, 500 ml",
-          "url": "https://www.dm.at/p/d/3090716/balea-badezusatz-creme-oel-lotus-dream",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:34.775Z",
-          "lastSeenAt": "2026-10-19T15:34:22.548Z",
-          "currentPriceCents": 215,
-          "currentPriceEurCents": 215,
-          "referencePriceCents": 215,
-          "referencePriceEurCents": 215
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Creme-Öl Bad Soft LOTUS DREAM, 500 ml",
-          "url": "https://www.dm.de/p/d/3090716/balea-creme-oel-bad-soft-lotus-dream",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:19.020Z",
-          "lastSeenAt": "2026-10-19T15:34:32.211Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Krémes-olajos habfürdő Soft Lotus Dream,..., 500 ml",
-          "url": "https://www.dm.hu/p/d/3090716/balea-kremes-olajos-habfurdo-soft-lotus-dream-sargabarackmag-olajjal-es-lotuszvirag-kivonattal",
-          "isPromo": false,
-          "observedAt": "2026-10-19T15:34:35.501Z",
-          "lastSeenAt": "2026-10-19T15:34:35.501Z",
-          "currentPriceCents": 29900,
-          "currentPriceEurCents": 81,
-          "referencePriceCents": 29900,
-          "referencePriceEurCents": 81
         }
       ]
     },
@@ -1039,9 +1011,9 @@
           "observedAt": "2026-09-01T12:32:04.843Z",
           "lastSeenAt": "2026-10-12T17:51:40.619Z",
           "currentPriceCents": 29900,
-          "currentPriceEurCents": 81,
+          "currentPriceEurCents": 82,
           "referencePriceCents": 29900,
-          "referencePriceEurCents": 81
+          "referencePriceEurCents": 82
         }
       ]
     },
@@ -1118,9 +1090,88 @@
           "observedAt": "2026-09-01T12:31:46.773Z",
           "lastSeenAt": "2026-10-23T13:22:55.166Z",
           "currentPriceCents": 29900,
-          "currentPriceEurCents": 81,
+          "currentPriceEurCents": 82,
           "referencePriceCents": 29900,
-          "referencePriceEurCents": 81
+          "referencePriceEurCents": 82
+        }
+      ]
+    },
+    {
+      "productId": 9537,
+      "brand": "Balea",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 168.29,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Kremasto-uljna kupka Soft Lotus Dream, 500 ml",
+          "url": "https://www.dm.hr/p/d/3090716/balea-kremasto-uljna-kupka-soft-lotus-dream",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:56.123Z",
+          "lastSeenAt": "2026-10-19T15:34:17.188Z",
+          "currentPriceCents": 215,
+          "currentPriceEurCents": 215,
+          "referencePriceCents": 215,
+          "referencePriceEurCents": 215
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Kremna kopel na oljni osnovi Soft LOTUS DREAM, 500 ml",
+          "url": "https://www.dm.si/p/d/3090716/balea-kremna-kopel-na-oljni-osnovi-soft-lotus-dream",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:57.723Z",
+          "lastSeenAt": "2026-10-19T15:34:09.260Z",
+          "currentPriceCents": 220,
+          "currentPriceEurCents": 220,
+          "referencePriceCents": 220,
+          "referencePriceEurCents": 220
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Badezusatz Creme-Öl Lotus Dream, 500 ml",
+          "url": "https://www.dm.at/p/d/3090716/balea-badezusatz-creme-oel-lotus-dream",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:34.775Z",
+          "lastSeenAt": "2026-10-19T15:34:22.548Z",
+          "currentPriceCents": 215,
+          "currentPriceEurCents": 215,
+          "referencePriceCents": 215,
+          "referencePriceEurCents": 215
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Creme-Öl Bad Soft LOTUS DREAM, 500 ml",
+          "url": "https://www.dm.de/p/d/3090716/balea-creme-oel-bad-soft-lotus-dream",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:19.020Z",
+          "lastSeenAt": "2026-10-19T15:34:32.211Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Krémes-olajos habfürdő Soft Lotus Dream,..., 500 ml",
+          "url": "https://www.dm.hu/p/d/3090716/balea-kremes-olajos-habfurdo-soft-lotus-dream-sargabarackmag-olajjal-es-lotuszvirag-kivonattal",
+          "isPromo": false,
+          "observedAt": "2026-10-19T15:34:35.501Z",
+          "lastSeenAt": "2026-10-19T15:34:35.501Z",
+          "currentPriceCents": 29900,
+          "currentPriceEurCents": 82,
+          "referencePriceCents": 29900,
+          "referencePriceEurCents": 82
         }
       ]
     },
@@ -1128,7 +1179,7 @@
       "productId": 10619,
       "brand": "Dove",
       "isCountryExtreme": true,
-      "overallPercentDiff": 166.87,
+      "overallPercentDiff": 165.24,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1169,9 +1220,9 @@
           "observedAt": "2026-10-03T19:06:11.832Z",
           "lastSeenAt": "2026-10-03T19:06:11.832Z",
           "currentPriceCents": 29900,
-          "currentPriceEurCents": 81,
+          "currentPriceEurCents": 82,
           "referencePriceCents": 59900,
-          "referencePriceEurCents": 163
+          "referencePriceEurCents": 164
         }
       ]
     },
@@ -1179,7 +1230,7 @@
       "productId": 22467,
       "brand": "Neutrogena",
       "isCountryExtreme": true,
-      "overallPercentDiff": 160.48,
+      "overallPercentDiff": 160.09,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1206,9 +1257,9 @@
           "observedAt": "2026-10-03T19:06:11.832Z",
           "lastSeenAt": "2026-10-03T19:06:11.832Z",
           "currentPriceCents": 119900,
-          "currentPriceEurCents": 327,
+          "currentPriceEurCents": 328,
           "referencePriceCents": 244900,
-          "referencePriceEurCents": 668
+          "referencePriceEurCents": 669
         }
       ]
     },
@@ -1285,9 +1336,9 @@
           "observedAt": "2026-09-01T12:32:09.419Z",
           "lastSeenAt": "2026-10-16T13:14:00.743Z",
           "currentPriceCents": 74900,
-          "currentPriceEurCents": 204,
+          "currentPriceEurCents": 205,
           "referencePriceCents": 74900,
-          "referencePriceEurCents": 204
+          "referencePriceEurCents": 205
         }
       ]
     },
@@ -1364,9 +1415,9 @@
           "observedAt": "2026-10-03T19:06:07.103Z",
           "lastSeenAt": "2026-10-03T19:06:07.103Z",
           "currentPriceCents": 29900,
-          "currentPriceEurCents": 81,
+          "currentPriceEurCents": 82,
           "referencePriceCents": 59900,
-          "referencePriceEurCents": 163
+          "referencePriceEurCents": 164
         }
       ]
     },
@@ -1374,7 +1425,7 @@
       "productId": 9740,
       "brand": "Moschino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 156.42,
+      "overallPercentDiff": 155.86,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1415,9 +1466,9 @@
           "observedAt": "2026-10-03T19:06:11.832Z",
           "lastSeenAt": "2026-10-03T19:06:11.832Z",
           "currentPriceCents": 249900,
-          "currentPriceEurCents": 681,
+          "currentPriceEurCents": 683,
           "referencePriceCents": 499900,
-          "referencePriceEurCents": 1363
+          "referencePriceEurCents": 1366
         }
       ]
     },
@@ -1425,7 +1476,7 @@
       "productId": 7970,
       "brand": "Gillette Venus",
       "isCountryExtreme": true,
-      "overallPercentDiff": 155.12,
+      "overallPercentDiff": 154.65,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1466,9 +1517,9 @@
           "observedAt": "2026-09-01T12:30:13.724Z",
           "lastSeenAt": "2026-10-09T15:16:31.469Z",
           "currentPriceCents": 196900,
-          "currentPriceEurCents": 537,
+          "currentPriceEurCents": 538,
           "referencePriceCents": 196900,
-          "referencePriceEurCents": 537
+          "referencePriceEurCents": 538
         }
       ]
     },
@@ -1554,46 +1605,9 @@
           "observedAt": "2026-09-28T16:44:26.494Z",
           "lastSeenAt": "2026-10-28T15:05:22.610Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 272,
+          "currentPriceEurCents": 273,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 272
-        }
-      ]
-    },
-    {
-      "productId": 16719,
-      "brand": "JOOP!",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 150.47,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Toaletna voda za moške Joop!, 30 ml",
-          "url": "https://www.dm.si/p/d/1531708/joop-toaletna-voda-za-moske-joop",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:00.643Z",
-          "lastSeenAt": "2026-10-14T13:41:01.971Z",
-          "currentPriceCents": 3995,
-          "currentPriceEurCents": 3995,
-          "referencePriceCents": 3995,
-          "referencePriceEurCents": 3995
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Eau de Toilette Homme, 30 ml",
-          "url": "https://www.dm.at/p/d/1531708/joop-eau-de-toilette-homme",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:18.966Z",
-          "lastSeenAt": "2026-10-14T13:41:06.014Z",
-          "currentPriceCents": 1595,
-          "currentPriceEurCents": 1595,
-          "referencePriceCents": 1595,
-          "referencePriceEurCents": 1595
+          "referencePriceEurCents": 273
         }
       ]
     }
