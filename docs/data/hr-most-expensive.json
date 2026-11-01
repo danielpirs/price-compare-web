@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T10:47:10.862Z",
+  "generatedAt": "2026-11-01T11:44:47.939Z",
   "fx": {
     "asOf": "2026-10-30",
     "rates": {
@@ -518,43 +518,6 @@
           "currentPriceEurCents": 82,
           "referencePriceCents": 59900,
           "referencePriceEurCents": 164
-        }
-      ]
-    },
-    {
-      "productId": 2378,
-      "brand": "Denkmit",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 169.23,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Vlažne maramice za čišćenje jako zaprljanih ploha, 20 kom.",
-          "url": "https://www.dm.hr/p/d/3042324/denkmit-vlazne-maramice-za-ciscenje-jako-zaprljanih-ploha",
-          "isPromo": true,
-          "observedAt": "2026-10-01T15:25:53.408Z",
-          "lastSeenAt": "2026-10-01T15:25:53.408Z",
-          "currentPriceCents": 120,
-          "currentPriceEurCents": 120,
-          "referencePriceCents": 175,
-          "referencePriceEurCents": 175
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Vlažne večnamenske krpice, 20 kos",
-          "url": "https://www.dm.si/p/d/3042324/denkmit-vlazne-vecnamenske-krpice",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:30.185Z",
-          "lastSeenAt": "2026-10-03T19:13:30.185Z",
-          "currentPriceCents": 45,
-          "currentPriceEurCents": 45,
-          "referencePriceCents": 65,
-          "referencePriceEurCents": 65
         }
       ]
     },
@@ -1524,6 +1487,43 @@
           "currentPriceEurCents": 123,
           "referencePriceCents": 44900,
           "referencePriceEurCents": 123
+        }
+      ]
+    },
+    {
+      "productId": 7203,
+      "brand": "proteini.si",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 123.53,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Proteinska pločica - kokos, 55 g",
+          "url": "https://www.dm.hr/p/d/2197423/proteini-si-proteinska-plocica-kokos",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:41.759Z",
+          "lastSeenAt": "2026-10-29T15:12:22.244Z",
+          "currentPriceCents": 190,
+          "currentPriceEurCents": 190,
+          "referencePriceCents": 190,
+          "referencePriceEurCents": 190
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Beljakovinska ploščica Kokos, 55 g",
+          "url": "https://www.dm.si/p/d/2197423/proteini-si-beljakovinska-ploscica-kokos",
+          "isPromo": true,
+          "observedAt": "2026-10-03T19:13:24.029Z",
+          "lastSeenAt": "2026-10-03T19:13:24.029Z",
+          "currentPriceCents": 40,
+          "currentPriceEurCents": 40,
+          "referencePriceCents": 85,
+          "referencePriceEurCents": 85
         }
       ]
     }
