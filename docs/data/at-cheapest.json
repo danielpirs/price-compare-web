@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T11:44:47.939Z",
+  "generatedAt": "2026-11-02T13:15:47.779Z",
   "fx": {
     "asOf": "2026-10-30",
     "rates": {
@@ -620,6 +620,71 @@
       ]
     },
     {
+      "productId": 18351,
+      "brand": "DOLCE&GABBANA",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 117.22,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Ženska toaletna voda Light Blue",
+          "url": "https://www.dm.si/p/d/1689490/dolce-gabbana-zenska-toaletna-voda-light-blue",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:22.881Z",
+          "lastSeenAt": "2026-11-01T15:04:30.499Z",
+          "currentPriceCents": 6495,
+          "currentPriceEurCents": 6495,
+          "referencePriceCents": 6495,
+          "referencePriceEurCents": 6495
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Eau de Toilette Light Blue, 25 ml",
+          "url": "https://www.dm.at/p/d/1689490/dolce-und-gabbana-eau-de-toilette-light-blue",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:55.121Z",
+          "lastSeenAt": "2026-11-01T15:04:38.857Z",
+          "currentPriceCents": 2990,
+          "currentPriceEurCents": 2990,
+          "referencePriceCents": 2990,
+          "referencePriceEurCents": 2990
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Light Blue Eau de Toilette, 25 ml",
+          "url": "https://www.dm.de/p/d/1689490/dolce-und-gabbana-light-blue-eau-de-toilette",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:34.098Z",
+          "lastSeenAt": "2026-11-01T15:04:44.297Z",
+          "currentPriceCents": 3495,
+          "currentPriceEurCents": 3495,
+          "referencePriceCents": 3495,
+          "referencePriceEurCents": 3495
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Női EdT Light Blue, 25 ml",
+          "url": "https://www.dm.hu/p/d/1689490/dolce-gabbana-noi-edt-light-blue",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:09.419Z",
+          "lastSeenAt": "2026-11-01T15:04:51.921Z",
+          "currentPriceCents": 1999900,
+          "currentPriceEurCents": 5459,
+          "referencePriceCents": 1999900,
+          "referencePriceEurCents": 5459
+        }
+      ]
+    },
+    {
       "productId": 11362,
       "brand": "MAX FACTOR",
       "isCountryExtreme": true,
@@ -1172,7 +1237,7 @@
           "url": "https://www.dm.hr/p/d/1895217/wei-er-riese-tekuci-deterdzent-za-pranje-rublja-universal-50-pranja",
           "isPromo": false,
           "observedAt": "2026-08-30T22:32:41.759Z",
-          "lastSeenAt": "2026-10-02T14:42:57.066Z",
+          "lastSeenAt": "2026-11-01T15:04:35.210Z",
           "currentPriceCents": 1595,
           "currentPriceEurCents": 1595,
           "referencePriceCents": 1595,
@@ -1186,7 +1251,7 @@
           "url": "https://www.dm.at/p/d/1895217/weisser-riese-universalwaschmittel-gel",
           "isPromo": false,
           "observedAt": "2026-08-30T22:36:22.891Z",
-          "lastSeenAt": "2026-10-02T14:43:00.500Z",
+          "lastSeenAt": "2026-11-01T15:04:38.857Z",
           "currentPriceCents": 785,
           "currentPriceEurCents": 785,
           "referencePriceCents": 785,
@@ -1595,57 +1660,6 @@
           "isPromo": false,
           "observedAt": "2026-08-28T16:43:30.608Z",
           "lastSeenAt": "2026-10-28T15:05:05.837Z",
-          "currentPriceCents": 795,
-          "currentPriceEurCents": 795,
-          "referencePriceCents": 795,
-          "referencePriceEurCents": 795
-        }
-      ]
-    },
-    {
-      "productId": 7264,
-      "brand": "Weißer Riese",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 100.63,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Floral Sensation kapsule za pranje rublja Lotus, 40 kom.",
-          "url": "https://www.dm.hr/p/d/1898766/wei-er-riese-floral-sensation-kapsule-za-pranje-rublja-lotus",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:42.747Z",
-          "lastSeenAt": "2026-10-18T12:35:52.243Z",
-          "currentPriceCents": 1595,
-          "currentPriceEurCents": 1595,
-          "referencePriceCents": 1595,
-          "referencePriceEurCents": 1595
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Kapsule za pranje perila Universal Floral..., 40 pranj",
-          "url": "https://www.dm.si/p/d/1898766/wei-er-riese-kapsule-za-pranje-perila-universal-floral-sensation",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:48.431Z",
-          "lastSeenAt": "2026-10-18T12:35:45.638Z",
-          "currentPriceCents": 1295,
-          "currentPriceEurCents": 1295,
-          "referencePriceCents": 1295,
-          "referencePriceEurCents": 1295
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Universalwaschmittel Caps, 40 Wl",
-          "url": "https://www.dm.at/p/d/1898766/weisser-riese-universalwaschmittel-caps",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:03.865Z",
-          "lastSeenAt": "2026-10-18T12:35:56.640Z",
           "currentPriceCents": 795,
           "currentPriceEurCents": 795,
           "referencePriceCents": 795,
