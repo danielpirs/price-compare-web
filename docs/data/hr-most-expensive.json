@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-02T13:15:47.779Z",
+  "generatedAt": "2026-11-03T12:40:48.341Z",
   "fx": {
-    "asOf": "2026-10-30",
+    "asOf": "2026-11-02",
     "rates": {
-      "USD": 1.1172,
-      "JPY": 175.68,
-      "CZK": 24.353,
-      "DKK": 7.4735,
-      "GBP": 0.8338,
-      "HUF": 366.33,
-      "PLN": 4.4038,
-      "RON": 5.3447,
-      "SEK": 10.978,
-      "CHF": 0.9194,
-      "ISK": 136,
-      "NOK": 10.312,
-      "TRY": 55.8015,
-      "AUD": 1.5904,
-      "BRL": 6.0692,
-      "CAD": 1.5606,
-      "CNY": 7.4326,
-      "HKD": 8.7652,
-      "IDR": 20275.17,
-      "ILS": 3.495,
-      "INR": 106.084,
-      "KRW": 1491.76,
-      "MXN": 21.1237,
-      "MYR": 4.5325,
-      "NZD": 1.9823,
-      "PHP": 71.143,
-      "SGD": 1.4282,
-      "THB": 37.683,
-      "ZAR": 18.6455
+      "USD": 1.1216,
+      "JPY": 177.1,
+      "CZK": 24.351,
+      "DKK": 7.4737,
+      "GBP": 0.8358,
+      "HUF": 364.5,
+      "PLN": 4.4185,
+      "RON": 5.3405,
+      "SEK": 10.9475,
+      "CHF": 0.9193,
+      "ISK": 136.2,
+      "NOK": 10.3775,
+      "TRY": 56.0442,
+      "AUD": 1.6004,
+      "BRL": 6.099,
+      "CAD": 1.5673,
+      "CNY": 7.4567,
+      "HKD": 8.8002,
+      "IDR": 20341.45,
+      "ILS": 3.521,
+      "INR": 106.4505,
+      "KRW": 1506.2,
+      "MXN": 20.9963,
+      "MYR": 4.5655,
+      "NZD": 1.9934,
+      "PHP": 71.274,
+      "SGD": 1.4344,
+      "THB": 37.865,
+      "ZAR": 18.6619
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -39,94 +39,6 @@
   "countryCode": "HR",
   "kind": "most-expensive",
   "items": [
-    {
-      "productId": 8591,
-      "brand": "Johnson's baby",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 316.67,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "bedtime ulje za djecu, 300 ml",
-          "url": "https://www.dm.hr/p/d/2189842/johnson-s-baby-bedtime-ulje-za-djecu",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:50.495Z",
-          "lastSeenAt": "2026-10-21T13:44:34.548Z",
-          "currentPriceCents": 625,
-          "currentPriceEurCents": 625,
-          "referencePriceCents": 625,
-          "referencePriceEurCents": 625
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Masažno olje za dojenčke in otroke bedtime, 300 ml",
-          "url": "https://www.dm.si/p/d/2189842/johnson-s-baby-masazno-olje-za-dojencke-in-otroke-bedtime",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:24.029Z",
-          "lastSeenAt": "2026-10-03T19:13:24.029Z",
-          "currentPriceCents": 99,
-          "currentPriceEurCents": 99,
-          "referencePriceCents": 150,
-          "referencePriceEurCents": 150
-        }
-      ]
-    },
-    {
-      "productId": 978,
-      "brand": "NIVEA BABY",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 296,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Blagi dječji šampon za kosu, 200 ml",
-          "url": "https://www.dm.hr/p/d/2278533/nivea-baby-blagi-djecji-sampon-za-kosu",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:48:58.847Z",
-          "lastSeenAt": "2026-10-21T13:44:31.302Z",
-          "currentPriceCents": 495,
-          "currentPriceEurCents": 495,
-          "referencePriceCents": 495,
-          "referencePriceEurCents": 495
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Posebno blag šampon za dojenčke, 200 ml",
-          "url": "https://www.dm.si/p/d/2278533/nivea-baby-posebno-blag-sampon-za-dojencke",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:27.655Z",
-          "lastSeenAt": "2026-10-03T19:13:27.655Z",
-          "currentPriceCents": 60,
-          "currentPriceEurCents": 60,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Sampon, 200 ml",
-          "url": "https://www.dm.hu/p/d/2278533/nivea-baby-sampon",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:41.384Z",
-          "lastSeenAt": "2026-10-21T13:44:49.512Z",
-          "currentPriceCents": 100900,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 100900,
-          "referencePriceEurCents": 275
-        }
-      ]
-    },
     {
       "productId": 14635,
       "brand": "MAX FACTOR",
@@ -200,120 +112,9 @@
           "observedAt": "2026-10-18T12:36:09.737Z",
           "lastSeenAt": "2026-10-18T12:36:09.737Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 819,
+          "currentPriceEurCents": 823,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 819
-        }
-      ]
-    },
-    {
-      "productId": 6251,
-      "brand": "proteini.si",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 192.31,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Proteinska pločica - naranča, 55 g",
-          "url": "https://www.dm.hr/p/d/2274958/proteini-si-proteinska-plocica-naranca",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:35.997Z",
-          "lastSeenAt": "2026-10-24T12:39:10.081Z",
-          "currentPriceCents": 190,
-          "currentPriceEurCents": 190,
-          "referencePriceCents": 190,
-          "referencePriceEurCents": 190
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Beljakovinska ploščica pomaranča, 55 g",
-          "url": "https://www.dm.si/p/d/2274958/proteini-si-beljakovinska-ploscica-pomaranca",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:26.512Z",
-          "lastSeenAt": "2026-10-03T19:13:26.512Z",
-          "currentPriceCents": 30,
-          "currentPriceEurCents": 30,
-          "referencePriceCents": 65,
-          "referencePriceEurCents": 65
-        }
-      ]
-    },
-    {
-      "productId": 6630,
-      "brand": "proteini.si",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 192.31,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Proteinska pločica - mliječna čokolada, 55 g",
-          "url": "https://www.dm.hr/p/d/2197422/proteini-si-proteinska-plocica-mlijecna-cokolada",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:38.262Z",
-          "lastSeenAt": "2026-10-30T15:01:30.548Z",
-          "currentPriceCents": 190,
-          "currentPriceEurCents": 190,
-          "referencePriceCents": 190,
-          "referencePriceEurCents": 190
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Beljakovinska ploščica Mlečna čokolada, 55 g",
-          "url": "https://www.dm.si/p/d/2197422/proteini-si-beljakovinska-ploscica-mlecna-cokolada",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:24.029Z",
-          "lastSeenAt": "2026-10-03T19:13:24.029Z",
-          "currentPriceCents": 30,
-          "currentPriceEurCents": 30,
-          "referencePriceCents": 65,
-          "referencePriceEurCents": 65
-        }
-      ]
-    },
-    {
-      "productId": 1006,
-      "brand": "NIVEA BABY",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 191.18,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Face & Body soft cream – krema za lice i tijelo, 200 ml",
-          "url": "https://www.dm.hr/p/d/2278532/nivea-baby-face-body-soft-cream-krema-za-lice-i-tijelo",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:49:11.495Z",
-          "lastSeenAt": "2026-10-22T13:45:10.296Z",
-          "currentPriceCents": 495,
-          "currentPriceEurCents": 495,
-          "referencePriceCents": 495,
-          "referencePriceEurCents": 495
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Krema za dojenčke Soft, 200 ml",
-          "url": "https://www.dm.si/p/d/2278532/nivea-baby-krema-za-dojencke-soft",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:27.655Z",
-          "lastSeenAt": "2026-10-03T19:13:27.655Z",
-          "currentPriceCents": 85,
-          "currentPriceEurCents": 85,
-          "referencePriceCents": 170,
-          "referencePriceEurCents": 170
+          "referencePriceEurCents": 823
         }
       ]
     },
@@ -321,7 +122,7 @@
       "productId": 7605,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 187.04,
+      "overallPercentDiff": 181.82,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -390,250 +191,9 @@
           "observedAt": "2026-09-01T12:30:50.931Z",
           "lastSeenAt": "2026-11-01T15:04:54.221Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
+          "currentPriceEurCents": 55,
           "referencePriceCents": 19900,
-          "referencePriceEurCents": 54
-        }
-      ]
-    },
-    {
-      "productId": 7334,
-      "brand": "vileda",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 185.51,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "SuperMocio 3Action zamjenske rese za mop, 1 kom.",
-          "url": "https://www.dm.hr/p/d/2137008/vileda-supermocio-3action-zamjenske-rese-za-mop",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:42.747Z",
-          "lastSeenAt": "2026-10-20T13:32:33.945Z",
-          "currentPriceCents": 985,
-          "currentPriceEurCents": 985,
-          "referencePriceCents": 985,
-          "referencePriceEurCents": 985
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Rezervna resa za močo Super 3Action čistilec, 1 kos",
-          "url": "https://www.dm.si/p/d/2137008/vileda-rezervna-resa-za-moco-super-3action-cistilec",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:22.920Z",
-          "lastSeenAt": "2026-10-03T19:13:22.920Z",
-          "currentPriceCents": 99,
-          "currentPriceEurCents": 99,
-          "referencePriceCents": 345,
-          "referencePriceEurCents": 345
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Gyorsfelmosó fej Supermocio 3Action, 1 db",
-          "url": "https://www.dm.hu/p/d/2137008/vileda-gyorsfelmoso-fej-supermocio-3action",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:28.672Z",
-          "lastSeenAt": "2026-10-20T13:32:51.463Z",
-          "currentPriceCents": 179900,
-          "currentPriceEurCents": 491,
-          "referencePriceCents": 179900,
-          "referencePriceEurCents": 491
-        }
-      ]
-    },
-    {
-      "productId": 14514,
-      "brand": "Johnson's baby",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 171.43,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Dječja krema za zaštitu pelenskog područja, 100 ml",
-          "url": "https://www.dm.hr/p/d/3081036/johnson-s-baby-djecja-krema-za-zastitu-pelenskog-podrucja",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:27.056Z",
-          "lastSeenAt": "2026-10-24T12:39:11.315Z",
-          "currentPriceCents": 475,
-          "currentPriceEurCents": 475,
-          "referencePriceCents": 475,
-          "referencePriceEurCents": 475
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Krema za nego občutljive kože v predelu plenic, 100 ml",
-          "url": "https://www.dm.si/p/d/3081036/johnson-s-baby-krema-za-nego-obcutljive-koze-v-predelu-plenic",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:32.561Z",
-          "lastSeenAt": "2026-10-03T19:13:32.561Z",
-          "currentPriceCents": 99,
-          "currentPriceEurCents": 99,
-          "referencePriceCents": 175,
-          "referencePriceEurCents": 175
-        }
-      ]
-    },
-    {
-      "productId": 10118,
-      "brand": "Dove MEN+CARE",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 171.34,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Sandalwood + Vanilla dezodorans u spreju, 150 ml",
-          "url": "https://www.dm.hr/p/d/3059229/dove-men-care-sandalwood-vanilla-dezodorans-u-spreju",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:00.205Z",
-          "lastSeenAt": "2026-10-23T13:22:38.291Z",
-          "currentPriceCents": 445,
-          "currentPriceEurCents": 445,
-          "referencePriceCents": 445,
-          "referencePriceEurCents": 445
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Deodorant v spreju Sandalwood & Vanilla, 150 ml",
-          "url": "https://www.dm.si/p/d/3059229/dove-men-care-deodorant-v-spreju-sandalwood-vanilla",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:03.751Z",
-          "lastSeenAt": "2026-10-23T13:22:32.896Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Férfi deo spray, Sandalwood + Vanilla, 150 ml",
-          "url": "https://www.dm.hu/p/d/3059229/dove-men-care-ferfi-deo-spray-sandalwood-vanilla",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:06:17.999Z",
-          "lastSeenAt": "2026-10-03T19:06:17.999Z",
-          "currentPriceCents": 29900,
-          "currentPriceEurCents": 82,
-          "referencePriceCents": 59900,
-          "referencePriceEurCents": 164
-        }
-      ]
-    },
-    {
-      "productId": 15006,
-      "brand": "NIVEA",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 167.61,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Black&White Invisible Pure dezodorans u spreju, 150 ml",
-          "url": "https://www.dm.hr/p/d/1830345/nivea-black-white-invisible-pure-dezodorans-u-spreju",
-          "isPromo": true,
-          "observedAt": "2026-10-29T15:12:19.963Z",
-          "lastSeenAt": "2026-10-29T15:12:19.963Z",
-          "currentPriceCents": 190,
-          "currentPriceEurCents": 190,
-          "referencePriceCents": 380,
-          "referencePriceEurCents": 380
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Dezodorant Black & White Invisible Pure, 150 ml",
-          "url": "https://www.dm.si/p/d/1830345/nivea-dezodorant-black-white-invisible-pure",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:20.552Z",
-          "lastSeenAt": "2026-10-03T19:13:20.552Z",
-          "currentPriceCents": 175,
-          "currentPriceEurCents": 175,
-          "referencePriceCents": 350,
-          "referencePriceEurCents": 350
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Deo spray Black & White Invisible Pure, 150 ml",
-          "url": "https://www.dm.hu/p/d/1830345/nivea-deo-spray-black-white-invisible-pure",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:06:10.259Z",
-          "lastSeenAt": "2026-10-03T19:06:10.259Z",
-          "currentPriceCents": 25900,
-          "currentPriceEurCents": 71,
-          "referencePriceCents": 51900,
-          "referencePriceEurCents": 142
-        }
-      ]
-    },
-    {
-      "productId": 3907,
-      "brand": "COREGA",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 159.32,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Krema za pričvršćivanje zubne proteze Power Max –..., 40 g",
-          "url": "https://www.dm.hr/p/d/2289511/corega-krema-za-pricvrscivanje-zubne-proteze-power-max-max-hold-seal",
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:09:08.648Z",
-          "lastSeenAt": "2026-10-23T13:22:35.945Z",
-          "currentPriceCents": 765,
-          "currentPriceEurCents": 765,
-          "referencePriceCents": 765,
-          "referencePriceEurCents": 765
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Pričvrstilna krema za zobne proteze MAX HOLD +..., 40 g",
-          "url": "https://www.dm.si/p/d/2289511/corega-pricvrstilna-krema-za-zobne-proteze-max-hold-seal",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:05.929Z",
-          "lastSeenAt": "2026-10-23T13:22:32.896Z",
-          "currentPriceCents": 595,
-          "currentPriceEurCents": 595,
-          "referencePriceCents": 595,
-          "referencePriceEurCents": 595
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Műfogsorrögzítő krém max, 40 g",
-          "url": "https://www.dm.hu/p/d/2289511/corega-mufogsorrogzito-krem-max",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:06:13.313Z",
-          "lastSeenAt": "2026-10-03T19:06:13.313Z",
-          "currentPriceCents": 49900,
-          "currentPriceEurCents": 136,
-          "referencePriceCents": 107900,
-          "referencePriceEurCents": 295
+          "referencePriceEurCents": 55
         }
       ]
     },
@@ -641,7 +201,7 @@
       "productId": 11017,
       "brand": "Aquafresh",
       "isCountryExtreme": true,
-      "overallPercentDiff": 157.35,
+      "overallPercentDiff": 155.47,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -659,20 +219,6 @@
           "referencePriceEurCents": 350
         },
         {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Zobna pasta White & Shine, 100 ml",
-          "url": "https://www.dm.si/p/d/2278071/aquafresh-zobna-pasta-white-shine",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:27.655Z",
-          "lastSeenAt": "2026-10-03T19:13:27.655Z",
-          "currentPriceCents": 135,
-          "currentPriceEurCents": 135,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
           "countryCode": "HU",
           "shopId": "dm-hu",
           "currency": "HUF",
@@ -682,9 +228,9 @@
           "observedAt": "2026-09-01T12:32:49.604Z",
           "lastSeenAt": "2026-10-18T12:36:08.084Z",
           "currentPriceCents": 49900,
-          "currentPriceEurCents": 136,
+          "currentPriceEurCents": 137,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 136
+          "referencePriceEurCents": 137
         }
       ]
     },
@@ -833,57 +379,6 @@
           "currentPriceEurCents": 1145,
           "referencePriceCents": 1145,
           "referencePriceEurCents": 1145
-        }
-      ]
-    },
-    {
-      "productId": 2493,
-      "brand": "FERRAGAMO",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 151.93,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Signorina Misteriosa edp, 30 ml",
-          "url": "https://www.dm.hr/p/d/1896751/ferragamo-signorina-misteriosa-edp",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:59:12.991Z",
-          "lastSeenAt": "2026-10-22T13:45:10.296Z",
-          "currentPriceCents": 6190,
-          "currentPriceEurCents": 6190,
-          "referencePriceCents": 6190,
-          "referencePriceEurCents": 6190
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Parfumska voda Signorina Misteriosa, 30 ml",
-          "url": "https://www.dm.si/p/d/1896751/ferragamo-parfumska-voda-signorina-misteriosa",
-          "isPromo": false,
-          "observedAt": "2026-09-22T13:23:31.787Z",
-          "lastSeenAt": "2026-10-22T13:45:51.602Z",
-          "currentPriceCents": 6095,
-          "currentPriceEurCents": 6095,
-          "referencePriceCents": 6095,
-          "referencePriceEurCents": 6095
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "EdP Misteriosa, 30 ml",
-          "url": "https://www.dm.hu/p/d/1896751/ferragamo-edp-misteriosa",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:06:10.259Z",
-          "lastSeenAt": "2026-10-03T19:06:10.259Z",
-          "currentPriceCents": 449900,
-          "currentPriceEurCents": 1228,
-          "referencePriceCents": 899900,
-          "referencePriceEurCents": 2457
         }
       ]
     },
@@ -1065,43 +560,6 @@
           "currentPriceEurCents": 112,
           "referencePriceCents": 40900,
           "referencePriceEurCents": 112
-        }
-      ]
-    },
-    {
-      "productId": 9285,
-      "brand": "dmBio",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 144.83,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Grilana bundeva u maslinovom ulju, 280 g",
-          "url": "https://www.dm.hr/p/d/1711273/dmbio-grilana-bundeva-u-maslinovom-ulju",
-          "isPromo": true,
-          "observedAt": "2026-09-17T13:25:06.330Z",
-          "lastSeenAt": "2026-10-17T12:10:04.064Z",
-          "currentPriceCents": 245,
-          "currentPriceEurCents": 245,
-          "referencePriceCents": 355,
-          "referencePriceEurCents": 355
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Bio buča z žara v oljčnem olju, 280 g",
-          "url": "https://www.dm.si/p/d/1711273/dmbio-bio-buca-z-zara-v-oljcnem-olju",
-          "isPromo": true,
-          "observedAt": "2026-10-03T19:13:19.250Z",
-          "lastSeenAt": "2026-10-03T19:13:19.250Z",
-          "currentPriceCents": 95,
-          "currentPriceEurCents": 95,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
         }
       ]
     },
@@ -1303,9 +761,9 @@
           "observedAt": "2026-09-01T12:30:04.184Z",
           "lastSeenAt": "2026-10-19T15:34:37.210Z",
           "currentPriceCents": 37900,
-          "currentPriceEurCents": 103,
+          "currentPriceEurCents": 104,
           "referencePriceCents": 37900,
-          "referencePriceEurCents": 103
+          "referencePriceEurCents": 104
         }
       ]
     },
@@ -1519,39 +977,637 @@
       ]
     },
     {
-      "productId": 7203,
-      "brand": "proteini.si",
+      "productId": 5281,
+      "brand": "Mivolis",
       "isCountryExtreme": true,
-      "overallPercentDiff": 123.53,
+      "overallPercentDiff": 123.08,
       "gapToExtremePercent": 0,
       "countries": [
         {
           "countryCode": "HR",
           "shopId": "dm-hr",
           "currency": "EUR",
-          "name": "Proteinska pločica - kokos, 55 g",
-          "url": "https://www.dm.hr/p/d/2197423/proteini-si-proteinska-plocica-kokos",
+          "name": "Bomboni – limun i malina, 35 g",
+          "url": "https://www.dm.hr/p/d/3130671/mivolis-bomboni-limun-i-malina",
           "isPromo": false,
-          "observedAt": "2026-08-30T22:32:41.759Z",
-          "lastSeenAt": "2026-10-29T15:12:22.244Z",
-          "currentPriceCents": 190,
-          "currentPriceEurCents": 190,
-          "referencePriceCents": 190,
-          "referencePriceEurCents": 190
+          "observedAt": "2026-08-30T21:47:42.847Z",
+          "lastSeenAt": "2026-10-04T14:04:10.034Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
         },
         {
           "countryCode": "SI",
           "shopId": "dm-si",
           "currency": "EUR",
-          "name": "Beljakovinska ploščica Kokos, 55 g",
-          "url": "https://www.dm.si/p/d/2197423/proteini-si-beljakovinska-ploscica-kokos",
+          "name": "Bonboni z okusom limone in maline brez sladkorja,..., 50 kos",
+          "url": "https://www.dm.si/p/d/3130671/mivolis-bonboni-z-okusom-limone-in-maline-brez-sladkorja-s-sladili",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:44.606Z",
+          "lastSeenAt": "2026-10-04T14:04:06.292Z",
+          "currentPriceCents": 65,
+          "currentPriceEurCents": 65,
+          "referencePriceCents": 65,
+          "referencePriceEurCents": 65
+        }
+      ]
+    },
+    {
+      "productId": 10116,
+      "brand": "Signal",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 121.52,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Super Mario Kids dječja pasta za zube Strawberry..., 75 g",
+          "url": "https://www.dm.hr/p/d/2952151/signal-super-mario-kids-djecja-pasta-za-zube-strawberry-flavour-0-6-god-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:00.205Z",
+          "lastSeenAt": "2026-10-14T13:40:56.462Z",
+          "currentPriceCents": 350,
+          "currentPriceEurCents": 350,
+          "referencePriceCents": 350,
+          "referencePriceEurCents": 350
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Otroška zobna pasta Super Mario Strawberry, 0 – 6..., 75 ml",
+          "url": "https://www.dm.si/p/d/2952151/signal-otroska-zobna-pasta-super-mario-strawberry-0-6-let",
+          "isPromo": false,
+          "observedAt": "2026-10-14T13:41:01.971Z",
+          "lastSeenAt": "2026-10-14T13:41:01.971Z",
+          "currentPriceCents": 345,
+          "currentPriceEurCents": 345,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkrém Kids epres 0-6 éves korig, 75 ml",
+          "url": "https://www.dm.hu/p/d/2952151/signal-fogkrem-kids-epres-0-6-eves-korig",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:29:46.464Z",
+          "lastSeenAt": "2026-10-14T13:41:24.201Z",
+          "currentPriceCents": 57500,
+          "currentPriceEurCents": 158,
+          "referencePriceCents": 57500,
+          "referencePriceEurCents": 158
+        }
+      ]
+    },
+    {
+      "productId": 11378,
+      "brand": "Signal",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 121.52,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Super Mario Kids dječja pasta za zube Fruity..., 75 g",
+          "url": "https://www.dm.hr/p/d/2721248/signal-super-mario-kids-djecja-pasta-za-zube-fruity-flavour-0-6-god-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:08.143Z",
+          "lastSeenAt": "2026-10-25T13:09:58.111Z",
+          "currentPriceCents": 350,
+          "currentPriceEurCents": 350,
+          "referencePriceCents": 350,
+          "referencePriceEurCents": 350
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Otroška zobna pasta Super Mario Fruity, 0 – 6 let, 75 ml",
+          "url": "https://www.dm.si/p/d/2721248/signal-otroska-zobna-pasta-super-mario-fruity-0-6-let",
+          "isPromo": false,
+          "observedAt": "2026-10-25T13:10:04.750Z",
+          "lastSeenAt": "2026-10-25T13:10:04.750Z",
+          "currentPriceCents": 345,
+          "currentPriceEurCents": 345,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkrém Kids gyümölcsös, 0-6 éves korig, 75 ml",
+          "url": "https://www.dm.hu/p/d/2721248/signal-fogkrem-kids-gyumolcsos-0-6-eves-korig",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:29:59.422Z",
+          "lastSeenAt": "2026-10-25T13:10:26.624Z",
+          "currentPriceCents": 57500,
+          "currentPriceEurCents": 158,
+          "referencePriceCents": 57500,
+          "referencePriceEurCents": 158
+        }
+      ]
+    },
+    {
+      "productId": 13032,
+      "brand": "Signal",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 121.52,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Super Mario Junior dječja pasta za zube Mild Mint..., 75 g",
+          "url": "https://www.dm.hr/p/d/2952152/signal-super-mario-junior-djecja-pasta-za-zube-mild-mint-flavour-6-13-god-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:17.918Z",
+          "lastSeenAt": "2026-10-11T14:53:58.849Z",
+          "currentPriceCents": 350,
+          "currentPriceEurCents": 350,
+          "referencePriceCents": 350,
+          "referencePriceEurCents": 350
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkrém junior 6-13 éves korig, 75 ml",
+          "url": "https://www.dm.hu/p/d/2952152/signal-fogkrem-junior-6-13-eves-korig",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:29:55.346Z",
+          "lastSeenAt": "2026-10-11T14:54:15.303Z",
+          "currentPriceCents": 57500,
+          "currentPriceEurCents": 158,
+          "referencePriceCents": 57500,
+          "referencePriceEurCents": 158
+        }
+      ]
+    },
+    {
+      "productId": 5345,
+      "brand": "dmBio",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 117.95,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Bourbon vanilija – mljevena, 5 g",
+          "url": "https://www.dm.hr/p/d/1461618/dmbio-bourbon-vanilija-mljevena",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:42.847Z",
+          "lastSeenAt": "2026-10-24T12:39:12.602Z",
+          "currentPriceCents": 425,
+          "currentPriceEurCents": 425,
+          "referencePriceCents": 425,
+          "referencePriceEurCents": 425
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Bio mleta bourbonska vanilja, 5 g",
+          "url": "https://www.dm.si/p/d/1461618/dmbio-bio-mleta-bourbonska-vanilja",
+          "isPromo": false,
+          "observedAt": "2026-09-24T13:31:56.275Z",
+          "lastSeenAt": "2026-10-24T12:39:06.301Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 195,
+          "referencePriceEurCents": 195
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Bourbon Vanille gemahlen, 5 g",
+          "url": "https://www.dm.at/p/d/1461618/dmbio-bourbon-vanille-gemahlen",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:47.183Z",
+          "lastSeenAt": "2026-10-24T12:39:13.526Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 195,
+          "referencePriceEurCents": 195
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Bourbon-Vanille gemahlen, 5 g",
+          "url": "https://www.dm.de/p/d/1461618/dmbio-bourbon-vanille-gemahlen",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:17.685Z",
+          "lastSeenAt": "2026-10-24T12:39:21.028Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Bio őrölt bourbon vanília, 5 g",
+          "url": "https://www.dm.hu/p/d/1461618/dmbio-bio-orolt-bourbon-vanilia",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:04.843Z",
+          "lastSeenAt": "2026-10-24T12:39:23.327Z",
+          "currentPriceCents": 89900,
+          "currentPriceEurCents": 247,
+          "referencePriceCents": 89900,
+          "referencePriceEurCents": 247
+        }
+      ]
+    },
+    {
+      "productId": 12425,
+      "brand": "Oral-B",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 117.29,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Pasta za zube Professional Sensitivity & Gum Calm, 75 ml",
+          "url": "https://www.dm.hr/p/d/3131848/oral-b-pasta-za-zube-professional-sensitivity-gum-calm",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:14.196Z",
+          "lastSeenAt": "2026-10-15T13:23:07.020Z",
+          "currentPriceCents": 465,
+          "currentPriceEurCents": 465,
+          "referencePriceCents": 465,
+          "referencePriceEurCents": 465
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkrém Pro-expert Refreshing Clean, 75 ml",
+          "url": "https://www.dm.hu/p/d/3131848/oral-b-fogkrem-pro-expert-refreshing-clean",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:13.914Z",
+          "lastSeenAt": "2026-10-15T13:23:27.448Z",
+          "currentPriceCents": 77900,
+          "currentPriceEurCents": 214,
+          "referencePriceCents": 77900,
+          "referencePriceEurCents": 214
+        }
+      ]
+    },
+    {
+      "productId": 10360,
+      "brand": "dmBio",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 117.24,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Umak Pesto alla Calabrese, 120 g",
+          "url": "https://www.dm.hr/p/d/3090054/dmbio-umak-pesto-alla-calabrese",
           "isPromo": true,
-          "observedAt": "2026-10-03T19:13:24.029Z",
-          "lastSeenAt": "2026-10-03T19:13:24.029Z",
-          "currentPriceCents": 40,
-          "currentPriceEurCents": 40,
-          "referencePriceCents": 85,
-          "referencePriceEurCents": 85
+          "observedAt": "2026-09-08T13:15:11.085Z",
+          "lastSeenAt": "2026-10-08T15:33:46.000Z",
+          "currentPriceCents": 220,
+          "currentPriceEurCents": 220,
+          "referencePriceCents": 315,
+          "referencePriceEurCents": 315
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Bio pesto z rdečo papriko Calabrese, 120 g",
+          "url": "https://www.dm.si/p/d/3090054/dmbio-bio-pesto-z-rdeco-papriko-calabrese",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:49.766Z",
+          "lastSeenAt": "2026-10-08T15:33:42.420Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
+        }
+      ]
+    },
+    {
+      "productId": 11663,
+      "brand": "Braun",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 111.17,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Pulsni oksimetar za prst, 1 kom.",
+          "url": "https://www.dm.hr/p/d/1678223/braun-pulsni-oksimetar-za-prst",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:09.256Z",
+          "lastSeenAt": "2026-10-14T13:40:56.462Z",
+          "currentPriceCents": 3685,
+          "currentPriceEurCents": 3685,
+          "referencePriceCents": 3685,
+          "referencePriceEurCents": 3685
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Sauerstoffmessgerät, 1 St",
+          "url": "https://www.dm.at/p/d/1678223/braun-sauerstoffmessgeraet",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:38:02.169Z",
+          "lastSeenAt": "2026-10-14T13:41:06.014Z",
+          "currentPriceCents": 2990,
+          "currentPriceEurCents": 2990,
+          "referencePriceCents": 2990,
+          "referencePriceEurCents": 2990
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Pulsoximeter, 1 St",
+          "url": "https://www.dm.de/p/d/1678223/braun-pulsoximeter",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:16.762Z",
+          "lastSeenAt": "2026-10-14T13:41:11.897Z",
+          "currentPriceCents": 1745,
+          "currentPriceEurCents": 1745,
+          "referencePriceCents": 1745,
+          "referencePriceEurCents": 1745
+        }
+      ]
+    },
+    {
+      "productId": 1159,
+      "brand": "Jordan",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 110.67,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Dječja četkica za zube Step By Step, 6 – 9 god.,..., 2 kom.",
+          "url": "https://www.dm.hr/p/d/2946187/jordan-djecja-cetkica-za-zube-step-by-step-6-9-god-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:50:17.739Z",
+          "lastSeenAt": "2026-10-08T15:33:46.000Z",
+          "currentPriceCents": 375,
+          "currentPriceEurCents": 375,
+          "referencePriceCents": 375,
+          "referencePriceEurCents": 375
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkefe gyerek 6-9 éves korig (többféle), 2 db",
+          "url": "https://www.dm.hu/p/d/2946187/jordan-fogkefe-gyerek-6-9-eves-korig-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:33:05.046Z",
+          "lastSeenAt": "2026-10-08T15:34:01.248Z",
+          "currentPriceCents": 64900,
+          "currentPriceEurCents": 178,
+          "referencePriceCents": 64900,
+          "referencePriceEurCents": 178
+        }
+      ]
+    },
+    {
+      "productId": 1188,
+      "brand": "Jordan",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 110.67,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Dječja četkica za zube Step By Step, 3 – 5 god.,..., 2 kom.",
+          "url": "https://www.dm.hr/p/d/2946186/jordan-djecja-cetkica-za-zube-step-by-step-3-5-god-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:50:30.531Z",
+          "lastSeenAt": "2026-10-07T15:32:12.965Z",
+          "currentPriceCents": 375,
+          "currentPriceEurCents": 375,
+          "referencePriceCents": 375,
+          "referencePriceEurCents": 375
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkefe gyerek 3-5 éves korig (többféle), 2 db",
+          "url": "https://www.dm.hu/p/d/2946186/jordan-fogkefe-gyerek-3-5-eves-korig-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:32.566Z",
+          "lastSeenAt": "2026-10-07T15:32:33.137Z",
+          "currentPriceCents": 64900,
+          "currentPriceEurCents": 178,
+          "referencePriceCents": 64900,
+          "referencePriceEurCents": 178
+        }
+      ]
+    },
+    {
+      "productId": 5201,
+      "brand": "Balea PROFESSIONAL",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 107.75,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Plex Care šampon za kosu, 250 ml",
+          "url": "https://www.dm.hr/p/d/1674700/balea-professional-plex-care-sampon-za-kosu",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:41.623Z",
+          "lastSeenAt": "2026-10-16T13:13:41.587Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Šampon za lase PLEX CARE, 250 ml",
+          "url": "https://www.dm.si/p/d/1674700/balea-professional-sampon-za-lase-plex-care",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:14.426Z",
+          "lastSeenAt": "2026-10-16T13:13:43.302Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Shampoo Plex Care, 250 ml",
+          "url": "https://www.dm.at/p/d/1674700/balea-professional-shampoo-plex-care",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:09.884Z",
+          "lastSeenAt": "2026-10-16T13:13:48.901Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Shampoo Plex Care, 250 ml",
+          "url": "https://www.dm.de/p/d/1674700/balea-professional-shampoo-plex-care",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:09.706Z",
+          "lastSeenAt": "2026-10-16T13:13:57.094Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 195,
+          "referencePriceEurCents": 195
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Sampon Plex Care, kémiailag kezelt és sérült hajra, 250 ml",
+          "url": "https://www.dm.hu/p/d/1674700/balea-professional-sampon-plex-care-kemiailag-kezelt-es-serult-hajra",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:35.276Z",
+          "lastSeenAt": "2026-10-16T13:14:00.743Z",
+          "currentPriceCents": 51900,
+          "currentPriceEurCents": 142,
+          "referencePriceCents": 51900,
+          "referencePriceEurCents": 142
+        }
+      ]
+    },
+    {
+      "productId": 5562,
+      "brand": "Sportness",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 107.14,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Hrustljavi vaflji Protein Wafer Bites, 30 g",
+          "url": "https://www.dm.si/p/d/1713565/sportness-hrustljavi-vaflji-protein-wafer-bites",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:45.469Z",
+          "lastSeenAt": "2026-10-31T14:30:32.565Z",
+          "currentPriceCents": 95,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
+        },
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Proteinski vafl od riže i slanutka  –..., 30 g",
+          "url": "https://www.dm.hr/p/d/1713565/sportness-proteinski-vafl-od-rize-i-slanutka-ljesnjak-kakao",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:23.186Z",
+          "lastSeenAt": "2026-10-31T14:30:36.732Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Protein Wafer Bites Haselnuss-Kakao, 30 g",
+          "url": "https://www.dm.at/p/d/1713565/sportness-protein-wafer-bites-haselnuss-kakao",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:34.775Z",
+          "lastSeenAt": "2026-10-31T14:30:39.838Z",
+          "currentPriceCents": 70,
+          "currentPriceEurCents": 70,
+          "referencePriceCents": 70,
+          "referencePriceEurCents": 70
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Protein Wafer Bites, Haselnuss-Kakao Geschmack, 30 g",
+          "url": "https://www.dm.de/p/d/1713565/sportness-protein-wafer-bites-haselnuss-kakao-geschmack",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:51.188Z",
+          "lastSeenAt": "2026-10-31T14:30:53.187Z",
+          "currentPriceCents": 115,
+          "currentPriceEurCents": 115,
+          "referencePriceCents": 115,
+          "referencePriceEurCents": 115
+        }
+      ]
+    },
+    {
+      "productId": 2237,
+      "brand": "Aquafresh",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 106.59,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Clean & Flex četkica za zube, 2 kom.",
+          "url": "https://www.dm.hr/p/d/2366978/aquafresh-clean-flex-cetkica-za-zube",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:57:32.685Z",
+          "lastSeenAt": "2026-10-24T12:39:10.081Z",
+          "currentPriceCents": 345,
+          "currentPriceEurCents": 345,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkefe clean&flex duopack (többféle), 2 db",
+          "url": "https://www.dm.hu/p/d/2366978/aquafresh-fogkefe-clean-flex-duopack-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:42.358Z",
+          "lastSeenAt": "2026-10-24T12:39:23.327Z",
+          "currentPriceCents": 60900,
+          "currentPriceEurCents": 167,
+          "referencePriceCents": 60900,
+          "referencePriceEurCents": 167
         }
       ]
     }
