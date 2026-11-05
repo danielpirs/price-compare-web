@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-04T12:51:13.427Z",
+  "generatedAt": "2026-11-05T12:59:10.702Z",
   "fx": {
-    "asOf": "2026-11-03",
+    "asOf": "2026-11-04",
     "rates": {
-      "USD": 1.1179,
-      "JPY": 176.95,
-      "CZK": 24.343,
-      "DKK": 7.4735,
-      "GBP": 0.83358,
-      "HUF": 364.4,
-      "PLN": 4.419,
-      "RON": 5.3428,
-      "SEK": 10.9515,
-      "CHF": 0.9166,
-      "ISK": 136.2,
-      "NOK": 10.3185,
-      "TRY": 55.8921,
-      "AUD": 1.6007,
-      "BRL": 6.1411,
-      "CAD": 1.5623,
-      "CNY": 7.459,
-      "HKD": 8.771,
-      "IDR": 20275.02,
-      "ILS": 3.5292,
-      "INR": 105.9155,
-      "KRW": 1503.12,
-      "MXN": 20.7896,
-      "MYR": 4.5577,
-      "NZD": 1.9876,
-      "PHP": 70.943,
-      "SGD": 1.4322,
-      "THB": 37.735,
-      "ZAR": 18.5995
+      "USD": 1.1267,
+      "JPY": 178.3,
+      "CZK": 24.309,
+      "DKK": 7.4738,
+      "GBP": 0.8346,
+      "HUF": 363.03,
+      "PLN": 4.399,
+      "RON": 5.344,
+      "SEK": 10.9718,
+      "CHF": 0.9188,
+      "ISK": 136.8,
+      "NOK": 10.397,
+      "TRY": 56.3598,
+      "AUD": 1.6061,
+      "BRL": 6.1579,
+      "CAD": 1.5701,
+      "CNY": 7.5177,
+      "HKD": 8.8399,
+      "IDR": 20425.83,
+      "ILS": 3.5641,
+      "INR": 106.6318,
+      "KRW": 1508.18,
+      "MXN": 21.0086,
+      "MYR": 4.5789,
+      "NZD": 1.9988,
+      "PHP": 71.578,
+      "SGD": 1.4398,
+      "THB": 37.902,
+      "ZAR": 18.5404
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -43,7 +43,7 @@
       "productId": 2140,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 235,
+      "overallPercentDiff": 236.67,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -112,9 +112,9 @@
           "observedAt": "2026-09-01T12:31:00.665Z",
           "lastSeenAt": "2026-10-15T13:23:25.815Z",
           "currentPriceCents": 219900,
-          "currentPriceEurCents": 603,
+          "currentPriceEurCents": 606,
           "referencePriceCents": 219900,
-          "referencePriceEurCents": 603
+          "referencePriceEurCents": 606
         }
       ]
     },
@@ -122,7 +122,7 @@
       "productId": 55919,
       "brand": "Stella Jones",
       "isCountryExtreme": true,
-      "overallPercentDiff": 230.65,
+      "overallPercentDiff": 232.16,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -135,9 +135,9 @@
           "observedAt": "2026-09-01T12:30:13.724Z",
           "lastSeenAt": "2026-10-18T12:36:09.737Z",
           "currentPriceCents": 239900,
-          "currentPriceEurCents": 658,
+          "currentPriceEurCents": 661,
           "referencePriceCents": 239900,
-          "referencePriceEurCents": 658
+          "referencePriceEurCents": 661
         },
         {
           "countryCode": "SI",
@@ -156,89 +156,10 @@
       ]
     },
     {
-      "productId": 15471,
-      "brand": "Balea",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 229.33,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Koncentrat s hialuronom, 7 kos",
-          "url": "https://www.dm.si/p/d/1708626/balea-koncentrat-s-hialuronom",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:42.628Z",
-          "lastSeenAt": "2026-10-31T14:30:28.446Z",
-          "currentPriceCents": 135,
-          "currentPriceEurCents": 135,
-          "referencePriceCents": 135,
-          "referencePriceEurCents": 135
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Konzentrat Hyaluron, 7 St",
-          "url": "https://www.dm.at/p/d/1708626/balea-konzentrat-hyaluron",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:45.712Z",
-          "lastSeenAt": "2026-10-31T14:30:43.946Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Hyaluron Konzentrat, 7 St",
-          "url": "https://www.dm.de/p/d/1708626/balea-hyaluron-konzentrat",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:17.685Z",
-          "lastSeenAt": "2026-10-31T14:30:51.410Z",
-          "currentPriceCents": 75,
-          "currentPriceEurCents": 75,
-          "referencePriceCents": 75,
-          "referencePriceEurCents": 75
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Hidratáló koncentrátum hialuronnal 7 db kapszula..., 7 db",
-          "url": "https://www.dm.hu/p/d/1708626/balea-hidratalo-koncentratum-hialuronnal-7-db-kapszula-7-alkalomra",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:37.751Z",
-          "lastSeenAt": "2026-10-31T14:30:56.768Z",
-          "currentPriceCents": 89900,
-          "currentPriceEurCents": 247,
-          "referencePriceCents": 89900,
-          "referencePriceEurCents": 247
-        },
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Koncentrat za hidrataciju s hijaluronom, 7 kom.",
-          "url": "https://www.dm.hr/p/d/1708626/balea-koncentrat-za-hidrataciju-s-hijaluronom",
-          "isPromo": false,
-          "observedAt": "2026-10-01T15:25:53.408Z",
-          "lastSeenAt": "2026-10-31T14:30:34.622Z",
-          "currentPriceCents": 115,
-          "currentPriceEurCents": 115,
-          "referencePriceCents": 115,
-          "referencePriceEurCents": 115
-        }
-      ]
-    },
-    {
       "productId": 5557,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 229.09,
+      "overallPercentDiff": 230.91,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -293,9 +214,88 @@
           "observedAt": "2026-09-01T12:30:58.541Z",
           "lastSeenAt": "2026-10-31T14:30:54.836Z",
           "currentPriceCents": 65900,
-          "currentPriceEurCents": 181,
+          "currentPriceEurCents": 182,
           "referencePriceCents": 65900,
-          "referencePriceEurCents": 181
+          "referencePriceEurCents": 182
+        }
+      ]
+    },
+    {
+      "productId": 15471,
+      "brand": "Balea",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 230.67,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Koncentrat s hialuronom, 7 kos",
+          "url": "https://www.dm.si/p/d/1708626/balea-koncentrat-s-hialuronom",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:42.628Z",
+          "lastSeenAt": "2026-10-31T14:30:28.446Z",
+          "currentPriceCents": 135,
+          "currentPriceEurCents": 135,
+          "referencePriceCents": 135,
+          "referencePriceEurCents": 135
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Konzentrat Hyaluron, 7 St",
+          "url": "https://www.dm.at/p/d/1708626/balea-konzentrat-hyaluron",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:45.712Z",
+          "lastSeenAt": "2026-10-31T14:30:43.946Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Hyaluron Konzentrat, 7 St",
+          "url": "https://www.dm.de/p/d/1708626/balea-hyaluron-konzentrat",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:17.685Z",
+          "lastSeenAt": "2026-10-31T14:30:51.410Z",
+          "currentPriceCents": 75,
+          "currentPriceEurCents": 75,
+          "referencePriceCents": 75,
+          "referencePriceEurCents": 75
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Hidratáló koncentrátum hialuronnal 7 db kapszula..., 7 db",
+          "url": "https://www.dm.hu/p/d/1708626/balea-hidratalo-koncentratum-hialuronnal-7-db-kapszula-7-alkalomra",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:37.751Z",
+          "lastSeenAt": "2026-10-31T14:30:56.768Z",
+          "currentPriceCents": 89900,
+          "currentPriceEurCents": 248,
+          "referencePriceCents": 89900,
+          "referencePriceEurCents": 248
+        },
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Koncentrat za hidrataciju s hijaluronom, 7 kom.",
+          "url": "https://www.dm.hr/p/d/1708626/balea-koncentrat-za-hidrataciju-s-hijaluronom",
+          "isPromo": false,
+          "observedAt": "2026-10-01T15:25:53.408Z",
+          "lastSeenAt": "2026-10-31T14:30:34.622Z",
+          "currentPriceCents": 115,
+          "currentPriceEurCents": 115,
+          "referencePriceCents": 115,
+          "referencePriceEurCents": 115
         }
       ]
     },
@@ -303,7 +303,7 @@
       "productId": 7017,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 222.35,
+      "overallPercentDiff": 223.53,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -372,9 +372,9 @@
           "observedAt": "2026-09-01T12:31:46.773Z",
           "lastSeenAt": "2026-10-24T12:39:23.327Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 274,
+          "currentPriceEurCents": 275,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 274
+          "referencePriceEurCents": 275
         }
       ]
     },
@@ -382,7 +382,7 @@
       "productId": 10916,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 222.35,
+      "overallPercentDiff": 223.53,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -451,9 +451,9 @@
           "observedAt": "2026-09-01T12:32:54.339Z",
           "lastSeenAt": "2026-10-17T12:10:21.109Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 274,
+          "currentPriceEurCents": 275,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 274
+          "referencePriceEurCents": 275
         }
       ]
     },
@@ -461,7 +461,7 @@
       "productId": 24501,
       "brand": "Stella Jones",
       "isCountryExtreme": true,
-      "overallPercentDiff": 203.02,
+      "overallPercentDiff": 204.52,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -488,9 +488,9 @@
           "observedAt": "2026-09-01T12:30:10.466Z",
           "lastSeenAt": "2026-10-07T15:32:35.169Z",
           "currentPriceCents": 219900,
-          "currentPriceEurCents": 603,
+          "currentPriceEurCents": 606,
           "referencePriceCents": 219900,
-          "referencePriceEurCents": 603
+          "referencePriceEurCents": 606
         }
       ]
     },
@@ -498,7 +498,7 @@
       "productId": 27011,
       "brand": "Frosch",
       "isCountryExtreme": true,
-      "overallPercentDiff": 197.63,
+      "overallPercentDiff": 198.64,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -539,9 +539,9 @@
           "observedAt": "2026-09-01T12:31:43.995Z",
           "lastSeenAt": "2026-11-04T12:04:41.720Z",
           "currentPriceCents": 319900,
-          "currentPriceEurCents": 878,
+          "currentPriceEurCents": 881,
           "referencePriceCents": 319900,
-          "referencePriceEurCents": 878
+          "referencePriceEurCents": 881
         }
       ]
     },
@@ -549,7 +549,7 @@
       "productId": 5135,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 195.38,
+      "overallPercentDiff": 196.92,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -618,9 +618,9 @@
           "observedAt": "2026-09-01T12:30:55.609Z",
           "lastSeenAt": "2026-10-20T13:32:53.855Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 192,
+          "currentPriceEurCents": 193,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 192
+          "referencePriceEurCents": 193
         }
       ]
     },
@@ -628,7 +628,7 @@
       "productId": 5206,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 195.38,
+      "overallPercentDiff": 196.92,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -669,9 +669,9 @@
           "observedAt": "2026-09-01T12:29:59.422Z",
           "lastSeenAt": "2026-10-25T13:10:24.522Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 192,
+          "currentPriceEurCents": 193,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 192
+          "referencePriceEurCents": 193
         }
       ]
     },
@@ -679,7 +679,7 @@
       "productId": 3304,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 190.59,
+      "overallPercentDiff": 191.76,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -734,9 +734,9 @@
           "observedAt": "2026-09-01T12:30:55.609Z",
           "lastSeenAt": "2026-10-20T13:32:51.463Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 247,
+          "currentPriceEurCents": 248,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 247
+          "referencePriceEurCents": 248
         }
       ]
     },
@@ -744,7 +744,7 @@
       "productId": 5271,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 190.59,
+      "overallPercentDiff": 191.76,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -813,9 +813,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-10-11T14:54:15.303Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 247,
+          "currentPriceEurCents": 248,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 247
+          "referencePriceEurCents": 248
         }
       ]
     },
@@ -823,7 +823,7 @@
       "productId": 7733,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 190.59,
+      "overallPercentDiff": 191.76,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -892,9 +892,9 @@
           "observedAt": "2026-09-01T12:31:07.865Z",
           "lastSeenAt": "2026-10-31T14:30:54.836Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 247,
+          "currentPriceEurCents": 248,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 247
+          "referencePriceEurCents": 248
         }
       ]
     },
@@ -902,7 +902,7 @@
       "productId": 2456,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 188.42,
+      "overallPercentDiff": 189.47,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -971,9 +971,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-10-12T17:51:42.466Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 274,
+          "currentPriceEurCents": 275,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 274
+          "referencePriceEurCents": 275
         }
       ]
     },
@@ -981,7 +981,7 @@
       "productId": 15608,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 188.42,
+      "overallPercentDiff": 189.47,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1022,9 +1022,9 @@
           "observedAt": "2026-09-24T13:32:19.547Z",
           "lastSeenAt": "2026-10-24T12:39:23.327Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 274,
+          "currentPriceEurCents": 275,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 274
+          "referencePriceEurCents": 275
         }
       ]
     },
@@ -1032,7 +1032,7 @@
       "productId": 837,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 184.8,
+      "overallPercentDiff": 186.4,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1087,9 +1087,9 @@
           "observedAt": "2026-09-01T12:29:59.422Z",
           "lastSeenAt": "2026-10-08T15:34:01.248Z",
           "currentPriceCents": 129900,
-          "currentPriceEurCents": 356,
+          "currentPriceEurCents": 358,
           "referencePriceCents": 129900,
-          "referencePriceEurCents": 356
+          "referencePriceEurCents": 358
         }
       ]
     },
@@ -1097,7 +1097,7 @@
       "productId": 3477,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 184.8,
+      "overallPercentDiff": 186.4,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1138,9 +1138,9 @@
           "observedAt": "2026-09-01T12:32:47.738Z",
           "lastSeenAt": "2026-10-13T11:44:16.827Z",
           "currentPriceCents": 129900,
-          "currentPriceEurCents": 356,
+          "currentPriceEurCents": 358,
           "referencePriceCents": 129900,
-          "referencePriceEurCents": 356
+          "referencePriceEurCents": 358
         }
       ]
     },
@@ -1148,7 +1148,7 @@
       "productId": 6257,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 184.8,
+      "overallPercentDiff": 186.4,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1189,9 +1189,9 @@
           "observedAt": "2026-09-01T12:32:59.257Z",
           "lastSeenAt": "2026-10-25T13:10:26.624Z",
           "currentPriceCents": 129900,
-          "currentPriceEurCents": 356,
+          "currentPriceEurCents": 358,
           "referencePriceCents": 129900,
-          "referencePriceEurCents": 356
+          "referencePriceEurCents": 358
         }
       ]
     },
@@ -1199,7 +1199,7 @@
       "productId": 8497,
       "brand": "dmBio",
       "isCountryExtreme": true,
-      "overallPercentDiff": 180,
+      "overallPercentDiff": 181.28,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1240,9 +1240,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-10-09T15:16:29.929Z",
           "currentPriceCents": 239900,
-          "currentPriceEurCents": 658,
+          "currentPriceEurCents": 661,
           "referencePriceCents": 239900,
-          "referencePriceEurCents": 658
+          "referencePriceEurCents": 661
         }
       ]
     },
@@ -1250,7 +1250,7 @@
       "productId": 9912,
       "brand": "L'ORÉAL PARiS",
       "isCountryExtreme": true,
-      "overallPercentDiff": 177.72,
+      "overallPercentDiff": 178.99,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1319,9 +1319,9 @@
           "observedAt": "2026-09-01T12:31:30.809Z",
           "lastSeenAt": "2026-10-13T11:44:16.827Z",
           "currentPriceCents": 399900,
-          "currentPriceEurCents": 1097,
+          "currentPriceEurCents": 1102,
           "referencePriceCents": 399900,
-          "referencePriceEurCents": 1097
+          "referencePriceEurCents": 1102
         }
       ]
     },
@@ -1329,7 +1329,7 @@
       "productId": 1798,
       "brand": "Dr.Beckmann",
       "isCountryExtreme": true,
-      "overallPercentDiff": 169.83,
+      "overallPercentDiff": 170.85,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1370,9 +1370,9 @@
           "observedAt": "2026-09-01T12:32:54.339Z",
           "lastSeenAt": "2026-10-15T13:23:25.815Z",
           "currentPriceCents": 289900,
-          "currentPriceEurCents": 796,
+          "currentPriceEurCents": 799,
           "referencePriceCents": 289900,
-          "referencePriceEurCents": 796
+          "referencePriceEurCents": 799
         },
         {
           "countryCode": "DE",
@@ -1394,7 +1394,7 @@
       "productId": 6941,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 163.64,
+      "overallPercentDiff": 165.45,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1463,9 +1463,9 @@
           "observedAt": "2026-09-01T12:30:55.609Z",
           "lastSeenAt": "2026-10-15T13:23:27.448Z",
           "currentPriceCents": 52900,
-          "currentPriceEurCents": 145,
+          "currentPriceEurCents": 146,
           "referencePriceCents": 52900,
-          "referencePriceEurCents": 145
+          "referencePriceEurCents": 146
         }
       ]
     },
@@ -1473,7 +1473,7 @@
       "productId": 130,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 161.27,
+      "overallPercentDiff": 162.22,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1542,9 +1542,9 @@
           "observedAt": "2026-09-01T12:32:51.781Z",
           "lastSeenAt": "2026-10-12T17:51:40.619Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 823,
+          "currentPriceEurCents": 826,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 823
+          "referencePriceEurCents": 826
         }
       ]
     },
@@ -1552,7 +1552,7 @@
       "productId": 9553,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 161.27,
+      "overallPercentDiff": 162.22,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1621,9 +1621,9 @@
           "observedAt": "2026-09-01T12:31:17.754Z",
           "lastSeenAt": "2026-10-23T13:22:57.120Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 823,
+          "currentPriceEurCents": 826,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 823
+          "referencePriceEurCents": 826
         }
       ]
     },
@@ -1631,7 +1631,7 @@
       "productId": 1013,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 160,
+      "overallPercentDiff": 161.05,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1700,9 +1700,9 @@
           "observedAt": "2026-09-01T12:32:19.940Z",
           "lastSeenAt": "2026-10-25T13:10:24.522Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 247,
+          "currentPriceEurCents": 248,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 247
+          "referencePriceEurCents": 248
         }
       ]
     },
@@ -1710,7 +1710,7 @@
       "productId": 1880,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 160,
+      "overallPercentDiff": 161.05,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1779,9 +1779,9 @@
           "observedAt": "2026-09-01T12:32:25.549Z",
           "lastSeenAt": "2026-10-30T15:01:51.674Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 247,
+          "currentPriceEurCents": 248,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 247
+          "referencePriceEurCents": 248
         }
       ]
     },
@@ -1789,7 +1789,7 @@
       "productId": 11162,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 160,
+      "overallPercentDiff": 161.05,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1858,9 +1858,9 @@
           "observedAt": "2026-09-01T12:31:05.211Z",
           "lastSeenAt": "2026-10-07T15:32:33.137Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 247,
+          "currentPriceEurCents": 248,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 247
+          "referencePriceEurCents": 248
         }
       ]
     },
@@ -1868,7 +1868,7 @@
       "productId": 11969,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 160,
+      "overallPercentDiff": 161.05,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1937,9 +1937,9 @@
           "observedAt": "2026-09-01T12:31:46.773Z",
           "lastSeenAt": "2026-10-11T14:54:16.931Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 247,
+          "currentPriceEurCents": 248,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 247
+          "referencePriceEurCents": 248
         }
       ]
     },
@@ -1947,7 +1947,7 @@
       "productId": 4742,
       "brand": "Dr. Beckmann",
       "isCountryExtreme": true,
-      "overallPercentDiff": 159.27,
+      "overallPercentDiff": 160.36,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -2002,88 +2002,88 @@
           "observedAt": "2026-09-01T12:31:10.517Z",
           "lastSeenAt": "2026-10-07T15:32:35.169Z",
           "currentPriceCents": 259900,
-          "currentPriceEurCents": 713,
+          "currentPriceEurCents": 716,
           "referencePriceCents": 259900,
-          "referencePriceEurCents": 713
+          "referencePriceEurCents": 716
         }
       ]
     },
     {
-      "productId": 7082,
-      "brand": "Mivolis",
+      "productId": 119,
+      "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 158,
+      "overallPercentDiff": 158.82,
       "gapToExtremePercent": 0,
       "countries": [
         {
           "countryCode": "HR",
           "shopId": "dm-hr",
           "currency": "EUR",
-          "name": "Tvrdi bomboni za grlo s kaduljom i vitaminom C, 50 g",
-          "url": "https://www.dm.hr/p/d/1570968/mivolis-tvrdi-bomboni-za-grlo-s-kaduljom-i-vitaminom-c",
+          "name": "Mlijeko za čišćenje lica, 200 ml",
+          "url": "https://www.dm.hr/p/d/1625617/balea-mlijeko-za-ciscenje-lica",
           "isPromo": false,
-          "observedAt": "2026-08-30T22:32:41.759Z",
+          "observedAt": "2026-08-28T15:41:00.760Z",
           "lastSeenAt": "2026-10-11T14:53:58.849Z",
-          "currentPriceCents": 90,
-          "currentPriceEurCents": 90,
-          "referencePriceCents": 90,
-          "referencePriceEurCents": 90
+          "currentPriceCents": 115,
+          "currentPriceEurCents": 115,
+          "referencePriceCents": 115,
+          "referencePriceEurCents": 115
         },
         {
           "countryCode": "SI",
           "shopId": "dm-si",
           "currency": "EUR",
-          "name": "Žajbljevi bonboni, z dragocenimi izvlečki in..., 50 g",
-          "url": "https://www.dm.si/p/d/1570968/mivolis-zajbljevi-bonboni-z-dragocenimi-izvlecki-in-etericnimi-olji-zajblja",
+          "name": "Čistilno mleko z mandljevim mlekom in..., 200 ml",
+          "url": "https://www.dm.si/p/d/1625617/balea-cistilno-mleko-z-mandljevim-mlekom-in-provitaminom-b5",
           "isPromo": false,
-          "observedAt": "2026-08-30T22:35:01.846Z",
+          "observedAt": "2026-08-30T21:47:44.606Z",
           "lastSeenAt": "2026-10-11T14:53:54.394Z",
-          "currentPriceCents": 90,
-          "currentPriceEurCents": 90,
-          "referencePriceCents": 90,
-          "referencePriceEurCents": 90
+          "currentPriceCents": 140,
+          "currentPriceEurCents": 140,
+          "referencePriceCents": 140,
+          "referencePriceEurCents": 140
         },
         {
           "countryCode": "AT",
           "shopId": "dm-at",
           "currency": "EUR",
-          "name": "Halsbonbons Salbei, 50 g",
-          "url": "https://www.dm.at/p/d/1570968/mivolis-halsbonbons-salbei",
+          "name": "Reinigungsmilch sanft, 200 ml",
+          "url": "https://www.dm.at/p/d/1625617/balea-reinigungsmilch-sanft",
           "isPromo": false,
-          "observedAt": "2026-08-30T22:37:42.743Z",
-          "lastSeenAt": "2026-10-11T14:54:07.043Z",
+          "observedAt": "2026-08-30T22:38:04.233Z",
+          "lastSeenAt": "2026-10-11T14:54:05.415Z",
+          "currentPriceCents": 125,
+          "currentPriceEurCents": 125,
+          "referencePriceCents": 125,
+          "referencePriceEurCents": 125
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Reinigungsmilch Sanft, 200 ml",
+          "url": "https://www.dm.de/p/d/1625617/balea-reinigungsmilch-sanft",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:25.833Z",
+          "lastSeenAt": "2026-10-11T14:54:10.325Z",
           "currentPriceCents": 85,
           "currentPriceEurCents": 85,
           "referencePriceCents": 85,
           "referencePriceEurCents": 85
         },
         {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Halsbonbons Salbei, 50 g",
-          "url": "https://www.dm.de/p/d/1570968/mivolis-halsbonbons-salbei",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:13.515Z",
-          "lastSeenAt": "2026-10-11T14:54:13.720Z",
-          "currentPriceCents": 50,
-          "currentPriceEurCents": 50,
-          "referencePriceCents": 50,
-          "referencePriceEurCents": 50
-        },
-        {
           "countryCode": "HU",
           "shopId": "dm-hu",
           "currency": "HUF",
-          "name": "Zsályás cukorka C-vitaminnal, 50 g",
-          "url": "https://www.dm.hu/p/d/1570968/mivolis-zsalyas-cukorka-c-vitaminnal",
+          "name": "Gyengéd arclemosó tej száraz és érzékeny bőrre,..., 200 ml",
+          "url": "https://www.dm.hu/p/d/1625617/balea-gyenged-arclemoso-tej-szaraz-es-erzekeny-borre-mandulatejjel-es-b5-provitaminnnal",
           "isPromo": false,
-          "observedAt": "2026-09-01T12:32:51.781Z",
-          "lastSeenAt": "2026-10-11T14:54:15.303Z",
-          "currentPriceCents": 46900,
-          "currentPriceEurCents": 129,
-          "referencePriceCents": 46900,
-          "referencePriceEurCents": 129
+          "observedAt": "2026-09-01T12:32:16.800Z",
+          "lastSeenAt": "2026-10-11T14:54:16.931Z",
+          "currentPriceCents": 79900,
+          "currentPriceEurCents": 220,
+          "referencePriceCents": 79900,
+          "referencePriceEurCents": 220
         }
       ]
     }

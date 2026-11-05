@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-04T12:51:13.427Z",
+  "generatedAt": "2026-11-05T12:59:10.702Z",
   "fx": {
-    "asOf": "2026-11-03",
+    "asOf": "2026-11-04",
     "rates": {
-      "USD": 1.1179,
-      "JPY": 176.95,
-      "CZK": 24.343,
-      "DKK": 7.4735,
-      "GBP": 0.83358,
-      "HUF": 364.4,
-      "PLN": 4.419,
-      "RON": 5.3428,
-      "SEK": 10.9515,
-      "CHF": 0.9166,
-      "ISK": 136.2,
-      "NOK": 10.3185,
-      "TRY": 55.8921,
-      "AUD": 1.6007,
-      "BRL": 6.1411,
-      "CAD": 1.5623,
-      "CNY": 7.459,
-      "HKD": 8.771,
-      "IDR": 20275.02,
-      "ILS": 3.5292,
-      "INR": 105.9155,
-      "KRW": 1503.12,
-      "MXN": 20.7896,
-      "MYR": 4.5577,
-      "NZD": 1.9876,
-      "PHP": 70.943,
-      "SGD": 1.4322,
-      "THB": 37.735,
-      "ZAR": 18.5995
+      "USD": 1.1267,
+      "JPY": 178.3,
+      "CZK": 24.309,
+      "DKK": 7.4738,
+      "GBP": 0.8346,
+      "HUF": 363.03,
+      "PLN": 4.399,
+      "RON": 5.344,
+      "SEK": 10.9718,
+      "CHF": 0.9188,
+      "ISK": 136.8,
+      "NOK": 10.397,
+      "TRY": 56.3598,
+      "AUD": 1.6061,
+      "BRL": 6.1579,
+      "CAD": 1.5701,
+      "CNY": 7.5177,
+      "HKD": 8.8399,
+      "IDR": 20425.83,
+      "ILS": 3.5641,
+      "INR": 106.6318,
+      "KRW": 1508.18,
+      "MXN": 21.0086,
+      "MYR": 4.5789,
+      "NZD": 1.9988,
+      "PHP": 71.578,
+      "SGD": 1.4398,
+      "THB": 37.902,
+      "ZAR": 18.5404
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -200,9 +200,9 @@
           "observedAt": "2026-09-01T12:30:17.495Z",
           "lastSeenAt": "2026-10-28T15:05:22.610Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 247,
+          "currentPriceEurCents": 248,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 247
+          "referencePriceEurCents": 248
         }
       ]
     },
@@ -614,7 +614,7 @@
       "productId": 7970,
       "brand": "Gillette Venus",
       "isCountryExtreme": true,
-      "overallPercentDiff": 153.7,
+      "overallPercentDiff": 152.77,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -655,9 +655,9 @@
           "observedAt": "2026-09-01T12:30:13.724Z",
           "lastSeenAt": "2026-10-09T15:16:31.469Z",
           "currentPriceCents": 196900,
-          "currentPriceEurCents": 540,
+          "currentPriceEurCents": 542,
           "referencePriceCents": 196900,
-          "referencePriceEurCents": 540
+          "referencePriceEurCents": 542
         }
       ]
     },
@@ -706,9 +706,9 @@
           "observedAt": "2026-09-28T16:44:26.494Z",
           "lastSeenAt": "2026-10-28T15:05:22.610Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 274,
+          "currentPriceEurCents": 275,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 274
+          "referencePriceEurCents": 275
         }
       ]
     },
@@ -753,7 +753,7 @@
       "productId": 1190,
       "brand": "Balea PROFESSIONAL",
       "isCountryExtreme": true,
-      "overallPercentDiff": 144.83,
+      "overallPercentDiff": 143.15,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -782,7 +782,7 @@
           "currentPriceCents": 29900,
           "currentPriceEurCents": 82,
           "referencePriceCents": 52900,
-          "referencePriceEurCents": 145
+          "referencePriceEurCents": 146
         }
       ]
     },
@@ -841,7 +841,7 @@
       "productId": 10884,
       "brand": "WILKINSON SWORD",
       "isCountryExtreme": true,
-      "overallPercentDiff": 142.33,
+      "overallPercentDiff": 140.85,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -882,87 +882,8 @@
           "observedAt": "2026-09-01T12:30:45.278Z",
           "lastSeenAt": "2026-10-30T15:01:53.484Z",
           "currentPriceCents": 59500,
-          "currentPriceEurCents": 163,
-          "referencePriceCents": 59500,
-          "referencePriceEurCents": 163
-        }
-      ]
-    },
-    {
-      "productId": 6347,
-      "brand": "ebelin",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 140.85,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Trimer za oblikovanje obrva, više vrsta, 3 kom.",
-          "url": "https://www.dm.hr/p/d/1345197/ebelin-trimer-za-oblikovanje-obrva-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:37.197Z",
-          "lastSeenAt": "2026-10-29T15:12:19.963Z",
-          "currentPriceCents": 320,
-          "currentPriceEurCents": 320,
-          "referencePriceCents": 320,
-          "referencePriceEurCents": 320
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Pripomoček za oblikovanje obrvi, več različic, 3 kos",
-          "url": "https://www.dm.si/p/d/1345197/ebelin-pripomocek-za-oblikovanje-obrvi-vec-razlicic",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:44.749Z",
-          "lastSeenAt": "2026-10-29T15:12:17.316Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Augenbrauenformer sortiert, 1 St",
-          "url": "https://www.dm.at/p/d/1345197/ebelin-augenbrauenformer-sortiert",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:00.636Z",
-          "lastSeenAt": "2026-10-29T15:12:24.663Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Augenbrauenformer, 3 St",
-          "url": "https://www.dm.de/p/d/1345197/ebelin-augenbrauenformer",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:43.104Z",
-          "lastSeenAt": "2026-10-29T15:12:37.043Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Szemöldökformázó, többféle, 3 db",
-          "url": "https://www.dm.hu/p/d/1345197/ebelin-szemoldokformazo-tobbfele",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:55.609Z",
-          "lastSeenAt": "2026-10-29T15:12:47.095Z",
-          "currentPriceCents": 59900,
           "currentPriceEurCents": 164,
-          "referencePriceCents": 59900,
+          "referencePriceCents": 59500,
           "referencePriceEurCents": 164
         }
       ]
@@ -998,9 +919,9 @@
           "observedAt": "2026-10-19T15:34:35.501Z",
           "lastSeenAt": "2026-10-19T15:34:35.501Z",
           "currentPriceCents": 599900,
-          "currentPriceEurCents": 1646,
+          "currentPriceEurCents": 1652,
           "referencePriceCents": 599900,
-          "referencePriceEurCents": 1646
+          "referencePriceEurCents": 1652
         },
         {
           "countryCode": "SI",
@@ -1112,10 +1033,89 @@
       ]
     },
     {
+      "productId": 6347,
+      "brand": "ebelin",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 139.39,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Trimer za oblikovanje obrva, više vrsta, 3 kom.",
+          "url": "https://www.dm.hr/p/d/1345197/ebelin-trimer-za-oblikovanje-obrva-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:37.197Z",
+          "lastSeenAt": "2026-10-29T15:12:19.963Z",
+          "currentPriceCents": 320,
+          "currentPriceEurCents": 320,
+          "referencePriceCents": 320,
+          "referencePriceEurCents": 320
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Pripomoček za oblikovanje obrvi, več različic, 3 kos",
+          "url": "https://www.dm.si/p/d/1345197/ebelin-pripomocek-za-oblikovanje-obrvi-vec-razlicic",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:44.749Z",
+          "lastSeenAt": "2026-10-29T15:12:17.316Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Augenbrauenformer sortiert, 1 St",
+          "url": "https://www.dm.at/p/d/1345197/ebelin-augenbrauenformer-sortiert",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:00.636Z",
+          "lastSeenAt": "2026-10-29T15:12:24.663Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Augenbrauenformer, 3 St",
+          "url": "https://www.dm.de/p/d/1345197/ebelin-augenbrauenformer",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:43.104Z",
+          "lastSeenAt": "2026-10-29T15:12:37.043Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Szemöldökformázó, többféle, 3 db",
+          "url": "https://www.dm.hu/p/d/1345197/ebelin-szemoldokformazo-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:55.609Z",
+          "lastSeenAt": "2026-10-29T15:12:47.095Z",
+          "currentPriceCents": 59900,
+          "currentPriceEurCents": 165,
+          "referencePriceCents": 59900,
+          "referencePriceEurCents": 165
+        }
+      ]
+    },
+    {
       "productId": 667,
       "brand": "Balea med",
       "isCountryExtreme": true,
-      "overallPercentDiff": 138.74,
+      "overallPercentDiff": 136.61,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1184,9 +1184,9 @@
           "observedAt": "2026-09-01T12:31:37.751Z",
           "lastSeenAt": "2026-10-13T11:44:15.269Z",
           "currentPriceCents": 40500,
-          "currentPriceEurCents": 111,
+          "currentPriceEurCents": 112,
           "referencePriceCents": 40500,
-          "referencePriceEurCents": 111
+          "referencePriceEurCents": 112
         }
       ]
     },
@@ -1314,9 +1314,9 @@
           "observedAt": "2026-09-01T12:30:45.278Z",
           "lastSeenAt": "2026-10-19T15:34:37.210Z",
           "currentPriceCents": 119900,
-          "currentPriceEurCents": 329,
+          "currentPriceEurCents": 330,
           "referencePriceCents": 119900,
-          "referencePriceEurCents": 329
+          "referencePriceEurCents": 330
         }
       ]
     },
@@ -1375,7 +1375,7 @@
       "productId": 7293,
       "brand": "BIC",
       "isCountryExtreme": true,
-      "overallPercentDiff": 135.58,
+      "overallPercentDiff": 134.45,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1430,9 +1430,9 @@
           "observedAt": "2026-09-01T12:32:59.257Z",
           "lastSeenAt": "2026-10-30T15:01:53.484Z",
           "currentPriceCents": 75900,
-          "currentPriceEurCents": 208,
+          "currentPriceEurCents": 209,
           "referencePriceCents": 75900,
-          "referencePriceEurCents": 208
+          "referencePriceEurCents": 209
         }
       ]
     },
@@ -1495,9 +1495,9 @@
           "observedAt": "2026-09-01T12:33:07.322Z",
           "lastSeenAt": "2026-10-20T13:32:51.463Z",
           "currentPriceCents": 459900,
-          "currentPriceEurCents": 1262,
+          "currentPriceEurCents": 1267,
           "referencePriceCents": 459900,
-          "referencePriceEurCents": 1262
+          "referencePriceEurCents": 1267
         }
       ]
     },
@@ -1505,7 +1505,7 @@
       "productId": 17313,
       "brand": "Gillette Venus",
       "isCountryExtreme": true,
-      "overallPercentDiff": 131.27,
+      "overallPercentDiff": 130.67,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1516,7 +1516,7 @@
           "url": "https://www.dm.si/p/d/2105007/gillette-venus-damski-brivnik-za-enkratno-uporabo-venus-sensitive",
           "isPromo": false,
           "observedAt": "2026-08-30T22:34:11.741Z",
-          "lastSeenAt": "2026-10-06T11:14:31.059Z",
+          "lastSeenAt": "2026-11-05T12:15:42.996Z",
           "currentPriceCents": 895,
           "currentPriceEurCents": 895,
           "referencePriceCents": 895,
@@ -1530,11 +1530,11 @@
           "url": "https://www.dm.hu/p/d/2105007/gillette-venus-sensitive-noi-eldobhato-borotva",
           "isPromo": false,
           "observedAt": "2026-09-01T12:32:11.497Z",
-          "lastSeenAt": "2026-10-06T11:14:46.769Z",
+          "lastSeenAt": "2026-11-05T12:16:05.537Z",
           "currentPriceCents": 140900,
-          "currentPriceEurCents": 387,
+          "currentPriceEurCents": 388,
           "referencePriceCents": 140900,
-          "referencePriceEurCents": 387
+          "referencePriceEurCents": 388
         }
       ]
     },
@@ -1553,7 +1553,7 @@
           "url": "https://www.dm.hr/p/d/1344805/sundance-stik-za-suncanje-spf-30",
           "isPromo": false,
           "observedAt": "2026-08-30T22:33:09.256Z",
-          "lastSeenAt": "2026-10-06T11:14:33.828Z",
+          "lastSeenAt": "2026-11-05T12:15:49.447Z",
           "currentPriceCents": 375,
           "currentPriceEurCents": 375,
           "referencePriceCents": 375,
@@ -1567,7 +1567,7 @@
           "url": "https://www.dm.si/p/d/1344805/sundance-stik-za-soncenje-zf-30",
           "isPromo": true,
           "observedAt": "2026-09-06T12:07:57.907Z",
-          "lastSeenAt": "2026-10-06T11:14:31.059Z",
+          "lastSeenAt": "2026-11-05T12:15:46.108Z",
           "currentPriceCents": 350,
           "currentPriceEurCents": 350,
           "referencePriceCents": 495,
@@ -1581,7 +1581,7 @@
           "url": "https://www.dm.at/p/d/1344805/sundance-sonnenstick-lsf-30",
           "isPromo": false,
           "observedAt": "2026-08-30T22:36:02.765Z",
-          "lastSeenAt": "2026-10-06T11:14:37.262Z",
+          "lastSeenAt": "2026-11-05T12:15:55.225Z",
           "currentPriceCents": 495,
           "currentPriceEurCents": 495,
           "referencePriceCents": 495,
@@ -1595,7 +1595,7 @@
           "url": "https://www.dm.de/p/d/1344805/sundance-sonnenstick-gesicht-und-lippenpflege-lsf-30",
           "isPromo": false,
           "observedAt": "2026-08-31T20:42:31.622Z",
-          "lastSeenAt": "2026-10-06T11:14:42.552Z",
+          "lastSeenAt": "2026-11-05T12:15:59.985Z",
           "currentPriceCents": 215,
           "currentPriceEurCents": 215,
           "referencePriceCents": 215,
@@ -1662,9 +1662,9 @@
           "observedAt": "2026-09-01T12:32:07.099Z",
           "lastSeenAt": "2026-10-31T14:30:56.768Z",
           "currentPriceCents": 59900,
-          "currentPriceEurCents": 164,
+          "currentPriceEurCents": 165,
           "referencePriceCents": 59900,
-          "referencePriceEurCents": 164
+          "referencePriceEurCents": 165
         }
       ]
     },
@@ -1764,9 +1764,9 @@
           "observedAt": "2026-09-01T12:32:11.497Z",
           "lastSeenAt": "2026-10-21T13:44:49.512Z",
           "currentPriceCents": 339900,
-          "currentPriceEurCents": 933,
+          "currentPriceEurCents": 936,
           "referencePriceCents": 339900,
-          "referencePriceEurCents": 933
+          "referencePriceEurCents": 936
         }
       ]
     },

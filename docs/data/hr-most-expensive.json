@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-04T12:51:13.427Z",
+  "generatedAt": "2026-11-05T12:59:10.702Z",
   "fx": {
-    "asOf": "2026-11-03",
+    "asOf": "2026-11-04",
     "rates": {
-      "USD": 1.1179,
-      "JPY": 176.95,
-      "CZK": 24.343,
-      "DKK": 7.4735,
-      "GBP": 0.83358,
-      "HUF": 364.4,
-      "PLN": 4.419,
-      "RON": 5.3428,
-      "SEK": 10.9515,
-      "CHF": 0.9166,
-      "ISK": 136.2,
-      "NOK": 10.3185,
-      "TRY": 55.8921,
-      "AUD": 1.6007,
-      "BRL": 6.1411,
-      "CAD": 1.5623,
-      "CNY": 7.459,
-      "HKD": 8.771,
-      "IDR": 20275.02,
-      "ILS": 3.5292,
-      "INR": 105.9155,
-      "KRW": 1503.12,
-      "MXN": 20.7896,
-      "MYR": 4.5577,
-      "NZD": 1.9876,
-      "PHP": 70.943,
-      "SGD": 1.4322,
-      "THB": 37.735,
-      "ZAR": 18.5995
+      "USD": 1.1267,
+      "JPY": 178.3,
+      "CZK": 24.309,
+      "DKK": 7.4738,
+      "GBP": 0.8346,
+      "HUF": 363.03,
+      "PLN": 4.399,
+      "RON": 5.344,
+      "SEK": 10.9718,
+      "CHF": 0.9188,
+      "ISK": 136.8,
+      "NOK": 10.397,
+      "TRY": 56.3598,
+      "AUD": 1.6061,
+      "BRL": 6.1579,
+      "CAD": 1.5701,
+      "CNY": 7.5177,
+      "HKD": 8.8399,
+      "IDR": 20425.83,
+      "ILS": 3.5641,
+      "INR": 106.6318,
+      "KRW": 1508.18,
+      "MXN": 21.0086,
+      "MYR": 4.5789,
+      "NZD": 1.9988,
+      "PHP": 71.578,
+      "SGD": 1.4398,
+      "THB": 37.902,
+      "ZAR": 18.5404
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -112,9 +112,9 @@
           "observedAt": "2026-10-18T12:36:09.737Z",
           "lastSeenAt": "2026-10-18T12:36:09.737Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 823,
+          "currentPriceEurCents": 826,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 823
+          "referencePriceEurCents": 826
         }
       ]
     },
@@ -383,187 +383,6 @@
       ]
     },
     {
-      "productId": 11106,
-      "brand": "Jordan",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 145.83,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Pasta za zube Junior, 6 – 12 god., više vrsta, 50 ml",
-          "url": "https://www.dm.hr/p/d/2158438/jordan-pasta-za-zube-junior-6-12-god-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:05.887Z",
-          "lastSeenAt": "2026-10-12T17:51:29.335Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Zobna krema za otroke 6-12 let, 50 ml",
-          "url": "https://www.dm.si/p/d/2158438/jordan-zobna-krema-za-otroke-6-12-let",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:19.593Z",
-          "lastSeenAt": "2026-10-12T17:51:25.488Z",
-          "currentPriceCents": 285,
-          "currentPriceEurCents": 285,
-          "referencePriceCents": 285,
-          "referencePriceEurCents": 285
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkrém junior 6 éves kortól, 50 ml",
-          "url": "https://www.dm.hu/p/d/2158438/jordan-fogkrem-junior-6-eves-kortol",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:35.474Z",
-          "lastSeenAt": "2026-10-12T17:51:42.466Z",
-          "currentPriceCents": 43900,
-          "currentPriceEurCents": 120,
-          "referencePriceCents": 43900,
-          "referencePriceEurCents": 120
-        }
-      ]
-    },
-    {
-      "productId": 12130,
-      "brand": "Jordan",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 145.83,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Pasta za zube Kids, 0 – 5 god., više vrsta, 50 ml",
-          "url": "https://www.dm.hr/p/d/2158437/jordan-pasta-za-zube-kids-0-5-god-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:13.032Z",
-          "lastSeenAt": "2026-11-04T12:04:17.469Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Zobna krema za otroke 0-5 let, 50 ml",
-          "url": "https://www.dm.si/p/d/2158437/jordan-zobna-krema-za-otroke-0-5-let",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:48.431Z",
-          "lastSeenAt": "2026-11-04T12:04:06.027Z",
-          "currentPriceCents": 285,
-          "currentPriceEurCents": 285,
-          "referencePriceCents": 285,
-          "referencePriceEurCents": 285
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkrém kids 0-5 éves gyerekeknek, többféle, 50 ml",
-          "url": "https://www.dm.hu/p/d/2158437/jordan-fogkrem-kids-0-5-eves-gyerekeknek-tobbfele",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:32.566Z",
-          "lastSeenAt": "2026-11-04T12:04:41.720Z",
-          "currentPriceCents": 43900,
-          "currentPriceEurCents": 120,
-          "referencePriceCents": 43900,
-          "referencePriceEurCents": 120
-        }
-      ]
-    },
-    {
-      "productId": 2245,
-      "brand": "Dontodent PRO+",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 145.54,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Četkica za zube – soft, više vrsta, 2 kom.",
-          "url": "https://www.dm.hr/p/d/3042915/dontodent-pro-cetkica-za-zube-soft-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:57:35.873Z",
-          "lastSeenAt": "2026-10-17T12:10:01.272Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Zobna ščetka za krepitev in zaščito dlesni PRO+,..., 2 kos",
-          "url": "https://www.dm.si/p/d/3042915/dontodent-pro-zobna-scetka-za-krepitev-in-zascito-dlesni-pro-soft-vec-razlicic",
-          "isPromo": false,
-          "observedAt": "2026-08-30T21:47:45.469Z",
-          "lastSeenAt": "2026-10-17T12:09:59.866Z",
-          "currentPriceCents": 230,
-          "currentPriceEurCents": 230,
-          "referencePriceCents": 230,
-          "referencePriceEurCents": 230
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Zahnbürste Pro+ Sensitive Complete Care weich..., 2 St",
-          "url": "https://www.dm.at/p/d/3042915/dontodent-pro-zahnbuerste-pro-sensitive-complete-care-weich-sortiert",
-          "isPromo": false,
-          "observedAt": "2026-08-30T21:47:47.920Z",
-          "lastSeenAt": "2026-10-17T12:10:11.667Z",
-          "currentPriceCents": 245,
-          "currentPriceEurCents": 245,
-          "referencePriceCents": 245,
-          "referencePriceEurCents": 245
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Zahnbürste PRO+ Zahnfleischschutz & Stärkung weich, 2 St",
-          "url": "https://www.dm.de/p/d/3042915/dontodent-pro-zahnbuerste-pro-zahnfleischschutz-und-staerkung-weich",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:11.101Z",
-          "lastSeenAt": "2026-10-17T12:10:17.379Z",
-          "currentPriceCents": 245,
-          "currentPriceEurCents": 245,
-          "referencePriceCents": 245,
-          "referencePriceEurCents": 245
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Ínyvédő és erősítő fogkefe PRO+, puha, többféle, 2 db",
-          "url": "https://www.dm.hu/p/d/3042915/dontodent-pro-inyvedo-es-erosito-fogkefe-pro-puha-tobbfele",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:29:46.464Z",
-          "lastSeenAt": "2026-10-17T12:10:22.820Z",
-          "currentPriceCents": 40900,
-          "currentPriceEurCents": 112,
-          "referencePriceCents": 40900,
-          "referencePriceEurCents": 112
-        }
-      ]
-    },
-    {
       "productId": 11075,
       "brand": "you&me",
       "isCountryExtreme": true,
@@ -634,6 +453,187 @@
           "currentPriceEurCents": 295,
           "referencePriceCents": 295,
           "referencePriceEurCents": 295
+        }
+      ]
+    },
+    {
+      "productId": 11106,
+      "brand": "Jordan",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 143.8,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Pasta za zube Junior, 6 – 12 god., više vrsta, 50 ml",
+          "url": "https://www.dm.hr/p/d/2158438/jordan-pasta-za-zube-junior-6-12-god-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:05.887Z",
+          "lastSeenAt": "2026-10-12T17:51:29.335Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Zobna krema za otroke 6-12 let, 50 ml",
+          "url": "https://www.dm.si/p/d/2158438/jordan-zobna-krema-za-otroke-6-12-let",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:19.593Z",
+          "lastSeenAt": "2026-10-12T17:51:25.488Z",
+          "currentPriceCents": 285,
+          "currentPriceEurCents": 285,
+          "referencePriceCents": 285,
+          "referencePriceEurCents": 285
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkrém junior 6 éves kortól, 50 ml",
+          "url": "https://www.dm.hu/p/d/2158438/jordan-fogkrem-junior-6-eves-kortol",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:35.474Z",
+          "lastSeenAt": "2026-10-12T17:51:42.466Z",
+          "currentPriceCents": 43900,
+          "currentPriceEurCents": 121,
+          "referencePriceCents": 43900,
+          "referencePriceEurCents": 121
+        }
+      ]
+    },
+    {
+      "productId": 12130,
+      "brand": "Jordan",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 143.8,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Pasta za zube Kids, 0 – 5 god., više vrsta, 50 ml",
+          "url": "https://www.dm.hr/p/d/2158437/jordan-pasta-za-zube-kids-0-5-god-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:13.032Z",
+          "lastSeenAt": "2026-11-04T12:04:17.469Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Zobna krema za otroke 0-5 let, 50 ml",
+          "url": "https://www.dm.si/p/d/2158437/jordan-zobna-krema-za-otroke-0-5-let",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:48.431Z",
+          "lastSeenAt": "2026-11-04T12:04:06.027Z",
+          "currentPriceCents": 285,
+          "currentPriceEurCents": 285,
+          "referencePriceCents": 285,
+          "referencePriceEurCents": 285
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkrém kids 0-5 éves gyerekeknek, többféle, 50 ml",
+          "url": "https://www.dm.hu/p/d/2158437/jordan-fogkrem-kids-0-5-eves-gyerekeknek-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:32.566Z",
+          "lastSeenAt": "2026-11-04T12:04:41.720Z",
+          "currentPriceCents": 43900,
+          "currentPriceEurCents": 121,
+          "referencePriceCents": 43900,
+          "referencePriceEurCents": 121
+        }
+      ]
+    },
+    {
+      "productId": 2245,
+      "brand": "Dontodent PRO+",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 143.36,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Četkica za zube – soft, više vrsta, 2 kom.",
+          "url": "https://www.dm.hr/p/d/3042915/dontodent-pro-cetkica-za-zube-soft-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:57:35.873Z",
+          "lastSeenAt": "2026-10-17T12:10:01.272Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Zobna ščetka za krepitev in zaščito dlesni PRO+,..., 2 kos",
+          "url": "https://www.dm.si/p/d/3042915/dontodent-pro-zobna-scetka-za-krepitev-in-zascito-dlesni-pro-soft-vec-razlicic",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:45.469Z",
+          "lastSeenAt": "2026-10-17T12:09:59.866Z",
+          "currentPriceCents": 230,
+          "currentPriceEurCents": 230,
+          "referencePriceCents": 230,
+          "referencePriceEurCents": 230
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Zahnbürste Pro+ Sensitive Complete Care weich..., 2 St",
+          "url": "https://www.dm.at/p/d/3042915/dontodent-pro-zahnbuerste-pro-sensitive-complete-care-weich-sortiert",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:47.920Z",
+          "lastSeenAt": "2026-10-17T12:10:11.667Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Zahnbürste PRO+ Zahnfleischschutz & Stärkung weich, 2 St",
+          "url": "https://www.dm.de/p/d/3042915/dontodent-pro-zahnbuerste-pro-zahnfleischschutz-und-staerkung-weich",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:11.101Z",
+          "lastSeenAt": "2026-10-17T12:10:17.379Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Ínyvédő és erősítő fogkefe PRO+, puha, többféle, 2 db",
+          "url": "https://www.dm.hu/p/d/3042915/dontodent-pro-inyvedo-es-erosito-fogkefe-pro-puha-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:29:46.464Z",
+          "lastSeenAt": "2026-10-17T12:10:22.820Z",
+          "currentPriceCents": 40900,
+          "currentPriceEurCents": 113,
+          "referencePriceCents": 40900,
+          "referencePriceEurCents": 113
         }
       ]
     },
@@ -771,7 +771,7 @@
       "productId": 12578,
       "brand": "Balea PROFESSIONAL",
       "isCountryExtreme": true,
-      "overallPercentDiff": 132.39,
+      "overallPercentDiff": 130.77,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -840,9 +840,9 @@
           "observedAt": "2026-09-01T12:30:17.495Z",
           "lastSeenAt": "2026-10-19T15:34:35.501Z",
           "currentPriceCents": 51900,
-          "currentPriceEurCents": 142,
+          "currentPriceEurCents": 143,
           "referencePriceCents": 51900,
-          "referencePriceEurCents": 142
+          "referencePriceEurCents": 143
         }
       ]
     },
@@ -850,7 +850,7 @@
       "productId": 6077,
       "brand": "Dontodent PRO+",
       "isCountryExtreme": true,
-      "overallPercentDiff": 131.09,
+      "overallPercentDiff": 129.17,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -891,9 +891,9 @@
           "observedAt": "2026-09-01T12:31:37.751Z",
           "lastSeenAt": "2026-10-15T13:23:25.815Z",
           "currentPriceCents": 43500,
-          "currentPriceEurCents": 119,
+          "currentPriceEurCents": 120,
           "referencePriceCents": 43500,
-          "referencePriceEurCents": 119
+          "referencePriceEurCents": 120
         }
       ]
     },
@@ -901,7 +901,7 @@
       "productId": 6100,
       "brand": "Dontodent PRO+",
       "isCountryExtreme": true,
-      "overallPercentDiff": 123.58,
+      "overallPercentDiff": 121.77,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -970,9 +970,9 @@
           "observedAt": "2026-09-01T12:31:30.809Z",
           "lastSeenAt": "2026-11-01T15:04:50.279Z",
           "currentPriceCents": 44900,
-          "currentPriceEurCents": 123,
+          "currentPriceEurCents": 124,
           "referencePriceCents": 44900,
-          "referencePriceEurCents": 123
+          "referencePriceEurCents": 124
         }
       ]
     },
@@ -1188,46 +1188,9 @@
           "observedAt": "2026-09-01T12:32:04.843Z",
           "lastSeenAt": "2026-10-24T12:39:23.327Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 247,
+          "currentPriceEurCents": 248,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 247
-        }
-      ]
-    },
-    {
-      "productId": 12425,
-      "brand": "Oral-B",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 117.29,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Pasta za zube Professional Sensitivity & Gum Calm, 75 ml",
-          "url": "https://www.dm.hr/p/d/3131848/oral-b-pasta-za-zube-professional-sensitivity-gum-calm",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:14.196Z",
-          "lastSeenAt": "2026-10-15T13:23:07.020Z",
-          "currentPriceCents": 465,
-          "currentPriceEurCents": 465,
-          "referencePriceCents": 465,
-          "referencePriceEurCents": 465
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkrém Pro-expert Refreshing Clean, 75 ml",
-          "url": "https://www.dm.hu/p/d/3131848/oral-b-fogkrem-pro-expert-refreshing-clean",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:13.914Z",
-          "lastSeenAt": "2026-10-15T13:23:27.448Z",
-          "currentPriceCents": 77900,
-          "currentPriceEurCents": 214,
-          "referencePriceCents": 77900,
-          "referencePriceEurCents": 214
+          "referencePriceEurCents": 248
         }
       ]
     },
@@ -1265,6 +1228,43 @@
           "currentPriceEurCents": 145,
           "referencePriceCents": 145,
           "referencePriceEurCents": 145
+        }
+      ]
+    },
+    {
+      "productId": 12425,
+      "brand": "Oral-B",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 116.28,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Pasta za zube Professional Sensitivity & Gum Calm, 75 ml",
+          "url": "https://www.dm.hr/p/d/3131848/oral-b-pasta-za-zube-professional-sensitivity-gum-calm",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:14.196Z",
+          "lastSeenAt": "2026-10-15T13:23:07.020Z",
+          "currentPriceCents": 465,
+          "currentPriceEurCents": 465,
+          "referencePriceCents": 465,
+          "referencePriceEurCents": 465
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkrém Pro-expert Refreshing Clean, 75 ml",
+          "url": "https://www.dm.hu/p/d/3131848/oral-b-fogkrem-pro-expert-refreshing-clean",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:13.914Z",
+          "lastSeenAt": "2026-10-15T13:23:27.448Z",
+          "currentPriceCents": 77900,
+          "currentPriceEurCents": 215,
+          "referencePriceCents": 77900,
+          "referencePriceEurCents": 215
         }
       ]
     },
@@ -1323,7 +1323,7 @@
       "productId": 1159,
       "brand": "Jordan",
       "isCountryExtreme": true,
-      "overallPercentDiff": 110.67,
+      "overallPercentDiff": 109.5,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1350,9 +1350,9 @@
           "observedAt": "2026-09-01T12:33:05.046Z",
           "lastSeenAt": "2026-10-08T15:34:01.248Z",
           "currentPriceCents": 64900,
-          "currentPriceEurCents": 178,
+          "currentPriceEurCents": 179,
           "referencePriceCents": 64900,
-          "referencePriceEurCents": 178
+          "referencePriceEurCents": 179
         }
       ]
     },
@@ -1360,7 +1360,7 @@
       "productId": 1188,
       "brand": "Jordan",
       "isCountryExtreme": true,
-      "overallPercentDiff": 110.67,
+      "overallPercentDiff": 109.5,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1387,88 +1387,46 @@
           "observedAt": "2026-09-01T12:30:32.566Z",
           "lastSeenAt": "2026-10-07T15:32:33.137Z",
           "currentPriceCents": 64900,
-          "currentPriceEurCents": 178,
+          "currentPriceEurCents": 179,
           "referencePriceCents": 64900,
-          "referencePriceEurCents": 178
+          "referencePriceEurCents": 179
         }
       ]
     },
     {
-      "productId": 5201,
-      "brand": "Balea PROFESSIONAL",
+      "productId": 41596,
+      "brand": "Eucerin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 107.75,
+      "overallPercentDiff": 107.42,
       "gapToExtremePercent": 0,
       "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Plex Care šampon za kosu, 250 ml",
-          "url": "https://www.dm.hr/p/d/1674700/balea-professional-plex-care-sampon-za-kosu",
-          "isPromo": false,
-          "observedAt": "2026-08-30T21:47:41.623Z",
-          "lastSeenAt": "2026-10-16T13:13:41.587Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Šampon za lase PLEX CARE, 250 ml",
-          "url": "https://www.dm.si/p/d/1674700/balea-professional-sampon-za-lase-plex-care",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:14.426Z",
-          "lastSeenAt": "2026-10-16T13:13:43.302Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Shampoo Plex Care, 250 ml",
-          "url": "https://www.dm.at/p/d/1674700/balea-professional-shampoo-plex-care",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:09.884Z",
-          "lastSeenAt": "2026-10-16T13:13:48.901Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
         {
           "countryCode": "DE",
           "shopId": "dm-de",
           "currency": "EUR",
-          "name": "Shampoo Plex Care, 250 ml",
-          "url": "https://www.dm.de/p/d/1674700/balea-professional-shampoo-plex-care",
+          "name": "Eucerin Sun Oil Control UV-Serum Face LSF50+, 30 ml",
+          "url": "https://www.dm.de/p/d/3138312/eucerin-eucerin-sun-oil-control-uv-serum-face-lsf50",
           "isPromo": false,
-          "observedAt": "2026-08-31T20:43:09.706Z",
-          "lastSeenAt": "2026-10-16T13:13:57.094Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
+          "observedAt": "2026-11-05T12:16:01.788Z",
+          "lastSeenAt": "2026-11-05T12:16:01.788Z",
+          "currentPriceCents": 1685,
+          "currentPriceEurCents": 1685,
+          "referencePriceCents": 1685,
+          "referencePriceEurCents": 1685
         },
         {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Sampon Plex Care, kémiailag kezelt és sérült hajra, 250 ml",
-          "url": "https://www.dm.hu/p/d/1674700/balea-professional-sampon-plex-care-kemiailag-kezelt-es-serult-hajra",
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "UV serum za lice Oil Control, SPF 50+, 30 ml",
+          "url": "https://www.dm.hr/p/d/3138312/eucerin-uv-serum-za-lice-oil-control-spf-50",
           "isPromo": false,
-          "observedAt": "2026-09-01T12:31:35.276Z",
-          "lastSeenAt": "2026-10-16T13:14:00.743Z",
-          "currentPriceCents": 51900,
-          "currentPriceEurCents": 142,
-          "referencePriceCents": 51900,
-          "referencePriceEurCents": 142
+          "observedAt": "2026-11-05T12:15:47.698Z",
+          "lastSeenAt": "2026-11-05T12:15:47.698Z",
+          "currentPriceCents": 3495,
+          "currentPriceEurCents": 3495,
+          "referencePriceCents": 3495,
+          "referencePriceEurCents": 3495
         }
       ]
     },
@@ -1538,10 +1496,89 @@
       ]
     },
     {
+      "productId": 5201,
+      "brand": "Balea PROFESSIONAL",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 106.29,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Plex Care šampon za kosu, 250 ml",
+          "url": "https://www.dm.hr/p/d/1674700/balea-professional-plex-care-sampon-za-kosu",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:41.623Z",
+          "lastSeenAt": "2026-10-16T13:13:41.587Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Šampon za lase PLEX CARE, 250 ml",
+          "url": "https://www.dm.si/p/d/1674700/balea-professional-sampon-za-lase-plex-care",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:14.426Z",
+          "lastSeenAt": "2026-10-16T13:13:43.302Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Shampoo Plex Care, 250 ml",
+          "url": "https://www.dm.at/p/d/1674700/balea-professional-shampoo-plex-care",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:09.884Z",
+          "lastSeenAt": "2026-10-16T13:13:48.901Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Shampoo Plex Care, 250 ml",
+          "url": "https://www.dm.de/p/d/1674700/balea-professional-shampoo-plex-care",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:09.706Z",
+          "lastSeenAt": "2026-10-16T13:13:57.094Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 195,
+          "referencePriceEurCents": 195
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Sampon Plex Care, kémiailag kezelt és sérült hajra, 250 ml",
+          "url": "https://www.dm.hu/p/d/1674700/balea-professional-sampon-plex-care-kemiailag-kezelt-es-serult-hajra",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:35.276Z",
+          "lastSeenAt": "2026-10-16T13:14:00.743Z",
+          "currentPriceCents": 51900,
+          "currentPriceEurCents": 143,
+          "referencePriceCents": 51900,
+          "referencePriceEurCents": 143
+        }
+      ]
+    },
+    {
       "productId": 2237,
       "brand": "Aquafresh",
       "isCountryExtreme": true,
-      "overallPercentDiff": 106.59,
+      "overallPercentDiff": 105.36,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1568,46 +1605,9 @@
           "observedAt": "2026-09-01T12:31:42.358Z",
           "lastSeenAt": "2026-10-24T12:39:23.327Z",
           "currentPriceCents": 60900,
-          "currentPriceEurCents": 167,
+          "currentPriceEurCents": 168,
           "referencePriceCents": 60900,
-          "referencePriceEurCents": 167
-        }
-      ]
-    },
-    {
-      "productId": 2197,
-      "brand": "Aquafresh",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 104.02,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "little teeth dječja četkica za zube, 3 - 5 god., 1 kom.",
-          "url": "https://www.dm.hr/p/d/2077746/aquafresh-little-teeth-djecja-cetkica-za-zube-3-5-god",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:57:17.884Z",
-          "lastSeenAt": "2026-10-28T15:04:53.135Z",
-          "currentPriceCents": 355,
-          "currentPriceEurCents": 355,
-          "referencePriceCents": 355,
-          "referencePriceEurCents": 355
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkefe 3-5 éves korig, 1 db",
-          "url": "https://www.dm.hu/p/d/2077746/aquafresh-fogkefe-3-5-eves-korig",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:29:59.422Z",
-          "lastSeenAt": "2026-10-28T15:05:18.088Z",
-          "currentPriceCents": 63500,
-          "currentPriceEurCents": 174,
-          "referencePriceCents": 63500,
-          "referencePriceEurCents": 174
+          "referencePriceEurCents": 168
         }
       ]
     }

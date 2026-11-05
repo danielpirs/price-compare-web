@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-04T12:51:13.427Z",
+  "generatedAt": "2026-11-05T12:59:10.702Z",
   "fx": {
-    "asOf": "2026-11-03",
+    "asOf": "2026-11-04",
     "rates": {
-      "USD": 1.1179,
-      "JPY": 176.95,
-      "CZK": 24.343,
-      "DKK": 7.4735,
-      "GBP": 0.83358,
-      "HUF": 364.4,
-      "PLN": 4.419,
-      "RON": 5.3428,
-      "SEK": 10.9515,
-      "CHF": 0.9166,
-      "ISK": 136.2,
-      "NOK": 10.3185,
-      "TRY": 55.8921,
-      "AUD": 1.6007,
-      "BRL": 6.1411,
-      "CAD": 1.5623,
-      "CNY": 7.459,
-      "HKD": 8.771,
-      "IDR": 20275.02,
-      "ILS": 3.5292,
-      "INR": 105.9155,
-      "KRW": 1503.12,
-      "MXN": 20.7896,
-      "MYR": 4.5577,
-      "NZD": 1.9876,
-      "PHP": 70.943,
-      "SGD": 1.4322,
-      "THB": 37.735,
-      "ZAR": 18.5995
+      "USD": 1.1267,
+      "JPY": 178.3,
+      "CZK": 24.309,
+      "DKK": 7.4738,
+      "GBP": 0.8346,
+      "HUF": 363.03,
+      "PLN": 4.399,
+      "RON": 5.344,
+      "SEK": 10.9718,
+      "CHF": 0.9188,
+      "ISK": 136.8,
+      "NOK": 10.397,
+      "TRY": 56.3598,
+      "AUD": 1.6061,
+      "BRL": 6.1579,
+      "CAD": 1.5701,
+      "CNY": 7.5177,
+      "HKD": 8.8399,
+      "IDR": 20425.83,
+      "ILS": 3.5641,
+      "INR": 106.6318,
+      "KRW": 1508.18,
+      "MXN": 21.0086,
+      "MYR": 4.5789,
+      "NZD": 1.9988,
+      "PHP": 71.578,
+      "SGD": 1.4398,
+      "THB": 37.902,
+      "ZAR": 18.5404
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -43,7 +43,7 @@
       "productId": 2140,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 235,
+      "overallPercentDiff": 236.67,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -112,9 +112,9 @@
           "observedAt": "2026-09-01T12:31:00.665Z",
           "lastSeenAt": "2026-10-15T13:23:25.815Z",
           "currentPriceCents": 219900,
-          "currentPriceEurCents": 603,
+          "currentPriceEurCents": 606,
           "referencePriceCents": 219900,
-          "referencePriceEurCents": 603
+          "referencePriceEurCents": 606
         }
       ]
     },
@@ -122,7 +122,7 @@
       "productId": 55919,
       "brand": "Stella Jones",
       "isCountryExtreme": true,
-      "overallPercentDiff": 230.65,
+      "overallPercentDiff": 232.16,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -135,9 +135,9 @@
           "observedAt": "2026-09-01T12:30:13.724Z",
           "lastSeenAt": "2026-10-18T12:36:09.737Z",
           "currentPriceCents": 239900,
-          "currentPriceEurCents": 658,
+          "currentPriceEurCents": 661,
           "referencePriceCents": 239900,
-          "referencePriceEurCents": 658
+          "referencePriceEurCents": 661
         },
         {
           "countryCode": "SI",
@@ -159,7 +159,7 @@
       "productId": 5557,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 229.09,
+      "overallPercentDiff": 230.91,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -214,9 +214,9 @@
           "observedAt": "2026-09-01T12:30:58.541Z",
           "lastSeenAt": "2026-10-31T14:30:54.836Z",
           "currentPriceCents": 65900,
-          "currentPriceEurCents": 181,
+          "currentPriceEurCents": 182,
           "referencePriceCents": 65900,
-          "referencePriceEurCents": 181
+          "referencePriceEurCents": 182
         }
       ]
     },
@@ -224,7 +224,7 @@
       "productId": 24501,
       "brand": "Stella Jones",
       "isCountryExtreme": true,
-      "overallPercentDiff": 203.02,
+      "overallPercentDiff": 204.52,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -251,9 +251,9 @@
           "observedAt": "2026-09-01T12:30:10.466Z",
           "lastSeenAt": "2026-10-07T15:32:35.169Z",
           "currentPriceCents": 219900,
-          "currentPriceEurCents": 603,
+          "currentPriceEurCents": 606,
           "referencePriceCents": 219900,
-          "referencePriceEurCents": 603
+          "referencePriceEurCents": 606
         }
       ]
     },
@@ -418,9 +418,9 @@
           "observedAt": "2026-09-01T12:31:07.865Z",
           "lastSeenAt": "2026-10-12T17:51:42.466Z",
           "currentPriceCents": 64900,
-          "currentPriceEurCents": 178,
+          "currentPriceEurCents": 179,
           "referencePriceCents": 64900,
-          "referencePriceEurCents": 178
+          "referencePriceEurCents": 179
         }
       ]
     },
@@ -428,7 +428,7 @@
       "productId": 5519,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 153.33,
+      "overallPercentDiff": 154.36,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -469,9 +469,88 @@
           "observedAt": "2026-09-01T12:30:01.877Z",
           "lastSeenAt": "2026-11-02T18:17:25.790Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 494,
+          "currentPriceEurCents": 496,
           "referencePriceCents": 179900,
-          "referencePriceEurCents": 494
+          "referencePriceEurCents": 496
+        }
+      ]
+    },
+    {
+      "productId": 10277,
+      "brand": "Erdal",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 144.89,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Sredstvo za popravak bijele boje, 75 ml",
+          "url": "https://www.dm.hr/p/d/1713492/erdal-sredstvo-za-popravak-bijele-boje",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:01.290Z",
+          "lastSeenAt": "2026-10-18T12:35:52.243Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Sredstvo za obnovitev barve čevljev, 75 ml",
+          "url": "https://www.dm.si/p/d/1713492/erdal-sredstvo-za-obnovitev-barve-cevljev",
+          "isPromo": false,
+          "observedAt": "2026-10-18T12:35:45.638Z",
+          "lastSeenAt": "2026-10-18T12:35:45.638Z",
+          "currentPriceCents": 225,
+          "currentPriceEurCents": 225,
+          "referencePriceCents": 225,
+          "referencePriceEurCents": 225
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Schuhcreme Deckweiß, 75 ml",
+          "url": "https://www.dm.at/p/d/1713492/erdal-schuhcreme-deckweiss",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:45.712Z",
+          "lastSeenAt": "2026-10-18T12:35:54.654Z",
+          "currentPriceCents": 445,
+          "currentPriceEurCents": 445,
+          "referencePriceCents": 445,
+          "referencePriceEurCents": 445
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Schuhcreme Sneaker Farbreparatur Deckweiß, 75 ml",
+          "url": "https://www.dm.de/p/d/1713492/erdal-schuhcreme-sneaker-farbreparatur-deckweiss",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:23.453Z",
+          "lastSeenAt": "2026-10-18T12:36:03.949Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Színfrissítő fedőkrém fehér cipőkhöz, 0,075 l",
+          "url": "https://www.dm.hu/p/d/1713492/erdal-szinfrissito-fedokrem-feher-cipokhoz",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:51.781Z",
+          "lastSeenAt": "2026-10-18T12:36:09.737Z",
+          "currentPriceCents": 199900,
+          "currentPriceEurCents": 551,
+          "referencePriceCents": 199900,
+          "referencePriceEurCents": 551
         }
       ]
     },
@@ -546,85 +625,6 @@
           "currentPriceEurCents": 295,
           "referencePriceCents": 295,
           "referencePriceEurCents": 295
-        }
-      ]
-    },
-    {
-      "productId": 10277,
-      "brand": "Erdal",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 144,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Sredstvo za popravak bijele boje, 75 ml",
-          "url": "https://www.dm.hr/p/d/1713492/erdal-sredstvo-za-popravak-bijele-boje",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:01.290Z",
-          "lastSeenAt": "2026-10-18T12:35:52.243Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Sredstvo za obnovitev barve čevljev, 75 ml",
-          "url": "https://www.dm.si/p/d/1713492/erdal-sredstvo-za-obnovitev-barve-cevljev",
-          "isPromo": false,
-          "observedAt": "2026-10-18T12:35:45.638Z",
-          "lastSeenAt": "2026-10-18T12:35:45.638Z",
-          "currentPriceCents": 225,
-          "currentPriceEurCents": 225,
-          "referencePriceCents": 225,
-          "referencePriceEurCents": 225
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Schuhcreme Deckweiß, 75 ml",
-          "url": "https://www.dm.at/p/d/1713492/erdal-schuhcreme-deckweiss",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:45.712Z",
-          "lastSeenAt": "2026-10-18T12:35:54.654Z",
-          "currentPriceCents": 445,
-          "currentPriceEurCents": 445,
-          "referencePriceCents": 445,
-          "referencePriceEurCents": 445
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Schuhcreme Sneaker Farbreparatur Deckweiß, 75 ml",
-          "url": "https://www.dm.de/p/d/1713492/erdal-schuhcreme-sneaker-farbreparatur-deckweiss",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:23.453Z",
-          "lastSeenAt": "2026-10-18T12:36:03.949Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Színfrissítő fedőkrém fehér cipőkhöz, 0,075 l",
-          "url": "https://www.dm.hu/p/d/1713492/erdal-szinfrissito-fedokrem-feher-cipokhoz",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:51.781Z",
-          "lastSeenAt": "2026-10-18T12:36:09.737Z",
-          "currentPriceCents": 199900,
-          "currentPriceEurCents": 549,
-          "referencePriceCents": 199900,
-          "referencePriceEurCents": 549
         }
       ]
     },
@@ -827,7 +827,7 @@
       "productId": 12161,
       "brand": "meridol",
       "isCountryExtreme": true,
-      "overallPercentDiff": 135.24,
+      "overallPercentDiff": 135.87,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -882,9 +882,9 @@
           "observedAt": "2026-09-01T12:32:32.640Z",
           "lastSeenAt": "2026-10-28T15:05:22.610Z",
           "currentPriceCents": 269900,
-          "currentPriceEurCents": 741,
+          "currentPriceEurCents": 743,
           "referencePriceCents": 269900,
-          "referencePriceEurCents": 741
+          "referencePriceEurCents": 743
         }
       ]
     },
@@ -971,7 +971,7 @@
       "productId": 16745,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 128,
+      "overallPercentDiff": 128.62,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1012,9 +1012,9 @@
           "observedAt": "2026-09-01T12:30:07.326Z",
           "lastSeenAt": "2026-10-13T11:44:15.269Z",
           "currentPriceCents": 269900,
-          "currentPriceEurCents": 741,
+          "currentPriceEurCents": 743,
           "referencePriceCents": 269900,
-          "referencePriceEurCents": 741
+          "referencePriceEurCents": 743
         }
       ]
     },
@@ -1022,7 +1022,7 @@
       "productId": 18470,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 128,
+      "overallPercentDiff": 128.62,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1049,9 +1049,9 @@
           "observedAt": "2026-09-01T12:30:07.326Z",
           "lastSeenAt": "2026-10-24T12:39:24.951Z",
           "currentPriceCents": 269900,
-          "currentPriceEurCents": 741,
+          "currentPriceEurCents": 743,
           "referencePriceCents": 269900,
-          "referencePriceEurCents": 741
+          "referencePriceEurCents": 743
         }
       ]
     },
@@ -1114,9 +1114,9 @@
           "observedAt": "2026-09-01T12:32:49.604Z",
           "lastSeenAt": "2026-10-13T11:44:16.827Z",
           "currentPriceCents": 129900,
-          "currentPriceEurCents": 356,
+          "currentPriceEurCents": 358,
           "referencePriceCents": 129900,
-          "referencePriceEurCents": 356
+          "referencePriceEurCents": 358
         }
       ]
     },
@@ -1193,9 +1193,9 @@
           "observedAt": "2026-09-01T12:32:04.843Z",
           "lastSeenAt": "2026-10-24T12:39:23.327Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 247,
+          "currentPriceEurCents": 248,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 247
+          "referencePriceEurCents": 248
         }
       ]
     },
@@ -1240,7 +1240,7 @@
       "productId": 16164,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 113.9,
+      "overallPercentDiff": 114.58,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1267,9 +1267,9 @@
           "observedAt": "2026-09-01T12:30:10.466Z",
           "lastSeenAt": "2026-10-13T11:44:15.269Z",
           "currentPriceCents": 229900,
-          "currentPriceEurCents": 631,
+          "currentPriceEurCents": 633,
           "referencePriceCents": 229900,
-          "referencePriceEurCents": 631
+          "referencePriceEurCents": 633
         }
       ]
     },
@@ -1277,7 +1277,7 @@
       "productId": 22534,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 113.9,
+      "overallPercentDiff": 114.58,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1304,9 +1304,9 @@
           "observedAt": "2026-09-01T12:30:13.724Z",
           "lastSeenAt": "2026-10-12T17:51:40.619Z",
           "currentPriceCents": 229900,
-          "currentPriceEurCents": 631,
+          "currentPriceEurCents": 633,
           "referencePriceCents": 229900,
-          "referencePriceEurCents": 631
+          "referencePriceEurCents": 633
         }
       ]
     },
@@ -1314,7 +1314,7 @@
       "productId": 22637,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 113.9,
+      "overallPercentDiff": 114.58,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1341,9 +1341,9 @@
           "observedAt": "2026-09-01T12:30:07.326Z",
           "lastSeenAt": "2026-10-16T13:14:00.743Z",
           "currentPriceCents": 229900,
-          "currentPriceEurCents": 631,
+          "currentPriceEurCents": 633,
           "referencePriceCents": 229900,
-          "referencePriceEurCents": 631
+          "referencePriceEurCents": 633
         }
       ]
     },
@@ -1351,7 +1351,7 @@
       "productId": 22665,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 113.9,
+      "overallPercentDiff": 114.58,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1392,9 +1392,9 @@
           "observedAt": "2026-09-01T12:30:10.466Z",
           "lastSeenAt": "2026-10-17T12:10:22.820Z",
           "currentPriceCents": 229900,
-          "currentPriceEurCents": 631,
+          "currentPriceEurCents": 633,
           "referencePriceCents": 229900,
-          "referencePriceEurCents": 631
+          "referencePriceEurCents": 633
         }
       ]
     },
@@ -1402,7 +1402,7 @@
       "productId": 947,
       "brand": "Oral-B",
       "isCountryExtreme": true,
-      "overallPercentDiff": 113.01,
+      "overallPercentDiff": 113.84,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1443,60 +1443,9 @@
           "observedAt": "2026-09-01T12:31:02.831Z",
           "lastSeenAt": "2026-10-10T14:27:34.875Z",
           "currentPriceCents": 1699900,
-          "currentPriceEurCents": 4665,
+          "currentPriceEurCents": 4683,
           "referencePriceCents": 1699900,
-          "referencePriceEurCents": 4665
-        }
-      ]
-    },
-    {
-      "productId": 17228,
-      "brand": "Profissimo",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 111.11,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Varnostne vžigalice, velike, več različic, 50 kos",
-          "url": "https://www.dm.si/p/d/1738834/profissimo-varnostne-vzigalice-velike-vec-razlicic",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:08.864Z",
-          "lastSeenAt": "2026-10-11T14:53:54.394Z",
-          "currentPriceCents": 45,
-          "currentPriceEurCents": 45,
-          "referencePriceCents": 45,
-          "referencePriceEurCents": 45
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Sicherheits-Zündhölzer Groß, 50 St",
-          "url": "https://www.dm.at/p/d/1738834/profissimo-sicherheits-zuendhoelzer-gross",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:34.775Z",
-          "lastSeenAt": "2026-10-11T14:54:07.043Z",
-          "currentPriceCents": 95,
-          "currentPriceEurCents": 95,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Sicherheits-Zündhölzer Maxi, 50 St",
-          "url": "https://www.dm.de/p/d/1738834/profissimo-sicherheits-zuendhoelzer-maxi",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:09.706Z",
-          "lastSeenAt": "2026-10-11T14:54:10.325Z",
-          "currentPriceCents": 95,
-          "currentPriceEurCents": 95,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
+          "referencePriceEurCents": 4683
         }
       ]
     },
@@ -1504,7 +1453,7 @@
       "productId": 3252,
       "brand": "Sanft&Sicher",
       "isCountryExtreme": true,
-      "overallPercentDiff": 110.77,
+      "overallPercentDiff": 111.79,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1573,9 +1522,60 @@
           "observedAt": "2026-09-01T12:30:41.384Z",
           "lastSeenAt": "2026-11-03T11:54:14.891Z",
           "currentPriceCents": 149900,
-          "currentPriceEurCents": 411,
+          "currentPriceEurCents": 413,
           "referencePriceCents": 149900,
-          "referencePriceEurCents": 411
+          "referencePriceEurCents": 413
+        }
+      ]
+    },
+    {
+      "productId": 17228,
+      "brand": "Profissimo",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 111.11,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Varnostne vžigalice, velike, več različic, 50 kos",
+          "url": "https://www.dm.si/p/d/1738834/profissimo-varnostne-vzigalice-velike-vec-razlicic",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:08.864Z",
+          "lastSeenAt": "2026-10-11T14:53:54.394Z",
+          "currentPriceCents": 45,
+          "currentPriceEurCents": 45,
+          "referencePriceCents": 45,
+          "referencePriceEurCents": 45
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Sicherheits-Zündhölzer Groß, 50 St",
+          "url": "https://www.dm.at/p/d/1738834/profissimo-sicherheits-zuendhoelzer-gross",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:34.775Z",
+          "lastSeenAt": "2026-10-11T14:54:07.043Z",
+          "currentPriceCents": 95,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Sicherheits-Zündhölzer Maxi, 50 St",
+          "url": "https://www.dm.de/p/d/1738834/profissimo-sicherheits-zuendhoelzer-maxi",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:09.706Z",
+          "lastSeenAt": "2026-10-11T14:54:10.325Z",
+          "currentPriceCents": 95,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
         }
       ]
     },
@@ -1583,7 +1583,7 @@
       "productId": 17141,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 108.35,
+      "overallPercentDiff": 109.11,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1610,9 +1610,9 @@
           "observedAt": "2026-09-01T12:30:01.877Z",
           "lastSeenAt": "2026-10-12T17:51:42.466Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 823,
+          "currentPriceEurCents": 826,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 823
+          "referencePriceEurCents": 826
         }
       ]
     },
@@ -1620,7 +1620,7 @@
       "productId": 22638,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 108.35,
+      "overallPercentDiff": 109.11,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1647,9 +1647,9 @@
           "observedAt": "2026-09-01T12:30:10.466Z",
           "lastSeenAt": "2026-10-09T15:16:31.469Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 823,
+          "currentPriceEurCents": 826,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 823
+          "referencePriceEurCents": 826
         }
       ]
     }
