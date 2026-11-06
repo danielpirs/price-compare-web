@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-05T12:59:10.702Z",
+  "generatedAt": "2026-11-06T12:46:50.078Z",
   "fx": {
-    "asOf": "2026-11-04",
+    "asOf": "2026-11-05",
     "rates": {
-      "USD": 1.1267,
-      "JPY": 178.3,
-      "CZK": 24.309,
-      "DKK": 7.4738,
-      "GBP": 0.8346,
-      "HUF": 363.03,
-      "PLN": 4.399,
-      "RON": 5.344,
-      "SEK": 10.9718,
-      "CHF": 0.9188,
+      "USD": 1.1224,
+      "JPY": 177.85,
+      "CZK": 24.289,
+      "DKK": 7.4747,
+      "GBP": 0.83393,
+      "HUF": 363.18,
+      "PLN": 4.389,
+      "RON": 5.3385,
+      "SEK": 10.9845,
+      "CHF": 0.918,
       "ISK": 136.8,
-      "NOK": 10.397,
-      "TRY": 56.3598,
-      "AUD": 1.6061,
-      "BRL": 6.1579,
-      "CAD": 1.5701,
-      "CNY": 7.5177,
-      "HKD": 8.8399,
-      "IDR": 20425.83,
-      "ILS": 3.5641,
-      "INR": 106.6318,
-      "KRW": 1508.18,
-      "MXN": 21.0086,
-      "MYR": 4.5789,
-      "NZD": 1.9988,
-      "PHP": 71.578,
-      "SGD": 1.4398,
-      "THB": 37.902,
-      "ZAR": 18.5404
+      "NOK": 10.4365,
+      "TRY": 56.1729,
+      "AUD": 1.6033,
+      "BRL": 6.1355,
+      "CAD": 1.5675,
+      "CNY": 7.4846,
+      "HKD": 8.8055,
+      "IDR": 20281.15,
+      "ILS": 3.5598,
+      "INR": 106.0395,
+      "KRW": 1509.28,
+      "MXN": 20.8655,
+      "MYR": 4.5412,
+      "NZD": 1.9966,
+      "PHP": 70.706,
+      "SGD": 1.4336,
+      "THB": 37.533,
+      "ZAR": 18.4268
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -43,7 +43,7 @@
       "productId": 2140,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 236.67,
+      "overallPercentDiff": 236.11,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -112,9 +112,9 @@
           "observedAt": "2026-09-01T12:31:00.665Z",
           "lastSeenAt": "2026-10-15T13:23:25.815Z",
           "currentPriceCents": 219900,
-          "currentPriceEurCents": 606,
+          "currentPriceEurCents": 605,
           "referencePriceCents": 219900,
-          "referencePriceEurCents": 606
+          "referencePriceEurCents": 605
         }
       ]
     },
@@ -152,71 +152,6 @@
           "currentPriceEurCents": 199,
           "referencePriceCents": 199,
           "referencePriceEurCents": 199
-        }
-      ]
-    },
-    {
-      "productId": 5557,
-      "brand": "Profissimo",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 230.91,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Vrečke za led, 10 kos",
-          "url": "https://www.dm.si/p/d/1029488/profissimo-vrecke-za-led",
-          "isPromo": false,
-          "observedAt": "2026-08-30T21:47:45.469Z",
-          "lastSeenAt": "2026-10-31T14:30:28.446Z",
-          "currentPriceCents": 55,
-          "currentPriceEurCents": 55,
-          "referencePriceCents": 55,
-          "referencePriceEurCents": 55
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Eiswürfelbeutel, 10 St",
-          "url": "https://www.dm.at/p/d/1029488/profissimo-eiswuerfelbeutel",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:01.644Z",
-          "lastSeenAt": "2026-10-31T14:30:39.838Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Eiswürfelbeutel, 10 St",
-          "url": "https://www.dm.de/p/d/1029488/profissimo-eiswuerfelbeutel",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:49.548Z",
-          "lastSeenAt": "2026-10-31T14:30:49.033Z",
-          "currentPriceCents": 85,
-          "currentPriceEurCents": 85,
-          "referencePriceCents": 85,
-          "referencePriceEurCents": 85
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Jégkockakészítő zacskó, 10 db",
-          "url": "https://www.dm.hu/p/d/1029488/profissimo-jegkockakeszito-zacsko",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:58.541Z",
-          "lastSeenAt": "2026-10-31T14:30:54.836Z",
-          "currentPriceCents": 65900,
-          "currentPriceEurCents": 182,
-          "referencePriceCents": 65900,
-          "referencePriceEurCents": 182
         }
       ]
     },
@@ -296,6 +231,71 @@
           "currentPriceEurCents": 115,
           "referencePriceCents": 115,
           "referencePriceEurCents": 115
+        }
+      ]
+    },
+    {
+      "productId": 5557,
+      "brand": "Profissimo",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 229.09,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Vrečke za led, 10 kos",
+          "url": "https://www.dm.si/p/d/1029488/profissimo-vrecke-za-led",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:45.469Z",
+          "lastSeenAt": "2026-10-31T14:30:28.446Z",
+          "currentPriceCents": 55,
+          "currentPriceEurCents": 55,
+          "referencePriceCents": 55,
+          "referencePriceEurCents": 55
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Eiswürfelbeutel, 10 St",
+          "url": "https://www.dm.at/p/d/1029488/profissimo-eiswuerfelbeutel",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:01.644Z",
+          "lastSeenAt": "2026-10-31T14:30:39.838Z",
+          "currentPriceCents": 125,
+          "currentPriceEurCents": 125,
+          "referencePriceCents": 125,
+          "referencePriceEurCents": 125
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Eiswürfelbeutel, 10 St",
+          "url": "https://www.dm.de/p/d/1029488/profissimo-eiswuerfelbeutel",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:49.548Z",
+          "lastSeenAt": "2026-10-31T14:30:49.033Z",
+          "currentPriceCents": 85,
+          "currentPriceEurCents": 85,
+          "referencePriceCents": 85,
+          "referencePriceEurCents": 85
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Jégkockakészítő zacskó, 10 db",
+          "url": "https://www.dm.hu/p/d/1029488/profissimo-jegkockakeszito-zacsko",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:58.541Z",
+          "lastSeenAt": "2026-10-31T14:30:54.836Z",
+          "currentPriceCents": 65900,
+          "currentPriceEurCents": 181,
+          "referencePriceCents": 65900,
+          "referencePriceEurCents": 181
         }
       ]
     },
@@ -461,7 +461,7 @@
       "productId": 24501,
       "brand": "Stella Jones",
       "isCountryExtreme": true,
-      "overallPercentDiff": 204.52,
+      "overallPercentDiff": 204.02,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -486,11 +486,11 @@
           "url": "https://www.dm.hu/p/d/1745270/stella-jones-harisnyanadrag-diszitett-fenekresszel-20-den-make-up-38-40",
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:10.466Z",
-          "lastSeenAt": "2026-10-07T15:32:35.169Z",
+          "lastSeenAt": "2026-11-06T12:04:35.434Z",
           "currentPriceCents": 219900,
-          "currentPriceEurCents": 606,
+          "currentPriceEurCents": 605,
           "referencePriceCents": 219900,
-          "referencePriceEurCents": 606
+          "referencePriceEurCents": 605
         }
       ]
     },
@@ -549,7 +549,7 @@
       "productId": 5135,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 196.92,
+      "overallPercentDiff": 195.38,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -618,9 +618,9 @@
           "observedAt": "2026-09-01T12:30:55.609Z",
           "lastSeenAt": "2026-10-20T13:32:53.855Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 193,
+          "currentPriceEurCents": 192,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 193
+          "referencePriceEurCents": 192
         }
       ]
     },
@@ -628,7 +628,7 @@
       "productId": 5206,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 196.92,
+      "overallPercentDiff": 195.38,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -669,9 +669,9 @@
           "observedAt": "2026-09-01T12:29:59.422Z",
           "lastSeenAt": "2026-10-25T13:10:24.522Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 193,
+          "currentPriceEurCents": 192,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 193
+          "referencePriceEurCents": 192
         }
       ]
     },
@@ -978,6 +978,85 @@
       ]
     },
     {
+      "productId": 11162,
+      "brand": "Denkmit",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 189.47,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Osvježivač za WC školjku Magic Twist – mango i..., 2 kom.",
+          "url": "https://www.dm.hr/p/d/1678682/denkmit-osvjezivac-za-wc-skoljku-magic-twist-mango-i-kokos-2-x-48-g",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:07.072Z",
+          "lastSeenAt": "2026-11-06T12:04:09.761Z",
+          "currentPriceCents": 115,
+          "currentPriceEurCents": 115,
+          "referencePriceCents": 115,
+          "referencePriceEurCents": 115
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "WC-osvežilec Magic Twist Mango-Kokos, 2 kos",
+          "url": "https://www.dm.si/p/d/1678682/denkmit-wc-osvezilec-magic-twist-mango-kokos",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:48.431Z",
+          "lastSeenAt": "2026-11-06T12:03:25.513Z",
+          "currentPriceCents": 165,
+          "currentPriceEurCents": 165,
+          "referencePriceCents": 165,
+          "referencePriceEurCents": 165
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "WC-Stein Mango und Kokos, 2 St",
+          "url": "https://www.dm.at/p/d/1678682/denkmit-wc-stein-mango-und-kokos",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:34.775Z",
+          "lastSeenAt": "2026-11-06T12:04:21.406Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "WC Duftstein Magic Twist Mango & Kokos, 2 St",
+          "url": "https://www.dm.de/p/d/1678682/denkmit-wc-duftstein-magic-twist-mango-und-kokos",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:57.446Z",
+          "lastSeenAt": "2026-11-06T12:04:25.606Z",
+          "currentPriceCents": 95,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "WC-tisztító és -illatosító korong Magic Twist,..., 96 g",
+          "url": "https://www.dm.hu/p/d/1678682/denkmit-wc-tisztito-es-illatosito-korong-magic-twist-mango-es-kokusz-illattal",
+          "isPromo": false,
+          "observedAt": "2026-11-06T12:04:37.247Z",
+          "lastSeenAt": "2026-11-06T12:04:37.247Z",
+          "currentPriceCents": 99900,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 99900,
+          "referencePriceEurCents": 275
+        }
+      ]
+    },
+    {
       "productId": 15608,
       "brand": "Denkmit",
       "isCountryExtreme": true,
@@ -1250,7 +1329,7 @@
       "productId": 9912,
       "brand": "L'ORÉAL PARiS",
       "isCountryExtreme": true,
-      "overallPercentDiff": 178.99,
+      "overallPercentDiff": 178.73,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1319,9 +1398,9 @@
           "observedAt": "2026-09-01T12:31:30.809Z",
           "lastSeenAt": "2026-10-13T11:44:16.827Z",
           "currentPriceCents": 399900,
-          "currentPriceEurCents": 1102,
+          "currentPriceEurCents": 1101,
           "referencePriceCents": 399900,
-          "referencePriceEurCents": 1102
+          "referencePriceEurCents": 1101
         }
       ]
     },
@@ -1329,7 +1408,7 @@
       "productId": 1798,
       "brand": "Dr.Beckmann",
       "isCountryExtreme": true,
-      "overallPercentDiff": 170.85,
+      "overallPercentDiff": 170.51,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1370,9 +1449,9 @@
           "observedAt": "2026-09-01T12:32:54.339Z",
           "lastSeenAt": "2026-10-15T13:23:25.815Z",
           "currentPriceCents": 289900,
-          "currentPriceEurCents": 799,
+          "currentPriceEurCents": 798,
           "referencePriceCents": 289900,
-          "referencePriceEurCents": 799
+          "referencePriceEurCents": 798
         },
         {
           "countryCode": "DE",
@@ -1786,85 +1865,6 @@
       ]
     },
     {
-      "productId": 11162,
-      "brand": "Denkmit",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 161.05,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Osvježivač za WC školjku Magic Twist – mango i..., 2 kom.",
-          "url": "https://www.dm.hr/p/d/1678682/denkmit-osvjezivac-za-wc-skoljku-magic-twist-mango-i-kokos-2-x-48-g",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:07.072Z",
-          "lastSeenAt": "2026-10-07T15:32:12.965Z",
-          "currentPriceCents": 115,
-          "currentPriceEurCents": 115,
-          "referencePriceCents": 115,
-          "referencePriceEurCents": 115
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "WC-osvežilec Magic Twist Mango-Kokos, 2 kos",
-          "url": "https://www.dm.si/p/d/1678682/denkmit-wc-osvezilec-magic-twist-mango-kokos",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:48.431Z",
-          "lastSeenAt": "2026-10-07T15:32:07.896Z",
-          "currentPriceCents": 165,
-          "currentPriceEurCents": 165,
-          "referencePriceCents": 165,
-          "referencePriceEurCents": 165
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "WC-Stein Mango und Kokos, 2 St",
-          "url": "https://www.dm.at/p/d/1678682/denkmit-wc-stein-mango-und-kokos",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:34.775Z",
-          "lastSeenAt": "2026-10-07T15:32:17.774Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "WC Duftstein Magic Twist Mango & Kokos, 2 St",
-          "url": "https://www.dm.de/p/d/1678682/denkmit-wc-duftstein-magic-twist-mango-und-kokos",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:57.446Z",
-          "lastSeenAt": "2026-10-07T15:32:27.915Z",
-          "currentPriceCents": 95,
-          "currentPriceEurCents": 95,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "WC-tisztító és -illatosító korong Magic Twist,..., 96 g",
-          "url": "https://www.dm.hu/p/d/1678682/denkmit-wc-tisztito-es-illatosito-korong-magic-twist-mango-es-kokusz-illattal",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:05.211Z",
-          "lastSeenAt": "2026-10-07T15:32:33.137Z",
-          "currentPriceCents": 89900,
-          "currentPriceEurCents": 248,
-          "referencePriceCents": 89900,
-          "referencePriceEurCents": 248
-        }
-      ]
-    },
-    {
       "productId": 11969,
       "brand": "Denkmit",
       "isCountryExtreme": true,
@@ -1958,7 +1958,7 @@
           "url": "https://www.dm.at/p/d/1711396/dr-beckmann-geruchs-entferner",
           "isPromo": false,
           "observedAt": "2026-08-28T16:48:26.874Z",
-          "lastSeenAt": "2026-10-07T15:32:17.774Z",
+          "lastSeenAt": "2026-11-06T12:04:17.965Z",
           "currentPriceCents": 455,
           "currentPriceEurCents": 455,
           "referencePriceCents": 455,
@@ -1972,7 +1972,7 @@
           "url": "https://www.dm.si/p/d/1711396/dr-beckmann-sredstvo-za-odstranjevanje-neprijetnih-vonjav",
           "isPromo": false,
           "observedAt": "2026-08-30T22:35:11.027Z",
-          "lastSeenAt": "2026-10-07T15:32:11.137Z",
+          "lastSeenAt": "2026-11-06T12:04:05.052Z",
           "currentPriceCents": 395,
           "currentPriceEurCents": 395,
           "referencePriceCents": 395,
@@ -1986,7 +1986,7 @@
           "url": "https://www.dm.de/p/d/1711396/dr-beckmann-geruchsentferner",
           "isPromo": false,
           "observedAt": "2026-08-31T20:40:56.477Z",
-          "lastSeenAt": "2026-10-07T15:32:24.674Z",
+          "lastSeenAt": "2026-11-06T12:04:31.813Z",
           "currentPriceCents": 275,
           "currentPriceEurCents": 275,
           "referencePriceCents": 275,
@@ -2000,7 +2000,7 @@
           "url": "https://www.dm.hu/p/d/1711396/dr-beckmann-szageltavolito-folyadek-ruhakhoz",
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:10.517Z",
-          "lastSeenAt": "2026-10-07T15:32:35.169Z",
+          "lastSeenAt": "2026-11-06T12:04:35.434Z",
           "currentPriceCents": 259900,
           "currentPriceEurCents": 716,
           "referencePriceCents": 259900,
