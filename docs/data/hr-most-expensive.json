@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-06T12:46:50.078Z",
+  "generatedAt": "2026-11-07T11:35:16.540Z",
   "fx": {
-    "asOf": "2026-11-05",
+    "asOf": "2026-11-06",
     "rates": {
-      "USD": 1.1224,
-      "JPY": 177.85,
-      "CZK": 24.289,
-      "DKK": 7.4747,
-      "GBP": 0.83393,
-      "HUF": 363.18,
-      "PLN": 4.389,
-      "RON": 5.3385,
-      "SEK": 10.9845,
-      "CHF": 0.918,
+      "USD": 1.1165,
+      "JPY": 176.77,
+      "CZK": 24.35,
+      "DKK": 7.4752,
+      "GBP": 0.83415,
+      "HUF": 363.9,
+      "PLN": 4.3925,
+      "RON": 5.3403,
+      "SEK": 11.026,
+      "CHF": 0.9143,
       "ISK": 136.8,
-      "NOK": 10.4365,
-      "TRY": 56.1729,
-      "AUD": 1.6033,
-      "BRL": 6.1355,
-      "CAD": 1.5675,
-      "CNY": 7.4846,
-      "HKD": 8.8055,
-      "IDR": 20281.15,
-      "ILS": 3.5598,
-      "INR": 106.0395,
-      "KRW": 1509.28,
-      "MXN": 20.8655,
-      "MYR": 4.5412,
-      "NZD": 1.9966,
-      "PHP": 70.706,
-      "SGD": 1.4336,
-      "THB": 37.533,
-      "ZAR": 18.4268
+      "NOK": 10.526,
+      "TRY": 55.9957,
+      "AUD": 1.625,
+      "BRL": 6.1449,
+      "CAD": 1.5705,
+      "CNY": 7.4485,
+      "HKD": 8.7505,
+      "IDR": 20208.93,
+      "ILS": 3.5717,
+      "INR": 104.8645,
+      "KRW": 1517.02,
+      "MXN": 20.8828,
+      "MYR": 4.5319,
+      "NZD": 2.0141,
+      "PHP": 70.358,
+      "SGD": 1.4309,
+      "THB": 37.459,
+      "ZAR": 18.4649
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -112,9 +112,9 @@
           "observedAt": "2026-10-18T12:36:09.737Z",
           "lastSeenAt": "2026-10-18T12:36:09.737Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 826,
+          "currentPriceEurCents": 824,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 826
+          "referencePriceEurCents": 824
         }
       ]
     },
@@ -383,6 +383,85 @@
       ]
     },
     {
+      "productId": 2245,
+      "brand": "Dontodent PRO+",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 145.54,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Četkica za zube – soft, više vrsta, 2 kom.",
+          "url": "https://www.dm.hr/p/d/3042915/dontodent-pro-cetkica-za-zube-soft-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:57:35.873Z",
+          "lastSeenAt": "2026-10-17T12:10:01.272Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Zobna ščetka za krepitev in zaščito dlesni PRO+,..., 2 kos",
+          "url": "https://www.dm.si/p/d/3042915/dontodent-pro-zobna-scetka-za-krepitev-in-zascito-dlesni-pro-soft-vec-razlicic",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:45.469Z",
+          "lastSeenAt": "2026-10-17T12:09:59.866Z",
+          "currentPriceCents": 230,
+          "currentPriceEurCents": 230,
+          "referencePriceCents": 230,
+          "referencePriceEurCents": 230
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Zahnbürste Pro+ Sensitive Complete Care weich..., 2 St",
+          "url": "https://www.dm.at/p/d/3042915/dontodent-pro-zahnbuerste-pro-sensitive-complete-care-weich-sortiert",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:47.920Z",
+          "lastSeenAt": "2026-10-17T12:10:11.667Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Zahnbürste PRO+ Zahnfleischschutz & Stärkung weich, 2 St",
+          "url": "https://www.dm.de/p/d/3042915/dontodent-pro-zahnbuerste-pro-zahnfleischschutz-und-staerkung-weich",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:11.101Z",
+          "lastSeenAt": "2026-10-17T12:10:17.379Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Ínyvédő és erősítő fogkefe PRO+, puha, többféle, 2 db",
+          "url": "https://www.dm.hu/p/d/3042915/dontodent-pro-inyvedo-es-erosito-fogkefe-pro-puha-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:29:46.464Z",
+          "lastSeenAt": "2026-10-17T12:10:22.820Z",
+          "currentPriceCents": 40900,
+          "currentPriceEurCents": 112,
+          "referencePriceCents": 40900,
+          "referencePriceEurCents": 112
+        }
+      ]
+    },
+    {
       "productId": 11075,
       "brand": "you&me",
       "isCountryExtreme": true,
@@ -555,85 +634,6 @@
           "currentPriceEurCents": 121,
           "referencePriceCents": 43900,
           "referencePriceEurCents": 121
-        }
-      ]
-    },
-    {
-      "productId": 2245,
-      "brand": "Dontodent PRO+",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 143.36,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Četkica za zube – soft, više vrsta, 2 kom.",
-          "url": "https://www.dm.hr/p/d/3042915/dontodent-pro-cetkica-za-zube-soft-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:57:35.873Z",
-          "lastSeenAt": "2026-10-17T12:10:01.272Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Zobna ščetka za krepitev in zaščito dlesni PRO+,..., 2 kos",
-          "url": "https://www.dm.si/p/d/3042915/dontodent-pro-zobna-scetka-za-krepitev-in-zascito-dlesni-pro-soft-vec-razlicic",
-          "isPromo": false,
-          "observedAt": "2026-08-30T21:47:45.469Z",
-          "lastSeenAt": "2026-10-17T12:09:59.866Z",
-          "currentPriceCents": 230,
-          "currentPriceEurCents": 230,
-          "referencePriceCents": 230,
-          "referencePriceEurCents": 230
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Zahnbürste Pro+ Sensitive Complete Care weich..., 2 St",
-          "url": "https://www.dm.at/p/d/3042915/dontodent-pro-zahnbuerste-pro-sensitive-complete-care-weich-sortiert",
-          "isPromo": false,
-          "observedAt": "2026-08-30T21:47:47.920Z",
-          "lastSeenAt": "2026-10-17T12:10:11.667Z",
-          "currentPriceCents": 245,
-          "currentPriceEurCents": 245,
-          "referencePriceCents": 245,
-          "referencePriceEurCents": 245
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Zahnbürste PRO+ Zahnfleischschutz & Stärkung weich, 2 St",
-          "url": "https://www.dm.de/p/d/3042915/dontodent-pro-zahnbuerste-pro-zahnfleischschutz-und-staerkung-weich",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:11.101Z",
-          "lastSeenAt": "2026-10-17T12:10:17.379Z",
-          "currentPriceCents": 245,
-          "currentPriceEurCents": 245,
-          "referencePriceCents": 245,
-          "referencePriceEurCents": 245
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Ínyvédő és erősítő fogkefe PRO+, puha, többféle, 2 db",
-          "url": "https://www.dm.hu/p/d/3042915/dontodent-pro-inyvedo-es-erosito-fogkefe-pro-puha-tobbfele",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:29:46.464Z",
-          "lastSeenAt": "2026-10-17T12:10:22.820Z",
-          "currentPriceCents": 40900,
-          "currentPriceEurCents": 113,
-          "referencePriceCents": 40900,
-          "referencePriceEurCents": 113
         }
       ]
     },
@@ -901,7 +901,7 @@
       "productId": 6100,
       "brand": "Dontodent PRO+",
       "isCountryExtreme": true,
-      "overallPercentDiff": 121.77,
+      "overallPercentDiff": 123.58,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -970,9 +970,9 @@
           "observedAt": "2026-09-01T12:31:30.809Z",
           "lastSeenAt": "2026-11-01T15:04:50.279Z",
           "currentPriceCents": 44900,
-          "currentPriceEurCents": 124,
+          "currentPriceEurCents": 123,
           "referencePriceCents": 44900,
-          "referencePriceEurCents": 124
+          "referencePriceEurCents": 123
         }
       ]
     },
@@ -1188,9 +1188,9 @@
           "observedAt": "2026-09-01T12:32:04.843Z",
           "lastSeenAt": "2026-10-24T12:39:23.327Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 248,
+          "currentPriceEurCents": 247,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 248
+          "referencePriceEurCents": 247
         }
       ]
     },
@@ -1323,7 +1323,7 @@
       "productId": 1159,
       "brand": "Jordan",
       "isCountryExtreme": true,
-      "overallPercentDiff": 109.5,
+      "overallPercentDiff": 110.67,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1350,9 +1350,9 @@
           "observedAt": "2026-09-01T12:33:05.046Z",
           "lastSeenAt": "2026-10-08T15:34:01.248Z",
           "currentPriceCents": 64900,
-          "currentPriceEurCents": 179,
+          "currentPriceEurCents": 178,
           "referencePriceCents": 64900,
-          "referencePriceEurCents": 179
+          "referencePriceEurCents": 178
         }
       ]
     },
@@ -1360,7 +1360,7 @@
       "productId": 1188,
       "brand": "Jordan",
       "isCountryExtreme": true,
-      "overallPercentDiff": 109.5,
+      "overallPercentDiff": 110.67,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1387,9 +1387,9 @@
           "observedAt": "2026-09-01T12:30:32.566Z",
           "lastSeenAt": "2026-11-06T12:04:35.434Z",
           "currentPriceCents": 64900,
-          "currentPriceEurCents": 179,
+          "currentPriceEurCents": 178,
           "referencePriceCents": 64900,
-          "referencePriceEurCents": 179
+          "referencePriceEurCents": 178
         }
       ]
     },
@@ -1496,6 +1496,43 @@
       ]
     },
     {
+      "productId": 2237,
+      "brand": "Aquafresh",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 106.59,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Clean & Flex četkica za zube, 2 kom.",
+          "url": "https://www.dm.hr/p/d/2366978/aquafresh-clean-flex-cetkica-za-zube",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:57:32.685Z",
+          "lastSeenAt": "2026-10-24T12:39:10.081Z",
+          "currentPriceCents": 345,
+          "currentPriceEurCents": 345,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkefe clean&flex duopack (többféle), 2 db",
+          "url": "https://www.dm.hu/p/d/2366978/aquafresh-fogkefe-clean-flex-duopack-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:42.358Z",
+          "lastSeenAt": "2026-10-24T12:39:23.327Z",
+          "currentPriceCents": 60900,
+          "currentPriceEurCents": 167,
+          "referencePriceCents": 60900,
+          "referencePriceEurCents": 167
+        }
+      ]
+    },
+    {
       "productId": 5201,
       "brand": "Balea PROFESSIONAL",
       "isCountryExtreme": true,
@@ -1571,43 +1608,6 @@
           "currentPriceEurCents": 143,
           "referencePriceCents": 51900,
           "referencePriceEurCents": 143
-        }
-      ]
-    },
-    {
-      "productId": 2237,
-      "brand": "Aquafresh",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 105.36,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Clean & Flex četkica za zube, 2 kom.",
-          "url": "https://www.dm.hr/p/d/2366978/aquafresh-clean-flex-cetkica-za-zube",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:57:32.685Z",
-          "lastSeenAt": "2026-10-24T12:39:10.081Z",
-          "currentPriceCents": 345,
-          "currentPriceEurCents": 345,
-          "referencePriceCents": 345,
-          "referencePriceEurCents": 345
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkefe clean&flex duopack (többféle), 2 db",
-          "url": "https://www.dm.hu/p/d/2366978/aquafresh-fogkefe-clean-flex-duopack-tobbfele",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:42.358Z",
-          "lastSeenAt": "2026-10-24T12:39:23.327Z",
-          "currentPriceCents": 60900,
-          "currentPriceEurCents": 168,
-          "referencePriceCents": 60900,
-          "referencePriceEurCents": 168
         }
       ]
     }

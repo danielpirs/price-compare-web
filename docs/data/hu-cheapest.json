@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-06T12:46:50.078Z",
+  "generatedAt": "2026-11-07T11:35:16.540Z",
   "fx": {
-    "asOf": "2026-11-05",
+    "asOf": "2026-11-06",
     "rates": {
-      "USD": 1.1224,
-      "JPY": 177.85,
-      "CZK": 24.289,
-      "DKK": 7.4747,
-      "GBP": 0.83393,
-      "HUF": 363.18,
-      "PLN": 4.389,
-      "RON": 5.3385,
-      "SEK": 10.9845,
-      "CHF": 0.918,
+      "USD": 1.1165,
+      "JPY": 176.77,
+      "CZK": 24.35,
+      "DKK": 7.4752,
+      "GBP": 0.83415,
+      "HUF": 363.9,
+      "PLN": 4.3925,
+      "RON": 5.3403,
+      "SEK": 11.026,
+      "CHF": 0.9143,
       "ISK": 136.8,
-      "NOK": 10.4365,
-      "TRY": 56.1729,
-      "AUD": 1.6033,
-      "BRL": 6.1355,
-      "CAD": 1.5675,
-      "CNY": 7.4846,
-      "HKD": 8.8055,
-      "IDR": 20281.15,
-      "ILS": 3.5598,
-      "INR": 106.0395,
-      "KRW": 1509.28,
-      "MXN": 20.8655,
-      "MYR": 4.5412,
-      "NZD": 1.9966,
-      "PHP": 70.706,
-      "SGD": 1.4336,
-      "THB": 37.533,
-      "ZAR": 18.4268
+      "NOK": 10.526,
+      "TRY": 55.9957,
+      "AUD": 1.625,
+      "BRL": 6.1449,
+      "CAD": 1.5705,
+      "CNY": 7.4485,
+      "HKD": 8.7505,
+      "IDR": 20208.93,
+      "ILS": 3.5717,
+      "INR": 104.8645,
+      "KRW": 1517.02,
+      "MXN": 20.8828,
+      "MYR": 4.5319,
+      "NZD": 2.0141,
+      "PHP": 70.358,
+      "SGD": 1.4309,
+      "THB": 37.459,
+      "ZAR": 18.4649
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -43,7 +43,7 @@
       "productId": 3114,
       "brand": "SEINZ.",
       "isCountryExtreme": true,
-      "overallPercentDiff": 327.54,
+      "overallPercentDiff": 333.82,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -98,9 +98,9 @@
           "observedAt": "2026-10-09T15:16:31.469Z",
           "lastSeenAt": "2026-10-09T15:16:31.469Z",
           "currentPriceCents": 24900,
-          "currentPriceEurCents": 69,
+          "currentPriceEurCents": 68,
           "referencePriceCents": 24900,
-          "referencePriceEurCents": 69
+          "referencePriceEurCents": 68
         }
       ]
     },
@@ -145,7 +145,7 @@
       "productId": 15502,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 192.34,
+      "overallPercentDiff": 193.52,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -200,9 +200,9 @@
           "observedAt": "2026-09-01T12:30:04.184Z",
           "lastSeenAt": "2026-10-08T15:34:01.248Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 248,
+          "currentPriceEurCents": 247,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 248
+          "referencePriceEurCents": 247
         }
       ]
     },
@@ -374,6 +374,85 @@
       ]
     },
     {
+      "productId": 7190,
+      "brand": "ebelin",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 172.06,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Rašpica protiv listanja noktiju, više vrsta, 1 kom.",
+          "url": "https://www.dm.hr/p/d/1345882/ebelin-raspica-protiv-listanja-noktiju-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:41.759Z",
+          "lastSeenAt": "2026-10-08T15:33:44.096Z",
+          "currentPriceCents": 125,
+          "currentPriceEurCents": 125,
+          "referencePriceCents": 125,
+          "referencePriceEurCents": 125
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Pilica proti razcepljenim nohtom, več različic, 1 kos",
+          "url": "https://www.dm.si/p/d/1345882/ebelin-pilica-proti-razcepljenim-nohtom-vec-razlicic",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:00.003Z",
+          "lastSeenAt": "2026-10-08T15:33:39.232Z",
+          "currentPriceCents": 165,
+          "currentPriceEurCents": 165,
+          "referencePriceCents": 165,
+          "referencePriceEurCents": 165
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Nagelfeile Anti-Splitter sortiert, 1 St",
+          "url": "https://www.dm.at/p/d/1345882/ebelin-nagelfeile-anti-splitter-sortiert",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:36.315Z",
+          "lastSeenAt": "2026-10-08T15:33:49.601Z",
+          "currentPriceCents": 185,
+          "currentPriceEurCents": 185,
+          "referencePriceCents": 185,
+          "referencePriceEurCents": 185
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Nagelfeile Anti-Splitter, 1 St",
+          "url": "https://www.dm.de/p/d/1345882/ebelin-nagelfeile-anti-splitter",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:35.778Z",
+          "lastSeenAt": "2026-10-08T15:33:57.813Z",
+          "currentPriceCents": 125,
+          "currentPriceEurCents": 125,
+          "referencePriceCents": 125,
+          "referencePriceEurCents": 125
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Körömreszelő töredezett körmökre, többféle, 1 db",
+          "url": "https://www.dm.hu/p/d/1345882/ebelin-koromreszelo-toredezett-kormokre-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:02.558Z",
+          "lastSeenAt": "2026-10-08T15:34:01.248Z",
+          "currentPriceCents": 24900,
+          "currentPriceEurCents": 68,
+          "referencePriceCents": 24900,
+          "referencePriceEurCents": 68
+        }
+      ]
+    },
+    {
       "productId": 9537,
       "brand": "Balea",
       "isCountryExtreme": true,
@@ -490,85 +569,6 @@
       ]
     },
     {
-      "productId": 7190,
-      "brand": "ebelin",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 168.12,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Rašpica protiv listanja noktiju, više vrsta, 1 kom.",
-          "url": "https://www.dm.hr/p/d/1345882/ebelin-raspica-protiv-listanja-noktiju-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:41.759Z",
-          "lastSeenAt": "2026-10-08T15:33:44.096Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Pilica proti razcepljenim nohtom, več različic, 1 kos",
-          "url": "https://www.dm.si/p/d/1345882/ebelin-pilica-proti-razcepljenim-nohtom-vec-razlicic",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:00.003Z",
-          "lastSeenAt": "2026-10-08T15:33:39.232Z",
-          "currentPriceCents": 165,
-          "currentPriceEurCents": 165,
-          "referencePriceCents": 165,
-          "referencePriceEurCents": 165
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Nagelfeile Anti-Splitter sortiert, 1 St",
-          "url": "https://www.dm.at/p/d/1345882/ebelin-nagelfeile-anti-splitter-sortiert",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:36.315Z",
-          "lastSeenAt": "2026-10-08T15:33:49.601Z",
-          "currentPriceCents": 185,
-          "currentPriceEurCents": 185,
-          "referencePriceCents": 185,
-          "referencePriceEurCents": 185
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Nagelfeile Anti-Splitter, 1 St",
-          "url": "https://www.dm.de/p/d/1345882/ebelin-nagelfeile-anti-splitter",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:35.778Z",
-          "lastSeenAt": "2026-10-08T15:33:57.813Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Körömreszelő töredezett körmökre, többféle, 1 db",
-          "url": "https://www.dm.hu/p/d/1345882/ebelin-koromreszelo-toredezett-kormokre-tobbfele",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:02.558Z",
-          "lastSeenAt": "2026-10-08T15:34:01.248Z",
-          "currentPriceCents": 24900,
-          "currentPriceEurCents": 69,
-          "referencePriceCents": 24900,
-          "referencePriceEurCents": 69
-        }
-      ]
-    },
-    {
       "productId": 3190,
       "brand": "Balea med",
       "isCountryExtreme": true,
@@ -674,7 +674,7 @@
       "productId": 7970,
       "brand": "Gillette Venus",
       "isCountryExtreme": true,
-      "overallPercentDiff": 152.77,
+      "overallPercentDiff": 153.23,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -715,9 +715,9 @@
           "observedAt": "2026-09-01T12:30:13.724Z",
           "lastSeenAt": "2026-10-09T15:16:31.469Z",
           "currentPriceCents": 196900,
-          "currentPriceEurCents": 542,
+          "currentPriceEurCents": 541,
           "referencePriceCents": 196900,
-          "referencePriceEurCents": 542
+          "referencePriceEurCents": 541
         }
       ]
     },
@@ -769,6 +769,122 @@
           "currentPriceEurCents": 198,
           "referencePriceCents": 71900,
           "referencePriceEurCents": 198
+        }
+      ]
+    },
+    {
+      "productId": 2245,
+      "brand": "Dontodent PRO+",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 145.54,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Četkica za zube – soft, više vrsta, 2 kom.",
+          "url": "https://www.dm.hr/p/d/3042915/dontodent-pro-cetkica-za-zube-soft-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:57:35.873Z",
+          "lastSeenAt": "2026-10-17T12:10:01.272Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Zobna ščetka za krepitev in zaščito dlesni PRO+,..., 2 kos",
+          "url": "https://www.dm.si/p/d/3042915/dontodent-pro-zobna-scetka-za-krepitev-in-zascito-dlesni-pro-soft-vec-razlicic",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:45.469Z",
+          "lastSeenAt": "2026-10-17T12:09:59.866Z",
+          "currentPriceCents": 230,
+          "currentPriceEurCents": 230,
+          "referencePriceCents": 230,
+          "referencePriceEurCents": 230
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Zahnbürste Pro+ Sensitive Complete Care weich..., 2 St",
+          "url": "https://www.dm.at/p/d/3042915/dontodent-pro-zahnbuerste-pro-sensitive-complete-care-weich-sortiert",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:47.920Z",
+          "lastSeenAt": "2026-10-17T12:10:11.667Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Zahnbürste PRO+ Zahnfleischschutz & Stärkung weich, 2 St",
+          "url": "https://www.dm.de/p/d/3042915/dontodent-pro-zahnbuerste-pro-zahnfleischschutz-und-staerkung-weich",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:11.101Z",
+          "lastSeenAt": "2026-10-17T12:10:17.379Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Ínyvédő és erősítő fogkefe PRO+, puha, többféle, 2 db",
+          "url": "https://www.dm.hu/p/d/3042915/dontodent-pro-inyvedo-es-erosito-fogkefe-pro-puha-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:29:46.464Z",
+          "lastSeenAt": "2026-10-17T12:10:22.820Z",
+          "currentPriceCents": 40900,
+          "currentPriceEurCents": 112,
+          "referencePriceCents": 40900,
+          "referencePriceEurCents": 112
+        }
+      ]
+    },
+    {
+      "productId": 1190,
+      "brand": "Balea PROFESSIONAL",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 144.83,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Maska za barvane lase GLOSSY COLOR, 150 ml",
+          "url": "https://www.dm.si/p/d/3060878/balea-professional-maska-za-barvane-lase-glossy-color",
+          "isPromo": true,
+          "observedAt": "2026-09-17T13:24:59.356Z",
+          "lastSeenAt": "2026-10-17T12:09:57.443Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 355,
+          "referencePriceEurCents": 355
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fényt adó krém Glossy Color, festett és fénytelen..., 150 ml",
+          "url": "https://www.dm.hu/p/d/3060878/balea-professional-fenyt-ado-krem-glossy-color-festett-es-fenytelen-hajra",
+          "isPromo": true,
+          "observedAt": "2026-10-17T12:10:22.820Z",
+          "lastSeenAt": "2026-10-17T12:10:22.820Z",
+          "currentPriceCents": 29900,
+          "currentPriceEurCents": 82,
+          "referencePriceCents": 52900,
+          "referencePriceEurCents": 145
         }
       ]
     },
@@ -871,122 +987,6 @@
           "currentPriceEurCents": 121,
           "referencePriceCents": 43900,
           "referencePriceEurCents": 121
-        }
-      ]
-    },
-    {
-      "productId": 2245,
-      "brand": "Dontodent PRO+",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 143.36,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Četkica za zube – soft, više vrsta, 2 kom.",
-          "url": "https://www.dm.hr/p/d/3042915/dontodent-pro-cetkica-za-zube-soft-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:57:35.873Z",
-          "lastSeenAt": "2026-10-17T12:10:01.272Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Zobna ščetka za krepitev in zaščito dlesni PRO+,..., 2 kos",
-          "url": "https://www.dm.si/p/d/3042915/dontodent-pro-zobna-scetka-za-krepitev-in-zascito-dlesni-pro-soft-vec-razlicic",
-          "isPromo": false,
-          "observedAt": "2026-08-30T21:47:45.469Z",
-          "lastSeenAt": "2026-10-17T12:09:59.866Z",
-          "currentPriceCents": 230,
-          "currentPriceEurCents": 230,
-          "referencePriceCents": 230,
-          "referencePriceEurCents": 230
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Zahnbürste Pro+ Sensitive Complete Care weich..., 2 St",
-          "url": "https://www.dm.at/p/d/3042915/dontodent-pro-zahnbuerste-pro-sensitive-complete-care-weich-sortiert",
-          "isPromo": false,
-          "observedAt": "2026-08-30T21:47:47.920Z",
-          "lastSeenAt": "2026-10-17T12:10:11.667Z",
-          "currentPriceCents": 245,
-          "currentPriceEurCents": 245,
-          "referencePriceCents": 245,
-          "referencePriceEurCents": 245
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Zahnbürste PRO+ Zahnfleischschutz & Stärkung weich, 2 St",
-          "url": "https://www.dm.de/p/d/3042915/dontodent-pro-zahnbuerste-pro-zahnfleischschutz-und-staerkung-weich",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:11.101Z",
-          "lastSeenAt": "2026-10-17T12:10:17.379Z",
-          "currentPriceCents": 245,
-          "currentPriceEurCents": 245,
-          "referencePriceCents": 245,
-          "referencePriceEurCents": 245
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Ínyvédő és erősítő fogkefe PRO+, puha, többféle, 2 db",
-          "url": "https://www.dm.hu/p/d/3042915/dontodent-pro-inyvedo-es-erosito-fogkefe-pro-puha-tobbfele",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:29:46.464Z",
-          "lastSeenAt": "2026-10-17T12:10:22.820Z",
-          "currentPriceCents": 40900,
-          "currentPriceEurCents": 113,
-          "referencePriceCents": 40900,
-          "referencePriceEurCents": 113
-        }
-      ]
-    },
-    {
-      "productId": 1190,
-      "brand": "Balea PROFESSIONAL",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 143.15,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Maska za barvane lase GLOSSY COLOR, 150 ml",
-          "url": "https://www.dm.si/p/d/3060878/balea-professional-maska-za-barvane-lase-glossy-color",
-          "isPromo": true,
-          "observedAt": "2026-09-17T13:24:59.356Z",
-          "lastSeenAt": "2026-10-17T12:09:57.443Z",
-          "currentPriceCents": 245,
-          "currentPriceEurCents": 245,
-          "referencePriceCents": 355,
-          "referencePriceEurCents": 355
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fényt adó krém Glossy Color, festett és fénytelen..., 150 ml",
-          "url": "https://www.dm.hu/p/d/3060878/balea-professional-fenyt-ado-krem-glossy-color-festett-es-fenytelen-hajra",
-          "isPromo": true,
-          "observedAt": "2026-10-17T12:10:22.820Z",
-          "lastSeenAt": "2026-10-17T12:10:22.820Z",
-          "currentPriceCents": 29900,
-          "currentPriceEurCents": 82,
-          "referencePriceCents": 52900,
-          "referencePriceEurCents": 146
         }
       ]
     },
@@ -1282,7 +1282,7 @@
       "productId": 667,
       "brand": "Balea med",
       "isCountryExtreme": true,
-      "overallPercentDiff": 136.61,
+      "overallPercentDiff": 138.74,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1351,9 +1351,9 @@
           "observedAt": "2026-09-01T12:31:37.751Z",
           "lastSeenAt": "2026-10-13T11:44:15.269Z",
           "currentPriceCents": 40500,
-          "currentPriceEurCents": 112,
+          "currentPriceEurCents": 111,
           "referencePriceCents": 40500,
-          "referencePriceEurCents": 112
+          "referencePriceEurCents": 111
         }
       ]
     },
@@ -1502,6 +1502,43 @@
       ]
     },
     {
+      "productId": 17313,
+      "brand": "Gillette Venus",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 131.27,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Damski brivnik za enkratno uporabo Venus Sensitive, 3 kos",
+          "url": "https://www.dm.si/p/d/2105007/gillette-venus-damski-brivnik-za-enkratno-uporabo-venus-sensitive",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:11.741Z",
+          "lastSeenAt": "2026-11-05T12:15:42.996Z",
+          "currentPriceCents": 895,
+          "currentPriceEurCents": 895,
+          "referencePriceCents": 895,
+          "referencePriceEurCents": 895
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Sensitive női eldobható borotva, 3 db",
+          "url": "https://www.dm.hu/p/d/2105007/gillette-venus-sensitive-noi-eldobhato-borotva",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:11.497Z",
+          "lastSeenAt": "2026-11-05T12:16:05.537Z",
+          "currentPriceCents": 140900,
+          "currentPriceEurCents": 387,
+          "referencePriceCents": 140900,
+          "referencePriceEurCents": 387
+        }
+      ]
+    },
+    {
       "productId": 12578,
       "brand": "Balea PROFESSIONAL",
       "isCountryExtreme": true,
@@ -1577,43 +1614,6 @@
           "currentPriceEurCents": 143,
           "referencePriceCents": 51900,
           "referencePriceEurCents": 143
-        }
-      ]
-    },
-    {
-      "productId": 17313,
-      "brand": "Gillette Venus",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 130.67,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Damski brivnik za enkratno uporabo Venus Sensitive, 3 kos",
-          "url": "https://www.dm.si/p/d/2105007/gillette-venus-damski-brivnik-za-enkratno-uporabo-venus-sensitive",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:11.741Z",
-          "lastSeenAt": "2026-11-05T12:15:42.996Z",
-          "currentPriceCents": 895,
-          "currentPriceEurCents": 895,
-          "referencePriceCents": 895,
-          "referencePriceEurCents": 895
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Sensitive női eldobható borotva, 3 db",
-          "url": "https://www.dm.hu/p/d/2105007/gillette-venus-sensitive-noi-eldobhato-borotva",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:11.497Z",
-          "lastSeenAt": "2026-11-05T12:16:05.537Z",
-          "currentPriceCents": 140900,
-          "currentPriceEurCents": 388,
-          "referencePriceCents": 140900,
-          "referencePriceEurCents": 388
         }
       ]
     },
