@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T11:35:16.540Z",
+  "generatedAt": "2026-11-08T11:47:18.358Z",
   "fx": {
     "asOf": "2026-11-06",
     "rates": {
@@ -37,59 +37,6 @@
     "fallback": false
   },
   "items": [
-    {
-      "productId": 13988,
-      "name": "Powder Foundation podloga u kamenu  – 10 Soft..., 10 g",
-      "brand": "alverde NATURKOSMETIK",
-      "percentDiff": 421.05,
-      "cheapest": {
-        "countryCode": "HR",
-        "shopId": "dm-hr",
-        "priceCents": 95,
-        "currency": "EUR",
-        "priceEurCents": 95,
-        "isPromo": true,
-        "observedAt": "2026-10-08T15:33:44.096Z"
-      },
-      "mostExpensive": {
-        "countryCode": "SI",
-        "shopId": "dm-si",
-        "priceCents": 495,
-        "currency": "EUR",
-        "priceEurCents": 495,
-        "isPromo": false,
-        "observedAt": "2026-08-30T22:35:31.607Z"
-      },
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "priceCents": 95,
-          "currency": "EUR",
-          "priceEurCents": 95,
-          "isPromo": true,
-          "observedAt": "2026-10-08T15:33:44.096Z"
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 495,
-          "currency": "EUR",
-          "priceEurCents": 495,
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:31.607Z"
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "priceCents": 445,
-          "currency": "EUR",
-          "priceEurCents": 445,
-          "isPromo": false,
-          "observedAt": "2026-10-08T15:33:47.591Z"
-        }
-      ]
-    },
     {
       "productId": 15673,
       "name": "Milo iz rastlinskega olja z organsko sivko, 100 g",
@@ -1846,6 +1793,50 @@
           "priceEurCents": 82,
           "isPromo": true,
           "observedAt": "2026-10-17T12:10:22.820Z"
+        }
+      ]
+    },
+    {
+      "productId": 1733,
+      "name": "Umjetni nokti In My Pink Era French Chrome Look, 12 kom.",
+      "brand": "trend !t up",
+      "percentDiff": 197.98,
+      "cheapest": {
+        "countryCode": "SI",
+        "shopId": "dm-si",
+        "priceCents": 99,
+        "currency": "EUR",
+        "priceEurCents": 99,
+        "isPromo": true,
+        "observedAt": "2026-11-07T14:53:27.545Z"
+      },
+      "mostExpensive": {
+        "countryCode": "DE",
+        "shopId": "dm-de",
+        "priceCents": 295,
+        "currency": "EUR",
+        "priceEurCents": 295,
+        "isPromo": false,
+        "observedAt": "2026-08-31T20:40:31.993Z"
+      },
+      "countries": [
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "priceCents": 295,
+          "currency": "EUR",
+          "priceEurCents": 295,
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:31.993Z"
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "priceCents": 99,
+          "currency": "EUR",
+          "priceEurCents": 99,
+          "isPromo": true,
+          "observedAt": "2026-11-07T14:53:27.545Z"
         }
       ]
     },
@@ -8557,6 +8548,50 @@
       ]
     },
     {
+      "productId": 10902,
+      "name": "Lizalica od grožđanog šećera s 10 vitamina – okus..., 75 g",
+      "brand": "Mivolis",
+      "percentDiff": 141.6,
+      "cheapest": {
+        "countryCode": "SI",
+        "shopId": "dm-si",
+        "priceCents": 125,
+        "currency": "EUR",
+        "priceEurCents": 125,
+        "isPromo": true,
+        "observedAt": "2026-11-07T14:53:25.799Z"
+      },
+      "mostExpensive": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 109900,
+        "currency": "HUF",
+        "priceEurCents": 302,
+        "isPromo": false,
+        "observedAt": "2026-09-01T12:32:13.914Z"
+      },
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "priceCents": 125,
+          "currency": "EUR",
+          "priceEurCents": 125,
+          "isPromo": true,
+          "observedAt": "2026-11-07T14:53:25.799Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 109900,
+          "currency": "HUF",
+          "priceEurCents": 302,
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:13.914Z"
+        }
+      ]
+    },
+    {
       "productId": 64872,
       "name": "Serum highlighter Care Bears – 01 Born To Shine, 9,5 ml",
       "brand": "essence",
@@ -9164,6 +9199,59 @@
           "priceEurCents": 192,
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:07.865Z"
+        }
+      ]
+    },
+    {
+      "productId": 14556,
+      "name": "gold signature edp, 30 ml",
+      "brand": "MUSTANG",
+      "percentDiff": 139.73,
+      "cheapest": {
+        "countryCode": "HR",
+        "shopId": "dm-hr",
+        "priceCents": 745,
+        "currency": "EUR",
+        "priceEurCents": 745,
+        "isPromo": true,
+        "observedAt": "2026-11-07T14:53:21.001Z"
+      },
+      "mostExpensive": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 649900,
+        "currency": "HUF",
+        "priceEurCents": 1786,
+        "isPromo": false,
+        "observedAt": "2026-10-08T15:34:03.270Z"
+      },
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "priceCents": 745,
+          "currency": "EUR",
+          "priceEurCents": 745,
+          "isPromo": true,
+          "observedAt": "2026-11-07T14:53:21.001Z"
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "priceCents": 1645,
+          "currency": "EUR",
+          "priceEurCents": 1645,
+          "isPromo": false,
+          "observedAt": "2026-11-07T14:53:27.545Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 649900,
+          "currency": "HUF",
+          "priceEurCents": 1786,
+          "isPromo": false,
+          "observedAt": "2026-10-08T15:34:03.270Z"
         }
       ]
     },
@@ -11653,148 +11741,6 @@
           "priceEurCents": 220,
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:55.494Z"
-        }
-      ]
-    },
-    {
-      "productId": 2069,
-      "name": "Tablete za čišćenje zubne proteze, 32 kom.",
-      "brand": "Dontodent",
-      "percentDiff": 131.58,
-      "cheapest": {
-        "countryCode": "DE",
-        "shopId": "dm-de",
-        "priceCents": 95,
-        "currency": "EUR",
-        "priceEurCents": 95,
-        "isPromo": false,
-        "observedAt": "2026-08-31T20:42:48.945Z"
-      },
-      "mostExpensive": {
-        "countryCode": "HU",
-        "shopId": "dm-hu",
-        "priceCents": 79900,
-        "currency": "HUF",
-        "priceEurCents": 220,
-        "isPromo": false,
-        "observedAt": "2026-09-01T12:32:16.800Z"
-      },
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "priceCents": 160,
-          "currency": "EUR",
-          "priceEurCents": 160,
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:56:25.773Z"
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 185,
-          "currency": "EUR",
-          "priceEurCents": 185,
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:03:34.834Z"
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "priceCents": 175,
-          "currency": "EUR",
-          "priceEurCents": 175,
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:30.278Z"
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "priceCents": 95,
-          "currency": "EUR",
-          "priceEurCents": 95,
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:48.945Z"
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "priceCents": 79900,
-          "currency": "HUF",
-          "priceEurCents": 220,
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:16.800Z"
-        }
-      ]
-    },
-    {
-      "productId": 26704,
-      "name": "Halsbonbons Salbei, 125 g",
-      "brand": "Mivolis",
-      "percentDiff": 131.58,
-      "cheapest": {
-        "countryCode": "DE",
-        "shopId": "dm-de",
-        "priceCents": 95,
-        "currency": "EUR",
-        "priceEurCents": 95,
-        "isPromo": false,
-        "observedAt": "2026-09-29T10:39:19.196Z"
-      },
-      "mostExpensive": {
-        "countryCode": "HU",
-        "shopId": "dm-hu",
-        "priceCents": 79900,
-        "currency": "HUF",
-        "priceEurCents": 220,
-        "isPromo": false,
-        "observedAt": "2026-10-29T15:12:42.006Z"
-      },
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "priceCents": 140,
-          "currency": "EUR",
-          "priceEurCents": 140,
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:53.579Z"
-        },
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "priceCents": 145,
-          "currency": "EUR",
-          "priceEurCents": 145,
-          "isPromo": false,
-          "observedAt": "2026-09-29T10:39:12.620Z"
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "priceCents": 95,
-          "currency": "EUR",
-          "priceEurCents": 95,
-          "isPromo": false,
-          "observedAt": "2026-09-29T10:39:19.196Z"
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 145,
-          "currency": "EUR",
-          "priceEurCents": 145,
-          "isPromo": false,
-          "observedAt": "2026-10-29T15:12:12.737Z"
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "priceCents": 79900,
-          "currency": "HUF",
-          "priceEurCents": 220,
-          "isPromo": false,
-          "observedAt": "2026-10-29T15:12:42.006Z"
         }
       ]
     }
