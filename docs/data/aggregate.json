@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T11:47:18.358Z",
+  "generatedAt": "2026-11-09T13:42:20.772Z",
   "fx": {
     "asOf": "2026-11-06",
     "rates": {
@@ -273,13 +273,13 @@
         "observedAt": "2026-10-09T15:16:16.813Z"
       },
       "mostExpensive": {
-        "countryCode": "SI",
-        "shopId": "dm-si",
+        "countryCode": "AT",
+        "shopId": "dm-at",
         "priceCents": 395,
         "currency": "EUR",
         "priceEurCents": 395,
         "isPromo": false,
-        "observedAt": "2026-08-30T22:33:52.544Z"
+        "observedAt": "2026-08-30T22:36:28.761Z"
       },
       "countries": [
         {
@@ -290,15 +290,6 @@
           "priceEurCents": 95,
           "isPromo": true,
           "observedAt": "2026-10-09T15:16:16.813Z"
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 395,
-          "currency": "EUR",
-          "priceEurCents": 395,
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:52.544Z"
         },
         {
           "countryCode": "AT",
@@ -497,11 +488,11 @@
         {
           "countryCode": "HR",
           "shopId": "dm-hr",
-          "priceCents": 360,
+          "priceCents": 395,
           "currency": "EUR",
-          "priceEurCents": 360,
+          "priceEurCents": 395,
           "isPromo": false,
-          "observedAt": "2026-08-30T22:32:45.205Z"
+          "observedAt": "2026-11-08T15:09:06.393Z"
         },
         {
           "countryCode": "AT",
@@ -1002,6 +993,50 @@
       ]
     },
     {
+      "productId": 8258,
+      "name": "Highlihter u stiku Summer on the go – 10, 5 g",
+      "brand": "alverde NATURKOSMETIK",
+      "percentDiff": 224.1,
+      "cheapest": {
+        "countryCode": "HR",
+        "shopId": "dm-hr",
+        "priceCents": 195,
+        "currency": "EUR",
+        "priceEurCents": 195,
+        "isPromo": true,
+        "observedAt": "2026-11-08T15:09:06.393Z"
+      },
+      "mostExpensive": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 229900,
+        "currency": "HUF",
+        "priceEurCents": 632,
+        "isPromo": false,
+        "observedAt": "2026-09-01T12:31:00.665Z"
+      },
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "priceCents": 195,
+          "currency": "EUR",
+          "priceEurCents": 195,
+          "isPromo": true,
+          "observedAt": "2026-11-08T15:09:06.393Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 229900,
+          "currency": "HUF",
+          "priceEurCents": 632,
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:00.665Z"
+        }
+      ]
+    },
+    {
       "productId": 7017,
       "name": "Osvježavajući gel za pranje lica – aloe vera, 150 ml",
       "brand": "Balea",
@@ -1255,6 +1290,59 @@
           "priceEurCents": 220,
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:00.665Z"
+        }
+      ]
+    },
+    {
+      "productId": 8497,
+      "name": "Namaz lješnjak nugat, 400 g",
+      "brand": "dmBio",
+      "percentDiff": 215.74,
+      "cheapest": {
+        "countryCode": "HR",
+        "shopId": "dm-hr",
+        "priceCents": 235,
+        "currency": "EUR",
+        "priceEurCents": 235,
+        "isPromo": false,
+        "observedAt": "2026-08-30T22:32:49.453Z"
+      },
+      "mostExpensive": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 269900,
+        "currency": "HUF",
+        "priceEurCents": 742,
+        "isPromo": false,
+        "observedAt": "2026-11-08T15:09:24.786Z"
+      },
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "priceCents": 235,
+          "currency": "EUR",
+          "priceEurCents": 235,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:49.453Z"
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "priceCents": 345,
+          "currency": "EUR",
+          "priceEurCents": 345,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:32.828Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 269900,
+          "currency": "HUF",
+          "priceEurCents": 742,
+          "isPromo": false,
+          "observedAt": "2026-11-08T15:09:24.786Z"
         }
       ]
     },
@@ -1709,50 +1797,6 @@
       ]
     },
     {
-      "productId": 10005,
-      "name": "Široki silikonski sisač, okrugli s rupicom –..., 1 kom.",
-      "brand": "babylove",
-      "percentDiff": 200,
-      "cheapest": {
-        "countryCode": "HR",
-        "shopId": "dm-hr",
-        "priceCents": 50,
-        "currency": "EUR",
-        "priceEurCents": 50,
-        "isPromo": true,
-        "observedAt": "2026-09-09T12:57:35.137Z"
-      },
-      "mostExpensive": {
-        "countryCode": "SI",
-        "shopId": "dm-si",
-        "priceCents": 150,
-        "currency": "EUR",
-        "priceEurCents": 150,
-        "isPromo": true,
-        "observedAt": "2026-09-09T12:57:44.124Z"
-      },
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "priceCents": 50,
-          "currency": "EUR",
-          "priceEurCents": 50,
-          "isPromo": true,
-          "observedAt": "2026-09-09T12:57:35.137Z"
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 150,
-          "currency": "EUR",
-          "priceEurCents": 150,
-          "isPromo": true,
-          "observedAt": "2026-09-09T12:57:44.124Z"
-        }
-      ]
-    },
-    {
       "productId": 1190,
       "name": "Glossy Color krema za kosu, 150 ml",
       "brand": "Balea PROFESSIONAL",
@@ -2076,59 +2120,6 @@
           "priceEurCents": 192,
           "isPromo": false,
           "observedAt": "2026-09-01T12:29:59.422Z"
-        }
-      ]
-    },
-    {
-      "productId": 10359,
-      "name": "ProDarm 3u1, dodatak prehrani s kompleksom..., 200 g",
-      "brand": "Mivolis",
-      "percentDiff": 194.49,
-      "cheapest": {
-        "countryCode": "SI",
-        "shopId": "dm-si",
-        "priceCents": 345,
-        "currency": "EUR",
-        "priceEurCents": 345,
-        "isPromo": true,
-        "observedAt": "2026-10-09T15:16:11.140Z"
-      },
-      "mostExpensive": {
-        "countryCode": "HU",
-        "shopId": "dm-hu",
-        "priceCents": 369900,
-        "currency": "HUF",
-        "priceEurCents": 1016,
-        "isPromo": false,
-        "observedAt": "2026-09-01T12:29:57.331Z"
-      },
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "priceCents": 795,
-          "currency": "EUR",
-          "priceEurCents": 795,
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:01.290Z"
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 345,
-          "currency": "EUR",
-          "priceEurCents": 345,
-          "isPromo": true,
-          "observedAt": "2026-10-09T15:16:11.140Z"
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "priceCents": 369900,
-          "currency": "HUF",
-          "priceEurCents": 1016,
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:29:57.331Z"
         }
       ]
     },
@@ -2948,59 +2939,6 @@
       ]
     },
     {
-      "productId": 11189,
-      "name": "Osvježavajuća krema za područje oko očiju Ultra..., 15 ml",
-      "brand": "Balea med",
-      "percentDiff": 184.14,
-      "cheapest": {
-        "countryCode": "HR",
-        "shopId": "dm-hr",
-        "priceCents": 145,
-        "currency": "EUR",
-        "priceEurCents": 145,
-        "isPromo": true,
-        "observedAt": "2026-09-09T12:57:38.438Z"
-      },
-      "mostExpensive": {
-        "countryCode": "HU",
-        "shopId": "dm-hu",
-        "priceCents": 149900,
-        "currency": "HUF",
-        "priceEurCents": 412,
-        "isPromo": false,
-        "observedAt": "2026-09-01T12:31:42.358Z"
-      },
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "priceCents": 145,
-          "currency": "EUR",
-          "priceEurCents": 145,
-          "isPromo": true,
-          "observedAt": "2026-09-09T12:57:38.438Z"
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "priceCents": 295,
-          "currency": "EUR",
-          "priceEurCents": 295,
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:39.343Z"
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "priceCents": 149900,
-          "currency": "HUF",
-          "priceEurCents": 412,
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:42.358Z"
-        }
-      ]
-    },
-    {
       "productId": 6460,
       "name": "Color & Care ruž za usne – 42 Vintage Rose, 4,6 g",
       "brand": "alverde NATURKOSMETIK",
@@ -3240,59 +3178,6 @@
       ]
     },
     {
-      "productId": 8497,
-      "name": "Namaz lješnjak nugat, 400 g",
-      "brand": "dmBio",
-      "percentDiff": 180.43,
-      "cheapest": {
-        "countryCode": "HR",
-        "shopId": "dm-hr",
-        "priceCents": 235,
-        "currency": "EUR",
-        "priceEurCents": 235,
-        "isPromo": false,
-        "observedAt": "2026-08-30T22:32:49.453Z"
-      },
-      "mostExpensive": {
-        "countryCode": "HU",
-        "shopId": "dm-hu",
-        "priceCents": 239900,
-        "currency": "HUF",
-        "priceEurCents": 659,
-        "isPromo": false,
-        "observedAt": "2026-09-01T12:32:16.800Z"
-      },
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "priceCents": 235,
-          "currency": "EUR",
-          "priceEurCents": 235,
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:49.453Z"
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 345,
-          "currency": "EUR",
-          "priceEurCents": 345,
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:32.828Z"
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "priceCents": 239900,
-          "currency": "HUF",
-          "priceEurCents": 659,
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:16.800Z"
-        }
-      ]
-    },
-    {
       "productId": 1288,
       "name": "Škarje za striženje las, 1 kos",
       "brand": "ebelin PROFESSIONAL",
@@ -3510,50 +3395,6 @@
           "priceEurCents": 99,
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:01.877Z"
-        }
-      ]
-    },
-    {
-      "productId": 6095,
-      "name": "Sredstvo za uklanjanje kamenca u aparatima za kavu, 250 ml",
-      "brand": "Denkmit",
-      "percentDiff": 174.67,
-      "cheapest": {
-        "countryCode": "AT",
-        "shopId": "dm-at",
-        "priceCents": 150,
-        "currency": "EUR",
-        "priceEurCents": 150,
-        "isPromo": true,
-        "observedAt": "2026-09-09T12:57:48.013Z"
-      },
-      "mostExpensive": {
-        "countryCode": "HU",
-        "shopId": "dm-hu",
-        "priceCents": 149900,
-        "currency": "HUF",
-        "priceEurCents": 412,
-        "isPromo": false,
-        "observedAt": "2026-09-09T12:58:04.990Z"
-      },
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "priceCents": 150,
-          "currency": "EUR",
-          "priceEurCents": 150,
-          "isPromo": true,
-          "observedAt": "2026-09-09T12:57:48.013Z"
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "priceCents": 149900,
-          "currency": "HUF",
-          "priceEurCents": 412,
-          "isPromo": false,
-          "observedAt": "2026-09-09T12:58:04.990Z"
         }
       ]
     },
@@ -5848,6 +5689,59 @@
           "priceEurCents": 541,
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:13.724Z"
+        }
+      ]
+    },
+    {
+      "productId": 5605,
+      "name": "Pflaster Finger, 16 St",
+      "brand": "Mivolis",
+      "percentDiff": 152.94,
+      "cheapest": {
+        "countryCode": "SI",
+        "shopId": "dm-si",
+        "priceCents": 85,
+        "currency": "EUR",
+        "priceEurCents": 85,
+        "isPromo": true,
+        "observedAt": "2026-11-08T15:08:59.054Z"
+      },
+      "mostExpensive": {
+        "countryCode": "AT",
+        "shopId": "dm-at",
+        "priceCents": 215,
+        "currency": "EUR",
+        "priceEurCents": 215,
+        "isPromo": false,
+        "observedAt": "2026-08-30T21:47:47.082Z"
+      },
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "priceCents": 215,
+          "currency": "EUR",
+          "priceEurCents": 215,
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:47.082Z"
+        },
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "priceCents": 175,
+          "currency": "EUR",
+          "priceEurCents": 175,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:44.051Z"
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "priceCents": 85,
+          "currency": "EUR",
+          "priceEurCents": 85,
+          "isPromo": true,
+          "observedAt": "2026-11-08T15:08:59.054Z"
         }
       ]
     },
@@ -11741,6 +11635,148 @@
           "priceEurCents": 220,
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:55.494Z"
+        }
+      ]
+    },
+    {
+      "productId": 2069,
+      "name": "Tablete za čišćenje zubne proteze, 32 kom.",
+      "brand": "Dontodent",
+      "percentDiff": 131.58,
+      "cheapest": {
+        "countryCode": "DE",
+        "shopId": "dm-de",
+        "priceCents": 95,
+        "currency": "EUR",
+        "priceEurCents": 95,
+        "isPromo": false,
+        "observedAt": "2026-08-31T20:42:48.945Z"
+      },
+      "mostExpensive": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 79900,
+        "currency": "HUF",
+        "priceEurCents": 220,
+        "isPromo": false,
+        "observedAt": "2026-09-01T12:32:16.800Z"
+      },
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "priceCents": 160,
+          "currency": "EUR",
+          "priceEurCents": 160,
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:56:25.773Z"
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "priceCents": 185,
+          "currency": "EUR",
+          "priceEurCents": 185,
+          "isPromo": false,
+          "observedAt": "2026-08-28T16:03:34.834Z"
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "priceCents": 175,
+          "currency": "EUR",
+          "priceEurCents": 175,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:30.278Z"
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "priceCents": 95,
+          "currency": "EUR",
+          "priceEurCents": 95,
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:48.945Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 79900,
+          "currency": "HUF",
+          "priceEurCents": 220,
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:16.800Z"
+        }
+      ]
+    },
+    {
+      "productId": 26704,
+      "name": "Halsbonbons Salbei, 125 g",
+      "brand": "Mivolis",
+      "percentDiff": 131.58,
+      "cheapest": {
+        "countryCode": "DE",
+        "shopId": "dm-de",
+        "priceCents": 95,
+        "currency": "EUR",
+        "priceEurCents": 95,
+        "isPromo": false,
+        "observedAt": "2026-09-29T10:39:19.196Z"
+      },
+      "mostExpensive": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 79900,
+        "currency": "HUF",
+        "priceEurCents": 220,
+        "isPromo": false,
+        "observedAt": "2026-10-29T15:12:42.006Z"
+      },
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "priceCents": 140,
+          "currency": "EUR",
+          "priceEurCents": 140,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:53.579Z"
+        },
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "priceCents": 145,
+          "currency": "EUR",
+          "priceEurCents": 145,
+          "isPromo": false,
+          "observedAt": "2026-09-29T10:39:12.620Z"
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "priceCents": 95,
+          "currency": "EUR",
+          "priceEurCents": 95,
+          "isPromo": false,
+          "observedAt": "2026-09-29T10:39:19.196Z"
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "priceCents": 145,
+          "currency": "EUR",
+          "priceEurCents": 145,
+          "isPromo": false,
+          "observedAt": "2026-10-29T15:12:12.737Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 79900,
+          "currency": "HUF",
+          "priceEurCents": 220,
+          "isPromo": false,
+          "observedAt": "2026-10-29T15:12:42.006Z"
         }
       ]
     }

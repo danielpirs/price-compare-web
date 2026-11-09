@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T11:47:18.358Z",
+  "generatedAt": "2026-11-09T13:42:20.772Z",
   "fx": {
     "asOf": "2026-11-06",
     "rates": {
@@ -945,43 +945,6 @@
       ]
     },
     {
-      "productId": 6095,
-      "brand": "Denkmit",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 111.28,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Entkalker Kaffeemaschinen Spezial, 250 ml",
-          "url": "https://www.dm.at/p/d/3123603/denkmit-entkalker-kaffeemaschinen-spezial",
-          "isPromo": true,
-          "observedAt": "2026-09-09T12:57:48.013Z",
-          "lastSeenAt": "2026-10-09T15:16:19.236Z",
-          "currentPriceCents": 150,
-          "currentPriceEurCents": 150,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Vízkőoldó kávégépekhez, 250 ml",
-          "url": "https://www.dm.hu/p/d/3123603/denkmit-vizkooldo-kavegepekhez",
-          "isPromo": false,
-          "observedAt": "2026-09-09T12:58:04.990Z",
-          "lastSeenAt": "2026-10-09T15:16:29.929Z",
-          "currentPriceCents": 149900,
-          "currentPriceEurCents": 412,
-          "referencePriceCents": 149900,
-          "referencePriceEurCents": 412
-        }
-      ]
-    },
-    {
       "productId": 26081,
       "brand": "Calvin Klein",
       "isCountryExtreme": true,
@@ -1818,6 +1781,71 @@
           "currentPriceEurCents": 151,
           "referencePriceCents": 54900,
           "referencePriceEurCents": 151
+        }
+      ]
+    },
+    {
+      "productId": 15571,
+      "brand": "Pampers",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 100.74,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Vlažni robčki Sensitive, 4 × 80, 320 kos",
+          "url": "https://www.dm.si/p/d/1888279/pampers-vlazni-robcki-sensitive-4-80",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:43.741Z",
+          "lastSeenAt": "2026-10-16T13:13:45.459Z",
+          "currentPriceCents": 1355,
+          "currentPriceEurCents": 1355,
+          "referencePriceCents": 1355,
+          "referencePriceEurCents": 1355
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "sensitive Feuchttücher, 320 St",
+          "url": "https://www.dm.at/p/d/1888279/pampers-sensitive-feuchttuecher",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:09.884Z",
+          "lastSeenAt": "2026-10-16T13:13:48.901Z",
+          "currentPriceCents": 675,
+          "currentPriceEurCents": 675,
+          "referencePriceCents": 675,
+          "referencePriceEurCents": 675
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Feuchttücher Sensitive (4x80 St), 320 St",
+          "url": "https://www.dm.de/p/d/1888279/pampers-feuchttuecher-sensitive-4x80-st",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:05.626Z",
+          "lastSeenAt": "2026-10-16T13:13:55.249Z",
+          "currentPriceCents": 795,
+          "currentPriceEurCents": 795,
+          "referencePriceCents": 795,
+          "referencePriceEurCents": 795
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Nedves törlőkendő, Sensitive, 4x80 db, 320 db",
+          "url": "https://www.dm.hu/p/d/1888279/pampers-nedves-torlokendo-sensitive-4x80-db",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:53.159Z",
+          "lastSeenAt": "2026-10-16T13:13:58.684Z",
+          "currentPriceCents": 449900,
+          "currentPriceEurCents": 1236,
+          "referencePriceCents": 449900,
+          "referencePriceEurCents": 1236
         }
       ]
     }

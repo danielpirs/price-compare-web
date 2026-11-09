@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T11:47:18.358Z",
+  "generatedAt": "2026-11-09T13:42:20.772Z",
   "fx": {
     "asOf": "2026-11-06",
     "rates": {
@@ -39,6 +39,57 @@
   "countryCode": "HR",
   "kind": "cheapest",
   "items": [
+    {
+      "productId": 8497,
+      "brand": "dmBio",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 215.74,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Namaz lješnjak nugat, 400 g",
+          "url": "https://www.dm.hr/p/d/1920981/dmbio-namaz-ljesnjak-nugat",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:49.453Z",
+          "lastSeenAt": "2026-11-08T15:09:04.531Z",
+          "currentPriceCents": 235,
+          "currentPriceEurCents": 235,
+          "referencePriceCents": 235,
+          "referencePriceEurCents": 235
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Bio namaz s 13 % lešnikov in 5 % čokolade, 400 g",
+          "url": "https://www.dm.si/p/d/1920981/dmbio-bio-namaz-s-13-lesnikov-in-5-cokolade",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:32.828Z",
+          "lastSeenAt": "2026-11-08T15:09:02.480Z",
+          "currentPriceCents": 345,
+          "currentPriceEurCents": 345,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Bio mogyorós nugátkrém, 400 g",
+          "url": "https://www.dm.hu/p/d/1920981/dmbio-bio-mogyoros-nugatkrem",
+          "isPromo": false,
+          "observedAt": "2026-11-08T15:09:24.786Z",
+          "lastSeenAt": "2026-11-08T15:09:24.786Z",
+          "currentPriceCents": 269900,
+          "currentPriceEurCents": 742,
+          "referencePriceCents": 269900,
+          "referencePriceEurCents": 742
+        }
+      ]
+    },
     {
       "productId": 435,
       "brand": "Balea",
@@ -180,57 +231,6 @@
           "currentPriceEurCents": 357,
           "referencePriceCents": 129900,
           "referencePriceEurCents": 357
-        }
-      ]
-    },
-    {
-      "productId": 8497,
-      "brand": "dmBio",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 180.43,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Namaz lješnjak nugat, 400 g",
-          "url": "https://www.dm.hr/p/d/1920981/dmbio-namaz-ljesnjak-nugat",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:49.453Z",
-          "lastSeenAt": "2026-10-09T15:16:15.244Z",
-          "currentPriceCents": 235,
-          "currentPriceEurCents": 235,
-          "referencePriceCents": 235,
-          "referencePriceEurCents": 235
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Bio namaz s 13 % lešnikov in 5 % čokolade, 400 g",
-          "url": "https://www.dm.si/p/d/1920981/dmbio-bio-namaz-s-13-lesnikov-in-5-cokolade",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:32.828Z",
-          "lastSeenAt": "2026-10-09T15:16:13.780Z",
-          "currentPriceCents": 345,
-          "currentPriceEurCents": 345,
-          "referencePriceCents": 345,
-          "referencePriceEurCents": 345
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Bio mogyorós nugátkrém, 400 g",
-          "url": "https://www.dm.hu/p/d/1920981/dmbio-bio-mogyoros-nugatkrem",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:16.800Z",
-          "lastSeenAt": "2026-10-09T15:16:29.929Z",
-          "currentPriceCents": 239900,
-          "currentPriceEurCents": 659,
-          "referencePriceCents": 239900,
-          "referencePriceEurCents": 659
         }
       ]
     },
@@ -1600,43 +1600,6 @@
       ]
     },
     {
-      "productId": 10005,
-      "brand": "babylove",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 106.21,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Široki silikonski sisač, okrugli s rupicom –..., 1 kom.",
-          "url": "https://www.dm.hr/p/d/1334038/babylove-siroki-silikonski-sisac-okrugli-s-rupicom-velicina-s",
-          "isPromo": true,
-          "observedAt": "2026-09-09T12:57:35.137Z",
-          "lastSeenAt": "2026-10-09T15:16:15.244Z",
-          "currentPriceCents": 50,
-          "currentPriceEurCents": 50,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Cucelj Premium proti kolikam iz silikona, za..., 1 kos",
-          "url": "https://www.dm.si/p/d/1334038/babylove-cucelj-premium-proti-kolikam-iz-silikona-za-steklenicke-premium-velikost-odprtine-s",
-          "isPromo": true,
-          "observedAt": "2026-09-09T12:57:44.124Z",
-          "lastSeenAt": "2026-10-09T15:16:11.140Z",
-          "currentPriceCents": 150,
-          "currentPriceEurCents": 150,
-          "referencePriceCents": 299,
-          "referencePriceEurCents": 299
-        }
-      ]
-    },
-    {
       "productId": 695,
       "brand": "ebelin",
       "isCountryExtreme": true,
@@ -1986,6 +1949,43 @@
           "currentPriceEurCents": 645,
           "referencePriceCents": 645,
           "referencePriceEurCents": 645
+        }
+      ]
+    },
+    {
+      "productId": 6230,
+      "brand": "encian",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 100,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Vražja kandža krema, 250 ml",
+          "url": "https://www.dm.hr/p/d/2230926/encian-vrazja-kandza-krema",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:35.997Z",
+          "lastSeenAt": "2026-10-17T12:10:04.064Z",
+          "currentPriceCents": 365,
+          "currentPriceEurCents": 365,
+          "referencePriceCents": 365,
+          "referencePriceEurCents": 365
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Krema Vražji krempelj, 250 ml",
+          "url": "https://www.dm.si/p/d/2230926/encian-krema-vrazji-krempelj",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:19.947Z",
+          "lastSeenAt": "2026-10-17T12:09:59.866Z",
+          "currentPriceCents": 730,
+          "currentPriceEurCents": 730,
+          "referencePriceCents": 730,
+          "referencePriceEurCents": 730
         }
       ]
     }
