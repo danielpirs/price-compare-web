@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-09T13:42:20.772Z",
+  "generatedAt": "2026-11-10T13:19:58.056Z",
   "fx": {
-    "asOf": "2026-11-06",
+    "asOf": "2026-11-09",
     "rates": {
-      "USD": 1.1165,
-      "JPY": 176.77,
-      "CZK": 24.35,
-      "DKK": 7.4752,
-      "GBP": 0.83415,
-      "HUF": 363.9,
-      "PLN": 4.3925,
-      "RON": 5.3403,
-      "SEK": 11.026,
-      "CHF": 0.9143,
+      "USD": 1.1193,
+      "JPY": 176.79,
+      "CZK": 24.365,
+      "DKK": 7.4753,
+      "GBP": 0.8343,
+      "HUF": 362.99,
+      "PLN": 4.3843,
+      "RON": 5.343,
+      "SEK": 10.996,
+      "CHF": 0.9164,
       "ISK": 136.8,
-      "NOK": 10.526,
-      "TRY": 55.9957,
-      "AUD": 1.625,
-      "BRL": 6.1449,
-      "CAD": 1.5705,
-      "CNY": 7.4485,
-      "HKD": 8.7505,
-      "IDR": 20208.93,
-      "ILS": 3.5717,
-      "INR": 104.8645,
-      "KRW": 1517.02,
-      "MXN": 20.8828,
-      "MYR": 4.5319,
-      "NZD": 2.0141,
-      "PHP": 70.358,
-      "SGD": 1.4309,
-      "THB": 37.459,
-      "ZAR": 18.4649
+      "NOK": 10.5325,
+      "TRY": 56.1199,
+      "AUD": 1.6236,
+      "BRL": 6.1748,
+      "CAD": 1.5785,
+      "CNY": 7.4689,
+      "HKD": 8.7772,
+      "IDR": 20234.31,
+      "ILS": 3.549,
+      "INR": 105.1435,
+      "KRW": 1507.46,
+      "MXN": 20.8343,
+      "MYR": 4.5432,
+      "NZD": 1.9941,
+      "PHP": 70.712,
+      "SGD": 1.4328,
+      "THB": 37.485,
+      "ZAR": 18.4105
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -43,7 +43,7 @@
       "productId": 2140,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 235.56,
+      "overallPercentDiff": 236.67,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -112,9 +112,9 @@
           "observedAt": "2026-09-01T12:31:00.665Z",
           "lastSeenAt": "2026-10-15T13:23:25.815Z",
           "currentPriceCents": 219900,
-          "currentPriceEurCents": 604,
+          "currentPriceEurCents": 606,
           "referencePriceCents": 219900,
-          "referencePriceEurCents": 604
+          "referencePriceEurCents": 606
         }
       ]
     },
@@ -122,7 +122,7 @@
       "productId": 55919,
       "brand": "Stella Jones",
       "isCountryExtreme": true,
-      "overallPercentDiff": 231.16,
+      "overallPercentDiff": 232.16,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -135,9 +135,9 @@
           "observedAt": "2026-09-01T12:30:13.724Z",
           "lastSeenAt": "2026-10-18T12:36:09.737Z",
           "currentPriceCents": 239900,
-          "currentPriceEurCents": 659,
+          "currentPriceEurCents": 661,
           "referencePriceCents": 239900,
-          "referencePriceEurCents": 659
+          "referencePriceEurCents": 661
         },
         {
           "countryCode": "SI",
@@ -159,7 +159,7 @@
       "productId": 5557,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 229.09,
+      "overallPercentDiff": 230.91,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -214,9 +214,9 @@
           "observedAt": "2026-09-01T12:30:58.541Z",
           "lastSeenAt": "2026-10-31T14:30:54.836Z",
           "currentPriceCents": 65900,
-          "currentPriceEurCents": 181,
+          "currentPriceEurCents": 182,
           "referencePriceCents": 65900,
-          "referencePriceEurCents": 181
+          "referencePriceEurCents": 182
         }
       ]
     },
@@ -381,9 +381,9 @@
           "observedAt": "2026-09-01T12:31:07.865Z",
           "lastSeenAt": "2026-10-12T17:51:42.466Z",
           "currentPriceCents": 64900,
-          "currentPriceEurCents": 178,
+          "currentPriceEurCents": 179,
           "referencePriceCents": 64900,
-          "referencePriceEurCents": 178
+          "referencePriceEurCents": 179
         }
       ]
     },
@@ -391,7 +391,7 @@
       "productId": 5519,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 153.33,
+      "overallPercentDiff": 154.36,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -432,9 +432,88 @@
           "observedAt": "2026-09-01T12:30:01.877Z",
           "lastSeenAt": "2026-11-02T18:17:25.790Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 494,
+          "currentPriceEurCents": 496,
           "referencePriceCents": 179900,
-          "referencePriceEurCents": 494
+          "referencePriceEurCents": 496
+        }
+      ]
+    },
+    {
+      "productId": 10277,
+      "brand": "Erdal",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 144.89,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Sredstvo za popravak bijele boje, 75 ml",
+          "url": "https://www.dm.hr/p/d/1713492/erdal-sredstvo-za-popravak-bijele-boje",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:01.290Z",
+          "lastSeenAt": "2026-10-18T12:35:52.243Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Sredstvo za obnovitev barve čevljev, 75 ml",
+          "url": "https://www.dm.si/p/d/1713492/erdal-sredstvo-za-obnovitev-barve-cevljev",
+          "isPromo": false,
+          "observedAt": "2026-10-18T12:35:45.638Z",
+          "lastSeenAt": "2026-10-18T12:35:45.638Z",
+          "currentPriceCents": 225,
+          "currentPriceEurCents": 225,
+          "referencePriceCents": 225,
+          "referencePriceEurCents": 225
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Schuhcreme Deckweiß, 75 ml",
+          "url": "https://www.dm.at/p/d/1713492/erdal-schuhcreme-deckweiss",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:45.712Z",
+          "lastSeenAt": "2026-10-18T12:35:54.654Z",
+          "currentPriceCents": 445,
+          "currentPriceEurCents": 445,
+          "referencePriceCents": 445,
+          "referencePriceEurCents": 445
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Schuhcreme Sneaker Farbreparatur Deckweiß, 75 ml",
+          "url": "https://www.dm.de/p/d/1713492/erdal-schuhcreme-sneaker-farbreparatur-deckweiss",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:23.453Z",
+          "lastSeenAt": "2026-10-18T12:36:03.949Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Színfrissítő fedőkrém fehér cipőkhöz, 0,075 l",
+          "url": "https://www.dm.hu/p/d/1713492/erdal-szinfrissito-fedokrem-feher-cipokhoz",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:51.781Z",
+          "lastSeenAt": "2026-10-18T12:36:09.737Z",
+          "currentPriceCents": 199900,
+          "currentPriceEurCents": 551,
+          "referencePriceCents": 199900,
+          "referencePriceEurCents": 551
         }
       ]
     },
@@ -509,85 +588,6 @@
           "currentPriceEurCents": 295,
           "referencePriceCents": 295,
           "referencePriceEurCents": 295
-        }
-      ]
-    },
-    {
-      "productId": 10277,
-      "brand": "Erdal",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 144,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Sredstvo za popravak bijele boje, 75 ml",
-          "url": "https://www.dm.hr/p/d/1713492/erdal-sredstvo-za-popravak-bijele-boje",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:01.290Z",
-          "lastSeenAt": "2026-10-18T12:35:52.243Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Sredstvo za obnovitev barve čevljev, 75 ml",
-          "url": "https://www.dm.si/p/d/1713492/erdal-sredstvo-za-obnovitev-barve-cevljev",
-          "isPromo": false,
-          "observedAt": "2026-10-18T12:35:45.638Z",
-          "lastSeenAt": "2026-10-18T12:35:45.638Z",
-          "currentPriceCents": 225,
-          "currentPriceEurCents": 225,
-          "referencePriceCents": 225,
-          "referencePriceEurCents": 225
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Schuhcreme Deckweiß, 75 ml",
-          "url": "https://www.dm.at/p/d/1713492/erdal-schuhcreme-deckweiss",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:45.712Z",
-          "lastSeenAt": "2026-10-18T12:35:54.654Z",
-          "currentPriceCents": 445,
-          "currentPriceEurCents": 445,
-          "referencePriceCents": 445,
-          "referencePriceEurCents": 445
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Schuhcreme Sneaker Farbreparatur Deckweiß, 75 ml",
-          "url": "https://www.dm.de/p/d/1713492/erdal-schuhcreme-sneaker-farbreparatur-deckweiss",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:23.453Z",
-          "lastSeenAt": "2026-10-18T12:36:03.949Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Színfrissítő fedőkrém fehér cipőkhöz, 0,075 l",
-          "url": "https://www.dm.hu/p/d/1713492/erdal-szinfrissito-fedokrem-feher-cipokhoz",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:51.781Z",
-          "lastSeenAt": "2026-10-18T12:36:09.737Z",
-          "currentPriceCents": 199900,
-          "currentPriceEurCents": 549,
-          "referencePriceCents": 199900,
-          "referencePriceEurCents": 549
         }
       ]
     },
@@ -722,6 +722,71 @@
       ]
     },
     {
+      "productId": 12161,
+      "brand": "meridol",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 136.19,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Vodica za ispiranje usta, 400 ml",
+          "url": "https://www.dm.hr/p/d/1767523/meridol-vodica-za-ispiranje-usta",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:13.032Z",
+          "lastSeenAt": "2026-10-28T15:04:53.135Z",
+          "currentPriceCents": 595,
+          "currentPriceEurCents": 595,
+          "referencePriceCents": 595,
+          "referencePriceEurCents": 595
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Ustna voda brez alkohola Gum Protection, 400 ml",
+          "url": "https://www.dm.si/p/d/1767523/meridol-ustna-voda-brez-alkohola-gum-protection",
+          "isPromo": false,
+          "observedAt": "2026-09-28T16:44:03.713Z",
+          "lastSeenAt": "2026-10-28T15:04:59.594Z",
+          "currentPriceCents": 315,
+          "currentPriceEurCents": 315,
+          "referencePriceCents": 315,
+          "referencePriceEurCents": 315
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Mundspülung Zahnfleischschutz, 400 ml",
+          "url": "https://www.dm.at/p/d/1767523/meridol-mundspuelung-zahnfleischschutz",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:18.966Z",
+          "lastSeenAt": "2026-10-28T15:05:02.945Z",
+          "currentPriceCents": 645,
+          "currentPriceEurCents": 645,
+          "referencePriceCents": 645,
+          "referencePriceEurCents": 645
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Szájöblögető, 400 ml",
+          "url": "https://www.dm.hu/p/d/1767523/meridol-szajoblogeto",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:32.640Z",
+          "lastSeenAt": "2026-10-28T15:05:22.610Z",
+          "currentPriceCents": 269900,
+          "currentPriceEurCents": 744,
+          "referencePriceCents": 269900,
+          "referencePriceEurCents": 744
+        }
+      ]
+    },
+    {
       "productId": 2254,
       "brand": "Profissimo",
       "isCountryExtreme": true,
@@ -787,67 +852,90 @@
       ]
     },
     {
-      "productId": 12161,
-      "brand": "meridol",
+      "productId": 16745,
+      "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 135.56,
+      "overallPercentDiff": 128.92,
       "gapToExtremePercent": 0,
       "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Vodica za ispiranje usta, 400 ml",
-          "url": "https://www.dm.hr/p/d/1767523/meridol-vodica-za-ispiranje-usta",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:13.032Z",
-          "lastSeenAt": "2026-10-28T15:04:53.135Z",
-          "currentPriceCents": 595,
-          "currentPriceEurCents": 595,
-          "referencePriceCents": 595,
-          "referencePriceEurCents": 595
-        },
         {
           "countryCode": "SI",
           "shopId": "dm-si",
           "currency": "EUR",
-          "name": "Ustna voda brez alkohola Gum Protection, 400 ml",
-          "url": "https://www.dm.si/p/d/1767523/meridol-ustna-voda-brez-alkohola-gum-protection",
+          "name": "Svetleče hlačne nogavice 15 DEN, 38-40, powder, 1 kos",
+          "url": "https://www.dm.si/p/d/1715246/fascino-svetlece-hlacne-nogavice-15-den-38-40-powder",
           "isPromo": false,
-          "observedAt": "2026-09-28T16:44:03.713Z",
-          "lastSeenAt": "2026-10-28T15:04:59.594Z",
-          "currentPriceCents": 315,
-          "currentPriceEurCents": 315,
-          "referencePriceCents": 315,
-          "referencePriceEurCents": 315
+          "observedAt": "2026-08-30T22:34:02.133Z",
+          "lastSeenAt": "2026-10-13T11:43:53.796Z",
+          "currentPriceCents": 325,
+          "currentPriceEurCents": 325,
+          "referencePriceCents": 325,
+          "referencePriceEurCents": 325
         },
         {
           "countryCode": "AT",
           "shopId": "dm-at",
           "currency": "EUR",
-          "name": "Mundspülung Zahnfleischschutz, 400 ml",
-          "url": "https://www.dm.at/p/d/1767523/meridol-mundspuelung-zahnfleischschutz",
+          "name": "Strumpfhose glänzend powder 15 DEN, Gr. 38/40, 1 St",
+          "url": "https://www.dm.at/p/d/1715246/fascino-strumpfhose-glaenzend-powder-15-den-gr-38-40",
           "isPromo": false,
-          "observedAt": "2026-08-30T22:36:18.966Z",
-          "lastSeenAt": "2026-10-28T15:05:02.945Z",
-          "currentPriceCents": 645,
-          "currentPriceEurCents": 645,
-          "referencePriceCents": 645,
-          "referencePriceEurCents": 645
+          "observedAt": "2026-08-30T22:36:37.949Z",
+          "lastSeenAt": "2026-10-13T11:44:02.511Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
         },
         {
           "countryCode": "HU",
           "shopId": "dm-hu",
           "currency": "HUF",
-          "name": "Szájöblögető, 400 ml",
-          "url": "https://www.dm.hu/p/d/1767523/meridol-szajoblogeto",
+          "name": "Fényes harisnyanadrág, Púder, 15 DEN, 38-40, 1 db",
+          "url": "https://www.dm.hu/p/d/1715246/fascino-fenyes-harisnyanadrag-puder-15-den-38-40",
           "isPromo": false,
-          "observedAt": "2026-09-01T12:32:32.640Z",
-          "lastSeenAt": "2026-10-28T15:05:22.610Z",
+          "observedAt": "2026-09-01T12:30:07.326Z",
+          "lastSeenAt": "2026-10-13T11:44:15.269Z",
           "currentPriceCents": 269900,
-          "currentPriceEurCents": 742,
+          "currentPriceEurCents": 744,
           "referencePriceCents": 269900,
-          "referencePriceEurCents": 742
+          "referencePriceEurCents": 744
+        }
+      ]
+    },
+    {
+      "productId": 18470,
+      "brand": "Fascino",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 128.92,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Svetleče hlačne nogavice 15 DEN, 46-48, powder, 1 kos",
+          "url": "https://www.dm.si/p/d/1715254/fascino-svetlece-hlacne-nogavice-15-den-46-48-powder",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:24.230Z",
+          "lastSeenAt": "2026-10-24T12:39:08.743Z",
+          "currentPriceCents": 325,
+          "currentPriceEurCents": 325,
+          "referencePriceCents": 325,
+          "referencePriceEurCents": 325
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fényes harisnyanadrág, púder, 15 DEN, 46-48, 1 db",
+          "url": "https://www.dm.hu/p/d/1715254/fascino-fenyes-harisnyanadrag-puder-15-den-46-48",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:07.326Z",
+          "lastSeenAt": "2026-10-24T12:39:24.951Z",
+          "currentPriceCents": 269900,
+          "currentPriceEurCents": 744,
+          "referencePriceCents": 269900,
+          "referencePriceEurCents": 744
         }
       ]
     },
@@ -931,94 +1019,6 @@
       ]
     },
     {
-      "productId": 16745,
-      "brand": "Fascino",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 128.31,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Svetleče hlačne nogavice 15 DEN, 38-40, powder, 1 kos",
-          "url": "https://www.dm.si/p/d/1715246/fascino-svetlece-hlacne-nogavice-15-den-38-40-powder",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:02.133Z",
-          "lastSeenAt": "2026-10-13T11:43:53.796Z",
-          "currentPriceCents": 325,
-          "currentPriceEurCents": 325,
-          "referencePriceCents": 325,
-          "referencePriceEurCents": 325
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Strumpfhose glänzend powder 15 DEN, Gr. 38/40, 1 St",
-          "url": "https://www.dm.at/p/d/1715246/fascino-strumpfhose-glaenzend-powder-15-den-gr-38-40",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:37.949Z",
-          "lastSeenAt": "2026-10-13T11:44:02.511Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fényes harisnyanadrág, Púder, 15 DEN, 38-40, 1 db",
-          "url": "https://www.dm.hu/p/d/1715246/fascino-fenyes-harisnyanadrag-puder-15-den-38-40",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:07.326Z",
-          "lastSeenAt": "2026-10-13T11:44:15.269Z",
-          "currentPriceCents": 269900,
-          "currentPriceEurCents": 742,
-          "referencePriceCents": 269900,
-          "referencePriceEurCents": 742
-        }
-      ]
-    },
-    {
-      "productId": 18470,
-      "brand": "Fascino",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 128.31,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Svetleče hlačne nogavice 15 DEN, 46-48, powder, 1 kos",
-          "url": "https://www.dm.si/p/d/1715254/fascino-svetlece-hlacne-nogavice-15-den-46-48-powder",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:24.230Z",
-          "lastSeenAt": "2026-10-24T12:39:08.743Z",
-          "currentPriceCents": 325,
-          "currentPriceEurCents": 325,
-          "referencePriceCents": 325,
-          "referencePriceEurCents": 325
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fényes harisnyanadrág, púder, 15 DEN, 46-48, 1 db",
-          "url": "https://www.dm.hu/p/d/1715254/fascino-fenyes-harisnyanadrag-puder-15-den-46-48",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:07.326Z",
-          "lastSeenAt": "2026-10-24T12:39:24.951Z",
-          "currentPriceCents": 269900,
-          "currentPriceEurCents": 742,
-          "referencePriceCents": 269900,
-          "referencePriceEurCents": 742
-        }
-      ]
-    },
-    {
       "productId": 10826,
       "brand": "Mivolis",
       "isCountryExtreme": true,
@@ -1077,9 +1077,9 @@
           "observedAt": "2026-09-01T12:32:49.604Z",
           "lastSeenAt": "2026-10-13T11:44:16.827Z",
           "currentPriceCents": 129900,
-          "currentPriceEurCents": 357,
+          "currentPriceEurCents": 358,
           "referencePriceCents": 129900,
-          "referencePriceEurCents": 357
+          "referencePriceEurCents": 358
         }
       ]
     },
@@ -1156,9 +1156,9 @@
           "observedAt": "2026-09-01T12:32:04.843Z",
           "lastSeenAt": "2026-10-24T12:39:23.327Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 247,
+          "currentPriceEurCents": 248,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 247
+          "referencePriceEurCents": 248
         }
       ]
     },
@@ -1203,7 +1203,7 @@
       "productId": 16164,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 114.24,
+      "overallPercentDiff": 114.58,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1230,9 +1230,9 @@
           "observedAt": "2026-09-01T12:30:10.466Z",
           "lastSeenAt": "2026-10-13T11:44:15.269Z",
           "currentPriceCents": 229900,
-          "currentPriceEurCents": 632,
+          "currentPriceEurCents": 633,
           "referencePriceCents": 229900,
-          "referencePriceEurCents": 632
+          "referencePriceEurCents": 633
         }
       ]
     },
@@ -1240,7 +1240,7 @@
       "productId": 22534,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 114.24,
+      "overallPercentDiff": 114.58,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1267,9 +1267,9 @@
           "observedAt": "2026-09-01T12:30:13.724Z",
           "lastSeenAt": "2026-10-12T17:51:40.619Z",
           "currentPriceCents": 229900,
-          "currentPriceEurCents": 632,
+          "currentPriceEurCents": 633,
           "referencePriceCents": 229900,
-          "referencePriceEurCents": 632
+          "referencePriceEurCents": 633
         }
       ]
     },
@@ -1277,7 +1277,7 @@
       "productId": 22637,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 114.24,
+      "overallPercentDiff": 114.58,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1304,9 +1304,9 @@
           "observedAt": "2026-09-01T12:30:07.326Z",
           "lastSeenAt": "2026-10-16T13:14:00.743Z",
           "currentPriceCents": 229900,
-          "currentPriceEurCents": 632,
+          "currentPriceEurCents": 633,
           "referencePriceCents": 229900,
-          "referencePriceEurCents": 632
+          "referencePriceEurCents": 633
         }
       ]
     },
@@ -1314,7 +1314,7 @@
       "productId": 22665,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 114.24,
+      "overallPercentDiff": 114.58,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1355,60 +1355,9 @@
           "observedAt": "2026-09-01T12:30:10.466Z",
           "lastSeenAt": "2026-10-17T12:10:22.820Z",
           "currentPriceCents": 229900,
-          "currentPriceEurCents": 632,
+          "currentPriceEurCents": 633,
           "referencePriceCents": 229900,
-          "referencePriceEurCents": 632
-        }
-      ]
-    },
-    {
-      "productId": 947,
-      "brand": "Oral-B",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 113.29,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Pro Kids 3+ električna četkica za zube Frozen +..., 1 kom.",
-          "url": "https://www.dm.hr/p/d/2276668/oral-b-pro-kids-3-elektricna-cetkica-za-zube-frozen-putni-etui",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:48:44.191Z",
-          "lastSeenAt": "2026-10-10T14:27:20.964Z",
-          "currentPriceCents": 2995,
-          "currentPriceEurCents": 2995,
-          "referencePriceCents": 2995,
-          "referencePriceEurCents": 2995
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Otroška električna zobna ščetka Pro Kids 3+ Frozen, 1 kos",
-          "url": "https://www.dm.si/p/d/2276668/oral-b-otroska-elektricna-zobna-scetka-pro-kids-3-frozen",
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:04:43.149Z",
-          "lastSeenAt": "2026-10-10T14:27:17.701Z",
-          "currentPriceCents": 2190,
-          "currentPriceEurCents": 2190,
-          "referencePriceCents": 2190,
-          "referencePriceEurCents": 2190
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Elektromos fogkefe gyermekeknek, Pro Kids 3+..., 1 db",
-          "url": "https://www.dm.hu/p/d/2276668/oral-b-elektromos-fogkefe-gyermekeknek-pro-kids-3-frozen-tokkal",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:02.831Z",
-          "lastSeenAt": "2026-10-10T14:27:34.875Z",
-          "currentPriceCents": 1699900,
-          "currentPriceEurCents": 4671,
-          "referencePriceCents": 1699900,
-          "referencePriceEurCents": 4671
+          "referencePriceEurCents": 633
         }
       ]
     },
@@ -1416,7 +1365,7 @@
       "productId": 3252,
       "brand": "Sanft&Sicher",
       "isCountryExtreme": true,
-      "overallPercentDiff": 111.28,
+      "overallPercentDiff": 111.79,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1485,9 +1434,9 @@
           "observedAt": "2026-09-01T12:30:41.384Z",
           "lastSeenAt": "2026-11-03T11:54:14.891Z",
           "currentPriceCents": 149900,
-          "currentPriceEurCents": 412,
+          "currentPriceEurCents": 413,
           "referencePriceCents": 149900,
-          "referencePriceEurCents": 412
+          "referencePriceEurCents": 413
         }
       ]
     },
@@ -1506,7 +1455,7 @@
           "url": "https://www.dm.si/p/d/1738834/profissimo-varnostne-vzigalice-velike-vec-razlicic",
           "isPromo": false,
           "observedAt": "2026-08-30T22:34:08.864Z",
-          "lastSeenAt": "2026-10-11T14:53:54.394Z",
+          "lastSeenAt": "2026-11-10T12:34:42.428Z",
           "currentPriceCents": 45,
           "currentPriceEurCents": 45,
           "referencePriceCents": 45,
@@ -1520,7 +1469,7 @@
           "url": "https://www.dm.at/p/d/1738834/profissimo-sicherheits-zuendhoelzer-gross",
           "isPromo": false,
           "observedAt": "2026-08-30T22:36:34.775Z",
-          "lastSeenAt": "2026-10-11T14:54:07.043Z",
+          "lastSeenAt": "2026-11-10T12:34:55.947Z",
           "currentPriceCents": 95,
           "currentPriceEurCents": 95,
           "referencePriceCents": 95,
@@ -1534,7 +1483,7 @@
           "url": "https://www.dm.de/p/d/1738834/profissimo-sicherheits-zuendhoelzer-maxi",
           "isPromo": false,
           "observedAt": "2026-08-31T20:43:09.706Z",
-          "lastSeenAt": "2026-10-11T14:54:10.325Z",
+          "lastSeenAt": "2026-11-10T12:34:59.201Z",
           "currentPriceCents": 95,
           "currentPriceEurCents": 95,
           "referencePriceCents": 95,
@@ -1546,7 +1495,7 @@
       "productId": 17141,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 108.61,
+      "overallPercentDiff": 109.11,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1573,9 +1522,9 @@
           "observedAt": "2026-09-01T12:30:01.877Z",
           "lastSeenAt": "2026-10-12T17:51:42.466Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 824,
+          "currentPriceEurCents": 826,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 824
+          "referencePriceEurCents": 826
         }
       ]
     },
@@ -1583,7 +1532,7 @@
       "productId": 22638,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 108.61,
+      "overallPercentDiff": 109.11,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1610,9 +1559,9 @@
           "observedAt": "2026-09-01T12:30:10.466Z",
           "lastSeenAt": "2026-11-08T15:09:24.786Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 824,
+          "currentPriceEurCents": 826,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 824
+          "referencePriceEurCents": 826
         }
       ]
     },
@@ -1678,6 +1627,85 @@
           "currentPriceEurCents": 104,
           "referencePriceCents": 37900,
           "referencePriceEurCents": 104
+        }
+      ]
+    },
+    {
+      "productId": 8719,
+      "brand": "Denkmit",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 106.67,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Sredstvo za otklanjanje masnoće u kuhinji – Power, 750 ml",
+          "url": "https://www.dm.hr/p/d/1674066/denkmit-sredstvo-za-otklanjanje-masnoce-u-kuhinji-power",
+          "isPromo": false,
+          "observedAt": "2026-09-13T13:17:43.732Z",
+          "lastSeenAt": "2026-10-13T11:43:59.172Z",
+          "currentPriceCents": 175,
+          "currentPriceEurCents": 175,
+          "referencePriceCents": 175,
+          "referencePriceEurCents": 175
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Razmaščevalec Kraft-Formel, 750 ml",
+          "url": "https://www.dm.si/p/d/1674066/denkmit-razmascevalec-kraft-formel",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:56.419Z",
+          "lastSeenAt": "2026-10-13T11:43:57.780Z",
+          "currentPriceCents": 120,
+          "currentPriceEurCents": 120,
+          "referencePriceCents": 120,
+          "referencePriceEurCents": 120
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Fettreiniger Power Fettlöser, 750 ml",
+          "url": "https://www.dm.at/p/d/1674066/denkmit-fettreiniger-power-fettloeser",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:41.808Z",
+          "lastSeenAt": "2026-10-13T11:44:02.511Z",
+          "currentPriceCents": 185,
+          "currentPriceEurCents": 185,
+          "referencePriceCents": 185,
+          "referencePriceEurCents": 185
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Fettlöser Power-Formel, 750 ml",
+          "url": "https://www.dm.de/p/d/1674066/denkmit-fettloeser-power-formel",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:33.872Z",
+          "lastSeenAt": "2026-10-13T11:44:11.577Z",
+          "currentPriceCents": 125,
+          "currentPriceEurCents": 125,
+          "referencePriceCents": 125,
+          "referencePriceEurCents": 125
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Erős konyhai zsíroldó, 750 ml",
+          "url": "https://www.dm.hu/p/d/1674066/denkmit-eros-konyhai-zsiroldo",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:29:57.331Z",
+          "lastSeenAt": "2026-10-13T11:44:16.827Z",
+          "currentPriceCents": 89900,
+          "currentPriceEurCents": 248,
+          "referencePriceCents": 89900,
+          "referencePriceEurCents": 248
         }
       ]
     }

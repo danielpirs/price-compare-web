@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-09T13:42:20.772Z",
+  "generatedAt": "2026-11-10T13:19:58.056Z",
   "fx": {
-    "asOf": "2026-11-06",
+    "asOf": "2026-11-09",
     "rates": {
-      "USD": 1.1165,
-      "JPY": 176.77,
-      "CZK": 24.35,
-      "DKK": 7.4752,
-      "GBP": 0.83415,
-      "HUF": 363.9,
-      "PLN": 4.3925,
-      "RON": 5.3403,
-      "SEK": 11.026,
-      "CHF": 0.9143,
+      "USD": 1.1193,
+      "JPY": 176.79,
+      "CZK": 24.365,
+      "DKK": 7.4753,
+      "GBP": 0.8343,
+      "HUF": 362.99,
+      "PLN": 4.3843,
+      "RON": 5.343,
+      "SEK": 10.996,
+      "CHF": 0.9164,
       "ISK": 136.8,
-      "NOK": 10.526,
-      "TRY": 55.9957,
-      "AUD": 1.625,
-      "BRL": 6.1449,
-      "CAD": 1.5705,
-      "CNY": 7.4485,
-      "HKD": 8.7505,
-      "IDR": 20208.93,
-      "ILS": 3.5717,
-      "INR": 104.8645,
-      "KRW": 1517.02,
-      "MXN": 20.8828,
-      "MYR": 4.5319,
-      "NZD": 2.0141,
-      "PHP": 70.358,
-      "SGD": 1.4309,
-      "THB": 37.459,
-      "ZAR": 18.4649
+      "NOK": 10.5325,
+      "TRY": 56.1199,
+      "AUD": 1.6236,
+      "BRL": 6.1748,
+      "CAD": 1.5785,
+      "CNY": 7.4689,
+      "HKD": 8.7772,
+      "IDR": 20234.31,
+      "ILS": 3.549,
+      "INR": 105.1435,
+      "KRW": 1507.46,
+      "MXN": 20.8343,
+      "MYR": 4.5432,
+      "NZD": 1.9941,
+      "PHP": 70.712,
+      "SGD": 1.4328,
+      "THB": 37.485,
+      "ZAR": 18.4105
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -112,9 +112,9 @@
           "observedAt": "2026-10-18T12:36:09.737Z",
           "lastSeenAt": "2026-10-18T12:36:09.737Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 824,
+          "currentPriceEurCents": 826,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 824
+          "referencePriceEurCents": 826
         }
       ]
     },
@@ -309,43 +309,6 @@
       ]
     },
     {
-      "productId": 13289,
-      "brand": "Christina Aguilera",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 152.4,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Signature edp, 30 ml",
-          "url": "https://www.dm.hr/p/d/1202907/christina-aguilera-signature-edp",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:20.170Z",
-          "lastSeenAt": "2026-10-10T14:27:19.421Z",
-          "currentPriceCents": 2890,
-          "currentPriceEurCents": 2890,
-          "referencePriceCents": 2890,
-          "referencePriceEurCents": 2890
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Signature Eau de Parfum, 30 ml",
-          "url": "https://www.dm.de/p/d/1202907/christina-aguilera-signature-eau-de-parfum",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:27.570Z",
-          "lastSeenAt": "2026-10-10T14:27:30.194Z",
-          "currentPriceCents": 1145,
-          "currentPriceEurCents": 1145,
-          "referencePriceCents": 1145,
-          "referencePriceEurCents": 1145
-        }
-      ]
-    },
-    {
       "productId": 14325,
       "brand": "Christina Aguilera",
       "isCountryExtreme": true,
@@ -379,85 +342,6 @@
           "currentPriceEurCents": 1145,
           "referencePriceCents": 1145,
           "referencePriceEurCents": 1145
-        }
-      ]
-    },
-    {
-      "productId": 2245,
-      "brand": "Dontodent PRO+",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 145.54,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Četkica za zube – soft, više vrsta, 2 kom.",
-          "url": "https://www.dm.hr/p/d/3042915/dontodent-pro-cetkica-za-zube-soft-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:57:35.873Z",
-          "lastSeenAt": "2026-10-17T12:10:01.272Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Zobna ščetka za krepitev in zaščito dlesni PRO+,..., 2 kos",
-          "url": "https://www.dm.si/p/d/3042915/dontodent-pro-zobna-scetka-za-krepitev-in-zascito-dlesni-pro-soft-vec-razlicic",
-          "isPromo": false,
-          "observedAt": "2026-08-30T21:47:45.469Z",
-          "lastSeenAt": "2026-10-17T12:09:59.866Z",
-          "currentPriceCents": 230,
-          "currentPriceEurCents": 230,
-          "referencePriceCents": 230,
-          "referencePriceEurCents": 230
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Zahnbürste Pro+ Sensitive Complete Care weich..., 2 St",
-          "url": "https://www.dm.at/p/d/3042915/dontodent-pro-zahnbuerste-pro-sensitive-complete-care-weich-sortiert",
-          "isPromo": false,
-          "observedAt": "2026-08-30T21:47:47.920Z",
-          "lastSeenAt": "2026-10-17T12:10:11.667Z",
-          "currentPriceCents": 245,
-          "currentPriceEurCents": 245,
-          "referencePriceCents": 245,
-          "referencePriceEurCents": 245
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Zahnbürste PRO+ Zahnfleischschutz & Stärkung weich, 2 St",
-          "url": "https://www.dm.de/p/d/3042915/dontodent-pro-zahnbuerste-pro-zahnfleischschutz-und-staerkung-weich",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:11.101Z",
-          "lastSeenAt": "2026-10-17T12:10:17.379Z",
-          "currentPriceCents": 245,
-          "currentPriceEurCents": 245,
-          "referencePriceCents": 245,
-          "referencePriceEurCents": 245
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Ínyvédő és erősítő fogkefe PRO+, puha, többféle, 2 db",
-          "url": "https://www.dm.hu/p/d/3042915/dontodent-pro-inyvedo-es-erosito-fogkefe-pro-puha-tobbfele",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:29:46.464Z",
-          "lastSeenAt": "2026-10-17T12:10:22.820Z",
-          "currentPriceCents": 40900,
-          "currentPriceEurCents": 112,
-          "referencePriceCents": 40900,
-          "referencePriceEurCents": 112
         }
       ]
     },
@@ -634,6 +518,122 @@
           "currentPriceEurCents": 121,
           "referencePriceCents": 43900,
           "referencePriceEurCents": 121
+        }
+      ]
+    },
+    {
+      "productId": 2245,
+      "brand": "Dontodent PRO+",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 143.36,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Četkica za zube – soft, više vrsta, 2 kom.",
+          "url": "https://www.dm.hr/p/d/3042915/dontodent-pro-cetkica-za-zube-soft-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:57:35.873Z",
+          "lastSeenAt": "2026-10-17T12:10:01.272Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Zobna ščetka za krepitev in zaščito dlesni PRO+,..., 2 kos",
+          "url": "https://www.dm.si/p/d/3042915/dontodent-pro-zobna-scetka-za-krepitev-in-zascito-dlesni-pro-soft-vec-razlicic",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:45.469Z",
+          "lastSeenAt": "2026-10-17T12:09:59.866Z",
+          "currentPriceCents": 230,
+          "currentPriceEurCents": 230,
+          "referencePriceCents": 230,
+          "referencePriceEurCents": 230
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Zahnbürste Pro+ Sensitive Complete Care weich..., 2 St",
+          "url": "https://www.dm.at/p/d/3042915/dontodent-pro-zahnbuerste-pro-sensitive-complete-care-weich-sortiert",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:47.920Z",
+          "lastSeenAt": "2026-10-17T12:10:11.667Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Zahnbürste PRO+ Zahnfleischschutz & Stärkung weich, 2 St",
+          "url": "https://www.dm.de/p/d/3042915/dontodent-pro-zahnbuerste-pro-zahnfleischschutz-und-staerkung-weich",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:11.101Z",
+          "lastSeenAt": "2026-10-17T12:10:17.379Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Ínyvédő és erősítő fogkefe PRO+, puha, többféle, 2 db",
+          "url": "https://www.dm.hu/p/d/3042915/dontodent-pro-inyvedo-es-erosito-fogkefe-pro-puha-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:29:46.464Z",
+          "lastSeenAt": "2026-10-17T12:10:22.820Z",
+          "currentPriceCents": 40900,
+          "currentPriceEurCents": 113,
+          "referencePriceCents": 40900,
+          "referencePriceEurCents": 113
+        }
+      ]
+    },
+    {
+      "productId": 13032,
+      "brand": "Signal",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 140.51,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Super Mario Junior dječja pasta za zube Mild Mint..., 75 g",
+          "url": "https://www.dm.hr/p/d/2952152/signal-super-mario-junior-djecja-pasta-za-zube-mild-mint-flavour-6-13-god-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-11-10T12:34:49.169Z",
+          "lastSeenAt": "2026-11-10T12:34:49.169Z",
+          "currentPriceCents": 380,
+          "currentPriceEurCents": 380,
+          "referencePriceCents": 380,
+          "referencePriceEurCents": 380
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkrém junior 6-13 éves korig, 75 ml",
+          "url": "https://www.dm.hu/p/d/2952152/signal-fogkrem-junior-6-13-eves-korig",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:29:55.346Z",
+          "lastSeenAt": "2026-11-10T12:35:05.271Z",
+          "currentPriceCents": 57500,
+          "currentPriceEurCents": 158,
+          "referencePriceCents": 57500,
+          "referencePriceEurCents": 158
         }
       ]
     },
@@ -901,7 +901,7 @@
       "productId": 6100,
       "brand": "Dontodent PRO+",
       "isCountryExtreme": true,
-      "overallPercentDiff": 123.58,
+      "overallPercentDiff": 121.77,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -970,9 +970,9 @@
           "observedAt": "2026-09-01T12:31:30.809Z",
           "lastSeenAt": "2026-11-01T15:04:50.279Z",
           "currentPriceCents": 44900,
-          "currentPriceEurCents": 123,
+          "currentPriceEurCents": 124,
           "referencePriceCents": 44900,
-          "referencePriceEurCents": 123
+          "referencePriceEurCents": 124
         }
       ]
     },
@@ -1079,43 +1079,6 @@
       ]
     },
     {
-      "productId": 13032,
-      "brand": "Signal",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 121.52,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Super Mario Junior dječja pasta za zube Mild Mint..., 75 g",
-          "url": "https://www.dm.hr/p/d/2952152/signal-super-mario-junior-djecja-pasta-za-zube-mild-mint-flavour-6-13-god-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:17.918Z",
-          "lastSeenAt": "2026-10-11T14:53:58.849Z",
-          "currentPriceCents": 350,
-          "currentPriceEurCents": 350,
-          "referencePriceCents": 350,
-          "referencePriceEurCents": 350
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkrém junior 6-13 éves korig, 75 ml",
-          "url": "https://www.dm.hu/p/d/2952152/signal-fogkrem-junior-6-13-eves-korig",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:29:55.346Z",
-          "lastSeenAt": "2026-10-11T14:54:15.303Z",
-          "currentPriceCents": 57500,
-          "currentPriceEurCents": 158,
-          "referencePriceCents": 57500,
-          "referencePriceEurCents": 158
-        }
-      ]
-    },
-    {
       "productId": 5345,
       "brand": "dmBio",
       "isCountryExtreme": true,
@@ -1188,46 +1151,9 @@
           "observedAt": "2026-09-01T12:32:04.843Z",
           "lastSeenAt": "2026-10-24T12:39:23.327Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 247,
+          "currentPriceEurCents": 248,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 247
-        }
-      ]
-    },
-    {
-      "productId": 12425,
-      "brand": "Oral-B",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 117.29,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Pasta za zube Professional Sensitivity & Gum Calm, 75 ml",
-          "url": "https://www.dm.hr/p/d/3131848/oral-b-pasta-za-zube-professional-sensitivity-gum-calm",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:14.196Z",
-          "lastSeenAt": "2026-10-15T13:23:07.020Z",
-          "currentPriceCents": 465,
-          "currentPriceEurCents": 465,
-          "referencePriceCents": 465,
-          "referencePriceEurCents": 465
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkrém Pro-expert Refreshing Clean, 75 ml",
-          "url": "https://www.dm.hu/p/d/3131848/oral-b-fogkrem-pro-expert-refreshing-clean",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:13.914Z",
-          "lastSeenAt": "2026-10-15T13:23:27.448Z",
-          "currentPriceCents": 77900,
-          "currentPriceEurCents": 214,
-          "referencePriceCents": 77900,
-          "referencePriceEurCents": 214
+          "referencePriceEurCents": 248
         }
       ]
     },
@@ -1265,6 +1191,43 @@
           "currentPriceEurCents": 145,
           "referencePriceCents": 145,
           "referencePriceEurCents": 145
+        }
+      ]
+    },
+    {
+      "productId": 12425,
+      "brand": "Oral-B",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 116.28,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Pasta za zube Professional Sensitivity & Gum Calm, 75 ml",
+          "url": "https://www.dm.hr/p/d/3131848/oral-b-pasta-za-zube-professional-sensitivity-gum-calm",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:14.196Z",
+          "lastSeenAt": "2026-10-15T13:23:07.020Z",
+          "currentPriceCents": 465,
+          "currentPriceEurCents": 465,
+          "referencePriceCents": 465,
+          "referencePriceEurCents": 465
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkrém Pro-expert Refreshing Clean, 75 ml",
+          "url": "https://www.dm.hu/p/d/3131848/oral-b-fogkrem-pro-expert-refreshing-clean",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:13.914Z",
+          "lastSeenAt": "2026-10-15T13:23:27.448Z",
+          "currentPriceCents": 77900,
+          "currentPriceEurCents": 215,
+          "referencePriceCents": 77900,
+          "referencePriceEurCents": 215
         }
       ]
     },
@@ -1323,7 +1286,7 @@
       "productId": 1159,
       "brand": "Jordan",
       "isCountryExtreme": true,
-      "overallPercentDiff": 110.67,
+      "overallPercentDiff": 109.5,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1350,9 +1313,9 @@
           "observedAt": "2026-09-01T12:33:05.046Z",
           "lastSeenAt": "2026-11-07T14:53:41.614Z",
           "currentPriceCents": 64900,
-          "currentPriceEurCents": 178,
+          "currentPriceEurCents": 179,
           "referencePriceCents": 64900,
-          "referencePriceEurCents": 178
+          "referencePriceEurCents": 179
         }
       ]
     },
@@ -1360,7 +1323,7 @@
       "productId": 1188,
       "brand": "Jordan",
       "isCountryExtreme": true,
-      "overallPercentDiff": 110.67,
+      "overallPercentDiff": 109.5,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1387,9 +1350,9 @@
           "observedAt": "2026-09-01T12:30:32.566Z",
           "lastSeenAt": "2026-11-06T12:04:35.434Z",
           "currentPriceCents": 64900,
-          "currentPriceEurCents": 178,
+          "currentPriceEurCents": 179,
           "referencePriceCents": 64900,
-          "referencePriceEurCents": 178
+          "referencePriceEurCents": 179
         }
       ]
     },
@@ -1496,43 +1459,6 @@
       ]
     },
     {
-      "productId": 2237,
-      "brand": "Aquafresh",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 106.59,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Clean & Flex četkica za zube, 2 kom.",
-          "url": "https://www.dm.hr/p/d/2366978/aquafresh-clean-flex-cetkica-za-zube",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:57:32.685Z",
-          "lastSeenAt": "2026-10-24T12:39:10.081Z",
-          "currentPriceCents": 345,
-          "currentPriceEurCents": 345,
-          "referencePriceCents": 345,
-          "referencePriceEurCents": 345
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkefe clean&flex duopack (többféle), 2 db",
-          "url": "https://www.dm.hu/p/d/2366978/aquafresh-fogkefe-clean-flex-duopack-tobbfele",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:42.358Z",
-          "lastSeenAt": "2026-10-24T12:39:23.327Z",
-          "currentPriceCents": 60900,
-          "currentPriceEurCents": 167,
-          "referencePriceCents": 60900,
-          "referencePriceEurCents": 167
-        }
-      ]
-    },
-    {
       "productId": 5201,
       "brand": "Balea PROFESSIONAL",
       "isCountryExtreme": true,
@@ -1608,6 +1534,122 @@
           "currentPriceEurCents": 143,
           "referencePriceCents": 51900,
           "referencePriceEurCents": 143
+        }
+      ]
+    },
+    {
+      "productId": 2237,
+      "brand": "Aquafresh",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 105.36,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Clean & Flex četkica za zube, 2 kom.",
+          "url": "https://www.dm.hr/p/d/2366978/aquafresh-clean-flex-cetkica-za-zube",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:57:32.685Z",
+          "lastSeenAt": "2026-10-24T12:39:10.081Z",
+          "currentPriceCents": 345,
+          "currentPriceEurCents": 345,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkefe clean&flex duopack (többféle), 2 db",
+          "url": "https://www.dm.hu/p/d/2366978/aquafresh-fogkefe-clean-flex-duopack-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:42.358Z",
+          "lastSeenAt": "2026-10-24T12:39:23.327Z",
+          "currentPriceCents": 60900,
+          "currentPriceEurCents": 168,
+          "referencePriceCents": 60900,
+          "referencePriceEurCents": 168
+        }
+      ]
+    },
+    {
+      "productId": 8783,
+      "brand": "Profissimo",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 103.7,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Krpa za brisanje prašine i mokro čišćenje od..., 3 kom.",
+          "url": "https://www.dm.hr/p/d/1494453/profissimo-krpa-za-brisanje-prasine-i-mokro-ciscenje-od-mikrovlakana-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:51.588Z",
+          "lastSeenAt": "2026-10-27T14:27:09.015Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Krpa iz mikrovlaken z rebrasto površino, 3 kos",
+          "url": "https://www.dm.si/p/d/1494453/profissimo-krpa-iz-mikrovlaken-z-rebrasto-povrsino",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:49.766Z",
+          "lastSeenAt": "2026-10-27T14:27:12.808Z",
+          "currentPriceCents": 135,
+          "currentPriceEurCents": 135,
+          "referencePriceCents": 135,
+          "referencePriceEurCents": 135
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Reinigungstücher aus Mikrofeinfaser, 3 St",
+          "url": "https://www.dm.at/p/d/1494453/profissimo-reinigungstuecher-aus-mikrofeinfaser",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:06.799Z",
+          "lastSeenAt": "2026-10-27T14:27:19.163Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Reinigungstücher Mikrofeinfaser, 3 St",
+          "url": "https://www.dm.de/p/d/1494453/profissimo-reinigungstuecher-mikrofeinfaser",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:51.188Z",
+          "lastSeenAt": "2026-10-27T14:27:24.951Z",
+          "currentPriceCents": 225,
+          "currentPriceEurCents": 225,
+          "referencePriceCents": 225,
+          "referencePriceEurCents": 225
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Mikroszálas prémium törlőkendő, 3 db",
+          "url": "https://www.dm.hu/p/d/1494453/profissimo-mikroszalas-premium-torlokendo",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:02.558Z",
+          "lastSeenAt": "2026-10-27T14:27:30.381Z",
+          "currentPriceCents": 99900,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 99900,
+          "referencePriceEurCents": 275
         }
       ]
     }
