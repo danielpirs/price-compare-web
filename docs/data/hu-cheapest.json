@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-11T12:31:21.988Z",
+  "generatedAt": "2026-11-12T13:36:18.660Z",
   "fx": {
-    "asOf": "2026-11-10",
+    "asOf": "2026-11-11",
     "rates": {
-      "USD": 1.1214,
-      "JPY": 177.38,
-      "CZK": 24.337,
-      "DKK": 7.4754,
-      "GBP": 0.83545,
-      "HUF": 362.98,
-      "PLN": 4.387,
-      "RON": 5.3442,
-      "SEK": 10.991,
-      "CHF": 0.9203,
-      "ISK": 137.2,
-      "NOK": 10.6155,
-      "TRY": 56.3207,
-      "AUD": 1.6244,
-      "BRL": 6.2257,
-      "CAD": 1.5852,
-      "CNY": 7.4801,
-      "HKD": 8.7973,
-      "IDR": 20255.34,
-      "ILS": 3.5507,
-      "INR": 105.3315,
-      "KRW": 1501.56,
-      "MXN": 20.8063,
-      "MYR": 4.5484,
-      "NZD": 1.9925,
-      "PHP": 70.54,
-      "SGD": 1.4335,
-      "THB": 37.522,
-      "ZAR": 18.3861
+      "USD": 1.1127,
+      "JPY": 177.18,
+      "CZK": 24.378,
+      "DKK": 7.4755,
+      "GBP": 0.83618,
+      "HUF": 365.08,
+      "PLN": 4.4038,
+      "RON": 5.3451,
+      "SEK": 11.051,
+      "CHF": 0.9234,
+      "ISK": 136.8,
+      "NOK": 10.6145,
+      "TRY": 55.8897,
+      "AUD": 1.6222,
+      "BRL": 6.1827,
+      "CAD": 1.5839,
+      "CNY": 7.4225,
+      "HKD": 8.7298,
+      "IDR": 20223.32,
+      "ILS": 3.529,
+      "INR": 104.254,
+      "KRW": 1487.57,
+      "MXN": 20.7623,
+      "MYR": 4.5326,
+      "NZD": 1.9928,
+      "PHP": 70.379,
+      "SGD": 1.4271,
+      "THB": 37.487,
+      "ZAR": 18.4307
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -43,7 +43,7 @@
       "productId": 3114,
       "brand": "SEINZ.",
       "isCountryExtreme": true,
-      "overallPercentDiff": 327.54,
+      "overallPercentDiff": 333.82,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -98,9 +98,9 @@
           "observedAt": "2026-10-09T15:16:31.469Z",
           "lastSeenAt": "2026-11-08T15:09:24.786Z",
           "currentPriceCents": 24900,
-          "currentPriceEurCents": 69,
+          "currentPriceEurCents": 68,
           "referencePriceCents": 24900,
-          "referencePriceEurCents": 69
+          "referencePriceEurCents": 68
         }
       ]
     },
@@ -108,7 +108,7 @@
       "productId": 39854,
       "brand": "Varta",
       "isCountryExtreme": true,
-      "overallPercentDiff": 215.91,
+      "overallPercentDiff": 217.35,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -135,9 +135,9 @@
           "observedAt": "2026-09-01T12:31:00.665Z",
           "lastSeenAt": "2026-10-26T15:09:43.287Z",
           "currentPriceCents": 79900,
-          "currentPriceEurCents": 220,
+          "currentPriceEurCents": 219,
           "referencePriceCents": 79900,
-          "referencePriceEurCents": 220
+          "referencePriceEurCents": 219
         }
       ]
     },
@@ -145,7 +145,7 @@
       "productId": 15502,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 192.34,
+      "overallPercentDiff": 194.72,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -200,60 +200,9 @@
           "observedAt": "2026-09-01T12:30:04.184Z",
           "lastSeenAt": "2026-11-07T14:53:41.614Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 248,
+          "currentPriceEurCents": 246,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 248
-        }
-      ]
-    },
-    {
-      "productId": 11188,
-      "brand": "Balea",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 186.59,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Kremasto-uljna kupka Sweet Cherry Moment, 500 ml",
-          "url": "https://www.dm.hr/p/d/3090762/balea-kremasto-uljna-kupka-sweet-cherry-moment",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:07.072Z",
-          "lastSeenAt": "2026-10-12T17:51:30.603Z",
-          "currentPriceCents": 215,
-          "currentPriceEurCents": 215,
-          "referencePriceCents": 215,
-          "referencePriceEurCents": 215
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Kremna kopel na oljni osnovi Sweet CHERRY MOMENT, 500 ml",
-          "url": "https://www.dm.si/p/d/3090762/balea-kremna-kopel-na-oljni-osnovi-sweet-cherry-moment",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:59.311Z",
-          "lastSeenAt": "2026-10-12T17:51:27.981Z",
-          "currentPriceCents": 235,
-          "currentPriceEurCents": 235,
-          "referencePriceCents": 235,
-          "referencePriceEurCents": 235
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Krémes-olajos habfürdő Sweet Cherry Moment, 500 ml",
-          "url": "https://www.dm.hu/p/d/3090762/balea-kremes-olajos-habfurdo-sweet-cherry-moment",
-          "isPromo": false,
-          "observedAt": "2026-10-12T17:51:40.619Z",
-          "lastSeenAt": "2026-10-12T17:51:40.619Z",
-          "currentPriceCents": 29900,
-          "currentPriceEurCents": 82,
-          "referencePriceCents": 29900,
-          "referencePriceEurCents": 82
+          "referencePriceEurCents": 246
         }
       ]
     },
@@ -340,7 +289,7 @@
       "productId": 5466,
       "brand": "Jordan",
       "isCountryExtreme": true,
-      "overallPercentDiff": 177.78,
+      "overallPercentDiff": 180.61,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -367,9 +316,125 @@
           "observedAt": "2026-09-01T12:30:01.877Z",
           "lastSeenAt": "2026-10-23T13:22:57.120Z",
           "currentPriceCents": 35900,
-          "currentPriceEurCents": 99,
+          "currentPriceEurCents": 98,
           "referencePriceCents": 35900,
-          "referencePriceEurCents": 99
+          "referencePriceEurCents": 98
+        }
+      ]
+    },
+    {
+      "productId": 7190,
+      "brand": "ebelin",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 172.06,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Rašpica protiv listanja noktiju, više vrsta, 1 kom.",
+          "url": "https://www.dm.hr/p/d/1345882/ebelin-raspica-protiv-listanja-noktiju-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:41.759Z",
+          "lastSeenAt": "2026-11-07T14:53:21.001Z",
+          "currentPriceCents": 125,
+          "currentPriceEurCents": 125,
+          "referencePriceCents": 125,
+          "referencePriceEurCents": 125
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Pilica proti razcepljenim nohtom, več različic, 1 kos",
+          "url": "https://www.dm.si/p/d/1345882/ebelin-pilica-proti-razcepljenim-nohtom-vec-razlicic",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:00.003Z",
+          "lastSeenAt": "2026-11-07T14:53:25.799Z",
+          "currentPriceCents": 165,
+          "currentPriceEurCents": 165,
+          "referencePriceCents": 165,
+          "referencePriceEurCents": 165
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Nagelfeile Anti-Splitter sortiert, 1 St",
+          "url": "https://www.dm.at/p/d/1345882/ebelin-nagelfeile-anti-splitter-sortiert",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:36.315Z",
+          "lastSeenAt": "2026-11-07T14:53:31.135Z",
+          "currentPriceCents": 185,
+          "currentPriceEurCents": 185,
+          "referencePriceCents": 185,
+          "referencePriceEurCents": 185
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Nagelfeile Anti-Splitter, 1 St",
+          "url": "https://www.dm.de/p/d/1345882/ebelin-nagelfeile-anti-splitter",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:35.778Z",
+          "lastSeenAt": "2026-11-07T14:53:38.142Z",
+          "currentPriceCents": 125,
+          "currentPriceEurCents": 125,
+          "referencePriceCents": 125,
+          "referencePriceEurCents": 125
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Körömreszelő töredezett körmökre, többféle, 1 db",
+          "url": "https://www.dm.hu/p/d/1345882/ebelin-koromreszelo-toredezett-kormokre-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:02.558Z",
+          "lastSeenAt": "2026-11-07T14:53:41.614Z",
+          "currentPriceCents": 24900,
+          "currentPriceEurCents": 68,
+          "referencePriceCents": 24900,
+          "referencePriceEurCents": 68
+        }
+      ]
+    },
+    {
+      "productId": 30108,
+      "brand": "Balea",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 170.64,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Lifting-Patches Face Stripes Elastic (2 Paar), 4 St",
+          "url": "https://www.dm.de/p/d/3115448/balea-lifting-patches-face-stripes-elastic-2-paar",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:05.412Z",
+          "lastSeenAt": "2026-10-23T13:22:53.420Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Arctapasz, Q10-koenzim- és duó-peptidtartalommal, 4 db",
+          "url": "https://www.dm.hu/p/d/3115448/balea-arctapasz-q10-koenzim-es-duo-peptidtartalommal",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:55.494Z",
+          "lastSeenAt": "2026-10-23T13:22:57.120Z",
+          "currentPriceCents": 39900,
+          "currentPriceEurCents": 109,
+          "referencePriceCents": 39900,
+          "referencePriceEurCents": 109
         }
       ]
     },
@@ -453,118 +518,53 @@
       ]
     },
     {
-      "productId": 30108,
+      "productId": 11188,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 168.18,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Lifting-Patches Face Stripes Elastic (2 Paar), 4 St",
-          "url": "https://www.dm.de/p/d/3115448/balea-lifting-patches-face-stripes-elastic-2-paar",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:05.412Z",
-          "lastSeenAt": "2026-10-23T13:22:53.420Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Arctapasz, Q10-koenzim- és duó-peptidtartalommal, 4 db",
-          "url": "https://www.dm.hu/p/d/3115448/balea-arctapasz-q10-koenzim-es-duo-peptidtartalommal",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:55.494Z",
-          "lastSeenAt": "2026-10-23T13:22:57.120Z",
-          "currentPriceCents": 39900,
-          "currentPriceEurCents": 110,
-          "referencePriceCents": 39900,
-          "referencePriceEurCents": 110
-        }
-      ]
-    },
-    {
-      "productId": 7190,
-      "brand": "ebelin",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 168.12,
+      "overallPercentDiff": 168.29,
       "gapToExtremePercent": 0,
       "countries": [
         {
           "countryCode": "HR",
           "shopId": "dm-hr",
           "currency": "EUR",
-          "name": "Rašpica protiv listanja noktiju, više vrsta, 1 kom.",
-          "url": "https://www.dm.hr/p/d/1345882/ebelin-raspica-protiv-listanja-noktiju-vise-vrsta",
+          "name": "Kremasto-uljna kupka Sweet Cherry Moment, 500 ml",
+          "url": "https://www.dm.hr/p/d/3090762/balea-kremasto-uljna-kupka-sweet-cherry-moment",
           "isPromo": false,
-          "observedAt": "2026-08-30T22:32:41.759Z",
-          "lastSeenAt": "2026-11-07T14:53:21.001Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
+          "observedAt": "2026-08-30T22:33:07.072Z",
+          "lastSeenAt": "2026-11-11T16:07:48.455Z",
+          "currentPriceCents": 215,
+          "currentPriceEurCents": 215,
+          "referencePriceCents": 215,
+          "referencePriceEurCents": 215
         },
         {
           "countryCode": "SI",
           "shopId": "dm-si",
           "currency": "EUR",
-          "name": "Pilica proti razcepljenim nohtom, več različic, 1 kos",
-          "url": "https://www.dm.si/p/d/1345882/ebelin-pilica-proti-razcepljenim-nohtom-vec-razlicic",
+          "name": "Kremna kopel na oljni osnovi Sweet CHERRY MOMENT, 500 ml",
+          "url": "https://www.dm.si/p/d/3090762/balea-kremna-kopel-na-oljni-osnovi-sweet-cherry-moment",
           "isPromo": false,
-          "observedAt": "2026-08-30T22:35:00.003Z",
-          "lastSeenAt": "2026-11-07T14:53:25.799Z",
-          "currentPriceCents": 165,
-          "currentPriceEurCents": 165,
-          "referencePriceCents": 165,
-          "referencePriceEurCents": 165
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Nagelfeile Anti-Splitter sortiert, 1 St",
-          "url": "https://www.dm.at/p/d/1345882/ebelin-nagelfeile-anti-splitter-sortiert",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:36.315Z",
-          "lastSeenAt": "2026-11-07T14:53:31.135Z",
-          "currentPriceCents": 185,
-          "currentPriceEurCents": 185,
-          "referencePriceCents": 185,
-          "referencePriceEurCents": 185
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Nagelfeile Anti-Splitter, 1 St",
-          "url": "https://www.dm.de/p/d/1345882/ebelin-nagelfeile-anti-splitter",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:35.778Z",
-          "lastSeenAt": "2026-11-07T14:53:38.142Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
+          "observedAt": "2026-11-11T16:07:49.950Z",
+          "lastSeenAt": "2026-11-11T16:07:49.950Z",
+          "currentPriceCents": 220,
+          "currentPriceEurCents": 220,
+          "referencePriceCents": 220,
+          "referencePriceEurCents": 220
         },
         {
           "countryCode": "HU",
           "shopId": "dm-hu",
           "currency": "HUF",
-          "name": "Körömreszelő töredezett körmökre, többféle, 1 db",
-          "url": "https://www.dm.hu/p/d/1345882/ebelin-koromreszelo-toredezett-kormokre-tobbfele",
+          "name": "Krémes-olajos habfürdő Sweet Cherry Moment, 500 ml",
+          "url": "https://www.dm.hu/p/d/3090762/balea-kremes-olajos-habfurdo-sweet-cherry-moment",
           "isPromo": false,
-          "observedAt": "2026-09-01T12:32:02.558Z",
-          "lastSeenAt": "2026-11-07T14:53:41.614Z",
-          "currentPriceCents": 24900,
-          "currentPriceEurCents": 69,
-          "referencePriceCents": 24900,
-          "referencePriceEurCents": 69
+          "observedAt": "2026-10-12T17:51:40.619Z",
+          "lastSeenAt": "2026-11-11T16:08:03.442Z",
+          "currentPriceCents": 29900,
+          "currentPriceEurCents": 82,
+          "referencePriceCents": 29900,
+          "referencePriceEurCents": 82
         }
       ]
     },
@@ -572,7 +572,7 @@
       "productId": 65216,
       "brand": "SEINZ.",
       "isCountryExtreme": true,
-      "overallPercentDiff": 161.06,
+      "overallPercentDiff": 163.39,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -627,9 +627,9 @@
           "observedAt": "2026-11-09T18:44:06.381Z",
           "lastSeenAt": "2026-11-09T18:44:06.381Z",
           "currentPriceCents": 40900,
-          "currentPriceEurCents": 113,
+          "currentPriceEurCents": 112,
           "referencePriceCents": 40900,
-          "referencePriceEurCents": 113
+          "referencePriceEurCents": 112
         }
       ]
     },
@@ -739,7 +739,7 @@
       "productId": 7970,
       "brand": "Gillette Venus",
       "isCountryExtreme": true,
-      "overallPercentDiff": 152.77,
+      "overallPercentDiff": 154.17,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -780,9 +780,9 @@
           "observedAt": "2026-09-01T12:30:13.724Z",
           "lastSeenAt": "2026-11-08T15:09:24.786Z",
           "currentPriceCents": 196900,
-          "currentPriceEurCents": 542,
+          "currentPriceEurCents": 539,
           "referencePriceCents": 196900,
-          "referencePriceEurCents": 542
+          "referencePriceEurCents": 539
         }
       ]
     },
@@ -790,7 +790,7 @@
       "productId": 4236,
       "brand": "LANGHAARMÄDCHEN",
       "isCountryExtreme": true,
-      "overallPercentDiff": 150,
+      "overallPercentDiff": 151.27,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -831,9 +831,9 @@
           "observedAt": "2026-09-01T12:30:07.326Z",
           "lastSeenAt": "2026-11-01T15:04:51.921Z",
           "currentPriceCents": 71900,
-          "currentPriceEurCents": 198,
+          "currentPriceEurCents": 197,
           "referencePriceCents": 71900,
-          "referencePriceEurCents": 198
+          "referencePriceEurCents": 197
         }
       ]
     },
@@ -841,7 +841,7 @@
       "productId": 11106,
       "brand": "Jordan",
       "isCountryExtreme": true,
-      "overallPercentDiff": 143.8,
+      "overallPercentDiff": 145.83,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -852,7 +852,7 @@
           "url": "https://www.dm.hr/p/d/2158438/jordan-pasta-za-zube-junior-6-12-god-vise-vrsta",
           "isPromo": false,
           "observedAt": "2026-08-30T22:33:05.887Z",
-          "lastSeenAt": "2026-10-12T17:51:29.335Z",
+          "lastSeenAt": "2026-11-11T16:07:46.721Z",
           "currentPriceCents": 295,
           "currentPriceEurCents": 295,
           "referencePriceCents": 295,
@@ -866,7 +866,7 @@
           "url": "https://www.dm.si/p/d/2158438/jordan-zobna-krema-za-otroke-6-12-let",
           "isPromo": false,
           "observedAt": "2026-08-30T22:35:19.593Z",
-          "lastSeenAt": "2026-10-12T17:51:25.488Z",
+          "lastSeenAt": "2026-11-11T16:07:49.950Z",
           "currentPriceCents": 285,
           "currentPriceEurCents": 285,
           "referencePriceCents": 285,
@@ -880,11 +880,11 @@
           "url": "https://www.dm.hu/p/d/2158438/jordan-fogkrem-junior-6-eves-kortol",
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:35.474Z",
-          "lastSeenAt": "2026-10-12T17:51:42.466Z",
+          "lastSeenAt": "2026-11-11T16:08:07.127Z",
           "currentPriceCents": 43900,
-          "currentPriceEurCents": 121,
+          "currentPriceEurCents": 120,
           "referencePriceCents": 43900,
-          "referencePriceEurCents": 121
+          "referencePriceEurCents": 120
         }
       ]
     },
@@ -892,7 +892,7 @@
       "productId": 12130,
       "brand": "Jordan",
       "isCountryExtreme": true,
-      "overallPercentDiff": 143.8,
+      "overallPercentDiff": 145.83,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -933,9 +933,9 @@
           "observedAt": "2026-09-01T12:30:32.566Z",
           "lastSeenAt": "2026-11-04T12:04:41.720Z",
           "currentPriceCents": 43900,
-          "currentPriceEurCents": 121,
+          "currentPriceEurCents": 120,
           "referencePriceCents": 43900,
-          "referencePriceEurCents": 121
+          "referencePriceEurCents": 120
         }
       ]
     },
@@ -943,7 +943,7 @@
       "productId": 2245,
       "brand": "Dontodent PRO+",
       "isCountryExtreme": true,
-      "overallPercentDiff": 143.36,
+      "overallPercentDiff": 145.54,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1012,9 +1012,9 @@
           "observedAt": "2026-09-01T12:29:46.464Z",
           "lastSeenAt": "2026-10-17T12:10:22.820Z",
           "currentPriceCents": 40900,
-          "currentPriceEurCents": 113,
+          "currentPriceEurCents": 112,
           "referencePriceCents": 40900,
-          "referencePriceEurCents": 113
+          "referencePriceEurCents": 112
         }
       ]
     },
@@ -1022,7 +1022,7 @@
       "productId": 1190,
       "brand": "Balea PROFESSIONAL",
       "isCountryExtreme": true,
-      "overallPercentDiff": 143.15,
+      "overallPercentDiff": 144.83,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1051,174 +1051,7 @@
           "currentPriceCents": 29900,
           "currentPriceEurCents": 82,
           "referencePriceCents": 52900,
-          "referencePriceEurCents": 146
-        }
-      ]
-    },
-    {
-      "productId": 4514,
-      "brand": "ebelin",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 140.91,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Pinzette gekrümmt, 1 St",
-          "url": "https://www.dm.at/p/d/1345151/ebelin-pinzette-gekruemmt",
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:43:38.329Z",
-          "lastSeenAt": "2026-10-15T13:23:13.334Z",
-          "currentPriceCents": 265,
-          "currentPriceEurCents": 265,
-          "referencePriceCents": 265,
-          "referencePriceEurCents": 265
-        },
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Pinceta od nehrđajućeg čelika, 1 kom.",
-          "url": "https://www.dm.hr/p/d/1345151/ebelin-pinceta-od-nehr-ajuceg-celika",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:41.759Z",
-          "lastSeenAt": "2026-10-15T13:23:03.684Z",
-          "currentPriceCents": 265,
-          "currentPriceEurCents": 265,
-          "referencePriceCents": 265,
-          "referencePriceEurCents": 265
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Pinceta z ukrivljeno konico, 1 kos",
-          "url": "https://www.dm.si/p/d/1345151/ebelin-pinceta-z-ukrivljeno-konico",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:01.846Z",
-          "lastSeenAt": "2026-10-15T13:23:11.657Z",
-          "currentPriceCents": 245,
-          "currentPriceEurCents": 245,
-          "referencePriceCents": 245,
-          "referencePriceEurCents": 245
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Pinzette gekrümmt, 1 St",
-          "url": "https://www.dm.de/p/d/1345151/ebelin-pinzette-gekruemmt",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:48.279Z",
-          "lastSeenAt": "2026-10-15T13:23:22.919Z",
-          "currentPriceCents": 225,
-          "currentPriceEurCents": 225,
-          "referencePriceCents": 225,
-          "referencePriceEurCents": 225
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Szemöldökcsipesz, hajlított végű, 1 db",
-          "url": "https://www.dm.hu/p/d/1345151/ebelin-szemoldokcsipesz-hajlitott-vegu",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:41.384Z",
-          "lastSeenAt": "2026-10-15T13:23:27.448Z",
-          "currentPriceCents": 39900,
-          "currentPriceEurCents": 110,
-          "referencePriceCents": 39900,
-          "referencePriceEurCents": 110
-        }
-      ]
-    },
-    {
-      "productId": 10884,
-      "brand": "WILKINSON SWORD",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 140.85,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Extra 2 Beauty jednokratni brijač, 7 kom.",
-          "url": "https://www.dm.hr/p/d/2030477/wilkinson-sword-extra-2-beauty-jednokratni-brijac",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:04.766Z",
-          "lastSeenAt": "2026-10-30T15:01:33.514Z",
-          "currentPriceCents": 350,
-          "currentPriceEurCents": 350,
-          "referencePriceCents": 350,
-          "referencePriceEurCents": 350
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Damski brivnik za enkratno uporabo Extra2 My..., 7 kos",
-          "url": "https://www.dm.si/p/d/2030477/wilkinson-sword-damski-brivnik-za-enkratno-uporabo-extra2-my-intuition",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:06.418Z",
-          "lastSeenAt": "2026-10-30T15:01:36.549Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Eldobható borotva Xtra 2 My Intuition Essentials, 5 db",
-          "url": "https://www.dm.hu/p/d/2030477/wilkinson-sword-eldobhato-borotva-xtra-2-my-intuition-essentials",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:45.278Z",
-          "lastSeenAt": "2026-10-30T15:01:53.484Z",
-          "currentPriceCents": 59500,
-          "currentPriceEurCents": 164,
-          "referencePriceCents": 59500,
-          "referencePriceEurCents": 164
-        }
-      ]
-    },
-    {
-      "productId": 13032,
-      "brand": "Signal",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 140.51,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Super Mario Junior dječja pasta za zube Mild Mint..., 75 g",
-          "url": "https://www.dm.hr/p/d/2952152/signal-super-mario-junior-djecja-pasta-za-zube-mild-mint-flavour-6-13-god-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-11-10T12:34:49.169Z",
-          "lastSeenAt": "2026-11-10T12:34:49.169Z",
-          "currentPriceCents": 380,
-          "currentPriceEurCents": 380,
-          "referencePriceCents": 380,
-          "referencePriceEurCents": 380
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkrém junior 6-13 éves korig, 75 ml",
-          "url": "https://www.dm.hu/p/d/2952152/signal-fogkrem-junior-6-13-eves-korig",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:29:55.346Z",
-          "lastSeenAt": "2026-11-10T12:35:05.271Z",
-          "currentPriceCents": 57500,
-          "currentPriceEurCents": 158,
-          "referencePriceCents": 57500,
-          "referencePriceEurCents": 158
+          "referencePriceEurCents": 145
         }
       ]
     },
@@ -1226,7 +1059,7 @@
       "productId": 7521,
       "brand": "Balea MEN",
       "isCountryExtreme": true,
-      "overallPercentDiff": 140.26,
+      "overallPercentDiff": 143.42,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1295,9 +1128,176 @@
           "observedAt": "2026-09-01T12:32:02.558Z",
           "lastSeenAt": "2026-11-04T12:04:38.957Z",
           "currentPriceCents": 27900,
-          "currentPriceEurCents": 77,
+          "currentPriceEurCents": 76,
           "referencePriceCents": 27900,
-          "referencePriceEurCents": 77
+          "referencePriceEurCents": 76
+        }
+      ]
+    },
+    {
+      "productId": 4514,
+      "brand": "ebelin",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 143.12,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Pinzette gekrümmt, 1 St",
+          "url": "https://www.dm.at/p/d/1345151/ebelin-pinzette-gekruemmt",
+          "isPromo": false,
+          "observedAt": "2026-08-28T16:43:38.329Z",
+          "lastSeenAt": "2026-10-15T13:23:13.334Z",
+          "currentPriceCents": 265,
+          "currentPriceEurCents": 265,
+          "referencePriceCents": 265,
+          "referencePriceEurCents": 265
+        },
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Pinceta od nehrđajućeg čelika, 1 kom.",
+          "url": "https://www.dm.hr/p/d/1345151/ebelin-pinceta-od-nehr-ajuceg-celika",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:41.759Z",
+          "lastSeenAt": "2026-10-15T13:23:03.684Z",
+          "currentPriceCents": 265,
+          "currentPriceEurCents": 265,
+          "referencePriceCents": 265,
+          "referencePriceEurCents": 265
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Pinceta z ukrivljeno konico, 1 kos",
+          "url": "https://www.dm.si/p/d/1345151/ebelin-pinceta-z-ukrivljeno-konico",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:01.846Z",
+          "lastSeenAt": "2026-10-15T13:23:11.657Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Pinzette gekrümmt, 1 St",
+          "url": "https://www.dm.de/p/d/1345151/ebelin-pinzette-gekruemmt",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:48.279Z",
+          "lastSeenAt": "2026-10-15T13:23:22.919Z",
+          "currentPriceCents": 225,
+          "currentPriceEurCents": 225,
+          "referencePriceCents": 225,
+          "referencePriceEurCents": 225
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Szemöldökcsipesz, hajlított végű, 1 db",
+          "url": "https://www.dm.hu/p/d/1345151/ebelin-szemoldokcsipesz-hajlitott-vegu",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:41.384Z",
+          "lastSeenAt": "2026-10-15T13:23:27.448Z",
+          "currentPriceCents": 39900,
+          "currentPriceEurCents": 109,
+          "referencePriceCents": 39900,
+          "referencePriceEurCents": 109
+        }
+      ]
+    },
+    {
+      "productId": 10884,
+      "brand": "WILKINSON SWORD",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 142.33,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Extra 2 Beauty jednokratni brijač, 7 kom.",
+          "url": "https://www.dm.hr/p/d/2030477/wilkinson-sword-extra-2-beauty-jednokratni-brijac",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:04.766Z",
+          "lastSeenAt": "2026-10-30T15:01:33.514Z",
+          "currentPriceCents": 350,
+          "currentPriceEurCents": 350,
+          "referencePriceCents": 350,
+          "referencePriceEurCents": 350
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Damski brivnik za enkratno uporabo Extra2 My..., 7 kos",
+          "url": "https://www.dm.si/p/d/2030477/wilkinson-sword-damski-brivnik-za-enkratno-uporabo-extra2-my-intuition",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:06.418Z",
+          "lastSeenAt": "2026-10-30T15:01:36.549Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Eldobható borotva Xtra 2 My Intuition Essentials, 5 db",
+          "url": "https://www.dm.hu/p/d/2030477/wilkinson-sword-eldobhato-borotva-xtra-2-my-intuition-essentials",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:45.278Z",
+          "lastSeenAt": "2026-10-30T15:01:53.484Z",
+          "currentPriceCents": 59500,
+          "currentPriceEurCents": 163,
+          "referencePriceCents": 59500,
+          "referencePriceEurCents": 163
+        }
+      ]
+    },
+    {
+      "productId": 13032,
+      "brand": "Signal",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 142.04,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Super Mario Junior dječja pasta za zube Mild Mint..., 75 g",
+          "url": "https://www.dm.hr/p/d/2952152/signal-super-mario-junior-djecja-pasta-za-zube-mild-mint-flavour-6-13-god-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-11-10T12:34:49.169Z",
+          "lastSeenAt": "2026-11-10T12:34:49.169Z",
+          "currentPriceCents": 380,
+          "currentPriceEurCents": 380,
+          "referencePriceCents": 380,
+          "referencePriceEurCents": 380
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkrém junior 6-13 éves korig, 75 ml",
+          "url": "https://www.dm.hu/p/d/2952152/signal-fogkrem-junior-6-13-eves-korig",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:29:55.346Z",
+          "lastSeenAt": "2026-11-10T12:35:05.271Z",
+          "currentPriceCents": 57500,
+          "currentPriceEurCents": 157,
+          "referencePriceCents": 57500,
+          "referencePriceEurCents": 157
         }
       ]
     },
@@ -1305,7 +1305,7 @@
       "productId": 6347,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 139.39,
+      "overallPercentDiff": 140.85,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1374,88 +1374,9 @@
           "observedAt": "2026-09-01T12:30:55.609Z",
           "lastSeenAt": "2026-10-29T15:12:47.095Z",
           "currentPriceCents": 59900,
-          "currentPriceEurCents": 165,
+          "currentPriceEurCents": 164,
           "referencePriceCents": 59900,
-          "referencePriceEurCents": 165
-        }
-      ]
-    },
-    {
-      "productId": 667,
-      "brand": "Balea med",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 136.61,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Gel za tuširanje Ultra Sensitive, 250 ml",
-          "url": "https://www.dm.si/p/d/1639872/balea-med-gel-za-tusiranje-ultra-sensitive",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:46:45.669Z",
-          "lastSeenAt": "2026-10-13T11:43:53.796Z",
-          "currentPriceCents": 265,
-          "currentPriceEurCents": 265,
-          "referencePriceCents": 265,
-          "referencePriceEurCents": 265
-        },
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Ultra Sensitive gel za tuširanje, 250 ml",
-          "url": "https://www.dm.hr/p/d/1639872/balea-med-ultra-sensitive-gel-za-tusiranje",
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:08:18.972Z",
-          "lastSeenAt": "2026-10-13T11:43:59.172Z",
-          "currentPriceCents": 180,
-          "currentPriceEurCents": 180,
-          "referencePriceCents": 180,
-          "referencePriceEurCents": 180
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Duschgel Ultra Sensitive, 250 ml",
-          "url": "https://www.dm.at/p/d/1639872/balea-med-duschgel-ultra-sensitive",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:37.949Z",
-          "lastSeenAt": "2026-10-13T11:44:02.511Z",
-          "currentPriceCents": 225,
-          "currentPriceEurCents": 225,
-          "referencePriceCents": 225,
-          "referencePriceEurCents": 225
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Duschgel Ultra Sensitive, 250 ml",
-          "url": "https://www.dm.de/p/d/1639872/balea-med-duschgel-ultra-sensitive",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:43.104Z",
-          "lastSeenAt": "2026-10-13T11:44:13.522Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Ultra szenzitív tusfürdő gél, 250 ml",
-          "url": "https://www.dm.hu/p/d/1639872/balea-med-ultra-szenzitiv-tusfurdo-gel",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:37.751Z",
-          "lastSeenAt": "2026-10-13T11:44:15.269Z",
-          "currentPriceCents": 40500,
-          "currentPriceEurCents": 112,
-          "referencePriceCents": 40500,
-          "referencePriceEurCents": 112
+          "referencePriceEurCents": 164
         }
       ]
     },
@@ -1463,7 +1384,7 @@
       "productId": 7293,
       "brand": "BIC",
       "isCountryExtreme": true,
-      "overallPercentDiff": 134.45,
+      "overallPercentDiff": 135.58,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1518,88 +1439,9 @@
           "observedAt": "2026-09-01T12:32:59.257Z",
           "lastSeenAt": "2026-10-30T15:01:53.484Z",
           "currentPriceCents": 75900,
-          "currentPriceEurCents": 209,
+          "currentPriceEurCents": 208,
           "referencePriceCents": 75900,
-          "referencePriceEurCents": 209
-        }
-      ]
-    },
-    {
-      "productId": 11598,
-      "brand": "ebelin",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 134.38,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Štapići za manikuru s vrhom za rašpanje, 6 kom.",
-          "url": "https://www.dm.hr/p/d/1420524/ebelin-stapici-za-manikuru-s-vrhom-za-raspanje",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:09.256Z",
-          "lastSeenAt": "2026-10-13T11:44:00.972Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Lesene palčke za manikiro, 6 kos",
-          "url": "https://www.dm.si/p/d/1420524/ebelin-lesene-palcke-za-manikiro",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:00.003Z",
-          "lastSeenAt": "2026-10-13T11:43:53.796Z",
-          "currentPriceCents": 185,
-          "currentPriceEurCents": 185,
-          "referencePriceCents": 185,
-          "referencePriceEurCents": 185
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Manikürstäbchen, 6 St",
-          "url": "https://www.dm.at/p/d/1420524/ebelin-manikuerstaebchen",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:37:59.041Z",
-          "lastSeenAt": "2026-10-13T11:44:02.511Z",
-          "currentPriceCents": 225,
-          "currentPriceEurCents": 225,
-          "referencePriceCents": 225,
-          "referencePriceEurCents": 225
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Manikürstäbchen, 6 St",
-          "url": "https://www.dm.de/p/d/1420524/ebelin-manikuerstaebchen",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:55.413Z",
-          "lastSeenAt": "2026-10-13T11:44:09.594Z",
-          "currentPriceCents": 185,
-          "currentPriceEurCents": 185,
-          "referencePriceCents": 185,
-          "referencePriceEurCents": 185
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Manikűrpálcika, 6 db",
-          "url": "https://www.dm.hu/p/d/1420524/ebelin-manikurpalcika",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:22.557Z",
-          "lastSeenAt": "2026-10-13T11:44:15.269Z",
-          "currentPriceCents": 34900,
-          "currentPriceEurCents": 96,
-          "referencePriceCents": 34900,
-          "referencePriceEurCents": 96
+          "referencePriceEurCents": 208
         }
       ]
     },
@@ -1607,7 +1449,7 @@
       "productId": 12578,
       "brand": "Balea PROFESSIONAL",
       "isCountryExtreme": true,
-      "overallPercentDiff": 130.77,
+      "overallPercentDiff": 132.39,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1676,46 +1518,9 @@
           "observedAt": "2026-09-01T12:30:17.495Z",
           "lastSeenAt": "2026-10-19T15:34:35.501Z",
           "currentPriceCents": 51900,
-          "currentPriceEurCents": 143,
+          "currentPriceEurCents": 142,
           "referencePriceCents": 51900,
-          "referencePriceEurCents": 143
-        }
-      ]
-    },
-    {
-      "productId": 17313,
-      "brand": "Gillette Venus",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 130.67,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Damski brivnik za enkratno uporabo Venus Sensitive, 3 kos",
-          "url": "https://www.dm.si/p/d/2105007/gillette-venus-damski-brivnik-za-enkratno-uporabo-venus-sensitive",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:11.741Z",
-          "lastSeenAt": "2026-11-05T12:15:42.996Z",
-          "currentPriceCents": 895,
-          "currentPriceEurCents": 895,
-          "referencePriceCents": 895,
-          "referencePriceEurCents": 895
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Sensitive női eldobható borotva, 3 db",
-          "url": "https://www.dm.hu/p/d/2105007/gillette-venus-sensitive-noi-eldobhato-borotva",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:11.497Z",
-          "lastSeenAt": "2026-11-05T12:16:05.537Z",
-          "currentPriceCents": 140900,
-          "currentPriceEurCents": 388,
-          "referencePriceCents": 140900,
-          "referencePriceEurCents": 388
+          "referencePriceEurCents": 142
         }
       ]
     },
@@ -1723,7 +1528,7 @@
       "productId": 7223,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 130.47,
+      "overallPercentDiff": 132.28,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1792,9 +1597,46 @@
           "observedAt": "2026-09-01T12:31:17.754Z",
           "lastSeenAt": "2026-10-27T14:27:28.630Z",
           "currentPriceCents": 46500,
-          "currentPriceEurCents": 128,
+          "currentPriceEurCents": 127,
           "referencePriceCents": 46500,
-          "referencePriceEurCents": 128
+          "referencePriceEurCents": 127
+        }
+      ]
+    },
+    {
+      "productId": 17313,
+      "brand": "Gillette Venus",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 131.87,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Damski brivnik za enkratno uporabo Venus Sensitive, 3 kos",
+          "url": "https://www.dm.si/p/d/2105007/gillette-venus-damski-brivnik-za-enkratno-uporabo-venus-sensitive",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:11.741Z",
+          "lastSeenAt": "2026-11-05T12:15:42.996Z",
+          "currentPriceCents": 895,
+          "currentPriceEurCents": 895,
+          "referencePriceCents": 895,
+          "referencePriceEurCents": 895
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Sensitive női eldobható borotva, 3 db",
+          "url": "https://www.dm.hu/p/d/2105007/gillette-venus-sensitive-noi-eldobhato-borotva",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:11.497Z",
+          "lastSeenAt": "2026-11-05T12:16:05.537Z",
+          "currentPriceCents": 140900,
+          "currentPriceEurCents": 386,
+          "referencePriceCents": 140900,
+          "referencePriceEurCents": 386
         }
       ]
     },
@@ -1802,7 +1644,7 @@
       "productId": 6077,
       "brand": "Dontodent PRO+",
       "isCountryExtreme": true,
-      "overallPercentDiff": 129.17,
+      "overallPercentDiff": 131.09,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1843,9 +1685,125 @@
           "observedAt": "2026-09-01T12:31:37.751Z",
           "lastSeenAt": "2026-10-15T13:23:25.815Z",
           "currentPriceCents": 43500,
-          "currentPriceEurCents": 120,
+          "currentPriceEurCents": 119,
           "referencePriceCents": 43500,
-          "referencePriceEurCents": 120
+          "referencePriceEurCents": 119
+        }
+      ]
+    },
+    {
+      "productId": 1210,
+      "brand": "Balea med",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 128.97,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Šampon ULTRA SENSITIVE s soljo Mrtvega morja, 250 ml",
+          "url": "https://www.dm.si/p/d/3058568/balea-med-sampon-ultra-sensitive-s-soljo-mrtvega-morja",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:50:38.745Z",
+          "lastSeenAt": "2026-11-03T11:53:43.696Z",
+          "currentPriceCents": 185,
+          "currentPriceEurCents": 185,
+          "referencePriceCents": 185,
+          "referencePriceEurCents": 185
+        },
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Ultra Sensitive šampon za kosu Mrtvo more, 250 ml",
+          "url": "https://www.dm.hr/p/d/3058568/balea-med-ultra-sensitive-sampon-za-kosu-mrtvo-more",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:50.495Z",
+          "lastSeenAt": "2026-11-03T11:53:47.993Z",
+          "currentPriceCents": 210,
+          "currentPriceEurCents": 210,
+          "referencePriceCents": 210,
+          "referencePriceEurCents": 210
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Shampoo Ultra Sensitive Totes Meer, 250 ml",
+          "url": "https://www.dm.at/p/d/3058568/balea-med-shampoo-ultra-sensitive-totes-meer",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:13.158Z",
+          "lastSeenAt": "2026-11-03T11:53:57.409Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Shampoo Totes Meer Ultra Sensitive, 250 ml",
+          "url": "https://www.dm.de/p/d/3058568/balea-med-shampoo-totes-meer-ultra-sensitive",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:23.095Z",
+          "lastSeenAt": "2026-11-03T11:54:02.316Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Ultra szenzitív sampon holt-tengeri sóval, száraz..., 250 ml",
+          "url": "https://www.dm.hu/p/d/3058568/balea-med-ultra-szenzitiv-sampon-holt-tengeri-soval-szaraz-fejborre",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:29:46.464Z",
+          "lastSeenAt": "2026-11-03T11:54:14.891Z",
+          "currentPriceCents": 38900,
+          "currentPriceEurCents": 107,
+          "referencePriceCents": 38900,
+          "referencePriceEurCents": 107
+        }
+      ]
+    },
+    {
+      "productId": 17374,
+      "brand": "WILKINSON SWORD",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 128.26,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Britvice za klasično britje Classic, 5 kos",
+          "url": "https://www.dm.si/p/d/2180466/wilkinson-sword-britvice-za-klasicno-britje-classic",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:11.741Z",
+          "lastSeenAt": "2026-10-22T13:45:53.334Z",
+          "currentPriceCents": 210,
+          "currentPriceEurCents": 210,
+          "referencePriceCents": 210,
+          "referencePriceEurCents": 210
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Classic borotvapenge, 5 db",
+          "url": "https://www.dm.hu/p/d/2180466/wilkinson-sword-classic-borotvapenge",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:07.326Z",
+          "lastSeenAt": "2026-10-22T13:46:10.714Z",
+          "currentPriceCents": 33500,
+          "currentPriceEurCents": 92,
+          "referencePriceCents": 33500,
+          "referencePriceEurCents": 92
         }
       ]
     }

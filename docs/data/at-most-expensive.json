@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-11T12:31:21.988Z",
+  "generatedAt": "2026-11-12T13:36:18.660Z",
   "fx": {
-    "asOf": "2026-11-10",
+    "asOf": "2026-11-11",
     "rates": {
-      "USD": 1.1214,
-      "JPY": 177.38,
-      "CZK": 24.337,
-      "DKK": 7.4754,
-      "GBP": 0.83545,
-      "HUF": 362.98,
-      "PLN": 4.387,
-      "RON": 5.3442,
-      "SEK": 10.991,
-      "CHF": 0.9203,
-      "ISK": 137.2,
-      "NOK": 10.6155,
-      "TRY": 56.3207,
-      "AUD": 1.6244,
-      "BRL": 6.2257,
-      "CAD": 1.5852,
-      "CNY": 7.4801,
-      "HKD": 8.7973,
-      "IDR": 20255.34,
-      "ILS": 3.5507,
-      "INR": 105.3315,
-      "KRW": 1501.56,
-      "MXN": 20.8063,
-      "MYR": 4.5484,
-      "NZD": 1.9925,
-      "PHP": 70.54,
-      "SGD": 1.4335,
-      "THB": 37.522,
-      "ZAR": 18.3861
+      "USD": 1.1127,
+      "JPY": 177.18,
+      "CZK": 24.378,
+      "DKK": 7.4755,
+      "GBP": 0.83618,
+      "HUF": 365.08,
+      "PLN": 4.4038,
+      "RON": 5.3451,
+      "SEK": 11.051,
+      "CHF": 0.9234,
+      "ISK": 136.8,
+      "NOK": 10.6145,
+      "TRY": 55.8897,
+      "AUD": 1.6222,
+      "BRL": 6.1827,
+      "CAD": 1.5839,
+      "CNY": 7.4225,
+      "HKD": 8.7298,
+      "IDR": 20223.32,
+      "ILS": 3.529,
+      "INR": 104.254,
+      "KRW": 1487.57,
+      "MXN": 20.7623,
+      "MYR": 4.5326,
+      "NZD": 1.9928,
+      "PHP": 70.379,
+      "SGD": 1.4271,
+      "THB": 37.487,
+      "ZAR": 18.4307
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -43,7 +43,7 @@
       "productId": 3114,
       "brand": "SEINZ.",
       "isCountryExtreme": true,
-      "overallPercentDiff": 327.54,
+      "overallPercentDiff": 333.82,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -98,9 +98,9 @@
           "observedAt": "2026-10-09T15:16:31.469Z",
           "lastSeenAt": "2026-11-08T15:09:24.786Z",
           "currentPriceCents": 24900,
-          "currentPriceEurCents": 69,
+          "currentPriceEurCents": 68,
           "referencePriceCents": 24900,
-          "referencePriceEurCents": 69
+          "referencePriceEurCents": 68
         }
       ]
     },
@@ -163,60 +163,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-10-14T13:41:20.909Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 193,
+          "currentPriceEurCents": 191,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 193
-        }
-      ]
-    },
-    {
-      "productId": 25199,
-      "brand": "Paradies",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 292.31,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Baterija CR 2025, 3 V",
-          "url": "https://www.dm.si/p/d/2979016/paradies-baterija-cr-2025-3-v",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:28.786Z",
-          "lastSeenAt": "2026-10-13T11:43:53.796Z",
-          "currentPriceCents": 135,
-          "currentPriceEurCents": 135,
-          "referencePriceCents": 135,
-          "referencePriceEurCents": 135
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Batterie Knopfzelle CR 2025, 1 St",
-          "url": "https://www.dm.at/p/d/2979016/paradies-batterie-knopfzelle-cr-2025",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:37:56.104Z",
-          "lastSeenAt": "2026-10-13T11:44:02.511Z",
-          "currentPriceCents": 255,
-          "currentPriceEurCents": 255,
-          "referencePriceCents": 255,
-          "referencePriceEurCents": 255
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Knopfzelle CR 2025, 2 St",
-          "url": "https://www.dm.de/p/d/2979016/paradies-knopfzelle-cr-2025",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:29.975Z",
-          "lastSeenAt": "2026-10-13T11:44:09.594Z",
-          "currentPriceCents": 65,
-          "currentPriceEurCents": 65,
-          "referencePriceCents": 65,
-          "referencePriceEurCents": 65
+          "referencePriceEurCents": 191
         }
       ]
     },
@@ -224,7 +173,7 @@
       "productId": 39854,
       "brand": "Varta",
       "isCountryExtreme": true,
-      "overallPercentDiff": 215.91,
+      "overallPercentDiff": 217.35,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -251,9 +200,9 @@
           "observedAt": "2026-09-01T12:31:00.665Z",
           "lastSeenAt": "2026-10-26T15:09:43.287Z",
           "currentPriceCents": 79900,
-          "currentPriceEurCents": 220,
+          "currentPriceEurCents": 219,
           "referencePriceCents": 79900,
-          "referencePriceEurCents": 220
+          "referencePriceEurCents": 219
         }
       ]
     },
@@ -474,7 +423,7 @@
       "productId": 15502,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 192.34,
+      "overallPercentDiff": 194.72,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -529,9 +478,9 @@
           "observedAt": "2026-09-01T12:30:04.184Z",
           "lastSeenAt": "2026-11-07T14:53:41.614Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 248,
+          "currentPriceEurCents": 246,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 248
+          "referencePriceEurCents": 246
         }
       ]
     },
@@ -678,7 +627,7 @@
       "productId": 7190,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 168.12,
+      "overallPercentDiff": 172.06,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -747,9 +696,9 @@
           "observedAt": "2026-09-01T12:32:02.558Z",
           "lastSeenAt": "2026-11-07T14:53:41.614Z",
           "currentPriceCents": 24900,
-          "currentPriceEurCents": 69,
+          "currentPriceEurCents": 68,
           "referencePriceCents": 24900,
-          "referencePriceEurCents": 69
+          "referencePriceEurCents": 68
         }
       ]
     },
@@ -757,7 +706,7 @@
       "productId": 65216,
       "brand": "SEINZ.",
       "isCountryExtreme": true,
-      "overallPercentDiff": 161.06,
+      "overallPercentDiff": 163.39,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -812,9 +761,9 @@
           "observedAt": "2026-11-09T18:44:06.381Z",
           "lastSeenAt": "2026-11-09T18:44:06.381Z",
           "currentPriceCents": 40900,
-          "currentPriceEurCents": 113,
+          "currentPriceEurCents": 112,
           "referencePriceCents": 40900,
-          "referencePriceEurCents": 113
+          "referencePriceEurCents": 112
         }
       ]
     },
@@ -891,9 +840,9 @@
           "observedAt": "2026-09-01T12:32:11.497Z",
           "lastSeenAt": "2026-10-31T14:30:56.768Z",
           "currentPriceCents": 52900,
-          "currentPriceEurCents": 146,
+          "currentPriceEurCents": 145,
           "referencePriceCents": 52900,
-          "referencePriceEurCents": 146
+          "referencePriceEurCents": 145
         }
       ]
     },
@@ -1035,60 +984,9 @@
           "observedAt": "2026-09-01T12:29:57.331Z",
           "lastSeenAt": "2026-10-28T15:05:18.088Z",
           "currentPriceCents": 28900,
-          "currentPriceEurCents": 80,
+          "currentPriceEurCents": 79,
           "referencePriceCents": 28900,
-          "referencePriceEurCents": 80
-        }
-      ]
-    },
-    {
-      "productId": 1851,
-      "brand": "Mivolis",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 158.62,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Grelni obliži, 2 kos",
-          "url": "https://www.dm.si/p/d/1709727/mivolis-grelni-oblizi",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:54:53.182Z",
-          "lastSeenAt": "2026-10-12T17:51:25.488Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Wärmepflaster, 2 St",
-          "url": "https://www.dm.at/p/d/1709727/mivolis-waermepflaster",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:16.249Z",
-          "lastSeenAt": "2026-10-12T17:51:31.793Z",
-          "currentPriceCents": 375,
-          "currentPriceEurCents": 375,
-          "referencePriceCents": 375,
-          "referencePriceEurCents": 375
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Melegítőtapasz, 2 db",
-          "url": "https://www.dm.hu/p/d/1709727/mivolis-melegitotapasz",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:07.865Z",
-          "lastSeenAt": "2026-10-12T17:51:42.466Z",
-          "currentPriceCents": 64900,
-          "currentPriceEurCents": 179,
-          "referencePriceCents": 64900,
-          "referencePriceEurCents": 179
+          "referencePriceEurCents": 79
         }
       ]
     },
@@ -1165,9 +1063,9 @@
           "observedAt": "2026-09-01T12:32:09.419Z",
           "lastSeenAt": "2026-10-14T13:41:24.201Z",
           "currentPriceCents": 39900,
-          "currentPriceEurCents": 110,
+          "currentPriceEurCents": 109,
           "referencePriceCents": 39900,
-          "referencePriceEurCents": 110
+          "referencePriceEurCents": 109
         }
       ]
     },
@@ -1295,9 +1193,9 @@
           "observedAt": "2026-10-28T15:05:18.088Z",
           "lastSeenAt": "2026-10-28T15:05:18.088Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 248,
+          "currentPriceEurCents": 246,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 248
+          "referencePriceEurCents": 246
         }
       ]
     },
@@ -1376,47 +1274,10 @@
       ]
     },
     {
-      "productId": 30890,
-      "brand": "4711",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 150.21,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Eau de Cologne Echt Kölnisch Wasser, 150 ml",
-          "url": "https://www.dm.at/p/d/1002503/4711-eau-de-cologne-echt-koelnisch-wasser",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:47.183Z",
-          "lastSeenAt": "2026-10-26T15:09:31.705Z",
-          "currentPriceCents": 2990,
-          "currentPriceEurCents": 2990,
-          "referencePriceCents": 2990,
-          "referencePriceEurCents": 2990
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Echt Kölnisch Wasser Eau de Cologne, 150 ml",
-          "url": "https://www.dm.de/p/d/1002503/4711-echt-koelnisch-wasser-eau-de-cologne",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:36.189Z",
-          "lastSeenAt": "2026-10-26T15:09:36.521Z",
-          "currentPriceCents": 1195,
-          "currentPriceEurCents": 1195,
-          "referencePriceCents": 1195,
-          "referencePriceEurCents": 1195
-        }
-      ]
-    },
-    {
       "productId": 4236,
       "brand": "LANGHAARMÄDCHEN",
       "isCountryExtreme": true,
-      "overallPercentDiff": 150,
+      "overallPercentDiff": 151.27,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1457,9 +1318,46 @@
           "observedAt": "2026-09-01T12:30:07.326Z",
           "lastSeenAt": "2026-11-01T15:04:51.921Z",
           "currentPriceCents": 71900,
-          "currentPriceEurCents": 198,
+          "currentPriceEurCents": 197,
           "referencePriceCents": 71900,
-          "referencePriceEurCents": 198
+          "referencePriceEurCents": 197
+        }
+      ]
+    },
+    {
+      "productId": 30890,
+      "brand": "4711",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 150.21,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Eau de Cologne Echt Kölnisch Wasser, 150 ml",
+          "url": "https://www.dm.at/p/d/1002503/4711-eau-de-cologne-echt-koelnisch-wasser",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:47.183Z",
+          "lastSeenAt": "2026-10-26T15:09:31.705Z",
+          "currentPriceCents": 2990,
+          "currentPriceEurCents": 2990,
+          "referencePriceCents": 2990,
+          "referencePriceEurCents": 2990
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Echt Kölnisch Wasser Eau de Cologne, 150 ml",
+          "url": "https://www.dm.de/p/d/1002503/4711-echt-koelnisch-wasser-eau-de-cologne",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:36.189Z",
+          "lastSeenAt": "2026-10-26T15:09:36.521Z",
+          "currentPriceCents": 1195,
+          "currentPriceEurCents": 1195,
+          "referencePriceCents": 1195,
+          "referencePriceEurCents": 1195
         }
       ]
     },
@@ -1543,6 +1441,85 @@
       ]
     },
     {
+      "productId": 4514,
+      "brand": "ebelin",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 143.12,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Pinzette gekrümmt, 1 St",
+          "url": "https://www.dm.at/p/d/1345151/ebelin-pinzette-gekruemmt",
+          "isPromo": false,
+          "observedAt": "2026-08-28T16:43:38.329Z",
+          "lastSeenAt": "2026-10-15T13:23:13.334Z",
+          "currentPriceCents": 265,
+          "currentPriceEurCents": 265,
+          "referencePriceCents": 265,
+          "referencePriceEurCents": 265
+        },
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Pinceta od nehrđajućeg čelika, 1 kom.",
+          "url": "https://www.dm.hr/p/d/1345151/ebelin-pinceta-od-nehr-ajuceg-celika",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:41.759Z",
+          "lastSeenAt": "2026-10-15T13:23:03.684Z",
+          "currentPriceCents": 265,
+          "currentPriceEurCents": 265,
+          "referencePriceCents": 265,
+          "referencePriceEurCents": 265
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Pinceta z ukrivljeno konico, 1 kos",
+          "url": "https://www.dm.si/p/d/1345151/ebelin-pinceta-z-ukrivljeno-konico",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:01.846Z",
+          "lastSeenAt": "2026-10-15T13:23:11.657Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Pinzette gekrümmt, 1 St",
+          "url": "https://www.dm.de/p/d/1345151/ebelin-pinzette-gekruemmt",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:48.279Z",
+          "lastSeenAt": "2026-10-15T13:23:22.919Z",
+          "currentPriceCents": 225,
+          "currentPriceEurCents": 225,
+          "referencePriceCents": 225,
+          "referencePriceEurCents": 225
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Szemöldökcsipesz, hajlított végű, 1 db",
+          "url": "https://www.dm.hu/p/d/1345151/ebelin-szemoldokcsipesz-hajlitott-vegu",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:41.384Z",
+          "lastSeenAt": "2026-10-15T13:23:27.448Z",
+          "currentPriceCents": 39900,
+          "currentPriceEurCents": 109,
+          "referencePriceCents": 39900,
+          "referencePriceEurCents": 109
+        }
+      ]
+    },
+    {
       "productId": 10401,
       "brand": "SUNDANCE",
       "isCountryExtreme": true,
@@ -1603,7 +1580,7 @@
           "currentPriceCents": 9900,
           "currentPriceEurCents": 27,
           "referencePriceCents": 24900,
-          "referencePriceEurCents": 69
+          "referencePriceEurCents": 68
         }
       ]
     },
@@ -1688,6 +1665,43 @@
           "isPromo": false,
           "observedAt": "2026-10-05T17:07:20.931Z",
           "lastSeenAt": "2026-11-04T12:04:31.000Z",
+          "currentPriceCents": 60,
+          "currentPriceEurCents": 60,
+          "referencePriceCents": 60,
+          "referencePriceEurCents": 60
+        }
+      ]
+    },
+    {
+      "productId": 27836,
+      "brand": "Schaebens",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 141.67,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Gesichtsmaske Totes Meer Schlamm, 15 ml",
+          "url": "https://www.dm.at/p/d/1076543/schaebens-gesichtsmaske-totes-meer-schlamm",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:06.799Z",
+          "lastSeenAt": "2026-11-06T12:04:21.406Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Gesichtsmaske Totes Meer Schlamm, 15 ml",
+          "url": "https://www.dm.de/p/d/1076543/schaebens-gesichtsmaske-totes-meer-schlamm",
+          "isPromo": false,
+          "observedAt": "2026-10-07T15:32:27.915Z",
+          "lastSeenAt": "2026-11-06T12:04:29.461Z",
           "currentPriceCents": 60,
           "currentPriceEurCents": 60,
           "referencePriceCents": 60,
