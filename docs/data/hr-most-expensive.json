@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-12T13:36:18.660Z",
+  "generatedAt": "2026-11-13T12:55:23.550Z",
   "fx": {
-    "asOf": "2026-11-11",
+    "asOf": "2026-11-12",
     "rates": {
-      "USD": 1.1127,
-      "JPY": 177.18,
-      "CZK": 24.378,
-      "DKK": 7.4755,
-      "GBP": 0.83618,
-      "HUF": 365.08,
-      "PLN": 4.4038,
-      "RON": 5.3451,
-      "SEK": 11.051,
-      "CHF": 0.9234,
-      "ISK": 136.8,
-      "NOK": 10.6145,
-      "TRY": 55.8897,
-      "AUD": 1.6222,
-      "BRL": 6.1827,
-      "CAD": 1.5839,
-      "CNY": 7.4225,
-      "HKD": 8.7298,
-      "IDR": 20223.32,
-      "ILS": 3.529,
-      "INR": 104.254,
-      "KRW": 1487.57,
-      "MXN": 20.7623,
-      "MYR": 4.5326,
-      "NZD": 1.9928,
-      "PHP": 70.379,
-      "SGD": 1.4271,
-      "THB": 37.487,
-      "ZAR": 18.4307
+      "USD": 1.1081,
+      "JPY": 176.96,
+      "CZK": 24.379,
+      "DKK": 7.4754,
+      "GBP": 0.83595,
+      "HUF": 364.98,
+      "PLN": 4.4088,
+      "RON": 5.3473,
+      "SEK": 11.0628,
+      "CHF": 0.9232,
+      "ISK": 136.6,
+      "NOK": 10.563,
+      "TRY": 55.6906,
+      "AUD": 1.6246,
+      "BRL": 6.2241,
+      "CAD": 1.5789,
+      "CNY": 7.3891,
+      "HKD": 8.6928,
+      "IDR": 20225.76,
+      "ILS": 3.5495,
+      "INR": 104.2118,
+      "KRW": 1478.32,
+      "MXN": 20.7113,
+      "MYR": 4.5194,
+      "NZD": 1.9942,
+      "PHP": 70.616,
+      "SGD": 1.4249,
+      "THB": 37.47,
+      "ZAR": 18.5219
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -112,9 +112,9 @@
           "observedAt": "2026-10-18T12:36:09.737Z",
           "lastSeenAt": "2026-10-18T12:36:09.737Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 821,
+          "currentPriceEurCents": 822,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 821
+          "referencePriceEurCents": 822
         }
       ]
     },
@@ -541,7 +541,7 @@
           "url": "https://www.dm.hr/p/d/2406577/you-me-lubricated-prezervativi",
           "isPromo": false,
           "observedAt": "2026-08-30T22:33:05.887Z",
-          "lastSeenAt": "2026-10-14T13:40:56.462Z",
+          "lastSeenAt": "2026-11-13T12:08:41.401Z",
           "currentPriceCents": 720,
           "currentPriceEurCents": 720,
           "referencePriceCents": 720,
@@ -555,7 +555,7 @@
           "url": "https://www.dm.si/p/d/2406577/you-me-kondomi-romeo-z-dodanim-lubrikantom",
           "isPromo": false,
           "observedAt": "2026-08-30T22:34:03.751Z",
-          "lastSeenAt": "2026-10-14T13:41:01.971Z",
+          "lastSeenAt": "2026-11-13T12:08:36.860Z",
           "currentPriceCents": 295,
           "currentPriceEurCents": 295,
           "referencePriceCents": 295,
@@ -564,10 +564,98 @@
       ]
     },
     {
+      "productId": 11077,
+      "brand": "you&me",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 144.07,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Prezervativi Darling, 12 kom.",
+          "url": "https://www.dm.hr/p/d/2407205/you-me-prezervativi-darling",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:05.887Z",
+          "lastSeenAt": "2026-11-12T16:46:44.585Z",
+          "currentPriceCents": 720,
+          "currentPriceEurCents": 720,
+          "referencePriceCents": 720,
+          "referencePriceEurCents": 720
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Kondomi DARLING Sensitive, 12 kos",
+          "url": "https://www.dm.si/p/d/2407205/you-me-kondomi-darling-sensitive",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:03.751Z",
+          "lastSeenAt": "2026-11-12T16:46:37.945Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        }
+      ]
+    },
+    {
+      "productId": 10116,
+      "brand": "Signal",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 140.51,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Super Mario Kids dječja pasta za zube Strawberry..., 75 g",
+          "url": "https://www.dm.hr/p/d/2952151/signal-super-mario-kids-djecja-pasta-za-zube-strawberry-flavour-0-6-god-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-11-13T12:08:41.401Z",
+          "lastSeenAt": "2026-11-13T12:08:41.401Z",
+          "currentPriceCents": 380,
+          "currentPriceEurCents": 380,
+          "referencePriceCents": 380,
+          "referencePriceEurCents": 380
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Otroška zobna pasta Super Mario Strawberry, 0 – 6..., 75 ml",
+          "url": "https://www.dm.si/p/d/2952151/signal-otroska-zobna-pasta-super-mario-strawberry-0-6-let",
+          "isPromo": false,
+          "observedAt": "2026-11-13T12:08:36.860Z",
+          "lastSeenAt": "2026-11-13T12:08:36.860Z",
+          "currentPriceCents": 330,
+          "currentPriceEurCents": 330,
+          "referencePriceCents": 330,
+          "referencePriceEurCents": 330
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkrém Kids epres 0-6 éves korig, 75 ml",
+          "url": "https://www.dm.hu/p/d/2952151/signal-fogkrem-kids-epres-0-6-eves-korig",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:29:46.464Z",
+          "lastSeenAt": "2026-11-13T12:09:07.830Z",
+          "currentPriceCents": 57500,
+          "currentPriceEurCents": 158,
+          "referencePriceCents": 57500,
+          "referencePriceEurCents": 158
+        }
+      ]
+    },
+    {
       "productId": 13032,
       "brand": "Signal",
       "isCountryExtreme": true,
-      "overallPercentDiff": 142.04,
+      "overallPercentDiff": 140.51,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -594,9 +682,9 @@
           "observedAt": "2026-09-01T12:29:55.346Z",
           "lastSeenAt": "2026-11-10T12:35:05.271Z",
           "currentPriceCents": 57500,
-          "currentPriceEurCents": 157,
+          "currentPriceEurCents": 158,
           "referencePriceCents": 57500,
-          "referencePriceEurCents": 157
+          "referencePriceEurCents": 158
         }
       ]
     },
@@ -940,61 +1028,10 @@
       ]
     },
     {
-      "productId": 10116,
-      "brand": "Signal",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 122.93,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Super Mario Kids dječja pasta za zube Strawberry..., 75 g",
-          "url": "https://www.dm.hr/p/d/2952151/signal-super-mario-kids-djecja-pasta-za-zube-strawberry-flavour-0-6-god-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:00.205Z",
-          "lastSeenAt": "2026-10-14T13:40:56.462Z",
-          "currentPriceCents": 350,
-          "currentPriceEurCents": 350,
-          "referencePriceCents": 350,
-          "referencePriceEurCents": 350
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Otroška zobna pasta Super Mario Strawberry, 0 – 6..., 75 ml",
-          "url": "https://www.dm.si/p/d/2952151/signal-otroska-zobna-pasta-super-mario-strawberry-0-6-let",
-          "isPromo": false,
-          "observedAt": "2026-10-14T13:41:01.971Z",
-          "lastSeenAt": "2026-10-14T13:41:01.971Z",
-          "currentPriceCents": 345,
-          "currentPriceEurCents": 345,
-          "referencePriceCents": 345,
-          "referencePriceEurCents": 345
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkrém Kids epres 0-6 éves korig, 75 ml",
-          "url": "https://www.dm.hu/p/d/2952151/signal-fogkrem-kids-epres-0-6-eves-korig",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:29:46.464Z",
-          "lastSeenAt": "2026-10-14T13:41:24.201Z",
-          "currentPriceCents": 57500,
-          "currentPriceEurCents": 157,
-          "referencePriceCents": 57500,
-          "referencePriceEurCents": 157
-        }
-      ]
-    },
-    {
       "productId": 11378,
       "brand": "Signal",
       "isCountryExtreme": true,
-      "overallPercentDiff": 122.93,
+      "overallPercentDiff": 121.52,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1035,9 +1072,9 @@
           "observedAt": "2026-09-01T12:29:59.422Z",
           "lastSeenAt": "2026-10-25T13:10:26.624Z",
           "currentPriceCents": 57500,
-          "currentPriceEurCents": 157,
+          "currentPriceEurCents": 158,
           "referencePriceCents": 57500,
-          "referencePriceEurCents": 157
+          "referencePriceEurCents": 158
         }
       ]
     },
@@ -1209,7 +1246,7 @@
           "url": "https://www.dm.hr/p/d/1678223/braun-pulsni-oksimetar-za-prst",
           "isPromo": false,
           "observedAt": "2026-08-30T22:33:09.256Z",
-          "lastSeenAt": "2026-10-14T13:40:56.462Z",
+          "lastSeenAt": "2026-11-13T12:08:41.401Z",
           "currentPriceCents": 3685,
           "currentPriceEurCents": 3685,
           "referencePriceCents": 3685,
@@ -1223,7 +1260,7 @@
           "url": "https://www.dm.at/p/d/1678223/braun-sauerstoffmessgeraet",
           "isPromo": false,
           "observedAt": "2026-08-30T22:38:02.169Z",
-          "lastSeenAt": "2026-10-14T13:41:06.014Z",
+          "lastSeenAt": "2026-11-13T12:08:48.346Z",
           "currentPriceCents": 2990,
           "currentPriceEurCents": 2990,
           "referencePriceCents": 2990,
@@ -1237,7 +1274,7 @@
           "url": "https://www.dm.de/p/d/1678223/braun-pulsoximeter",
           "isPromo": false,
           "observedAt": "2026-08-31T20:42:16.762Z",
-          "lastSeenAt": "2026-10-14T13:41:11.897Z",
+          "lastSeenAt": "2026-11-13T12:08:53.497Z",
           "currentPriceCents": 1745,
           "currentPriceEurCents": 1745,
           "referencePriceCents": 1745,
@@ -1571,85 +1608,6 @@
           "currentPriceEurCents": 174,
           "referencePriceCents": 63500,
           "referencePriceEurCents": 174
-        }
-      ]
-    },
-    {
-      "productId": 8783,
-      "brand": "Profissimo",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 103.7,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Krpa za brisanje prašine i mokro čišćenje od..., 3 kom.",
-          "url": "https://www.dm.hr/p/d/1494453/profissimo-krpa-za-brisanje-prasine-i-mokro-ciscenje-od-mikrovlakana-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:51.588Z",
-          "lastSeenAt": "2026-10-27T14:27:09.015Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Krpa iz mikrovlaken z rebrasto površino, 3 kos",
-          "url": "https://www.dm.si/p/d/1494453/profissimo-krpa-iz-mikrovlaken-z-rebrasto-povrsino",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:49.766Z",
-          "lastSeenAt": "2026-10-27T14:27:12.808Z",
-          "currentPriceCents": 135,
-          "currentPriceEurCents": 135,
-          "referencePriceCents": 135,
-          "referencePriceEurCents": 135
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Reinigungstücher aus Mikrofeinfaser, 3 St",
-          "url": "https://www.dm.at/p/d/1494453/profissimo-reinigungstuecher-aus-mikrofeinfaser",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:06.799Z",
-          "lastSeenAt": "2026-10-27T14:27:19.163Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Reinigungstücher Mikrofeinfaser, 3 St",
-          "url": "https://www.dm.de/p/d/1494453/profissimo-reinigungstuecher-mikrofeinfaser",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:51.188Z",
-          "lastSeenAt": "2026-10-27T14:27:24.951Z",
-          "currentPriceCents": 225,
-          "currentPriceEurCents": 225,
-          "referencePriceCents": 225,
-          "referencePriceEurCents": 225
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Mikroszálas prémium törlőkendő, 3 db",
-          "url": "https://www.dm.hu/p/d/1494453/profissimo-mikroszalas-premium-torlokendo",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:02.558Z",
-          "lastSeenAt": "2026-10-27T14:27:30.381Z",
-          "currentPriceCents": 99900,
-          "currentPriceEurCents": 274,
-          "referencePriceCents": 99900,
-          "referencePriceEurCents": 274
         }
       ]
     }

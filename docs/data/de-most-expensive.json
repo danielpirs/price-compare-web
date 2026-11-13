@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-12T13:36:18.660Z",
+  "generatedAt": "2026-11-13T12:55:23.550Z",
   "fx": {
-    "asOf": "2026-11-11",
+    "asOf": "2026-11-12",
     "rates": {
-      "USD": 1.1127,
-      "JPY": 177.18,
-      "CZK": 24.378,
-      "DKK": 7.4755,
-      "GBP": 0.83618,
-      "HUF": 365.08,
-      "PLN": 4.4038,
-      "RON": 5.3451,
-      "SEK": 11.051,
-      "CHF": 0.9234,
-      "ISK": 136.8,
-      "NOK": 10.6145,
-      "TRY": 55.8897,
-      "AUD": 1.6222,
-      "BRL": 6.1827,
-      "CAD": 1.5839,
-      "CNY": 7.4225,
-      "HKD": 8.7298,
-      "IDR": 20223.32,
-      "ILS": 3.529,
-      "INR": 104.254,
-      "KRW": 1487.57,
-      "MXN": 20.7623,
-      "MYR": 4.5326,
-      "NZD": 1.9928,
-      "PHP": 70.379,
-      "SGD": 1.4271,
-      "THB": 37.487,
-      "ZAR": 18.4307
+      "USD": 1.1081,
+      "JPY": 176.96,
+      "CZK": 24.379,
+      "DKK": 7.4754,
+      "GBP": 0.83595,
+      "HUF": 364.98,
+      "PLN": 4.4088,
+      "RON": 5.3473,
+      "SEK": 11.0628,
+      "CHF": 0.9232,
+      "ISK": 136.6,
+      "NOK": 10.563,
+      "TRY": 55.6906,
+      "AUD": 1.6246,
+      "BRL": 6.2241,
+      "CAD": 1.5789,
+      "CNY": 7.3891,
+      "HKD": 8.6928,
+      "IDR": 20225.76,
+      "ILS": 3.5495,
+      "INR": 104.2118,
+      "KRW": 1478.32,
+      "MXN": 20.7113,
+      "MYR": 4.5194,
+      "NZD": 1.9942,
+      "PHP": 70.616,
+      "SGD": 1.4249,
+      "THB": 37.47,
+      "ZAR": 18.5219
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -365,6 +365,57 @@
           "currentPriceEurCents": 195,
           "referencePriceCents": 195,
           "referencePriceEurCents": 195
+        }
+      ]
+    },
+    {
+      "productId": 3536,
+      "brand": "Mivolis",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 103.7,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Prehransko dopolnilo z vitamini in minerali, z..., 15 g",
+          "url": "https://www.dm.si/p/d/3104217/mivolis-prehransko-dopolnilo-z-vitamini-in-minerali-z-izvleckom-navadne-konopljike-in-s-plahtico",
+          "isPromo": true,
+          "observedAt": "2026-11-12T16:46:37.945Z",
+          "lastSeenAt": "2026-11-12T16:46:37.945Z",
+          "currentPriceCents": 95,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 135,
+          "referencePriceEurCents": 135
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Tabletten Mönchspfeffer Female Balance, 15 g",
+          "url": "https://www.dm.at/p/d/3104217/mivolis-tabletten-moenchspfeffer-female-balance",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:03.865Z",
+          "lastSeenAt": "2026-11-12T16:46:52.059Z",
+          "currentPriceCents": 250,
+          "currentPriceEurCents": 250,
+          "referencePriceCents": 250,
+          "referencePriceEurCents": 250
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Mönchspfeffer Tabletten 60 St, 15 g",
+          "url": "https://www.dm.de/p/d/3104217/mivolis-moenchspfeffer-tabletten-60-st",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:11.101Z",
+          "lastSeenAt": "2026-11-12T16:46:57.809Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
         }
       ]
     },
@@ -1055,6 +1106,43 @@
       ]
     },
     {
+      "productId": 20596,
+      "brand": "Profissimo",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 66.67,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Mini Tüte sort.",
+          "url": "https://www.dm.at/p/d/1681622/profissimo-mini-tuete-sort",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:55.029Z",
+          "lastSeenAt": "2026-11-12T16:46:47.722Z",
+          "currentPriceCents": 45,
+          "currentPriceEurCents": 45,
+          "referencePriceCents": 45,
+          "referencePriceEurCents": 45
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Geschenktasche uni, mini, 1 St",
+          "url": "https://www.dm.de/p/d/1681622/profissimo-geschenktasche-uni-mini",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:25.833Z",
+          "lastSeenAt": "2026-11-12T16:46:57.809Z",
+          "currentPriceCents": 75,
+          "currentPriceEurCents": 75,
+          "referencePriceCents": 75,
+          "referencePriceEurCents": 75
+        }
+      ]
+    },
+    {
       "productId": 10211,
       "brand": "WILKINSON SWORD",
       "isCountryExtreme": true,
@@ -1172,6 +1260,43 @@
           "isPromo": false,
           "observedAt": "2026-08-31T20:42:19.091Z",
           "lastSeenAt": "2026-10-25T13:10:19.911Z",
+          "currentPriceCents": 795,
+          "currentPriceEurCents": 795,
+          "referencePriceCents": 795,
+          "referencePriceEurCents": 795
+        }
+      ]
+    },
+    {
+      "productId": 16392,
+      "brand": "Visiomax",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 60.61,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Dnevne silikonsko-hidrogelne kontaktne leče,..., 6 kos",
+          "url": "https://www.dm.si/p/d/3080429/visiomax-dnevne-silikonsko-hidrogelne-kontaktne-lece-dioptrija-3-50",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:56.419Z",
+          "lastSeenAt": "2026-11-12T16:46:41.162Z",
+          "currentPriceCents": 495,
+          "currentPriceEurCents": 495,
+          "referencePriceCents": 495,
+          "referencePriceEurCents": 495
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Silikon-Hydrogel Tageslinsen Dioptrie -3,50, 6 St",
+          "url": "https://www.dm.de/p/d/3080429/visiomax-silikon-hydrogel-tageslinsen-dioptrie-3-50",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:55.786Z",
+          "lastSeenAt": "2026-11-12T16:46:57.809Z",
           "currentPriceCents": 795,
           "currentPriceEurCents": 795,
           "referencePriceCents": 795,
@@ -1301,159 +1426,6 @@
           "currentPriceEurCents": 1195,
           "referencePriceCents": 1195,
           "referencePriceEurCents": 1195
-        }
-      ]
-    },
-    {
-      "productId": 17954,
-      "brand": "Ritex",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 56.18,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "BIO lubrikant, 50 ml",
-          "url": "https://www.dm.si/p/d/1426264/ritex-bio-lubrikant",
-          "isPromo": false,
-          "observedAt": "2026-09-28T16:44:03.713Z",
-          "lastSeenAt": "2026-10-28T15:04:59.594Z",
-          "currentPriceCents": 445,
-          "currentPriceEurCents": 445,
-          "referencePriceCents": 445,
-          "referencePriceEurCents": 445
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "BIO Gleitgel, 50 ml",
-          "url": "https://www.dm.de/p/d/1426264/ritex-bio-gleitgel",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:25.833Z",
-          "lastSeenAt": "2026-10-28T15:05:11.213Z",
-          "currentPriceCents": 695,
-          "currentPriceEurCents": 695,
-          "referencePriceCents": 695,
-          "referencePriceEurCents": 695
-        }
-      ]
-    },
-    {
-      "productId": 849,
-      "brand": "Mivolis",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 56,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Elastični obliži v traku z motivom rož, 20 kos",
-          "url": "https://www.dm.si/p/d/3134290/mivolis-elasticni-oblizi-v-traku-z-motivom-roz",
-          "isPromo": false,
-          "observedAt": "2026-10-01T15:25:49.466Z",
-          "lastSeenAt": "2026-10-31T14:30:32.565Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Pflasterstrips Elastisch Blume, 20 St",
-          "url": "https://www.dm.de/p/d/3134290/mivolis-pflasterstrips-elastisch-blume",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:48.279Z",
-          "lastSeenAt": "2026-10-31T14:30:51.410Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Pflasterstrips Elastisch Blume, 20 St",
-          "url": "https://www.dm.at/p/d/3134290/mivolis-pflasterstrips-elastisch-blume",
-          "isPromo": false,
-          "observedAt": "2026-09-01T13:29:11.619Z",
-          "lastSeenAt": "2026-10-31T14:30:39.838Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Rugalmas sebtapaszcsíkok, 20 db",
-          "url": "https://www.dm.hu/p/d/3134290/mivolis-rugalmas-sebtapaszcsikok",
-          "isPromo": false,
-          "observedAt": "2026-10-01T15:26:09.549Z",
-          "lastSeenAt": "2026-10-31T14:30:54.836Z",
-          "currentPriceCents": 49900,
-          "currentPriceEurCents": 137,
-          "referencePriceCents": 49900,
-          "referencePriceEurCents": 137
-        }
-      ]
-    },
-    {
-      "productId": 15648,
-      "brand": "Mivolis",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 56,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Elastični obliži Animal, 20 kos",
-          "url": "https://www.dm.si/p/d/3134308/mivolis-elasticni-oblizi-animal",
-          "isPromo": false,
-          "observedAt": "2026-09-21T15:05:23.384Z",
-          "lastSeenAt": "2026-10-21T13:44:37.793Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Pflasterstrips Elastisch Animal, 20 St",
-          "url": "https://www.dm.de/p/d/3134308/mivolis-pflasterstrips-elastisch-animal",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:19.091Z",
-          "lastSeenAt": "2026-10-21T13:44:46.413Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Pflasterstrips Elastisch Animal, 20 St",
-          "url": "https://www.dm.at/p/d/3134308/mivolis-pflasterstrips-elastisch-animal",
-          "isPromo": false,
-          "observedAt": "2026-09-21T15:05:28.118Z",
-          "lastSeenAt": "2026-10-21T13:44:40.738Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
         }
       ]
     }

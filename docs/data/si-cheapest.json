@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-12T13:36:18.660Z",
+  "generatedAt": "2026-11-13T12:55:23.550Z",
   "fx": {
-    "asOf": "2026-11-11",
+    "asOf": "2026-11-12",
     "rates": {
-      "USD": 1.1127,
-      "JPY": 177.18,
-      "CZK": 24.378,
-      "DKK": 7.4755,
-      "GBP": 0.83618,
-      "HUF": 365.08,
-      "PLN": 4.4038,
-      "RON": 5.3451,
-      "SEK": 11.051,
-      "CHF": 0.9234,
-      "ISK": 136.8,
-      "NOK": 10.6145,
-      "TRY": 55.8897,
-      "AUD": 1.6222,
-      "BRL": 6.1827,
-      "CAD": 1.5839,
-      "CNY": 7.4225,
-      "HKD": 8.7298,
-      "IDR": 20223.32,
-      "ILS": 3.529,
-      "INR": 104.254,
-      "KRW": 1487.57,
-      "MXN": 20.7623,
-      "MYR": 4.5326,
-      "NZD": 1.9928,
-      "PHP": 70.379,
-      "SGD": 1.4271,
-      "THB": 37.487,
-      "ZAR": 18.4307
+      "USD": 1.1081,
+      "JPY": 176.96,
+      "CZK": 24.379,
+      "DKK": 7.4754,
+      "GBP": 0.83595,
+      "HUF": 364.98,
+      "PLN": 4.4088,
+      "RON": 5.3473,
+      "SEK": 11.0628,
+      "CHF": 0.9232,
+      "ISK": 136.6,
+      "NOK": 10.563,
+      "TRY": 55.6906,
+      "AUD": 1.6246,
+      "BRL": 6.2241,
+      "CAD": 1.5789,
+      "CNY": 7.3891,
+      "HKD": 8.6928,
+      "IDR": 20225.76,
+      "ILS": 3.5495,
+      "INR": 104.2118,
+      "KRW": 1478.32,
+      "MXN": 20.7113,
+      "MYR": 4.5194,
+      "NZD": 1.9942,
+      "PHP": 70.616,
+      "SGD": 1.4249,
+      "THB": 37.47,
+      "ZAR": 18.5219
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -402,7 +402,7 @@
           "url": "https://www.dm.hr/p/d/2406577/you-me-lubricated-prezervativi",
           "isPromo": false,
           "observedAt": "2026-08-30T22:33:05.887Z",
-          "lastSeenAt": "2026-10-14T13:40:56.462Z",
+          "lastSeenAt": "2026-11-13T12:08:41.401Z",
           "currentPriceCents": 720,
           "currentPriceEurCents": 720,
           "referencePriceCents": 720,
@@ -416,7 +416,44 @@
           "url": "https://www.dm.si/p/d/2406577/you-me-kondomi-romeo-z-dodanim-lubrikantom",
           "isPromo": false,
           "observedAt": "2026-08-30T22:34:03.751Z",
-          "lastSeenAt": "2026-10-14T13:41:01.971Z",
+          "lastSeenAt": "2026-11-13T12:08:36.860Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        }
+      ]
+    },
+    {
+      "productId": 11077,
+      "brand": "you&me",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 144.07,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Prezervativi Darling, 12 kom.",
+          "url": "https://www.dm.hr/p/d/2407205/you-me-prezervativi-darling",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:05.887Z",
+          "lastSeenAt": "2026-11-12T16:46:44.585Z",
+          "currentPriceCents": 720,
+          "currentPriceEurCents": 720,
+          "referencePriceCents": 720,
+          "referencePriceEurCents": 720
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Kondomi DARLING Sensitive, 12 kos",
+          "url": "https://www.dm.si/p/d/2407205/you-me-kondomi-darling-sensitive",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:03.751Z",
+          "lastSeenAt": "2026-11-12T16:46:37.945Z",
           "currentPriceCents": 295,
           "currentPriceEurCents": 295,
           "referencePriceCents": 295,
@@ -843,6 +880,57 @@
       ]
     },
     {
+      "productId": 16745,
+      "brand": "Fascino",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 127.38,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Svetleče hlačne nogavice 15 DEN, 38-40, powder, 1 kos",
+          "url": "https://www.dm.si/p/d/1715246/fascino-svetlece-hlacne-nogavice-15-den-38-40-powder",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:02.133Z",
+          "lastSeenAt": "2026-11-12T16:46:37.945Z",
+          "currentPriceCents": 325,
+          "currentPriceEurCents": 325,
+          "referencePriceCents": 325,
+          "referencePriceEurCents": 325
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Strumpfhose glänzend powder 15 DEN, Gr. 38/40, 1 St",
+          "url": "https://www.dm.at/p/d/1715246/fascino-strumpfhose-glaenzend-powder-15-den-gr-38-40",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:37.949Z",
+          "lastSeenAt": "2026-11-12T16:46:47.722Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fényes harisnyanadrág, Púder, 15 DEN, 38-40, 1 db",
+          "url": "https://www.dm.hu/p/d/1715246/fascino-fenyes-harisnyanadrag-puder-15-den-38-40",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:07.326Z",
+          "lastSeenAt": "2026-11-12T16:47:01.536Z",
+          "currentPriceCents": 269900,
+          "currentPriceEurCents": 739,
+          "referencePriceCents": 269900,
+          "referencePriceEurCents": 739
+        }
+      ]
+    },
+    {
       "productId": 18470,
       "brand": "Fascino",
       "isCountryExtreme": true,
@@ -876,6 +964,71 @@
           "currentPriceEurCents": 739,
           "referencePriceCents": 269900,
           "referencePriceEurCents": 739
+        }
+      ]
+    },
+    {
+      "productId": 10826,
+      "brand": "Mivolis",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 120,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Sportski zavoj, 1 kom.",
+          "url": "https://www.dm.hr/p/d/1551509/mivolis-sportski-zavoj",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:04.766Z",
+          "lastSeenAt": "2026-11-12T16:46:42.879Z",
+          "currentPriceCents": 315,
+          "currentPriceEurCents": 315,
+          "referencePriceCents": 315,
+          "referencePriceEurCents": 315
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Športni samolepilni trak, 3,75 cm x 10 m, 1 kos",
+          "url": "https://www.dm.si/p/d/1551509/mivolis-sportni-samolepilni-trak-3-75-cm-x-10-m",
+          "isPromo": true,
+          "observedAt": "2026-11-12T16:46:41.162Z",
+          "lastSeenAt": "2026-11-12T16:46:41.162Z",
+          "currentPriceCents": 155,
+          "currentPriceEurCents": 155,
+          "referencePriceCents": 225,
+          "referencePriceEurCents": 225
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Tapeverband Sport, 1 St",
+          "url": "https://www.dm.at/p/d/1551509/mivolis-tapeverband-sport",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:31.747Z",
+          "lastSeenAt": "2026-11-12T16:46:47.722Z",
+          "currentPriceCents": 495,
+          "currentPriceEurCents": 495,
+          "referencePriceCents": 495,
+          "referencePriceEurCents": 495
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Sportkötés 10m x 3,75 cm, 1 db",
+          "url": "https://www.dm.hu/p/d/1551509/mivolis-sportkotes-10m-x-3-75-cm",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:49.604Z",
+          "lastSeenAt": "2026-11-12T16:47:03.782Z",
+          "currentPriceCents": 129900,
+          "currentPriceEurCents": 356,
+          "referencePriceCents": 129900,
+          "referencePriceEurCents": 356
         }
       ]
     },
@@ -992,6 +1145,43 @@
           "currentPriceEurCents": 145,
           "referencePriceCents": 145,
           "referencePriceEurCents": 145
+        }
+      ]
+    },
+    {
+      "productId": 16164,
+      "brand": "Fascino",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 113.56,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Dokolenke 30 DEN, 35-38, črne, 1 kos",
+          "url": "https://www.dm.si/p/d/1640735/fascino-dokolenke-30-den-35-38-crne",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:52.544Z",
+          "lastSeenAt": "2026-11-12T16:46:41.162Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Térdharisnya 30den, szemlefutás-biztos, fekete,..., 1 db",
+          "url": "https://www.dm.hu/p/d/1640735/fascino-terdharisnya-30den-szemlefutas-biztos-fekete-35-38",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:10.466Z",
+          "lastSeenAt": "2026-11-12T16:47:01.536Z",
+          "currentPriceCents": 229900,
+          "currentPriceEurCents": 630,
+          "referencePriceCents": 229900,
+          "referencePriceEurCents": 630
         }
       ]
     },
@@ -1172,6 +1362,71 @@
       ]
     },
     {
+      "productId": 63478,
+      "brand": "Mivolis",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 111.11,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Pflasterstrips Sensitiv, 20 St",
+          "url": "https://www.dm.de/p/d/3147471/mivolis-pflasterstrips-sensitiv",
+          "isPromo": false,
+          "observedAt": "2026-09-14T15:00:43.818Z",
+          "lastSeenAt": "2026-11-13T12:08:56.614Z",
+          "currentPriceCents": 50,
+          "currentPriceEurCents": 50,
+          "referencePriceCents": 50,
+          "referencePriceEurCents": 50
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Pflaster Sensitiv, 20 St",
+          "url": "https://www.dm.at/p/d/3147471/mivolis-pflaster-sensitiv",
+          "isPromo": false,
+          "observedAt": "2026-10-14T13:41:08.025Z",
+          "lastSeenAt": "2026-11-13T12:08:50.459Z",
+          "currentPriceCents": 95,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Obliži za občutljivo kožo Sensitiv, 20 kos",
+          "url": "https://www.dm.si/p/d/3147471/mivolis-oblizi-za-obcutljivo-kozo-sensitiv",
+          "isPromo": false,
+          "observedAt": "2026-11-13T12:08:36.860Z",
+          "lastSeenAt": "2026-11-13T12:08:36.860Z",
+          "currentPriceCents": 45,
+          "currentPriceEurCents": 45,
+          "referencePriceCents": 45,
+          "referencePriceEurCents": 45
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Sebtapasz 2 méretben, szenzitív, 20 db",
+          "url": "https://www.dm.hu/p/d/3147471/mivolis-sebtapasz-2-meretben-szenzitiv",
+          "isPromo": false,
+          "observedAt": "2026-11-13T12:09:04.712Z",
+          "lastSeenAt": "2026-11-13T12:09:04.712Z",
+          "currentPriceCents": 32900,
+          "currentPriceEurCents": 90,
+          "referencePriceCents": 32900,
+          "referencePriceEurCents": 90
+        }
+      ]
+    },
+    {
       "productId": 3252,
       "brand": "Sanft&Sicher",
       "isCountryExtreme": true,
@@ -1251,6 +1506,80 @@
       ]
     },
     {
+      "productId": 17141,
+      "brand": "Fascino",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 108.1,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Samostoječe nogavice 15 DEN, 46-48, 1 kos",
+          "url": "https://www.dm.si/p/d/1560162/fascino-samostojece-nogavice-15-den-46-48",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:08.864Z",
+          "lastSeenAt": "2026-11-11T16:07:42.858Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Combfix 15 DEN, 46-48 méret, fekete, 1 db",
+          "url": "https://www.dm.hu/p/d/1560162/fascino-combfix-15-den-46-48-meret-fekete",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:01.877Z",
+          "lastSeenAt": "2026-11-11T16:08:05.457Z",
+          "currentPriceCents": 299900,
+          "currentPriceEurCents": 822,
+          "referencePriceCents": 299900,
+          "referencePriceEurCents": 822
+        }
+      ]
+    },
+    {
+      "productId": 22638,
+      "brand": "Fascino",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 108.1,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Samostoječe nogavice 15 DEN, črne, 42-44, 1 kos",
+          "url": "https://www.dm.si/p/d/1560161/fascino-samostojece-nogavice-15-den-crne-42-44",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:01.846Z",
+          "lastSeenAt": "2026-11-08T15:09:02.480Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Combfix, 15 DEN, fekete, 42-44, 1 db",
+          "url": "https://www.dm.hu/p/d/1560161/fascino-combfix-15-den-fekete-42-44",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:10.466Z",
+          "lastSeenAt": "2026-11-08T15:09:24.786Z",
+          "currentPriceCents": 299900,
+          "currentPriceEurCents": 822,
+          "referencePriceCents": 299900,
+          "referencePriceEurCents": 822
+        }
+      ]
+    },
+    {
       "productId": 3743,
       "brand": "DEIN BESTES",
       "isCountryExtreme": true,
@@ -1316,80 +1645,6 @@
       ]
     },
     {
-      "productId": 17141,
-      "brand": "Fascino",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 107.85,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Samostoječe nogavice 15 DEN, 46-48, 1 kos",
-          "url": "https://www.dm.si/p/d/1560162/fascino-samostojece-nogavice-15-den-46-48",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:08.864Z",
-          "lastSeenAt": "2026-11-11T16:07:42.858Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Combfix 15 DEN, 46-48 méret, fekete, 1 db",
-          "url": "https://www.dm.hu/p/d/1560162/fascino-combfix-15-den-46-48-meret-fekete",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:01.877Z",
-          "lastSeenAt": "2026-11-11T16:08:05.457Z",
-          "currentPriceCents": 299900,
-          "currentPriceEurCents": 821,
-          "referencePriceCents": 299900,
-          "referencePriceEurCents": 821
-        }
-      ]
-    },
-    {
-      "productId": 22638,
-      "brand": "Fascino",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 107.85,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Samostoječe nogavice 15 DEN, črne, 42-44, 1 kos",
-          "url": "https://www.dm.si/p/d/1560161/fascino-samostojece-nogavice-15-den-crne-42-44",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:01.846Z",
-          "lastSeenAt": "2026-11-08T15:09:02.480Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Combfix, 15 DEN, fekete, 42-44, 1 db",
-          "url": "https://www.dm.hu/p/d/1560161/fascino-combfix-15-den-fekete-42-44",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:10.466Z",
-          "lastSeenAt": "2026-11-08T15:09:24.786Z",
-          "currentPriceCents": 299900,
-          "currentPriceEurCents": 821,
-          "referencePriceCents": 299900,
-          "referencePriceEurCents": 821
-        }
-      ]
-    },
-    {
       "productId": 880,
       "brand": "Mivolis",
       "isCountryExtreme": true,
@@ -1437,303 +1692,6 @@
           "currentPriceEurCents": 195,
           "referencePriceCents": 195,
           "referencePriceEurCents": 195
-        }
-      ]
-    },
-    {
-      "productId": 2091,
-      "brand": "Profissimo",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 105.26,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Hladilni vložek, več različic, 1 kos",
-          "url": "https://www.dm.si/p/d/1583514/profissimo-hladilni-vlozek-vec-razlicic",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:56:37.304Z",
-          "lastSeenAt": "2026-11-03T11:53:39.659Z",
-          "currentPriceCents": 95,
-          "currentPriceEurCents": 95,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Kühlakku, 1 St",
-          "url": "https://www.dm.de/p/d/1583514/profissimo-kuehlakku",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:03.187Z",
-          "lastSeenAt": "2026-11-03T11:53:58.967Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        }
-      ]
-    },
-    {
-      "productId": 10770,
-      "brand": "Denkmit",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 105.26,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Vlažne maramice za čišćenje ekrana, 20 kom.",
-          "url": "https://www.dm.hr/p/d/1622586/denkmit-vlazne-maramice-za-ciscenje-ekrana",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:04.766Z",
-          "lastSeenAt": "2026-10-27T14:27:05.664Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Vlažne krpice za čiščenje zaslonov, 20 kos",
-          "url": "https://www.dm.si/p/d/1622586/denkmit-vlazne-krpice-za-ciscenje-zaslonov",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:08.864Z",
-          "lastSeenAt": "2026-10-27T14:27:12.808Z",
-          "currentPriceCents": 95,
-          "currentPriceEurCents": 95,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Feuchte Reinigungstücher Bildschirm, 20 St",
-          "url": "https://www.dm.at/p/d/1622586/denkmit-feuchte-reinigungstuecher-bildschirm",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:28.761Z",
-          "lastSeenAt": "2026-10-27T14:27:19.163Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Feuchte Reinigungstücher für Bildschirm, 20 St",
-          "url": "https://www.dm.de/p/d/1622586/denkmit-feuchte-reinigungstuecher-fuer-bildschirm",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:52.468Z",
-          "lastSeenAt": "2026-10-27T14:27:26.816Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Nedves képernyőtisztító kendő, 20 db",
-          "url": "https://www.dm.hu/p/d/1622586/denkmit-nedves-kepernyotisztito-kendo",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:58.541Z",
-          "lastSeenAt": "2026-10-27T14:27:30.381Z",
-          "currentPriceCents": 59900,
-          "currentPriceEurCents": 164,
-          "referencePriceCents": 59900,
-          "referencePriceEurCents": 164
-        }
-      ]
-    },
-    {
-      "productId": 10674,
-      "brand": "Frosch baby",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 104.07,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Sprej za ostranjivanje mrlja, 300 ml",
-          "url": "https://www.dm.hr/p/d/1845223/frosch-baby-sprej-za-ostranjivanje-mrlja",
-          "isPromo": false,
-          "observedAt": "2026-10-04T14:04:10.034Z",
-          "lastSeenAt": "2026-11-03T11:53:45.744Z",
-          "currentPriceCents": 355,
-          "currentPriceEurCents": 355,
-          "referencePriceCents": 355,
-          "referencePriceEurCents": 355
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Sredstvo za odstranjevanje madežev, 300 ml",
-          "url": "https://www.dm.si/p/d/1845223/frosch-baby-sredstvo-za-odstranjevanje-madezev",
-          "isPromo": false,
-          "observedAt": "2026-10-04T14:04:06.292Z",
-          "lastSeenAt": "2026-11-03T11:53:43.696Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Vorwaschspray, 300 ml",
-          "url": "https://www.dm.at/p/d/1845223/frosch-baby-vorwaschspray",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:37:47.048Z",
-          "lastSeenAt": "2026-11-03T11:53:51.823Z",
-          "currentPriceCents": 315,
-          "currentPriceEurCents": 315,
-          "referencePriceCents": 315,
-          "referencePriceEurCents": 315
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Folttisztító Spray Baby, 300 ml",
-          "url": "https://www.dm.hu/p/d/1845223/frosch-baby-folttisztito-spray-baby",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:55.494Z",
-          "lastSeenAt": "2026-11-03T11:54:14.891Z",
-          "currentPriceCents": 219900,
-          "currentPriceEurCents": 602,
-          "referencePriceCents": 219900,
-          "referencePriceEurCents": 602
-        }
-      ]
-    },
-    {
-      "productId": 2183,
-      "brand": "POLICE",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 103.94,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Parfumska voda za ženske Born To Shine, 40 ml",
-          "url": "https://www.dm.si/p/d/1837265/police-parfumska-voda-za-zenske-born-to-shine",
-          "isPromo": true,
-          "observedAt": "2026-10-29T15:12:12.737Z",
-          "lastSeenAt": "2026-10-29T15:12:12.737Z",
-          "currentPriceCents": 795,
-          "currentPriceEurCents": 795,
-          "referencePriceCents": 940,
-          "referencePriceEurCents": 940
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Női EdP Born To Shine, 40 ml",
-          "url": "https://www.dm.hu/p/d/1837265/police-noi-edp-born-to-shine",
-          "isPromo": false,
-          "observedAt": "2026-10-29T15:12:42.006Z",
-          "lastSeenAt": "2026-10-29T15:12:42.006Z",
-          "currentPriceCents": 699900,
-          "currentPriceEurCents": 1917,
-          "referencePriceCents": 699900,
-          "referencePriceEurCents": 1917
-        }
-      ]
-    },
-    {
-      "productId": 8783,
-      "brand": "Profissimo",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 103.7,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Krpa za brisanje prašine i mokro čišćenje od..., 3 kom.",
-          "url": "https://www.dm.hr/p/d/1494453/profissimo-krpa-za-brisanje-prasine-i-mokro-ciscenje-od-mikrovlakana-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:51.588Z",
-          "lastSeenAt": "2026-10-27T14:27:09.015Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Krpa iz mikrovlaken z rebrasto površino, 3 kos",
-          "url": "https://www.dm.si/p/d/1494453/profissimo-krpa-iz-mikrovlaken-z-rebrasto-povrsino",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:49.766Z",
-          "lastSeenAt": "2026-10-27T14:27:12.808Z",
-          "currentPriceCents": 135,
-          "currentPriceEurCents": 135,
-          "referencePriceCents": 135,
-          "referencePriceEurCents": 135
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Reinigungstücher aus Mikrofeinfaser, 3 St",
-          "url": "https://www.dm.at/p/d/1494453/profissimo-reinigungstuecher-aus-mikrofeinfaser",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:06.799Z",
-          "lastSeenAt": "2026-10-27T14:27:19.163Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Reinigungstücher Mikrofeinfaser, 3 St",
-          "url": "https://www.dm.de/p/d/1494453/profissimo-reinigungstuecher-mikrofeinfaser",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:51.188Z",
-          "lastSeenAt": "2026-10-27T14:27:24.951Z",
-          "currentPriceCents": 225,
-          "currentPriceEurCents": 225,
-          "referencePriceCents": 225,
-          "referencePriceEurCents": 225
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Mikroszálas prémium törlőkendő, 3 db",
-          "url": "https://www.dm.hu/p/d/1494453/profissimo-mikroszalas-premium-torlokendo",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:02.558Z",
-          "lastSeenAt": "2026-10-27T14:27:30.381Z",
-          "currentPriceCents": 99900,
-          "currentPriceEurCents": 274,
-          "referencePriceCents": 99900,
-          "referencePriceEurCents": 274
         }
       ]
     }
