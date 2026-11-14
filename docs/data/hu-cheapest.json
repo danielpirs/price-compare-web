@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-13T12:55:23.550Z",
+  "generatedAt": "2026-11-14T11:58:49.116Z",
   "fx": {
-    "asOf": "2026-11-12",
+    "asOf": "2026-11-13",
     "rates": {
-      "USD": 1.1081,
-      "JPY": 176.96,
-      "CZK": 24.379,
-      "DKK": 7.4754,
-      "GBP": 0.83595,
-      "HUF": 364.98,
-      "PLN": 4.4088,
-      "RON": 5.3473,
-      "SEK": 11.0628,
-      "CHF": 0.9232,
+      "USD": 1.1052,
+      "JPY": 176.83,
+      "CZK": 24.424,
+      "DKK": 7.4756,
+      "GBP": 0.83559,
+      "HUF": 365.6,
+      "PLN": 4.4113,
+      "RON": 5.3494,
+      "SEK": 11.1075,
+      "CHF": 0.9266,
       "ISK": 136.6,
-      "NOK": 10.563,
-      "TRY": 55.6906,
-      "AUD": 1.6246,
-      "BRL": 6.2241,
-      "CAD": 1.5789,
-      "CNY": 7.3891,
-      "HKD": 8.6928,
-      "IDR": 20225.76,
-      "ILS": 3.5495,
-      "INR": 104.2118,
-      "KRW": 1478.32,
-      "MXN": 20.7113,
-      "MYR": 4.5194,
-      "NZD": 1.9942,
-      "PHP": 70.616,
-      "SGD": 1.4249,
-      "THB": 37.47,
-      "ZAR": 18.5219
+      "NOK": 10.5695,
+      "TRY": 55.6667,
+      "AUD": 1.6288,
+      "BRL": 6.2595,
+      "CAD": 1.5758,
+      "CNY": 7.3738,
+      "HKD": 8.6714,
+      "IDR": 20163.71,
+      "ILS": 3.5485,
+      "INR": 104.1575,
+      "KRW": 1477.8,
+      "MXN": 20.5491,
+      "MYR": 4.5175,
+      "NZD": 1.9978,
+      "PHP": 70.526,
+      "SGD": 1.4236,
+      "THB": 37.483,
+      "ZAR": 18.7481
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -210,7 +210,7 @@
       "productId": 7605,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 181.82,
+      "overallPercentDiff": 187.04,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -279,9 +279,9 @@
           "observedAt": "2026-09-01T12:30:50.931Z",
           "lastSeenAt": "2026-11-01T15:04:54.221Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 55,
+          "currentPriceEurCents": 54,
           "referencePriceCents": 19900,
-          "referencePriceEurCents": 55
+          "referencePriceEurCents": 54
         }
       ]
     },
@@ -634,6 +634,43 @@
       ]
     },
     {
+      "productId": 11017,
+      "brand": "Aquafresh",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 157.35,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Pasta za zube White&Shine, 100 ml",
+          "url": "https://www.dm.hr/p/d/2278071/aquafresh-pasta-za-zube-white-shine",
+          "isPromo": false,
+          "observedAt": "2026-09-18T12:56:54.200Z",
+          "lastSeenAt": "2026-10-18T12:35:52.243Z",
+          "currentPriceCents": 350,
+          "currentPriceEurCents": 350,
+          "referencePriceCents": 350,
+          "referencePriceEurCents": 350
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkrém white&shine, 100 ml",
+          "url": "https://www.dm.hu/p/d/2278071/aquafresh-fogkrem-white-shine",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:49.604Z",
+          "lastSeenAt": "2026-10-18T12:36:08.084Z",
+          "currentPriceCents": 49900,
+          "currentPriceEurCents": 136,
+          "referencePriceCents": 49900,
+          "referencePriceEurCents": 136
+        }
+      ]
+    },
+    {
       "productId": 3190,
       "brand": "Balea med",
       "isCountryExtreme": true,
@@ -695,43 +732,6 @@
           "currentPriceEurCents": 103,
           "referencePriceCents": 37500,
           "referencePriceEurCents": 103
-        }
-      ]
-    },
-    {
-      "productId": 11017,
-      "brand": "Aquafresh",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 155.47,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Pasta za zube White&Shine, 100 ml",
-          "url": "https://www.dm.hr/p/d/2278071/aquafresh-pasta-za-zube-white-shine",
-          "isPromo": false,
-          "observedAt": "2026-09-18T12:56:54.200Z",
-          "lastSeenAt": "2026-10-18T12:35:52.243Z",
-          "currentPriceCents": 350,
-          "currentPriceEurCents": 350,
-          "referencePriceCents": 350,
-          "referencePriceEurCents": 350
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkrém white&shine, 100 ml",
-          "url": "https://www.dm.hu/p/d/2278071/aquafresh-fogkrem-white-shine",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:49.604Z",
-          "lastSeenAt": "2026-10-18T12:36:08.084Z",
-          "currentPriceCents": 49900,
-          "currentPriceEurCents": 137,
-          "referencePriceCents": 49900,
-          "referencePriceEurCents": 137
         }
       ]
     },
@@ -1149,7 +1149,7 @@
           "url": "https://www.dm.at/p/d/1345151/ebelin-pinzette-gekruemmt",
           "isPromo": false,
           "observedAt": "2026-08-28T16:43:38.329Z",
-          "lastSeenAt": "2026-10-15T13:23:13.334Z",
+          "lastSeenAt": "2026-11-14T11:25:49.530Z",
           "currentPriceCents": 265,
           "currentPriceEurCents": 265,
           "referencePriceCents": 265,
@@ -1163,7 +1163,7 @@
           "url": "https://www.dm.hr/p/d/1345151/ebelin-pinceta-od-nehr-ajuceg-celika",
           "isPromo": false,
           "observedAt": "2026-08-30T22:32:41.759Z",
-          "lastSeenAt": "2026-10-15T13:23:03.684Z",
+          "lastSeenAt": "2026-11-14T11:25:45.850Z",
           "currentPriceCents": 265,
           "currentPriceEurCents": 265,
           "referencePriceCents": 265,
@@ -1177,7 +1177,7 @@
           "url": "https://www.dm.si/p/d/1345151/ebelin-pinceta-z-ukrivljeno-konico",
           "isPromo": false,
           "observedAt": "2026-08-30T22:35:01.846Z",
-          "lastSeenAt": "2026-10-15T13:23:11.657Z",
+          "lastSeenAt": "2026-11-14T11:25:44.387Z",
           "currentPriceCents": 245,
           "currentPriceEurCents": 245,
           "referencePriceCents": 245,
@@ -1191,7 +1191,7 @@
           "url": "https://www.dm.de/p/d/1345151/ebelin-pinzette-gekruemmt",
           "isPromo": false,
           "observedAt": "2026-08-31T20:40:48.279Z",
-          "lastSeenAt": "2026-10-15T13:23:22.919Z",
+          "lastSeenAt": "2026-11-14T11:25:58.291Z",
           "currentPriceCents": 225,
           "currentPriceEurCents": 225,
           "referencePriceCents": 225,
@@ -1205,7 +1205,7 @@
           "url": "https://www.dm.hu/p/d/1345151/ebelin-szemoldokcsipesz-hajlitott-vegu",
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:41.384Z",
-          "lastSeenAt": "2026-10-15T13:23:27.448Z",
+          "lastSeenAt": "2026-11-14T11:26:01.094Z",
           "currentPriceCents": 39900,
           "currentPriceEurCents": 109,
           "referencePriceCents": 39900,
@@ -1261,6 +1261,94 @@
           "currentPriceEurCents": 163,
           "referencePriceCents": 59500,
           "referencePriceEurCents": 163
+        }
+      ]
+    },
+    {
+      "productId": 10116,
+      "brand": "Signal",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 142.04,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Super Mario Kids dječja pasta za zube Strawberry..., 75 g",
+          "url": "https://www.dm.hr/p/d/2952151/signal-super-mario-kids-djecja-pasta-za-zube-strawberry-flavour-0-6-god-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-11-13T12:08:41.401Z",
+          "lastSeenAt": "2026-11-13T12:08:41.401Z",
+          "currentPriceCents": 380,
+          "currentPriceEurCents": 380,
+          "referencePriceCents": 380,
+          "referencePriceEurCents": 380
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Otroška zobna pasta Super Mario Strawberry, 0 – 6..., 75 ml",
+          "url": "https://www.dm.si/p/d/2952151/signal-otroska-zobna-pasta-super-mario-strawberry-0-6-let",
+          "isPromo": false,
+          "observedAt": "2026-11-13T12:08:36.860Z",
+          "lastSeenAt": "2026-11-13T12:08:36.860Z",
+          "currentPriceCents": 330,
+          "currentPriceEurCents": 330,
+          "referencePriceCents": 330,
+          "referencePriceEurCents": 330
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkrém Kids epres 0-6 éves korig, 75 ml",
+          "url": "https://www.dm.hu/p/d/2952151/signal-fogkrem-kids-epres-0-6-eves-korig",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:29:46.464Z",
+          "lastSeenAt": "2026-11-13T12:09:07.830Z",
+          "currentPriceCents": 57500,
+          "currentPriceEurCents": 157,
+          "referencePriceCents": 57500,
+          "referencePriceEurCents": 157
+        }
+      ]
+    },
+    {
+      "productId": 13032,
+      "brand": "Signal",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 142.04,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Super Mario Junior dječja pasta za zube Mild Mint..., 75 g",
+          "url": "https://www.dm.hr/p/d/2952152/signal-super-mario-junior-djecja-pasta-za-zube-mild-mint-flavour-6-13-god-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-11-10T12:34:49.169Z",
+          "lastSeenAt": "2026-11-10T12:34:49.169Z",
+          "currentPriceCents": 380,
+          "currentPriceEurCents": 380,
+          "referencePriceCents": 380,
+          "referencePriceEurCents": 380
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkrém junior 6-13 éves korig, 75 ml",
+          "url": "https://www.dm.hu/p/d/2952152/signal-fogkrem-junior-6-13-eves-korig",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:29:55.346Z",
+          "lastSeenAt": "2026-11-10T12:35:05.271Z",
+          "currentPriceCents": 57500,
+          "currentPriceEurCents": 157,
+          "referencePriceCents": 57500,
+          "referencePriceEurCents": 157
         }
       ]
     },
@@ -1344,94 +1432,6 @@
       ]
     },
     {
-      "productId": 10116,
-      "brand": "Signal",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 140.51,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Super Mario Kids dječja pasta za zube Strawberry..., 75 g",
-          "url": "https://www.dm.hr/p/d/2952151/signal-super-mario-kids-djecja-pasta-za-zube-strawberry-flavour-0-6-god-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-11-13T12:08:41.401Z",
-          "lastSeenAt": "2026-11-13T12:08:41.401Z",
-          "currentPriceCents": 380,
-          "currentPriceEurCents": 380,
-          "referencePriceCents": 380,
-          "referencePriceEurCents": 380
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Otroška zobna pasta Super Mario Strawberry, 0 – 6..., 75 ml",
-          "url": "https://www.dm.si/p/d/2952151/signal-otroska-zobna-pasta-super-mario-strawberry-0-6-let",
-          "isPromo": false,
-          "observedAt": "2026-11-13T12:08:36.860Z",
-          "lastSeenAt": "2026-11-13T12:08:36.860Z",
-          "currentPriceCents": 330,
-          "currentPriceEurCents": 330,
-          "referencePriceCents": 330,
-          "referencePriceEurCents": 330
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkrém Kids epres 0-6 éves korig, 75 ml",
-          "url": "https://www.dm.hu/p/d/2952151/signal-fogkrem-kids-epres-0-6-eves-korig",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:29:46.464Z",
-          "lastSeenAt": "2026-11-13T12:09:07.830Z",
-          "currentPriceCents": 57500,
-          "currentPriceEurCents": 158,
-          "referencePriceCents": 57500,
-          "referencePriceEurCents": 158
-        }
-      ]
-    },
-    {
-      "productId": 13032,
-      "brand": "Signal",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 140.51,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Super Mario Junior dječja pasta za zube Mild Mint..., 75 g",
-          "url": "https://www.dm.hr/p/d/2952152/signal-super-mario-junior-djecja-pasta-za-zube-mild-mint-flavour-6-13-god-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-11-10T12:34:49.169Z",
-          "lastSeenAt": "2026-11-10T12:34:49.169Z",
-          "currentPriceCents": 380,
-          "currentPriceEurCents": 380,
-          "referencePriceCents": 380,
-          "referencePriceEurCents": 380
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkrém junior 6-13 éves korig, 75 ml",
-          "url": "https://www.dm.hu/p/d/2952152/signal-fogkrem-junior-6-13-eves-korig",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:29:55.346Z",
-          "lastSeenAt": "2026-11-10T12:35:05.271Z",
-          "currentPriceCents": 57500,
-          "currentPriceEurCents": 158,
-          "referencePriceCents": 57500,
-          "referencePriceEurCents": 158
-        }
-      ]
-    },
-    {
       "productId": 667,
       "brand": "Balea med",
       "isCountryExtreme": true,
@@ -1511,75 +1511,10 @@
       ]
     },
     {
-      "productId": 7293,
-      "brand": "BIC",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 135.58,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Miss Soleil jednokratne britvice colour collection, 4 kom.",
-          "url": "https://www.dm.hr/p/d/1869333/bic-miss-soleil-jednokratne-britvice-colour-collection",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:42.747Z",
-          "lastSeenAt": "2026-10-30T15:01:33.514Z",
-          "currentPriceCents": 450,
-          "currentPriceEurCents": 450,
-          "referencePriceCents": 450,
-          "referencePriceEurCents": 450
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Damski brivnik za enkratno uporabo Miss Soleil, 4 kos",
-          "url": "https://www.dm.si/p/d/1869333/bic-damski-brivnik-za-enkratno-uporabo-miss-soleil",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:49.766Z",
-          "lastSeenAt": "2026-10-30T15:01:38.373Z",
-          "currentPriceCents": 490,
-          "currentPriceEurCents": 490,
-          "referencePriceCents": 490,
-          "referencePriceEurCents": 490
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Einwegrasierer colour collection, 4 St",
-          "url": "https://www.dm.at/p/d/1869333/bic-einwegrasierer-colour-collection",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:41.260Z",
-          "lastSeenAt": "2026-10-30T15:01:40.059Z",
-          "currentPriceCents": 345,
-          "currentPriceEurCents": 345,
-          "referencePriceCents": 345,
-          "referencePriceEurCents": 345
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Női eldobható borotva Miss Soleil Colour..., 4 db",
-          "url": "https://www.dm.hu/p/d/1869333/bic-noi-eldobhato-borotva-miss-soleil-colour-collection-3-penges",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:59.257Z",
-          "lastSeenAt": "2026-10-30T15:01:53.484Z",
-          "currentPriceCents": 75900,
-          "currentPriceEurCents": 208,
-          "referencePriceCents": 75900,
-          "referencePriceEurCents": 208
-        }
-      ]
-    },
-    {
       "productId": 11598,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 134.38,
+      "overallPercentDiff": 136.84,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1648,9 +1583,111 @@
           "observedAt": "2026-09-01T12:32:22.557Z",
           "lastSeenAt": "2026-11-12T16:47:01.536Z",
           "currentPriceCents": 34900,
-          "currentPriceEurCents": 96,
+          "currentPriceEurCents": 95,
           "referencePriceCents": 34900,
-          "referencePriceEurCents": 96
+          "referencePriceEurCents": 95
+        }
+      ]
+    },
+    {
+      "productId": 7293,
+      "brand": "BIC",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 135.58,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Miss Soleil jednokratne britvice colour collection, 4 kom.",
+          "url": "https://www.dm.hr/p/d/1869333/bic-miss-soleil-jednokratne-britvice-colour-collection",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:42.747Z",
+          "lastSeenAt": "2026-10-30T15:01:33.514Z",
+          "currentPriceCents": 450,
+          "currentPriceEurCents": 450,
+          "referencePriceCents": 450,
+          "referencePriceEurCents": 450
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Damski brivnik za enkratno uporabo Miss Soleil, 4 kos",
+          "url": "https://www.dm.si/p/d/1869333/bic-damski-brivnik-za-enkratno-uporabo-miss-soleil",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:49.766Z",
+          "lastSeenAt": "2026-10-30T15:01:38.373Z",
+          "currentPriceCents": 490,
+          "currentPriceEurCents": 490,
+          "referencePriceCents": 490,
+          "referencePriceEurCents": 490
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Einwegrasierer colour collection, 4 St",
+          "url": "https://www.dm.at/p/d/1869333/bic-einwegrasierer-colour-collection",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:41.260Z",
+          "lastSeenAt": "2026-10-30T15:01:40.059Z",
+          "currentPriceCents": 345,
+          "currentPriceEurCents": 345,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Női eldobható borotva Miss Soleil Colour..., 4 db",
+          "url": "https://www.dm.hu/p/d/1869333/bic-noi-eldobhato-borotva-miss-soleil-colour-collection-3-penges",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:59.257Z",
+          "lastSeenAt": "2026-10-30T15:01:53.484Z",
+          "currentPriceCents": 75900,
+          "currentPriceEurCents": 208,
+          "referencePriceCents": 75900,
+          "referencePriceEurCents": 208
+        }
+      ]
+    },
+    {
+      "productId": 17313,
+      "brand": "Gillette Venus",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 132.47,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Damski brivnik za enkratno uporabo Venus Sensitive, 3 kos",
+          "url": "https://www.dm.si/p/d/2105007/gillette-venus-damski-brivnik-za-enkratno-uporabo-venus-sensitive",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:11.741Z",
+          "lastSeenAt": "2026-11-05T12:15:42.996Z",
+          "currentPriceCents": 895,
+          "currentPriceEurCents": 895,
+          "referencePriceCents": 895,
+          "referencePriceEurCents": 895
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Sensitive női eldobható borotva, 3 db",
+          "url": "https://www.dm.hu/p/d/2105007/gillette-venus-sensitive-noi-eldobhato-borotva",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:11.497Z",
+          "lastSeenAt": "2026-11-05T12:16:05.537Z",
+          "currentPriceCents": 140900,
+          "currentPriceEurCents": 385,
+          "referencePriceCents": 140900,
+          "referencePriceEurCents": 385
         }
       ]
     },
@@ -1809,43 +1846,6 @@
           "currentPriceEurCents": 127,
           "referencePriceCents": 46500,
           "referencePriceEurCents": 127
-        }
-      ]
-    },
-    {
-      "productId": 17313,
-      "brand": "Gillette Venus",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 131.87,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Damski brivnik za enkratno uporabo Venus Sensitive, 3 kos",
-          "url": "https://www.dm.si/p/d/2105007/gillette-venus-damski-brivnik-za-enkratno-uporabo-venus-sensitive",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:11.741Z",
-          "lastSeenAt": "2026-11-05T12:15:42.996Z",
-          "currentPriceCents": 895,
-          "currentPriceEurCents": 895,
-          "referencePriceCents": 895,
-          "referencePriceEurCents": 895
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Sensitive női eldobható borotva, 3 db",
-          "url": "https://www.dm.hu/p/d/2105007/gillette-venus-sensitive-noi-eldobhato-borotva",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:11.497Z",
-          "lastSeenAt": "2026-11-05T12:16:05.537Z",
-          "currentPriceCents": 140900,
-          "currentPriceEurCents": 386,
-          "referencePriceCents": 140900,
-          "referencePriceEurCents": 386
         }
       ]
     }
