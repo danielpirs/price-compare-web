@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T11:58:49.116Z",
+  "generatedAt": "2026-11-15T12:34:16.804Z",
   "fx": {
     "asOf": "2026-11-13",
     "rates": {
@@ -37,59 +37,6 @@
     "fallback": false
   },
   "items": [
-    {
-      "productId": 15673,
-      "name": "Milo iz rastlinskega olja z organsko sivko, 100 g",
-      "brand": "alverde NATURKOSMETIK",
-      "percentDiff": 375,
-      "cheapest": {
-        "countryCode": "HR",
-        "shopId": "dm-hr",
-        "priceCents": 20,
-        "currency": "EUR",
-        "priceEurCents": 20,
-        "isPromo": true,
-        "observedAt": "2026-10-15T13:23:03.684Z"
-      },
-      "mostExpensive": {
-        "countryCode": "SI",
-        "shopId": "dm-si",
-        "priceCents": 95,
-        "currency": "EUR",
-        "priceEurCents": 95,
-        "isPromo": false,
-        "observedAt": "2026-08-30T22:33:45.838Z"
-      },
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "priceCents": 95,
-          "currency": "EUR",
-          "priceEurCents": 95,
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:45.838Z"
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "priceCents": 25900,
-          "currency": "HUF",
-          "priceEurCents": 71,
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:29:55.346Z"
-        },
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "priceCents": 20,
-          "currency": "EUR",
-          "priceEurCents": 20,
-          "isPromo": true,
-          "observedAt": "2026-10-15T13:23:03.684Z"
-        }
-      ]
-    },
     {
       "productId": 3114,
       "name": "Osvežilni dezodorant v spreju, 200 ml",
@@ -11678,6 +11625,77 @@
           "priceEurCents": 383,
           "isPromo": false,
           "observedAt": "2026-11-06T12:04:37.247Z"
+        }
+      ]
+    },
+    {
+      "productId": 8516,
+      "name": "Vreće za smeće s trakicama za zatvaranje – 60 l, 30 kom.",
+      "brand": "Profissimo",
+      "percentDiff": 132.12,
+      "cheapest": {
+        "countryCode": "DE",
+        "shopId": "dm-de",
+        "priceCents": 165,
+        "currency": "EUR",
+        "priceEurCents": 165,
+        "isPromo": false,
+        "observedAt": "2026-08-31T20:41:07.596Z"
+      },
+      "mostExpensive": {
+        "countryCode": "HU",
+        "shopId": "dm-hu",
+        "priceCents": 139900,
+        "currency": "HUF",
+        "priceEurCents": 383,
+        "isPromo": false,
+        "observedAt": "2026-09-01T12:31:17.754Z"
+      },
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "priceCents": 195,
+          "currency": "EUR",
+          "priceEurCents": 195,
+          "isPromo": false,
+          "observedAt": "2026-11-05T12:15:49.447Z"
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "priceCents": 195,
+          "currency": "EUR",
+          "priceEurCents": 195,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:49.766Z"
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "priceCents": 195,
+          "currency": "EUR",
+          "priceEurCents": 195,
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:06.799Z"
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "priceCents": 165,
+          "currency": "EUR",
+          "priceEurCents": 165,
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:07.596Z"
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "priceCents": 139900,
+          "currency": "HUF",
+          "priceEurCents": 383,
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:17.754Z"
         }
       ]
     }
