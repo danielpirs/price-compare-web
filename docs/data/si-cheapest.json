@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T12:34:16.804Z",
+  "generatedAt": "2026-11-16T13:26:37.420Z",
   "fx": {
     "asOf": "2026-11-13",
     "rates": {
@@ -268,71 +268,6 @@
           "currentPriceEurCents": 115,
           "referencePriceCents": 115,
           "referencePriceEurCents": 115
-        }
-      ]
-    },
-    {
-      "productId": 1288,
-      "brand": "ebelin PROFESSIONAL",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 179.27,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Škarje za striženje las, 1 kos",
-          "url": "https://www.dm.si/p/d/1285183/ebelin-professional-skarje-za-strizenje-las",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:51:11.173Z",
-          "lastSeenAt": "2026-10-17T12:09:59.866Z",
-          "currentPriceCents": 410,
-          "currentPriceEurCents": 410,
-          "referencePriceCents": 410,
-          "referencePriceEurCents": 410
-        },
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Škare za šišanje, 1 kom.",
-          "url": "https://www.dm.hr/p/d/1285183/ebelin-professional-skare-za-sisanje",
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:09:23.018Z",
-          "lastSeenAt": "2026-10-17T12:10:01.272Z",
-          "currentPriceCents": 890,
-          "currentPriceEurCents": 890,
-          "referencePriceCents": 890,
-          "referencePriceEurCents": 890
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Haarschere aus Edelstahl, 1 St",
-          "url": "https://www.dm.at/p/d/1285183/ebelin-professional-haarschere-aus-edelstahl",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:24.251Z",
-          "lastSeenAt": "2026-10-17T12:10:13.268Z",
-          "currentPriceCents": 1145,
-          "currentPriceEurCents": 1145,
-          "referencePriceCents": 1145,
-          "referencePriceEurCents": 1145
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Haarschere, 1 St",
-          "url": "https://www.dm.de/p/d/1285183/ebelin-professional-haarschere",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:31.622Z",
-          "lastSeenAt": "2026-10-17T12:10:17.379Z",
-          "currentPriceCents": 795,
-          "currentPriceEurCents": 795,
-          "referencePriceCents": 795,
-          "referencePriceEurCents": 795
         }
       ]
     },
@@ -1149,6 +1084,85 @@
       ]
     },
     {
+      "productId": 1932,
+      "brand": "dmBio",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 115.79,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Bio bel fižol Cannellini, steriliziran, 400 g",
+          "url": "https://www.dm.si/p/d/1627399/dmbio-bio-bel-fizol-cannellini-steriliziran",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:55:24.777Z",
+          "lastSeenAt": "2026-11-15T15:38:25.317Z",
+          "currentPriceCents": 95,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
+        },
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Cannellini bijeli grah, 240 g",
+          "url": "https://www.dm.hr/p/d/1627399/dmbio-cannellini-bijeli-grah",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:21.355Z",
+          "lastSeenAt": "2026-11-15T15:38:27.612Z",
+          "currentPriceCents": 110,
+          "currentPriceEurCents": 110,
+          "referencePriceCents": 110,
+          "referencePriceEurCents": 110
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Cannellini Bohnen, 400 g",
+          "url": "https://www.dm.at/p/d/1627399/dmbio-cannellini-bohnen",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:41.260Z",
+          "lastSeenAt": "2026-11-15T15:38:37.502Z",
+          "currentPriceCents": 115,
+          "currentPriceEurCents": 115,
+          "referencePriceCents": 115,
+          "referencePriceEurCents": 115
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Cannellini Bohnen, 240 g",
+          "url": "https://www.dm.de/p/d/1627399/dmbio-cannellini-bohnen",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:09.706Z",
+          "lastSeenAt": "2026-11-15T15:38:38.699Z",
+          "currentPriceCents": 115,
+          "currentPriceEurCents": 115,
+          "referencePriceCents": 115,
+          "referencePriceEurCents": 115
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Bio canellini bab, 400 g",
+          "url": "https://www.dm.hu/p/d/1627399/dmbio-bio-canellini-bab",
+          "isPromo": false,
+          "observedAt": "2026-11-15T15:38:48.145Z",
+          "lastSeenAt": "2026-11-15T15:38:48.145Z",
+          "currentPriceCents": 74900,
+          "currentPriceEurCents": 205,
+          "referencePriceCents": 74900,
+          "referencePriceEurCents": 205
+        }
+      ]
+    },
+    {
       "productId": 16164,
       "brand": "Fascino",
       "isCountryExtreme": true,
@@ -1237,7 +1251,7 @@
           "url": "https://www.dm.si/p/d/1493482/fascino-dokolenke-30-den-39-42-honey",
           "isPromo": false,
           "observedAt": "2026-08-30T22:35:01.846Z",
-          "lastSeenAt": "2026-10-16T13:13:43.302Z",
+          "lastSeenAt": "2026-11-15T15:38:21.341Z",
           "currentPriceCents": 295,
           "currentPriceEurCents": 295,
           "referencePriceCents": 295,
@@ -1251,58 +1265,7 @@
           "url": "https://www.dm.hu/p/d/1493482/fascino-terdharisnya-30den-szemlefutas-biztos-honey-39-42",
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:07.326Z",
-          "lastSeenAt": "2026-10-16T13:14:00.743Z",
-          "currentPriceCents": 229900,
-          "currentPriceEurCents": 629,
-          "referencePriceCents": 229900,
-          "referencePriceEurCents": 629
-        }
-      ]
-    },
-    {
-      "productId": 22665,
-      "brand": "Fascino",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 113.22,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Dokolenke 30 DEN, 35/38, honey, 1 kos",
-          "url": "https://www.dm.si/p/d/1493481/fascino-dokolenke-30-den-35-38-honey",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:01.846Z",
-          "lastSeenAt": "2026-10-17T12:09:59.866Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Kniestrümpfe Laufmaschenstopp honey 30 DEN, Gr...., 1 St",
-          "url": "https://www.dm.at/p/d/1493481/fascino-kniestruempfe-laufmaschenstopp-honey-30-den-gr-35-38-1-paar",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:21.239Z",
-          "lastSeenAt": "2026-10-17T12:10:11.667Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Térdharisnya 30den szemlefutás-biztos, honey,..., 1 db",
-          "url": "https://www.dm.hu/p/d/1493481/fascino-terdharisnya-30den-szemlefutas-biztos-honey-35-38",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:10.466Z",
-          "lastSeenAt": "2026-10-17T12:10:22.820Z",
+          "lastSeenAt": "2026-11-15T15:38:48.145Z",
           "currentPriceCents": 229900,
           "currentPriceEurCents": 629,
           "referencePriceCents": 229900,
@@ -1506,71 +1469,6 @@
       ]
     },
     {
-      "productId": 3743,
-      "brand": "DEIN BESTES",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 108,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "HOFLADEN Popolna hrana za odrasle mačke s..., 85 g",
-          "url": "https://www.dm.si/p/d/1586552/dein-bestes-hofladen-popolna-hrana-za-odrasle-macke-s-kokosjimi-jetri",
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:08:02.161Z",
-          "lastSeenAt": "2026-10-17T12:09:59.866Z",
-          "currentPriceCents": 50,
-          "currentPriceEurCents": 50,
-          "referencePriceCents": 50,
-          "referencePriceEurCents": 50
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Nassfutter Katze Hofladen Hühnerleber, 85 g",
-          "url": "https://www.dm.at/p/d/1586552/dein-bestes-nassfutter-katze-hofladen-huehnerleber",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:55.121Z",
-          "lastSeenAt": "2026-10-17T12:10:11.667Z",
-          "currentPriceCents": 85,
-          "currentPriceEurCents": 85,
-          "referencePriceCents": 85,
-          "referencePriceEurCents": 85
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Nassfutter Katze mit Hühnerleber, Hofladen, 85 g",
-          "url": "https://www.dm.de/p/d/1586552/dein-bestes-nassfutter-katze-mit-huehnerleber-hofladen",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:31.622Z",
-          "lastSeenAt": "2026-10-17T12:10:17.379Z",
-          "currentPriceCents": 75,
-          "currentPriceEurCents": 75,
-          "referencePriceCents": 75,
-          "referencePriceEurCents": 75
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Nedves eledel felnőtt macskáknak, csirkemájban..., 85 g",
-          "url": "https://www.dm.hu/p/d/1586552/dein-bestes-nedves-eledel-felnott-macskaknak-csirkemajban-gazdag",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:25.549Z",
-          "lastSeenAt": "2026-10-17T12:10:22.820Z",
-          "currentPriceCents": 37900,
-          "currentPriceEurCents": 104,
-          "referencePriceCents": 37900,
-          "referencePriceEurCents": 104
-        }
-      ]
-    },
-    {
       "productId": 17141,
       "brand": "Fascino",
       "isCountryExtreme": true,
@@ -1692,6 +1590,122 @@
           "currentPriceEurCents": 195,
           "referencePriceCents": 195,
           "referencePriceEurCents": 195
+        }
+      ]
+    },
+    {
+      "productId": 2091,
+      "brand": "Profissimo",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 105.26,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Hladilni vložek, več različic, 1 kos",
+          "url": "https://www.dm.si/p/d/1583514/profissimo-hladilni-vlozek-vec-razlicic",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:56:37.304Z",
+          "lastSeenAt": "2026-11-03T11:53:39.659Z",
+          "currentPriceCents": 95,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Kühlakku, 1 St",
+          "url": "https://www.dm.de/p/d/1583514/profissimo-kuehlakku",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:03.187Z",
+          "lastSeenAt": "2026-11-03T11:53:58.967Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 195,
+          "referencePriceEurCents": 195
+        }
+      ]
+    },
+    {
+      "productId": 10770,
+      "brand": "Denkmit",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 105.26,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Vlažne maramice za čišćenje ekrana, 20 kom.",
+          "url": "https://www.dm.hr/p/d/1622586/denkmit-vlazne-maramice-za-ciscenje-ekrana",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:04.766Z",
+          "lastSeenAt": "2026-10-27T14:27:05.664Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Vlažne krpice za čiščenje zaslonov, 20 kos",
+          "url": "https://www.dm.si/p/d/1622586/denkmit-vlazne-krpice-za-ciscenje-zaslonov",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:08.864Z",
+          "lastSeenAt": "2026-10-27T14:27:12.808Z",
+          "currentPriceCents": 95,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Feuchte Reinigungstücher Bildschirm, 20 St",
+          "url": "https://www.dm.at/p/d/1622586/denkmit-feuchte-reinigungstuecher-bildschirm",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:28.761Z",
+          "lastSeenAt": "2026-10-27T14:27:19.163Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 195,
+          "referencePriceEurCents": 195
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Feuchte Reinigungstücher für Bildschirm, 20 St",
+          "url": "https://www.dm.de/p/d/1622586/denkmit-feuchte-reinigungstuecher-fuer-bildschirm",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:52.468Z",
+          "lastSeenAt": "2026-10-27T14:27:26.816Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Nedves képernyőtisztító kendő, 20 db",
+          "url": "https://www.dm.hu/p/d/1622586/denkmit-nedves-kepernyotisztito-kendo",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:58.541Z",
+          "lastSeenAt": "2026-10-27T14:27:30.381Z",
+          "currentPriceCents": 59900,
+          "currentPriceEurCents": 164,
+          "referencePriceCents": 59900,
+          "referencePriceEurCents": 164
         }
       ]
     }
