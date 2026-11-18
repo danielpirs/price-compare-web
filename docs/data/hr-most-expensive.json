@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-17T14:12:16.918Z",
+  "generatedAt": "2026-11-18T13:43:28.315Z",
   "fx": {
-    "asOf": "2026-11-16",
+    "asOf": "2026-11-17",
     "rates": {
-      "USD": 1.1014,
-      "JPY": 175.78,
-      "CZK": 24.428,
-      "DKK": 7.4752,
-      "GBP": 0.8345,
-      "HUF": 364.35,
-      "PLN": 4.403,
-      "RON": 5.3493,
-      "SEK": 11.095,
-      "CHF": 0.9244,
-      "ISK": 136.8,
-      "NOK": 10.574,
-      "TRY": 55.502,
-      "AUD": 1.6301,
-      "BRL": 6.2838,
-      "CAD": 1.5734,
-      "CNY": 7.3425,
-      "HKD": 8.6427,
-      "IDR": 20110,
-      "ILS": 3.5509,
-      "INR": 103.452,
-      "KRW": 1470.23,
-      "MXN": 20.4429,
-      "MYR": 4.5102,
-      "NZD": 1.9971,
-      "PHP": 70.439,
-      "SGD": 1.4195,
-      "THB": 37.326,
-      "ZAR": 18.661
+      "USD": 1.0989,
+      "JPY": 175.05,
+      "CZK": 24.387,
+      "DKK": 7.4749,
+      "GBP": 0.83305,
+      "HUF": 364.93,
+      "PLN": 4.4038,
+      "RON": 5.3482,
+      "SEK": 11.11,
+      "CHF": 0.9233,
+      "ISK": 137,
+      "NOK": 10.5755,
+      "TRY": 55.3987,
+      "AUD": 1.6316,
+      "BRL": 6.3539,
+      "CAD": 1.5704,
+      "CNY": 7.3254,
+      "HKD": 8.6221,
+      "IDR": 20077.73,
+      "ILS": 3.5674,
+      "INR": 102.72,
+      "KRW": 1468.36,
+      "MXN": 20.2895,
+      "MYR": 4.4983,
+      "NZD": 1.9985,
+      "PHP": 69.974,
+      "SGD": 1.4163,
+      "THB": 37.187,
+      "ZAR": 18.6073
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -112,9 +112,9 @@
           "observedAt": "2026-10-18T12:36:09.737Z",
           "lastSeenAt": "2026-11-17T13:18:13.918Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 823,
+          "currentPriceEurCents": 822,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 823
+          "referencePriceEurCents": 822
         }
       ]
     },
@@ -991,6 +991,43 @@
       ]
     },
     {
+      "productId": 12425,
+      "brand": "Oral-B",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 118.31,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Pasta za zube Professional Sensitivity & Gum Calm, 75 ml",
+          "url": "https://www.dm.hr/p/d/3131848/oral-b-pasta-za-zube-professional-sensitivity-gum-calm",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:14.196Z",
+          "lastSeenAt": "2026-11-14T11:25:48.562Z",
+          "currentPriceCents": 465,
+          "currentPriceEurCents": 465,
+          "referencePriceCents": 465,
+          "referencePriceEurCents": 465
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkrém Pro-expert Refreshing Clean, 75 ml",
+          "url": "https://www.dm.hu/p/d/3131848/oral-b-fogkrem-pro-expert-refreshing-clean",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:13.914Z",
+          "lastSeenAt": "2026-11-14T11:26:01.094Z",
+          "currentPriceCents": 77900,
+          "currentPriceEurCents": 213,
+          "referencePriceCents": 77900,
+          "referencePriceEurCents": 213
+        }
+      ]
+    },
+    {
       "productId": 5345,
       "brand": "dmBio",
       "isCountryExtreme": true,
@@ -1063,46 +1100,9 @@
           "observedAt": "2026-09-01T12:32:04.843Z",
           "lastSeenAt": "2026-10-24T12:39:23.327Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 247,
+          "currentPriceEurCents": 246,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 247
-        }
-      ]
-    },
-    {
-      "productId": 12425,
-      "brand": "Oral-B",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 117.29,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Pasta za zube Professional Sensitivity & Gum Calm, 75 ml",
-          "url": "https://www.dm.hr/p/d/3131848/oral-b-pasta-za-zube-professional-sensitivity-gum-calm",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:14.196Z",
-          "lastSeenAt": "2026-11-14T11:25:48.562Z",
-          "currentPriceCents": 465,
-          "currentPriceEurCents": 465,
-          "referencePriceCents": 465,
-          "referencePriceEurCents": 465
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkrém Pro-expert Refreshing Clean, 75 ml",
-          "url": "https://www.dm.hu/p/d/3131848/oral-b-fogkrem-pro-expert-refreshing-clean",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:13.914Z",
-          "lastSeenAt": "2026-11-14T11:26:01.094Z",
-          "currentPriceCents": 77900,
-          "currentPriceEurCents": 214,
-          "referencePriceCents": 77900,
-          "referencePriceEurCents": 214
+          "referencePriceEurCents": 246
         }
       ]
     },

@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-17T14:12:16.918Z",
+  "generatedAt": "2026-11-18T13:43:28.315Z",
   "fx": {
-    "asOf": "2026-11-16",
+    "asOf": "2026-11-17",
     "rates": {
-      "USD": 1.1014,
-      "JPY": 175.78,
-      "CZK": 24.428,
-      "DKK": 7.4752,
-      "GBP": 0.8345,
-      "HUF": 364.35,
-      "PLN": 4.403,
-      "RON": 5.3493,
-      "SEK": 11.095,
-      "CHF": 0.9244,
-      "ISK": 136.8,
-      "NOK": 10.574,
-      "TRY": 55.502,
-      "AUD": 1.6301,
-      "BRL": 6.2838,
-      "CAD": 1.5734,
-      "CNY": 7.3425,
-      "HKD": 8.6427,
-      "IDR": 20110,
-      "ILS": 3.5509,
-      "INR": 103.452,
-      "KRW": 1470.23,
-      "MXN": 20.4429,
-      "MYR": 4.5102,
-      "NZD": 1.9971,
-      "PHP": 70.439,
-      "SGD": 1.4195,
-      "THB": 37.326,
-      "ZAR": 18.661
+      "USD": 1.0989,
+      "JPY": 175.05,
+      "CZK": 24.387,
+      "DKK": 7.4749,
+      "GBP": 0.83305,
+      "HUF": 364.93,
+      "PLN": 4.4038,
+      "RON": 5.3482,
+      "SEK": 11.11,
+      "CHF": 0.9233,
+      "ISK": 137,
+      "NOK": 10.5755,
+      "TRY": 55.3987,
+      "AUD": 1.6316,
+      "BRL": 6.3539,
+      "CAD": 1.5704,
+      "CNY": 7.3254,
+      "HKD": 8.6221,
+      "IDR": 20077.73,
+      "ILS": 3.5674,
+      "INR": 102.72,
+      "KRW": 1468.36,
+      "MXN": 20.2895,
+      "MYR": 4.4983,
+      "NZD": 1.9985,
+      "PHP": 69.974,
+      "SGD": 1.4163,
+      "THB": 37.187,
+      "ZAR": 18.6073
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -200,9 +200,9 @@
           "observedAt": "2026-09-01T12:30:17.495Z",
           "lastSeenAt": "2026-10-28T15:05:22.610Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 247,
+          "currentPriceEurCents": 246,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 247
+          "referencePriceEurCents": 246
         }
       ]
     },
@@ -210,7 +210,7 @@
       "productId": 5466,
       "brand": "Jordan",
       "isCountryExtreme": true,
-      "overallPercentDiff": 177.78,
+      "overallPercentDiff": 180.61,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -237,9 +237,9 @@
           "observedAt": "2026-09-01T12:30:01.877Z",
           "lastSeenAt": "2026-10-23T13:22:57.120Z",
           "currentPriceCents": 35900,
-          "currentPriceEurCents": 99,
+          "currentPriceEurCents": 98,
           "referencePriceCents": 35900,
-          "referencePriceEurCents": 99
+          "referencePriceEurCents": 98
         }
       ]
     },
@@ -604,9 +604,9 @@
           "observedAt": "2026-09-01T12:32:09.419Z",
           "lastSeenAt": "2026-11-15T15:38:48.145Z",
           "currentPriceCents": 74900,
-          "currentPriceEurCents": 206,
+          "currentPriceEurCents": 205,
           "referencePriceCents": 74900,
-          "referencePriceEurCents": 206
+          "referencePriceEurCents": 205
         }
       ]
     },
@@ -783,6 +783,85 @@
           "currentPriceEurCents": 82,
           "referencePriceCents": 52900,
           "referencePriceEurCents": 145
+        }
+      ]
+    },
+    {
+      "productId": 7521,
+      "brand": "Balea MEN",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 143.42,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Žileti Classic, 10 kom.",
+          "url": "https://www.dm.hr/p/d/1686058/balea-men-zileti-classic",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:44.051Z",
+          "lastSeenAt": "2026-11-04T12:04:17.469Z",
+          "currentPriceCents": 175,
+          "currentPriceEurCents": 175,
+          "referencePriceCents": 175,
+          "referencePriceEurCents": 175
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Rezilo za britje CLASSIC, 10 kos",
+          "url": "https://www.dm.si/p/d/1686058/balea-men-rezilo-za-britje-classic",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:00.003Z",
+          "lastSeenAt": "2026-11-04T12:04:06.027Z",
+          "currentPriceCents": 185,
+          "currentPriceEurCents": 185,
+          "referencePriceCents": 185,
+          "referencePriceEurCents": 185
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Rasierklingen Classic, 10 St",
+          "url": "https://www.dm.at/p/d/1686058/balea-men-rasierklingen-classic",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:38:13.953Z",
+          "lastSeenAt": "2026-11-04T12:04:22.694Z",
+          "currentPriceCents": 165,
+          "currentPriceEurCents": 165,
+          "referencePriceCents": 165,
+          "referencePriceEurCents": 165
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Rasierklingen Classic, 10 St",
+          "url": "https://www.dm.de/p/d/1686058/balea-men-rasierklingen-classic",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:29.975Z",
+          "lastSeenAt": "2026-11-04T12:04:31.000Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Borotvapenge biztonsági borotvához, 10 db",
+          "url": "https://www.dm.hu/p/d/1686058/balea-men-borotvapenge-biztonsagi-borotvahoz",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:02.558Z",
+          "lastSeenAt": "2026-11-04T12:04:38.957Z",
+          "currentPriceCents": 27900,
+          "currentPriceEurCents": 76,
+          "referencePriceCents": 27900,
+          "referencePriceEurCents": 76
         }
       ]
     },
@@ -998,9 +1077,9 @@
           "observedAt": "2026-10-19T15:34:35.501Z",
           "lastSeenAt": "2026-10-19T15:34:35.501Z",
           "currentPriceCents": 599900,
-          "currentPriceEurCents": 1646,
+          "currentPriceEurCents": 1644,
           "referencePriceCents": 599900,
-          "referencePriceEurCents": 1646
+          "referencePriceEurCents": 1644
         },
         {
           "countryCode": "SI",
@@ -1029,85 +1108,6 @@
           "currentPriceEurCents": 995,
           "referencePriceCents": 995,
           "referencePriceEurCents": 995
-        }
-      ]
-    },
-    {
-      "productId": 7521,
-      "brand": "Balea MEN",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 140.26,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Žileti Classic, 10 kom.",
-          "url": "https://www.dm.hr/p/d/1686058/balea-men-zileti-classic",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:44.051Z",
-          "lastSeenAt": "2026-11-04T12:04:17.469Z",
-          "currentPriceCents": 175,
-          "currentPriceEurCents": 175,
-          "referencePriceCents": 175,
-          "referencePriceEurCents": 175
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Rezilo za britje CLASSIC, 10 kos",
-          "url": "https://www.dm.si/p/d/1686058/balea-men-rezilo-za-britje-classic",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:00.003Z",
-          "lastSeenAt": "2026-11-04T12:04:06.027Z",
-          "currentPriceCents": 185,
-          "currentPriceEurCents": 185,
-          "referencePriceCents": 185,
-          "referencePriceEurCents": 185
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Rasierklingen Classic, 10 St",
-          "url": "https://www.dm.at/p/d/1686058/balea-men-rasierklingen-classic",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:38:13.953Z",
-          "lastSeenAt": "2026-11-04T12:04:22.694Z",
-          "currentPriceCents": 165,
-          "currentPriceEurCents": 165,
-          "referencePriceCents": 165,
-          "referencePriceEurCents": 165
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Rasierklingen Classic, 10 St",
-          "url": "https://www.dm.de/p/d/1686058/balea-men-rasierklingen-classic",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:29.975Z",
-          "lastSeenAt": "2026-11-04T12:04:31.000Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Borotvapenge biztonsági borotvához, 10 db",
-          "url": "https://www.dm.hu/p/d/1686058/balea-men-borotvapenge-biztonsagi-borotvahoz",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:02.558Z",
-          "lastSeenAt": "2026-11-04T12:04:38.957Z",
-          "currentPriceCents": 27900,
-          "currentPriceEurCents": 77,
-          "referencePriceCents": 27900,
-          "referencePriceEurCents": 77
         }
       ]
     },
@@ -1437,6 +1437,43 @@
       ]
     },
     {
+      "productId": 17313,
+      "brand": "Gillette Venus",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 131.87,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Damski brivnik za enkratno uporabo Venus Sensitive, 3 kos",
+          "url": "https://www.dm.si/p/d/2105007/gillette-venus-damski-brivnik-za-enkratno-uporabo-venus-sensitive",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:11.741Z",
+          "lastSeenAt": "2026-11-05T12:15:42.996Z",
+          "currentPriceCents": 895,
+          "currentPriceEurCents": 895,
+          "referencePriceCents": 895,
+          "referencePriceEurCents": 895
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Sensitive női eldobható borotva, 3 db",
+          "url": "https://www.dm.hu/p/d/2105007/gillette-venus-sensitive-noi-eldobhato-borotva",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:11.497Z",
+          "lastSeenAt": "2026-11-05T12:16:05.537Z",
+          "currentPriceCents": 140900,
+          "currentPriceEurCents": 386,
+          "referencePriceCents": 140900,
+          "referencePriceEurCents": 386
+        }
+      ]
+    },
+    {
       "productId": 9815,
       "brand": "MAX FACTOR",
       "isCountryExtreme": true,
@@ -1495,46 +1532,9 @@
           "observedAt": "2026-09-01T12:33:07.322Z",
           "lastSeenAt": "2026-10-20T13:32:51.463Z",
           "currentPriceCents": 459900,
-          "currentPriceEurCents": 1262,
+          "currentPriceEurCents": 1260,
           "referencePriceCents": 459900,
-          "referencePriceEurCents": 1262
-        }
-      ]
-    },
-    {
-      "productId": 17313,
-      "brand": "Gillette Venus",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 131.27,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Damski brivnik za enkratno uporabo Venus Sensitive, 3 kos",
-          "url": "https://www.dm.si/p/d/2105007/gillette-venus-damski-brivnik-za-enkratno-uporabo-venus-sensitive",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:11.741Z",
-          "lastSeenAt": "2026-11-05T12:15:42.996Z",
-          "currentPriceCents": 895,
-          "currentPriceEurCents": 895,
-          "referencePriceCents": 895,
-          "referencePriceEurCents": 895
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Sensitive női eldobható borotva, 3 db",
-          "url": "https://www.dm.hu/p/d/2105007/gillette-venus-sensitive-noi-eldobhato-borotva",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:11.497Z",
-          "lastSeenAt": "2026-11-05T12:16:05.537Z",
-          "currentPriceCents": 140900,
-          "currentPriceEurCents": 387,
-          "referencePriceCents": 140900,
-          "referencePriceEurCents": 387
+          "referencePriceEurCents": 1260
         }
       ]
     },
@@ -1764,9 +1764,9 @@
           "observedAt": "2026-09-01T12:32:11.497Z",
           "lastSeenAt": "2026-10-21T13:44:49.512Z",
           "currentPriceCents": 339900,
-          "currentPriceEurCents": 933,
+          "currentPriceEurCents": 931,
           "referencePriceCents": 339900,
-          "referencePriceEurCents": 933
+          "referencePriceEurCents": 931
         }
       ]
     },
