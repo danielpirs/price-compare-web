@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-18T13:43:28.315Z",
+  "generatedAt": "2026-11-19T14:12:27.801Z",
   "fx": {
-    "asOf": "2026-11-17",
+    "asOf": "2026-11-18",
     "rates": {
-      "USD": 1.0989,
-      "JPY": 175.05,
-      "CZK": 24.387,
-      "DKK": 7.4749,
-      "GBP": 0.83305,
-      "HUF": 364.93,
-      "PLN": 4.4038,
-      "RON": 5.3482,
-      "SEK": 11.11,
-      "CHF": 0.9233,
+      "USD": 1.0968,
+      "JPY": 174.85,
+      "CZK": 24.386,
+      "DKK": 7.4744,
+      "GBP": 0.8329,
+      "HUF": 368.4,
+      "PLN": 4.4118,
+      "RON": 5.3467,
+      "SEK": 11.143,
+      "CHF": 0.9243,
       "ISK": 137,
-      "NOK": 10.5755,
-      "TRY": 55.3987,
-      "AUD": 1.6316,
-      "BRL": 6.3539,
-      "CAD": 1.5704,
-      "CNY": 7.3254,
-      "HKD": 8.6221,
-      "IDR": 20077.73,
-      "ILS": 3.5674,
-      "INR": 102.72,
-      "KRW": 1468.36,
-      "MXN": 20.2895,
-      "MYR": 4.4983,
-      "NZD": 1.9985,
-      "PHP": 69.974,
-      "SGD": 1.4163,
-      "THB": 37.187,
-      "ZAR": 18.6073
+      "NOK": 10.6045,
+      "TRY": 55.3197,
+      "AUD": 1.6294,
+      "BRL": 6.3818,
+      "CAD": 1.569,
+      "CNY": 7.3126,
+      "HKD": 8.6063,
+      "IDR": 20020.71,
+      "ILS": 3.5798,
+      "INR": 102.4905,
+      "KRW": 1461.3,
+      "MXN": 20.3738,
+      "MYR": 4.5144,
+      "NZD": 1.9951,
+      "PHP": 69.832,
+      "SGD": 1.4144,
+      "THB": 37.264,
+      "ZAR": 18.8897
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -43,7 +43,7 @@
       "productId": 8497,
       "brand": "dmBio",
       "isCountryExtreme": true,
-      "overallPercentDiff": 214.89,
+      "overallPercentDiff": 211.91,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -84,9 +84,46 @@
           "observedAt": "2026-11-08T15:09:24.786Z",
           "lastSeenAt": "2026-11-08T15:09:24.786Z",
           "currentPriceCents": 269900,
-          "currentPriceEurCents": 740,
+          "currentPriceEurCents": 733,
           "referencePriceCents": 269900,
-          "referencePriceEurCents": 740
+          "referencePriceEurCents": 733
+        }
+      ]
+    },
+    {
+      "productId": 1244,
+      "brand": "babylove",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 192.59,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Mrežica protiv insekata – oprema za bebe, 1 kom.",
+          "url": "https://www.dm.hr/p/d/1683604/babylove-mrezica-protiv-insekata-oprema-za-bebe",
+          "isPromo": false,
+          "observedAt": "2026-11-18T17:13:05.561Z",
+          "lastSeenAt": "2026-11-18T17:13:05.561Z",
+          "currentPriceCents": 135,
+          "currentPriceEurCents": 135,
+          "referencePriceCents": 135,
+          "referencePriceEurCents": 135
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Insektenschutz Universal sortiert, 1 St",
+          "url": "https://www.dm.at/p/d/1683604/babylove-insektenschutz-universal-sortiert",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:03.865Z",
+          "lastSeenAt": "2026-11-18T17:13:13.764Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
         }
       ]
     },
@@ -163,9 +200,9 @@
           "observedAt": "2026-09-01T12:30:17.495Z",
           "lastSeenAt": "2026-10-28T15:05:22.610Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 246,
+          "currentPriceEurCents": 244,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 246
+          "referencePriceEurCents": 244
         }
       ]
     },
@@ -173,7 +210,7 @@
       "productId": 837,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 184.8,
+      "overallPercentDiff": 182.4,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -228,9 +265,9 @@
           "observedAt": "2026-09-01T12:29:59.422Z",
           "lastSeenAt": "2026-11-07T14:53:41.614Z",
           "currentPriceCents": 129900,
-          "currentPriceEurCents": 356,
+          "currentPriceEurCents": 353,
           "referencePriceCents": 129900,
-          "referencePriceEurCents": 356
+          "referencePriceEurCents": 353
         }
       ]
     },
@@ -307,9 +344,9 @@
           "observedAt": "2026-09-01T12:32:04.843Z",
           "lastSeenAt": "2026-11-11T16:08:03.442Z",
           "currentPriceCents": 29900,
-          "currentPriceEurCents": 82,
+          "currentPriceEurCents": 81,
           "referencePriceCents": 29900,
-          "referencePriceEurCents": 82
+          "referencePriceEurCents": 81
         }
       ]
     },
@@ -386,9 +423,9 @@
           "observedAt": "2026-09-01T12:31:46.773Z",
           "lastSeenAt": "2026-10-23T13:22:55.166Z",
           "currentPriceCents": 29900,
-          "currentPriceEurCents": 82,
+          "currentPriceEurCents": 81,
           "referencePriceCents": 29900,
-          "referencePriceEurCents": 82
+          "referencePriceEurCents": 81
         }
       ]
     },
@@ -465,9 +502,9 @@
           "observedAt": "2026-09-01T12:32:11.497Z",
           "lastSeenAt": "2026-10-31T14:30:56.768Z",
           "currentPriceCents": 52900,
-          "currentPriceEurCents": 145,
+          "currentPriceEurCents": 144,
           "referencePriceCents": 52900,
-          "referencePriceEurCents": 145
+          "referencePriceEurCents": 144
         }
       ]
     },
@@ -530,9 +567,9 @@
           "observedAt": "2026-09-01T12:30:28.210Z",
           "lastSeenAt": "2026-11-01T15:04:51.921Z",
           "currentPriceCents": 30900,
-          "currentPriceEurCents": 85,
+          "currentPriceEurCents": 84,
           "referencePriceCents": 30900,
-          "referencePriceEurCents": 85
+          "referencePriceEurCents": 84
         }
       ]
     },
@@ -609,9 +646,9 @@
           "observedAt": "2026-09-01T12:29:57.331Z",
           "lastSeenAt": "2026-10-28T15:05:18.088Z",
           "currentPriceCents": 28900,
-          "currentPriceEurCents": 79,
+          "currentPriceEurCents": 78,
           "referencePriceCents": 28900,
-          "referencePriceEurCents": 79
+          "referencePriceEurCents": 78
         }
       ]
     },
@@ -688,9 +725,9 @@
           "observedAt": "2026-09-01T12:32:09.419Z",
           "lastSeenAt": "2026-11-13T12:09:07.830Z",
           "currentPriceCents": 39900,
-          "currentPriceEurCents": 109,
+          "currentPriceEurCents": 108,
           "referencePriceCents": 39900,
-          "referencePriceEurCents": 109
+          "referencePriceEurCents": 108
         }
       ]
     },
@@ -767,9 +804,9 @@
           "observedAt": "2026-09-01T12:31:37.751Z",
           "lastSeenAt": "2026-11-05T12:16:03.730Z",
           "currentPriceCents": 49900,
-          "currentPriceEurCents": 137,
+          "currentPriceEurCents": 135,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 137
+          "referencePriceEurCents": 135
         }
       ]
     },
@@ -777,7 +814,7 @@
       "productId": 7757,
       "brand": "7th Heaven",
       "isCountryExtreme": true,
-      "overallPercentDiff": 141.36,
+      "overallPercentDiff": 138.98,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -804,9 +841,9 @@
           "observedAt": "2026-09-01T12:32:49.604Z",
           "lastSeenAt": "2026-11-03T11:54:14.891Z",
           "currentPriceCents": 259900,
-          "currentPriceEurCents": 712,
+          "currentPriceEurCents": 705,
           "referencePriceCents": 259900,
-          "referencePriceEurCents": 712
+          "referencePriceEurCents": 705
         }
       ]
     },
@@ -869,9 +906,9 @@
           "observedAt": "2026-09-01T12:32:11.497Z",
           "lastSeenAt": "2026-11-07T14:53:43.576Z",
           "currentPriceCents": 64900,
-          "currentPriceEurCents": 178,
+          "currentPriceEurCents": 176,
           "referencePriceCents": 64900,
-          "referencePriceEurCents": 178
+          "referencePriceEurCents": 176
         }
       ]
     },
@@ -890,7 +927,7 @@
           "url": "https://www.dm.si/p/d/3058864/balea-odstranjevalec-trde-koze-iz-nano-stekla-vec-razlicic",
           "isPromo": false,
           "observedAt": "2026-08-28T16:09:46.488Z",
-          "lastSeenAt": "2026-10-19T15:34:12.359Z",
+          "lastSeenAt": "2026-11-18T17:13:03.181Z",
           "currentPriceCents": 695,
           "currentPriceEurCents": 695,
           "referencePriceCents": 695,
@@ -904,7 +941,7 @@
           "url": "https://www.dm.at/p/d/3058864/balea-hornhautentferner-feile-nano-glas-sortiert",
           "isPromo": false,
           "observedAt": "2026-08-30T21:47:47.082Z",
-          "lastSeenAt": "2026-10-19T15:34:22.548Z",
+          "lastSeenAt": "2026-11-18T17:13:11.432Z",
           "currentPriceCents": 695,
           "currentPriceEurCents": 695,
           "referencePriceCents": 695,
@@ -918,7 +955,7 @@
           "url": "https://www.dm.hr/p/d/3058864/balea-raspica-za-stopala-s-nanostaklom-vise-vrsta",
           "isPromo": false,
           "observedAt": "2026-08-30T22:32:38.262Z",
-          "lastSeenAt": "2026-10-19T15:34:14.531Z",
+          "lastSeenAt": "2026-11-18T17:13:05.561Z",
           "currentPriceCents": 295,
           "currentPriceEurCents": 295,
           "referencePriceCents": 295,
@@ -932,7 +969,7 @@
           "url": "https://www.dm.de/p/d/3058864/balea-hornhaut-feile-nano-glas",
           "isPromo": false,
           "observedAt": "2026-08-31T20:40:26.163Z",
-          "lastSeenAt": "2026-10-19T15:34:33.938Z",
+          "lastSeenAt": "2026-11-18T17:13:23.877Z",
           "currentPriceCents": 595,
           "currentPriceEurCents": 595,
           "referencePriceCents": 595,
@@ -946,11 +983,11 @@
           "url": "https://www.dm.hu/p/d/3058864/balea-sarokreszelo-nanouvegbol-tobbfele",
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:45.278Z",
-          "lastSeenAt": "2026-10-19T15:34:37.210Z",
+          "lastSeenAt": "2026-11-18T17:13:27.543Z",
           "currentPriceCents": 119900,
-          "currentPriceEurCents": 329,
+          "currentPriceEurCents": 325,
           "referencePriceCents": 119900,
-          "referencePriceEurCents": 329
+          "referencePriceEurCents": 325
         }
       ]
     },
@@ -1064,9 +1101,9 @@
           "observedAt": "2026-09-01T12:32:51.781Z",
           "lastSeenAt": "2026-11-03T11:54:14.891Z",
           "currentPriceCents": 79900,
-          "currentPriceEurCents": 219,
+          "currentPriceEurCents": 217,
           "referencePriceCents": 79900,
-          "referencePriceEurCents": 219
+          "referencePriceEurCents": 217
         }
       ]
     },
@@ -1143,9 +1180,9 @@
           "observedAt": "2026-09-01T12:32:09.419Z",
           "lastSeenAt": "2026-10-25T13:10:26.624Z",
           "currentPriceCents": 29900,
-          "currentPriceEurCents": 82,
+          "currentPriceEurCents": 81,
           "referencePriceCents": 29900,
-          "referencePriceEurCents": 82
+          "referencePriceEurCents": 81
         }
       ]
     },
@@ -1153,7 +1190,7 @@
       "productId": 3477,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 122.5,
+      "overallPercentDiff": 120.63,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1180,9 +1217,9 @@
           "observedAt": "2026-09-01T12:32:47.738Z",
           "lastSeenAt": "2026-11-12T16:47:03.782Z",
           "currentPriceCents": 129900,
-          "currentPriceEurCents": 356,
+          "currentPriceEurCents": 353,
           "referencePriceCents": 129900,
-          "referencePriceEurCents": 356
+          "referencePriceEurCents": 353
         }
       ]
     },
@@ -1190,7 +1227,7 @@
       "productId": 3966,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 113.91,
+      "overallPercentDiff": 112.17,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1245,88 +1282,9 @@
           "observedAt": "2026-09-01T12:30:17.495Z",
           "lastSeenAt": "2026-11-02T18:17:22.992Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 246,
+          "currentPriceEurCents": 244,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 246
-        }
-      ]
-    },
-    {
-      "productId": 4407,
-      "brand": "Denkmit",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 110.77,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Gallseife, 100 g",
-          "url": "https://www.dm.at/p/d/1121472/denkmit-gallseife",
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:41:22.066Z",
-          "lastSeenAt": "2026-10-19T15:34:27.141Z",
-          "currentPriceCents": 85,
-          "currentPriceEurCents": 85,
-          "referencePriceCents": 85,
-          "referencePriceEurCents": 85
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Pralno milo za odstranjevanje madežev, 100 g",
-          "url": "https://www.dm.si/p/d/1121472/denkmit-pralno-milo-za-odstranjevanje-madezev",
-          "isPromo": false,
-          "observedAt": "2026-08-30T21:47:44.606Z",
-          "lastSeenAt": "2026-10-19T15:34:09.260Z",
-          "currentPriceCents": 115,
-          "currentPriceEurCents": 115,
-          "referencePriceCents": 115,
-          "referencePriceEurCents": 115
-        },
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Sapun za otklanjanje mrlja, 100 g",
-          "url": "https://www.dm.hr/p/d/1121472/denkmit-sapun-za-otklanjanje-mrlja",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:14.196Z",
-          "lastSeenAt": "2026-10-19T15:34:17.188Z",
-          "currentPriceCents": 65,
-          "currentPriceEurCents": 65,
-          "referencePriceCents": 65,
-          "referencePriceEurCents": 65
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Gallseife Fleckenbehandlung, 100 g",
-          "url": "https://www.dm.de/p/d/1121472/denkmit-gallseife-fleckenbehandlung",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:23.165Z",
-          "lastSeenAt": "2026-10-19T15:34:32.211Z",
-          "currentPriceCents": 75,
-          "currentPriceEurCents": 75,
-          "referencePriceCents": 75,
-          "referencePriceEurCents": 75
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Folttisztító marhaepe szappan, 100 g",
-          "url": "https://www.dm.hu/p/d/1121472/denkmit-folttisztito-marhaepe-szappan",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:30.838Z",
-          "lastSeenAt": "2026-10-19T15:34:35.501Z",
-          "currentPriceCents": 49900,
-          "currentPriceEurCents": 137,
-          "referencePriceCents": 49900,
-          "referencePriceEurCents": 137
+          "referencePriceEurCents": 244
         }
       ]
     },
@@ -1334,7 +1292,7 @@
       "productId": 441,
       "brand": "Sportness",
       "isCountryExtreme": true,
-      "overallPercentDiff": 110.53,
+      "overallPercentDiff": 108.42,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1403,9 +1361,88 @@
           "observedAt": "2026-11-14T11:25:59.531Z",
           "lastSeenAt": "2026-11-14T11:25:59.531Z",
           "currentPriceCents": 72900,
-          "currentPriceEurCents": 200,
+          "currentPriceEurCents": 198,
           "referencePriceCents": 72900,
-          "referencePriceEurCents": 200
+          "referencePriceEurCents": 198
+        }
+      ]
+    },
+    {
+      "productId": 4407,
+      "brand": "Denkmit",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 107.69,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Gallseife, 100 g",
+          "url": "https://www.dm.at/p/d/1121472/denkmit-gallseife",
+          "isPromo": false,
+          "observedAt": "2026-08-28T16:41:22.066Z",
+          "lastSeenAt": "2026-11-18T17:13:15.738Z",
+          "currentPriceCents": 85,
+          "currentPriceEurCents": 85,
+          "referencePriceCents": 85,
+          "referencePriceEurCents": 85
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Pralno milo za odstranjevanje madežev, 100 g",
+          "url": "https://www.dm.si/p/d/1121472/denkmit-pralno-milo-za-odstranjevanje-madezev",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:44.606Z",
+          "lastSeenAt": "2026-11-18T17:13:00.048Z",
+          "currentPriceCents": 115,
+          "currentPriceEurCents": 115,
+          "referencePriceCents": 115,
+          "referencePriceEurCents": 115
+        },
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Sapun za otklanjanje mrlja, 100 g",
+          "url": "https://www.dm.hr/p/d/1121472/denkmit-sapun-za-otklanjanje-mrlja",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:14.196Z",
+          "lastSeenAt": "2026-11-18T17:13:10.027Z",
+          "currentPriceCents": 65,
+          "currentPriceEurCents": 65,
+          "referencePriceCents": 65,
+          "referencePriceEurCents": 65
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Gallseife Fleckenbehandlung, 100 g",
+          "url": "https://www.dm.de/p/d/1121472/denkmit-gallseife-fleckenbehandlung",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:23.165Z",
+          "lastSeenAt": "2026-11-18T17:13:21.977Z",
+          "currentPriceCents": 75,
+          "currentPriceEurCents": 75,
+          "referencePriceCents": 75,
+          "referencePriceEurCents": 75
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Folttisztító marhaepe szappan, 100 g",
+          "url": "https://www.dm.hu/p/d/1121472/denkmit-folttisztito-marhaepe-szappan",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:30.838Z",
+          "lastSeenAt": "2026-11-18T17:13:25.550Z",
+          "currentPriceCents": 49900,
+          "currentPriceEurCents": 135,
+          "referencePriceCents": 49900,
+          "referencePriceEurCents": 135
         }
       ]
     },
@@ -1413,7 +1450,7 @@
       "productId": 6022,
       "brand": "THE PINK STUFF",
       "isCountryExtreme": true,
-      "overallPercentDiff": 106.79,
+      "overallPercentDiff": 104.91,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1440,153 +1477,9 @@
           "observedAt": "2026-10-30T15:01:51.674Z",
           "lastSeenAt": "2026-10-30T15:01:51.674Z",
           "currentPriceCents": 199900,
-          "currentPriceEurCents": 548,
+          "currentPriceEurCents": 543,
           "referencePriceCents": 199900,
-          "referencePriceEurCents": 548
-        }
-      ]
-    },
-    {
-      "productId": 695,
-      "brand": "ebelin",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 104.41,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Mini spiralna četka za kosu, više vrsta, 1 kom.",
-          "url": "https://www.dm.hr/p/d/2975761/ebelin-mini-spiralna-cetka-za-kosu-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:46:56.090Z",
-          "lastSeenAt": "2026-11-13T12:08:44.682Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Mini spiralna krtača za lase, več različic, 1 kos",
-          "url": "https://www.dm.si/p/d/2975761/ebelin-mini-spiralna-krtaca-za-lase-vec-razlicic",
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:06:10.560Z",
-          "lastSeenAt": "2026-11-13T12:08:36.860Z",
-          "currentPriceCents": 315,
-          "currentPriceEurCents": 315,
-          "referencePriceCents": 315,
-          "referencePriceEurCents": 315
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Spiralentwirrbürste mini sortiert, 1 St",
-          "url": "https://www.dm.at/p/d/2975761/ebelin-spiralentwirrbuerste-mini-sortiert",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:33.242Z",
-          "lastSeenAt": "2026-11-13T12:08:50.459Z",
-          "currentPriceCents": 345,
-          "currentPriceEurCents": 345,
-          "referencePriceCents": 345,
-          "referencePriceEurCents": 345
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Spiralentwirrbürste mini, 1 St",
-          "url": "https://www.dm.de/p/d/2975761/ebelin-spiralentwirrbuerste-mini",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:53.255Z",
-          "lastSeenAt": "2026-11-13T12:09:02.984Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Mini spirálalakú hajbontó kefe, többféle, 1 db",
-          "url": "https://www.dm.hu/p/d/2975761/ebelin-mini-spiralalaku-hajbonto-kefe-tobbfele",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:01.877Z",
-          "lastSeenAt": "2026-11-13T12:09:07.830Z",
-          "currentPriceCents": 219900,
-          "currentPriceEurCents": 603,
-          "referencePriceCents": 219900,
-          "referencePriceEurCents": 603
-        }
-      ]
-    },
-    {
-      "productId": 2299,
-      "brand": "alverde NATURKOSMETIK",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 104.41,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Maslo za telo z bio slezenovcem Mama, 200 ml",
-          "url": "https://www.dm.si/p/d/1695846/alverde-naturkosmetik-maslo-za-telo-z-bio-slezenovcem-mama",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:57:56.983Z",
-          "lastSeenAt": "2026-10-28T15:04:59.594Z",
-          "currentPriceCents": 310,
-          "currentPriceEurCents": 310,
-          "referencePriceCents": 310,
-          "referencePriceEurCents": 310
-        },
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Mama maslac za tijelo – sljez, 200 ml",
-          "url": "https://www.dm.hr/p/d/1695846/alverde-naturkosmetik-mama-maslac-za-tijelo-sljez",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:45.205Z",
-          "lastSeenAt": "2026-10-28T15:04:57.900Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Körperbutter Mama Malven-Extrakt, Sheabutter &..., 200 ml",
-          "url": "https://www.dm.de/p/d/1695846/alverde-naturkosmetik-koerperbutter-mama-malven-extrakt-sheabutter-und-jojobaoel",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:34.304Z",
-          "lastSeenAt": "2026-10-28T15:05:15.975Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Testápoló vaj Mama, bio mályvával, 200 ml",
-          "url": "https://www.dm.hu/p/d/1695846/alverde-naturkosmetik-testapolo-vaj-mama-bio-malyvaval",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:37.751Z",
-          "lastSeenAt": "2026-10-28T15:05:22.610Z",
-          "currentPriceCents": 219900,
-          "currentPriceEurCents": 603,
-          "referencePriceCents": 219900,
-          "referencePriceEurCents": 603
+          "referencePriceEurCents": 543
         }
       ]
     },
@@ -1663,88 +1556,153 @@
           "observedAt": "2026-09-01T12:29:55.346Z",
           "lastSeenAt": "2026-11-17T13:18:13.918Z",
           "currentPriceCents": 79900,
-          "currentPriceEurCents": 219,
+          "currentPriceEurCents": 217,
           "referencePriceCents": 79900,
-          "referencePriceEurCents": 219
+          "referencePriceEurCents": 217
         }
       ]
     },
     {
-      "productId": 5448,
+      "productId": 695,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 102.11,
+      "overallPercentDiff": 102.37,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Mini spiralna četka za kosu, više vrsta, 1 kom.",
+          "url": "https://www.dm.hr/p/d/2975761/ebelin-mini-spiralna-cetka-za-kosu-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:46:56.090Z",
+          "lastSeenAt": "2026-11-13T12:08:44.682Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Mini spiralna krtača za lase, več različic, 1 kos",
+          "url": "https://www.dm.si/p/d/2975761/ebelin-mini-spiralna-krtaca-za-lase-vec-razlicic",
+          "isPromo": false,
+          "observedAt": "2026-08-28T16:06:10.560Z",
+          "lastSeenAt": "2026-11-13T12:08:36.860Z",
+          "currentPriceCents": 315,
+          "currentPriceEurCents": 315,
+          "referencePriceCents": 315,
+          "referencePriceEurCents": 315
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Spiralentwirrbürste mini sortiert, 1 St",
+          "url": "https://www.dm.at/p/d/2975761/ebelin-spiralentwirrbuerste-mini-sortiert",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:33.242Z",
+          "lastSeenAt": "2026-11-13T12:08:50.459Z",
+          "currentPriceCents": 345,
+          "currentPriceEurCents": 345,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Spiralentwirrbürste mini, 1 St",
+          "url": "https://www.dm.de/p/d/2975761/ebelin-spiralentwirrbuerste-mini",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:53.255Z",
+          "lastSeenAt": "2026-11-13T12:09:02.984Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Mini spirálalakú hajbontó kefe, többféle, 1 db",
+          "url": "https://www.dm.hu/p/d/2975761/ebelin-mini-spiralalaku-hajbonto-kefe-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:01.877Z",
+          "lastSeenAt": "2026-11-13T12:09:07.830Z",
+          "currentPriceCents": 219900,
+          "currentPriceEurCents": 597,
+          "referencePriceCents": 219900,
+          "referencePriceEurCents": 597
+        }
+      ]
+    },
+    {
+      "productId": 2299,
+      "brand": "alverde NATURKOSMETIK",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 102.37,
       "gapToExtremePercent": 0,
       "countries": [
         {
           "countryCode": "SI",
           "shopId": "dm-si",
           "currency": "EUR",
-          "name": "Kozmetične blazinice iz 100 % bombaža, velike, 50 kos",
-          "url": "https://www.dm.si/p/d/1440835/ebelin-kozmeticne-blazinice-iz-100-bombaza-velike",
+          "name": "Maslo za telo z bio slezenovcem Mama, 200 ml",
+          "url": "https://www.dm.si/p/d/1695846/alverde-naturkosmetik-maslo-za-telo-z-bio-slezenovcem-mama",
           "isPromo": false,
-          "observedAt": "2026-08-30T21:47:44.606Z",
-          "lastSeenAt": "2026-10-20T13:32:28.846Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
+          "observedAt": "2026-08-28T15:57:56.983Z",
+          "lastSeenAt": "2026-10-28T15:04:59.594Z",
+          "currentPriceCents": 310,
+          "currentPriceEurCents": 310,
+          "referencePriceCents": 310,
+          "referencePriceEurCents": 310
         },
         {
           "countryCode": "HR",
           "shopId": "dm-hr",
           "currency": "EUR",
-          "name": "Supersoft maksi blazinice, 50 kom.",
-          "url": "https://www.dm.hr/p/d/1440835/ebelin-supersoft-maksi-blazinice",
+          "name": "Mama maslac za tijelo – sljez, 200 ml",
+          "url": "https://www.dm.hr/p/d/1695846/alverde-naturkosmetik-mama-maslac-za-tijelo-sljez",
           "isPromo": false,
-          "observedAt": "2026-08-30T22:32:51.588Z",
-          "lastSeenAt": "2026-10-20T13:32:35.678Z",
-          "currentPriceCents": 95,
-          "currentPriceEurCents": 95,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Maxi-Wattepads Supersoft, 50 St",
-          "url": "https://www.dm.at/p/d/1440835/ebelin-maxi-wattepads-supersoft",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:06.799Z",
-          "lastSeenAt": "2026-10-20T13:32:41.157Z",
-          "currentPriceCents": 135,
-          "currentPriceEurCents": 135,
-          "referencePriceCents": 135,
-          "referencePriceEurCents": 135
+          "observedAt": "2026-08-30T22:32:45.205Z",
+          "lastSeenAt": "2026-10-28T15:04:57.900Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
         },
         {
           "countryCode": "DE",
           "shopId": "dm-de",
           "currency": "EUR",
-          "name": "Maxi-Wattepads Supersoft Dackel, 50 St",
-          "url": "https://www.dm.de/p/d/1440835/ebelin-maxi-wattepads-supersoft-dackel",
+          "name": "Körperbutter Mama Malven-Extrakt, Sheabutter &..., 200 ml",
+          "url": "https://www.dm.de/p/d/1695846/alverde-naturkosmetik-koerperbutter-mama-malven-extrakt-sheabutter-und-jojobaoel",
           "isPromo": false,
-          "observedAt": "2026-08-31T20:41:22.031Z",
-          "lastSeenAt": "2026-10-20T13:32:48.032Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
+          "observedAt": "2026-08-31T20:41:34.304Z",
+          "lastSeenAt": "2026-10-28T15:05:15.975Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
         },
         {
           "countryCode": "HU",
           "shopId": "dm-hu",
           "currency": "HUF",
-          "name": "Maxi vattakorong Supersoft, 100% pamutból, 50 db",
-          "url": "https://www.dm.hu/p/d/1440835/ebelin-maxi-vattakorong-supersoft-100-pamutbol",
+          "name": "Testápoló vaj Mama, bio mályvával, 200 ml",
+          "url": "https://www.dm.hu/p/d/1695846/alverde-naturkosmetik-testapolo-vaj-mama-bio-malyvaval",
           "isPromo": false,
-          "observedAt": "2026-09-01T12:31:07.865Z",
-          "lastSeenAt": "2026-10-20T13:32:53.855Z",
-          "currentPriceCents": 69900,
-          "currentPriceEurCents": 192,
-          "referencePriceCents": 69900,
-          "referencePriceEurCents": 192
+          "observedAt": "2026-09-01T12:31:37.751Z",
+          "lastSeenAt": "2026-10-28T15:05:22.610Z",
+          "currentPriceCents": 219900,
+          "currentPriceEurCents": 597,
+          "referencePriceCents": 219900,
+          "referencePriceEurCents": 597
         }
       ]
     },
@@ -1803,7 +1761,7 @@
       "productId": 7281,
       "brand": "ziaja",
       "isCountryExtreme": true,
-      "overallPercentDiff": 99.66,
+      "overallPercentDiff": 97.8,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1844,9 +1802,9 @@
           "observedAt": "2026-11-16T18:29:01.872Z",
           "lastSeenAt": "2026-11-16T18:29:01.872Z",
           "currentPriceCents": 429900,
-          "currentPriceEurCents": 1178,
+          "currentPriceEurCents": 1167,
           "referencePriceCents": 429900,
-          "referencePriceEurCents": 1178
+          "referencePriceEurCents": 1167
         }
       ]
     },
@@ -1854,7 +1812,7 @@
       "productId": 7319,
       "brand": "ziaja",
       "isCountryExtreme": true,
-      "overallPercentDiff": 99.66,
+      "overallPercentDiff": 97.8,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1895,9 +1853,9 @@
           "observedAt": "2026-11-17T13:18:13.918Z",
           "lastSeenAt": "2026-11-17T13:18:13.918Z",
           "currentPriceCents": 429900,
-          "currentPriceEurCents": 1178,
+          "currentPriceEurCents": 1167,
           "referencePriceCents": 429900,
-          "referencePriceEurCents": 1178
+          "referencePriceEurCents": 1167
         }
       ]
     },
@@ -1974,74 +1932,46 @@
           "observedAt": "2026-09-01T12:32:13.914Z",
           "lastSeenAt": "2026-11-13T12:09:07.830Z",
           "currentPriceCents": 97900,
-          "currentPriceEurCents": 268,
+          "currentPriceEurCents": 266,
           "referencePriceCents": 97900,
-          "referencePriceEurCents": 268
+          "referencePriceEurCents": 266
         }
       ]
     },
     {
-      "productId": 6329,
-      "brand": "babylove",
+      "productId": 5938,
+      "brand": "Neutrogena",
       "isCountryExtreme": true,
-      "overallPercentDiff": 96.41,
+      "overallPercentDiff": 96.15,
       "gapToExtremePercent": 0,
       "countries": [
         {
           "countryCode": "HR",
           "shopId": "dm-hr",
           "currency": "EUR",
-          "name": "Dječja bočica, 250 ml, 0 – 6 mj., više vrsta, 1 kom.",
-          "url": "https://www.dm.hr/p/d/1399895/babylove-djecja-bocica-250-ml-0-6-mj-vise-vrsta",
+          "name": "Reparation Intense losion za suhu kožu, 250 ml",
+          "url": "https://www.dm.hr/p/d/2245156/neutrogena-reparation-intense-losion-za-suhu-kozu",
           "isPromo": false,
-          "observedAt": "2026-08-30T22:32:37.197Z",
-          "lastSeenAt": "2026-10-21T13:44:31.302Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
+          "observedAt": "2026-08-30T22:32:33.942Z",
+          "lastSeenAt": "2026-10-22T13:45:48.730Z",
+          "currentPriceCents": 390,
+          "currentPriceEurCents": 390,
+          "referencePriceCents": 390,
+          "referencePriceEurCents": 390
         },
         {
           "countryCode": "SI",
           "shopId": "dm-si",
           "currency": "EUR",
-          "name": "Steklenička za mleko z anatomskim antikolik..., 1 kos",
-          "url": "https://www.dm.si/p/d/1399895/babylove-steklenicka-za-mleko-z-anatomskim-antikolik-cucljem-iz-silikona-0-velikosti-1-250-ml-vec-razlicic",
+          "name": "Losjon za telo Intense repair CICA, 250 ml",
+          "url": "https://www.dm.si/p/d/2245156/neutrogena-losjon-za-telo-intense-repair-cica",
           "isPromo": false,
-          "observedAt": "2026-08-30T22:33:42.628Z",
-          "lastSeenAt": "2026-10-21T13:44:36.098Z",
-          "currentPriceCents": 305,
-          "currentPriceEurCents": 305,
-          "referencePriceCents": 305,
-          "referencePriceEurCents": 305
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Babyflasche mit Trinksauger 0-6 Monate 250 ml..., 1 St",
-          "url": "https://www.dm.at/p/d/1399895/babylove-babyflasche-mit-trinksauger-0-6-monate-250-ml-sortiert",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:37:31.635Z",
-          "lastSeenAt": "2026-10-21T13:44:39.182Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Cumisüveg újszülött kortól, speciális anti-kólika..., 1 db",
-          "url": "https://www.dm.hu/p/d/1399895/babylove-cumisuveg-ujszulott-kortol-specialis-anti-kolika-szeleppel-tobbfele",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:09.419Z",
-          "lastSeenAt": "2026-10-21T13:44:49.512Z",
-          "currentPriceCents": 139900,
-          "currentPriceEurCents": 383,
-          "referencePriceCents": 139900,
-          "referencePriceEurCents": 383
+          "observedAt": "2026-08-30T22:34:27.316Z",
+          "lastSeenAt": "2026-10-22T13:45:51.602Z",
+          "currentPriceCents": 765,
+          "currentPriceEurCents": 765,
+          "referencePriceCents": 765,
+          "referencePriceEurCents": 765
         }
       ]
     }

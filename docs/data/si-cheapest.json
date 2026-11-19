@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-18T13:43:28.315Z",
+  "generatedAt": "2026-11-19T14:12:27.801Z",
   "fx": {
-    "asOf": "2026-11-17",
+    "asOf": "2026-11-18",
     "rates": {
-      "USD": 1.0989,
-      "JPY": 175.05,
-      "CZK": 24.387,
-      "DKK": 7.4749,
-      "GBP": 0.83305,
-      "HUF": 364.93,
-      "PLN": 4.4038,
-      "RON": 5.3482,
-      "SEK": 11.11,
-      "CHF": 0.9233,
+      "USD": 1.0968,
+      "JPY": 174.85,
+      "CZK": 24.386,
+      "DKK": 7.4744,
+      "GBP": 0.8329,
+      "HUF": 368.4,
+      "PLN": 4.4118,
+      "RON": 5.3467,
+      "SEK": 11.143,
+      "CHF": 0.9243,
       "ISK": 137,
-      "NOK": 10.5755,
-      "TRY": 55.3987,
-      "AUD": 1.6316,
-      "BRL": 6.3539,
-      "CAD": 1.5704,
-      "CNY": 7.3254,
-      "HKD": 8.6221,
-      "IDR": 20077.73,
-      "ILS": 3.5674,
-      "INR": 102.72,
-      "KRW": 1468.36,
-      "MXN": 20.2895,
-      "MYR": 4.4983,
-      "NZD": 1.9985,
-      "PHP": 69.974,
-      "SGD": 1.4163,
-      "THB": 37.187,
-      "ZAR": 18.6073
+      "NOK": 10.6045,
+      "TRY": 55.3197,
+      "AUD": 1.6294,
+      "BRL": 6.3818,
+      "CAD": 1.569,
+      "CNY": 7.3126,
+      "HKD": 8.6063,
+      "IDR": 20020.71,
+      "ILS": 3.5798,
+      "INR": 102.4905,
+      "KRW": 1461.3,
+      "MXN": 20.3738,
+      "MYR": 4.5144,
+      "NZD": 1.9951,
+      "PHP": 69.832,
+      "SGD": 1.4144,
+      "THB": 37.264,
+      "ZAR": 18.8897
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -43,7 +43,7 @@
       "productId": 2140,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 235,
+      "overallPercentDiff": 231.67,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -112,9 +112,9 @@
           "observedAt": "2026-09-01T12:31:00.665Z",
           "lastSeenAt": "2026-11-14T11:25:59.531Z",
           "currentPriceCents": 219900,
-          "currentPriceEurCents": 603,
+          "currentPriceEurCents": 597,
           "referencePriceCents": 219900,
-          "referencePriceEurCents": 603
+          "referencePriceEurCents": 597
         }
       ]
     },
@@ -122,7 +122,7 @@
       "productId": 5557,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 229.09,
+      "overallPercentDiff": 225.45,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -177,9 +177,9 @@
           "observedAt": "2026-09-01T12:30:58.541Z",
           "lastSeenAt": "2026-10-31T14:30:54.836Z",
           "currentPriceCents": 65900,
-          "currentPriceEurCents": 181,
+          "currentPriceEurCents": 179,
           "referencePriceCents": 65900,
-          "referencePriceEurCents": 181
+          "referencePriceEurCents": 179
         }
       ]
     },
@@ -238,7 +238,7 @@
       "productId": 5519,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 152.82,
+      "overallPercentDiff": 150.26,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -279,9 +279,9 @@
           "observedAt": "2026-09-01T12:30:01.877Z",
           "lastSeenAt": "2026-11-02T18:17:25.790Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 493,
+          "currentPriceEurCents": 488,
           "referencePriceCents": 179900,
-          "referencePriceEurCents": 493
+          "referencePriceEurCents": 488
         }
       ]
     },
@@ -363,7 +363,7 @@
       "productId": 10277,
       "brand": "Erdal",
       "isCountryExtreme": true,
-      "overallPercentDiff": 143.56,
+      "overallPercentDiff": 141.33,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -432,111 +432,9 @@
           "observedAt": "2026-09-01T12:32:51.781Z",
           "lastSeenAt": "2026-11-17T13:18:13.918Z",
           "currentPriceCents": 199900,
-          "currentPriceEurCents": 548,
+          "currentPriceEurCents": 543,
           "referencePriceCents": 199900,
-          "referencePriceEurCents": 548
-        }
-      ]
-    },
-    {
-      "productId": 802,
-      "brand": "Paradies",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 141.26,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Alkalne baterije AAA – Micro, 50 kom.",
-          "url": "https://www.dm.hr/p/d/3081465/paradies-alkalne-baterije-aaa-micro",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:47:36.157Z",
-          "lastSeenAt": "2026-11-17T13:17:54.813Z",
-          "currentPriceCents": 895,
-          "currentPriceEurCents": 895,
-          "referencePriceCents": 895,
-          "referencePriceEurCents": 895
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "AAA LR 03 1,5 V micro elem, 50 db",
-          "url": "https://www.dm.hu/p/d/3081465/paradies-aaa-lr-03-1-5-v-micro-elem",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:33:11.663Z",
-          "lastSeenAt": "2026-11-17T13:18:12.228Z",
-          "currentPriceCents": 699900,
-          "currentPriceEurCents": 1918,
-          "referencePriceCents": 699900,
-          "referencePriceEurCents": 1918
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Alkalne baterije AAA Micro, LR 03, 1,5 V, 50 par",
-          "url": "https://www.dm.si/p/d/3081465/paradies-alkalne-baterije-aaa-micro-lr-03-1-5-v",
-          "isPromo": false,
-          "observedAt": "2026-11-17T13:17:47.520Z",
-          "lastSeenAt": "2026-11-17T13:17:47.520Z",
-          "currentPriceCents": 795,
-          "currentPriceEurCents": 795,
-          "referencePriceCents": 795,
-          "referencePriceEurCents": 795
-        }
-      ]
-    },
-    {
-      "productId": 7039,
-      "brand": "Paradies",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 141.26,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Alkalne baterije AA, Mignon, 50 kom.",
-          "url": "https://www.dm.hr/p/d/3081457/paradies-alkalne-baterije-aa-mignon",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:40.566Z",
-          "lastSeenAt": "2026-11-16T18:28:48.725Z",
-          "currentPriceCents": 895,
-          "currentPriceEurCents": 895,
-          "referencePriceCents": 895,
-          "referencePriceEurCents": 895
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "AA LR 6 1,5 V mignon elem, 50 db",
-          "url": "https://www.dm.hu/p/d/3081457/paradies-aa-lr-6-1-5-v-mignon-elem",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:33:09.616Z",
-          "lastSeenAt": "2026-11-16T18:29:01.872Z",
-          "currentPriceCents": 699900,
-          "currentPriceEurCents": 1918,
-          "referencePriceCents": 699900,
-          "referencePriceEurCents": 1918
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Alkalne baterije AA Mignon, LR 6, 1,5 V, 50 kos",
-          "url": "https://www.dm.si/p/d/3081457/paradies-alkalne-baterije-aa-mignon-lr-6-1-5-v",
-          "isPromo": false,
-          "observedAt": "2026-11-16T18:28:41.942Z",
-          "lastSeenAt": "2026-11-16T18:28:41.942Z",
-          "currentPriceCents": 795,
-          "currentPriceEurCents": 795,
-          "referencePriceCents": 795,
-          "referencePriceEurCents": 795
+          "referencePriceEurCents": 543
         }
       ]
     },
@@ -602,6 +500,108 @@
           "currentPriceEurCents": 845,
           "referencePriceCents": 845,
           "referencePriceEurCents": 845
+        }
+      ]
+    },
+    {
+      "productId": 802,
+      "brand": "Paradies",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 138.99,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Alkalne baterije AAA – Micro, 50 kom.",
+          "url": "https://www.dm.hr/p/d/3081465/paradies-alkalne-baterije-aaa-micro",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:47:36.157Z",
+          "lastSeenAt": "2026-11-17T13:17:54.813Z",
+          "currentPriceCents": 895,
+          "currentPriceEurCents": 895,
+          "referencePriceCents": 895,
+          "referencePriceEurCents": 895
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "AAA LR 03 1,5 V micro elem, 50 db",
+          "url": "https://www.dm.hu/p/d/3081465/paradies-aaa-lr-03-1-5-v-micro-elem",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:33:11.663Z",
+          "lastSeenAt": "2026-11-17T13:18:12.228Z",
+          "currentPriceCents": 699900,
+          "currentPriceEurCents": 1900,
+          "referencePriceCents": 699900,
+          "referencePriceEurCents": 1900
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Alkalne baterije AAA Micro, LR 03, 1,5 V, 50 par",
+          "url": "https://www.dm.si/p/d/3081465/paradies-alkalne-baterije-aaa-micro-lr-03-1-5-v",
+          "isPromo": false,
+          "observedAt": "2026-11-17T13:17:47.520Z",
+          "lastSeenAt": "2026-11-17T13:17:47.520Z",
+          "currentPriceCents": 795,
+          "currentPriceEurCents": 795,
+          "referencePriceCents": 795,
+          "referencePriceEurCents": 795
+        }
+      ]
+    },
+    {
+      "productId": 7039,
+      "brand": "Paradies",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 138.99,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Alkalne baterije AA, Mignon, 50 kom.",
+          "url": "https://www.dm.hr/p/d/3081457/paradies-alkalne-baterije-aa-mignon",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:40.566Z",
+          "lastSeenAt": "2026-11-16T18:28:48.725Z",
+          "currentPriceCents": 895,
+          "currentPriceEurCents": 895,
+          "referencePriceCents": 895,
+          "referencePriceEurCents": 895
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "AA LR 6 1,5 V mignon elem, 50 db",
+          "url": "https://www.dm.hu/p/d/3081457/paradies-aa-lr-6-1-5-v-mignon-elem",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:33:09.616Z",
+          "lastSeenAt": "2026-11-16T18:29:01.872Z",
+          "currentPriceCents": 699900,
+          "currentPriceEurCents": 1900,
+          "referencePriceCents": 699900,
+          "referencePriceEurCents": 1900
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Alkalne baterije AA Mignon, LR 6, 1,5 V, 50 kos",
+          "url": "https://www.dm.si/p/d/3081457/paradies-alkalne-baterije-aa-mignon-lr-6-1-5-v",
+          "isPromo": false,
+          "observedAt": "2026-11-16T18:28:41.942Z",
+          "lastSeenAt": "2026-11-16T18:28:41.942Z",
+          "currentPriceCents": 795,
+          "currentPriceEurCents": 795,
+          "referencePriceCents": 795,
+          "referencePriceEurCents": 795
         }
       ]
     },
@@ -739,7 +739,7 @@
       "productId": 12161,
       "brand": "meridol",
       "isCountryExtreme": true,
-      "overallPercentDiff": 134.92,
+      "overallPercentDiff": 132.7,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -794,9 +794,9 @@
           "observedAt": "2026-09-01T12:32:32.640Z",
           "lastSeenAt": "2026-10-28T15:05:22.610Z",
           "currentPriceCents": 269900,
-          "currentPriceEurCents": 740,
+          "currentPriceEurCents": 733,
           "referencePriceCents": 269900,
-          "referencePriceEurCents": 740
+          "referencePriceEurCents": 733
         }
       ]
     },
@@ -804,7 +804,7 @@
       "productId": 9284,
       "brand": "DEIN BESTES",
       "isCountryExtreme": true,
-      "overallPercentDiff": 127.78,
+      "overallPercentDiff": 125.56,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -873,9 +873,9 @@
           "observedAt": "2026-09-01T12:32:11.497Z",
           "lastSeenAt": "2026-10-29T15:12:44.552Z",
           "currentPriceCents": 74900,
-          "currentPriceEurCents": 205,
+          "currentPriceEurCents": 203,
           "referencePriceCents": 74900,
-          "referencePriceEurCents": 205
+          "referencePriceEurCents": 203
         }
       ]
     },
@@ -883,7 +883,7 @@
       "productId": 16745,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 127.69,
+      "overallPercentDiff": 125.54,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -924,9 +924,9 @@
           "observedAt": "2026-09-01T12:30:07.326Z",
           "lastSeenAt": "2026-11-12T16:47:01.536Z",
           "currentPriceCents": 269900,
-          "currentPriceEurCents": 740,
+          "currentPriceEurCents": 733,
           "referencePriceCents": 269900,
-          "referencePriceEurCents": 740
+          "referencePriceEurCents": 733
         }
       ]
     },
@@ -934,7 +934,7 @@
       "productId": 18470,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 127.69,
+      "overallPercentDiff": 125.54,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -961,9 +961,9 @@
           "observedAt": "2026-09-01T12:30:07.326Z",
           "lastSeenAt": "2026-10-24T12:39:24.951Z",
           "currentPriceCents": 269900,
-          "currentPriceEurCents": 740,
+          "currentPriceEurCents": 733,
           "referencePriceCents": 269900,
-          "referencePriceEurCents": 740
+          "referencePriceEurCents": 733
         }
       ]
     },
@@ -1026,9 +1026,9 @@
           "observedAt": "2026-09-01T12:32:49.604Z",
           "lastSeenAt": "2026-11-12T16:47:03.782Z",
           "currentPriceCents": 129900,
-          "currentPriceEurCents": 356,
+          "currentPriceEurCents": 353,
           "referencePriceCents": 129900,
-          "referencePriceEurCents": 356
+          "referencePriceEurCents": 353
         }
       ]
     },
@@ -1105,9 +1105,9 @@
           "observedAt": "2026-09-01T12:32:04.843Z",
           "lastSeenAt": "2026-10-24T12:39:23.327Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 246,
+          "currentPriceEurCents": 244,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 246
+          "referencePriceEurCents": 244
         }
       ]
     },
@@ -1152,7 +1152,7 @@
       "productId": 1932,
       "brand": "dmBio",
       "isCountryExtreme": true,
-      "overallPercentDiff": 115.79,
+      "overallPercentDiff": 113.68,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1221,9 +1221,9 @@
           "observedAt": "2026-11-15T15:38:48.145Z",
           "lastSeenAt": "2026-11-15T15:38:48.145Z",
           "currentPriceCents": 74900,
-          "currentPriceEurCents": 205,
+          "currentPriceEurCents": 203,
           "referencePriceCents": 74900,
-          "referencePriceEurCents": 205
+          "referencePriceEurCents": 203
         }
       ]
     },
@@ -1231,7 +1231,7 @@
       "productId": 16164,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 113.56,
+      "overallPercentDiff": 111.53,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1258,9 +1258,9 @@
           "observedAt": "2026-09-01T12:30:10.466Z",
           "lastSeenAt": "2026-11-12T16:47:01.536Z",
           "currentPriceCents": 229900,
-          "currentPriceEurCents": 630,
+          "currentPriceEurCents": 624,
           "referencePriceCents": 229900,
-          "referencePriceEurCents": 630
+          "referencePriceEurCents": 624
         }
       ]
     },
@@ -1268,7 +1268,7 @@
       "productId": 22534,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 113.56,
+      "overallPercentDiff": 111.53,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1295,9 +1295,9 @@
           "observedAt": "2026-09-01T12:30:13.724Z",
           "lastSeenAt": "2026-11-11T16:08:03.442Z",
           "currentPriceCents": 229900,
-          "currentPriceEurCents": 630,
+          "currentPriceEurCents": 624,
           "referencePriceCents": 229900,
-          "referencePriceEurCents": 630
+          "referencePriceEurCents": 624
         }
       ]
     },
@@ -1305,7 +1305,7 @@
       "productId": 22637,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 113.56,
+      "overallPercentDiff": 111.53,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1332,9 +1332,9 @@
           "observedAt": "2026-09-01T12:30:07.326Z",
           "lastSeenAt": "2026-11-15T15:38:48.145Z",
           "currentPriceCents": 229900,
-          "currentPriceEurCents": 630,
+          "currentPriceEurCents": 624,
           "referencePriceCents": 229900,
-          "referencePriceEurCents": 630
+          "referencePriceEurCents": 624
         }
       ]
     },
@@ -1342,7 +1342,7 @@
       "productId": 22665,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 113.56,
+      "overallPercentDiff": 111.53,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1383,9 +1383,9 @@
           "observedAt": "2026-09-01T12:30:10.466Z",
           "lastSeenAt": "2026-11-16T18:29:01.872Z",
           "currentPriceCents": 229900,
-          "currentPriceEurCents": 630,
+          "currentPriceEurCents": 624,
           "referencePriceCents": 229900,
-          "referencePriceEurCents": 630
+          "referencePriceEurCents": 624
         }
       ]
     },
@@ -1393,7 +1393,7 @@
       "productId": 12634,
       "brand": "dmBio",
       "isCountryExtreme": true,
-      "overallPercentDiff": 113.33,
+      "overallPercentDiff": 111.11,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1462,9 +1462,9 @@
           "observedAt": "2026-11-17T13:18:12.228Z",
           "lastSeenAt": "2026-11-17T13:18:12.228Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 192,
+          "currentPriceEurCents": 190,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 192
+          "referencePriceEurCents": 190
         }
       ]
     },
@@ -1578,9 +1578,9 @@
           "observedAt": "2026-11-13T12:09:04.712Z",
           "lastSeenAt": "2026-11-13T12:09:04.712Z",
           "currentPriceCents": 32900,
-          "currentPriceEurCents": 90,
+          "currentPriceEurCents": 89,
           "referencePriceCents": 32900,
-          "referencePriceEurCents": 90
+          "referencePriceEurCents": 89
         }
       ]
     },
@@ -1588,7 +1588,7 @@
       "productId": 3252,
       "brand": "Sanft&Sicher",
       "isCountryExtreme": true,
-      "overallPercentDiff": 110.77,
+      "overallPercentDiff": 108.72,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1657,9 +1657,9 @@
           "observedAt": "2026-09-01T12:30:41.384Z",
           "lastSeenAt": "2026-11-03T11:54:14.891Z",
           "currentPriceCents": 149900,
-          "currentPriceEurCents": 411,
+          "currentPriceEurCents": 407,
           "referencePriceCents": 149900,
-          "referencePriceEurCents": 411
+          "referencePriceEurCents": 407
         }
       ]
     },
@@ -1667,7 +1667,7 @@
       "productId": 17141,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 108.1,
+      "overallPercentDiff": 106.08,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1694,9 +1694,9 @@
           "observedAt": "2026-09-01T12:30:01.877Z",
           "lastSeenAt": "2026-11-11T16:08:05.457Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 822,
+          "currentPriceEurCents": 814,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 822
+          "referencePriceEurCents": 814
         }
       ]
     },
@@ -1704,7 +1704,7 @@
       "productId": 22638,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 108.1,
+      "overallPercentDiff": 106.08,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1731,9 +1731,9 @@
           "observedAt": "2026-09-01T12:30:10.466Z",
           "lastSeenAt": "2026-11-08T15:09:24.786Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 822,
+          "currentPriceEurCents": 814,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 822
+          "referencePriceEurCents": 814
         }
       ]
     }

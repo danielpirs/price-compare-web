@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-18T13:43:28.315Z",
+  "generatedAt": "2026-11-19T14:12:27.801Z",
   "fx": {
-    "asOf": "2026-11-17",
+    "asOf": "2026-11-18",
     "rates": {
-      "USD": 1.0989,
-      "JPY": 175.05,
-      "CZK": 24.387,
-      "DKK": 7.4749,
-      "GBP": 0.83305,
-      "HUF": 364.93,
-      "PLN": 4.4038,
-      "RON": 5.3482,
-      "SEK": 11.11,
-      "CHF": 0.9233,
+      "USD": 1.0968,
+      "JPY": 174.85,
+      "CZK": 24.386,
+      "DKK": 7.4744,
+      "GBP": 0.8329,
+      "HUF": 368.4,
+      "PLN": 4.4118,
+      "RON": 5.3467,
+      "SEK": 11.143,
+      "CHF": 0.9243,
       "ISK": 137,
-      "NOK": 10.5755,
-      "TRY": 55.3987,
-      "AUD": 1.6316,
-      "BRL": 6.3539,
-      "CAD": 1.5704,
-      "CNY": 7.3254,
-      "HKD": 8.6221,
-      "IDR": 20077.73,
-      "ILS": 3.5674,
-      "INR": 102.72,
-      "KRW": 1468.36,
-      "MXN": 20.2895,
-      "MYR": 4.4983,
-      "NZD": 1.9985,
-      "PHP": 69.974,
-      "SGD": 1.4163,
-      "THB": 37.187,
-      "ZAR": 18.6073
+      "NOK": 10.6045,
+      "TRY": 55.3197,
+      "AUD": 1.6294,
+      "BRL": 6.3818,
+      "CAD": 1.569,
+      "CNY": 7.3126,
+      "HKD": 8.6063,
+      "IDR": 20020.71,
+      "ILS": 3.5798,
+      "INR": 102.4905,
+      "KRW": 1461.3,
+      "MXN": 20.3738,
+      "MYR": 4.5144,
+      "NZD": 1.9951,
+      "PHP": 69.832,
+      "SGD": 1.4144,
+      "THB": 37.264,
+      "ZAR": 18.8897
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -94,7 +94,7 @@
       "productId": 30108,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 170.64,
+      "overallPercentDiff": 173.15,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -121,9 +121,9 @@
           "observedAt": "2026-09-01T12:31:55.494Z",
           "lastSeenAt": "2026-10-23T13:22:57.120Z",
           "currentPriceCents": 39900,
-          "currentPriceEurCents": 109,
+          "currentPriceEurCents": 108,
           "referencePriceCents": 39900,
-          "referencePriceEurCents": 109
+          "referencePriceEurCents": 108
         }
       ]
     },
@@ -168,7 +168,7 @@
       "productId": 3575,
       "brand": "Visiomax",
       "isCountryExtreme": true,
-      "overallPercentDiff": 124.74,
+      "overallPercentDiff": 126.32,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -179,7 +179,7 @@
           "url": "https://www.dm.si/p/d/1314957/visiomax-kapljice-za-oci-s-hialuronsko-kislino-0-1",
           "isPromo": false,
           "observedAt": "2026-08-28T16:06:53.717Z",
-          "lastSeenAt": "2026-10-19T15:34:12.359Z",
+          "lastSeenAt": "2026-11-18T17:13:03.181Z",
           "currentPriceCents": 545,
           "currentPriceEurCents": 545,
           "referencePriceCents": 545,
@@ -193,7 +193,7 @@
           "url": "https://www.dm.at/p/d/1314957/visiomax-augentropfen-mit-hyaluron",
           "isPromo": false,
           "observedAt": "2026-08-30T22:36:14.610Z",
-          "lastSeenAt": "2026-10-19T15:34:22.548Z",
+          "lastSeenAt": "2026-11-18T17:13:11.432Z",
           "currentPriceCents": 625,
           "currentPriceEurCents": 625,
           "referencePriceCents": 625,
@@ -207,7 +207,7 @@
           "url": "https://www.dm.de/p/d/1314957/visiomax-augentropfen-mit-0-1-prozent-hyaluron",
           "isPromo": false,
           "observedAt": "2026-08-31T20:42:21.148Z",
-          "lastSeenAt": "2026-10-19T15:34:28.669Z",
+          "lastSeenAt": "2026-11-18T17:13:17.468Z",
           "currentPriceCents": 645,
           "currentPriceEurCents": 645,
           "referencePriceCents": 645,
@@ -221,11 +221,11 @@
           "url": "https://www.dm.hu/p/d/1314957/visiomax-szemcsepp-0-1-hialuronsavval",
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:07.326Z",
-          "lastSeenAt": "2026-10-19T15:34:35.501Z",
+          "lastSeenAt": "2026-11-18T17:13:25.550Z",
           "currentPriceCents": 104900,
-          "currentPriceEurCents": 287,
+          "currentPriceEurCents": 285,
           "referencePriceCents": 104900,
-          "referencePriceEurCents": 287
+          "referencePriceEurCents": 285
         }
       ]
     },
@@ -233,7 +233,7 @@
       "productId": 448,
       "brand": "Dontodent PRO+",
       "isCountryExtreme": true,
-      "overallPercentDiff": 114.91,
+      "overallPercentDiff": 116.81,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -274,9 +274,9 @@
           "observedAt": "2026-09-01T12:30:17.495Z",
           "lastSeenAt": "2026-10-23T13:22:57.120Z",
           "currentPriceCents": 41500,
-          "currentPriceEurCents": 114,
+          "currentPriceEurCents": 113,
           "referencePriceCents": 41500,
-          "referencePriceEurCents": 114
+          "referencePriceEurCents": 113
         }
       ]
     },
@@ -478,9 +478,9 @@
           "observedAt": "2026-09-01T12:31:32.921Z",
           "lastSeenAt": "2026-11-05T12:16:05.537Z",
           "currentPriceCents": 109900,
-          "currentPriceEurCents": 301,
+          "currentPriceEurCents": 298,
           "referencePriceCents": 109900,
-          "referencePriceEurCents": 301
+          "referencePriceEurCents": 298
         }
       ]
     },
@@ -488,7 +488,7 @@
       "productId": 7641,
       "brand": "alverde NATURKOSMETIK MEN",
       "isCountryExtreme": true,
-      "overallPercentDiff": 90.3,
+      "overallPercentDiff": 91.73,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -529,9 +529,9 @@
           "observedAt": "2026-09-01T12:31:17.754Z",
           "lastSeenAt": "2026-10-28T15:05:18.088Z",
           "currentPriceCents": 48900,
-          "currentPriceEurCents": 134,
+          "currentPriceEurCents": 133,
           "referencePriceCents": 48900,
-          "referencePriceEurCents": 134
+          "referencePriceEurCents": 133
         }
       ]
     },
@@ -696,60 +696,9 @@
           "observedAt": "2026-09-01T12:31:46.773Z",
           "lastSeenAt": "2026-10-27T14:27:30.381Z",
           "currentPriceCents": 49900,
-          "currentPriceEurCents": 137,
+          "currentPriceEurCents": 135,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 137
-        }
-      ]
-    },
-    {
-      "productId": 40990,
-      "brand": "LANGHAARMÄDCHEN",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 80.37,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Spitzenserum Lovely Long, 100 ml",
-          "url": "https://www.dm.de/p/d/3149495/langhaarmaedchen-spitzenserum-lovely-long",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:31.993Z",
-          "lastSeenAt": "2026-10-20T13:32:43.926Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Hajvégápoló szérum, Lovely Long, 100 ml",
-          "url": "https://www.dm.hu/p/d/3149495/langhaarmadchen-hajvegapolo-szerum-lovely-long",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:29:59.422Z",
-          "lastSeenAt": "2026-10-20T13:32:53.855Z",
-          "currentPriceCents": 79900,
-          "currentPriceEurCents": 219,
-          "referencePriceCents": 79900,
-          "referencePriceEurCents": 219
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Haarserum Spitzen Lovely Long, 100 ml",
-          "url": "https://www.dm.at/p/d/3149495/langhaarmaedchen-haarserum-spitzen-lovely-long",
-          "isPromo": false,
-          "observedAt": "2026-09-20T13:02:20.097Z",
-          "lastSeenAt": "2026-10-20T13:32:38.573Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
+          "referencePriceEurCents": 135
         }
       ]
     },
@@ -757,7 +706,7 @@
       "productId": 41878,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 80.37,
+      "overallPercentDiff": 82.03,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -812,60 +761,9 @@
           "observedAt": "2026-10-07T15:32:33.137Z",
           "lastSeenAt": "2026-11-06T12:04:33.350Z",
           "currentPriceCents": 79900,
-          "currentPriceEurCents": 219,
+          "currentPriceEurCents": 217,
           "referencePriceCents": 79900,
-          "referencePriceEurCents": 219
-        }
-      ]
-    },
-    {
-      "productId": 43430,
-      "brand": "SEINZ.",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 78.9,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Tuchmaske hydro effect, 1 St",
-          "url": "https://www.dm.de/p/d/3127078/seinz-tuchmaske-hydro-effect",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:18.143Z",
-          "lastSeenAt": "2026-10-29T15:12:37.043Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fátyolmaszk férfiaknak, Hydro Effect, 1 db",
-          "url": "https://www.dm.hu/p/d/3127078/seinz-fatyolmaszk-ferfiaknak-hydro-effect",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:01.877Z",
-          "lastSeenAt": "2026-10-29T15:12:42.006Z",
-          "currentPriceCents": 39900,
-          "currentPriceEurCents": 109,
-          "referencePriceCents": 39900,
-          "referencePriceEurCents": 109
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Tuchmaske Hydro Effect, 1 St",
-          "url": "https://www.dm.at/p/d/3127078/seinz-tuchmaske-hydro-effect",
-          "isPromo": false,
-          "observedAt": "2026-09-29T10:39:15.367Z",
-          "lastSeenAt": "2026-10-29T15:12:29.652Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
+          "referencePriceEurCents": 217
         }
       ]
     },
@@ -873,7 +771,7 @@
       "productId": 44030,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 78.83,
+      "overallPercentDiff": 81.48,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -900,9 +798,60 @@
           "observedAt": "2026-09-01T12:30:45.278Z",
           "lastSeenAt": "2026-11-11T16:08:05.457Z",
           "currentPriceCents": 49900,
-          "currentPriceEurCents": 137,
+          "currentPriceEurCents": 135,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 137
+          "referencePriceEurCents": 135
+        }
+      ]
+    },
+    {
+      "productId": 43430,
+      "brand": "SEINZ.",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 80.56,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Tuchmaske hydro effect, 1 St",
+          "url": "https://www.dm.de/p/d/3127078/seinz-tuchmaske-hydro-effect",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:18.143Z",
+          "lastSeenAt": "2026-10-29T15:12:37.043Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 195,
+          "referencePriceEurCents": 195
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fátyolmaszk férfiaknak, Hydro Effect, 1 db",
+          "url": "https://www.dm.hu/p/d/3127078/seinz-fatyolmaszk-ferfiaknak-hydro-effect",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:01.877Z",
+          "lastSeenAt": "2026-10-29T15:12:42.006Z",
+          "currentPriceCents": 39900,
+          "currentPriceEurCents": 108,
+          "referencePriceCents": 39900,
+          "referencePriceEurCents": 108
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Tuchmaske Hydro Effect, 1 St",
+          "url": "https://www.dm.at/p/d/3127078/seinz-tuchmaske-hydro-effect",
+          "isPromo": false,
+          "observedAt": "2026-09-29T10:39:15.367Z",
+          "lastSeenAt": "2026-10-29T15:12:29.652Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 195,
+          "referencePriceEurCents": 195
         }
       ]
     },
@@ -1308,7 +1257,7 @@
       "productId": 4463,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 58.54,
+      "overallPercentDiff": 59.84,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1349,9 +1298,46 @@
           "observedAt": "2026-09-01T12:31:32.921Z",
           "lastSeenAt": "2026-10-22T13:46:08.797Z",
           "currentPriceCents": 44900,
-          "currentPriceEurCents": 123,
+          "currentPriceEurCents": 122,
           "referencePriceCents": 44900,
-          "referencePriceEurCents": 123
+          "referencePriceEurCents": 122
+        }
+      ]
+    },
+    {
+      "productId": 57534,
+      "brand": "WILKINSON SWORD",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 58.07,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Borotvabetét Intuition 2in1 Soap & Shave Sensitive, 3 db",
+          "url": "https://www.dm.hu/p/d/3124730/wilkinson-sword-borotvabetet-intuition-2in1-soap-shave-sensitive",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:07.865Z",
+          "lastSeenAt": "2026-10-21T13:44:49.512Z",
+          "currentPriceCents": 278500,
+          "currentPriceEurCents": 756,
+          "referencePriceCents": 278500,
+          "referencePriceEurCents": 756
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Rasierklingen, Intuition 2in1 Soap & Shave..., 3 St",
+          "url": "https://www.dm.de/p/d/3124730/wilkinson-sword-rasierklingen-intuition-2in1-soap-und-shave-sensitive",
+          "isPromo": false,
+          "observedAt": "2026-10-21T13:44:43.221Z",
+          "lastSeenAt": "2026-10-21T13:44:43.221Z",
+          "currentPriceCents": 1195,
+          "currentPriceEurCents": 1195,
+          "referencePriceCents": 1195,
+          "referencePriceEurCents": 1195
         }
       ]
     },
@@ -1393,39 +1379,39 @@
       ]
     },
     {
-      "productId": 57534,
-      "brand": "WILKINSON SWORD",
+      "productId": 17954,
+      "brand": "Ritex",
       "isCountryExtreme": true,
-      "overallPercentDiff": 56.62,
+      "overallPercentDiff": 56.18,
       "gapToExtremePercent": 0,
       "countries": [
         {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Borotvabetét Intuition 2in1 Soap & Shave Sensitive, 3 db",
-          "url": "https://www.dm.hu/p/d/3124730/wilkinson-sword-borotvabetet-intuition-2in1-soap-shave-sensitive",
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "BIO lubrikant, 50 ml",
+          "url": "https://www.dm.si/p/d/1426264/ritex-bio-lubrikant",
           "isPromo": false,
-          "observedAt": "2026-09-01T12:31:07.865Z",
-          "lastSeenAt": "2026-10-21T13:44:49.512Z",
-          "currentPriceCents": 278500,
-          "currentPriceEurCents": 763,
-          "referencePriceCents": 278500,
-          "referencePriceEurCents": 763
+          "observedAt": "2026-09-28T16:44:03.713Z",
+          "lastSeenAt": "2026-10-28T15:04:59.594Z",
+          "currentPriceCents": 445,
+          "currentPriceEurCents": 445,
+          "referencePriceCents": 445,
+          "referencePriceEurCents": 445
         },
         {
           "countryCode": "DE",
           "shopId": "dm-de",
           "currency": "EUR",
-          "name": "Rasierklingen, Intuition 2in1 Soap & Shave..., 3 St",
-          "url": "https://www.dm.de/p/d/3124730/wilkinson-sword-rasierklingen-intuition-2in1-soap-und-shave-sensitive",
+          "name": "BIO Gleitgel, 50 ml",
+          "url": "https://www.dm.de/p/d/1426264/ritex-bio-gleitgel",
           "isPromo": false,
-          "observedAt": "2026-10-21T13:44:43.221Z",
-          "lastSeenAt": "2026-10-21T13:44:43.221Z",
-          "currentPriceCents": 1195,
-          "currentPriceEurCents": 1195,
-          "referencePriceCents": 1195,
-          "referencePriceEurCents": 1195
+          "observedAt": "2026-08-31T20:43:25.833Z",
+          "lastSeenAt": "2026-10-28T15:05:11.213Z",
+          "currentPriceCents": 695,
+          "currentPriceEurCents": 695,
+          "referencePriceCents": 695,
+          "referencePriceEurCents": 695
         }
       ]
     }

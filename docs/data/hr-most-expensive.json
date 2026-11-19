@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-18T13:43:28.315Z",
+  "generatedAt": "2026-11-19T14:12:27.801Z",
   "fx": {
-    "asOf": "2026-11-17",
+    "asOf": "2026-11-18",
     "rates": {
-      "USD": 1.0989,
-      "JPY": 175.05,
-      "CZK": 24.387,
-      "DKK": 7.4749,
-      "GBP": 0.83305,
-      "HUF": 364.93,
-      "PLN": 4.4038,
-      "RON": 5.3482,
-      "SEK": 11.11,
-      "CHF": 0.9233,
+      "USD": 1.0968,
+      "JPY": 174.85,
+      "CZK": 24.386,
+      "DKK": 7.4744,
+      "GBP": 0.8329,
+      "HUF": 368.4,
+      "PLN": 4.4118,
+      "RON": 5.3467,
+      "SEK": 11.143,
+      "CHF": 0.9243,
       "ISK": 137,
-      "NOK": 10.5755,
-      "TRY": 55.3987,
-      "AUD": 1.6316,
-      "BRL": 6.3539,
-      "CAD": 1.5704,
-      "CNY": 7.3254,
-      "HKD": 8.6221,
-      "IDR": 20077.73,
-      "ILS": 3.5674,
-      "INR": 102.72,
-      "KRW": 1468.36,
-      "MXN": 20.2895,
-      "MYR": 4.4983,
-      "NZD": 1.9985,
-      "PHP": 69.974,
-      "SGD": 1.4163,
-      "THB": 37.187,
-      "ZAR": 18.6073
+      "NOK": 10.6045,
+      "TRY": 55.3197,
+      "AUD": 1.6294,
+      "BRL": 6.3818,
+      "CAD": 1.569,
+      "CNY": 7.3126,
+      "HKD": 8.6063,
+      "IDR": 20020.71,
+      "ILS": 3.5798,
+      "INR": 102.4905,
+      "KRW": 1461.3,
+      "MXN": 20.3738,
+      "MYR": 4.5144,
+      "NZD": 1.9951,
+      "PHP": 69.832,
+      "SGD": 1.4144,
+      "THB": 37.264,
+      "ZAR": 18.8897
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -112,9 +112,9 @@
           "observedAt": "2026-10-18T12:36:09.737Z",
           "lastSeenAt": "2026-11-17T13:18:13.918Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 822,
+          "currentPriceEurCents": 814,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 822
+          "referencePriceEurCents": 814
         }
       ]
     },
@@ -122,7 +122,7 @@
       "productId": 7605,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 181.82,
+      "overallPercentDiff": 187.04,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -191,9 +191,9 @@
           "observedAt": "2026-09-01T12:30:50.931Z",
           "lastSeenAt": "2026-11-01T15:04:54.221Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 55,
+          "currentPriceEurCents": 54,
           "referencePriceCents": 19900,
-          "referencePriceEurCents": 55
+          "referencePriceEurCents": 54
         }
       ]
     },
@@ -201,7 +201,7 @@
       "productId": 11017,
       "brand": "Aquafresh",
       "isCountryExtreme": true,
-      "overallPercentDiff": 155.47,
+      "overallPercentDiff": 159.26,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -228,46 +228,9 @@
           "observedAt": "2026-09-01T12:32:49.604Z",
           "lastSeenAt": "2026-11-17T13:18:12.228Z",
           "currentPriceCents": 49900,
-          "currentPriceEurCents": 137,
+          "currentPriceEurCents": 135,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 137
-        }
-      ]
-    },
-    {
-      "productId": 10616,
-      "brand": "Christina Aguilera",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 152.4,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Definition edp, 30 ml",
-          "url": "https://www.dm.hr/p/d/1518816/christina-aguilera-definition-edp",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:03.491Z",
-          "lastSeenAt": "2026-10-19T15:34:17.188Z",
-          "currentPriceCents": 2890,
-          "currentPriceEurCents": 2890,
-          "referencePriceCents": 2890,
-          "referencePriceEurCents": 2890
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Definition Eau de Parfum, 30 ml",
-          "url": "https://www.dm.de/p/d/1518816/christina-aguilera-definition-eau-de-parfum",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:27.806Z",
-          "lastSeenAt": "2026-10-19T15:34:30.487Z",
-          "currentPriceCents": 1145,
-          "currentPriceEurCents": 1145,
-          "referencePriceCents": 1145,
-          "referencePriceEurCents": 1145
+          "referencePriceEurCents": 135
         }
       ]
     },
@@ -312,7 +275,7 @@
       "productId": 11106,
       "brand": "Jordan",
       "isCountryExtreme": true,
-      "overallPercentDiff": 145.83,
+      "overallPercentDiff": 147.9,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -353,9 +316,9 @@
           "observedAt": "2026-09-01T12:30:35.474Z",
           "lastSeenAt": "2026-11-11T16:08:07.127Z",
           "currentPriceCents": 43900,
-          "currentPriceEurCents": 120,
+          "currentPriceEurCents": 119,
           "referencePriceCents": 43900,
-          "referencePriceEurCents": 120
+          "referencePriceEurCents": 119
         }
       ]
     },
@@ -363,7 +326,7 @@
       "productId": 12130,
       "brand": "Jordan",
       "isCountryExtreme": true,
-      "overallPercentDiff": 145.83,
+      "overallPercentDiff": 147.9,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -404,9 +367,9 @@
           "observedAt": "2026-09-01T12:30:32.566Z",
           "lastSeenAt": "2026-11-04T12:04:41.720Z",
           "currentPriceCents": 43900,
-          "currentPriceEurCents": 120,
+          "currentPriceEurCents": 119,
           "referencePriceCents": 43900,
-          "referencePriceEurCents": 120
+          "referencePriceEurCents": 119
         }
       ]
     },
@@ -488,7 +451,7 @@
       "productId": 10116,
       "brand": "Signal",
       "isCountryExtreme": true,
-      "overallPercentDiff": 140.51,
+      "overallPercentDiff": 143.59,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -529,9 +492,9 @@
           "observedAt": "2026-09-01T12:29:46.464Z",
           "lastSeenAt": "2026-11-13T12:09:07.830Z",
           "currentPriceCents": 57500,
-          "currentPriceEurCents": 158,
+          "currentPriceEurCents": 156,
           "referencePriceCents": 57500,
-          "referencePriceEurCents": 158
+          "referencePriceEurCents": 156
         }
       ]
     },
@@ -539,7 +502,7 @@
       "productId": 13032,
       "brand": "Signal",
       "isCountryExtreme": true,
-      "overallPercentDiff": 140.51,
+      "overallPercentDiff": 143.59,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -566,9 +529,9 @@
           "observedAt": "2026-09-01T12:29:55.346Z",
           "lastSeenAt": "2026-11-10T12:35:05.271Z",
           "currentPriceCents": 57500,
-          "currentPriceEurCents": 158,
+          "currentPriceEurCents": 156,
           "referencePriceCents": 57500,
-          "referencePriceEurCents": 158
+          "referencePriceEurCents": 156
         }
       ]
     },
@@ -624,6 +587,85 @@
       ]
     },
     {
+      "productId": 12578,
+      "brand": "Balea PROFESSIONAL",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 134.04,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Šampon za obnovu oštećene kose i jačanje korijena..., 250 ml",
+          "url": "https://www.dm.hr/p/d/1624322/balea-professional-sampon-za-obnovu-ostecene-kose-i-jacanje-korijena-kose",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:15.395Z",
+          "lastSeenAt": "2026-11-18T17:13:07.839Z",
+          "currentPriceCents": 330,
+          "currentPriceEurCents": 330,
+          "referencePriceCents": 330,
+          "referencePriceEurCents": 330
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Šampon za lase WACHSTUM + STÄRKE, 250 ml",
+          "url": "https://www.dm.si/p/d/1624322/balea-professional-sampon-za-lase-wachstum-starke",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:05.929Z",
+          "lastSeenAt": "2026-11-18T17:13:03.181Z",
+          "currentPriceCents": 265,
+          "currentPriceEurCents": 265,
+          "referencePriceCents": 265,
+          "referencePriceEurCents": 265
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Shampoo Wachstum und Stärke, 250 ml",
+          "url": "https://www.dm.at/p/d/1624322/balea-professional-shampoo-wachstum-und-staerke",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:13.158Z",
+          "lastSeenAt": "2026-11-18T17:13:15.738Z",
+          "currentPriceCents": 265,
+          "currentPriceEurCents": 265,
+          "referencePriceCents": 265,
+          "referencePriceEurCents": 265
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Shampoo Wachstum + Stärke, 250 ml",
+          "url": "https://www.dm.de/p/d/1624322/balea-professional-shampoo-wachstum-staerke",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:19.091Z",
+          "lastSeenAt": "2026-11-18T17:13:23.877Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 195,
+          "referencePriceEurCents": 195
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Növekedést segítő és hajerősítő sampon, gyenge és..., 250 ml",
+          "url": "https://www.dm.hu/p/d/1624322/balea-professional-novekedest-segito-es-hajerosito-sampon-gyenge-es-toredezett-hajra",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:17.495Z",
+          "lastSeenAt": "2026-11-18T17:13:25.550Z",
+          "currentPriceCents": 51900,
+          "currentPriceEurCents": 141,
+          "referencePriceCents": 51900,
+          "referencePriceEurCents": 141
+        }
+      ]
+    },
+    {
       "productId": 10299,
       "brand": "Dontodent",
       "isCountryExtreme": true,
@@ -638,7 +680,7 @@
           "url": "https://www.dm.hr/p/d/3042366/dontodent-junior-djecja-cetkica-za-zube-mekana-vise-vrsta",
           "isPromo": false,
           "observedAt": "2026-08-30T22:33:01.290Z",
-          "lastSeenAt": "2026-10-19T15:34:17.188Z",
+          "lastSeenAt": "2026-11-18T17:13:07.839Z",
           "currentPriceCents": 175,
           "currentPriceEurCents": 175,
           "referencePriceCents": 175,
@@ -652,7 +694,7 @@
           "url": "https://www.dm.si/p/d/3042366/dontodent-otroska-zobna-scetka-junior-x-cut-mehka-6-let-vec-razlicic",
           "isPromo": false,
           "observedAt": "2026-08-30T22:34:05.929Z",
-          "lastSeenAt": "2026-10-19T15:34:12.359Z",
+          "lastSeenAt": "2026-11-18T17:13:03.181Z",
           "currentPriceCents": 95,
           "currentPriceEurCents": 95,
           "referencePriceCents": 95,
@@ -662,11 +704,11 @@
           "countryCode": "AT",
           "shopId": "dm-at",
           "currency": "EUR",
-          "name": "Zahnbürste Junior sortiert, 2 St",
-          "url": "https://www.dm.at/p/d/3042366/dontodent-zahnbuerste-junior-sortiert",
+          "name": "Zahnbürste Junior X-Cut weich sortiert, 2 St",
+          "url": "https://www.dm.at/p/d/3042366/dontodent-zahnbuerste-junior-x-cut-weich-sortiert",
           "isPromo": false,
           "observedAt": "2026-08-30T22:36:25.759Z",
-          "lastSeenAt": "2026-10-19T15:34:25.335Z",
+          "lastSeenAt": "2026-11-18T17:13:13.764Z",
           "currentPriceCents": 115,
           "currentPriceEurCents": 115,
           "referencePriceCents": 115,
@@ -680,7 +722,7 @@
           "url": "https://www.dm.de/p/d/3042366/dontodent-zahnbuerste-junior-x-cut-weich",
           "isPromo": false,
           "observedAt": "2026-08-31T20:41:13.515Z",
-          "lastSeenAt": "2026-10-19T15:34:33.938Z",
+          "lastSeenAt": "2026-11-18T17:13:23.877Z",
           "currentPriceCents": 75,
           "currentPriceEurCents": 75,
           "referencePriceCents": 75,
@@ -694,90 +736,11 @@
           "url": "https://www.dm.hu/p/d/3042366/dontodent-fogkefe-x-profilu-sortekkel-gyermekeknek-6-eves-kortol-puha-tobbfele",
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:04.184Z",
-          "lastSeenAt": "2026-10-19T15:34:37.210Z",
+          "lastSeenAt": "2026-11-18T17:13:27.543Z",
           "currentPriceCents": 37900,
-          "currentPriceEurCents": 104,
+          "currentPriceEurCents": 103,
           "referencePriceCents": 37900,
-          "referencePriceEurCents": 104
-        }
-      ]
-    },
-    {
-      "productId": 12578,
-      "brand": "Balea PROFESSIONAL",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 132.39,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Šampon za obnovu oštećene kose i jačanje korijena..., 250 ml",
-          "url": "https://www.dm.hr/p/d/1624322/balea-professional-sampon-za-obnovu-ostecene-kose-i-jacanje-korijena-kose",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:15.395Z",
-          "lastSeenAt": "2026-10-19T15:34:17.188Z",
-          "currentPriceCents": 330,
-          "currentPriceEurCents": 330,
-          "referencePriceCents": 330,
-          "referencePriceEurCents": 330
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Šampon za lase WACHSTUM + STÄRKE, 250 ml",
-          "url": "https://www.dm.si/p/d/1624322/balea-professional-sampon-za-lase-wachstum-starke",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:05.929Z",
-          "lastSeenAt": "2026-10-19T15:34:12.359Z",
-          "currentPriceCents": 265,
-          "currentPriceEurCents": 265,
-          "referencePriceCents": 265,
-          "referencePriceEurCents": 265
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Shampoo Wachstum und Stärke, 250 ml",
-          "url": "https://www.dm.at/p/d/1624322/balea-professional-shampoo-wachstum-und-staerke",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:13.158Z",
-          "lastSeenAt": "2026-10-19T15:34:27.141Z",
-          "currentPriceCents": 265,
-          "currentPriceEurCents": 265,
-          "referencePriceCents": 265,
-          "referencePriceEurCents": 265
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Shampoo Wachstum + Stärke, 250 ml",
-          "url": "https://www.dm.de/p/d/1624322/balea-professional-shampoo-wachstum-staerke",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:19.091Z",
-          "lastSeenAt": "2026-10-19T15:34:33.938Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Növekedést segítő és hajerősítő sampon, gyenge és..., 250 ml",
-          "url": "https://www.dm.hu/p/d/1624322/balea-professional-novekedest-segito-es-hajerosito-sampon-gyenge-es-toredezett-hajra",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:17.495Z",
-          "lastSeenAt": "2026-10-19T15:34:35.501Z",
-          "currentPriceCents": 51900,
-          "currentPriceEurCents": 142,
-          "referencePriceCents": 51900,
-          "referencePriceEurCents": 142
+          "referencePriceEurCents": 103
         }
       ]
     },
@@ -785,7 +748,7 @@
       "productId": 2245,
       "brand": "Dontodent PRO+",
       "isCountryExtreme": true,
-      "overallPercentDiff": 123.58,
+      "overallPercentDiff": 125.41,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -854,9 +817,9 @@
           "observedAt": "2026-11-16T18:29:01.872Z",
           "lastSeenAt": "2026-11-16T18:29:01.872Z",
           "currentPriceCents": 44900,
-          "currentPriceEurCents": 123,
+          "currentPriceEurCents": 122,
           "referencePriceCents": 44900,
-          "referencePriceEurCents": 123
+          "referencePriceEurCents": 122
         }
       ]
     },
@@ -864,7 +827,7 @@
       "productId": 6100,
       "brand": "Dontodent PRO+",
       "isCountryExtreme": true,
-      "overallPercentDiff": 123.58,
+      "overallPercentDiff": 125.41,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -933,9 +896,9 @@
           "observedAt": "2026-09-01T12:31:30.809Z",
           "lastSeenAt": "2026-11-01T15:04:50.279Z",
           "currentPriceCents": 44900,
-          "currentPriceEurCents": 123,
+          "currentPriceEurCents": 122,
           "referencePriceCents": 44900,
-          "referencePriceEurCents": 123
+          "referencePriceEurCents": 122
         }
       ]
     },
@@ -943,7 +906,7 @@
       "productId": 11378,
       "brand": "Signal",
       "isCountryExtreme": true,
-      "overallPercentDiff": 121.52,
+      "overallPercentDiff": 124.36,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -984,9 +947,9 @@
           "observedAt": "2026-09-01T12:29:59.422Z",
           "lastSeenAt": "2026-10-25T13:10:26.624Z",
           "currentPriceCents": 57500,
-          "currentPriceEurCents": 158,
+          "currentPriceEurCents": 156,
           "referencePriceCents": 57500,
-          "referencePriceEurCents": 158
+          "referencePriceEurCents": 156
         }
       ]
     },
@@ -994,7 +957,7 @@
       "productId": 12425,
       "brand": "Oral-B",
       "isCountryExtreme": true,
-      "overallPercentDiff": 118.31,
+      "overallPercentDiff": 120.38,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1021,9 +984,9 @@
           "observedAt": "2026-09-01T12:32:13.914Z",
           "lastSeenAt": "2026-11-14T11:26:01.094Z",
           "currentPriceCents": 77900,
-          "currentPriceEurCents": 213,
+          "currentPriceEurCents": 211,
           "referencePriceCents": 77900,
-          "referencePriceEurCents": 213
+          "referencePriceEurCents": 211
         }
       ]
     },
@@ -1100,9 +1063,9 @@
           "observedAt": "2026-09-01T12:32:04.843Z",
           "lastSeenAt": "2026-10-24T12:39:23.327Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 246,
+          "currentPriceEurCents": 244,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 246
+          "referencePriceEurCents": 244
         }
       ]
     },
@@ -1140,6 +1103,80 @@
           "currentPriceEurCents": 145,
           "referencePriceCents": 145,
           "referencePriceEurCents": 145
+        }
+      ]
+    },
+    {
+      "productId": 1159,
+      "brand": "Jordan",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 113.07,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Dječja četkica za zube Step By Step, 6 – 9 god.,..., 2 kom.",
+          "url": "https://www.dm.hr/p/d/2946187/jordan-djecja-cetkica-za-zube-step-by-step-6-9-god-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:50:17.739Z",
+          "lastSeenAt": "2026-11-07T14:53:24.113Z",
+          "currentPriceCents": 375,
+          "currentPriceEurCents": 375,
+          "referencePriceCents": 375,
+          "referencePriceEurCents": 375
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkefe gyerek 6-9 éves korig (többféle), 2 db",
+          "url": "https://www.dm.hu/p/d/2946187/jordan-fogkefe-gyerek-6-9-eves-korig-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:33:05.046Z",
+          "lastSeenAt": "2026-11-07T14:53:41.614Z",
+          "currentPriceCents": 64900,
+          "currentPriceEurCents": 176,
+          "referencePriceCents": 64900,
+          "referencePriceEurCents": 176
+        }
+      ]
+    },
+    {
+      "productId": 1188,
+      "brand": "Jordan",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 113.07,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Dječja četkica za zube Step By Step, 3 – 5 god.,..., 2 kom.",
+          "url": "https://www.dm.hr/p/d/2946186/jordan-djecja-cetkica-za-zube-step-by-step-3-5-god-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:50:30.531Z",
+          "lastSeenAt": "2026-11-06T12:04:15.764Z",
+          "currentPriceCents": 375,
+          "currentPriceEurCents": 375,
+          "referencePriceCents": 375,
+          "referencePriceEurCents": 375
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkefe gyerek 3-5 éves korig (többféle), 2 db",
+          "url": "https://www.dm.hu/p/d/2946186/jordan-fogkefe-gyerek-3-5-eves-korig-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:32.566Z",
+          "lastSeenAt": "2026-11-06T12:04:35.434Z",
+          "currentPriceCents": 64900,
+          "currentPriceEurCents": 176,
+          "referencePriceCents": 64900,
+          "referencePriceEurCents": 176
         }
       ]
     },
@@ -1195,84 +1232,10 @@
       ]
     },
     {
-      "productId": 1159,
-      "brand": "Jordan",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 110.67,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Dječja četkica za zube Step By Step, 6 – 9 god.,..., 2 kom.",
-          "url": "https://www.dm.hr/p/d/2946187/jordan-djecja-cetkica-za-zube-step-by-step-6-9-god-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:50:17.739Z",
-          "lastSeenAt": "2026-11-07T14:53:24.113Z",
-          "currentPriceCents": 375,
-          "currentPriceEurCents": 375,
-          "referencePriceCents": 375,
-          "referencePriceEurCents": 375
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkefe gyerek 6-9 éves korig (többféle), 2 db",
-          "url": "https://www.dm.hu/p/d/2946187/jordan-fogkefe-gyerek-6-9-eves-korig-tobbfele",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:33:05.046Z",
-          "lastSeenAt": "2026-11-07T14:53:41.614Z",
-          "currentPriceCents": 64900,
-          "currentPriceEurCents": 178,
-          "referencePriceCents": 64900,
-          "referencePriceEurCents": 178
-        }
-      ]
-    },
-    {
-      "productId": 1188,
-      "brand": "Jordan",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 110.67,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Dječja četkica za zube Step By Step, 3 – 5 god.,..., 2 kom.",
-          "url": "https://www.dm.hr/p/d/2946186/jordan-djecja-cetkica-za-zube-step-by-step-3-5-god-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:50:30.531Z",
-          "lastSeenAt": "2026-11-06T12:04:15.764Z",
-          "currentPriceCents": 375,
-          "currentPriceEurCents": 375,
-          "referencePriceCents": 375,
-          "referencePriceEurCents": 375
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkefe gyerek 3-5 éves korig (többféle), 2 db",
-          "url": "https://www.dm.hu/p/d/2946186/jordan-fogkefe-gyerek-3-5-eves-korig-tobbfele",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:32.566Z",
-          "lastSeenAt": "2026-11-06T12:04:35.434Z",
-          "currentPriceCents": 64900,
-          "currentPriceEurCents": 178,
-          "referencePriceCents": 64900,
-          "referencePriceEurCents": 178
-        }
-      ]
-    },
-    {
       "productId": 5201,
       "brand": "Balea PROFESSIONAL",
       "isCountryExtreme": true,
-      "overallPercentDiff": 107.75,
+      "overallPercentDiff": 109.22,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1341,9 +1304,46 @@
           "observedAt": "2026-09-01T12:31:35.276Z",
           "lastSeenAt": "2026-11-15T15:38:48.145Z",
           "currentPriceCents": 51900,
-          "currentPriceEurCents": 142,
+          "currentPriceEurCents": 141,
           "referencePriceCents": 51900,
-          "referencePriceEurCents": 142
+          "referencePriceEurCents": 141
+        }
+      ]
+    },
+    {
+      "productId": 2237,
+      "brand": "Aquafresh",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 109.09,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Clean & Flex četkica za zube, 2 kom.",
+          "url": "https://www.dm.hr/p/d/2366978/aquafresh-clean-flex-cetkica-za-zube",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:57:32.685Z",
+          "lastSeenAt": "2026-10-24T12:39:10.081Z",
+          "currentPriceCents": 345,
+          "currentPriceEurCents": 345,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkefe clean&flex duopack (többféle), 2 db",
+          "url": "https://www.dm.hu/p/d/2366978/aquafresh-fogkefe-clean-flex-duopack-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:42.358Z",
+          "lastSeenAt": "2026-10-24T12:39:23.327Z",
+          "currentPriceCents": 60900,
+          "currentPriceEurCents": 165,
+          "referencePriceCents": 60900,
+          "referencePriceEurCents": 165
         }
       ]
     },
@@ -1450,47 +1450,10 @@
       ]
     },
     {
-      "productId": 2237,
-      "brand": "Aquafresh",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 106.59,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Clean & Flex četkica za zube, 2 kom.",
-          "url": "https://www.dm.hr/p/d/2366978/aquafresh-clean-flex-cetkica-za-zube",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:57:32.685Z",
-          "lastSeenAt": "2026-10-24T12:39:10.081Z",
-          "currentPriceCents": 345,
-          "currentPriceEurCents": 345,
-          "referencePriceCents": 345,
-          "referencePriceEurCents": 345
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkefe clean&flex duopack (többféle), 2 db",
-          "url": "https://www.dm.hu/p/d/2366978/aquafresh-fogkefe-clean-flex-duopack-tobbfele",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:42.358Z",
-          "lastSeenAt": "2026-10-24T12:39:23.327Z",
-          "currentPriceCents": 60900,
-          "currentPriceEurCents": 167,
-          "referencePriceCents": 60900,
-          "referencePriceEurCents": 167
-        }
-      ]
-    },
-    {
       "productId": 2197,
       "brand": "Aquafresh",
       "isCountryExtreme": true,
-      "overallPercentDiff": 104.02,
+      "overallPercentDiff": 106.4,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1517,9 +1480,46 @@
           "observedAt": "2026-09-01T12:29:59.422Z",
           "lastSeenAt": "2026-10-28T15:05:18.088Z",
           "currentPriceCents": 63500,
-          "currentPriceEurCents": 174,
+          "currentPriceEurCents": 172,
           "referencePriceCents": 63500,
-          "referencePriceEurCents": 174
+          "referencePriceEurCents": 172
+        }
+      ]
+    },
+    {
+      "productId": 7648,
+      "brand": "trend !t up",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 103.7,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Powder Blush rumenilo – 090 Purpur, 5 g",
+          "url": "https://www.dm.hr/p/d/3043238/trend-t-up-powder-blush-rumenilo-090-purpur",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:45.205Z",
+          "lastSeenAt": "2026-11-13T12:08:44.682Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Arcpirosító, 090 Purpur, 2 g",
+          "url": "https://www.dm.hu/p/d/3043238/trend-t-up-arcpirosito-090-purpur",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:55.609Z",
+          "lastSeenAt": "2026-11-13T12:09:04.712Z",
+          "currentPriceCents": 49900,
+          "currentPriceEurCents": 135,
+          "referencePriceCents": 49900,
+          "referencePriceEurCents": 135
         }
       ]
     },
@@ -1596,9 +1596,9 @@
           "observedAt": "2026-09-01T12:32:02.558Z",
           "lastSeenAt": "2026-10-27T14:27:30.381Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 274,
+          "currentPriceEurCents": 271,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 274
+          "referencePriceEurCents": 271
         }
       ]
     },

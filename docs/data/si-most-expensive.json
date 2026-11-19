@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-18T13:43:28.315Z",
+  "generatedAt": "2026-11-19T14:12:27.801Z",
   "fx": {
-    "asOf": "2026-11-17",
+    "asOf": "2026-11-18",
     "rates": {
-      "USD": 1.0989,
-      "JPY": 175.05,
-      "CZK": 24.387,
-      "DKK": 7.4749,
-      "GBP": 0.83305,
-      "HUF": 364.93,
-      "PLN": 4.4038,
-      "RON": 5.3482,
-      "SEK": 11.11,
-      "CHF": 0.9233,
+      "USD": 1.0968,
+      "JPY": 174.85,
+      "CZK": 24.386,
+      "DKK": 7.4744,
+      "GBP": 0.8329,
+      "HUF": 368.4,
+      "PLN": 4.4118,
+      "RON": 5.3467,
+      "SEK": 11.143,
+      "CHF": 0.9243,
       "ISK": 137,
-      "NOK": 10.5755,
-      "TRY": 55.3987,
-      "AUD": 1.6316,
-      "BRL": 6.3539,
-      "CAD": 1.5704,
-      "CNY": 7.3254,
-      "HKD": 8.6221,
-      "IDR": 20077.73,
-      "ILS": 3.5674,
-      "INR": 102.72,
-      "KRW": 1468.36,
-      "MXN": 20.2895,
-      "MYR": 4.4983,
-      "NZD": 1.9985,
-      "PHP": 69.974,
-      "SGD": 1.4163,
-      "THB": 37.187,
-      "ZAR": 18.6073
+      "NOK": 10.6045,
+      "TRY": 55.3197,
+      "AUD": 1.6294,
+      "BRL": 6.3818,
+      "CAD": 1.569,
+      "CNY": 7.3126,
+      "HKD": 8.6063,
+      "IDR": 20020.71,
+      "ILS": 3.5798,
+      "INR": 102.4905,
+      "KRW": 1461.3,
+      "MXN": 20.3738,
+      "MYR": 4.5144,
+      "NZD": 1.9951,
+      "PHP": 69.832,
+      "SGD": 1.4144,
+      "THB": 37.264,
+      "ZAR": 18.8897
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -200,9 +200,9 @@
           "observedAt": "2026-09-01T12:30:17.495Z",
           "lastSeenAt": "2026-10-28T15:05:22.610Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 246,
+          "currentPriceEurCents": 244,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 246
+          "referencePriceEurCents": 244
         }
       ]
     },
@@ -210,7 +210,7 @@
       "productId": 5466,
       "brand": "Jordan",
       "isCountryExtreme": true,
-      "overallPercentDiff": 180.61,
+      "overallPercentDiff": 183.51,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -237,9 +237,125 @@
           "observedAt": "2026-09-01T12:30:01.877Z",
           "lastSeenAt": "2026-10-23T13:22:57.120Z",
           "currentPriceCents": 35900,
-          "currentPriceEurCents": 98,
+          "currentPriceEurCents": 97,
           "referencePriceCents": 35900,
-          "referencePriceEurCents": 98
+          "referencePriceEurCents": 97
+        }
+      ]
+    },
+    {
+      "productId": 9537,
+      "brand": "Balea",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 171.6,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Kremasto-uljna kupka Soft Lotus Dream, 500 ml",
+          "url": "https://www.dm.hr/p/d/3090716/balea-kremasto-uljna-kupka-soft-lotus-dream",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:56.123Z",
+          "lastSeenAt": "2026-11-18T17:13:07.839Z",
+          "currentPriceCents": 215,
+          "currentPriceEurCents": 215,
+          "referencePriceCents": 215,
+          "referencePriceEurCents": 215
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Kremna kopel na oljni osnovi Soft LOTUS DREAM, 500 ml",
+          "url": "https://www.dm.si/p/d/3090716/balea-kremna-kopel-na-oljni-osnovi-soft-lotus-dream",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:57.723Z",
+          "lastSeenAt": "2026-11-18T17:13:00.048Z",
+          "currentPriceCents": 220,
+          "currentPriceEurCents": 220,
+          "referencePriceCents": 220,
+          "referencePriceEurCents": 220
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Badezusatz Creme-Öl Lotus Dream, 500 ml",
+          "url": "https://www.dm.at/p/d/3090716/balea-badezusatz-creme-oel-lotus-dream",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:34.775Z",
+          "lastSeenAt": "2026-11-18T17:13:11.432Z",
+          "currentPriceCents": 215,
+          "currentPriceEurCents": 215,
+          "referencePriceCents": 215,
+          "referencePriceEurCents": 215
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Krémes-olajos habfürdő Soft Lotus Dream,..., 500 ml",
+          "url": "https://www.dm.hu/p/d/3090716/balea-kremes-olajos-habfurdo-soft-lotus-dream-sargabarackmag-olajjal-es-lotuszvirag-kivonattal",
+          "isPromo": false,
+          "observedAt": "2026-10-19T15:34:35.501Z",
+          "lastSeenAt": "2026-11-18T17:13:25.550Z",
+          "currentPriceCents": 29900,
+          "currentPriceEurCents": 81,
+          "referencePriceCents": 29900,
+          "referencePriceEurCents": 81
+        }
+      ]
+    },
+    {
+      "productId": 11188,
+      "brand": "Balea",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 171.6,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Kremasto-uljna kupka Sweet Cherry Moment, 500 ml",
+          "url": "https://www.dm.hr/p/d/3090762/balea-kremasto-uljna-kupka-sweet-cherry-moment",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:07.072Z",
+          "lastSeenAt": "2026-11-11T16:07:48.455Z",
+          "currentPriceCents": 215,
+          "currentPriceEurCents": 215,
+          "referencePriceCents": 215,
+          "referencePriceEurCents": 215
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Kremna kopel na oljni osnovi Sweet CHERRY MOMENT, 500 ml",
+          "url": "https://www.dm.si/p/d/3090762/balea-kremna-kopel-na-oljni-osnovi-sweet-cherry-moment",
+          "isPromo": false,
+          "observedAt": "2026-11-11T16:07:49.950Z",
+          "lastSeenAt": "2026-11-11T16:07:49.950Z",
+          "currentPriceCents": 220,
+          "currentPriceEurCents": 220,
+          "referencePriceCents": 220,
+          "referencePriceEurCents": 220
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Krémes-olajos habfürdő Sweet Cherry Moment, 500 ml",
+          "url": "https://www.dm.hu/p/d/3090762/balea-kremes-olajos-habfurdo-sweet-cherry-moment",
+          "isPromo": false,
+          "observedAt": "2026-10-12T17:51:40.619Z",
+          "lastSeenAt": "2026-11-11T16:08:03.442Z",
+          "currentPriceCents": 29900,
+          "currentPriceEurCents": 81,
+          "referencePriceCents": 29900,
+          "referencePriceEurCents": 81
         }
       ]
     },
@@ -316,9 +432,9 @@
           "observedAt": "2026-09-01T12:32:04.843Z",
           "lastSeenAt": "2026-11-11T16:08:03.442Z",
           "currentPriceCents": 29900,
-          "currentPriceEurCents": 82,
+          "currentPriceEurCents": 81,
           "referencePriceCents": 29900,
-          "referencePriceEurCents": 82
+          "referencePriceEurCents": 81
         }
       ]
     },
@@ -395,139 +511,9 @@
           "observedAt": "2026-09-01T12:31:46.773Z",
           "lastSeenAt": "2026-10-23T13:22:55.166Z",
           "currentPriceCents": 29900,
-          "currentPriceEurCents": 82,
+          "currentPriceEurCents": 81,
           "referencePriceCents": 29900,
-          "referencePriceEurCents": 82
-        }
-      ]
-    },
-    {
-      "productId": 9537,
-      "brand": "Balea",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 168.29,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Kremasto-uljna kupka Soft Lotus Dream, 500 ml",
-          "url": "https://www.dm.hr/p/d/3090716/balea-kremasto-uljna-kupka-soft-lotus-dream",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:56.123Z",
-          "lastSeenAt": "2026-10-19T15:34:17.188Z",
-          "currentPriceCents": 215,
-          "currentPriceEurCents": 215,
-          "referencePriceCents": 215,
-          "referencePriceEurCents": 215
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Kremna kopel na oljni osnovi Soft LOTUS DREAM, 500 ml",
-          "url": "https://www.dm.si/p/d/3090716/balea-kremna-kopel-na-oljni-osnovi-soft-lotus-dream",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:57.723Z",
-          "lastSeenAt": "2026-10-19T15:34:09.260Z",
-          "currentPriceCents": 220,
-          "currentPriceEurCents": 220,
-          "referencePriceCents": 220,
-          "referencePriceEurCents": 220
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Badezusatz Creme-Öl Lotus Dream, 500 ml",
-          "url": "https://www.dm.at/p/d/3090716/balea-badezusatz-creme-oel-lotus-dream",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:34.775Z",
-          "lastSeenAt": "2026-10-19T15:34:22.548Z",
-          "currentPriceCents": 215,
-          "currentPriceEurCents": 215,
-          "referencePriceCents": 215,
-          "referencePriceEurCents": 215
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Creme-Öl Bad Soft LOTUS DREAM, 500 ml",
-          "url": "https://www.dm.de/p/d/3090716/balea-creme-oel-bad-soft-lotus-dream",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:19.020Z",
-          "lastSeenAt": "2026-10-19T15:34:32.211Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Krémes-olajos habfürdő Soft Lotus Dream,..., 500 ml",
-          "url": "https://www.dm.hu/p/d/3090716/balea-kremes-olajos-habfurdo-soft-lotus-dream-sargabarackmag-olajjal-es-lotuszvirag-kivonattal",
-          "isPromo": false,
-          "observedAt": "2026-10-19T15:34:35.501Z",
-          "lastSeenAt": "2026-10-19T15:34:35.501Z",
-          "currentPriceCents": 29900,
-          "currentPriceEurCents": 82,
-          "referencePriceCents": 29900,
-          "referencePriceEurCents": 82
-        }
-      ]
-    },
-    {
-      "productId": 11188,
-      "brand": "Balea",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 168.29,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Kremasto-uljna kupka Sweet Cherry Moment, 500 ml",
-          "url": "https://www.dm.hr/p/d/3090762/balea-kremasto-uljna-kupka-sweet-cherry-moment",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:07.072Z",
-          "lastSeenAt": "2026-11-11T16:07:48.455Z",
-          "currentPriceCents": 215,
-          "currentPriceEurCents": 215,
-          "referencePriceCents": 215,
-          "referencePriceEurCents": 215
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Kremna kopel na oljni osnovi Sweet CHERRY MOMENT, 500 ml",
-          "url": "https://www.dm.si/p/d/3090762/balea-kremna-kopel-na-oljni-osnovi-sweet-cherry-moment",
-          "isPromo": false,
-          "observedAt": "2026-11-11T16:07:49.950Z",
-          "lastSeenAt": "2026-11-11T16:07:49.950Z",
-          "currentPriceCents": 220,
-          "currentPriceEurCents": 220,
-          "referencePriceCents": 220,
-          "referencePriceEurCents": 220
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Krémes-olajos habfürdő Sweet Cherry Moment, 500 ml",
-          "url": "https://www.dm.hu/p/d/3090762/balea-kremes-olajos-habfurdo-sweet-cherry-moment",
-          "isPromo": false,
-          "observedAt": "2026-10-12T17:51:40.619Z",
-          "lastSeenAt": "2026-11-11T16:08:03.442Z",
-          "currentPriceCents": 29900,
-          "currentPriceEurCents": 82,
-          "referencePriceCents": 29900,
-          "referencePriceEurCents": 82
+          "referencePriceEurCents": 81
         }
       ]
     },
@@ -604,9 +590,9 @@
           "observedAt": "2026-09-01T12:32:09.419Z",
           "lastSeenAt": "2026-11-15T15:38:48.145Z",
           "currentPriceCents": 74900,
-          "currentPriceEurCents": 205,
+          "currentPriceEurCents": 203,
           "referencePriceCents": 74900,
-          "referencePriceEurCents": 205
+          "referencePriceEurCents": 203
         }
       ]
     },
@@ -614,7 +600,7 @@
       "productId": 7970,
       "brand": "Gillette Venus",
       "isCountryExtreme": true,
-      "overallPercentDiff": 153.7,
+      "overallPercentDiff": 156.55,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -655,9 +641,9 @@
           "observedAt": "2026-09-01T12:30:13.724Z",
           "lastSeenAt": "2026-11-08T15:09:24.786Z",
           "currentPriceCents": 196900,
-          "currentPriceEurCents": 540,
+          "currentPriceEurCents": 534,
           "referencePriceCents": 196900,
-          "referencePriceEurCents": 540
+          "referencePriceEurCents": 534
         }
       ]
     },
@@ -706,9 +692,9 @@
           "observedAt": "2026-09-28T16:44:26.494Z",
           "lastSeenAt": "2026-10-28T15:05:22.610Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 274,
+          "currentPriceEurCents": 271,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 274
+          "referencePriceEurCents": 271
         }
       ]
     },
@@ -753,7 +739,7 @@
       "productId": 1190,
       "brand": "Balea PROFESSIONAL",
       "isCountryExtreme": true,
-      "overallPercentDiff": 144.83,
+      "overallPercentDiff": 146.53,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -780,9 +766,60 @@
           "observedAt": "2026-10-17T12:10:22.820Z",
           "lastSeenAt": "2026-11-16T18:29:01.872Z",
           "currentPriceCents": 29900,
-          "currentPriceEurCents": 82,
+          "currentPriceEurCents": 81,
           "referencePriceCents": 52900,
-          "referencePriceEurCents": 145
+          "referencePriceEurCents": 144
+        }
+      ]
+    },
+    {
+      "productId": 10884,
+      "brand": "WILKINSON SWORD",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 143.83,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Extra 2 Beauty jednokratni brijač, 7 kom.",
+          "url": "https://www.dm.hr/p/d/2030477/wilkinson-sword-extra-2-beauty-jednokratni-brijac",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:04.766Z",
+          "lastSeenAt": "2026-10-30T15:01:33.514Z",
+          "currentPriceCents": 350,
+          "currentPriceEurCents": 350,
+          "referencePriceCents": 350,
+          "referencePriceEurCents": 350
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Damski brivnik za enkratno uporabo Extra2 My..., 7 kos",
+          "url": "https://www.dm.si/p/d/2030477/wilkinson-sword-damski-brivnik-za-enkratno-uporabo-extra2-my-intuition",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:06.418Z",
+          "lastSeenAt": "2026-10-30T15:01:36.549Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Eldobható borotva Xtra 2 My Intuition Essentials, 5 db",
+          "url": "https://www.dm.hu/p/d/2030477/wilkinson-sword-eldobhato-borotva-xtra-2-my-intuition-essentials",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:45.278Z",
+          "lastSeenAt": "2026-10-30T15:01:53.484Z",
+          "currentPriceCents": 59500,
+          "currentPriceEurCents": 162,
+          "referencePriceCents": 59500,
+          "referencePriceEurCents": 162
         }
       ]
     },
@@ -917,61 +954,10 @@
       ]
     },
     {
-      "productId": 10884,
-      "brand": "WILKINSON SWORD",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 142.33,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Extra 2 Beauty jednokratni brijač, 7 kom.",
-          "url": "https://www.dm.hr/p/d/2030477/wilkinson-sword-extra-2-beauty-jednokratni-brijac",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:04.766Z",
-          "lastSeenAt": "2026-10-30T15:01:33.514Z",
-          "currentPriceCents": 350,
-          "currentPriceEurCents": 350,
-          "referencePriceCents": 350,
-          "referencePriceEurCents": 350
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Damski brivnik za enkratno uporabo Extra2 My..., 7 kos",
-          "url": "https://www.dm.si/p/d/2030477/wilkinson-sword-damski-brivnik-za-enkratno-uporabo-extra2-my-intuition",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:06.418Z",
-          "lastSeenAt": "2026-10-30T15:01:36.549Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Eldobható borotva Xtra 2 My Intuition Essentials, 5 db",
-          "url": "https://www.dm.hu/p/d/2030477/wilkinson-sword-eldobhato-borotva-xtra-2-my-intuition-essentials",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:45.278Z",
-          "lastSeenAt": "2026-10-30T15:01:53.484Z",
-          "currentPriceCents": 59500,
-          "currentPriceEurCents": 163,
-          "referencePriceCents": 59500,
-          "referencePriceEurCents": 163
-        }
-      ]
-    },
-    {
       "productId": 6347,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 140.85,
+      "overallPercentDiff": 142.33,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1040,74 +1026,9 @@
           "observedAt": "2026-09-01T12:30:55.609Z",
           "lastSeenAt": "2026-10-29T15:12:47.095Z",
           "currentPriceCents": 59900,
-          "currentPriceEurCents": 164,
+          "currentPriceEurCents": 163,
           "referencePriceCents": 59900,
-          "referencePriceEurCents": 164
-        }
-      ]
-    },
-    {
-      "productId": 26541,
-      "brand": "s.Oliver",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 140.7,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Eau de Toilette Simply Us Women, 30 ml",
-          "url": "https://www.dm.at/p/d/3121429/s-oliver-eau-de-toilette-simply-us-women",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:52.153Z",
-          "lastSeenAt": "2026-10-19T15:34:27.141Z",
-          "currentPriceCents": 1495,
-          "currentPriceEurCents": 1495,
-          "referencePriceCents": 1495,
-          "referencePriceEurCents": 1495
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Női EdT SIMPLY US, 30 ml",
-          "url": "https://www.dm.hu/p/d/3121429/s-oliver-noi-edt-simply-us",
-          "isPromo": false,
-          "observedAt": "2026-10-19T15:34:35.501Z",
-          "lastSeenAt": "2026-10-19T15:34:35.501Z",
-          "currentPriceCents": 599900,
-          "currentPriceEurCents": 1644,
-          "referencePriceCents": 599900,
-          "referencePriceEurCents": 1644
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Toaletna voda za ženske Simply Us, 30 ml",
-          "url": "https://www.dm.si/p/d/3121429/s-oliver-toaletna-voda-za-zenske-simply-us",
-          "isPromo": false,
-          "observedAt": "2026-10-19T15:34:09.260Z",
-          "lastSeenAt": "2026-10-19T15:34:09.260Z",
-          "currentPriceCents": 2395,
-          "currentPriceEurCents": 2395,
-          "referencePriceCents": 2395,
-          "referencePriceEurCents": 2395
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Simply Us Women Eau de Toilette, 30 ml",
-          "url": "https://www.dm.de/p/d/3121429/s-oliver-simply-us-women-eau-de-toilette",
-          "isPromo": false,
-          "observedAt": "2026-10-19T15:34:28.669Z",
-          "lastSeenAt": "2026-10-19T15:34:28.669Z",
-          "currentPriceCents": 995,
-          "currentPriceEurCents": 995,
-          "referencePriceCents": 995,
-          "referencePriceEurCents": 995
+          "referencePriceEurCents": 163
         }
       ]
     },
@@ -1115,7 +1036,7 @@
       "productId": 667,
       "brand": "Balea med",
       "isCountryExtreme": true,
-      "overallPercentDiff": 138.74,
+      "overallPercentDiff": 140.91,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1184,9 +1105,153 @@
           "observedAt": "2026-09-01T12:31:37.751Z",
           "lastSeenAt": "2026-11-12T16:47:01.536Z",
           "currentPriceCents": 40500,
-          "currentPriceEurCents": 111,
+          "currentPriceEurCents": 110,
           "referencePriceCents": 40500,
-          "referencePriceEurCents": 111
+          "referencePriceEurCents": 110
+        }
+      ]
+    },
+    {
+      "productId": 26541,
+      "brand": "s.Oliver",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 140.7,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Eau de Toilette Simply Us Women, 30 ml",
+          "url": "https://www.dm.at/p/d/3121429/s-oliver-eau-de-toilette-simply-us-women",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:52.153Z",
+          "lastSeenAt": "2026-11-18T17:13:15.738Z",
+          "currentPriceCents": 1495,
+          "currentPriceEurCents": 1495,
+          "referencePriceCents": 1495,
+          "referencePriceEurCents": 1495
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Női EdT SIMPLY US, 30 ml",
+          "url": "https://www.dm.hu/p/d/3121429/s-oliver-noi-edt-simply-us",
+          "isPromo": false,
+          "observedAt": "2026-10-19T15:34:35.501Z",
+          "lastSeenAt": "2026-11-18T17:13:25.550Z",
+          "currentPriceCents": 599900,
+          "currentPriceEurCents": 1628,
+          "referencePriceCents": 599900,
+          "referencePriceEurCents": 1628
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Toaletna voda za ženske Simply Us, 30 ml",
+          "url": "https://www.dm.si/p/d/3121429/s-oliver-toaletna-voda-za-zenske-simply-us",
+          "isPromo": false,
+          "observedAt": "2026-10-19T15:34:09.260Z",
+          "lastSeenAt": "2026-11-18T17:13:00.048Z",
+          "currentPriceCents": 2395,
+          "currentPriceEurCents": 2395,
+          "referencePriceCents": 2395,
+          "referencePriceEurCents": 2395
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Simply Us Women Eau de Toilette, 30 ml",
+          "url": "https://www.dm.de/p/d/3121429/s-oliver-simply-us-women-eau-de-toilette",
+          "isPromo": false,
+          "observedAt": "2026-10-19T15:34:28.669Z",
+          "lastSeenAt": "2026-11-18T17:13:17.468Z",
+          "currentPriceCents": 995,
+          "currentPriceEurCents": 995,
+          "referencePriceCents": 995,
+          "referencePriceEurCents": 995
+        },
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Simply Us edt, 30 ml",
+          "url": "https://www.dm.hr/p/d/3121429/s-oliver-simply-us-edt",
+          "isPromo": false,
+          "observedAt": "2026-11-18T17:13:05.561Z",
+          "lastSeenAt": "2026-11-18T17:13:05.561Z",
+          "currentPriceCents": 1450,
+          "currentPriceEurCents": 1450,
+          "referencePriceCents": 1450,
+          "referencePriceEurCents": 1450
+        }
+      ]
+    },
+    {
+      "productId": 7293,
+      "brand": "BIC",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 137.86,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Miss Soleil jednokratne britvice colour collection, 4 kom.",
+          "url": "https://www.dm.hr/p/d/1869333/bic-miss-soleil-jednokratne-britvice-colour-collection",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:42.747Z",
+          "lastSeenAt": "2026-10-30T15:01:33.514Z",
+          "currentPriceCents": 450,
+          "currentPriceEurCents": 450,
+          "referencePriceCents": 450,
+          "referencePriceEurCents": 450
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Damski brivnik za enkratno uporabo Miss Soleil, 4 kos",
+          "url": "https://www.dm.si/p/d/1869333/bic-damski-brivnik-za-enkratno-uporabo-miss-soleil",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:49.766Z",
+          "lastSeenAt": "2026-10-30T15:01:38.373Z",
+          "currentPriceCents": 490,
+          "currentPriceEurCents": 490,
+          "referencePriceCents": 490,
+          "referencePriceEurCents": 490
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Einwegrasierer colour collection, 4 St",
+          "url": "https://www.dm.at/p/d/1869333/bic-einwegrasierer-colour-collection",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:41.260Z",
+          "lastSeenAt": "2026-10-30T15:01:40.059Z",
+          "currentPriceCents": 345,
+          "currentPriceEurCents": 345,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Női eldobható borotva Miss Soleil Colour..., 4 db",
+          "url": "https://www.dm.hu/p/d/1869333/bic-noi-eldobhato-borotva-miss-soleil-colour-collection-3-penges",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:59.257Z",
+          "lastSeenAt": "2026-10-30T15:01:53.484Z",
+          "currentPriceCents": 75900,
+          "currentPriceEurCents": 206,
+          "referencePriceCents": 75900,
+          "referencePriceEurCents": 206
         }
       ]
     },
@@ -1256,7 +1321,7 @@
           "url": "https://www.dm.si/p/d/3058864/balea-odstranjevalec-trde-koze-iz-nano-stekla-vec-razlicic",
           "isPromo": false,
           "observedAt": "2026-08-28T16:09:46.488Z",
-          "lastSeenAt": "2026-10-19T15:34:12.359Z",
+          "lastSeenAt": "2026-11-18T17:13:03.181Z",
           "currentPriceCents": 695,
           "currentPriceEurCents": 695,
           "referencePriceCents": 695,
@@ -1270,7 +1335,7 @@
           "url": "https://www.dm.at/p/d/3058864/balea-hornhautentferner-feile-nano-glas-sortiert",
           "isPromo": false,
           "observedAt": "2026-08-30T21:47:47.082Z",
-          "lastSeenAt": "2026-10-19T15:34:22.548Z",
+          "lastSeenAt": "2026-11-18T17:13:11.432Z",
           "currentPriceCents": 695,
           "currentPriceEurCents": 695,
           "referencePriceCents": 695,
@@ -1284,7 +1349,7 @@
           "url": "https://www.dm.hr/p/d/3058864/balea-raspica-za-stopala-s-nanostaklom-vise-vrsta",
           "isPromo": false,
           "observedAt": "2026-08-30T22:32:38.262Z",
-          "lastSeenAt": "2026-10-19T15:34:14.531Z",
+          "lastSeenAt": "2026-11-18T17:13:05.561Z",
           "currentPriceCents": 295,
           "currentPriceEurCents": 295,
           "referencePriceCents": 295,
@@ -1298,7 +1363,7 @@
           "url": "https://www.dm.de/p/d/3058864/balea-hornhaut-feile-nano-glas",
           "isPromo": false,
           "observedAt": "2026-08-31T20:40:26.163Z",
-          "lastSeenAt": "2026-10-19T15:34:33.938Z",
+          "lastSeenAt": "2026-11-18T17:13:23.877Z",
           "currentPriceCents": 595,
           "currentPriceEurCents": 595,
           "referencePriceCents": 595,
@@ -1312,11 +1377,11 @@
           "url": "https://www.dm.hu/p/d/3058864/balea-sarokreszelo-nanouvegbol-tobbfele",
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:45.278Z",
-          "lastSeenAt": "2026-10-19T15:34:37.210Z",
+          "lastSeenAt": "2026-11-18T17:13:27.543Z",
           "currentPriceCents": 119900,
-          "currentPriceEurCents": 329,
+          "currentPriceEurCents": 325,
           "referencePriceCents": 119900,
-          "referencePriceEurCents": 329
+          "referencePriceEurCents": 325
         }
       ]
     },
@@ -1335,25 +1400,11 @@
           "url": "https://www.dm.si/p/d/1679363/abtei-prehransko-dopolnilo-b-komplex",
           "isPromo": false,
           "observedAt": "2026-08-30T22:34:05.929Z",
-          "lastSeenAt": "2026-10-20T13:32:28.846Z",
+          "lastSeenAt": "2026-11-19T12:58:01.289Z",
           "currentPriceCents": 695,
           "currentPriceEurCents": 695,
           "referencePriceCents": 695,
           "referencePriceEurCents": 695
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "B-Komplex Forte Mini-Tabletten, 50 St",
-          "url": "https://www.dm.at/p/d/1679363/abtei-b-komplex-forte-mini-tabletten",
-          "isPromo": false,
-          "observedAt": "2026-09-20T13:02:20.097Z",
-          "lastSeenAt": "2026-10-20T13:32:38.573Z",
-          "currentPriceCents": 495,
-          "currentPriceEurCents": 495,
-          "referencePriceCents": 495,
-          "referencePriceEurCents": 495
         },
         {
           "countryCode": "DE",
@@ -1363,7 +1414,7 @@
           "url": "https://www.dm.de/p/d/1679363/abtei-vitamin-b-komplex-forte-tabletten-50-st",
           "isPromo": false,
           "observedAt": "2026-08-31T20:42:37.315Z",
-          "lastSeenAt": "2026-10-20T13:32:43.926Z",
+          "lastSeenAt": "2026-11-19T12:58:06.291Z",
           "currentPriceCents": 295,
           "currentPriceEurCents": 295,
           "referencePriceCents": 295,
@@ -1372,75 +1423,10 @@
       ]
     },
     {
-      "productId": 7293,
-      "brand": "BIC",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 135.58,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Miss Soleil jednokratne britvice colour collection, 4 kom.",
-          "url": "https://www.dm.hr/p/d/1869333/bic-miss-soleil-jednokratne-britvice-colour-collection",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:42.747Z",
-          "lastSeenAt": "2026-10-30T15:01:33.514Z",
-          "currentPriceCents": 450,
-          "currentPriceEurCents": 450,
-          "referencePriceCents": 450,
-          "referencePriceEurCents": 450
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Damski brivnik za enkratno uporabo Miss Soleil, 4 kos",
-          "url": "https://www.dm.si/p/d/1869333/bic-damski-brivnik-za-enkratno-uporabo-miss-soleil",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:49.766Z",
-          "lastSeenAt": "2026-10-30T15:01:38.373Z",
-          "currentPriceCents": 490,
-          "currentPriceEurCents": 490,
-          "referencePriceCents": 490,
-          "referencePriceEurCents": 490
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Einwegrasierer colour collection, 4 St",
-          "url": "https://www.dm.at/p/d/1869333/bic-einwegrasierer-colour-collection",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:41.260Z",
-          "lastSeenAt": "2026-10-30T15:01:40.059Z",
-          "currentPriceCents": 345,
-          "currentPriceEurCents": 345,
-          "referencePriceCents": 345,
-          "referencePriceEurCents": 345
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Női eldobható borotva Miss Soleil Colour..., 4 db",
-          "url": "https://www.dm.hu/p/d/1869333/bic-noi-eldobhato-borotva-miss-soleil-colour-collection-3-penges",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:59.257Z",
-          "lastSeenAt": "2026-10-30T15:01:53.484Z",
-          "currentPriceCents": 75900,
-          "currentPriceEurCents": 208,
-          "referencePriceCents": 75900,
-          "referencePriceEurCents": 208
-        }
-      ]
-    },
-    {
       "productId": 17313,
       "brand": "Gillette Venus",
       "isCountryExtreme": true,
-      "overallPercentDiff": 131.87,
+      "overallPercentDiff": 134.29,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1467,9 +1453,9 @@
           "observedAt": "2026-09-01T12:32:11.497Z",
           "lastSeenAt": "2026-11-05T12:16:05.537Z",
           "currentPriceCents": 140900,
-          "currentPriceEurCents": 386,
+          "currentPriceEurCents": 382,
           "referencePriceCents": 140900,
-          "referencePriceEurCents": 386
+          "referencePriceEurCents": 382
         }
       ]
     },
@@ -1481,20 +1467,6 @@
       "gapToExtremePercent": 0,
       "countries": [
         {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Creme Puff Blush rumenilo – 05 Lovely Pink, 1,5 g",
-          "url": "https://www.dm.hr/p/d/1569822/max-factor-creme-puff-blush-rumenilo-05-lovely-pink",
-          "isPromo": false,
-          "observedAt": "2026-09-20T13:02:14.642Z",
-          "lastSeenAt": "2026-10-20T13:32:35.678Z",
-          "currentPriceCents": 1490,
-          "currentPriceEurCents": 1490,
-          "referencePriceCents": 1490,
-          "referencePriceEurCents": 1490
-        },
-        {
           "countryCode": "SI",
           "shopId": "dm-si",
           "currency": "EUR",
@@ -1502,7 +1474,7 @@
           "url": "https://www.dm.si/p/d/1569822/max-factor-rdecilo-za-lica-creme-puff-05-lovely-pink",
           "isPromo": false,
           "observedAt": "2026-08-30T22:34:08.864Z",
-          "lastSeenAt": "2026-10-20T13:32:28.846Z",
+          "lastSeenAt": "2026-11-19T12:58:01.289Z",
           "currentPriceCents": 1495,
           "currentPriceEurCents": 1495,
           "referencePriceCents": 1495,
@@ -1516,25 +1488,48 @@
           "url": "https://www.dm.de/p/d/1569822/max-factor-blush-facefinity-05-lovely-pink",
           "isPromo": false,
           "observedAt": "2026-08-31T20:42:48.945Z",
-          "lastSeenAt": "2026-10-20T13:32:46.117Z",
+          "lastSeenAt": "2026-11-19T12:58:10.608Z",
           "currentPriceCents": 645,
           "currentPriceEurCents": 645,
           "referencePriceCents": 645,
           "referencePriceEurCents": 645
+        }
+      ]
+    },
+    {
+      "productId": 17374,
+      "brand": "WILKINSON SWORD",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 130.77,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Britvice za klasično britje Classic, 5 kos",
+          "url": "https://www.dm.si/p/d/2180466/wilkinson-sword-britvice-za-klasicno-britje-classic",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:11.741Z",
+          "lastSeenAt": "2026-10-22T13:45:53.334Z",
+          "currentPriceCents": 210,
+          "currentPriceEurCents": 210,
+          "referencePriceCents": 210,
+          "referencePriceEurCents": 210
         },
         {
           "countryCode": "HU",
           "shopId": "dm-hu",
           "currency": "HUF",
-          "name": "Arcpirosító Creme Puff - Nr. 05 Lovely Pink, 1,5 g",
-          "url": "https://www.dm.hu/p/d/1569822/max-factor-arcpirosito-creme-puff-nr-05-lovely-pink",
+          "name": "Classic borotvapenge, 5 db",
+          "url": "https://www.dm.hu/p/d/2180466/wilkinson-sword-classic-borotvapenge",
           "isPromo": false,
-          "observedAt": "2026-09-01T12:33:07.322Z",
-          "lastSeenAt": "2026-10-20T13:32:51.463Z",
-          "currentPriceCents": 459900,
-          "currentPriceEurCents": 1260,
-          "referencePriceCents": 459900,
-          "referencePriceEurCents": 1260
+          "observedAt": "2026-09-01T12:30:07.326Z",
+          "lastSeenAt": "2026-10-22T13:46:10.714Z",
+          "currentPriceCents": 33500,
+          "currentPriceEurCents": 91,
+          "referencePriceCents": 33500,
+          "referencePriceEurCents": 91
         }
       ]
     },
@@ -1662,46 +1657,9 @@
           "observedAt": "2026-09-01T12:32:07.099Z",
           "lastSeenAt": "2026-10-31T14:30:56.768Z",
           "currentPriceCents": 59900,
-          "currentPriceEurCents": 164,
+          "currentPriceEurCents": 163,
           "referencePriceCents": 59900,
-          "referencePriceEurCents": 164
-        }
-      ]
-    },
-    {
-      "productId": 17374,
-      "brand": "WILKINSON SWORD",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 128.26,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Britvice za klasično britje Classic, 5 kos",
-          "url": "https://www.dm.si/p/d/2180466/wilkinson-sword-britvice-za-klasicno-britje-classic",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:11.741Z",
-          "lastSeenAt": "2026-10-22T13:45:53.334Z",
-          "currentPriceCents": 210,
-          "currentPriceEurCents": 210,
-          "referencePriceCents": 210,
-          "referencePriceEurCents": 210
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Classic borotvapenge, 5 db",
-          "url": "https://www.dm.hu/p/d/2180466/wilkinson-sword-classic-borotvapenge",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:07.326Z",
-          "lastSeenAt": "2026-10-22T13:46:10.714Z",
-          "currentPriceCents": 33500,
-          "currentPriceEurCents": 92,
-          "referencePriceCents": 33500,
-          "referencePriceEurCents": 92
+          "referencePriceEurCents": 163
         }
       ]
     },
@@ -1764,9 +1722,9 @@
           "observedAt": "2026-09-01T12:32:11.497Z",
           "lastSeenAt": "2026-10-21T13:44:49.512Z",
           "currentPriceCents": 339900,
-          "currentPriceEurCents": 931,
+          "currentPriceEurCents": 923,
           "referencePriceCents": 339900,
-          "referencePriceEurCents": 931
+          "referencePriceEurCents": 923
         }
       ]
     },
@@ -1829,9 +1787,9 @@
           "observedAt": "2026-09-13T13:18:19.823Z",
           "lastSeenAt": "2026-11-12T16:47:01.536Z",
           "currentPriceCents": 49900,
-          "currentPriceEurCents": 137,
+          "currentPriceEurCents": 135,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 137
+          "referencePriceEurCents": 135
         }
       ]
     }
