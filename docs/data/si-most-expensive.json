@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-19T14:12:27.801Z",
+  "generatedAt": "2026-11-20T13:54:00.826Z",
   "fx": {
-    "asOf": "2026-11-18",
+    "asOf": "2026-11-19",
     "rates": {
-      "USD": 1.0968,
-      "JPY": 174.85,
-      "CZK": 24.386,
-      "DKK": 7.4744,
-      "GBP": 0.8329,
-      "HUF": 368.4,
-      "PLN": 4.4118,
-      "RON": 5.3467,
-      "SEK": 11.143,
-      "CHF": 0.9243,
-      "ISK": 137,
-      "NOK": 10.6045,
-      "TRY": 55.3197,
-      "AUD": 1.6294,
-      "BRL": 6.3818,
-      "CAD": 1.569,
-      "CNY": 7.3126,
-      "HKD": 8.6063,
-      "IDR": 20020.71,
-      "ILS": 3.5798,
-      "INR": 102.4905,
-      "KRW": 1461.3,
-      "MXN": 20.3738,
-      "MYR": 4.5144,
-      "NZD": 1.9951,
-      "PHP": 69.832,
-      "SGD": 1.4144,
-      "THB": 37.264,
-      "ZAR": 18.8897
+      "USD": 1.0992,
+      "JPY": 175.84,
+      "CZK": 24.427,
+      "DKK": 7.4742,
+      "GBP": 0.83581,
+      "HUF": 369.43,
+      "PLN": 4.417,
+      "RON": 5.3473,
+      "SEK": 11.147,
+      "CHF": 0.9262,
+      "ISK": 137.2,
+      "NOK": 10.6475,
+      "TRY": 55.4737,
+      "AUD": 1.6378,
+      "BRL": 6.4765,
+      "CAD": 1.5719,
+      "CNY": 7.328,
+      "HKD": 8.6239,
+      "IDR": 20073.1,
+      "ILS": 3.6149,
+      "INR": 102.55,
+      "KRW": 1460.23,
+      "MXN": 20.7946,
+      "MYR": 4.5205,
+      "NZD": 1.989,
+      "PHP": 70.014,
+      "SGD": 1.4176,
+      "THB": 37.268,
+      "ZAR": 18.9948
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -39,43 +39,6 @@
   "countryCode": "SI",
   "kind": "most-expensive",
   "items": [
-    {
-      "productId": 17970,
-      "brand": "Colgate",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 205.26,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Zobna ščetka za otroke, Super Soft, več različic, 1 kos",
-          "url": "https://www.dm.si/p/d/1492228/colgate-zobna-scetka-za-otroke-super-soft-vec-razlicic",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:18.489Z",
-          "lastSeenAt": "2026-10-21T13:44:37.793Z",
-          "currentPriceCents": 290,
-          "currentPriceEurCents": 290,
-          "referencePriceCents": 290,
-          "referencePriceEurCents": 290
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Zahnbürste Kinder Minions/Trolls, 2-6 Jahren..., 1 St",
-          "url": "https://www.dm.de/p/d/1492228/colgate-zahnbuerste-kinder-minions-trolls-2-6-jahren-extra-soft",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:27.891Z",
-          "lastSeenAt": "2026-10-21T13:44:46.413Z",
-          "currentPriceCents": 95,
-          "currentPriceEurCents": 95,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
-        }
-      ]
-    },
     {
       "productId": 19484,
       "brand": "Abtei",
@@ -200,9 +163,9 @@
           "observedAt": "2026-09-01T12:30:17.495Z",
           "lastSeenAt": "2026-10-28T15:05:22.610Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 244,
+          "currentPriceEurCents": 243,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 244
+          "referencePriceEurCents": 243
         }
       ]
     },
@@ -600,7 +563,7 @@
       "productId": 7970,
       "brand": "Gillette Venus",
       "isCountryExtreme": true,
-      "overallPercentDiff": 156.55,
+      "overallPercentDiff": 157.04,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -641,9 +604,9 @@
           "observedAt": "2026-09-01T12:30:13.724Z",
           "lastSeenAt": "2026-11-08T15:09:24.786Z",
           "currentPriceCents": 196900,
-          "currentPriceEurCents": 534,
+          "currentPriceEurCents": 533,
           "referencePriceCents": 196900,
-          "referencePriceEurCents": 534
+          "referencePriceEurCents": 533
         }
       ]
     },
@@ -692,9 +655,9 @@
           "observedAt": "2026-09-28T16:44:26.494Z",
           "lastSeenAt": "2026-10-28T15:05:22.610Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 271,
+          "currentPriceEurCents": 270,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 271
+          "referencePriceEurCents": 270
         }
       ]
     },
@@ -739,7 +702,7 @@
       "productId": 1190,
       "brand": "Balea PROFESSIONAL",
       "isCountryExtreme": true,
-      "overallPercentDiff": 146.53,
+      "overallPercentDiff": 148.25,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -768,7 +731,7 @@
           "currentPriceCents": 29900,
           "currentPriceEurCents": 81,
           "referencePriceCents": 52900,
-          "referencePriceEurCents": 144
+          "referencePriceEurCents": 143
         }
       ]
     },
@@ -776,7 +739,7 @@
       "productId": 10884,
       "brand": "WILKINSON SWORD",
       "isCountryExtreme": true,
-      "overallPercentDiff": 143.83,
+      "overallPercentDiff": 145.34,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -817,8 +780,87 @@
           "observedAt": "2026-09-01T12:30:45.278Z",
           "lastSeenAt": "2026-10-30T15:01:53.484Z",
           "currentPriceCents": 59500,
-          "currentPriceEurCents": 162,
+          "currentPriceEurCents": 161,
           "referencePriceCents": 59500,
+          "referencePriceEurCents": 161
+        }
+      ]
+    },
+    {
+      "productId": 6347,
+      "brand": "ebelin",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 143.83,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Trimer za oblikovanje obrva, više vrsta, 3 kom.",
+          "url": "https://www.dm.hr/p/d/1345197/ebelin-trimer-za-oblikovanje-obrva-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:37.197Z",
+          "lastSeenAt": "2026-10-29T15:12:19.963Z",
+          "currentPriceCents": 320,
+          "currentPriceEurCents": 320,
+          "referencePriceCents": 320,
+          "referencePriceEurCents": 320
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Pripomoček za oblikovanje obrvi, več različic, 3 kos",
+          "url": "https://www.dm.si/p/d/1345197/ebelin-pripomocek-za-oblikovanje-obrvi-vec-razlicic",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:44.749Z",
+          "lastSeenAt": "2026-10-29T15:12:17.316Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Augenbrauenformer sortiert, 1 St",
+          "url": "https://www.dm.at/p/d/1345197/ebelin-augenbrauenformer-sortiert",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:00.636Z",
+          "lastSeenAt": "2026-10-29T15:12:24.663Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Augenbrauenformer, 3 St",
+          "url": "https://www.dm.de/p/d/1345197/ebelin-augenbrauenformer",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:43.104Z",
+          "lastSeenAt": "2026-10-29T15:12:37.043Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Szemöldökformázó, többféle, 3 db",
+          "url": "https://www.dm.hu/p/d/1345197/ebelin-szemoldokformazo-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:55.609Z",
+          "lastSeenAt": "2026-10-29T15:12:47.095Z",
+          "currentPriceCents": 59900,
+          "currentPriceEurCents": 162,
+          "referencePriceCents": 59900,
           "referencePriceEurCents": 162
         }
       ]
@@ -954,85 +996,6 @@
       ]
     },
     {
-      "productId": 6347,
-      "brand": "ebelin",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 142.33,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Trimer za oblikovanje obrva, više vrsta, 3 kom.",
-          "url": "https://www.dm.hr/p/d/1345197/ebelin-trimer-za-oblikovanje-obrva-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:37.197Z",
-          "lastSeenAt": "2026-10-29T15:12:19.963Z",
-          "currentPriceCents": 320,
-          "currentPriceEurCents": 320,
-          "referencePriceCents": 320,
-          "referencePriceEurCents": 320
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Pripomoček za oblikovanje obrvi, več različic, 3 kos",
-          "url": "https://www.dm.si/p/d/1345197/ebelin-pripomocek-za-oblikovanje-obrvi-vec-razlicic",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:44.749Z",
-          "lastSeenAt": "2026-10-29T15:12:17.316Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Augenbrauenformer sortiert, 1 St",
-          "url": "https://www.dm.at/p/d/1345197/ebelin-augenbrauenformer-sortiert",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:00.636Z",
-          "lastSeenAt": "2026-10-29T15:12:24.663Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Augenbrauenformer, 3 St",
-          "url": "https://www.dm.de/p/d/1345197/ebelin-augenbrauenformer",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:43.104Z",
-          "lastSeenAt": "2026-10-29T15:12:37.043Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Szemöldökformázó, többféle, 3 db",
-          "url": "https://www.dm.hu/p/d/1345197/ebelin-szemoldokformazo-tobbfele",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:55.609Z",
-          "lastSeenAt": "2026-10-29T15:12:47.095Z",
-          "currentPriceCents": 59900,
-          "currentPriceEurCents": 163,
-          "referencePriceCents": 59900,
-          "referencePriceEurCents": 163
-        }
-      ]
-    },
-    {
       "productId": 667,
       "brand": "Balea med",
       "isCountryExtreme": true,
@@ -1142,9 +1105,9 @@
           "observedAt": "2026-10-19T15:34:35.501Z",
           "lastSeenAt": "2026-11-18T17:13:25.550Z",
           "currentPriceCents": 599900,
-          "currentPriceEurCents": 1628,
+          "currentPriceEurCents": 1624,
           "referencePriceCents": 599900,
-          "referencePriceEurCents": 1628
+          "referencePriceEurCents": 1624
         },
         {
           "countryCode": "SI",
@@ -1194,7 +1157,7 @@
       "productId": 7293,
       "brand": "BIC",
       "isCountryExtreme": true,
-      "overallPercentDiff": 137.86,
+      "overallPercentDiff": 139.02,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1249,9 +1212,9 @@
           "observedAt": "2026-09-01T12:32:59.257Z",
           "lastSeenAt": "2026-10-30T15:01:53.484Z",
           "currentPriceCents": 75900,
-          "currentPriceEurCents": 206,
+          "currentPriceEurCents": 205,
           "referencePriceCents": 75900,
-          "referencePriceEurCents": 206
+          "referencePriceEurCents": 205
         }
       ]
     },
@@ -1426,7 +1389,7 @@
       "productId": 17313,
       "brand": "Gillette Venus",
       "isCountryExtreme": true,
-      "overallPercentDiff": 134.29,
+      "overallPercentDiff": 134.91,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1453,9 +1416,9 @@
           "observedAt": "2026-09-01T12:32:11.497Z",
           "lastSeenAt": "2026-11-05T12:16:05.537Z",
           "currentPriceCents": 140900,
-          "currentPriceEurCents": 382,
+          "currentPriceEurCents": 381,
           "referencePriceCents": 140900,
-          "referencePriceEurCents": 382
+          "referencePriceEurCents": 381
         }
       ]
     },
@@ -1657,74 +1620,9 @@
           "observedAt": "2026-09-01T12:32:07.099Z",
           "lastSeenAt": "2026-10-31T14:30:56.768Z",
           "currentPriceCents": 59900,
-          "currentPriceEurCents": 163,
+          "currentPriceEurCents": 162,
           "referencePriceCents": 59900,
-          "referencePriceEurCents": 163
-        }
-      ]
-    },
-    {
-      "productId": 9928,
-      "brand": "Old Spice",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 125.88,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Original losion poslije brijanja, 100 ml",
-          "url": "https://www.dm.hr/p/d/1398456/old-spice-original-losion-poslije-brijanja",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:59.050Z",
-          "lastSeenAt": "2026-10-21T13:44:31.302Z",
-          "currentPriceCents": 780,
-          "currentPriceEurCents": 780,
-          "referencePriceCents": 780,
-          "referencePriceEurCents": 780
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Losjon po britju, 100 ml",
-          "url": "https://www.dm.si/p/d/1398456/old-spice-losjon-po-britju",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:24.230Z",
-          "lastSeenAt": "2026-10-21T13:44:37.793Z",
-          "currentPriceCents": 960,
-          "currentPriceEurCents": 960,
-          "referencePriceCents": 960,
-          "referencePriceEurCents": 960
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "After Shave Original, 100 ml",
-          "url": "https://www.dm.de/p/d/1398456/old-spice-after-shave-original",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:21.148Z",
-          "lastSeenAt": "2026-10-21T13:44:43.221Z",
-          "currentPriceCents": 425,
-          "currentPriceEurCents": 425,
-          "referencePriceCents": 425,
-          "referencePriceEurCents": 425
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "After shave lotion Original, 100 ml",
-          "url": "https://www.dm.hu/p/d/1398456/old-spice-after-shave-lotion-original",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:11.497Z",
-          "lastSeenAt": "2026-10-21T13:44:49.512Z",
-          "currentPriceCents": 339900,
-          "currentPriceEurCents": 923,
-          "referencePriceCents": 339900,
-          "referencePriceEurCents": 923
+          "referencePriceEurCents": 162
         }
       ]
     },
@@ -1790,6 +1688,136 @@
           "currentPriceEurCents": 135,
           "referencePriceCents": 49900,
           "referencePriceEurCents": 135
+        }
+      ]
+    },
+    {
+      "productId": 3528,
+      "brand": "alverde NATURKOSMETIK",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 120.15,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Četkica za zube – Interdental, drvena, 1 kom.",
+          "url": "https://www.dm.hr/p/d/3097810/alverde-naturkosmetik-cetkica-za-zube-interdental-drvena",
+          "isPromo": false,
+          "observedAt": "2026-08-28T16:06:29.111Z",
+          "lastSeenAt": "2026-11-10T12:34:47.512Z",
+          "currentPriceCents": 235,
+          "currentPriceEurCents": 235,
+          "referencePriceCents": 235,
+          "referencePriceEurCents": 235
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Lesena zobna ščetka Interdental, 1 kos",
+          "url": "https://www.dm.si/p/d/3097810/alverde-naturkosmetik-lesena-zobna-scetka-interdental",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:41.458Z",
+          "lastSeenAt": "2026-11-10T12:34:45.730Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Zahnbürste Interdental aus Holz Pro Climate medium, 1 St",
+          "url": "https://www.dm.at/p/d/3097810/alverde-naturkosmetik-zahnbuerste-interdental-aus-holz-pro-climate-medium",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:52.153Z",
+          "lastSeenAt": "2026-11-10T12:34:55.947Z",
+          "currentPriceCents": 150,
+          "currentPriceEurCents": 150,
+          "referencePriceCents": 150,
+          "referencePriceEurCents": 150
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Interdental Zahnbürste hoch tief, medium, 1 St",
+          "url": "https://www.dm.de/p/d/3097810/alverde-naturkosmetik-interdental-zahnbuerste-hoch-tief-medium",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:20.165Z",
+          "lastSeenAt": "2026-11-10T12:34:57.123Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogköztisztító fa fogkefe, 1 db",
+          "url": "https://www.dm.hu/p/d/3097810/alverde-naturkosmetik-fogkoztisztito-fa-fogkefe",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:45.278Z",
+          "lastSeenAt": "2026-11-10T12:35:05.271Z",
+          "currentPriceCents": 49500,
+          "currentPriceEurCents": 134,
+          "referencePriceCents": 49500,
+          "referencePriceEurCents": 134
+        }
+      ]
+    },
+    {
+      "productId": 1569,
+      "brand": "atrix",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 120,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Zaščitna krema za roke, 150 ml",
+          "url": "https://www.dm.si/p/d/1026630/atrix-zascitna-krema-za-roke",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:53:07.321Z",
+          "lastSeenAt": "2026-10-27T14:27:12.808Z",
+          "currentPriceCents": 385,
+          "currentPriceEurCents": 385,
+          "referencePriceCents": 385,
+          "referencePriceEurCents": 385
+        },
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Intensive krema za ruke, 150 ml",
+          "url": "https://www.dm.hr/p/d/1026630/atrix-intensive-krema-za-ruke",
+          "isPromo": false,
+          "observedAt": "2026-08-28T16:03:27.910Z",
+          "lastSeenAt": "2026-10-27T14:27:05.664Z",
+          "currentPriceCents": 350,
+          "currentPriceEurCents": 350,
+          "referencePriceCents": 350,
+          "referencePriceEurCents": 350
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Handcreme trockene Haut, intensive in der Dose, 150 ml",
+          "url": "https://www.dm.de/p/d/1026630/atrix-handcreme-trockene-haut-intensive-in-der-dose",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:51.516Z",
+          "lastSeenAt": "2026-10-27T14:27:24.951Z",
+          "currentPriceCents": 175,
+          "currentPriceEurCents": 175,
+          "referencePriceCents": 175,
+          "referencePriceEurCents": 175
         }
       ]
     }

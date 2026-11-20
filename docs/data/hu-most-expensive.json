@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-19T14:12:27.801Z",
+  "generatedAt": "2026-11-20T13:54:00.826Z",
   "fx": {
-    "asOf": "2026-11-18",
+    "asOf": "2026-11-19",
     "rates": {
-      "USD": 1.0968,
-      "JPY": 174.85,
-      "CZK": 24.386,
-      "DKK": 7.4744,
-      "GBP": 0.8329,
-      "HUF": 368.4,
-      "PLN": 4.4118,
-      "RON": 5.3467,
-      "SEK": 11.143,
-      "CHF": 0.9243,
-      "ISK": 137,
-      "NOK": 10.6045,
-      "TRY": 55.3197,
-      "AUD": 1.6294,
-      "BRL": 6.3818,
-      "CAD": 1.569,
-      "CNY": 7.3126,
-      "HKD": 8.6063,
-      "IDR": 20020.71,
-      "ILS": 3.5798,
-      "INR": 102.4905,
-      "KRW": 1461.3,
-      "MXN": 20.3738,
-      "MYR": 4.5144,
-      "NZD": 1.9951,
-      "PHP": 69.832,
-      "SGD": 1.4144,
-      "THB": 37.264,
-      "ZAR": 18.8897
+      "USD": 1.0992,
+      "JPY": 175.84,
+      "CZK": 24.427,
+      "DKK": 7.4742,
+      "GBP": 0.83581,
+      "HUF": 369.43,
+      "PLN": 4.417,
+      "RON": 5.3473,
+      "SEK": 11.147,
+      "CHF": 0.9262,
+      "ISK": 137.2,
+      "NOK": 10.6475,
+      "TRY": 55.4737,
+      "AUD": 1.6378,
+      "BRL": 6.4765,
+      "CAD": 1.5719,
+      "CNY": 7.328,
+      "HKD": 8.6239,
+      "IDR": 20073.1,
+      "ILS": 3.6149,
+      "INR": 102.55,
+      "KRW": 1460.23,
+      "MXN": 20.7946,
+      "MYR": 4.5205,
+      "NZD": 1.989,
+      "PHP": 70.014,
+      "SGD": 1.4176,
+      "THB": 37.268,
+      "ZAR": 18.9948
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -43,7 +43,7 @@
       "productId": 2140,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 231.67,
+      "overallPercentDiff": 230.56,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -112,74 +112,9 @@
           "observedAt": "2026-09-01T12:31:00.665Z",
           "lastSeenAt": "2026-11-14T11:25:59.531Z",
           "currentPriceCents": 219900,
-          "currentPriceEurCents": 597,
+          "currentPriceEurCents": 595,
           "referencePriceCents": 219900,
-          "referencePriceEurCents": 597
-        }
-      ]
-    },
-    {
-      "productId": 5557,
-      "brand": "Profissimo",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 225.45,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Vrečke za led, 10 kos",
-          "url": "https://www.dm.si/p/d/1029488/profissimo-vrecke-za-led",
-          "isPromo": false,
-          "observedAt": "2026-08-30T21:47:45.469Z",
-          "lastSeenAt": "2026-10-31T14:30:28.446Z",
-          "currentPriceCents": 55,
-          "currentPriceEurCents": 55,
-          "referencePriceCents": 55,
-          "referencePriceEurCents": 55
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Eiswürfelbeutel, 10 St",
-          "url": "https://www.dm.at/p/d/1029488/profissimo-eiswuerfelbeutel",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:01.644Z",
-          "lastSeenAt": "2026-10-31T14:30:39.838Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Eiswürfelbeutel, 10 St",
-          "url": "https://www.dm.de/p/d/1029488/profissimo-eiswuerfelbeutel",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:49.548Z",
-          "lastSeenAt": "2026-10-31T14:30:49.033Z",
-          "currentPriceCents": 85,
-          "currentPriceEurCents": 85,
-          "referencePriceCents": 85,
-          "referencePriceEurCents": 85
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Jégkockakészítő zacskó, 10 db",
-          "url": "https://www.dm.hu/p/d/1029488/profissimo-jegkockakeszito-zacsko",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:58.541Z",
-          "lastSeenAt": "2026-10-31T14:30:54.836Z",
-          "currentPriceCents": 65900,
-          "currentPriceEurCents": 179,
-          "referencePriceCents": 65900,
-          "referencePriceEurCents": 179
+          "referencePriceEurCents": 595
         }
       ]
     },
@@ -187,7 +122,7 @@
       "productId": 15471,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 225.33,
+      "overallPercentDiff": 224,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -242,9 +177,9 @@
           "observedAt": "2026-09-01T12:31:37.751Z",
           "lastSeenAt": "2026-10-31T14:30:56.768Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 244,
+          "currentPriceEurCents": 243,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 244
+          "referencePriceEurCents": 243
         },
         {
           "countryCode": "HR",
@@ -263,10 +198,75 @@
       ]
     },
     {
+      "productId": 5557,
+      "brand": "Profissimo",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 223.64,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Vrečke za led, 10 kos",
+          "url": "https://www.dm.si/p/d/1029488/profissimo-vrecke-za-led",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:45.469Z",
+          "lastSeenAt": "2026-10-31T14:30:28.446Z",
+          "currentPriceCents": 55,
+          "currentPriceEurCents": 55,
+          "referencePriceCents": 55,
+          "referencePriceEurCents": 55
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Eiswürfelbeutel, 10 St",
+          "url": "https://www.dm.at/p/d/1029488/profissimo-eiswuerfelbeutel",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:01.644Z",
+          "lastSeenAt": "2026-10-31T14:30:39.838Z",
+          "currentPriceCents": 125,
+          "currentPriceEurCents": 125,
+          "referencePriceCents": 125,
+          "referencePriceEurCents": 125
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Eiswürfelbeutel, 10 St",
+          "url": "https://www.dm.de/p/d/1029488/profissimo-eiswuerfelbeutel",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:49.548Z",
+          "lastSeenAt": "2026-10-31T14:30:49.033Z",
+          "currentPriceCents": 85,
+          "currentPriceEurCents": 85,
+          "referencePriceCents": 85,
+          "referencePriceEurCents": 85
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Jégkockakészítő zacskó, 10 db",
+          "url": "https://www.dm.hu/p/d/1029488/profissimo-jegkockakeszito-zacsko",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:58.541Z",
+          "lastSeenAt": "2026-10-31T14:30:54.836Z",
+          "currentPriceCents": 65900,
+          "currentPriceEurCents": 178,
+          "referencePriceCents": 65900,
+          "referencePriceEurCents": 178
+        }
+      ]
+    },
+    {
       "productId": 7017,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 218.82,
+      "overallPercentDiff": 217.65,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -335,9 +335,9 @@
           "observedAt": "2026-09-01T12:31:46.773Z",
           "lastSeenAt": "2026-10-24T12:39:23.327Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 271,
+          "currentPriceEurCents": 270,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 271
+          "referencePriceEurCents": 270
         }
       ]
     },
@@ -345,7 +345,7 @@
       "productId": 10916,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 218.82,
+      "overallPercentDiff": 217.65,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -414,9 +414,9 @@
           "observedAt": "2026-09-01T12:32:54.339Z",
           "lastSeenAt": "2026-11-16T18:29:00.372Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 271,
+          "currentPriceEurCents": 270,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 271
+          "referencePriceEurCents": 270
         }
       ]
     },
@@ -424,7 +424,7 @@
       "productId": 8497,
       "brand": "dmBio",
       "isCountryExtreme": true,
-      "overallPercentDiff": 211.91,
+      "overallPercentDiff": 211.06,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -465,9 +465,9 @@
           "observedAt": "2026-11-08T15:09:24.786Z",
           "lastSeenAt": "2026-11-08T15:09:24.786Z",
           "currentPriceCents": 269900,
-          "currentPriceEurCents": 733,
+          "currentPriceEurCents": 731,
           "referencePriceCents": 269900,
-          "referencePriceEurCents": 733
+          "referencePriceEurCents": 731
         }
       ]
     },
@@ -475,7 +475,7 @@
       "productId": 27011,
       "brand": "Frosch",
       "isCountryExtreme": true,
-      "overallPercentDiff": 194.24,
+      "overallPercentDiff": 193.56,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -516,9 +516,9 @@
           "observedAt": "2026-09-01T12:31:43.995Z",
           "lastSeenAt": "2026-11-04T12:04:41.720Z",
           "currentPriceCents": 319900,
-          "currentPriceEurCents": 868,
+          "currentPriceEurCents": 866,
           "referencePriceCents": 319900,
-          "referencePriceEurCents": 868
+          "referencePriceEurCents": 866
         }
       ]
     },
@@ -526,7 +526,7 @@
       "productId": 5206,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 192.31,
+      "overallPercentDiff": 190.77,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -567,9 +567,9 @@
           "observedAt": "2026-09-01T12:29:59.422Z",
           "lastSeenAt": "2026-10-25T13:10:24.522Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 190,
+          "currentPriceEurCents": 189,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 190
+          "referencePriceEurCents": 189
         }
       ]
     },
@@ -577,7 +577,7 @@
       "productId": 5271,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 187.06,
+      "overallPercentDiff": 185.88,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -646,9 +646,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-11-10T12:35:05.271Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 244,
+          "currentPriceEurCents": 243,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 244
+          "referencePriceEurCents": 243
         }
       ]
     },
@@ -656,7 +656,7 @@
       "productId": 7733,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 187.06,
+      "overallPercentDiff": 185.88,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -725,9 +725,9 @@
           "observedAt": "2026-09-01T12:31:07.865Z",
           "lastSeenAt": "2026-10-31T14:30:54.836Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 244,
+          "currentPriceEurCents": 243,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 244
+          "referencePriceEurCents": 243
         }
       ]
     },
@@ -735,7 +735,7 @@
       "productId": 2456,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 185.26,
+      "overallPercentDiff": 184.21,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -804,9 +804,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-11-11T16:08:05.457Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 271,
+          "currentPriceEurCents": 270,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 271
+          "referencePriceEurCents": 270
         }
       ]
     },
@@ -814,7 +814,7 @@
       "productId": 11162,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 185.26,
+      "overallPercentDiff": 184.21,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -883,9 +883,9 @@
           "observedAt": "2026-11-06T12:04:37.247Z",
           "lastSeenAt": "2026-11-06T12:04:37.247Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 271,
+          "currentPriceEurCents": 270,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 271
+          "referencePriceEurCents": 270
         }
       ]
     },
@@ -893,7 +893,7 @@
       "productId": 11969,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 185.26,
+      "overallPercentDiff": 184.21,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -962,9 +962,9 @@
           "observedAt": "2026-11-10T12:35:05.271Z",
           "lastSeenAt": "2026-11-10T12:35:05.271Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 271,
+          "currentPriceEurCents": 270,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 271
+          "referencePriceEurCents": 270
         }
       ]
     },
@@ -972,7 +972,7 @@
       "productId": 15608,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 185.26,
+      "overallPercentDiff": 184.21,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1013,9 +1013,9 @@
           "observedAt": "2026-09-24T13:32:19.547Z",
           "lastSeenAt": "2026-10-24T12:39:23.327Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 271,
+          "currentPriceEurCents": 270,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 271
+          "referencePriceEurCents": 270
         }
       ]
     },
@@ -1023,7 +1023,7 @@
       "productId": 837,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 182.4,
+      "overallPercentDiff": 181.6,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1078,9 +1078,9 @@
           "observedAt": "2026-09-01T12:29:59.422Z",
           "lastSeenAt": "2026-11-07T14:53:41.614Z",
           "currentPriceCents": 129900,
-          "currentPriceEurCents": 353,
+          "currentPriceEurCents": 352,
           "referencePriceCents": 129900,
-          "referencePriceEurCents": 353
+          "referencePriceEurCents": 352
         }
       ]
     },
@@ -1088,7 +1088,7 @@
       "productId": 6257,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 182.4,
+      "overallPercentDiff": 181.6,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1129,9 +1129,9 @@
           "observedAt": "2026-09-01T12:32:59.257Z",
           "lastSeenAt": "2026-10-25T13:10:26.624Z",
           "currentPriceCents": 129900,
-          "currentPriceEurCents": 353,
+          "currentPriceEurCents": 352,
           "referencePriceCents": 129900,
-          "referencePriceEurCents": 353
+          "referencePriceEurCents": 352
         }
       ]
     },
@@ -1139,7 +1139,7 @@
       "productId": 9912,
       "brand": "L'ORÉAL PARiS",
       "isCountryExtreme": true,
-      "overallPercentDiff": 174.94,
+      "overallPercentDiff": 173.92,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1208,9 +1208,9 @@
           "observedAt": "2026-09-01T12:31:30.809Z",
           "lastSeenAt": "2026-11-12T16:47:03.782Z",
           "currentPriceCents": 399900,
-          "currentPriceEurCents": 1086,
+          "currentPriceEurCents": 1082,
           "referencePriceCents": 399900,
-          "referencePriceEurCents": 1086
+          "referencePriceEurCents": 1082
         }
       ]
     },
@@ -1218,7 +1218,7 @@
       "productId": 1798,
       "brand": "Dr.Beckmann",
       "isCountryExtreme": true,
-      "overallPercentDiff": 166.78,
+      "overallPercentDiff": 166.1,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1259,9 +1259,9 @@
           "observedAt": "2026-09-01T12:32:54.339Z",
           "lastSeenAt": "2026-11-14T11:25:59.531Z",
           "currentPriceCents": 289900,
-          "currentPriceEurCents": 787,
+          "currentPriceEurCents": 785,
           "referencePriceCents": 289900,
-          "referencePriceEurCents": 787
+          "referencePriceEurCents": 785
         },
         {
           "countryCode": "DE",
@@ -1283,7 +1283,7 @@
       "productId": 6941,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 161.82,
+      "overallPercentDiff": 160,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1352,9 +1352,9 @@
           "observedAt": "2026-09-01T12:30:55.609Z",
           "lastSeenAt": "2026-11-14T11:26:01.094Z",
           "currentPriceCents": 52900,
-          "currentPriceEurCents": 144,
+          "currentPriceEurCents": 143,
           "referencePriceCents": 52900,
-          "referencePriceEurCents": 144
+          "referencePriceEurCents": 143
         }
       ]
     },
@@ -1362,7 +1362,7 @@
       "productId": 130,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 158.41,
+      "overallPercentDiff": 157.78,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1431,9 +1431,9 @@
           "observedAt": "2026-09-01T12:32:51.781Z",
           "lastSeenAt": "2026-11-11T16:08:03.442Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 814,
+          "currentPriceEurCents": 812,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 814
+          "referencePriceEurCents": 812
         }
       ]
     },
@@ -1441,7 +1441,7 @@
       "productId": 9553,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 158.41,
+      "overallPercentDiff": 157.78,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1510,9 +1510,74 @@
           "observedAt": "2026-09-01T12:31:17.754Z",
           "lastSeenAt": "2026-10-23T13:22:57.120Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 814,
+          "currentPriceEurCents": 812,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 814
+          "referencePriceEurCents": 812
+        }
+      ]
+    },
+    {
+      "productId": 4742,
+      "brand": "Dr. Beckmann",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 156,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Geruchs-Entferner, 500 ml",
+          "url": "https://www.dm.at/p/d/1711396/dr-beckmann-geruchs-entferner",
+          "isPromo": false,
+          "observedAt": "2026-08-28T16:48:26.874Z",
+          "lastSeenAt": "2026-11-06T12:04:17.965Z",
+          "currentPriceCents": 455,
+          "currentPriceEurCents": 455,
+          "referencePriceCents": 455,
+          "referencePriceEurCents": 455
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Sredstvo za odstranjevanje neprijetnih vonjav, 500 ml",
+          "url": "https://www.dm.si/p/d/1711396/dr-beckmann-sredstvo-za-odstranjevanje-neprijetnih-vonjav",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:11.027Z",
+          "lastSeenAt": "2026-11-06T12:04:05.052Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Geruchsentferner, 500 ml",
+          "url": "https://www.dm.de/p/d/1711396/dr-beckmann-geruchsentferner",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:56.477Z",
+          "lastSeenAt": "2026-11-06T12:04:31.813Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Szageltávolító folyadék ruhákhoz, 0,5 l",
+          "url": "https://www.dm.hu/p/d/1711396/dr-beckmann-szageltavolito-folyadek-ruhakhoz",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:10.517Z",
+          "lastSeenAt": "2026-11-06T12:04:35.434Z",
+          "currentPriceCents": 259900,
+          "currentPriceEurCents": 704,
+          "referencePriceCents": 259900,
+          "referencePriceEurCents": 704
         }
       ]
     },
@@ -1520,7 +1585,7 @@
       "productId": 1013,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 156.84,
+      "overallPercentDiff": 155.79,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1589,9 +1654,9 @@
           "observedAt": "2026-09-01T12:32:19.940Z",
           "lastSeenAt": "2026-10-25T13:10:24.522Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 244,
+          "currentPriceEurCents": 243,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 244
+          "referencePriceEurCents": 243
         }
       ]
     },
@@ -1599,7 +1664,7 @@
       "productId": 1880,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 156.84,
+      "overallPercentDiff": 155.79,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1668,74 +1733,9 @@
           "observedAt": "2026-09-01T12:32:25.549Z",
           "lastSeenAt": "2026-10-30T15:01:51.674Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 244,
+          "currentPriceEurCents": 243,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 244
-        }
-      ]
-    },
-    {
-      "productId": 4742,
-      "brand": "Dr. Beckmann",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 156.36,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Geruchs-Entferner, 500 ml",
-          "url": "https://www.dm.at/p/d/1711396/dr-beckmann-geruchs-entferner",
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:48:26.874Z",
-          "lastSeenAt": "2026-11-06T12:04:17.965Z",
-          "currentPriceCents": 455,
-          "currentPriceEurCents": 455,
-          "referencePriceCents": 455,
-          "referencePriceEurCents": 455
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Sredstvo za odstranjevanje neprijetnih vonjav, 500 ml",
-          "url": "https://www.dm.si/p/d/1711396/dr-beckmann-sredstvo-za-odstranjevanje-neprijetnih-vonjav",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:11.027Z",
-          "lastSeenAt": "2026-11-06T12:04:05.052Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Geruchsentferner, 500 ml",
-          "url": "https://www.dm.de/p/d/1711396/dr-beckmann-geruchsentferner",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:56.477Z",
-          "lastSeenAt": "2026-11-06T12:04:31.813Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Szageltávolító folyadék ruhákhoz, 0,5 l",
-          "url": "https://www.dm.hu/p/d/1711396/dr-beckmann-szageltavolito-folyadek-ruhakhoz",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:10.517Z",
-          "lastSeenAt": "2026-11-06T12:04:35.434Z",
-          "currentPriceCents": 259900,
-          "currentPriceEurCents": 705,
-          "referencePriceCents": 259900,
-          "referencePriceEurCents": 705
+          "referencePriceEurCents": 243
         }
       ]
     },
@@ -1743,7 +1743,7 @@
       "productId": 119,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 155.29,
+      "overallPercentDiff": 154.12,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1812,9 +1812,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-11-10T12:35:08.233Z",
           "currentPriceCents": 79900,
-          "currentPriceEurCents": 217,
+          "currentPriceEurCents": 216,
           "referencePriceCents": 79900,
-          "referencePriceEurCents": 217
+          "referencePriceEurCents": 216
         }
       ]
     },
@@ -1822,7 +1822,7 @@
       "productId": 349,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 153.33,
+      "overallPercentDiff": 152,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1891,9 +1891,9 @@
           "observedAt": "2026-09-01T12:29:57.331Z",
           "lastSeenAt": "2026-11-08T15:09:24.786Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 190,
+          "currentPriceEurCents": 189,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 190
+          "referencePriceEurCents": 189
         }
       ]
     },
@@ -1901,7 +1901,7 @@
       "productId": 9523,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 153.33,
+      "overallPercentDiff": 152,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1956,9 +1956,9 @@
           "observedAt": "2026-09-01T12:32:22.557Z",
           "lastSeenAt": "2026-10-30T15:01:53.484Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 190,
+          "currentPriceEurCents": 189,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 190
+          "referencePriceEurCents": 189
         }
       ]
     },
@@ -1966,7 +1966,7 @@
       "productId": 5519,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 150.26,
+      "overallPercentDiff": 149.74,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -2007,9 +2007,9 @@
           "observedAt": "2026-09-01T12:30:01.877Z",
           "lastSeenAt": "2026-11-02T18:17:25.790Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 488,
+          "currentPriceEurCents": 487,
           "referencePriceCents": 179900,
-          "referencePriceEurCents": 488
+          "referencePriceEurCents": 487
         }
       ]
     },
@@ -2017,7 +2017,7 @@
       "productId": 17719,
       "brand": "Dr.Beckmann",
       "isCountryExtreme": true,
-      "overallPercentDiff": 150.26,
+      "overallPercentDiff": 149.74,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -2072,9 +2072,9 @@
           "observedAt": "2026-09-01T12:29:46.464Z",
           "lastSeenAt": "2026-11-12T16:47:03.782Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 488,
+          "currentPriceEurCents": 487,
           "referencePriceCents": 179900,
-          "referencePriceEurCents": 488
+          "referencePriceEurCents": 487
         }
       ]
     },
@@ -2082,7 +2082,7 @@
       "productId": 3432,
       "brand": "NIVEA",
       "isCountryExtreme": true,
-      "overallPercentDiff": 148,
+      "overallPercentDiff": 147.43,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -2137,9 +2137,9 @@
           "observedAt": "2026-09-01T12:32:49.604Z",
           "lastSeenAt": "2026-11-13T12:09:07.830Z",
           "currentPriceCents": 159900,
-          "currentPriceEurCents": 434,
+          "currentPriceEurCents": 433,
           "referencePriceCents": 159900,
-          "referencePriceEurCents": 434
+          "referencePriceEurCents": 433
         }
       ]
     }

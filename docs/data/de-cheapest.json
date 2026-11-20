@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-19T14:12:27.801Z",
+  "generatedAt": "2026-11-20T13:54:00.826Z",
   "fx": {
-    "asOf": "2026-11-18",
+    "asOf": "2026-11-19",
     "rates": {
-      "USD": 1.0968,
-      "JPY": 174.85,
-      "CZK": 24.386,
-      "DKK": 7.4744,
-      "GBP": 0.8329,
-      "HUF": 368.4,
-      "PLN": 4.4118,
-      "RON": 5.3467,
-      "SEK": 11.143,
-      "CHF": 0.9243,
-      "ISK": 137,
-      "NOK": 10.6045,
-      "TRY": 55.3197,
-      "AUD": 1.6294,
-      "BRL": 6.3818,
-      "CAD": 1.569,
-      "CNY": 7.3126,
-      "HKD": 8.6063,
-      "IDR": 20020.71,
-      "ILS": 3.5798,
-      "INR": 102.4905,
-      "KRW": 1461.3,
-      "MXN": 20.3738,
-      "MYR": 4.5144,
-      "NZD": 1.9951,
-      "PHP": 69.832,
-      "SGD": 1.4144,
-      "THB": 37.264,
-      "ZAR": 18.8897
+      "USD": 1.0992,
+      "JPY": 175.84,
+      "CZK": 24.427,
+      "DKK": 7.4742,
+      "GBP": 0.83581,
+      "HUF": 369.43,
+      "PLN": 4.417,
+      "RON": 5.3473,
+      "SEK": 11.147,
+      "CHF": 0.9262,
+      "ISK": 137.2,
+      "NOK": 10.6475,
+      "TRY": 55.4737,
+      "AUD": 1.6378,
+      "BRL": 6.4765,
+      "CAD": 1.5719,
+      "CNY": 7.328,
+      "HKD": 8.6239,
+      "IDR": 20073.1,
+      "ILS": 3.6149,
+      "INR": 102.55,
+      "KRW": 1460.23,
+      "MXN": 20.7946,
+      "MYR": 4.5205,
+      "NZD": 1.989,
+      "PHP": 70.014,
+      "SGD": 1.4176,
+      "THB": 37.268,
+      "ZAR": 18.9948
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -98,9 +98,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-11-13T12:09:04.712Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 190,
+          "currentPriceEurCents": 189,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 190
+          "referencePriceEurCents": 189
         }
       ]
     },
@@ -159,7 +159,7 @@
       "productId": 15471,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 225.33,
+      "overallPercentDiff": 224,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -214,9 +214,9 @@
           "observedAt": "2026-09-01T12:31:37.751Z",
           "lastSeenAt": "2026-10-31T14:30:56.768Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 244,
+          "currentPriceEurCents": 243,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 244
+          "referencePriceEurCents": 243
         },
         {
           "countryCode": "HR",
@@ -238,7 +238,7 @@
       "productId": 7017,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 218.82,
+      "overallPercentDiff": 217.65,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -307,9 +307,9 @@
           "observedAt": "2026-09-01T12:31:46.773Z",
           "lastSeenAt": "2026-10-24T12:39:23.327Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 271,
+          "currentPriceEurCents": 270,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 271
+          "referencePriceEurCents": 270
         }
       ]
     },
@@ -317,7 +317,7 @@
       "productId": 10916,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 218.82,
+      "overallPercentDiff": 217.65,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -386,9 +386,9 @@
           "observedAt": "2026-09-01T12:32:54.339Z",
           "lastSeenAt": "2026-11-16T18:29:00.372Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 271,
+          "currentPriceEurCents": 270,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 271
+          "referencePriceEurCents": 270
         }
       ]
     },
@@ -465,9 +465,9 @@
           "observedAt": "2026-10-18T12:36:09.737Z",
           "lastSeenAt": "2026-11-17T13:18:13.918Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 814,
+          "currentPriceEurCents": 812,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 814
+          "referencePriceEurCents": 812
         }
       ]
     },
@@ -579,43 +579,6 @@
           "currentPriceEurCents": 3690,
           "referencePriceCents": 3690,
           "referencePriceEurCents": 3690
-        }
-      ]
-    },
-    {
-      "productId": 17970,
-      "brand": "Colgate",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 205.26,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Zobna ščetka za otroke, Super Soft, več različic, 1 kos",
-          "url": "https://www.dm.si/p/d/1492228/colgate-zobna-scetka-za-otroke-super-soft-vec-razlicic",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:18.489Z",
-          "lastSeenAt": "2026-10-21T13:44:37.793Z",
-          "currentPriceCents": 290,
-          "currentPriceEurCents": 290,
-          "referencePriceCents": 290,
-          "referencePriceEurCents": 290
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Zahnbürste Kinder Minions/Trolls, 2-6 Jahren..., 1 St",
-          "url": "https://www.dm.de/p/d/1492228/colgate-zahnbuerste-kinder-minions-trolls-2-6-jahren-extra-soft",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:27.891Z",
-          "lastSeenAt": "2026-10-21T13:44:46.413Z",
-          "currentPriceCents": 95,
-          "currentPriceEurCents": 95,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
         }
       ]
     },
@@ -776,7 +739,7 @@
       "productId": 5206,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 192.31,
+      "overallPercentDiff": 190.77,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -817,9 +780,9 @@
           "observedAt": "2026-09-01T12:29:59.422Z",
           "lastSeenAt": "2026-10-25T13:10:24.522Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 190,
+          "currentPriceEurCents": 189,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 190
+          "referencePriceEurCents": 189
         }
       ]
     },
@@ -827,7 +790,7 @@
       "productId": 5271,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 187.06,
+      "overallPercentDiff": 185.88,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -896,9 +859,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-11-10T12:35:05.271Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 244,
+          "currentPriceEurCents": 243,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 244
+          "referencePriceEurCents": 243
         }
       ]
     },
@@ -906,7 +869,7 @@
       "productId": 7733,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 187.06,
+      "overallPercentDiff": 185.88,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -975,9 +938,9 @@
           "observedAt": "2026-09-01T12:31:07.865Z",
           "lastSeenAt": "2026-10-31T14:30:54.836Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 244,
+          "currentPriceEurCents": 243,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 244
+          "referencePriceEurCents": 243
         }
       ]
     },
@@ -985,7 +948,7 @@
       "productId": 2456,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 185.26,
+      "overallPercentDiff": 184.21,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1054,9 +1017,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-11-11T16:08:05.457Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 271,
+          "currentPriceEurCents": 270,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 271
+          "referencePriceEurCents": 270
         }
       ]
     },
@@ -1064,7 +1027,7 @@
       "productId": 11162,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 185.26,
+      "overallPercentDiff": 184.21,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1133,9 +1096,9 @@
           "observedAt": "2026-11-06T12:04:37.247Z",
           "lastSeenAt": "2026-11-06T12:04:37.247Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 271,
+          "currentPriceEurCents": 270,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 271
+          "referencePriceEurCents": 270
         }
       ]
     },
@@ -1143,7 +1106,7 @@
       "productId": 11969,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 185.26,
+      "overallPercentDiff": 184.21,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1212,60 +1175,9 @@
           "observedAt": "2026-11-10T12:35:05.271Z",
           "lastSeenAt": "2026-11-10T12:35:05.271Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 271,
+          "currentPriceEurCents": 270,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 271
-        }
-      ]
-    },
-    {
-      "productId": 6257,
-      "brand": "Paradies",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 182.4,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Power Alkaline Mignon AA baterije, 8 kom.",
-          "url": "https://www.dm.hr/p/d/3059760/paradies-power-alkaline-mignon-aa-baterije",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:35.997Z",
-          "lastSeenAt": "2026-10-25T13:09:58.111Z",
-          "currentPriceCents": 160,
-          "currentPriceEurCents": 160,
-          "referencePriceCents": 160,
-          "referencePriceEurCents": 160
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Batterien Power Mignon AA, 8 St",
-          "url": "https://www.dm.de/p/d/3059760/paradies-batterien-power-mignon-aa",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:36.189Z",
-          "lastSeenAt": "2026-10-25T13:10:17.664Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Alkáli ceruzaelem AA, LR6 Mignon, 1,5 V XL, 8 db",
-          "url": "https://www.dm.hu/p/d/3059760/paradies-alkali-ceruzaelem-aa-lr6-mignon-1-5-v-xl",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:59.257Z",
-          "lastSeenAt": "2026-10-25T13:10:26.624Z",
-          "currentPriceCents": 129900,
-          "currentPriceEurCents": 353,
-          "referencePriceCents": 129900,
-          "referencePriceEurCents": 353
+          "referencePriceEurCents": 270
         }
       ]
     },
@@ -1307,10 +1219,61 @@
       ]
     },
     {
+      "productId": 6257,
+      "brand": "Paradies",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 181.6,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Power Alkaline Mignon AA baterije, 8 kom.",
+          "url": "https://www.dm.hr/p/d/3059760/paradies-power-alkaline-mignon-aa-baterije",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:35.997Z",
+          "lastSeenAt": "2026-10-25T13:09:58.111Z",
+          "currentPriceCents": 160,
+          "currentPriceEurCents": 160,
+          "referencePriceCents": 160,
+          "referencePriceEurCents": 160
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Batterien Power Mignon AA, 8 St",
+          "url": "https://www.dm.de/p/d/3059760/paradies-batterien-power-mignon-aa",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:36.189Z",
+          "lastSeenAt": "2026-10-25T13:10:17.664Z",
+          "currentPriceCents": 125,
+          "currentPriceEurCents": 125,
+          "referencePriceCents": 125,
+          "referencePriceEurCents": 125
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Alkáli ceruzaelem AA, LR6 Mignon, 1,5 V XL, 8 db",
+          "url": "https://www.dm.hu/p/d/3059760/paradies-alkali-ceruzaelem-aa-lr6-mignon-1-5-v-xl",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:59.257Z",
+          "lastSeenAt": "2026-10-25T13:10:26.624Z",
+          "currentPriceCents": 129900,
+          "currentPriceEurCents": 352,
+          "referencePriceCents": 129900,
+          "referencePriceEurCents": 352
+        }
+      ]
+    },
+    {
       "productId": 9912,
       "brand": "L'ORÉAL PARiS",
       "isCountryExtreme": true,
-      "overallPercentDiff": 174.94,
+      "overallPercentDiff": 173.92,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1379,9 +1342,9 @@
           "observedAt": "2026-09-01T12:31:30.809Z",
           "lastSeenAt": "2026-11-12T16:47:03.782Z",
           "currentPriceCents": 399900,
-          "currentPriceEurCents": 1086,
+          "currentPriceEurCents": 1082,
           "referencePriceCents": 399900,
-          "referencePriceEurCents": 1086
+          "referencePriceEurCents": 1082
         }
       ]
     },
@@ -1426,7 +1389,7 @@
       "productId": 1798,
       "brand": "Dr.Beckmann",
       "isCountryExtreme": true,
-      "overallPercentDiff": 166.78,
+      "overallPercentDiff": 166.1,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1467,9 +1430,9 @@
           "observedAt": "2026-09-01T12:32:54.339Z",
           "lastSeenAt": "2026-11-14T11:25:59.531Z",
           "currentPriceCents": 289900,
-          "currentPriceEurCents": 787,
+          "currentPriceEurCents": 785,
           "referencePriceCents": 289900,
-          "referencePriceEurCents": 787
+          "referencePriceEurCents": 785
         },
         {
           "countryCode": "DE",
@@ -1491,7 +1454,7 @@
       "productId": 6941,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 161.82,
+      "overallPercentDiff": 160,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1560,167 +1523,9 @@
           "observedAt": "2026-09-01T12:30:55.609Z",
           "lastSeenAt": "2026-11-14T11:26:01.094Z",
           "currentPriceCents": 52900,
-          "currentPriceEurCents": 144,
+          "currentPriceEurCents": 143,
           "referencePriceCents": 52900,
-          "referencePriceEurCents": 144
-        }
-      ]
-    },
-    {
-      "productId": 130,
-      "brand": "Paradies",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 158.41,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Power Alkaline Mignon AA LR 6 baterije, 20 kom.",
-          "url": "https://www.dm.hr/p/d/2482353/paradies-power-alkaline-mignon-aa-lr-6-baterije",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:41:18.167Z",
-          "lastSeenAt": "2026-11-11T16:07:48.455Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Alkalne baterije AA Mignon, LR 6, 1,5 V, 20 kos",
-          "url": "https://www.dm.si/p/d/2482353/paradies-alkalne-baterije-aa-mignon-lr-6-1-5-v",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:57.723Z",
-          "lastSeenAt": "2026-11-11T16:07:49.950Z",
-          "currentPriceCents": 345,
-          "currentPriceEurCents": 345,
-          "referencePriceCents": 345,
-          "referencePriceEurCents": 345
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Batterien AA Power Alkaline, 1 St",
-          "url": "https://www.dm.at/p/d/2482353/paradies-batterien-aa-power-alkaline",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:37:56.104Z",
-          "lastSeenAt": "2026-11-11T16:07:55.131Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Mignon AA LR6, 1 St",
-          "url": "https://www.dm.de/p/d/2482353/paradies-mignon-aa-lr6",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:36.189Z",
-          "lastSeenAt": "2026-11-11T16:07:58.520Z",
-          "currentPriceCents": 315,
-          "currentPriceEurCents": 315,
-          "referencePriceCents": 315,
-          "referencePriceEurCents": 315
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Alkáli ceruzaelem AA, LR6 Mignon, 1,5 V, 20 db",
-          "url": "https://www.dm.hu/p/d/2482353/paradies-alkali-ceruzaelem-aa-lr6-mignon-1-5-v",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:51.781Z",
-          "lastSeenAt": "2026-11-11T16:08:03.442Z",
-          "currentPriceCents": 299900,
-          "currentPriceEurCents": 814,
-          "referencePriceCents": 299900,
-          "referencePriceEurCents": 814
-        }
-      ]
-    },
-    {
-      "productId": 9553,
-      "brand": "Paradies",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 158.41,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "AAA baterije Power Alkaline Micro, 20 kom.",
-          "url": "https://www.dm.hr/p/d/2482381/paradies-aaa-baterije-power-alkaline-micro",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:56.123Z",
-          "lastSeenAt": "2026-10-23T13:22:35.945Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Alkalne baterije AAA Micro, LR 03, 1,5 V, večje..., 20 kos",
-          "url": "https://www.dm.si/p/d/2482381/paradies-alkalne-baterije-aaa-micro-lr-03-1-5-v-vecje-pakiranje",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:57.723Z",
-          "lastSeenAt": "2026-10-23T13:22:25.716Z",
-          "currentPriceCents": 345,
-          "currentPriceEurCents": 345,
-          "referencePriceCents": 345,
-          "referencePriceEurCents": 345
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Batterien AAA Power Alkaline, 1 St",
-          "url": "https://www.dm.at/p/d/2482381/paradies-batterien-aaa-power-alkaline",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:14.610Z",
-          "lastSeenAt": "2026-10-23T13:22:40.863Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Micro AAA LR03, 20 St",
-          "url": "https://www.dm.de/p/d/2482381/paradies-micro-aaa-lr03",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:57.904Z",
-          "lastSeenAt": "2026-10-23T13:22:53.420Z",
-          "currentPriceCents": 315,
-          "currentPriceEurCents": 315,
-          "referencePriceCents": 315,
-          "referencePriceEurCents": 315
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Alkáli ceruzaelem AAA, LR 03 Micro, 1,5 V, 20 db",
-          "url": "https://www.dm.hu/p/d/2482381/paradies-alkali-ceruzaelem-aaa-lr-03-micro-1-5-v",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:17.754Z",
-          "lastSeenAt": "2026-10-23T13:22:57.120Z",
-          "currentPriceCents": 299900,
-          "currentPriceEurCents": 814,
-          "referencePriceCents": 299900,
-          "referencePriceEurCents": 814
+          "referencePriceEurCents": 143
         }
       ]
     },
@@ -1804,10 +1609,298 @@
       ]
     },
     {
+      "productId": 130,
+      "brand": "Paradies",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 157.78,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Power Alkaline Mignon AA LR 6 baterije, 20 kom.",
+          "url": "https://www.dm.hr/p/d/2482353/paradies-power-alkaline-mignon-aa-lr-6-baterije",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:41:18.167Z",
+          "lastSeenAt": "2026-11-11T16:07:48.455Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Alkalne baterije AA Mignon, LR 6, 1,5 V, 20 kos",
+          "url": "https://www.dm.si/p/d/2482353/paradies-alkalne-baterije-aa-mignon-lr-6-1-5-v",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:57.723Z",
+          "lastSeenAt": "2026-11-11T16:07:49.950Z",
+          "currentPriceCents": 345,
+          "currentPriceEurCents": 345,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Batterien AA Power Alkaline, 1 St",
+          "url": "https://www.dm.at/p/d/2482353/paradies-batterien-aa-power-alkaline",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:37:56.104Z",
+          "lastSeenAt": "2026-11-11T16:07:55.131Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Mignon AA LR6, 1 St",
+          "url": "https://www.dm.de/p/d/2482353/paradies-mignon-aa-lr6",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:36.189Z",
+          "lastSeenAt": "2026-11-11T16:07:58.520Z",
+          "currentPriceCents": 315,
+          "currentPriceEurCents": 315,
+          "referencePriceCents": 315,
+          "referencePriceEurCents": 315
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Alkáli ceruzaelem AA, LR6 Mignon, 1,5 V, 20 db",
+          "url": "https://www.dm.hu/p/d/2482353/paradies-alkali-ceruzaelem-aa-lr6-mignon-1-5-v",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:51.781Z",
+          "lastSeenAt": "2026-11-11T16:08:03.442Z",
+          "currentPriceCents": 299900,
+          "currentPriceEurCents": 812,
+          "referencePriceCents": 299900,
+          "referencePriceEurCents": 812
+        }
+      ]
+    },
+    {
+      "productId": 9553,
+      "brand": "Paradies",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 157.78,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "AAA baterije Power Alkaline Micro, 20 kom.",
+          "url": "https://www.dm.hr/p/d/2482381/paradies-aaa-baterije-power-alkaline-micro",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:56.123Z",
+          "lastSeenAt": "2026-10-23T13:22:35.945Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Alkalne baterije AAA Micro, LR 03, 1,5 V, večje..., 20 kos",
+          "url": "https://www.dm.si/p/d/2482381/paradies-alkalne-baterije-aaa-micro-lr-03-1-5-v-vecje-pakiranje",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:57.723Z",
+          "lastSeenAt": "2026-10-23T13:22:25.716Z",
+          "currentPriceCents": 345,
+          "currentPriceEurCents": 345,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Batterien AAA Power Alkaline, 1 St",
+          "url": "https://www.dm.at/p/d/2482381/paradies-batterien-aaa-power-alkaline",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:14.610Z",
+          "lastSeenAt": "2026-10-23T13:22:40.863Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Micro AAA LR03, 20 St",
+          "url": "https://www.dm.de/p/d/2482381/paradies-micro-aaa-lr03",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:57.904Z",
+          "lastSeenAt": "2026-10-23T13:22:53.420Z",
+          "currentPriceCents": 315,
+          "currentPriceEurCents": 315,
+          "referencePriceCents": 315,
+          "referencePriceEurCents": 315
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Alkáli ceruzaelem AAA, LR 03 Micro, 1,5 V, 20 db",
+          "url": "https://www.dm.hu/p/d/2482381/paradies-alkali-ceruzaelem-aaa-lr-03-micro-1-5-v",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:17.754Z",
+          "lastSeenAt": "2026-10-23T13:22:57.120Z",
+          "currentPriceCents": 299900,
+          "currentPriceEurCents": 812,
+          "referencePriceCents": 299900,
+          "referencePriceEurCents": 812
+        }
+      ]
+    },
+    {
+      "productId": 16680,
+      "brand": "Mivolis",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 156.52,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Pršilo za nos z morsko vodo sensitiv, 20 ml",
+          "url": "https://www.dm.si/p/d/3115290/mivolis-prsilo-za-nos-z-morsko-vodo-sensitiv",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:00.643Z",
+          "lastSeenAt": "2026-10-28T15:04:59.594Z",
+          "currentPriceCents": 165,
+          "currentPriceEurCents": 165,
+          "referencePriceCents": 165,
+          "referencePriceEurCents": 165
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Meerwasser Nasenspray Sensitiv, 20 ml",
+          "url": "https://www.dm.at/p/d/3115290/mivolis-meerwasser-nasenspray-sensitiv",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:25.759Z",
+          "lastSeenAt": "2026-10-28T15:05:07.613Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Meerwasser Nasenspray Sensitiv, 20 ml",
+          "url": "https://www.dm.de/p/d/3115290/mivolis-meerwasser-nasenspray-sensitiv",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:35.806Z",
+          "lastSeenAt": "2026-10-28T15:05:13.312Z",
+          "currentPriceCents": 115,
+          "currentPriceEurCents": 115,
+          "referencePriceCents": 115,
+          "referencePriceEurCents": 115
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Tengervizes orrspray Szenzitív, 20 ml",
+          "url": "https://www.dm.hu/p/d/3115290/mivolis-tengervizes-orrspray-szenzitiv",
+          "isPromo": false,
+          "observedAt": "2026-10-28T15:05:18.088Z",
+          "lastSeenAt": "2026-10-28T15:05:18.088Z",
+          "currentPriceCents": 89900,
+          "currentPriceEurCents": 243,
+          "referencePriceCents": 89900,
+          "referencePriceEurCents": 243
+        }
+      ]
+    },
+    {
+      "productId": 4742,
+      "brand": "Dr. Beckmann",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 156,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Geruchs-Entferner, 500 ml",
+          "url": "https://www.dm.at/p/d/1711396/dr-beckmann-geruchs-entferner",
+          "isPromo": false,
+          "observedAt": "2026-08-28T16:48:26.874Z",
+          "lastSeenAt": "2026-11-06T12:04:17.965Z",
+          "currentPriceCents": 455,
+          "currentPriceEurCents": 455,
+          "referencePriceCents": 455,
+          "referencePriceEurCents": 455
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Sredstvo za odstranjevanje neprijetnih vonjav, 500 ml",
+          "url": "https://www.dm.si/p/d/1711396/dr-beckmann-sredstvo-za-odstranjevanje-neprijetnih-vonjav",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:11.027Z",
+          "lastSeenAt": "2026-11-06T12:04:05.052Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Geruchsentferner, 500 ml",
+          "url": "https://www.dm.de/p/d/1711396/dr-beckmann-geruchsentferner",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:56.477Z",
+          "lastSeenAt": "2026-11-06T12:04:31.813Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Szageltávolító folyadék ruhákhoz, 0,5 l",
+          "url": "https://www.dm.hu/p/d/1711396/dr-beckmann-szageltavolito-folyadek-ruhakhoz",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:10.517Z",
+          "lastSeenAt": "2026-11-06T12:04:35.434Z",
+          "currentPriceCents": 259900,
+          "currentPriceEurCents": 704,
+          "referencePriceCents": 259900,
+          "referencePriceEurCents": 704
+        }
+      ]
+    },
+    {
       "productId": 1013,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 156.84,
+      "overallPercentDiff": 155.79,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1876,88 +1969,9 @@
           "observedAt": "2026-09-01T12:32:19.940Z",
           "lastSeenAt": "2026-10-25T13:10:24.522Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 244,
+          "currentPriceEurCents": 243,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 244
-        }
-      ]
-    },
-    {
-      "productId": 1880,
-      "brand": "Balea",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 156.84,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Nežna krema za umivanje, 150 ml",
-          "url": "https://www.dm.si/p/d/1199603/balea-nezna-krema-za-umivanje",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:55:05.597Z",
-          "lastSeenAt": "2026-10-30T15:01:36.549Z",
-          "currentPriceCents": 210,
-          "currentPriceEurCents": 210,
-          "referencePriceCents": 210,
-          "referencePriceEurCents": 210
-        },
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Blaga krema za pranje lica, 150 ml",
-          "url": "https://www.dm.hr/p/d/1199603/balea-blaga-krema-za-pranje-lica",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:45.205Z",
-          "lastSeenAt": "2026-10-30T15:01:30.548Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Waschcreme sanft, 150 ml",
-          "url": "https://www.dm.at/p/d/1199603/balea-waschcreme-sanft",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:50.292Z",
-          "lastSeenAt": "2026-10-30T15:01:43.490Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Waschcreme sanft, 150 ml",
-          "url": "https://www.dm.de/p/d/1199603/balea-waschcreme-sanft",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:59.460Z",
-          "lastSeenAt": "2026-10-30T15:01:46.437Z",
-          "currentPriceCents": 95,
-          "currentPriceEurCents": 95,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Kímélő arclemosó krém, mandulaolajjal és..., 150 ml",
-          "url": "https://www.dm.hu/p/d/1199603/balea-kimelo-arclemoso-krem-mandulaolajjal-es-e-vitamin-gyongyokkel",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:25.549Z",
-          "lastSeenAt": "2026-10-30T15:01:51.674Z",
-          "currentPriceCents": 89900,
-          "currentPriceEurCents": 244,
-          "referencePriceCents": 89900,
-          "referencePriceEurCents": 244
+          "referencePriceEurCents": 243
         }
       ]
     }
