@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-20T13:54:00.826Z",
+  "generatedAt": "2026-11-21T13:17:29.032Z",
   "fx": {
-    "asOf": "2026-11-19",
+    "asOf": "2026-11-20",
     "rates": {
-      "USD": 1.0992,
-      "JPY": 175.84,
-      "CZK": 24.427,
-      "DKK": 7.4742,
-      "GBP": 0.83581,
-      "HUF": 369.43,
-      "PLN": 4.417,
-      "RON": 5.3473,
-      "SEK": 11.147,
-      "CHF": 0.9262,
+      "USD": 1.099,
+      "JPY": 174.35,
+      "CZK": 24.469,
+      "DKK": 7.4746,
+      "GBP": 0.83735,
+      "HUF": 373.55,
+      "PLN": 4.4583,
+      "RON": 5.3493,
+      "SEK": 11.2125,
+      "CHF": 0.9223,
       "ISK": 137.2,
-      "NOK": 10.6475,
-      "TRY": 55.4737,
-      "AUD": 1.6378,
-      "BRL": 6.4765,
-      "CAD": 1.5719,
-      "CNY": 7.328,
-      "HKD": 8.6239,
-      "IDR": 20073.1,
-      "ILS": 3.6149,
-      "INR": 102.55,
-      "KRW": 1460.23,
-      "MXN": 20.7946,
-      "MYR": 4.5205,
-      "NZD": 1.989,
-      "PHP": 70.014,
-      "SGD": 1.4176,
-      "THB": 37.268,
-      "ZAR": 18.9948
+      "NOK": 10.718,
+      "TRY": 55.5788,
+      "AUD": 1.6487,
+      "BRL": 6.5259,
+      "CAD": 1.5723,
+      "CNY": 7.3388,
+      "HKD": 8.615,
+      "IDR": 20071.37,
+      "ILS": 3.6737,
+      "INR": 101.85,
+      "KRW": 1472.04,
+      "MXN": 20.9547,
+      "MYR": 4.5196,
+      "NZD": 1.9968,
+      "PHP": 70.091,
+      "SGD": 1.416,
+      "THB": 37.262,
+      "ZAR": 19.1987
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -98,9 +98,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-11-13T12:09:04.712Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 189,
+          "currentPriceEurCents": 187,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 189
+          "referencePriceEurCents": 187
         }
       ]
     },
@@ -159,7 +159,7 @@
       "productId": 15471,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 224,
+      "overallPercentDiff": 221.33,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -214,9 +214,9 @@
           "observedAt": "2026-09-01T12:31:37.751Z",
           "lastSeenAt": "2026-10-31T14:30:56.768Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 243,
+          "currentPriceEurCents": 241,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 243
+          "referencePriceEurCents": 241
         },
         {
           "countryCode": "HR",
@@ -231,164 +231,6 @@
           "currentPriceEurCents": 115,
           "referencePriceCents": 115,
           "referencePriceEurCents": 115
-        }
-      ]
-    },
-    {
-      "productId": 7017,
-      "brand": "Balea",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 217.65,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Osvježavajući gel za pranje lica – aloe vera, 150 ml",
-          "url": "https://www.dm.hr/p/d/1610492/balea-osvjezavajuci-gel-za-pranje-lica-aloe-vera",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:40.566Z",
-          "lastSeenAt": "2026-10-24T12:39:12.602Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Osvežujoči gel za umivanje obraza z aloe vero, 150 ml",
-          "url": "https://www.dm.si/p/d/1610492/balea-osvezujoci-gel-za-umivanje-obraza-z-aloe-vero",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:55.159Z",
-          "lastSeenAt": "2026-10-24T12:39:06.301Z",
-          "currentPriceCents": 165,
-          "currentPriceEurCents": 165,
-          "referencePriceCents": 165,
-          "referencePriceEurCents": 165
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Waschgel Erfrischend, 150 ml",
-          "url": "https://www.dm.at/p/d/1610492/balea-waschgel-erfrischend",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:37.949Z",
-          "lastSeenAt": "2026-10-24T12:39:15.285Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Waschgel erfrischend, 150 ml",
-          "url": "https://www.dm.de/p/d/1610492/balea-waschgel-erfrischend",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:03.187Z",
-          "lastSeenAt": "2026-10-24T12:39:21.028Z",
-          "currentPriceCents": 85,
-          "currentPriceEurCents": 85,
-          "referencePriceCents": 85,
-          "referencePriceEurCents": 85
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Frissítő arctisztító gél normál és vegyes bőrre,..., 150 ml",
-          "url": "https://www.dm.hu/p/d/1610492/balea-frissito-arctisztito-gel-normal-es-vegyes-borre-hydro-komplexszel-es-10-aloe-veraval",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:46.773Z",
-          "lastSeenAt": "2026-10-24T12:39:23.327Z",
-          "currentPriceCents": 99900,
-          "currentPriceEurCents": 270,
-          "referencePriceCents": 99900,
-          "referencePriceEurCents": 270
-        }
-      ]
-    },
-    {
-      "productId": 10916,
-      "brand": "Denkmit",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 217.65,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Sjajilo za posuđe, 1 l",
-          "url": "https://www.dm.hr/p/d/1125375/denkmit-sjajilo-za-posu-e",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:04.766Z",
-          "lastSeenAt": "2026-11-16T18:28:45.899Z",
-          "currentPriceCents": 130,
-          "currentPriceEurCents": 130,
-          "referencePriceCents": 130,
-          "referencePriceEurCents": 130
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Tekočina za izpiranje, za sijaj posode in stekla, 1 l",
-          "url": "https://www.dm.si/p/d/1125375/denkmit-tekocina-za-izpiranje-za-sijaj-posode-in-stekla",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:48.431Z",
-          "lastSeenAt": "2026-11-16T18:28:44.569Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Klarspüler, 1 l",
-          "url": "https://www.dm.at/p/d/1125375/denkmit-klarspueler",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:02.765Z",
-          "lastSeenAt": "2026-11-16T18:28:53.215Z",
-          "currentPriceCents": 115,
-          "currentPriceEurCents": 115,
-          "referencePriceCents": 115,
-          "referencePriceEurCents": 115
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Klarspüler, 1 l",
-          "url": "https://www.dm.de/p/d/1125375/denkmit-klarspueler",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:20.964Z",
-          "lastSeenAt": "2026-11-16T18:28:59.075Z",
-          "currentPriceCents": 85,
-          "currentPriceEurCents": 85,
-          "referencePriceCents": 85,
-          "referencePriceEurCents": 85
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Öblítő mosogatógéphez, 1 000 ml",
-          "url": "https://www.dm.hu/p/d/1125375/denkmit-oblito-mosogatogephez",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:54.339Z",
-          "lastSeenAt": "2026-11-16T18:29:00.372Z",
-          "currentPriceCents": 99900,
-          "currentPriceEurCents": 270,
-          "referencePriceCents": 99900,
-          "referencePriceEurCents": 270
         }
       ]
     },
@@ -465,9 +307,167 @@
           "observedAt": "2026-10-18T12:36:09.737Z",
           "lastSeenAt": "2026-11-17T13:18:13.918Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 812,
+          "currentPriceEurCents": 803,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 812
+          "referencePriceEurCents": 803
+        }
+      ]
+    },
+    {
+      "productId": 7017,
+      "brand": "Balea",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 214.12,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Osvježavajući gel za pranje lica – aloe vera, 150 ml",
+          "url": "https://www.dm.hr/p/d/1610492/balea-osvjezavajuci-gel-za-pranje-lica-aloe-vera",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:40.566Z",
+          "lastSeenAt": "2026-10-24T12:39:12.602Z",
+          "currentPriceCents": 125,
+          "currentPriceEurCents": 125,
+          "referencePriceCents": 125,
+          "referencePriceEurCents": 125
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Osvežujoči gel za umivanje obraza z aloe vero, 150 ml",
+          "url": "https://www.dm.si/p/d/1610492/balea-osvezujoci-gel-za-umivanje-obraza-z-aloe-vero",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:55.159Z",
+          "lastSeenAt": "2026-10-24T12:39:06.301Z",
+          "currentPriceCents": 165,
+          "currentPriceEurCents": 165,
+          "referencePriceCents": 165,
+          "referencePriceEurCents": 165
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Waschgel Erfrischend, 150 ml",
+          "url": "https://www.dm.at/p/d/1610492/balea-waschgel-erfrischend",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:37.949Z",
+          "lastSeenAt": "2026-10-24T12:39:15.285Z",
+          "currentPriceCents": 125,
+          "currentPriceEurCents": 125,
+          "referencePriceCents": 125,
+          "referencePriceEurCents": 125
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Waschgel erfrischend, 150 ml",
+          "url": "https://www.dm.de/p/d/1610492/balea-waschgel-erfrischend",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:03.187Z",
+          "lastSeenAt": "2026-10-24T12:39:21.028Z",
+          "currentPriceCents": 85,
+          "currentPriceEurCents": 85,
+          "referencePriceCents": 85,
+          "referencePriceEurCents": 85
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Frissítő arctisztító gél normál és vegyes bőrre,..., 150 ml",
+          "url": "https://www.dm.hu/p/d/1610492/balea-frissito-arctisztito-gel-normal-es-vegyes-borre-hydro-komplexszel-es-10-aloe-veraval",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:46.773Z",
+          "lastSeenAt": "2026-10-24T12:39:23.327Z",
+          "currentPriceCents": 99900,
+          "currentPriceEurCents": 267,
+          "referencePriceCents": 99900,
+          "referencePriceEurCents": 267
+        }
+      ]
+    },
+    {
+      "productId": 10916,
+      "brand": "Denkmit",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 214.12,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Sjajilo za posuđe, 1 l",
+          "url": "https://www.dm.hr/p/d/1125375/denkmit-sjajilo-za-posu-e",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:04.766Z",
+          "lastSeenAt": "2026-11-16T18:28:45.899Z",
+          "currentPriceCents": 130,
+          "currentPriceEurCents": 130,
+          "referencePriceCents": 130,
+          "referencePriceEurCents": 130
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Tekočina za izpiranje, za sijaj posode in stekla, 1 l",
+          "url": "https://www.dm.si/p/d/1125375/denkmit-tekocina-za-izpiranje-za-sijaj-posode-in-stekla",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:48.431Z",
+          "lastSeenAt": "2026-11-16T18:28:44.569Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Klarspüler, 1 l",
+          "url": "https://www.dm.at/p/d/1125375/denkmit-klarspueler",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:02.765Z",
+          "lastSeenAt": "2026-11-16T18:28:53.215Z",
+          "currentPriceCents": 115,
+          "currentPriceEurCents": 115,
+          "referencePriceCents": 115,
+          "referencePriceEurCents": 115
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Klarspüler, 1 l",
+          "url": "https://www.dm.de/p/d/1125375/denkmit-klarspueler",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:20.964Z",
+          "lastSeenAt": "2026-11-16T18:28:59.075Z",
+          "currentPriceCents": 85,
+          "currentPriceEurCents": 85,
+          "referencePriceCents": 85,
+          "referencePriceEurCents": 85
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Öblítő mosogatógéphez, 1 000 ml",
+          "url": "https://www.dm.hu/p/d/1125375/denkmit-oblito-mosogatogephez",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:54.339Z",
+          "lastSeenAt": "2026-11-16T18:29:00.372Z",
+          "currentPriceCents": 99900,
+          "currentPriceEurCents": 267,
+          "referencePriceCents": 99900,
+          "referencePriceEurCents": 267
         }
       ]
     },
@@ -579,6 +579,43 @@
           "currentPriceEurCents": 3690,
           "referencePriceCents": 3690,
           "referencePriceEurCents": 3690
+        }
+      ]
+    },
+    {
+      "productId": 17970,
+      "brand": "Colgate",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 205.26,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Otroška zobna ščetka, 3-5 let, Extra Soft, več..., 1 kos",
+          "url": "https://www.dm.si/p/d/1492228/colgate-otroska-zobna-scetka-3-5-let-extra-soft-vec-razlicic",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:18.489Z",
+          "lastSeenAt": "2026-11-20T16:56:17.681Z",
+          "currentPriceCents": 290,
+          "currentPriceEurCents": 290,
+          "referencePriceCents": 290,
+          "referencePriceEurCents": 290
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Zahnbürste Kinder Minions/Trolls, 2-6 Jahren..., 1 St",
+          "url": "https://www.dm.de/p/d/1492228/colgate-zahnbuerste-kinder-minions-trolls-2-6-jahren-extra-soft",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:27.891Z",
+          "lastSeenAt": "2026-11-20T16:56:30.474Z",
+          "currentPriceCents": 95,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
         }
       ]
     },
@@ -729,9 +766,9 @@
           "observedAt": "2026-09-01T12:31:05.211Z",
           "lastSeenAt": "2026-11-01T15:04:50.279Z",
           "currentPriceCents": 49900,
-          "currentPriceEurCents": 135,
+          "currentPriceEurCents": 134,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 135
+          "referencePriceEurCents": 134
         }
       ]
     },
@@ -739,7 +776,7 @@
       "productId": 5206,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 190.77,
+      "overallPercentDiff": 187.69,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -780,9 +817,9 @@
           "observedAt": "2026-09-01T12:29:59.422Z",
           "lastSeenAt": "2026-10-25T13:10:24.522Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 189,
+          "currentPriceEurCents": 187,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 189
+          "referencePriceEurCents": 187
         }
       ]
     },
@@ -790,7 +827,7 @@
       "productId": 5271,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 185.88,
+      "overallPercentDiff": 183.53,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -859,9 +896,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-11-10T12:35:05.271Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 243,
+          "currentPriceEurCents": 241,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 243
+          "referencePriceEurCents": 241
         }
       ]
     },
@@ -869,7 +906,7 @@
       "productId": 7733,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 185.88,
+      "overallPercentDiff": 183.53,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -938,9 +975,46 @@
           "observedAt": "2026-09-01T12:31:07.865Z",
           "lastSeenAt": "2026-10-31T14:30:54.836Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 243,
+          "currentPriceEurCents": 241,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 243
+          "referencePriceEurCents": 241
+        }
+      ]
+    },
+    {
+      "productId": 39160,
+      "brand": "Tabac Original",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 181.82,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Deospray Natural, 100 ml",
+          "url": "https://www.dm.at/p/d/1016800/tabac-original-deospray-natural",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:38:09.044Z",
+          "lastSeenAt": "2026-10-29T15:12:27.046Z",
+          "currentPriceCents": 1395,
+          "currentPriceEurCents": 1395,
+          "referencePriceCents": 1395,
+          "referencePriceEurCents": 1395
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Deo Naturalspray, 100 ml",
+          "url": "https://www.dm.de/p/d/1016800/tabac-original-deo-naturalspray",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:16.760Z",
+          "lastSeenAt": "2026-10-29T15:12:37.043Z",
+          "currentPriceCents": 495,
+          "currentPriceEurCents": 495,
+          "referencePriceCents": 495,
+          "referencePriceEurCents": 495
         }
       ]
     },
@@ -948,7 +1022,7 @@
       "productId": 2456,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 184.21,
+      "overallPercentDiff": 181.05,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1017,9 +1091,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-11-11T16:08:05.457Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 270,
+          "currentPriceEurCents": 267,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 270
+          "referencePriceEurCents": 267
         }
       ]
     },
@@ -1027,7 +1101,7 @@
       "productId": 11162,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 184.21,
+      "overallPercentDiff": 181.05,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1096,9 +1170,9 @@
           "observedAt": "2026-11-06T12:04:37.247Z",
           "lastSeenAt": "2026-11-06T12:04:37.247Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 270,
+          "currentPriceEurCents": 267,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 270
+          "referencePriceEurCents": 267
         }
       ]
     },
@@ -1106,7 +1180,7 @@
       "productId": 11969,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 184.21,
+      "overallPercentDiff": 181.05,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1175,46 +1249,9 @@
           "observedAt": "2026-11-10T12:35:05.271Z",
           "lastSeenAt": "2026-11-10T12:35:05.271Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 270,
+          "currentPriceEurCents": 267,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 270
-        }
-      ]
-    },
-    {
-      "productId": 39160,
-      "brand": "Tabac Original",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 181.82,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Deospray Natural, 100 ml",
-          "url": "https://www.dm.at/p/d/1016800/tabac-original-deospray-natural",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:38:09.044Z",
-          "lastSeenAt": "2026-10-29T15:12:27.046Z",
-          "currentPriceCents": 1395,
-          "currentPriceEurCents": 1395,
-          "referencePriceCents": 1395,
-          "referencePriceEurCents": 1395
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Deo Naturalspray, 100 ml",
-          "url": "https://www.dm.de/p/d/1016800/tabac-original-deo-naturalspray",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:16.760Z",
-          "lastSeenAt": "2026-10-29T15:12:37.043Z",
-          "currentPriceCents": 495,
-          "currentPriceEurCents": 495,
-          "referencePriceCents": 495,
-          "referencePriceEurCents": 495
+          "referencePriceEurCents": 267
         }
       ]
     },
@@ -1222,7 +1259,7 @@
       "productId": 6257,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 181.6,
+      "overallPercentDiff": 178.4,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1263,9 +1300,46 @@
           "observedAt": "2026-09-01T12:32:59.257Z",
           "lastSeenAt": "2026-10-25T13:10:26.624Z",
           "currentPriceCents": 129900,
-          "currentPriceEurCents": 352,
+          "currentPriceEurCents": 348,
           "referencePriceCents": 129900,
-          "referencePriceEurCents": 352
+          "referencePriceEurCents": 348
+        }
+      ]
+    },
+    {
+      "productId": 28843,
+      "brand": "GUHL",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 172.55,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Schaumtönungsfestiger - Nr. 30 Dunkelbraun, 100 ml",
+          "url": "https://www.dm.at/p/d/1703500/guhl-schaumtoenungsfestiger-nr-30-dunkelbraun",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:21.239Z",
+          "lastSeenAt": "2026-10-31T14:30:41.774Z",
+          "currentPriceCents": 695,
+          "currentPriceEurCents": 695,
+          "referencePriceCents": 695,
+          "referencePriceEurCents": 695
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Haartönung Schaumfestiger 30 Dunkelbraun, 100 ml",
+          "url": "https://www.dm.de/p/d/1703500/guhl-haartoenung-schaumfestiger-30-dunkelbraun",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:31.956Z",
+          "lastSeenAt": "2026-10-31T14:30:45.309Z",
+          "currentPriceCents": 255,
+          "currentPriceEurCents": 255,
+          "referencePriceCents": 255,
+          "referencePriceEurCents": 255
         }
       ]
     },
@@ -1273,7 +1347,7 @@
       "productId": 9912,
       "brand": "L'ORÉAL PARiS",
       "isCountryExtreme": true,
-      "overallPercentDiff": 173.92,
+      "overallPercentDiff": 171.14,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1342,46 +1416,9 @@
           "observedAt": "2026-09-01T12:31:30.809Z",
           "lastSeenAt": "2026-11-12T16:47:03.782Z",
           "currentPriceCents": 399900,
-          "currentPriceEurCents": 1082,
+          "currentPriceEurCents": 1071,
           "referencePriceCents": 399900,
-          "referencePriceEurCents": 1082
-        }
-      ]
-    },
-    {
-      "productId": 28843,
-      "brand": "GUHL",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 172.55,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Schaumtönungsfestiger - Nr. 30 Dunkelbraun, 100 ml",
-          "url": "https://www.dm.at/p/d/1703500/guhl-schaumtoenungsfestiger-nr-30-dunkelbraun",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:21.239Z",
-          "lastSeenAt": "2026-10-31T14:30:41.774Z",
-          "currentPriceCents": 695,
-          "currentPriceEurCents": 695,
-          "referencePriceCents": 695,
-          "referencePriceEurCents": 695
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Haartönung Schaumfestiger 30 Dunkelbraun, 100 ml",
-          "url": "https://www.dm.de/p/d/1703500/guhl-haartoenung-schaumfestiger-30-dunkelbraun",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:31.956Z",
-          "lastSeenAt": "2026-10-31T14:30:45.309Z",
-          "currentPriceCents": 255,
-          "currentPriceEurCents": 255,
-          "referencePriceCents": 255,
-          "referencePriceEurCents": 255
+          "referencePriceEurCents": 1071
         }
       ]
     },
@@ -1389,7 +1426,7 @@
       "productId": 1798,
       "brand": "Dr.Beckmann",
       "isCountryExtreme": true,
-      "overallPercentDiff": 166.1,
+      "overallPercentDiff": 163.05,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1430,9 +1467,9 @@
           "observedAt": "2026-09-01T12:32:54.339Z",
           "lastSeenAt": "2026-11-14T11:25:59.531Z",
           "currentPriceCents": 289900,
-          "currentPriceEurCents": 785,
+          "currentPriceEurCents": 776,
           "referencePriceCents": 289900,
-          "referencePriceEurCents": 785
+          "referencePriceEurCents": 776
         },
         {
           "countryCode": "DE",
@@ -1454,7 +1491,7 @@
       "productId": 6941,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 160,
+      "overallPercentDiff": 158.18,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1523,9 +1560,9 @@
           "observedAt": "2026-09-01T12:30:55.609Z",
           "lastSeenAt": "2026-11-14T11:26:01.094Z",
           "currentPriceCents": 52900,
-          "currentPriceEurCents": 143,
+          "currentPriceEurCents": 142,
           "referencePriceCents": 52900,
-          "referencePriceEurCents": 143
+          "referencePriceEurCents": 142
         }
       ]
     },
@@ -1602,9 +1639,74 @@
           "observedAt": "2026-09-01T12:32:09.419Z",
           "lastSeenAt": "2026-11-15T15:38:48.145Z",
           "currentPriceCents": 74900,
-          "currentPriceEurCents": 203,
+          "currentPriceEurCents": 201,
           "referencePriceCents": 74900,
-          "referencePriceEurCents": 203
+          "referencePriceEurCents": 201
+        }
+      ]
+    },
+    {
+      "productId": 16680,
+      "brand": "Mivolis",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 156.52,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Pršilo za nos z morsko vodo sensitiv, 20 ml",
+          "url": "https://www.dm.si/p/d/3115290/mivolis-prsilo-za-nos-z-morsko-vodo-sensitiv",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:00.643Z",
+          "lastSeenAt": "2026-10-28T15:04:59.594Z",
+          "currentPriceCents": 165,
+          "currentPriceEurCents": 165,
+          "referencePriceCents": 165,
+          "referencePriceEurCents": 165
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Meerwasser Nasenspray Sensitiv, 20 ml",
+          "url": "https://www.dm.at/p/d/3115290/mivolis-meerwasser-nasenspray-sensitiv",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:25.759Z",
+          "lastSeenAt": "2026-10-28T15:05:07.613Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Meerwasser Nasenspray Sensitiv, 20 ml",
+          "url": "https://www.dm.de/p/d/3115290/mivolis-meerwasser-nasenspray-sensitiv",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:35.806Z",
+          "lastSeenAt": "2026-10-28T15:05:13.312Z",
+          "currentPriceCents": 115,
+          "currentPriceEurCents": 115,
+          "referencePriceCents": 115,
+          "referencePriceEurCents": 115
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Tengervizes orrspray Szenzitív, 20 ml",
+          "url": "https://www.dm.hu/p/d/3115290/mivolis-tengervizes-orrspray-szenzitiv",
+          "isPromo": false,
+          "observedAt": "2026-10-28T15:05:18.088Z",
+          "lastSeenAt": "2026-10-28T15:05:18.088Z",
+          "currentPriceCents": 89900,
+          "currentPriceEurCents": 241,
+          "referencePriceCents": 89900,
+          "referencePriceEurCents": 241
         }
       ]
     },
@@ -1612,7 +1714,7 @@
       "productId": 130,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 157.78,
+      "overallPercentDiff": 154.92,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1681,9 +1783,9 @@
           "observedAt": "2026-09-01T12:32:51.781Z",
           "lastSeenAt": "2026-11-11T16:08:03.442Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 812,
+          "currentPriceEurCents": 803,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 812
+          "referencePriceEurCents": 803
         }
       ]
     },
@@ -1691,7 +1793,7 @@
       "productId": 9553,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 157.78,
+      "overallPercentDiff": 154.92,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1760,107 +1862,28 @@
           "observedAt": "2026-09-01T12:31:17.754Z",
           "lastSeenAt": "2026-10-23T13:22:57.120Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 812,
+          "currentPriceEurCents": 803,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 812
+          "referencePriceEurCents": 803
         }
       ]
     },
     {
-      "productId": 16680,
-      "brand": "Mivolis",
+      "productId": 27382,
+      "brand": "Garnier Skin Active",
       "isCountryExtreme": true,
-      "overallPercentDiff": 156.52,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Pršilo za nos z morsko vodo sensitiv, 20 ml",
-          "url": "https://www.dm.si/p/d/3115290/mivolis-prsilo-za-nos-z-morsko-vodo-sensitiv",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:00.643Z",
-          "lastSeenAt": "2026-10-28T15:04:59.594Z",
-          "currentPriceCents": 165,
-          "currentPriceEurCents": 165,
-          "referencePriceCents": 165,
-          "referencePriceEurCents": 165
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Meerwasser Nasenspray Sensitiv, 20 ml",
-          "url": "https://www.dm.at/p/d/3115290/mivolis-meerwasser-nasenspray-sensitiv",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:25.759Z",
-          "lastSeenAt": "2026-10-28T15:05:07.613Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Meerwasser Nasenspray Sensitiv, 20 ml",
-          "url": "https://www.dm.de/p/d/3115290/mivolis-meerwasser-nasenspray-sensitiv",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:35.806Z",
-          "lastSeenAt": "2026-10-28T15:05:13.312Z",
-          "currentPriceCents": 115,
-          "currentPriceEurCents": 115,
-          "referencePriceCents": 115,
-          "referencePriceEurCents": 115
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Tengervizes orrspray Szenzitív, 20 ml",
-          "url": "https://www.dm.hu/p/d/3115290/mivolis-tengervizes-orrspray-szenzitiv",
-          "isPromo": false,
-          "observedAt": "2026-10-28T15:05:18.088Z",
-          "lastSeenAt": "2026-10-28T15:05:18.088Z",
-          "currentPriceCents": 89900,
-          "currentPriceEurCents": 243,
-          "referencePriceCents": 89900,
-          "referencePriceEurCents": 243
-        }
-      ]
-    },
-    {
-      "productId": 4742,
-      "brand": "Dr. Beckmann",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 156,
+      "overallPercentDiff": 154.84,
       "gapToExtremePercent": 0,
       "countries": [
         {
           "countryCode": "AT",
           "shopId": "dm-at",
           "currency": "EUR",
-          "name": "Geruchs-Entferner, 500 ml",
-          "url": "https://www.dm.at/p/d/1711396/dr-beckmann-geruchs-entferner",
+          "name": "Mizellenwasser All-in-1 Normale & Empfindliche..., 100 ml",
+          "url": "https://www.dm.at/p/d/1575805/garnier-skin-active-mizellenwasser-all-in-1-normale-und-empfindliche-haut",
           "isPromo": false,
-          "observedAt": "2026-08-28T16:48:26.874Z",
-          "lastSeenAt": "2026-11-06T12:04:17.965Z",
-          "currentPriceCents": 455,
-          "currentPriceEurCents": 455,
-          "referencePriceCents": 455,
-          "referencePriceEurCents": 455
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Sredstvo za odstranjevanje neprijetnih vonjav, 500 ml",
-          "url": "https://www.dm.si/p/d/1711396/dr-beckmann-sredstvo-za-odstranjevanje-neprijetnih-vonjav",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:11.027Z",
-          "lastSeenAt": "2026-11-06T12:04:05.052Z",
+          "observedAt": "2026-08-30T22:36:01.644Z",
+          "lastSeenAt": "2026-11-17T13:18:00.415Z",
           "currentPriceCents": 395,
           "currentPriceEurCents": 395,
           "referencePriceCents": 395,
@@ -1870,108 +1893,15 @@
           "countryCode": "DE",
           "shopId": "dm-de",
           "currency": "EUR",
-          "name": "Geruchsentferner, 500 ml",
-          "url": "https://www.dm.de/p/d/1711396/dr-beckmann-geruchsentferner",
+          "name": "Mizellenwasser All-in-1, Reisegröße, 100 ml",
+          "url": "https://www.dm.de/p/d/1575805/garnier-skin-active-mizellenwasser-all-in-1-reisegroesse",
           "isPromo": false,
-          "observedAt": "2026-08-31T20:40:56.477Z",
-          "lastSeenAt": "2026-11-06T12:04:31.813Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Szageltávolító folyadék ruhákhoz, 0,5 l",
-          "url": "https://www.dm.hu/p/d/1711396/dr-beckmann-szageltavolito-folyadek-ruhakhoz",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:10.517Z",
-          "lastSeenAt": "2026-11-06T12:04:35.434Z",
-          "currentPriceCents": 259900,
-          "currentPriceEurCents": 704,
-          "referencePriceCents": 259900,
-          "referencePriceEurCents": 704
-        }
-      ]
-    },
-    {
-      "productId": 1013,
-      "brand": "Profissimo",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 155.79,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Filter za kavo, velikost 4, 120 kos",
-          "url": "https://www.dm.si/p/d/1199165/profissimo-filter-za-kavo-velikost-4",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:49:14.641Z",
-          "lastSeenAt": "2026-10-25T13:10:04.750Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Kaffeefilter Größe 4, 120 St",
-          "url": "https://www.dm.at/p/d/1199165/profissimo-kaffeefilter-groesse-4",
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:40:44.075Z",
-          "lastSeenAt": "2026-10-25T13:10:09.461Z",
-          "currentPriceCents": 115,
-          "currentPriceEurCents": 115,
-          "referencePriceCents": 115,
-          "referencePriceEurCents": 115
-        },
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Filtar za kavu – veličina 4, 120 kom.",
-          "url": "https://www.dm.hr/p/d/1199165/profissimo-filtar-za-kavu-velicina-4",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:17.918Z",
-          "lastSeenAt": "2026-10-25T13:09:58.111Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Kaffeefilter Größe 4, 120 St",
-          "url": "https://www.dm.de/p/d/1199165/profissimo-kaffeefilter-groesse-4",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:44.209Z",
-          "lastSeenAt": "2026-10-25T13:10:15.467Z",
-          "currentPriceCents": 95,
-          "currentPriceEurCents": 95,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Kávéfilter 4-es méret, 120 db",
-          "url": "https://www.dm.hu/p/d/1199165/profissimo-kavefilter-4-es-meret",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:19.940Z",
-          "lastSeenAt": "2026-10-25T13:10:24.522Z",
-          "currentPriceCents": 89900,
-          "currentPriceEurCents": 243,
-          "referencePriceCents": 89900,
-          "referencePriceEurCents": 243
+          "observedAt": "2026-08-31T20:41:55.786Z",
+          "lastSeenAt": "2026-11-17T13:18:06.311Z",
+          "currentPriceCents": 155,
+          "currentPriceEurCents": 155,
+          "referencePriceCents": 155,
+          "referencePriceEurCents": 155
         }
       ]
     }
