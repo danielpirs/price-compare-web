@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T13:17:29.032Z",
+  "generatedAt": "2026-11-22T13:09:28.147Z",
   "fx": {
     "asOf": "2026-11-20",
     "rates": {
@@ -1256,57 +1256,6 @@
       ]
     },
     {
-      "productId": 29014,
-      "brand": "Frosch",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 103.29,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Raumduft Stäbchen Nachfüllpack Zitronengrasfrische, 90 ml",
-          "url": "https://www.dm.at/p/d/1335285/frosch-raumduft-staebchen-nachfuellpack-zitronengrasfrische",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:24.251Z",
-          "lastSeenAt": "2026-10-22T13:45:54.974Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Duftstäbchen Raumerfrischer Nachfüllpack..., 90 ml",
-          "url": "https://www.dm.de/p/d/1335285/frosch-duftstaebchen-raumerfrischer-nachfuellpack-zitronengras",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:25.415Z",
-          "lastSeenAt": "2026-10-22T13:45:59.982Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Oase pálcás illatosító utántöltő Citromfű illattal, 90 ml",
-          "url": "https://www.dm.hu/p/d/1335285/frosch-oase-palcas-illatosito-utantolto-citromfu-illattal",
-          "isPromo": false,
-          "observedAt": "2026-09-22T13:25:13.904Z",
-          "lastSeenAt": "2026-10-22T13:46:10.714Z",
-          "currentPriceCents": 299900,
-          "currentPriceEurCents": 803,
-          "referencePriceCents": 299900,
-          "referencePriceEurCents": 803
-        }
-      ]
-    },
-    {
       "productId": 7199,
       "brand": "Weißer Riese",
       "isCountryExtreme": true,
@@ -1734,6 +1683,71 @@
           "currentPriceEurCents": 1995,
           "referencePriceCents": 1995,
           "referencePriceEurCents": 1995
+        }
+      ]
+    },
+    {
+      "productId": 7735,
+      "brand": "Denkmit",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 100,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Osvježivač prostora u spreju – Ocean Fresh, 25 ml",
+          "url": "https://www.dm.hr/p/d/1657539/denkmit-osvjezivac-prostora-u-spreju-ocean-fresh",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:45.205Z",
+          "lastSeenAt": "2026-11-02T18:17:09.775Z",
+          "currentPriceCents": 115,
+          "currentPriceEurCents": 115,
+          "referencePriceCents": 115,
+          "referencePriceEurCents": 115
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Mini osvežilec toaletnih prostorov v spreju Ocean..., 25 ml",
+          "url": "https://www.dm.si/p/d/1657539/denkmit-mini-osvezilec-toaletnih-prostorov-v-spreju-ocean-fresh",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:18.489Z",
+          "lastSeenAt": "2026-11-02T18:17:07.726Z",
+          "currentPriceCents": 210,
+          "currentPriceEurCents": 210,
+          "referencePriceCents": 210,
+          "referencePriceEurCents": 210
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Lufterfrischer Minispray Ocean Fresh Starterset, 25 ml",
+          "url": "https://www.dm.at/p/d/1657539/denkmit-lufterfrischer-minispray-ocean-fresh-starterset",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:09.884Z",
+          "lastSeenAt": "2026-11-02T18:17:21.376Z",
+          "currentPriceCents": 105,
+          "currentPriceEurCents": 105,
+          "referencePriceCents": 105,
+          "referencePriceEurCents": 105
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Mini spray kezdőszett Ocean Fresh, tartó és..., 25 ml",
+          "url": "https://www.dm.hu/p/d/1657539/denkmit-mini-spray-kezdoszett-ocean-fresh-tarto-es-utantolto",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:30.809Z",
+          "lastSeenAt": "2026-11-02T18:17:22.992Z",
+          "currentPriceCents": 49900,
+          "currentPriceEurCents": 134,
+          "referencePriceCents": 49900,
+          "referencePriceEurCents": 134
         }
       ]
     }

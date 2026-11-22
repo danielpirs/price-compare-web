@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T13:17:29.032Z",
+  "generatedAt": "2026-11-22T13:09:28.147Z",
   "fx": {
     "asOf": "2026-11-20",
     "rates": {
@@ -1129,57 +1129,6 @@
       ]
     },
     {
-      "productId": 4463,
-      "brand": "Profissimo",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 62.5,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Wassereistüten, 24 St",
-          "url": "https://www.dm.at/p/d/1543905/profissimo-wassereistueten",
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:42:20.068Z",
-          "lastSeenAt": "2026-10-22T13:45:54.974Z",
-          "currentPriceCents": 155,
-          "currentPriceEurCents": 155,
-          "referencePriceCents": 155,
-          "referencePriceEurCents": 155
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Wassereistüten, 24 St",
-          "url": "https://www.dm.de/p/d/1543905/profissimo-wassereistueten",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:51.516Z",
-          "lastSeenAt": "2026-10-22T13:46:05.440Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Jégkrémkészítő zacskó, 80 ml-es, 24 db",
-          "url": "https://www.dm.hu/p/d/1543905/profissimo-jegkremkeszito-zacsko-80-ml-es",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:32.921Z",
-          "lastSeenAt": "2026-10-22T13:46:08.797Z",
-          "currentPriceCents": 44900,
-          "currentPriceEurCents": 120,
-          "referencePriceCents": 44900,
-          "referencePriceEurCents": 120
-        }
-      ]
-    },
-    {
       "productId": 3359,
       "brand": "Profissimo",
       "isCountryExtreme": true,
@@ -1426,6 +1375,85 @@
           "currentPriceEurCents": 2995,
           "referencePriceCents": 2995,
           "referencePriceEurCents": 2995
+        }
+      ]
+    },
+    {
+      "productId": 10637,
+      "brand": "alverde BABY",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 57.75,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Njegujuća krema za lice i tijelo, 100 ml",
+          "url": "https://www.dm.hr/p/d/1537097/alverde-baby-njegujuca-krema-za-lice-i-tijelo",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:03.491Z",
+          "lastSeenAt": "2026-10-31T14:30:34.622Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Negovalna krema z bio ognjičem in bio mandljevim..., 100 ml",
+          "url": "https://www.dm.si/p/d/1537097/alverde-baby-negovalna-krema-z-bio-ognjicem-in-bio-mandljevim-oljem",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:41.458Z",
+          "lastSeenAt": "2026-10-31T14:30:32.565Z",
+          "currentPriceCents": 210,
+          "currentPriceEurCents": 210,
+          "referencePriceCents": 210,
+          "referencePriceEurCents": 210
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Pflegecreme, 100 ml",
+          "url": "https://www.dm.at/p/d/1537097/alverde-baby-pflegecreme",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:25.759Z",
+          "lastSeenAt": "2026-10-31T14:30:39.838Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Baby Pflegecreme Gesicht & Körper, 100 ml",
+          "url": "https://www.dm.de/p/d/1537097/alverde-baby-baby-pflegecreme-gesicht-und-koerper",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:53.255Z",
+          "lastSeenAt": "2026-10-31T14:30:45.309Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Ápoló babakrém bio körömvirággal, 100 ml",
+          "url": "https://www.dm.hu/p/d/1537097/alverde-baby-apolo-babakrem-bio-koromviraggal",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:42.830Z",
+          "lastSeenAt": "2026-10-31T14:30:54.836Z",
+          "currentPriceCents": 69900,
+          "currentPriceEurCents": 187,
+          "referencePriceCents": 69900,
+          "referencePriceEurCents": 187
         }
       ]
     }

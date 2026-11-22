@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T13:17:29.032Z",
+  "generatedAt": "2026-11-22T13:09:28.147Z",
   "fx": {
     "asOf": "2026-11-20",
     "rates": {
@@ -1293,71 +1293,6 @@
       ]
     },
     {
-      "productId": 41039,
-      "brand": "Mivolis",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 136,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Heißgetränk, Heißer Holunder (20 Sticks), 100 g",
-          "url": "https://www.dm.de/p/d/3115355/mivolis-heissgetraenk-heisser-holunder-20-sticks",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:33.872Z",
-          "lastSeenAt": "2026-10-22T13:45:59.982Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Heißer Holunder Heißgetränk, 100 g",
-          "url": "https://www.dm.at/p/d/3115355/mivolis-heisser-holunder-heissgetraenk",
-          "isPromo": false,
-          "observedAt": "2026-09-22T13:24:14.902Z",
-          "lastSeenAt": "2026-10-22T13:45:57.271Z",
-          "currentPriceCents": 225,
-          "currentPriceEurCents": 225,
-          "referencePriceCents": 225,
-          "referencePriceEurCents": 225
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Vroč bezgov napitek, prehransko dopolnilo, 20 x 5..., 100 g",
-          "url": "https://www.dm.si/p/d/3115355/mivolis-vroc-bezgov-napitek-prehransko-dopolnilo-20-x-5-g",
-          "isPromo": false,
-          "observedAt": "2026-10-22T13:45:51.602Z",
-          "lastSeenAt": "2026-10-22T13:45:51.602Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Topli napitak od bazge, dodatak prehrani, 20 kom.",
-          "url": "https://www.dm.hr/p/d/3115355/mivolis-topli-napitak-od-bazge-dodatak-prehrani",
-          "isPromo": false,
-          "observedAt": "2026-11-21T12:35:23.223Z",
-          "lastSeenAt": "2026-11-21T12:35:23.223Z",
-          "currentPriceCents": 215,
-          "currentPriceEurCents": 215,
-          "referencePriceCents": 215,
-          "referencePriceEurCents": 215
-        }
-      ]
-    },
-    {
       "productId": 3992,
       "brand": "Balea",
       "isCountryExtreme": true,
@@ -1470,43 +1405,6 @@
           "currentPriceEurCents": 295,
           "referencePriceCents": 295,
           "referencePriceEurCents": 295
-        }
-      ]
-    },
-    {
-      "productId": 17374,
-      "brand": "WILKINSON SWORD",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 133.33,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Britvice za klasično britje Classic, 5 kos",
-          "url": "https://www.dm.si/p/d/2180466/wilkinson-sword-britvice-za-klasicno-britje-classic",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:11.741Z",
-          "lastSeenAt": "2026-10-22T13:45:53.334Z",
-          "currentPriceCents": 210,
-          "currentPriceEurCents": 210,
-          "referencePriceCents": 210,
-          "referencePriceEurCents": 210
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Classic borotvapenge, 5 db",
-          "url": "https://www.dm.hu/p/d/2180466/wilkinson-sword-classic-borotvapenge",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:07.326Z",
-          "lastSeenAt": "2026-10-22T13:46:10.714Z",
-          "currentPriceCents": 33500,
-          "currentPriceEurCents": 90,
-          "referencePriceCents": 33500,
-          "referencePriceEurCents": 90
         }
       ]
     },
@@ -1818,6 +1716,150 @@
           "currentPriceEurCents": 133,
           "referencePriceCents": 49500,
           "referencePriceEurCents": 133
+        }
+      ]
+    },
+    {
+      "productId": 2041,
+      "brand": "Balea",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 121.74,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Depilacijska krema, 125 ml",
+          "url": "https://www.dm.si/p/d/3143412/balea-depilacijska-krema",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:56:11.756Z",
+          "lastSeenAt": "2026-11-12T16:46:37.945Z",
+          "currentPriceCents": 255,
+          "currentPriceEurCents": 255,
+          "referencePriceCents": 255,
+          "referencePriceEurCents": 255
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Enthaarungscreme, 125 ml",
+          "url": "https://www.dm.at/p/d/3143412/balea-enthaarungscreme",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:46.229Z",
+          "lastSeenAt": "2026-11-12T16:46:52.059Z",
+          "currentPriceCents": 165,
+          "currentPriceEurCents": 165,
+          "referencePriceCents": 165,
+          "referencePriceEurCents": 165
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Enthaarungscreme, 125 ml",
+          "url": "https://www.dm.de/p/d/3143412/balea-enthaarungscreme",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:20.964Z",
+          "lastSeenAt": "2026-11-12T16:46:55.883Z",
+          "currentPriceCents": 115,
+          "currentPriceEurCents": 115,
+          "referencePriceCents": 115,
+          "referencePriceEurCents": 115
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Szőrtelenítő krém, 125 ml",
+          "url": "https://www.dm.hu/p/d/3143412/balea-szortelenito-krem",
+          "isPromo": false,
+          "observedAt": "2026-09-13T13:18:19.823Z",
+          "lastSeenAt": "2026-11-12T16:47:01.536Z",
+          "currentPriceCents": 49900,
+          "currentPriceEurCents": 134,
+          "referencePriceCents": 49900,
+          "referencePriceEurCents": 134
+        }
+      ]
+    },
+    {
+      "productId": 2814,
+      "brand": "ebelin",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 120.15,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Ščipalec za nohte na nogah, več razlilčic, 1 kos",
+          "url": "https://www.dm.si/p/d/1345885/ebelin-scipalec-za-nohte-na-nogah-vec-razlilcic",
+          "isPromo": false,
+          "observedAt": "2026-08-28T16:01:22.563Z",
+          "lastSeenAt": "2026-10-31T14:30:32.565Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Grickalica za nokte na nogama, više vrsta, 1 kom.",
+          "url": "https://www.dm.hr/p/d/1345885/ebelin-grickalica-za-nokte-na-nogama-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:22.305Z",
+          "lastSeenAt": "2026-10-31T14:30:34.622Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Fußnagelknipser sortiert, 1 St",
+          "url": "https://www.dm.at/p/d/1345885/ebelin-fussnagelknipser-sortiert",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:41.260Z",
+          "lastSeenAt": "2026-10-31T14:30:39.838Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Fußnagelknipser, 1 St",
+          "url": "https://www.dm.de/p/d/1345885/ebelin-fussnagelknipser",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:25.833Z",
+          "lastSeenAt": "2026-10-31T14:30:49.033Z",
+          "currentPriceCents": 245,
+          "currentPriceEurCents": 245,
+          "referencePriceCents": 245,
+          "referencePriceEurCents": 245
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Lábujjkörömvágó csipesz, 1 db",
+          "url": "https://www.dm.hu/p/d/1345885/ebelin-labujjkoromvago-csipesz",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:45.327Z",
+          "lastSeenAt": "2026-10-31T14:30:54.836Z",
+          "currentPriceCents": 49900,
+          "currentPriceEurCents": 134,
+          "referencePriceCents": 49900,
+          "referencePriceEurCents": 134
         }
       ]
     }
