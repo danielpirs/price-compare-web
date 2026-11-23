@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-22T13:09:28.147Z",
+  "generatedAt": "2026-11-23T15:46:08.936Z",
   "fx": {
-    "asOf": "2026-11-20",
+    "asOf": "2026-11-23",
     "rates": {
-      "USD": 1.099,
-      "JPY": 174.35,
-      "CZK": 24.469,
+      "USD": 1.0939,
+      "JPY": 174.01,
+      "CZK": 24.455,
       "DKK": 7.4746,
-      "GBP": 0.83735,
-      "HUF": 373.55,
-      "PLN": 4.4583,
-      "RON": 5.3493,
-      "SEK": 11.2125,
-      "CHF": 0.9223,
+      "GBP": 0.83673,
+      "HUF": 372.28,
+      "PLN": 4.4588,
+      "RON": 5.3483,
+      "SEK": 11.2375,
+      "CHF": 0.9186,
       "ISK": 137.2,
-      "NOK": 10.718,
-      "TRY": 55.5788,
-      "AUD": 1.6487,
-      "BRL": 6.5259,
-      "CAD": 1.5723,
-      "CNY": 7.3388,
-      "HKD": 8.615,
-      "IDR": 20071.37,
-      "ILS": 3.6737,
-      "INR": 101.85,
-      "KRW": 1472.04,
-      "MXN": 20.9547,
-      "MYR": 4.5196,
-      "NZD": 1.9968,
-      "PHP": 70.091,
-      "SGD": 1.416,
-      "THB": 37.262,
-      "ZAR": 19.1987
+      "NOK": 10.7285,
+      "TRY": 55.3405,
+      "AUD": 1.6532,
+      "BRL": 6.5611,
+      "CAD": 1.5711,
+      "CNY": 7.2905,
+      "HKD": 8.5772,
+      "IDR": 19932.94,
+      "ILS": 3.6643,
+      "INR": 101.6395,
+      "KRW": 1475.51,
+      "MXN": 21.0528,
+      "MYR": 4.5101,
+      "NZD": 2.0079,
+      "PHP": 69.851,
+      "SGD": 1.4124,
+      "THB": 37.242,
+      "ZAR": 19.1513
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -108,7 +108,7 @@
       "productId": 39854,
       "brand": "Varta",
       "isCountryExtreme": true,
-      "overallPercentDiff": 224.77,
+      "overallPercentDiff": 223.26,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -135,9 +135,9 @@
           "observedAt": "2026-09-01T12:31:00.665Z",
           "lastSeenAt": "2026-10-26T15:09:43.287Z",
           "currentPriceCents": 79900,
-          "currentPriceEurCents": 214,
+          "currentPriceEurCents": 215,
           "referencePriceCents": 79900,
-          "referencePriceEurCents": 214
+          "referencePriceEurCents": 215
         }
       ]
     },
@@ -300,7 +300,7 @@
           "url": "https://www.dm.si/p/d/2102292/jordan-zobna-scetka-extra-soft-0-2-let-vec-razlicic",
           "isPromo": false,
           "observedAt": "2026-08-30T21:47:44.606Z",
-          "lastSeenAt": "2026-10-23T13:22:25.716Z",
+          "lastSeenAt": "2026-11-22T16:13:57.908Z",
           "currentPriceCents": 275,
           "currentPriceEurCents": 275,
           "referencePriceCents": 275,
@@ -314,7 +314,7 @@
           "url": "https://www.dm.hu/p/d/2102292/jordan-fogkefe-baby-step-by-step-0-2-ev-tobbfele",
           "isPromo": false,
           "observedAt": "2026-09-01T12:30:01.877Z",
-          "lastSeenAt": "2026-10-23T13:22:57.120Z",
+          "lastSeenAt": "2026-11-22T16:14:10.528Z",
           "currentPriceCents": 35900,
           "currentPriceEurCents": 96,
           "referencePriceCents": 35900,
@@ -398,43 +398,6 @@
           "currentPriceEurCents": 67,
           "referencePriceCents": 24900,
           "referencePriceEurCents": 67
-        }
-      ]
-    },
-    {
-      "productId": 30108,
-      "brand": "Balea",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 175.7,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Lifting-Patches Face Stripes Elastic (2 Paar), 4 St",
-          "url": "https://www.dm.de/p/d/3115448/balea-lifting-patches-face-stripes-elastic-2-paar",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:05.412Z",
-          "lastSeenAt": "2026-10-23T13:22:53.420Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Arctapasz, Q10-koenzim- és duó-peptidtartalommal, 4 db",
-          "url": "https://www.dm.hu/p/d/3115448/balea-arctapasz-q10-koenzim-es-duo-peptidtartalommal",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:55.494Z",
-          "lastSeenAt": "2026-10-23T13:22:57.120Z",
-          "currentPriceCents": 39900,
-          "currentPriceEurCents": 107,
-          "referencePriceCents": 39900,
-          "referencePriceEurCents": 107
         }
       ]
     },
@@ -558,7 +521,7 @@
       "productId": 65216,
       "brand": "SEINZ.",
       "isCountryExtreme": true,
-      "overallPercentDiff": 170.64,
+      "overallPercentDiff": 168.18,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -613,9 +576,9 @@
           "observedAt": "2026-11-09T18:44:06.381Z",
           "lastSeenAt": "2026-11-09T18:44:06.381Z",
           "currentPriceCents": 40900,
-          "currentPriceEurCents": 109,
+          "currentPriceEurCents": 110,
           "referencePriceCents": 40900,
-          "referencePriceEurCents": 109
+          "referencePriceEurCents": 110
         }
       ]
     },
@@ -623,7 +586,7 @@
       "productId": 3190,
       "brand": "Balea med",
       "isCountryExtreme": true,
-      "overallPercentDiff": 165,
+      "overallPercentDiff": 162.38,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -678,9 +641,9 @@
           "observedAt": "2026-09-01T12:30:41.384Z",
           "lastSeenAt": "2026-11-05T12:16:03.730Z",
           "currentPriceCents": 37500,
-          "currentPriceEurCents": 100,
+          "currentPriceEurCents": 101,
           "referencePriceCents": 37500,
-          "referencePriceEurCents": 100
+          "referencePriceEurCents": 101
         }
       ]
     },
@@ -725,7 +688,7 @@
       "productId": 7970,
       "brand": "Gillette Venus",
       "isCountryExtreme": true,
-      "overallPercentDiff": 159.96,
+      "overallPercentDiff": 158.98,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -766,9 +729,9 @@
           "observedAt": "2026-09-01T12:30:13.724Z",
           "lastSeenAt": "2026-11-08T15:09:24.786Z",
           "currentPriceCents": 196900,
-          "currentPriceEurCents": 527,
+          "currentPriceEurCents": 529,
           "referencePriceCents": 196900,
-          "referencePriceEurCents": 527
+          "referencePriceEurCents": 529
         }
       ]
     },
@@ -776,7 +739,7 @@
       "productId": 4236,
       "brand": "LANGHAARMÄDCHEN",
       "isCountryExtreme": true,
-      "overallPercentDiff": 157.81,
+      "overallPercentDiff": 156.48,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -817,9 +780,9 @@
           "observedAt": "2026-09-01T12:30:07.326Z",
           "lastSeenAt": "2026-11-01T15:04:51.921Z",
           "currentPriceCents": 71900,
-          "currentPriceEurCents": 192,
+          "currentPriceEurCents": 193,
           "referencePriceCents": 71900,
-          "referencePriceEurCents": 192
+          "referencePriceEurCents": 193
         }
       ]
     },
@@ -963,57 +926,6 @@
       ]
     },
     {
-      "productId": 10884,
-      "brand": "WILKINSON SWORD",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 148.43,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Extra 2 Beauty jednokratni brijač, 7 kom.",
-          "url": "https://www.dm.hr/p/d/2030477/wilkinson-sword-extra-2-beauty-jednokratni-brijac",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:04.766Z",
-          "lastSeenAt": "2026-10-30T15:01:33.514Z",
-          "currentPriceCents": 350,
-          "currentPriceEurCents": 350,
-          "referencePriceCents": 350,
-          "referencePriceEurCents": 350
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Damski brivnik za enkratno uporabo Extra2 My..., 7 kos",
-          "url": "https://www.dm.si/p/d/2030477/wilkinson-sword-damski-brivnik-za-enkratno-uporabo-extra2-my-intuition",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:06.418Z",
-          "lastSeenAt": "2026-10-30T15:01:36.549Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Eldobható borotva Xtra 2 My Intuition Essentials, 5 db",
-          "url": "https://www.dm.hu/p/d/2030477/wilkinson-sword-eldobhato-borotva-xtra-2-my-intuition-essentials",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:45.278Z",
-          "lastSeenAt": "2026-10-30T15:01:53.484Z",
-          "currentPriceCents": 59500,
-          "currentPriceEurCents": 159,
-          "referencePriceCents": 59500,
-          "referencePriceEurCents": 159
-        }
-      ]
-    },
-    {
       "productId": 4514,
       "brand": "ebelin",
       "isCountryExtreme": true,
@@ -1093,8 +1005,8 @@
       ]
     },
     {
-      "productId": 6347,
-      "brand": "ebelin",
+      "productId": 10884,
+      "brand": "WILKINSON SWORD",
       "isCountryExtreme": true,
       "overallPercentDiff": 146.88,
       "gapToExtremePercent": 0,
@@ -1103,70 +1015,42 @@
           "countryCode": "HR",
           "shopId": "dm-hr",
           "currency": "EUR",
-          "name": "Trimer za oblikovanje obrva, više vrsta, 3 kom.",
-          "url": "https://www.dm.hr/p/d/1345197/ebelin-trimer-za-oblikovanje-obrva-vise-vrsta",
+          "name": "Extra 2 Beauty jednokratni brijač, 7 kom.",
+          "url": "https://www.dm.hr/p/d/2030477/wilkinson-sword-extra-2-beauty-jednokratni-brijac",
           "isPromo": false,
-          "observedAt": "2026-08-30T22:32:37.197Z",
-          "lastSeenAt": "2026-10-29T15:12:19.963Z",
-          "currentPriceCents": 320,
-          "currentPriceEurCents": 320,
-          "referencePriceCents": 320,
-          "referencePriceEurCents": 320
+          "observedAt": "2026-08-30T22:33:04.766Z",
+          "lastSeenAt": "2026-10-30T15:01:33.514Z",
+          "currentPriceCents": 350,
+          "currentPriceEurCents": 350,
+          "referencePriceCents": 350,
+          "referencePriceEurCents": 350
         },
         {
           "countryCode": "SI",
           "shopId": "dm-si",
           "currency": "EUR",
-          "name": "Pripomoček za oblikovanje obrvi, več različic, 3 kos",
-          "url": "https://www.dm.si/p/d/1345197/ebelin-pripomocek-za-oblikovanje-obrvi-vec-razlicic",
+          "name": "Damski brivnik za enkratno uporabo Extra2 My..., 7 kos",
+          "url": "https://www.dm.si/p/d/2030477/wilkinson-sword-damski-brivnik-za-enkratno-uporabo-extra2-my-intuition",
           "isPromo": false,
-          "observedAt": "2026-08-30T22:33:44.749Z",
-          "lastSeenAt": "2026-10-29T15:12:17.316Z",
+          "observedAt": "2026-08-30T22:35:06.418Z",
+          "lastSeenAt": "2026-10-30T15:01:36.549Z",
           "currentPriceCents": 395,
           "currentPriceEurCents": 395,
           "referencePriceCents": 395,
           "referencePriceEurCents": 395
         },
         {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Augenbrauenformer sortiert, 1 St",
-          "url": "https://www.dm.at/p/d/1345197/ebelin-augenbrauenformer-sortiert",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:00.636Z",
-          "lastSeenAt": "2026-10-29T15:12:24.663Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Augenbrauenformer, 3 St",
-          "url": "https://www.dm.de/p/d/1345197/ebelin-augenbrauenformer",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:43.104Z",
-          "lastSeenAt": "2026-10-29T15:12:37.043Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
           "countryCode": "HU",
           "shopId": "dm-hu",
           "currency": "HUF",
-          "name": "Szemöldökformázó, többféle, 3 db",
-          "url": "https://www.dm.hu/p/d/1345197/ebelin-szemoldokformazo-tobbfele",
+          "name": "Eldobható borotva Xtra 2 My Intuition Essentials, 5 db",
+          "url": "https://www.dm.hu/p/d/2030477/wilkinson-sword-eldobhato-borotva-xtra-2-my-intuition-essentials",
           "isPromo": false,
-          "observedAt": "2026-09-01T12:30:55.609Z",
-          "lastSeenAt": "2026-10-29T15:12:47.095Z",
-          "currentPriceCents": 59900,
+          "observedAt": "2026-09-01T12:30:45.278Z",
+          "lastSeenAt": "2026-10-30T15:01:53.484Z",
+          "currentPriceCents": 59500,
           "currentPriceEurCents": 160,
-          "referencePriceCents": 59900,
+          "referencePriceCents": 59500,
           "referencePriceEurCents": 160
         }
       ]
@@ -1339,10 +1223,89 @@
       ]
     },
     {
+      "productId": 6347,
+      "brand": "ebelin",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 145.34,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Trimer za oblikovanje obrva, više vrsta, 3 kom.",
+          "url": "https://www.dm.hr/p/d/1345197/ebelin-trimer-za-oblikovanje-obrva-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:37.197Z",
+          "lastSeenAt": "2026-10-29T15:12:19.963Z",
+          "currentPriceCents": 320,
+          "currentPriceEurCents": 320,
+          "referencePriceCents": 320,
+          "referencePriceEurCents": 320
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Pripomoček za oblikovanje obrvi, več različic, 3 kos",
+          "url": "https://www.dm.si/p/d/1345197/ebelin-pripomocek-za-oblikovanje-obrvi-vec-razlicic",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:44.749Z",
+          "lastSeenAt": "2026-10-29T15:12:17.316Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Augenbrauenformer sortiert, 1 St",
+          "url": "https://www.dm.at/p/d/1345197/ebelin-augenbrauenformer-sortiert",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:00.636Z",
+          "lastSeenAt": "2026-10-29T15:12:24.663Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Augenbrauenformer, 3 St",
+          "url": "https://www.dm.de/p/d/1345197/ebelin-augenbrauenformer",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:43.104Z",
+          "lastSeenAt": "2026-10-29T15:12:37.043Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Szemöldökformázó, többféle, 3 db",
+          "url": "https://www.dm.hu/p/d/1345197/ebelin-szemoldokformazo-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:55.609Z",
+          "lastSeenAt": "2026-10-29T15:12:47.095Z",
+          "currentPriceCents": 59900,
+          "currentPriceEurCents": 161,
+          "referencePriceCents": 59900,
+          "referencePriceEurCents": 161
+        }
+      ]
+    },
+    {
       "productId": 667,
       "brand": "Balea med",
       "isCountryExtreme": true,
-      "overallPercentDiff": 145.37,
+      "overallPercentDiff": 143.12,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1411,9 +1374,74 @@
           "observedAt": "2026-09-01T12:31:37.751Z",
           "lastSeenAt": "2026-11-12T16:47:01.536Z",
           "currentPriceCents": 40500,
-          "currentPriceEurCents": 108,
+          "currentPriceEurCents": 109,
           "referencePriceCents": 40500,
-          "referencePriceEurCents": 108
+          "referencePriceEurCents": 109
+        }
+      ]
+    },
+    {
+      "productId": 7293,
+      "brand": "BIC",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 140.2,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Miss Soleil jednokratne britvice colour collection, 4 kom.",
+          "url": "https://www.dm.hr/p/d/1869333/bic-miss-soleil-jednokratne-britvice-colour-collection",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:42.747Z",
+          "lastSeenAt": "2026-10-30T15:01:33.514Z",
+          "currentPriceCents": 450,
+          "currentPriceEurCents": 450,
+          "referencePriceCents": 450,
+          "referencePriceEurCents": 450
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Damski brivnik za enkratno uporabo Miss Soleil, 4 kos",
+          "url": "https://www.dm.si/p/d/1869333/bic-damski-brivnik-za-enkratno-uporabo-miss-soleil",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:49.766Z",
+          "lastSeenAt": "2026-10-30T15:01:38.373Z",
+          "currentPriceCents": 490,
+          "currentPriceEurCents": 490,
+          "referencePriceCents": 490,
+          "referencePriceEurCents": 490
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Einwegrasierer colour collection, 4 St",
+          "url": "https://www.dm.at/p/d/1869333/bic-einwegrasierer-colour-collection",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:41.260Z",
+          "lastSeenAt": "2026-10-30T15:01:40.059Z",
+          "currentPriceCents": 345,
+          "currentPriceEurCents": 345,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Női eldobható borotva Miss Soleil Colour..., 4 db",
+          "url": "https://www.dm.hu/p/d/1869333/bic-noi-eldobhato-borotva-miss-soleil-colour-collection-3-penges",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:59.257Z",
+          "lastSeenAt": "2026-10-30T15:01:53.484Z",
+          "currentPriceCents": 75900,
+          "currentPriceEurCents": 204,
+          "referencePriceCents": 75900,
+          "referencePriceEurCents": 204
         }
       ]
     },
@@ -1421,7 +1449,7 @@
       "productId": 11598,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 141.94,
+      "overallPercentDiff": 139.36,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1490,153 +1518,9 @@
           "observedAt": "2026-09-01T12:32:22.557Z",
           "lastSeenAt": "2026-11-12T16:47:01.536Z",
           "currentPriceCents": 34900,
-          "currentPriceEurCents": 93,
+          "currentPriceEurCents": 94,
           "referencePriceCents": 34900,
-          "referencePriceEurCents": 93
-        }
-      ]
-    },
-    {
-      "productId": 7293,
-      "brand": "BIC",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 141.38,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Miss Soleil jednokratne britvice colour collection, 4 kom.",
-          "url": "https://www.dm.hr/p/d/1869333/bic-miss-soleil-jednokratne-britvice-colour-collection",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:42.747Z",
-          "lastSeenAt": "2026-10-30T15:01:33.514Z",
-          "currentPriceCents": 450,
-          "currentPriceEurCents": 450,
-          "referencePriceCents": 450,
-          "referencePriceEurCents": 450
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Damski brivnik za enkratno uporabo Miss Soleil, 4 kos",
-          "url": "https://www.dm.si/p/d/1869333/bic-damski-brivnik-za-enkratno-uporabo-miss-soleil",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:49.766Z",
-          "lastSeenAt": "2026-10-30T15:01:38.373Z",
-          "currentPriceCents": 490,
-          "currentPriceEurCents": 490,
-          "referencePriceCents": 490,
-          "referencePriceEurCents": 490
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Einwegrasierer colour collection, 4 St",
-          "url": "https://www.dm.at/p/d/1869333/bic-einwegrasierer-colour-collection",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:41.260Z",
-          "lastSeenAt": "2026-10-30T15:01:40.059Z",
-          "currentPriceCents": 345,
-          "currentPriceEurCents": 345,
-          "referencePriceCents": 345,
-          "referencePriceEurCents": 345
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Női eldobható borotva Miss Soleil Colour..., 4 db",
-          "url": "https://www.dm.hu/p/d/1869333/bic-noi-eldobhato-borotva-miss-soleil-colour-collection-3-penges",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:59.257Z",
-          "lastSeenAt": "2026-10-30T15:01:53.484Z",
-          "currentPriceCents": 75900,
-          "currentPriceEurCents": 203,
-          "referencePriceCents": 75900,
-          "referencePriceEurCents": 203
-        }
-      ]
-    },
-    {
-      "productId": 7223,
-      "brand": "Denkmit",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 137.9,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Sprej za dezinfekciju, 250 ml",
-          "url": "https://www.dm.hr/p/d/1291025/denkmit-sprej-za-dezinfekciju",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:42.747Z",
-          "lastSeenAt": "2026-10-27T14:27:09.015Z",
-          "currentPriceCents": 165,
-          "currentPriceEurCents": 165,
-          "referencePriceCents": 165,
-          "referencePriceEurCents": 165
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Dezinfekcijski sprej, 250 ml",
-          "url": "https://www.dm.si/p/d/1291025/denkmit-dezinfekcijski-sprej",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:53.811Z",
-          "lastSeenAt": "2026-10-27T14:27:10.751Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Desinfektionsspray, 250 ml",
-          "url": "https://www.dm.at/p/d/1291025/denkmit-desinfektionsspray",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:41.260Z",
-          "lastSeenAt": "2026-10-27T14:27:17.082Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Desinfektionsspray universal, 250 ml",
-          "url": "https://www.dm.de/p/d/1291025/denkmit-desinfektionsspray-universal",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:03.605Z",
-          "lastSeenAt": "2026-10-27T14:27:24.951Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fertőtlenítő spray, pumpás, nagy kiszerelés, 250 ml",
-          "url": "https://www.dm.hu/p/d/1291025/denkmit-fertotlenito-spray-pumpas-nagy-kiszereles",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:17.754Z",
-          "lastSeenAt": "2026-10-27T14:27:28.630Z",
-          "currentPriceCents": 46500,
-          "currentPriceEurCents": 124,
-          "referencePriceCents": 46500,
-          "referencePriceEurCents": 124
+          "referencePriceEurCents": 94
         }
       ]
     },
@@ -1723,7 +1607,7 @@
       "productId": 17313,
       "brand": "Gillette Venus",
       "isCountryExtreme": true,
-      "overallPercentDiff": 137.4,
+      "overallPercentDiff": 136.77,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1750,9 +1634,88 @@
           "observedAt": "2026-09-01T12:32:11.497Z",
           "lastSeenAt": "2026-11-05T12:16:05.537Z",
           "currentPriceCents": 140900,
-          "currentPriceEurCents": 377,
+          "currentPriceEurCents": 378,
           "referencePriceCents": 140900,
-          "referencePriceEurCents": 377
+          "referencePriceEurCents": 378
+        }
+      ]
+    },
+    {
+      "productId": 7223,
+      "brand": "Denkmit",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 136,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Sprej za dezinfekciju, 250 ml",
+          "url": "https://www.dm.hr/p/d/1291025/denkmit-sprej-za-dezinfekciju",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:42.747Z",
+          "lastSeenAt": "2026-10-27T14:27:09.015Z",
+          "currentPriceCents": 165,
+          "currentPriceEurCents": 165,
+          "referencePriceCents": 165,
+          "referencePriceEurCents": 165
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Dezinfekcijski sprej, 250 ml",
+          "url": "https://www.dm.si/p/d/1291025/denkmit-dezinfekcijski-sprej",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:53.811Z",
+          "lastSeenAt": "2026-10-27T14:27:10.751Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Desinfektionsspray, 250 ml",
+          "url": "https://www.dm.at/p/d/1291025/denkmit-desinfektionsspray",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:41.260Z",
+          "lastSeenAt": "2026-10-27T14:27:17.082Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Desinfektionsspray universal, 250 ml",
+          "url": "https://www.dm.de/p/d/1291025/denkmit-desinfektionsspray-universal",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:03.605Z",
+          "lastSeenAt": "2026-10-27T14:27:24.951Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fertőtlenítő spray, pumpás, nagy kiszerelés, 250 ml",
+          "url": "https://www.dm.hu/p/d/1291025/denkmit-fertotlenito-spray-pumpas-nagy-kiszereles",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:17.754Z",
+          "lastSeenAt": "2026-10-27T14:27:28.630Z",
+          "currentPriceCents": 46500,
+          "currentPriceEurCents": 125,
+          "referencePriceCents": 46500,
+          "referencePriceEurCents": 125
         }
       ]
     },
@@ -1832,6 +1795,71 @@
           "currentPriceEurCents": 104,
           "referencePriceCents": 38900,
           "referencePriceEurCents": 104
+        }
+      ]
+    },
+    {
+      "productId": 3575,
+      "brand": "Visiomax",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 128.72,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Kapljice za oči s hialuronsko kislino 0,1 %, 15 ml",
+          "url": "https://www.dm.si/p/d/1314957/visiomax-kapljice-za-oci-s-hialuronsko-kislino-0-1",
+          "isPromo": false,
+          "observedAt": "2026-08-28T16:06:53.717Z",
+          "lastSeenAt": "2026-11-18T17:13:03.181Z",
+          "currentPriceCents": 545,
+          "currentPriceEurCents": 545,
+          "referencePriceCents": 545,
+          "referencePriceEurCents": 545
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Augentropfen mit Hyaluron, 15 ml",
+          "url": "https://www.dm.at/p/d/1314957/visiomax-augentropfen-mit-hyaluron",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:14.610Z",
+          "lastSeenAt": "2026-11-18T17:13:11.432Z",
+          "currentPriceCents": 625,
+          "currentPriceEurCents": 625,
+          "referencePriceCents": 625,
+          "referencePriceEurCents": 625
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Augentropfen mit 0,1% Hyaluron, 15 ml",
+          "url": "https://www.dm.de/p/d/1314957/visiomax-augentropfen-mit-0-1-prozent-hyaluron",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:21.148Z",
+          "lastSeenAt": "2026-11-18T17:13:17.468Z",
+          "currentPriceCents": 645,
+          "currentPriceEurCents": 645,
+          "referencePriceCents": 645,
+          "referencePriceEurCents": 645
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Szemcsepp 0,1% hialuronsavval, 15 ml",
+          "url": "https://www.dm.hu/p/d/1314957/visiomax-szemcsepp-0-1-hialuronsavval",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:07.326Z",
+          "lastSeenAt": "2026-11-18T17:13:25.550Z",
+          "currentPriceCents": 104900,
+          "currentPriceEurCents": 282,
+          "referencePriceCents": 104900,
+          "referencePriceEurCents": 282
         }
       ]
     }

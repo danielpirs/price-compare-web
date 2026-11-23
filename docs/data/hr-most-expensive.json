@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-22T13:09:28.147Z",
+  "generatedAt": "2026-11-23T15:46:08.936Z",
   "fx": {
-    "asOf": "2026-11-20",
+    "asOf": "2026-11-23",
     "rates": {
-      "USD": 1.099,
-      "JPY": 174.35,
-      "CZK": 24.469,
+      "USD": 1.0939,
+      "JPY": 174.01,
+      "CZK": 24.455,
       "DKK": 7.4746,
-      "GBP": 0.83735,
-      "HUF": 373.55,
-      "PLN": 4.4583,
-      "RON": 5.3493,
-      "SEK": 11.2125,
-      "CHF": 0.9223,
+      "GBP": 0.83673,
+      "HUF": 372.28,
+      "PLN": 4.4588,
+      "RON": 5.3483,
+      "SEK": 11.2375,
+      "CHF": 0.9186,
       "ISK": 137.2,
-      "NOK": 10.718,
-      "TRY": 55.5788,
-      "AUD": 1.6487,
-      "BRL": 6.5259,
-      "CAD": 1.5723,
-      "CNY": 7.3388,
-      "HKD": 8.615,
-      "IDR": 20071.37,
-      "ILS": 3.6737,
-      "INR": 101.85,
-      "KRW": 1472.04,
-      "MXN": 20.9547,
-      "MYR": 4.5196,
-      "NZD": 1.9968,
-      "PHP": 70.091,
-      "SGD": 1.416,
-      "THB": 37.262,
-      "ZAR": 19.1987
+      "NOK": 10.7285,
+      "TRY": 55.3405,
+      "AUD": 1.6532,
+      "BRL": 6.5611,
+      "CAD": 1.5711,
+      "CNY": 7.2905,
+      "HKD": 8.5772,
+      "IDR": 19932.94,
+      "ILS": 3.6643,
+      "INR": 101.6395,
+      "KRW": 1475.51,
+      "MXN": 21.0528,
+      "MYR": 4.5101,
+      "NZD": 2.0079,
+      "PHP": 69.851,
+      "SGD": 1.4124,
+      "THB": 37.242,
+      "ZAR": 19.1513
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -112,9 +112,9 @@
           "observedAt": "2026-10-18T12:36:09.737Z",
           "lastSeenAt": "2026-11-17T13:18:13.918Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 803,
+          "currentPriceEurCents": 806,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 803
+          "referencePriceEurCents": 806
         }
       ]
     },
@@ -615,57 +615,6 @@
       ]
     },
     {
-      "productId": 11889,
-      "brand": "wellaflex",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 136,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Power Hold lak za kosu – snaga učvršćivanja 5, 75 ml",
-          "url": "https://www.dm.hr/p/d/1384113/wellaflex-power-hold-lak-za-kosu-snaga-ucvrscivanja-5",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:10.515Z",
-          "lastSeenAt": "2026-10-24T12:39:11.315Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Haarspray Power Halt Form & Finish, 75 ml",
-          "url": "https://www.dm.at/p/d/1384113/wellaflex-haarspray-power-halt-form-und-finish",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:44.201Z",
-          "lastSeenAt": "2026-10-24T12:39:13.526Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Haarlack Power Hold, Reisegröße, 75 ml",
-          "url": "https://www.dm.de/p/d/1384113/wellaflex-haarlack-power-hold-reisegroesse",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:14.777Z",
-          "lastSeenAt": "2026-10-24T12:39:17.623Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
-        }
-      ]
-    },
-    {
       "productId": 10299,
       "brand": "Dontodent",
       "isCountryExtreme": true,
@@ -738,9 +687,9 @@
           "observedAt": "2026-09-01T12:30:04.184Z",
           "lastSeenAt": "2026-11-18T17:13:27.543Z",
           "currentPriceCents": 37900,
-          "currentPriceEurCents": 101,
+          "currentPriceEurCents": 102,
           "referencePriceCents": 37900,
-          "referencePriceEurCents": 101
+          "referencePriceEurCents": 102
         }
       ]
     },
@@ -748,7 +697,7 @@
       "productId": 2245,
       "brand": "Dontodent PRO+",
       "isCountryExtreme": true,
-      "overallPercentDiff": 129.17,
+      "overallPercentDiff": 127.27,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -817,9 +766,9 @@
           "observedAt": "2026-11-16T18:29:01.872Z",
           "lastSeenAt": "2026-11-16T18:29:01.872Z",
           "currentPriceCents": 44900,
-          "currentPriceEurCents": 120,
+          "currentPriceEurCents": 121,
           "referencePriceCents": 44900,
-          "referencePriceEurCents": 120
+          "referencePriceEurCents": 121
         }
       ]
     },
@@ -827,7 +776,7 @@
       "productId": 6100,
       "brand": "Dontodent PRO+",
       "isCountryExtreme": true,
-      "overallPercentDiff": 129.17,
+      "overallPercentDiff": 127.27,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -896,9 +845,9 @@
           "observedAt": "2026-09-01T12:31:30.809Z",
           "lastSeenAt": "2026-11-01T15:04:50.279Z",
           "currentPriceCents": 44900,
-          "currentPriceEurCents": 120,
+          "currentPriceEurCents": 121,
           "referencePriceCents": 44900,
-          "referencePriceEurCents": 120
+          "referencePriceEurCents": 121
         }
       ]
     },
@@ -987,85 +936,6 @@
           "currentPriceEurCents": 209,
           "referencePriceCents": 77900,
           "referencePriceEurCents": 209
-        }
-      ]
-    },
-    {
-      "productId": 5345,
-      "brand": "dmBio",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 117.95,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Bourbon vanilija – mljevena, 5 g",
-          "url": "https://www.dm.hr/p/d/1461618/dmbio-bourbon-vanilija-mljevena",
-          "isPromo": false,
-          "observedAt": "2026-08-30T21:47:42.847Z",
-          "lastSeenAt": "2026-10-24T12:39:12.602Z",
-          "currentPriceCents": 425,
-          "currentPriceEurCents": 425,
-          "referencePriceCents": 425,
-          "referencePriceEurCents": 425
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Bio mleta bourbonska vanilja, 5 g",
-          "url": "https://www.dm.si/p/d/1461618/dmbio-bio-mleta-bourbonska-vanilja",
-          "isPromo": false,
-          "observedAt": "2026-09-24T13:31:56.275Z",
-          "lastSeenAt": "2026-10-24T12:39:06.301Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Bourbon Vanille gemahlen, 5 g",
-          "url": "https://www.dm.at/p/d/1461618/dmbio-bourbon-vanille-gemahlen",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:47.183Z",
-          "lastSeenAt": "2026-10-24T12:39:13.526Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Bourbon-Vanille gemahlen, 5 g",
-          "url": "https://www.dm.de/p/d/1461618/dmbio-bourbon-vanille-gemahlen",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:17.685Z",
-          "lastSeenAt": "2026-10-24T12:39:21.028Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Bio őrölt bourbon vanília, 5 g",
-          "url": "https://www.dm.hu/p/d/1461618/dmbio-bio-orolt-bourbon-vanilia",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:04.843Z",
-          "lastSeenAt": "2026-10-24T12:39:23.327Z",
-          "currentPriceCents": 89900,
-          "currentPriceEurCents": 241,
-          "referencePriceCents": 89900,
-          "referencePriceEurCents": 241
         }
       ]
     },
@@ -1260,43 +1130,6 @@
       ]
     },
     {
-      "productId": 2237,
-      "brand": "Aquafresh",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 111.66,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Clean & Flex četkica za zube, 2 kom.",
-          "url": "https://www.dm.hr/p/d/2366978/aquafresh-clean-flex-cetkica-za-zube",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:57:32.685Z",
-          "lastSeenAt": "2026-10-24T12:39:10.081Z",
-          "currentPriceCents": 345,
-          "currentPriceEurCents": 345,
-          "referencePriceCents": 345,
-          "referencePriceEurCents": 345
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkefe clean&flex duopack (többféle), 2 db",
-          "url": "https://www.dm.hu/p/d/2366978/aquafresh-fogkefe-clean-flex-duopack-tobbfele",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:42.358Z",
-          "lastSeenAt": "2026-10-24T12:39:23.327Z",
-          "currentPriceCents": 60900,
-          "currentPriceEurCents": 163,
-          "referencePriceCents": 60900,
-          "referencePriceEurCents": 163
-        }
-      ]
-    },
-    {
       "productId": 11663,
       "brand": "Braun",
       "isCountryExtreme": true,
@@ -1351,7 +1184,7 @@
       "productId": 2197,
       "brand": "Aquafresh",
       "isCountryExtreme": true,
-      "overallPercentDiff": 108.82,
+      "overallPercentDiff": 107.6,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1378,9 +1211,9 @@
           "observedAt": "2026-09-01T12:29:59.422Z",
           "lastSeenAt": "2026-10-28T15:05:18.088Z",
           "currentPriceCents": 63500,
-          "currentPriceEurCents": 170,
+          "currentPriceEurCents": 171,
           "referencePriceCents": 63500,
-          "referencePriceEurCents": 170
+          "referencePriceEurCents": 171
         }
       ]
     },
@@ -1487,10 +1320,47 @@
       ]
     },
     {
+      "productId": 7648,
+      "brand": "trend !t up",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 105.22,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Powder Blush rumenilo – 090 Purpur, 5 g",
+          "url": "https://www.dm.hr/p/d/3043238/trend-t-up-powder-blush-rumenilo-090-purpur",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:45.205Z",
+          "lastSeenAt": "2026-11-13T12:08:44.682Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Arcpirosító, 090 Purpur, 2 g",
+          "url": "https://www.dm.hu/p/d/3043238/trend-t-up-arcpirosito-090-purpur",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:55.609Z",
+          "lastSeenAt": "2026-11-13T12:09:04.712Z",
+          "currentPriceCents": 49900,
+          "currentPriceEurCents": 134,
+          "referencePriceCents": 49900,
+          "referencePriceEurCents": 134
+        }
+      ]
+    },
+    {
       "productId": 456,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 106.25,
+      "overallPercentDiff": 104.97,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1559,9 +1429,9 @@
           "observedAt": "2026-09-01T12:31:28.672Z",
           "lastSeenAt": "2026-11-12T16:47:03.782Z",
           "currentPriceCents": 59900,
-          "currentPriceEurCents": 160,
+          "currentPriceEurCents": 161,
           "referencePriceCents": 59900,
-          "referencePriceEurCents": 160
+          "referencePriceEurCents": 161
         }
       ]
     },
@@ -1569,7 +1439,7 @@
       "productId": 5791,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 106.25,
+      "overallPercentDiff": 104.97,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1638,46 +1508,176 @@
           "observedAt": "2026-09-01T12:29:46.464Z",
           "lastSeenAt": "2026-11-05T12:16:05.537Z",
           "currentPriceCents": 59900,
-          "currentPriceEurCents": 160,
+          "currentPriceEurCents": 161,
           "referencePriceCents": 59900,
-          "referencePriceEurCents": 160
+          "referencePriceEurCents": 161
         }
       ]
     },
     {
-      "productId": 7648,
-      "brand": "trend !t up",
+      "productId": 8783,
+      "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 105.22,
+      "overallPercentDiff": 103.7,
       "gapToExtremePercent": 0,
       "countries": [
         {
           "countryCode": "HR",
           "shopId": "dm-hr",
           "currency": "EUR",
-          "name": "Powder Blush rumenilo – 090 Purpur, 5 g",
-          "url": "https://www.dm.hr/p/d/3043238/trend-t-up-powder-blush-rumenilo-090-purpur",
+          "name": "Krpa za brisanje prašine i mokro čišćenje od..., 3 kom.",
+          "url": "https://www.dm.hr/p/d/1494453/profissimo-krpa-za-brisanje-prasine-i-mokro-ciscenje-od-mikrovlakana-vise-vrsta",
           "isPromo": false,
-          "observedAt": "2026-08-30T22:32:45.205Z",
-          "lastSeenAt": "2026-11-13T12:08:44.682Z",
+          "observedAt": "2026-08-30T22:32:51.588Z",
+          "lastSeenAt": "2026-10-27T14:27:09.015Z",
           "currentPriceCents": 275,
           "currentPriceEurCents": 275,
           "referencePriceCents": 275,
           "referencePriceEurCents": 275
         },
         {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Krpa iz mikrovlaken z rebrasto površino, 3 kos",
+          "url": "https://www.dm.si/p/d/1494453/profissimo-krpa-iz-mikrovlaken-z-rebrasto-povrsino",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:49.766Z",
+          "lastSeenAt": "2026-10-27T14:27:12.808Z",
+          "currentPriceCents": 135,
+          "currentPriceEurCents": 135,
+          "referencePriceCents": 135,
+          "referencePriceEurCents": 135
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Reinigungstücher aus Mikrofeinfaser, 3 St",
+          "url": "https://www.dm.at/p/d/1494453/profissimo-reinigungstuecher-aus-mikrofeinfaser",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:06.799Z",
+          "lastSeenAt": "2026-10-27T14:27:19.163Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Reinigungstücher Mikrofeinfaser, 3 St",
+          "url": "https://www.dm.de/p/d/1494453/profissimo-reinigungstuecher-mikrofeinfaser",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:51.188Z",
+          "lastSeenAt": "2026-10-27T14:27:24.951Z",
+          "currentPriceCents": 225,
+          "currentPriceEurCents": 225,
+          "referencePriceCents": 225,
+          "referencePriceEurCents": 225
+        },
+        {
           "countryCode": "HU",
           "shopId": "dm-hu",
           "currency": "HUF",
-          "name": "Arcpirosító, 090 Purpur, 2 g",
-          "url": "https://www.dm.hu/p/d/3043238/trend-t-up-arcpirosito-090-purpur",
+          "name": "Mikroszálas prémium törlőkendő, 3 db",
+          "url": "https://www.dm.hu/p/d/1494453/profissimo-mikroszalas-premium-torlokendo",
           "isPromo": false,
-          "observedAt": "2026-09-01T12:30:55.609Z",
-          "lastSeenAt": "2026-11-13T12:09:04.712Z",
-          "currentPriceCents": 49900,
-          "currentPriceEurCents": 134,
-          "referencePriceCents": 49900,
-          "referencePriceEurCents": 134
+          "observedAt": "2026-09-01T12:32:02.558Z",
+          "lastSeenAt": "2026-10-27T14:27:30.381Z",
+          "currentPriceCents": 99900,
+          "currentPriceEurCents": 268,
+          "referencePriceCents": 99900,
+          "referencePriceEurCents": 268
+        }
+      ]
+    },
+    {
+      "productId": 7199,
+      "brand": "Weißer Riese",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 103.18,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Tekući deterdžent za pranje rublja Universal, 50..., 2,25 l",
+          "url": "https://www.dm.hr/p/d/1895217/wei-er-riese-tekuci-deterdzent-za-pranje-rublja-universal-50-pranja",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:41.759Z",
+          "lastSeenAt": "2026-11-01T15:04:35.210Z",
+          "currentPriceCents": 1595,
+          "currentPriceEurCents": 1595,
+          "referencePriceCents": 1595,
+          "referencePriceEurCents": 1595
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Universalwaschmittel Gel, 50 Wl",
+          "url": "https://www.dm.at/p/d/1895217/weisser-riese-universalwaschmittel-gel",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:22.891Z",
+          "lastSeenAt": "2026-11-01T15:04:38.857Z",
+          "currentPriceCents": 785,
+          "currentPriceEurCents": 785,
+          "referencePriceCents": 785,
+          "referencePriceEurCents": 785
+        }
+      ]
+    },
+    {
+      "productId": 7214,
+      "brand": "Weißer Riese",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 103.18,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Floral Sensation tekući deterdžent za rublje..., 2,25 l",
+          "url": "https://www.dm.hr/p/d/1895536/wei-er-riese-floral-sensation-tekuci-deterdzent-za-rublje-lotus-50-pranja",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:41.759Z",
+          "lastSeenAt": "2026-10-30T15:01:30.548Z",
+          "currentPriceCents": 1595,
+          "currentPriceEurCents": 1595,
+          "referencePriceCents": 1595,
+          "referencePriceEurCents": 1595
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Tekoči detergent za pranje perila Universal..., 50 pranj",
+          "url": "https://www.dm.si/p/d/1895536/wei-er-riese-tekoci-detergent-za-pranje-perila-universal-floral-sensation-lotus",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:27.343Z",
+          "lastSeenAt": "2026-10-30T15:01:38.373Z",
+          "currentPriceCents": 1295,
+          "currentPriceEurCents": 1295,
+          "referencePriceCents": 1295,
+          "referencePriceEurCents": 1295
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Universalwaschmittel Gel Aromatherapie Floral..., 50 Wl",
+          "url": "https://www.dm.at/p/d/1895536/weisser-riese-universalwaschmittel-gel-aromatherapie-floral-sensation",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:37:48.407Z",
+          "lastSeenAt": "2026-10-30T15:01:41.671Z",
+          "currentPriceCents": 785,
+          "currentPriceEurCents": 785,
+          "referencePriceCents": 785,
+          "referencePriceEurCents": 785
         }
       ]
     }

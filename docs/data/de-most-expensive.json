@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-22T13:09:28.147Z",
+  "generatedAt": "2026-11-23T15:46:08.936Z",
   "fx": {
-    "asOf": "2026-11-20",
+    "asOf": "2026-11-23",
     "rates": {
-      "USD": 1.099,
-      "JPY": 174.35,
-      "CZK": 24.469,
+      "USD": 1.0939,
+      "JPY": 174.01,
+      "CZK": 24.455,
       "DKK": 7.4746,
-      "GBP": 0.83735,
-      "HUF": 373.55,
-      "PLN": 4.4583,
-      "RON": 5.3493,
-      "SEK": 11.2125,
-      "CHF": 0.9223,
+      "GBP": 0.83673,
+      "HUF": 372.28,
+      "PLN": 4.4588,
+      "RON": 5.3483,
+      "SEK": 11.2375,
+      "CHF": 0.9186,
       "ISK": 137.2,
-      "NOK": 10.718,
-      "TRY": 55.5788,
-      "AUD": 1.6487,
-      "BRL": 6.5259,
-      "CAD": 1.5723,
-      "CNY": 7.3388,
-      "HKD": 8.615,
-      "IDR": 20071.37,
-      "ILS": 3.6737,
-      "INR": 101.85,
-      "KRW": 1472.04,
-      "MXN": 20.9547,
-      "MYR": 4.5196,
-      "NZD": 1.9968,
-      "PHP": 70.091,
-      "SGD": 1.416,
-      "THB": 37.262,
-      "ZAR": 19.1987
+      "NOK": 10.7285,
+      "TRY": 55.3405,
+      "AUD": 1.6532,
+      "BRL": 6.5611,
+      "CAD": 1.5711,
+      "CNY": 7.2905,
+      "HKD": 8.5772,
+      "IDR": 19932.94,
+      "ILS": 3.6643,
+      "INR": 101.6395,
+      "KRW": 1475.51,
+      "MXN": 21.0528,
+      "MYR": 4.5101,
+      "NZD": 2.0079,
+      "PHP": 69.851,
+      "SGD": 1.4124,
+      "THB": 37.242,
+      "ZAR": 19.1513
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -91,43 +91,6 @@
       ]
     },
     {
-      "productId": 30108,
-      "brand": "Balea",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 175.7,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Lifting-Patches Face Stripes Elastic (2 Paar), 4 St",
-          "url": "https://www.dm.de/p/d/3115448/balea-lifting-patches-face-stripes-elastic-2-paar",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:05.412Z",
-          "lastSeenAt": "2026-10-23T13:22:53.420Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Arctapasz, Q10-koenzim- és duó-peptidtartalommal, 4 db",
-          "url": "https://www.dm.hu/p/d/3115448/balea-arctapasz-q10-koenzim-es-duo-peptidtartalommal",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:55.494Z",
-          "lastSeenAt": "2026-10-23T13:22:57.120Z",
-          "currentPriceCents": 39900,
-          "currentPriceEurCents": 107,
-          "referencePriceCents": 39900,
-          "referencePriceEurCents": 107
-        }
-      ]
-    },
-    {
       "productId": 26903,
       "brand": "Swirl",
       "isCountryExtreme": true,
@@ -168,7 +131,7 @@
       "productId": 3575,
       "brand": "Visiomax",
       "isCountryExtreme": true,
-      "overallPercentDiff": 129.54,
+      "overallPercentDiff": 128.72,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -223,60 +186,9 @@
           "observedAt": "2026-09-01T12:30:07.326Z",
           "lastSeenAt": "2026-11-18T17:13:25.550Z",
           "currentPriceCents": 104900,
-          "currentPriceEurCents": 281,
+          "currentPriceEurCents": 282,
           "referencePriceCents": 104900,
-          "referencePriceEurCents": 281
-        }
-      ]
-    },
-    {
-      "productId": 448,
-      "brand": "Dontodent PRO+",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 120.72,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Zobna ščetka za občutljive zobe PRO+, soft, več..., 2 kos",
-          "url": "https://www.dm.si/p/d/3042913/dontodent-pro-zobna-scetka-za-obcutljive-zobe-pro-soft-vec-razlicic",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:48:45.895Z",
-          "lastSeenAt": "2026-10-23T13:22:25.716Z",
-          "currentPriceCents": 230,
-          "currentPriceEurCents": 230,
-          "referencePriceCents": 230,
-          "referencePriceEurCents": 230
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Zahnbürste PRO+ Sensitive Complete Care, soft, 2 St",
-          "url": "https://www.dm.de/p/d/3042913/dontodent-pro-zahnbuerste-pro-sensitive-complete-care-soft",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:33.872Z",
-          "lastSeenAt": "2026-10-23T13:22:51.129Z",
-          "currentPriceCents": 245,
-          "currentPriceEurCents": 245,
-          "referencePriceCents": 245,
-          "referencePriceEurCents": 245
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkefe érzékeny fogakra PRO+, puha, többféle, 2 db",
-          "url": "https://www.dm.hu/p/d/3042913/dontodent-pro-fogkefe-erzekeny-fogakra-pro-puha-tobbfele",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:17.495Z",
-          "lastSeenAt": "2026-10-23T13:22:57.120Z",
-          "currentPriceCents": 41500,
-          "currentPriceEurCents": 111,
-          "referencePriceCents": 41500,
-          "referencePriceEurCents": 111
+          "referencePriceEurCents": 282
         }
       ]
     },
@@ -423,7 +335,7 @@
       "productId": 16954,
       "brand": "sundance",
       "isCountryExtreme": true,
-      "overallPercentDiff": 102.38,
+      "overallPercentDiff": 101.69,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -478,9 +390,9 @@
           "observedAt": "2026-09-01T12:31:32.921Z",
           "lastSeenAt": "2026-11-05T12:16:05.537Z",
           "currentPriceCents": 109900,
-          "currentPriceEurCents": 294,
+          "currentPriceEurCents": 295,
           "referencePriceCents": 109900,
-          "referencePriceEurCents": 294
+          "referencePriceEurCents": 295
         }
       ]
     },
@@ -550,7 +462,7 @@
           "url": "https://www.dm.at/p/d/2951627/calvin-klein-eau-de-toilette-one-gold",
           "isPromo": false,
           "observedAt": "2026-09-23T13:37:10.239Z",
-          "lastSeenAt": "2026-10-23T13:22:42.990Z",
+          "lastSeenAt": "2026-11-22T16:14:02.771Z",
           "currentPriceCents": 2390,
           "currentPriceEurCents": 2390,
           "referencePriceCents": 2390,
@@ -564,7 +476,7 @@
           "url": "https://www.dm.de/p/d/2951627/calvin-klein-one-gold-eau-de-toilette",
           "isPromo": false,
           "observedAt": "2026-10-23T13:22:46.439Z",
-          "lastSeenAt": "2026-10-23T13:22:46.439Z",
+          "lastSeenAt": "2026-11-22T16:14:12.825Z",
           "currentPriceCents": 4495,
           "currentPriceEurCents": 4495,
           "referencePriceCents": 4495,
@@ -620,71 +532,6 @@
           "currentPriceEurCents": 145,
           "referencePriceCents": 145,
           "referencePriceEurCents": 145
-        }
-      ]
-    },
-    {
-      "productId": 41878,
-      "brand": "Balea",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 84.58,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Fußmaske Socken Hornhaut Entferner Ferse (1 Paar), 2 St",
-          "url": "https://www.dm.de/p/d/3136418/balea-fussmaske-socken-hornhaut-entferner-ferse-1-paar",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:46.322Z",
-          "lastSeenAt": "2026-11-06T12:04:31.813Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Fußmaske Anti-Hornhaut Ferse (1 Paar), 2 St",
-          "url": "https://www.dm.at/p/d/3136418/balea-fussmaske-anti-hornhaut-ferse-1-paar",
-          "isPromo": false,
-          "observedAt": "2026-09-07T14:14:09.459Z",
-          "lastSeenAt": "2026-11-06T12:04:24.232Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Maska za odstranjevanje trde kože na pet, 1 par",
-          "url": "https://www.dm.si/p/d/3136418/balea-maska-za-odstranjevanje-trde-koze-na-pet",
-          "isPromo": false,
-          "observedAt": "2026-10-07T15:32:07.896Z",
-          "lastSeenAt": "2026-11-06T12:03:25.513Z",
-          "currentPriceCents": 340,
-          "currentPriceEurCents": 340,
-          "referencePriceCents": 340,
-          "referencePriceEurCents": 340
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Bőrkeményedés elleni sarokmaszk, 1 Pár",
-          "url": "https://www.dm.hu/p/d/3136418/balea-borkemenyedes-elleni-sarokmaszk",
-          "isPromo": false,
-          "observedAt": "2026-10-07T15:32:33.137Z",
-          "lastSeenAt": "2026-11-06T12:04:33.350Z",
-          "currentPriceCents": 79900,
-          "currentPriceEurCents": 214,
-          "referencePriceCents": 79900,
-          "referencePriceEurCents": 214
         }
       ]
     },
@@ -764,6 +611,71 @@
           "currentPriceEurCents": 134,
           "referencePriceCents": 49900,
           "referencePriceEurCents": 134
+        }
+      ]
+    },
+    {
+      "productId": 41878,
+      "brand": "Balea",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 83.72,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Fußmaske Socken Hornhaut Entferner Ferse (1 Paar), 2 St",
+          "url": "https://www.dm.de/p/d/3136418/balea-fussmaske-socken-hornhaut-entferner-ferse-1-paar",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:46.322Z",
+          "lastSeenAt": "2026-11-06T12:04:31.813Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Fußmaske Anti-Hornhaut Ferse (1 Paar), 2 St",
+          "url": "https://www.dm.at/p/d/3136418/balea-fussmaske-anti-hornhaut-ferse-1-paar",
+          "isPromo": false,
+          "observedAt": "2026-09-07T14:14:09.459Z",
+          "lastSeenAt": "2026-11-06T12:04:24.232Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Maska za odstranjevanje trde kože na pet, 1 par",
+          "url": "https://www.dm.si/p/d/3136418/balea-maska-za-odstranjevanje-trde-koze-na-pet",
+          "isPromo": false,
+          "observedAt": "2026-10-07T15:32:07.896Z",
+          "lastSeenAt": "2026-11-06T12:03:25.513Z",
+          "currentPriceCents": 340,
+          "currentPriceEurCents": 340,
+          "referencePriceCents": 340,
+          "referencePriceEurCents": 340
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Bőrkeményedés elleni sarokmaszk, 1 Pár",
+          "url": "https://www.dm.hu/p/d/3136418/balea-borkemenyedes-elleni-sarokmaszk",
+          "isPromo": false,
+          "observedAt": "2026-10-07T15:32:33.137Z",
+          "lastSeenAt": "2026-11-06T12:04:33.350Z",
+          "currentPriceCents": 79900,
+          "currentPriceEurCents": 215,
+          "referencePriceCents": 79900,
+          "referencePriceEurCents": 215
         }
       ]
     },
@@ -940,43 +852,6 @@
           "currentPriceEurCents": 1995,
           "referencePriceCents": 1995,
           "referencePriceEurCents": 1995
-        }
-      ]
-    },
-    {
-      "productId": 1975,
-      "brand": "Visiomax",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 67.8,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Mesečna kontaktna leča, dioptrija -0,75, 1 kos",
-          "url": "https://www.dm.si/p/d/3080073/visiomax-mesecna-kontaktna-leca-dioptrija-0-75",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:55:43.742Z",
-          "lastSeenAt": "2026-10-24T12:39:06.301Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Monatslinse Dioptrie -0,75, 1 St",
-          "url": "https://www.dm.de/p/d/3080073/visiomax-monatslinse-dioptrie-0-75",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:03.605Z",
-          "lastSeenAt": "2026-10-24T12:39:19.590Z",
-          "currentPriceCents": 495,
-          "currentPriceEurCents": 495,
-          "referencePriceCents": 495,
-          "referencePriceEurCents": 495
         }
       ]
     },
@@ -1308,7 +1183,7 @@
       "productId": 57534,
       "brand": "WILKINSON SWORD",
       "isCountryExtreme": true,
-      "overallPercentDiff": 60.19,
+      "overallPercentDiff": 59.76,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1321,9 +1196,9 @@
           "observedAt": "2026-09-01T12:31:07.865Z",
           "lastSeenAt": "2026-11-20T16:56:35.048Z",
           "currentPriceCents": 278500,
-          "currentPriceEurCents": 746,
+          "currentPriceEurCents": 748,
           "referencePriceCents": 278500,
-          "referencePriceEurCents": 746
+          "referencePriceEurCents": 748
         },
         {
           "countryCode": "DE",
@@ -1382,7 +1257,7 @@
       "productId": 10637,
       "brand": "alverde BABY",
       "isCountryExtreme": true,
-      "overallPercentDiff": 57.75,
+      "overallPercentDiff": 56.91,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1451,9 +1326,148 @@
           "observedAt": "2026-09-01T12:32:42.830Z",
           "lastSeenAt": "2026-10-31T14:30:54.836Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 187,
+          "currentPriceEurCents": 188,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 187
+          "referencePriceEurCents": 188
+        }
+      ]
+    },
+    {
+      "productId": 9581,
+      "brand": "Balea MEN",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 56.91,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Balzam za nego kože po britju ULTRA SENSITIVE, 100 ml",
+          "url": "https://www.dm.si/p/d/1626208/balea-men-balzam-za-nego-koze-po-britju-ultra-sensitive",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:25.774Z",
+          "lastSeenAt": "2026-11-03T11:53:39.659Z",
+          "currentPriceCents": 225,
+          "currentPriceEurCents": 225,
+          "referencePriceCents": 225,
+          "referencePriceEurCents": 225
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "After Shave Balsam Ultra Sensitive, 100 ml",
+          "url": "https://www.dm.at/p/d/1626208/balea-men-after-shave-balsam-ultra-sensitive",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:09.884Z",
+          "lastSeenAt": "2026-11-03T11:53:51.823Z",
+          "currentPriceCents": 285,
+          "currentPriceEurCents": 285,
+          "referencePriceCents": 285,
+          "referencePriceEurCents": 285
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "After Shave Balsam Ultra Sensitive, 100 ml",
+          "url": "https://www.dm.de/p/d/1626208/balea-men-after-shave-balsam-ultra-sensitive",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:08.108Z",
+          "lastSeenAt": "2026-11-03T11:54:09.342Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Ultra szenzitív after shave balzsam nagyon..., 100 ml",
+          "url": "https://www.dm.hu/p/d/1626208/balea-men-ultra-szenzitiv-after-shave-balzsam-nagyon-erzekeny-borre",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:05.211Z",
+          "lastSeenAt": "2026-11-03T11:54:12.279Z",
+          "currentPriceCents": 69900,
+          "currentPriceEurCents": 188,
+          "referencePriceCents": 69900,
+          "referencePriceEurCents": 188
+        }
+      ]
+    },
+    {
+      "productId": 44031,
+      "brand": "LANGHAARMÄDCHEN",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 56.65,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Shampoo Molecular Deep Bond, 300 ml",
+          "url": "https://www.dm.de/p/d/3135111/langhaarmaedchen-shampoo-molecular-deep-bond",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:28.292Z",
+          "lastSeenAt": "2026-11-13T12:08:53.497Z",
+          "currentPriceCents": 495,
+          "currentPriceEurCents": 495,
+          "referencePriceCents": 495,
+          "referencePriceEurCents": 495
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Sampon, struktúra károsodott hajra, 300 ml",
+          "url": "https://www.dm.hu/p/d/3135111/langhaarmadchen-sampon-struktura-karosodott-hajra",
+          "isPromo": true,
+          "observedAt": "2026-11-13T12:09:04.712Z",
+          "lastSeenAt": "2026-11-13T12:09:04.712Z",
+          "currentPriceCents": 99900,
+          "currentPriceEurCents": 268,
+          "referencePriceCents": 117500,
+          "referencePriceEurCents": 316
+        }
+      ]
+    },
+    {
+      "productId": 17954,
+      "brand": "Ritex",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 56.18,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "BIO lubrikant, 50 ml",
+          "url": "https://www.dm.si/p/d/1426264/ritex-bio-lubrikant",
+          "isPromo": false,
+          "observedAt": "2026-09-28T16:44:03.713Z",
+          "lastSeenAt": "2026-10-28T15:04:59.594Z",
+          "currentPriceCents": 445,
+          "currentPriceEurCents": 445,
+          "referencePriceCents": 445,
+          "referencePriceEurCents": 445
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "BIO Gleitgel, 50 ml",
+          "url": "https://www.dm.de/p/d/1426264/ritex-bio-gleitgel",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:25.833Z",
+          "lastSeenAt": "2026-10-28T15:05:11.213Z",
+          "currentPriceCents": 695,
+          "currentPriceEurCents": 695,
+          "referencePriceCents": 695,
+          "referencePriceEurCents": 695
         }
       ]
     }

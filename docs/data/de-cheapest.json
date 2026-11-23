@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-22T13:09:28.147Z",
+  "generatedAt": "2026-11-23T15:46:08.936Z",
   "fx": {
-    "asOf": "2026-11-20",
+    "asOf": "2026-11-23",
     "rates": {
-      "USD": 1.099,
-      "JPY": 174.35,
-      "CZK": 24.469,
+      "USD": 1.0939,
+      "JPY": 174.01,
+      "CZK": 24.455,
       "DKK": 7.4746,
-      "GBP": 0.83735,
-      "HUF": 373.55,
-      "PLN": 4.4583,
-      "RON": 5.3493,
-      "SEK": 11.2125,
-      "CHF": 0.9223,
+      "GBP": 0.83673,
+      "HUF": 372.28,
+      "PLN": 4.4588,
+      "RON": 5.3483,
+      "SEK": 11.2375,
+      "CHF": 0.9186,
       "ISK": 137.2,
-      "NOK": 10.718,
-      "TRY": 55.5788,
-      "AUD": 1.6487,
-      "BRL": 6.5259,
-      "CAD": 1.5723,
-      "CNY": 7.3388,
-      "HKD": 8.615,
-      "IDR": 20071.37,
-      "ILS": 3.6737,
-      "INR": 101.85,
-      "KRW": 1472.04,
-      "MXN": 20.9547,
-      "MYR": 4.5196,
-      "NZD": 1.9968,
-      "PHP": 70.091,
-      "SGD": 1.416,
-      "THB": 37.262,
-      "ZAR": 19.1987
+      "NOK": 10.7285,
+      "TRY": 55.3405,
+      "AUD": 1.6532,
+      "BRL": 6.5611,
+      "CAD": 1.5711,
+      "CNY": 7.2905,
+      "HKD": 8.5772,
+      "IDR": 19932.94,
+      "ILS": 3.6643,
+      "INR": 101.6395,
+      "KRW": 1475.51,
+      "MXN": 21.0528,
+      "MYR": 4.5101,
+      "NZD": 2.0079,
+      "PHP": 69.851,
+      "SGD": 1.4124,
+      "THB": 37.242,
+      "ZAR": 19.1513
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -98,9 +98,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-11-13T12:09:04.712Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 187,
+          "currentPriceEurCents": 188,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 187
+          "referencePriceEurCents": 188
         }
       ]
     },
@@ -307,88 +307,9 @@
           "observedAt": "2026-10-18T12:36:09.737Z",
           "lastSeenAt": "2026-11-17T13:18:13.918Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 803,
+          "currentPriceEurCents": 806,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 803
-        }
-      ]
-    },
-    {
-      "productId": 7017,
-      "brand": "Balea",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 214.12,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Osvježavajući gel za pranje lica – aloe vera, 150 ml",
-          "url": "https://www.dm.hr/p/d/1610492/balea-osvjezavajuci-gel-za-pranje-lica-aloe-vera",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:40.566Z",
-          "lastSeenAt": "2026-10-24T12:39:12.602Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Osvežujoči gel za umivanje obraza z aloe vero, 150 ml",
-          "url": "https://www.dm.si/p/d/1610492/balea-osvezujoci-gel-za-umivanje-obraza-z-aloe-vero",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:55.159Z",
-          "lastSeenAt": "2026-10-24T12:39:06.301Z",
-          "currentPriceCents": 165,
-          "currentPriceEurCents": 165,
-          "referencePriceCents": 165,
-          "referencePriceEurCents": 165
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Waschgel Erfrischend, 150 ml",
-          "url": "https://www.dm.at/p/d/1610492/balea-waschgel-erfrischend",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:37.949Z",
-          "lastSeenAt": "2026-10-24T12:39:15.285Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Waschgel erfrischend, 150 ml",
-          "url": "https://www.dm.de/p/d/1610492/balea-waschgel-erfrischend",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:03.187Z",
-          "lastSeenAt": "2026-10-24T12:39:21.028Z",
-          "currentPriceCents": 85,
-          "currentPriceEurCents": 85,
-          "referencePriceCents": 85,
-          "referencePriceEurCents": 85
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Frissítő arctisztító gél normál és vegyes bőrre,..., 150 ml",
-          "url": "https://www.dm.hu/p/d/1610492/balea-frissito-arctisztito-gel-normal-es-vegyes-borre-hydro-komplexszel-es-10-aloe-veraval",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:46.773Z",
-          "lastSeenAt": "2026-10-24T12:39:23.327Z",
-          "currentPriceCents": 99900,
-          "currentPriceEurCents": 267,
-          "referencePriceCents": 99900,
-          "referencePriceEurCents": 267
+          "referencePriceEurCents": 806
         }
       ]
     },
@@ -396,7 +317,7 @@
       "productId": 10916,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 214.12,
+      "overallPercentDiff": 215.29,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -465,9 +386,9 @@
           "observedAt": "2026-09-01T12:32:54.339Z",
           "lastSeenAt": "2026-11-16T18:29:00.372Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 267,
+          "currentPriceEurCents": 268,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 267
+          "referencePriceEurCents": 268
         }
       ]
     },
@@ -776,7 +697,7 @@
       "productId": 5206,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 187.69,
+      "overallPercentDiff": 189.23,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -817,9 +738,9 @@
           "observedAt": "2026-09-01T12:29:59.422Z",
           "lastSeenAt": "2026-10-25T13:10:24.522Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 187,
+          "currentPriceEurCents": 188,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 187
+          "referencePriceEurCents": 188
         }
       ]
     },
@@ -982,47 +903,10 @@
       ]
     },
     {
-      "productId": 39160,
-      "brand": "Tabac Original",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 181.82,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Deospray Natural, 100 ml",
-          "url": "https://www.dm.at/p/d/1016800/tabac-original-deospray-natural",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:38:09.044Z",
-          "lastSeenAt": "2026-10-29T15:12:27.046Z",
-          "currentPriceCents": 1395,
-          "currentPriceEurCents": 1395,
-          "referencePriceCents": 1395,
-          "referencePriceEurCents": 1395
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Deo Naturalspray, 100 ml",
-          "url": "https://www.dm.de/p/d/1016800/tabac-original-deo-naturalspray",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:16.760Z",
-          "lastSeenAt": "2026-10-29T15:12:37.043Z",
-          "currentPriceCents": 495,
-          "currentPriceEurCents": 495,
-          "referencePriceCents": 495,
-          "referencePriceEurCents": 495
-        }
-      ]
-    },
-    {
       "productId": 2456,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 181.05,
+      "overallPercentDiff": 182.11,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1091,9 +975,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-11-11T16:08:05.457Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 267,
+          "currentPriceEurCents": 268,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 267
+          "referencePriceEurCents": 268
         }
       ]
     },
@@ -1101,7 +985,7 @@
       "productId": 11162,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 181.05,
+      "overallPercentDiff": 182.11,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1170,9 +1054,9 @@
           "observedAt": "2026-11-06T12:04:37.247Z",
           "lastSeenAt": "2026-11-06T12:04:37.247Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 267,
+          "currentPriceEurCents": 268,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 267
+          "referencePriceEurCents": 268
         }
       ]
     },
@@ -1180,7 +1064,7 @@
       "productId": 11969,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 181.05,
+      "overallPercentDiff": 182.11,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1249,9 +1133,46 @@
           "observedAt": "2026-11-10T12:35:05.271Z",
           "lastSeenAt": "2026-11-10T12:35:05.271Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 267,
+          "currentPriceEurCents": 268,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 267
+          "referencePriceEurCents": 268
+        }
+      ]
+    },
+    {
+      "productId": 39160,
+      "brand": "Tabac Original",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 181.82,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Deospray Natural, 100 ml",
+          "url": "https://www.dm.at/p/d/1016800/tabac-original-deospray-natural",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:38:09.044Z",
+          "lastSeenAt": "2026-10-29T15:12:27.046Z",
+          "currentPriceCents": 1395,
+          "currentPriceEurCents": 1395,
+          "referencePriceCents": 1395,
+          "referencePriceEurCents": 1395
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Deo Naturalspray, 100 ml",
+          "url": "https://www.dm.de/p/d/1016800/tabac-original-deo-naturalspray",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:16.760Z",
+          "lastSeenAt": "2026-10-29T15:12:37.043Z",
+          "currentPriceCents": 495,
+          "currentPriceEurCents": 495,
+          "referencePriceCents": 495,
+          "referencePriceEurCents": 495
         }
       ]
     },
@@ -1259,7 +1180,7 @@
       "productId": 6257,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 178.4,
+      "overallPercentDiff": 179.2,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1300,9 +1221,9 @@
           "observedAt": "2026-09-01T12:32:59.257Z",
           "lastSeenAt": "2026-10-25T13:10:26.624Z",
           "currentPriceCents": 129900,
-          "currentPriceEurCents": 348,
+          "currentPriceEurCents": 349,
           "referencePriceCents": 129900,
-          "referencePriceEurCents": 348
+          "referencePriceEurCents": 349
         }
       ]
     },
@@ -1347,7 +1268,7 @@
       "productId": 9912,
       "brand": "L'ORÉAL PARiS",
       "isCountryExtreme": true,
-      "overallPercentDiff": 171.14,
+      "overallPercentDiff": 171.9,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1416,9 +1337,9 @@
           "observedAt": "2026-09-01T12:31:30.809Z",
           "lastSeenAt": "2026-11-12T16:47:03.782Z",
           "currentPriceCents": 399900,
-          "currentPriceEurCents": 1071,
+          "currentPriceEurCents": 1074,
           "referencePriceCents": 399900,
-          "referencePriceEurCents": 1071
+          "referencePriceEurCents": 1074
         }
       ]
     },
@@ -1426,7 +1347,7 @@
       "productId": 1798,
       "brand": "Dr.Beckmann",
       "isCountryExtreme": true,
-      "overallPercentDiff": 163.05,
+      "overallPercentDiff": 164.07,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1467,9 +1388,9 @@
           "observedAt": "2026-09-01T12:32:54.339Z",
           "lastSeenAt": "2026-11-14T11:25:59.531Z",
           "currentPriceCents": 289900,
-          "currentPriceEurCents": 776,
+          "currentPriceEurCents": 779,
           "referencePriceCents": 289900,
-          "referencePriceEurCents": 776
+          "referencePriceEurCents": 779
         },
         {
           "countryCode": "DE",
@@ -1714,7 +1635,7 @@
       "productId": 130,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 154.92,
+      "overallPercentDiff": 155.87,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1783,9 +1704,9 @@
           "observedAt": "2026-09-01T12:32:51.781Z",
           "lastSeenAt": "2026-11-11T16:08:03.442Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 803,
+          "currentPriceEurCents": 806,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 803
+          "referencePriceEurCents": 806
         }
       ]
     },
@@ -1793,7 +1714,7 @@
       "productId": 9553,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 154.92,
+      "overallPercentDiff": 155.87,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1804,7 +1725,7 @@
           "url": "https://www.dm.hr/p/d/2482381/paradies-aaa-baterije-power-alkaline-micro",
           "isPromo": false,
           "observedAt": "2026-08-30T22:32:56.123Z",
-          "lastSeenAt": "2026-10-23T13:22:35.945Z",
+          "lastSeenAt": "2026-11-22T16:14:05.093Z",
           "currentPriceCents": 395,
           "currentPriceEurCents": 395,
           "referencePriceCents": 395,
@@ -1818,7 +1739,7 @@
           "url": "https://www.dm.si/p/d/2482381/paradies-alkalne-baterije-aaa-micro-lr-03-1-5-v-vecje-pakiranje",
           "isPromo": false,
           "observedAt": "2026-08-30T22:33:57.723Z",
-          "lastSeenAt": "2026-10-23T13:22:25.716Z",
+          "lastSeenAt": "2026-11-22T16:13:57.908Z",
           "currentPriceCents": 345,
           "currentPriceEurCents": 345,
           "referencePriceCents": 345,
@@ -1832,7 +1753,7 @@
           "url": "https://www.dm.at/p/d/2482381/paradies-batterien-aaa-power-alkaline",
           "isPromo": false,
           "observedAt": "2026-08-30T22:36:14.610Z",
-          "lastSeenAt": "2026-10-23T13:22:40.863Z",
+          "lastSeenAt": "2026-11-22T16:14:01.441Z",
           "currentPriceCents": 395,
           "currentPriceEurCents": 395,
           "referencePriceCents": 395,
@@ -1842,11 +1763,11 @@
           "countryCode": "DE",
           "shopId": "dm-de",
           "currency": "EUR",
-          "name": "Micro AAA LR03, 20 St",
-          "url": "https://www.dm.de/p/d/2482381/paradies-micro-aaa-lr03",
+          "name": "Batterien Power Alkaline Micro AAA, 20 St",
+          "url": "https://www.dm.de/p/d/2482381/paradies-batterien-power-alkaline-micro-aaa",
           "isPromo": false,
           "observedAt": "2026-08-31T20:41:57.904Z",
-          "lastSeenAt": "2026-10-23T13:22:53.420Z",
+          "lastSeenAt": "2026-11-22T16:14:17.478Z",
           "currentPriceCents": 315,
           "currentPriceEurCents": 315,
           "referencePriceCents": 315,
@@ -1860,11 +1781,11 @@
           "url": "https://www.dm.hu/p/d/2482381/paradies-alkali-ceruzaelem-aaa-lr-03-micro-1-5-v",
           "isPromo": false,
           "observedAt": "2026-09-01T12:31:17.754Z",
-          "lastSeenAt": "2026-10-23T13:22:57.120Z",
+          "lastSeenAt": "2026-11-22T16:14:10.528Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 803,
+          "currentPriceEurCents": 806,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 803
+          "referencePriceEurCents": 806
         }
       ]
     },
@@ -1902,6 +1823,71 @@
           "currentPriceEurCents": 155,
           "referencePriceCents": 155,
           "referencePriceEurCents": 155
+        }
+      ]
+    },
+    {
+      "productId": 4742,
+      "brand": "Dr. Beckmann",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 153.82,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Geruchs-Entferner, 500 ml",
+          "url": "https://www.dm.at/p/d/1711396/dr-beckmann-geruchs-entferner",
+          "isPromo": false,
+          "observedAt": "2026-08-28T16:48:26.874Z",
+          "lastSeenAt": "2026-11-06T12:04:17.965Z",
+          "currentPriceCents": 455,
+          "currentPriceEurCents": 455,
+          "referencePriceCents": 455,
+          "referencePriceEurCents": 455
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Sredstvo za odstranjevanje neprijetnih vonjav, 500 ml",
+          "url": "https://www.dm.si/p/d/1711396/dr-beckmann-sredstvo-za-odstranjevanje-neprijetnih-vonjav",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:11.027Z",
+          "lastSeenAt": "2026-11-06T12:04:05.052Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Geruchsentferner, 500 ml",
+          "url": "https://www.dm.de/p/d/1711396/dr-beckmann-geruchsentferner",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:56.477Z",
+          "lastSeenAt": "2026-11-06T12:04:31.813Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Szageltávolító folyadék ruhákhoz, 0,5 l",
+          "url": "https://www.dm.hu/p/d/1711396/dr-beckmann-szageltavolito-folyadek-ruhakhoz",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:10.517Z",
+          "lastSeenAt": "2026-11-06T12:04:35.434Z",
+          "currentPriceCents": 259900,
+          "currentPriceEurCents": 698,
+          "referencePriceCents": 259900,
+          "referencePriceEurCents": 698
         }
       ]
     }
