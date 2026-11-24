@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-23T15:46:08.936Z",
+  "generatedAt": "2026-11-24T15:38:04.986Z",
   "fx": {
-    "asOf": "2026-11-23",
+    "asOf": "2026-11-24",
     "rates": {
-      "USD": 1.0939,
-      "JPY": 174.01,
-      "CZK": 24.455,
-      "DKK": 7.4746,
-      "GBP": 0.83673,
-      "HUF": 372.28,
-      "PLN": 4.4588,
-      "RON": 5.3483,
-      "SEK": 11.2375,
-      "CHF": 0.9186,
+      "USD": 1.0963,
+      "JPY": 174.39,
+      "CZK": 24.428,
+      "DKK": 7.4744,
+      "GBP": 0.837,
+      "HUF": 369.7,
+      "PLN": 4.4599,
+      "RON": 5.3442,
+      "SEK": 11.221,
+      "CHF": 0.9183,
       "ISK": 137.2,
-      "NOK": 10.7285,
-      "TRY": 55.3405,
-      "AUD": 1.6532,
-      "BRL": 6.5611,
-      "CAD": 1.5711,
-      "CNY": 7.2905,
-      "HKD": 8.5772,
-      "IDR": 19932.94,
-      "ILS": 3.6643,
-      "INR": 101.6395,
-      "KRW": 1475.51,
-      "MXN": 21.0528,
-      "MYR": 4.5101,
-      "NZD": 2.0079,
-      "PHP": 69.851,
-      "SGD": 1.4124,
-      "THB": 37.242,
-      "ZAR": 19.1513
+      "NOK": 10.735,
+      "TRY": 55.5029,
+      "AUD": 1.6507,
+      "BRL": 6.4349,
+      "CAD": 1.5707,
+      "CNY": 7.3063,
+      "HKD": 8.597,
+      "IDR": 19983.58,
+      "ILS": 3.6618,
+      "INR": 101.867,
+      "KRW": 1473.99,
+      "MXN": 21.1238,
+      "MYR": 4.5118,
+      "NZD": 2.0038,
+      "PHP": 69.929,
+      "SGD": 1.4141,
+      "THB": 37.197,
+      "ZAR": 19.2333
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -200,9 +200,9 @@
           "observedAt": "2026-09-01T12:30:17.495Z",
           "lastSeenAt": "2026-10-28T15:05:22.610Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 241,
+          "currentPriceEurCents": 243,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 241
+          "referencePriceEurCents": 243
         }
       ]
     },
@@ -210,7 +210,7 @@
       "productId": 5466,
       "brand": "Jordan",
       "isCountryExtreme": true,
-      "overallPercentDiff": 186.46,
+      "overallPercentDiff": 183.51,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -237,9 +237,9 @@
           "observedAt": "2026-09-01T12:30:01.877Z",
           "lastSeenAt": "2026-11-22T16:14:10.528Z",
           "currentPriceCents": 35900,
-          "currentPriceEurCents": 96,
+          "currentPriceEurCents": 97,
           "referencePriceCents": 35900,
-          "referencePriceEurCents": 96
+          "referencePriceEurCents": 97
         }
       ]
     },
@@ -247,7 +247,7 @@
       "productId": 9537,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 175,
+      "overallPercentDiff": 171.6,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -302,9 +302,9 @@
           "observedAt": "2026-10-19T15:34:35.501Z",
           "lastSeenAt": "2026-11-18T17:13:25.550Z",
           "currentPriceCents": 29900,
-          "currentPriceEurCents": 80,
+          "currentPriceEurCents": 81,
           "referencePriceCents": 29900,
-          "referencePriceEurCents": 80
+          "referencePriceEurCents": 81
         }
       ]
     },
@@ -312,7 +312,7 @@
       "productId": 11188,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 175,
+      "overallPercentDiff": 171.6,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -353,9 +353,9 @@
           "observedAt": "2026-10-12T17:51:40.619Z",
           "lastSeenAt": "2026-11-11T16:08:03.442Z",
           "currentPriceCents": 29900,
-          "currentPriceEurCents": 80,
+          "currentPriceEurCents": 81,
           "referencePriceCents": 29900,
-          "referencePriceEurCents": 80
+          "referencePriceEurCents": 81
         }
       ]
     },
@@ -432,9 +432,9 @@
           "observedAt": "2026-09-01T12:32:04.843Z",
           "lastSeenAt": "2026-11-11T16:08:03.442Z",
           "currentPriceCents": 29900,
-          "currentPriceEurCents": 80,
+          "currentPriceEurCents": 81,
           "referencePriceCents": 29900,
-          "referencePriceEurCents": 80
+          "referencePriceEurCents": 81
         }
       ]
     },
@@ -511,60 +511,9 @@
           "observedAt": "2026-09-01T12:31:46.773Z",
           "lastSeenAt": "2026-11-22T16:14:09.101Z",
           "currentPriceCents": 29900,
-          "currentPriceEurCents": 80,
+          "currentPriceEurCents": 81,
           "referencePriceCents": 29900,
-          "referencePriceEurCents": 80
-        }
-      ]
-    },
-    {
-      "productId": 7970,
-      "brand": "Gillette Venus",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 158.98,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Jednokratni brijač Smooth Miami, 6 kom.",
-          "url": "https://www.dm.hr/p/d/3062308/gillette-venus-jednokratni-brijac-smooth-miami",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:47.431Z",
-          "lastSeenAt": "2026-11-08T15:09:04.531Z",
-          "currentPriceCents": 1090,
-          "currentPriceEurCents": 1090,
-          "referencePriceCents": 1090,
-          "referencePriceEurCents": 1090
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Brivniki za enkratno uporabo Smooth Miami, 6 kos",
-          "url": "https://www.dm.si/p/d/3062308/gillette-venus-brivniki-za-enkratno-uporabo-smooth-miami",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:22.881Z",
-          "lastSeenAt": "2026-11-08T15:09:02.480Z",
-          "currentPriceCents": 1370,
-          "currentPriceEurCents": 1370,
-          "referencePriceCents": 1370,
-          "referencePriceEurCents": 1370
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Smooth Miami Női eldobható borotva, 6 db",
-          "url": "https://www.dm.hu/p/d/3062308/gillette-venus-smooth-miami-noi-eldobhato-borotva",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:13.724Z",
-          "lastSeenAt": "2026-11-08T15:09:24.786Z",
-          "currentPriceCents": 196900,
-          "currentPriceEurCents": 529,
-          "referencePriceCents": 196900,
-          "referencePriceEurCents": 529
+          "referencePriceEurCents": 81
         }
       ]
     },
@@ -641,9 +590,60 @@
           "observedAt": "2026-09-01T12:32:09.419Z",
           "lastSeenAt": "2026-11-15T15:38:48.145Z",
           "currentPriceCents": 74900,
-          "currentPriceEurCents": 201,
+          "currentPriceEurCents": 203,
           "referencePriceCents": 74900,
-          "referencePriceEurCents": 201
+          "referencePriceEurCents": 203
+        }
+      ]
+    },
+    {
+      "productId": 7970,
+      "brand": "Gillette Venus",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 157.04,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Jednokratni brijač Smooth Miami, 6 kom.",
+          "url": "https://www.dm.hr/p/d/3062308/gillette-venus-jednokratni-brijac-smooth-miami",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:47.431Z",
+          "lastSeenAt": "2026-11-08T15:09:04.531Z",
+          "currentPriceCents": 1090,
+          "currentPriceEurCents": 1090,
+          "referencePriceCents": 1090,
+          "referencePriceEurCents": 1090
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Brivniki za enkratno uporabo Smooth Miami, 6 kos",
+          "url": "https://www.dm.si/p/d/3062308/gillette-venus-brivniki-za-enkratno-uporabo-smooth-miami",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:22.881Z",
+          "lastSeenAt": "2026-11-08T15:09:02.480Z",
+          "currentPriceCents": 1370,
+          "currentPriceEurCents": 1370,
+          "referencePriceCents": 1370,
+          "referencePriceEurCents": 1370
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Smooth Miami Női eldobható borotva, 6 db",
+          "url": "https://www.dm.hu/p/d/3062308/gillette-venus-smooth-miami-noi-eldobhato-borotva",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:13.724Z",
+          "lastSeenAt": "2026-11-08T15:09:24.786Z",
+          "currentPriceCents": 196900,
+          "currentPriceEurCents": 533,
+          "referencePriceCents": 196900,
+          "referencePriceEurCents": 533
         }
       ]
     },
@@ -692,9 +692,9 @@
           "observedAt": "2026-09-28T16:44:26.494Z",
           "lastSeenAt": "2026-10-28T15:05:22.610Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 268,
+          "currentPriceEurCents": 270,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 268
+          "referencePriceEurCents": 270
         }
       ]
     },
@@ -739,7 +739,7 @@
       "productId": 1190,
       "brand": "Balea PROFESSIONAL",
       "isCountryExtreme": true,
-      "overallPercentDiff": 150,
+      "overallPercentDiff": 148.25,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -766,60 +766,9 @@
           "observedAt": "2026-10-17T12:10:22.820Z",
           "lastSeenAt": "2026-11-16T18:29:01.872Z",
           "currentPriceCents": 29900,
-          "currentPriceEurCents": 80,
+          "currentPriceEurCents": 81,
           "referencePriceCents": 52900,
-          "referencePriceEurCents": 142
-        }
-      ]
-    },
-    {
-      "productId": 10884,
-      "brand": "WILKINSON SWORD",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 146.88,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Extra 2 Beauty jednokratni brijač, 7 kom.",
-          "url": "https://www.dm.hr/p/d/2030477/wilkinson-sword-extra-2-beauty-jednokratni-brijac",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:04.766Z",
-          "lastSeenAt": "2026-10-30T15:01:33.514Z",
-          "currentPriceCents": 350,
-          "currentPriceEurCents": 350,
-          "referencePriceCents": 350,
-          "referencePriceEurCents": 350
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Damski brivnik za enkratno uporabo Extra2 My..., 7 kos",
-          "url": "https://www.dm.si/p/d/2030477/wilkinson-sword-damski-brivnik-za-enkratno-uporabo-extra2-my-intuition",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:06.418Z",
-          "lastSeenAt": "2026-10-30T15:01:36.549Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Eldobható borotva Xtra 2 My Intuition Essentials, 5 db",
-          "url": "https://www.dm.hu/p/d/2030477/wilkinson-sword-eldobhato-borotva-xtra-2-my-intuition-essentials",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:45.278Z",
-          "lastSeenAt": "2026-10-30T15:01:53.484Z",
-          "currentPriceCents": 59500,
-          "currentPriceEurCents": 160,
-          "referencePriceCents": 59500,
-          "referencePriceEurCents": 160
+          "referencePriceEurCents": 143
         }
       ]
     },
@@ -903,10 +852,61 @@
       ]
     },
     {
+      "productId": 10884,
+      "brand": "WILKINSON SWORD",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 145.34,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Extra 2 Beauty jednokratni brijač, 7 kom.",
+          "url": "https://www.dm.hr/p/d/2030477/wilkinson-sword-extra-2-beauty-jednokratni-brijac",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:04.766Z",
+          "lastSeenAt": "2026-10-30T15:01:33.514Z",
+          "currentPriceCents": 350,
+          "currentPriceEurCents": 350,
+          "referencePriceCents": 350,
+          "referencePriceEurCents": 350
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Damski brivnik za enkratno uporabo Extra2 My..., 7 kos",
+          "url": "https://www.dm.si/p/d/2030477/wilkinson-sword-damski-brivnik-za-enkratno-uporabo-extra2-my-intuition",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:06.418Z",
+          "lastSeenAt": "2026-10-30T15:01:36.549Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Eldobható borotva Xtra 2 My Intuition Essentials, 5 db",
+          "url": "https://www.dm.hu/p/d/2030477/wilkinson-sword-eldobhato-borotva-xtra-2-my-intuition-essentials",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:45.278Z",
+          "lastSeenAt": "2026-10-30T15:01:53.484Z",
+          "currentPriceCents": 59500,
+          "currentPriceEurCents": 161,
+          "referencePriceCents": 59500,
+          "referencePriceEurCents": 161
+        }
+      ]
+    },
+    {
       "productId": 6347,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 145.34,
+      "overallPercentDiff": 143.83,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -975,9 +975,60 @@
           "observedAt": "2026-09-01T12:30:55.609Z",
           "lastSeenAt": "2026-10-29T15:12:47.095Z",
           "currentPriceCents": 59900,
-          "currentPriceEurCents": 161,
+          "currentPriceEurCents": 162,
           "referencePriceCents": 59900,
-          "referencePriceEurCents": 161
+          "referencePriceEurCents": 162
+        }
+      ]
+    },
+    {
+      "productId": 16676,
+      "brand": "bruno banani",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 142.79,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Toaletna voda za ženske Sunset Blossom, 30 ml",
+          "url": "https://www.dm.si/p/d/3059217/bruno-banani-toaletna-voda-za-zenske-sunset-blossom",
+          "isPromo": false,
+          "observedAt": "2026-10-24T12:39:06.301Z",
+          "lastSeenAt": "2026-11-23T20:09:03.595Z",
+          "currentPriceCents": 2610,
+          "currentPriceEurCents": 2610,
+          "referencePriceCents": 2610,
+          "referencePriceEurCents": 2610
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Eau de Toilette Sunset Blossom, 30 ml",
+          "url": "https://www.dm.at/p/d/3059217/bruno-banani-eau-de-toilette-sunset-blossom",
+          "isPromo": false,
+          "observedAt": "2026-11-23T20:09:19.025Z",
+          "lastSeenAt": "2026-11-23T20:09:19.025Z",
+          "currentPriceCents": 1395,
+          "currentPriceEurCents": 1395,
+          "referencePriceCents": 1395,
+          "referencePriceEurCents": 1395
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Sunset Blossom Eau de Toilette Damen, 30 ml",
+          "url": "https://www.dm.de/p/d/3059217/bruno-banani-sunset-blossom-eau-de-toilette-damen",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:17.685Z",
+          "lastSeenAt": "2026-11-23T20:09:14.475Z",
+          "currentPriceCents": 1075,
+          "currentPriceEurCents": 1075,
+          "referencePriceCents": 1075,
+          "referencePriceEurCents": 1075
         }
       ]
     },
@@ -985,7 +1036,7 @@
       "productId": 667,
       "brand": "Balea med",
       "isCountryExtreme": true,
-      "overallPercentDiff": 143.12,
+      "overallPercentDiff": 140.91,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1054,9 +1105,9 @@
           "observedAt": "2026-09-01T12:31:37.751Z",
           "lastSeenAt": "2026-11-12T16:47:01.536Z",
           "currentPriceCents": 40500,
-          "currentPriceEurCents": 109,
+          "currentPriceEurCents": 110,
           "referencePriceCents": 40500,
-          "referencePriceEurCents": 109
+          "referencePriceEurCents": 110
         }
       ]
     },
@@ -1091,9 +1142,9 @@
           "observedAt": "2026-10-19T15:34:35.501Z",
           "lastSeenAt": "2026-11-18T17:13:25.550Z",
           "currentPriceCents": 599900,
-          "currentPriceEurCents": 1611,
+          "currentPriceEurCents": 1623,
           "referencePriceCents": 599900,
-          "referencePriceEurCents": 1611
+          "referencePriceEurCents": 1623
         },
         {
           "countryCode": "SI",
@@ -1143,7 +1194,7 @@
       "productId": 7293,
       "brand": "BIC",
       "isCountryExtreme": true,
-      "overallPercentDiff": 140.2,
+      "overallPercentDiff": 139.02,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1198,46 +1249,9 @@
           "observedAt": "2026-09-01T12:32:59.257Z",
           "lastSeenAt": "2026-10-30T15:01:53.484Z",
           "currentPriceCents": 75900,
-          "currentPriceEurCents": 204,
+          "currentPriceEurCents": 205,
           "referencePriceCents": 75900,
-          "referencePriceEurCents": 204
-        }
-      ]
-    },
-    {
-      "productId": 17313,
-      "brand": "Gillette Venus",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 136.77,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Damski brivnik za enkratno uporabo Venus Sensitive, 3 kos",
-          "url": "https://www.dm.si/p/d/2105007/gillette-venus-damski-brivnik-za-enkratno-uporabo-venus-sensitive",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:11.741Z",
-          "lastSeenAt": "2026-11-05T12:15:42.996Z",
-          "currentPriceCents": 895,
-          "currentPriceEurCents": 895,
-          "referencePriceCents": 895,
-          "referencePriceEurCents": 895
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Sensitive női eldobható borotva, 3 db",
-          "url": "https://www.dm.hu/p/d/2105007/gillette-venus-sensitive-noi-eldobhato-borotva",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:11.497Z",
-          "lastSeenAt": "2026-11-05T12:16:05.537Z",
-          "currentPriceCents": 140900,
-          "currentPriceEurCents": 378,
-          "referencePriceCents": 140900,
-          "referencePriceEurCents": 378
+          "referencePriceEurCents": 205
         }
       ]
     },
@@ -1314,9 +1328,9 @@
           "observedAt": "2026-09-01T12:30:45.278Z",
           "lastSeenAt": "2026-11-18T17:13:27.543Z",
           "currentPriceCents": 119900,
-          "currentPriceEurCents": 322,
+          "currentPriceEurCents": 324,
           "referencePriceCents": 119900,
-          "referencePriceEurCents": 322
+          "referencePriceEurCents": 324
         }
       ]
     },
@@ -1354,6 +1368,43 @@
           "currentPriceEurCents": 295,
           "referencePriceCents": 295,
           "referencePriceEurCents": 295
+        }
+      ]
+    },
+    {
+      "productId": 17313,
+      "brand": "Gillette Venus",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 134.91,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Damski brivnik za enkratno uporabo Venus Sensitive, 3 kos",
+          "url": "https://www.dm.si/p/d/2105007/gillette-venus-damski-brivnik-za-enkratno-uporabo-venus-sensitive",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:11.741Z",
+          "lastSeenAt": "2026-11-05T12:15:42.996Z",
+          "currentPriceCents": 895,
+          "currentPriceEurCents": 895,
+          "referencePriceCents": 895,
+          "referencePriceEurCents": 895
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Sensitive női eldobható borotva, 3 db",
+          "url": "https://www.dm.hu/p/d/2105007/gillette-venus-sensitive-noi-eldobhato-borotva",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:11.497Z",
+          "lastSeenAt": "2026-11-05T12:16:05.537Z",
+          "currentPriceCents": 140900,
+          "currentPriceEurCents": 381,
+          "referencePriceCents": 140900,
+          "referencePriceEurCents": 381
         }
       ]
     },
@@ -1518,9 +1569,9 @@
           "observedAt": "2026-09-01T12:32:07.099Z",
           "lastSeenAt": "2026-10-31T14:30:56.768Z",
           "currentPriceCents": 59900,
-          "currentPriceEurCents": 161,
+          "currentPriceEurCents": 162,
           "referencePriceCents": 59900,
-          "referencePriceEurCents": 161
+          "referencePriceEurCents": 162
         }
       ]
     },
@@ -1583,9 +1634,74 @@
           "observedAt": "2026-09-01T12:32:11.497Z",
           "lastSeenAt": "2026-11-20T16:56:33.557Z",
           "currentPriceCents": 339900,
-          "currentPriceEurCents": 913,
+          "currentPriceEurCents": 919,
           "referencePriceCents": 339900,
-          "referencePriceEurCents": 913
+          "referencePriceEurCents": 919
+        }
+      ]
+    },
+    {
+      "productId": 2041,
+      "brand": "Balea",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 121.74,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Depilacijska krema, 125 ml",
+          "url": "https://www.dm.si/p/d/3143412/balea-depilacijska-krema",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:56:11.756Z",
+          "lastSeenAt": "2026-11-12T16:46:37.945Z",
+          "currentPriceCents": 255,
+          "currentPriceEurCents": 255,
+          "referencePriceCents": 255,
+          "referencePriceEurCents": 255
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Enthaarungscreme, 125 ml",
+          "url": "https://www.dm.at/p/d/3143412/balea-enthaarungscreme",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:46.229Z",
+          "lastSeenAt": "2026-11-12T16:46:52.059Z",
+          "currentPriceCents": 165,
+          "currentPriceEurCents": 165,
+          "referencePriceCents": 165,
+          "referencePriceEurCents": 165
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Enthaarungscreme, 125 ml",
+          "url": "https://www.dm.de/p/d/3143412/balea-enthaarungscreme",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:20.964Z",
+          "lastSeenAt": "2026-11-12T16:46:55.883Z",
+          "currentPriceCents": 115,
+          "currentPriceEurCents": 115,
+          "referencePriceCents": 115,
+          "referencePriceEurCents": 115
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Szőrtelenítő krém, 125 ml",
+          "url": "https://www.dm.hu/p/d/3143412/balea-szortelenito-krem",
+          "isPromo": false,
+          "observedAt": "2026-09-13T13:18:19.823Z",
+          "lastSeenAt": "2026-11-12T16:47:01.536Z",
+          "currentPriceCents": 49900,
+          "currentPriceEurCents": 135,
+          "referencePriceCents": 49900,
+          "referencePriceEurCents": 135
         }
       ]
     },
@@ -1593,7 +1709,7 @@
       "productId": 3528,
       "brand": "alverde NATURKOSMETIK",
       "isCountryExtreme": true,
-      "overallPercentDiff": 121.8,
+      "overallPercentDiff": 120.15,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1662,152 +1778,8 @@
           "observedAt": "2026-09-01T12:30:45.278Z",
           "lastSeenAt": "2026-11-10T12:35:05.271Z",
           "currentPriceCents": 49500,
-          "currentPriceEurCents": 133,
+          "currentPriceEurCents": 134,
           "referencePriceCents": 49500,
-          "referencePriceEurCents": 133
-        }
-      ]
-    },
-    {
-      "productId": 2041,
-      "brand": "Balea",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 121.74,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Depilacijska krema, 125 ml",
-          "url": "https://www.dm.si/p/d/3143412/balea-depilacijska-krema",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:56:11.756Z",
-          "lastSeenAt": "2026-11-12T16:46:37.945Z",
-          "currentPriceCents": 255,
-          "currentPriceEurCents": 255,
-          "referencePriceCents": 255,
-          "referencePriceEurCents": 255
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Enthaarungscreme, 125 ml",
-          "url": "https://www.dm.at/p/d/3143412/balea-enthaarungscreme",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:46.229Z",
-          "lastSeenAt": "2026-11-12T16:46:52.059Z",
-          "currentPriceCents": 165,
-          "currentPriceEurCents": 165,
-          "referencePriceCents": 165,
-          "referencePriceEurCents": 165
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Enthaarungscreme, 125 ml",
-          "url": "https://www.dm.de/p/d/3143412/balea-enthaarungscreme",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:20.964Z",
-          "lastSeenAt": "2026-11-12T16:46:55.883Z",
-          "currentPriceCents": 115,
-          "currentPriceEurCents": 115,
-          "referencePriceCents": 115,
-          "referencePriceEurCents": 115
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Szőrtelenítő krém, 125 ml",
-          "url": "https://www.dm.hu/p/d/3143412/balea-szortelenito-krem",
-          "isPromo": false,
-          "observedAt": "2026-09-13T13:18:19.823Z",
-          "lastSeenAt": "2026-11-12T16:47:01.536Z",
-          "currentPriceCents": 49900,
-          "currentPriceEurCents": 134,
-          "referencePriceCents": 49900,
-          "referencePriceEurCents": 134
-        }
-      ]
-    },
-    {
-      "productId": 2814,
-      "brand": "ebelin",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 120.15,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Ščipalec za nohte na nogah, več razlilčic, 1 kos",
-          "url": "https://www.dm.si/p/d/1345885/ebelin-scipalec-za-nohte-na-nogah-vec-razlilcic",
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:01:22.563Z",
-          "lastSeenAt": "2026-10-31T14:30:32.565Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Grickalica za nokte na nogama, više vrsta, 1 kom.",
-          "url": "https://www.dm.hr/p/d/1345885/ebelin-grickalica-za-nokte-na-nogama-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:22.305Z",
-          "lastSeenAt": "2026-10-31T14:30:34.622Z",
-          "currentPriceCents": 245,
-          "currentPriceEurCents": 245,
-          "referencePriceCents": 245,
-          "referencePriceEurCents": 245
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Fußnagelknipser sortiert, 1 St",
-          "url": "https://www.dm.at/p/d/1345885/ebelin-fussnagelknipser-sortiert",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:41.260Z",
-          "lastSeenAt": "2026-10-31T14:30:39.838Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Fußnagelknipser, 1 St",
-          "url": "https://www.dm.de/p/d/1345885/ebelin-fussnagelknipser",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:25.833Z",
-          "lastSeenAt": "2026-10-31T14:30:49.033Z",
-          "currentPriceCents": 245,
-          "currentPriceEurCents": 245,
-          "referencePriceCents": 245,
-          "referencePriceEurCents": 245
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Lábujjkörömvágó csipesz, 1 db",
-          "url": "https://www.dm.hu/p/d/1345885/ebelin-labujjkoromvago-csipesz",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:45.327Z",
-          "lastSeenAt": "2026-10-31T14:30:54.836Z",
-          "currentPriceCents": 49900,
-          "currentPriceEurCents": 134,
-          "referencePriceCents": 49900,
           "referencePriceEurCents": 134
         }
       ]

@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-23T15:46:08.936Z",
+  "generatedAt": "2026-11-24T15:38:04.986Z",
   "fx": {
-    "asOf": "2026-11-23",
+    "asOf": "2026-11-24",
     "rates": {
-      "USD": 1.0939,
-      "JPY": 174.01,
-      "CZK": 24.455,
-      "DKK": 7.4746,
-      "GBP": 0.83673,
-      "HUF": 372.28,
-      "PLN": 4.4588,
-      "RON": 5.3483,
-      "SEK": 11.2375,
-      "CHF": 0.9186,
+      "USD": 1.0963,
+      "JPY": 174.39,
+      "CZK": 24.428,
+      "DKK": 7.4744,
+      "GBP": 0.837,
+      "HUF": 369.7,
+      "PLN": 4.4599,
+      "RON": 5.3442,
+      "SEK": 11.221,
+      "CHF": 0.9183,
       "ISK": 137.2,
-      "NOK": 10.7285,
-      "TRY": 55.3405,
-      "AUD": 1.6532,
-      "BRL": 6.5611,
-      "CAD": 1.5711,
-      "CNY": 7.2905,
-      "HKD": 8.5772,
-      "IDR": 19932.94,
-      "ILS": 3.6643,
-      "INR": 101.6395,
-      "KRW": 1475.51,
-      "MXN": 21.0528,
-      "MYR": 4.5101,
-      "NZD": 2.0079,
-      "PHP": 69.851,
-      "SGD": 1.4124,
-      "THB": 37.242,
-      "ZAR": 19.1513
+      "NOK": 10.735,
+      "TRY": 55.5029,
+      "AUD": 1.6507,
+      "BRL": 6.4349,
+      "CAD": 1.5707,
+      "CNY": 7.3063,
+      "HKD": 8.597,
+      "IDR": 19983.58,
+      "ILS": 3.6618,
+      "INR": 101.867,
+      "KRW": 1473.99,
+      "MXN": 21.1238,
+      "MYR": 4.5118,
+      "NZD": 2.0038,
+      "PHP": 69.929,
+      "SGD": 1.4141,
+      "THB": 37.197,
+      "ZAR": 19.2333
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -43,7 +43,7 @@
       "productId": 2140,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 228.33,
+      "overallPercentDiff": 230.56,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -112,74 +112,9 @@
           "observedAt": "2026-09-01T12:31:00.665Z",
           "lastSeenAt": "2026-11-14T11:25:59.531Z",
           "currentPriceCents": 219900,
-          "currentPriceEurCents": 591,
+          "currentPriceEurCents": 595,
           "referencePriceCents": 219900,
-          "referencePriceEurCents": 591
-        }
-      ]
-    },
-    {
-      "productId": 5557,
-      "brand": "Profissimo",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 221.82,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Vrečke za led, 10 kos",
-          "url": "https://www.dm.si/p/d/1029488/profissimo-vrecke-za-led",
-          "isPromo": false,
-          "observedAt": "2026-08-30T21:47:45.469Z",
-          "lastSeenAt": "2026-10-31T14:30:28.446Z",
-          "currentPriceCents": 55,
-          "currentPriceEurCents": 55,
-          "referencePriceCents": 55,
-          "referencePriceEurCents": 55
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Eiswürfelbeutel, 10 St",
-          "url": "https://www.dm.at/p/d/1029488/profissimo-eiswuerfelbeutel",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:01.644Z",
-          "lastSeenAt": "2026-10-31T14:30:39.838Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Eiswürfelbeutel, 10 St",
-          "url": "https://www.dm.de/p/d/1029488/profissimo-eiswuerfelbeutel",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:49.548Z",
-          "lastSeenAt": "2026-10-31T14:30:49.033Z",
-          "currentPriceCents": 85,
-          "currentPriceEurCents": 85,
-          "referencePriceCents": 85,
-          "referencePriceEurCents": 85
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Jégkockakészítő zacskó, 10 db",
-          "url": "https://www.dm.hu/p/d/1029488/profissimo-jegkockakeszito-zacsko",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:58.541Z",
-          "lastSeenAt": "2026-10-31T14:30:54.836Z",
-          "currentPriceCents": 65900,
-          "currentPriceEurCents": 177,
-          "referencePriceCents": 65900,
-          "referencePriceEurCents": 177
+          "referencePriceEurCents": 595
         }
       ]
     },
@@ -187,7 +122,7 @@
       "productId": 15471,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 221.33,
+      "overallPercentDiff": 224,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -242,9 +177,9 @@
           "observedAt": "2026-09-01T12:31:37.751Z",
           "lastSeenAt": "2026-10-31T14:30:56.768Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 241,
+          "currentPriceEurCents": 243,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 241
+          "referencePriceEurCents": 243
         },
         {
           "countryCode": "HR",
@@ -263,10 +198,154 @@
       ]
     },
     {
+      "productId": 5557,
+      "brand": "Profissimo",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 223.64,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Vrečke za led, 10 kos",
+          "url": "https://www.dm.si/p/d/1029488/profissimo-vrecke-za-led",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:45.469Z",
+          "lastSeenAt": "2026-10-31T14:30:28.446Z",
+          "currentPriceCents": 55,
+          "currentPriceEurCents": 55,
+          "referencePriceCents": 55,
+          "referencePriceEurCents": 55
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Eiswürfelbeutel, 10 St",
+          "url": "https://www.dm.at/p/d/1029488/profissimo-eiswuerfelbeutel",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:01.644Z",
+          "lastSeenAt": "2026-10-31T14:30:39.838Z",
+          "currentPriceCents": 125,
+          "currentPriceEurCents": 125,
+          "referencePriceCents": 125,
+          "referencePriceEurCents": 125
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Eiswürfelbeutel, 10 St",
+          "url": "https://www.dm.de/p/d/1029488/profissimo-eiswuerfelbeutel",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:49.548Z",
+          "lastSeenAt": "2026-10-31T14:30:49.033Z",
+          "currentPriceCents": 85,
+          "currentPriceEurCents": 85,
+          "referencePriceCents": 85,
+          "referencePriceEurCents": 85
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Jégkockakészítő zacskó, 10 db",
+          "url": "https://www.dm.hu/p/d/1029488/profissimo-jegkockakeszito-zacsko",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:58.541Z",
+          "lastSeenAt": "2026-10-31T14:30:54.836Z",
+          "currentPriceCents": 65900,
+          "currentPriceEurCents": 178,
+          "referencePriceCents": 65900,
+          "referencePriceEurCents": 178
+        }
+      ]
+    },
+    {
+      "productId": 7017,
+      "brand": "Balea",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 217.65,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Osvježavajući gel za pranje lica – aloe vera, 150 ml",
+          "url": "https://www.dm.hr/p/d/1610492/balea-osvjezavajuci-gel-za-pranje-lica-aloe-vera",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:40.566Z",
+          "lastSeenAt": "2026-11-23T20:09:11.287Z",
+          "currentPriceCents": 125,
+          "currentPriceEurCents": 125,
+          "referencePriceCents": 125,
+          "referencePriceEurCents": 125
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Osvežujoči gel za umivanje obraza z aloe vero, 150 ml",
+          "url": "https://www.dm.si/p/d/1610492/balea-osvezujoci-gel-za-umivanje-obraza-z-aloe-vero",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:55.159Z",
+          "lastSeenAt": "2026-11-23T20:09:03.595Z",
+          "currentPriceCents": 165,
+          "currentPriceEurCents": 165,
+          "referencePriceCents": 165,
+          "referencePriceEurCents": 165
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Waschgel Erfrischend, 150 ml",
+          "url": "https://www.dm.at/p/d/1610492/balea-waschgel-erfrischend",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:37.949Z",
+          "lastSeenAt": "2026-11-23T20:09:21.010Z",
+          "currentPriceCents": 125,
+          "currentPriceEurCents": 125,
+          "referencePriceCents": 125,
+          "referencePriceEurCents": 125
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Waschgel erfrischend, 150 ml",
+          "url": "https://www.dm.de/p/d/1610492/balea-waschgel-erfrischend",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:03.187Z",
+          "lastSeenAt": "2026-11-23T20:09:17.871Z",
+          "currentPriceCents": 85,
+          "currentPriceEurCents": 85,
+          "referencePriceCents": 85,
+          "referencePriceEurCents": 85
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Frissítő arctisztító gél normál és vegyes bőrre,..., 150 ml",
+          "url": "https://www.dm.hu/p/d/1610492/balea-frissito-arctisztito-gel-normal-es-vegyes-borre-hydro-komplexszel-es-10-aloe-veraval",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:46.773Z",
+          "lastSeenAt": "2026-11-23T20:09:23.543Z",
+          "currentPriceCents": 99900,
+          "currentPriceEurCents": 270,
+          "referencePriceCents": 99900,
+          "referencePriceEurCents": 270
+        }
+      ]
+    },
+    {
       "productId": 10916,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 215.29,
+      "overallPercentDiff": 217.65,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -335,9 +414,9 @@
           "observedAt": "2026-09-01T12:32:54.339Z",
           "lastSeenAt": "2026-11-16T18:29:00.372Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 268,
+          "currentPriceEurCents": 270,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 268
+          "referencePriceEurCents": 270
         }
       ]
     },
@@ -345,7 +424,7 @@
       "productId": 8497,
       "brand": "dmBio",
       "isCountryExtreme": true,
-      "overallPercentDiff": 208.51,
+      "overallPercentDiff": 210.64,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -386,9 +465,9 @@
           "observedAt": "2026-11-08T15:09:24.786Z",
           "lastSeenAt": "2026-11-08T15:09:24.786Z",
           "currentPriceCents": 269900,
-          "currentPriceEurCents": 725,
+          "currentPriceEurCents": 730,
           "referencePriceCents": 269900,
-          "referencePriceEurCents": 725
+          "referencePriceEurCents": 730
         }
       ]
     },
@@ -396,7 +475,7 @@
       "productId": 27011,
       "brand": "Frosch",
       "isCountryExtreme": true,
-      "overallPercentDiff": 191.19,
+      "overallPercentDiff": 193.22,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -437,60 +516,9 @@
           "observedAt": "2026-09-01T12:31:43.995Z",
           "lastSeenAt": "2026-11-04T12:04:41.720Z",
           "currentPriceCents": 319900,
-          "currentPriceEurCents": 859,
+          "currentPriceEurCents": 865,
           "referencePriceCents": 319900,
-          "referencePriceEurCents": 859
-        }
-      ]
-    },
-    {
-      "productId": 5206,
-      "brand": "Profissimo",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 189.23,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Vrećice za smeće s ručkama – 5 l, 85 kom.",
-          "url": "https://www.dm.hr/p/d/2969653/profissimo-vrecice-za-smece-s-ruckama-5-l",
-          "isPromo": false,
-          "observedAt": "2026-08-30T21:47:41.623Z",
-          "lastSeenAt": "2026-10-25T13:10:01.648Z",
-          "currentPriceCents": 95,
-          "currentPriceEurCents": 95,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Müllbeutel 5 l mit Tragegriff, 85 St",
-          "url": "https://www.dm.de/p/d/2969653/profissimo-muellbeutel-5-l-mit-tragegriff",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:35.778Z",
-          "lastSeenAt": "2026-10-25T13:10:19.911Z",
-          "currentPriceCents": 65,
-          "currentPriceEurCents": 65,
-          "referencePriceCents": 65,
-          "referencePriceEurCents": 65
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Szemeteszsák fogófüllel, 5 literes, kozmetikai..., 85 db",
-          "url": "https://www.dm.hu/p/d/2969653/profissimo-szemeteszsak-fogofullel-5-literes-kozmetikai-szemetesbe",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:29:59.422Z",
-          "lastSeenAt": "2026-10-25T13:10:24.522Z",
-          "currentPriceCents": 69900,
-          "currentPriceEurCents": 188,
-          "referencePriceCents": 69900,
-          "referencePriceEurCents": 188
+          "referencePriceEurCents": 865
         }
       ]
     },
@@ -498,7 +526,7 @@
       "productId": 5271,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 183.53,
+      "overallPercentDiff": 185.88,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -567,9 +595,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-11-10T12:35:05.271Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 241,
+          "currentPriceEurCents": 243,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 241
+          "referencePriceEurCents": 243
         }
       ]
     },
@@ -577,7 +605,7 @@
       "productId": 7733,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 183.53,
+      "overallPercentDiff": 185.88,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -646,9 +674,9 @@
           "observedAt": "2026-09-01T12:31:07.865Z",
           "lastSeenAt": "2026-10-31T14:30:54.836Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 241,
+          "currentPriceEurCents": 243,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 241
+          "referencePriceEurCents": 243
         }
       ]
     },
@@ -656,7 +684,7 @@
       "productId": 2456,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 182.11,
+      "overallPercentDiff": 184.21,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -725,9 +753,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-11-11T16:08:05.457Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 268,
+          "currentPriceEurCents": 270,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 268
+          "referencePriceEurCents": 270
         }
       ]
     },
@@ -735,7 +763,7 @@
       "productId": 11162,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 182.11,
+      "overallPercentDiff": 184.21,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -804,9 +832,9 @@
           "observedAt": "2026-11-06T12:04:37.247Z",
           "lastSeenAt": "2026-11-06T12:04:37.247Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 268,
+          "currentPriceEurCents": 270,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 268
+          "referencePriceEurCents": 270
         }
       ]
     },
@@ -814,7 +842,7 @@
       "productId": 11969,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 182.11,
+      "overallPercentDiff": 184.21,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -883,9 +911,9 @@
           "observedAt": "2026-11-10T12:35:05.271Z",
           "lastSeenAt": "2026-11-10T12:35:05.271Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 268,
+          "currentPriceEurCents": 270,
           "referencePriceCents": 99900,
-          "referencePriceEurCents": 268
+          "referencePriceEurCents": 270
         }
       ]
     },
@@ -893,7 +921,7 @@
       "productId": 837,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 179.2,
+      "overallPercentDiff": 180.8,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -948,60 +976,9 @@
           "observedAt": "2026-09-01T12:29:59.422Z",
           "lastSeenAt": "2026-11-07T14:53:41.614Z",
           "currentPriceCents": 129900,
-          "currentPriceEurCents": 349,
+          "currentPriceEurCents": 351,
           "referencePriceCents": 129900,
-          "referencePriceEurCents": 349
-        }
-      ]
-    },
-    {
-      "productId": 6257,
-      "brand": "Paradies",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 179.2,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Power Alkaline Mignon AA baterije, 8 kom.",
-          "url": "https://www.dm.hr/p/d/3059760/paradies-power-alkaline-mignon-aa-baterije",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:35.997Z",
-          "lastSeenAt": "2026-10-25T13:09:58.111Z",
-          "currentPriceCents": 160,
-          "currentPriceEurCents": 160,
-          "referencePriceCents": 160,
-          "referencePriceEurCents": 160
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Batterien Power Mignon AA, 8 St",
-          "url": "https://www.dm.de/p/d/3059760/paradies-batterien-power-mignon-aa",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:36.189Z",
-          "lastSeenAt": "2026-10-25T13:10:17.664Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Alkáli ceruzaelem AA, LR6 Mignon, 1,5 V XL, 8 db",
-          "url": "https://www.dm.hu/p/d/3059760/paradies-alkali-ceruzaelem-aa-lr6-mignon-1-5-v-xl",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:59.257Z",
-          "lastSeenAt": "2026-10-25T13:10:26.624Z",
-          "currentPriceCents": 129900,
-          "currentPriceEurCents": 349,
-          "referencePriceCents": 129900,
-          "referencePriceEurCents": 349
+          "referencePriceEurCents": 351
         }
       ]
     },
@@ -1009,7 +986,7 @@
       "productId": 9912,
       "brand": "L'ORÉAL PARiS",
       "isCountryExtreme": true,
-      "overallPercentDiff": 171.9,
+      "overallPercentDiff": 173.92,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1078,9 +1055,9 @@
           "observedAt": "2026-09-01T12:31:30.809Z",
           "lastSeenAt": "2026-11-12T16:47:03.782Z",
           "currentPriceCents": 399900,
-          "currentPriceEurCents": 1074,
+          "currentPriceEurCents": 1082,
           "referencePriceCents": 399900,
-          "referencePriceEurCents": 1074
+          "referencePriceEurCents": 1082
         }
       ]
     },
@@ -1088,7 +1065,7 @@
       "productId": 1798,
       "brand": "Dr.Beckmann",
       "isCountryExtreme": true,
-      "overallPercentDiff": 164.07,
+      "overallPercentDiff": 165.76,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1129,9 +1106,9 @@
           "observedAt": "2026-09-01T12:32:54.339Z",
           "lastSeenAt": "2026-11-14T11:25:59.531Z",
           "currentPriceCents": 289900,
-          "currentPriceEurCents": 779,
+          "currentPriceEurCents": 784,
           "referencePriceCents": 289900,
-          "referencePriceEurCents": 779
+          "referencePriceEurCents": 784
         },
         {
           "countryCode": "DE",
@@ -1153,7 +1130,7 @@
       "productId": 6941,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 158.18,
+      "overallPercentDiff": 160,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1222,9 +1199,9 @@
           "observedAt": "2026-09-01T12:30:55.609Z",
           "lastSeenAt": "2026-11-14T11:26:01.094Z",
           "currentPriceCents": 52900,
-          "currentPriceEurCents": 142,
+          "currentPriceEurCents": 143,
           "referencePriceCents": 52900,
-          "referencePriceEurCents": 142
+          "referencePriceEurCents": 143
         }
       ]
     },
@@ -1232,7 +1209,7 @@
       "productId": 130,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 155.87,
+      "overallPercentDiff": 157.46,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1301,9 +1278,9 @@
           "observedAt": "2026-09-01T12:32:51.781Z",
           "lastSeenAt": "2026-11-11T16:08:03.442Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 806,
+          "currentPriceEurCents": 811,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 806
+          "referencePriceEurCents": 811
         }
       ]
     },
@@ -1311,7 +1288,7 @@
       "productId": 9553,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 155.87,
+      "overallPercentDiff": 157.46,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1380,74 +1357,9 @@
           "observedAt": "2026-09-01T12:31:17.754Z",
           "lastSeenAt": "2026-11-22T16:14:10.528Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 806,
+          "currentPriceEurCents": 811,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 806
-        }
-      ]
-    },
-    {
-      "productId": 4742,
-      "brand": "Dr. Beckmann",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 153.82,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Geruchs-Entferner, 500 ml",
-          "url": "https://www.dm.at/p/d/1711396/dr-beckmann-geruchs-entferner",
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:48:26.874Z",
-          "lastSeenAt": "2026-11-06T12:04:17.965Z",
-          "currentPriceCents": 455,
-          "currentPriceEurCents": 455,
-          "referencePriceCents": 455,
-          "referencePriceEurCents": 455
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Sredstvo za odstranjevanje neprijetnih vonjav, 500 ml",
-          "url": "https://www.dm.si/p/d/1711396/dr-beckmann-sredstvo-za-odstranjevanje-neprijetnih-vonjav",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:11.027Z",
-          "lastSeenAt": "2026-11-06T12:04:05.052Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Geruchsentferner, 500 ml",
-          "url": "https://www.dm.de/p/d/1711396/dr-beckmann-geruchsentferner",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:56.477Z",
-          "lastSeenAt": "2026-11-06T12:04:31.813Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Szageltávolító folyadék ruhákhoz, 0,5 l",
-          "url": "https://www.dm.hu/p/d/1711396/dr-beckmann-szageltavolito-folyadek-ruhakhoz",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:10.517Z",
-          "lastSeenAt": "2026-11-06T12:04:35.434Z",
-          "currentPriceCents": 259900,
-          "currentPriceEurCents": 698,
-          "referencePriceCents": 259900,
-          "referencePriceEurCents": 698
+          "referencePriceEurCents": 811
         }
       ]
     },
@@ -1455,7 +1367,7 @@
       "productId": 177,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 153.68,
+      "overallPercentDiff": 155.79,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1524,88 +1436,9 @@
           "observedAt": "2026-11-20T16:56:12.746Z",
           "lastSeenAt": "2026-11-20T16:56:35.048Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 241,
+          "currentPriceEurCents": 243,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 241
-        }
-      ]
-    },
-    {
-      "productId": 1013,
-      "brand": "Profissimo",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 153.68,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Filter za kavo, velikost 4, 120 kos",
-          "url": "https://www.dm.si/p/d/1199165/profissimo-filter-za-kavo-velikost-4",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:49:14.641Z",
-          "lastSeenAt": "2026-10-25T13:10:04.750Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Kaffeefilter Größe 4, 120 St",
-          "url": "https://www.dm.at/p/d/1199165/profissimo-kaffeefilter-groesse-4",
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:40:44.075Z",
-          "lastSeenAt": "2026-10-25T13:10:09.461Z",
-          "currentPriceCents": 115,
-          "currentPriceEurCents": 115,
-          "referencePriceCents": 115,
-          "referencePriceEurCents": 115
-        },
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Filtar za kavu – veličina 4, 120 kom.",
-          "url": "https://www.dm.hr/p/d/1199165/profissimo-filtar-za-kavu-velicina-4",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:17.918Z",
-          "lastSeenAt": "2026-10-25T13:09:58.111Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Kaffeefilter Größe 4, 120 St",
-          "url": "https://www.dm.de/p/d/1199165/profissimo-kaffeefilter-groesse-4",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:44.209Z",
-          "lastSeenAt": "2026-10-25T13:10:15.467Z",
-          "currentPriceCents": 95,
-          "currentPriceEurCents": 95,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Kávéfilter 4-es méret, 120 db",
-          "url": "https://www.dm.hu/p/d/1199165/profissimo-kavefilter-4-es-meret",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:19.940Z",
-          "lastSeenAt": "2026-10-25T13:10:24.522Z",
-          "currentPriceCents": 89900,
-          "currentPriceEurCents": 241,
-          "referencePriceCents": 89900,
-          "referencePriceEurCents": 241
+          "referencePriceEurCents": 243
         }
       ]
     },
@@ -1613,7 +1446,7 @@
       "productId": 1880,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 153.68,
+      "overallPercentDiff": 155.79,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1682,9 +1515,74 @@
           "observedAt": "2026-09-01T12:32:25.549Z",
           "lastSeenAt": "2026-10-30T15:01:51.674Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 241,
+          "currentPriceEurCents": 243,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 241
+          "referencePriceEurCents": 243
+        }
+      ]
+    },
+    {
+      "productId": 4742,
+      "brand": "Dr. Beckmann",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 155.64,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Geruchs-Entferner, 500 ml",
+          "url": "https://www.dm.at/p/d/1711396/dr-beckmann-geruchs-entferner",
+          "isPromo": false,
+          "observedAt": "2026-08-28T16:48:26.874Z",
+          "lastSeenAt": "2026-11-06T12:04:17.965Z",
+          "currentPriceCents": 455,
+          "currentPriceEurCents": 455,
+          "referencePriceCents": 455,
+          "referencePriceEurCents": 455
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Sredstvo za odstranjevanje neprijetnih vonjav, 500 ml",
+          "url": "https://www.dm.si/p/d/1711396/dr-beckmann-sredstvo-za-odstranjevanje-neprijetnih-vonjav",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:11.027Z",
+          "lastSeenAt": "2026-11-06T12:04:05.052Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Geruchsentferner, 500 ml",
+          "url": "https://www.dm.de/p/d/1711396/dr-beckmann-geruchsentferner",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:56.477Z",
+          "lastSeenAt": "2026-11-06T12:04:31.813Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Szageltávolító folyadék ruhákhoz, 0,5 l",
+          "url": "https://www.dm.hu/p/d/1711396/dr-beckmann-szageltavolito-folyadek-ruhakhoz",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:10.517Z",
+          "lastSeenAt": "2026-11-06T12:04:35.434Z",
+          "currentPriceCents": 259900,
+          "currentPriceEurCents": 703,
+          "referencePriceCents": 259900,
+          "referencePriceEurCents": 703
         }
       ]
     },
@@ -1692,7 +1590,7 @@
       "productId": 119,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 152.94,
+      "overallPercentDiff": 154.12,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1761,9 +1659,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-11-10T12:35:08.233Z",
           "currentPriceCents": 79900,
-          "currentPriceEurCents": 215,
+          "currentPriceEurCents": 216,
           "referencePriceCents": 79900,
-          "referencePriceEurCents": 215
+          "referencePriceEurCents": 216
         }
       ]
     },
@@ -1771,7 +1669,7 @@
       "productId": 349,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 150.67,
+      "overallPercentDiff": 152,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1840,9 +1738,9 @@
           "observedAt": "2026-09-01T12:29:57.331Z",
           "lastSeenAt": "2026-11-08T15:09:24.786Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 188,
+          "currentPriceEurCents": 189,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 188
+          "referencePriceEurCents": 189
         }
       ]
     },
@@ -1850,7 +1748,7 @@
       "productId": 9523,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 150.67,
+      "overallPercentDiff": 152,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1905,9 +1803,9 @@
           "observedAt": "2026-09-01T12:32:22.557Z",
           "lastSeenAt": "2026-10-30T15:01:53.484Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 188,
+          "currentPriceEurCents": 189,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 188
+          "referencePriceEurCents": 189
         }
       ]
     },
@@ -1915,7 +1813,7 @@
       "productId": 5519,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 147.69,
+      "overallPercentDiff": 149.74,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1956,9 +1854,9 @@
           "observedAt": "2026-09-01T12:30:01.877Z",
           "lastSeenAt": "2026-11-02T18:17:25.790Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 483,
+          "currentPriceEurCents": 487,
           "referencePriceCents": 179900,
-          "referencePriceEurCents": 483
+          "referencePriceEurCents": 487
         }
       ]
     },
@@ -1966,7 +1864,7 @@
       "productId": 17719,
       "brand": "Dr.Beckmann",
       "isCountryExtreme": true,
-      "overallPercentDiff": 147.69,
+      "overallPercentDiff": 149.74,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -2021,9 +1919,9 @@
           "observedAt": "2026-09-01T12:29:46.464Z",
           "lastSeenAt": "2026-11-12T16:47:03.782Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 483,
+          "currentPriceEurCents": 487,
           "referencePriceCents": 179900,
-          "referencePriceEurCents": 483
+          "referencePriceEurCents": 487
         }
       ]
     },
@@ -2031,7 +1929,7 @@
       "productId": 3432,
       "brand": "NIVEA",
       "isCountryExtreme": true,
-      "overallPercentDiff": 145.71,
+      "overallPercentDiff": 147.43,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -2086,88 +1984,232 @@
           "observedAt": "2026-09-01T12:32:49.604Z",
           "lastSeenAt": "2026-11-13T12:09:07.830Z",
           "currentPriceCents": 159900,
-          "currentPriceEurCents": 430,
+          "currentPriceEurCents": 433,
           "referencePriceCents": 159900,
-          "referencePriceEurCents": 430
+          "referencePriceEurCents": 433
         }
       ]
     },
     {
-      "productId": 1196,
-      "brand": "babylove",
+      "productId": 2502,
+      "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 144.24,
+      "overallPercentDiff": 145.45,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Vreće za smeće s ručkama – 50 l, 20 kom.",
+          "url": "https://www.dm.hr/p/d/2969725/profissimo-vrece-za-smece-s-ruckama-50-l",
+          "isPromo": false,
+          "observedAt": "2026-11-18T17:13:10.027Z",
+          "lastSeenAt": "2026-11-18T17:13:10.027Z",
+          "currentPriceCents": 70,
+          "currentPriceEurCents": 70,
+          "referencePriceCents": 70,
+          "referencePriceEurCents": 70
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Müllbeutel 50 l mit Tragegriff, 50 l",
+          "url": "https://www.dm.at/p/d/2969725/profissimo-muellbeutel-50-l-mit-tragegriff",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:37:59.041Z",
+          "lastSeenAt": "2026-11-18T17:13:15.738Z",
+          "currentPriceCents": 85,
+          "currentPriceEurCents": 85,
+          "referencePriceCents": 85,
+          "referencePriceEurCents": 85
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Müllbeutel 50l mit Tragegriff, 20 St",
+          "url": "https://www.dm.de/p/d/2969725/profissimo-muellbeutel-50l-mit-tragegriff",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:29.960Z",
+          "lastSeenAt": "2026-11-18T17:13:20.024Z",
+          "currentPriceCents": 55,
+          "currentPriceEurCents": 55,
+          "referencePriceCents": 55,
+          "referencePriceEurCents": 55
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Szemeteszsák fogófüllel, 50 literes, 20 db",
+          "url": "https://www.dm.hu/p/d/2969725/profissimo-szemeteszsak-fogofullel-50-literes",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:30.838Z",
+          "lastSeenAt": "2026-11-18T17:13:25.550Z",
+          "currentPriceCents": 49900,
+          "currentPriceEurCents": 135,
+          "referencePriceCents": 49900,
+          "referencePriceEurCents": 135
+        }
+      ]
+    },
+    {
+      "productId": 3659,
+      "brand": "DEIN BESTES",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 145.45,
       "gapToExtremePercent": 0,
       "countries": [
         {
           "countryCode": "SI",
           "shopId": "dm-si",
           "currency": "EUR",
-          "name": "Previjalna podloga, 60 x 60 cm, 10 kos",
-          "url": "https://www.dm.si/p/d/1575910/babylove-previjalna-podloga-60-x-60-cm",
+          "name": "Dopolnilna hrana za odrasle pse - palčke za..., 200 g",
+          "url": "https://www.dm.si/p/d/1657327/dein-bestes-dopolnilna-hrana-za-odrasle-pse-palcke-za-grizljanje-s-perutnino-in-govedino",
           "isPromo": false,
-          "observedAt": "2026-08-28T15:50:33.539Z",
-          "lastSeenAt": "2026-10-25T13:10:07.531Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
+          "observedAt": "2026-08-28T16:07:28.267Z",
+          "lastSeenAt": "2026-11-17T13:17:50.818Z",
+          "currentPriceCents": 75,
+          "currentPriceEurCents": 75,
+          "referencePriceCents": 75,
+          "referencePriceEurCents": 75
         },
         {
           "countryCode": "HR",
           "shopId": "dm-hr",
           "currency": "EUR",
-          "name": "Podloga za previjanje, 10 kom.",
-          "url": "https://www.dm.hr/p/d/1575910/babylove-podloga-za-previjanje",
+          "name": "Dopunska hrana za pse – trakice s govedinom i..., 20 kom.",
+          "url": "https://www.dm.hr/p/d/1657327/dein-bestes-dopunska-hrana-za-pse-trakice-s-govedinom-i-peradi",
           "isPromo": false,
-          "observedAt": "2026-08-30T22:33:03.491Z",
-          "lastSeenAt": "2026-10-25T13:10:03.463Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
+          "observedAt": "2026-08-30T22:33:15.395Z",
+          "lastSeenAt": "2026-11-17T13:17:54.813Z",
+          "currentPriceCents": 95,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
         },
         {
           "countryCode": "AT",
           "shopId": "dm-at",
           "currency": "EUR",
-          "name": "Wickelunterlagen, 10 St",
-          "url": "https://www.dm.at/p/d/1575910/babylove-wickelunterlagen",
+          "name": "Hundeleckerli Knabberstreifen Rind & Geflügel, 0,2 kg",
+          "url": "https://www.dm.at/p/d/1657327/dein-bestes-hundeleckerli-knabberstreifen-rind-und-gefluegel",
           "isPromo": false,
-          "observedAt": "2026-08-30T22:36:16.249Z",
-          "lastSeenAt": "2026-10-25T13:10:09.461Z",
-          "currentPriceCents": 315,
-          "currentPriceEurCents": 315,
-          "referencePriceCents": 315,
-          "referencePriceEurCents": 315
+          "observedAt": "2026-08-30T22:36:31.747Z",
+          "lastSeenAt": "2026-11-17T13:17:57.846Z",
+          "currentPriceCents": 120,
+          "currentPriceEurCents": 120,
+          "referencePriceCents": 120,
+          "referencePriceEurCents": 120
         },
         {
           "countryCode": "DE",
           "shopId": "dm-de",
           "currency": "EUR",
-          "name": "Wickelunterlagen, 10 St",
-          "url": "https://www.dm.de/p/d/1575910/babylove-wickelunterlagen",
+          "name": "Snack für Hunde, Knabberstreifen, 200 g",
+          "url": "https://www.dm.de/p/d/1657327/dein-bestes-snack-fuer-hunde-knabberstreifen",
           "isPromo": false,
-          "observedAt": "2026-08-31T20:41:11.577Z",
-          "lastSeenAt": "2026-10-25T13:10:15.467Z",
-          "currentPriceCents": 165,
-          "currentPriceEurCents": 165,
-          "referencePriceCents": 165,
-          "referencePriceEurCents": 165
+          "observedAt": "2026-08-31T20:43:48.726Z",
+          "lastSeenAt": "2026-11-17T13:18:06.311Z",
+          "currentPriceCents": 55,
+          "currentPriceEurCents": 55,
+          "referencePriceCents": 55,
+          "referencePriceEurCents": 55
         },
         {
           "countryCode": "HU",
           "shopId": "dm-hu",
           "currency": "HUF",
-          "name": "Pelenkázó alátét, 10 db",
-          "url": "https://www.dm.hu/p/d/1575910/babylove-pelenkazo-alatet",
+          "name": "Jutalomszeletek felnőtt kutyáknak, szárnyasban és..., 0,2 kg",
+          "url": "https://www.dm.hu/p/d/1657327/dein-bestes-jutalomszeletek-felnott-kutyaknak-szarnyasban-es-marhaban-gazdag",
           "isPromo": false,
-          "observedAt": "2026-09-01T12:31:30.809Z",
-          "lastSeenAt": "2026-10-25T13:10:24.522Z",
-          "currentPriceCents": 149900,
-          "currentPriceEurCents": 403,
-          "referencePriceCents": 149900,
-          "referencePriceEurCents": 403
+          "observedAt": "2026-09-01T12:31:28.672Z",
+          "lastSeenAt": "2026-11-17T13:18:13.918Z",
+          "currentPriceCents": 49900,
+          "currentPriceEurCents": 135,
+          "referencePriceCents": 49900,
+          "referencePriceEurCents": 135
+        }
+      ]
+    },
+    {
+      "productId": 2150,
+      "brand": "Dontodent",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 145.33,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Antibakterijski konac za zube – menta, 100 m",
+          "url": "https://www.dm.hr/p/d/1270902/dontodent-antibakterijski-konac-za-zube-menta",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:57:00.356Z",
+          "lastSeenAt": "2026-11-23T20:09:09.839Z",
+          "currentPriceCents": 110,
+          "currentPriceEurCents": 110,
+          "referencePriceCents": 110,
+          "referencePriceEurCents": 110
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Antibakterijska zobna nitka z meto, 1 kos",
+          "url": "https://www.dm.si/p/d/1270902/dontodent-antibakterijska-zobna-nitka-z-meto",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:15.799Z",
+          "lastSeenAt": "2026-11-23T20:09:03.595Z",
+          "currentPriceCents": 115,
+          "currentPriceEurCents": 115,
+          "referencePriceCents": 115,
+          "referencePriceEurCents": 115
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Zahnseide Antibakteriell Minze, 100 m",
+          "url": "https://www.dm.at/p/d/1270902/dontodent-zahnseide-antibakteriell-minze",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:50.459Z",
+          "lastSeenAt": "2026-11-23T20:09:19.025Z",
+          "currentPriceCents": 115,
+          "currentPriceEurCents": 115,
+          "referencePriceCents": 115,
+          "referencePriceEurCents": 115
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Zahnseide antibakteriell, 1 St",
+          "url": "https://www.dm.de/p/d/1270902/dontodent-zahnseide-antibakteriell",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:26.163Z",
+          "lastSeenAt": "2026-11-23T20:09:12.367Z",
+          "currentPriceCents": 75,
+          "currentPriceEurCents": 75,
+          "referencePriceCents": 75,
+          "referencePriceEurCents": 75
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogselyem, antibakteriális, 1 db",
+          "url": "https://www.dm.hu/p/d/1270902/dontodent-fogselyem-antibakterialis",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:42.830Z",
+          "lastSeenAt": "2026-11-23T20:09:23.543Z",
+          "currentPriceCents": 67900,
+          "currentPriceEurCents": 184,
+          "referencePriceCents": 67900,
+          "referencePriceEurCents": 184
         }
       ]
     }

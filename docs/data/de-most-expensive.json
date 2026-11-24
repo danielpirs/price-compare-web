@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-23T15:46:08.936Z",
+  "generatedAt": "2026-11-24T15:38:04.986Z",
   "fx": {
-    "asOf": "2026-11-23",
+    "asOf": "2026-11-24",
     "rates": {
-      "USD": 1.0939,
-      "JPY": 174.01,
-      "CZK": 24.455,
-      "DKK": 7.4746,
-      "GBP": 0.83673,
-      "HUF": 372.28,
-      "PLN": 4.4588,
-      "RON": 5.3483,
-      "SEK": 11.2375,
-      "CHF": 0.9186,
+      "USD": 1.0963,
+      "JPY": 174.39,
+      "CZK": 24.428,
+      "DKK": 7.4744,
+      "GBP": 0.837,
+      "HUF": 369.7,
+      "PLN": 4.4599,
+      "RON": 5.3442,
+      "SEK": 11.221,
+      "CHF": 0.9183,
       "ISK": 137.2,
-      "NOK": 10.7285,
-      "TRY": 55.3405,
-      "AUD": 1.6532,
-      "BRL": 6.5611,
-      "CAD": 1.5711,
-      "CNY": 7.2905,
-      "HKD": 8.5772,
-      "IDR": 19932.94,
-      "ILS": 3.6643,
-      "INR": 101.6395,
-      "KRW": 1475.51,
-      "MXN": 21.0528,
-      "MYR": 4.5101,
-      "NZD": 2.0079,
-      "PHP": 69.851,
-      "SGD": 1.4124,
-      "THB": 37.242,
-      "ZAR": 19.1513
+      "NOK": 10.735,
+      "TRY": 55.5029,
+      "AUD": 1.6507,
+      "BRL": 6.4349,
+      "CAD": 1.5707,
+      "CNY": 7.3063,
+      "HKD": 8.597,
+      "IDR": 19983.58,
+      "ILS": 3.6618,
+      "INR": 101.867,
+      "KRW": 1473.99,
+      "MXN": 21.1238,
+      "MYR": 4.5118,
+      "NZD": 2.0038,
+      "PHP": 69.929,
+      "SGD": 1.4141,
+      "THB": 37.197,
+      "ZAR": 19.2333
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -39,57 +39,6 @@
   "countryCode": "DE",
   "kind": "most-expensive",
   "items": [
-    {
-      "productId": 2079,
-      "brand": "Profissimo",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 187.5,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Lopar za muhe, več različic, 1 kos",
-          "url": "https://www.dm.si/p/d/1339880/profissimo-lopar-za-muhe-vec-razlicic",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:56:31.202Z",
-          "lastSeenAt": "2026-10-25T13:10:04.750Z",
-          "currentPriceCents": 40,
-          "currentPriceEurCents": 40,
-          "referencePriceCents": 40,
-          "referencePriceEurCents": 40
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Fliegenklatsche, 1 St",
-          "url": "https://www.dm.at/p/d/1339880/profissimo-fliegenklatsche",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:06.799Z",
-          "lastSeenAt": "2026-10-25T13:10:12.210Z",
-          "currentPriceCents": 85,
-          "currentPriceEurCents": 85,
-          "referencePriceCents": 85,
-          "referencePriceEurCents": 85
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Fliegenklatsche, 1 St",
-          "url": "https://www.dm.de/p/d/1339880/profissimo-fliegenklatsche",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:04.229Z",
-          "lastSeenAt": "2026-10-25T13:10:19.911Z",
-          "currentPriceCents": 115,
-          "currentPriceEurCents": 115,
-          "referencePriceCents": 115,
-          "referencePriceEurCents": 115
-        }
-      ]
-    },
     {
       "productId": 26903,
       "brand": "Swirl",
@@ -131,7 +80,7 @@
       "productId": 3575,
       "brand": "Visiomax",
       "isCountryExtreme": true,
-      "overallPercentDiff": 128.72,
+      "overallPercentDiff": 127.11,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -186,9 +135,9 @@
           "observedAt": "2026-09-01T12:30:07.326Z",
           "lastSeenAt": "2026-11-18T17:13:25.550Z",
           "currentPriceCents": 104900,
-          "currentPriceEurCents": 282,
+          "currentPriceEurCents": 284,
           "referencePriceCents": 104900,
-          "referencePriceEurCents": 282
+          "referencePriceEurCents": 284
         }
       ]
     },
@@ -390,9 +339,9 @@
           "observedAt": "2026-09-01T12:31:32.921Z",
           "lastSeenAt": "2026-11-05T12:16:05.537Z",
           "currentPriceCents": 109900,
-          "currentPriceEurCents": 295,
+          "currentPriceEurCents": 297,
           "referencePriceCents": 109900,
-          "referencePriceEurCents": 295
+          "referencePriceEurCents": 297
         }
       ]
     },
@@ -400,7 +349,7 @@
       "productId": 7641,
       "brand": "alverde NATURKOSMETIK MEN",
       "isCountryExtreme": true,
-      "overallPercentDiff": 94.66,
+      "overallPercentDiff": 93.18,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -441,9 +390,9 @@
           "observedAt": "2026-09-01T12:31:17.754Z",
           "lastSeenAt": "2026-10-28T15:05:18.088Z",
           "currentPriceCents": 48900,
-          "currentPriceEurCents": 131,
+          "currentPriceEurCents": 132,
           "referencePriceCents": 48900,
-          "referencePriceEurCents": 131
+          "referencePriceEurCents": 132
         }
       ]
     },
@@ -608,9 +557,9 @@
           "observedAt": "2026-09-01T12:31:46.773Z",
           "lastSeenAt": "2026-10-27T14:27:30.381Z",
           "currentPriceCents": 49900,
-          "currentPriceEurCents": 134,
+          "currentPriceEurCents": 135,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 134
+          "referencePriceEurCents": 135
         }
       ]
     },
@@ -618,7 +567,7 @@
       "productId": 41878,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 83.72,
+      "overallPercentDiff": 82.87,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -673,9 +622,9 @@
           "observedAt": "2026-10-07T15:32:33.137Z",
           "lastSeenAt": "2026-11-06T12:04:33.350Z",
           "currentPriceCents": 79900,
-          "currentPriceEurCents": 215,
+          "currentPriceEurCents": 216,
           "referencePriceCents": 79900,
-          "referencePriceEurCents": 215
+          "referencePriceEurCents": 216
         }
       ]
     },
@@ -683,7 +632,7 @@
       "productId": 44030,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 82.84,
+      "overallPercentDiff": 81.48,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -710,9 +659,9 @@
           "observedAt": "2026-09-01T12:30:45.278Z",
           "lastSeenAt": "2026-11-11T16:08:05.457Z",
           "currentPriceCents": 49900,
-          "currentPriceEurCents": 134,
+          "currentPriceEurCents": 135,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 134
+          "referencePriceEurCents": 135
         }
       ]
     },
@@ -720,7 +669,7 @@
       "productId": 43430,
       "brand": "SEINZ.",
       "isCountryExtreme": true,
-      "overallPercentDiff": 82.24,
+      "overallPercentDiff": 80.56,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -747,9 +696,9 @@
           "observedAt": "2026-09-01T12:30:01.877Z",
           "lastSeenAt": "2026-10-29T15:12:42.006Z",
           "currentPriceCents": 39900,
-          "currentPriceEurCents": 107,
+          "currentPriceEurCents": 108,
           "referencePriceCents": 39900,
-          "referencePriceEurCents": 107
+          "referencePriceEurCents": 108
         },
         {
           "countryCode": "AT",
@@ -852,6 +801,43 @@
           "currentPriceEurCents": 1995,
           "referencePriceCents": 1995,
           "referencePriceEurCents": 1995
+        }
+      ]
+    },
+    {
+      "productId": 1975,
+      "brand": "Visiomax",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 67.8,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Mesečna kontaktna leča, dioptrija -0,75, 1 kos",
+          "url": "https://www.dm.si/p/d/3080073/visiomax-mesecna-kontaktna-leca-dioptrija-0-75",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:55:43.742Z",
+          "lastSeenAt": "2026-11-23T20:09:03.595Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Monatslinse Dioptrie -0,75, 1 St",
+          "url": "https://www.dm.de/p/d/3080073/visiomax-monatslinse-dioptrie-0-75",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:03.605Z",
+          "lastSeenAt": "2026-11-23T20:09:14.475Z",
+          "currentPriceCents": 495,
+          "currentPriceEurCents": 495,
+          "referencePriceCents": 495,
+          "referencePriceEurCents": 495
         }
       ]
     },
@@ -1106,43 +1092,6 @@
       ]
     },
     {
-      "productId": 9525,
-      "brand": "Balea MEN",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 60.61,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Četkica za brijanje Professional, 1 kom.",
-          "url": "https://www.dm.hr/p/d/1426289/balea-men-cetkica-za-brijanje-professional",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:56.123Z",
-          "lastSeenAt": "2026-10-25T13:09:58.111Z",
-          "currentPriceCents": 495,
-          "currentPriceEurCents": 495,
-          "referencePriceCents": 495,
-          "referencePriceEurCents": 495
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Rasierpinsel Professional, 1 St",
-          "url": "https://www.dm.de/p/d/1426289/balea-men-rasierpinsel-professional",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:19.091Z",
-          "lastSeenAt": "2026-10-25T13:10:19.911Z",
-          "currentPriceCents": 795,
-          "currentPriceEurCents": 795,
-          "referencePriceCents": 795,
-          "referencePriceEurCents": 795
-        }
-      ]
-    },
-    {
       "productId": 16392,
       "brand": "Visiomax",
       "isCountryExtreme": true,
@@ -1183,7 +1132,7 @@
       "productId": 57534,
       "brand": "WILKINSON SWORD",
       "isCountryExtreme": true,
-      "overallPercentDiff": 59.76,
+      "overallPercentDiff": 58.7,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1196,9 +1145,9 @@
           "observedAt": "2026-09-01T12:31:07.865Z",
           "lastSeenAt": "2026-11-20T16:56:35.048Z",
           "currentPriceCents": 278500,
-          "currentPriceEurCents": 748,
+          "currentPriceEurCents": 753,
           "referencePriceCents": 278500,
-          "referencePriceEurCents": 748
+          "referencePriceEurCents": 753
         },
         {
           "countryCode": "DE",
@@ -1254,10 +1203,47 @@
       ]
     },
     {
+      "productId": 17954,
+      "brand": "Ritex",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 56.18,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "BIO lubrikant, 50 ml",
+          "url": "https://www.dm.si/p/d/1426264/ritex-bio-lubrikant",
+          "isPromo": false,
+          "observedAt": "2026-09-28T16:44:03.713Z",
+          "lastSeenAt": "2026-10-28T15:04:59.594Z",
+          "currentPriceCents": 445,
+          "currentPriceEurCents": 445,
+          "referencePriceCents": 445,
+          "referencePriceEurCents": 445
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "BIO Gleitgel, 50 ml",
+          "url": "https://www.dm.de/p/d/1426264/ritex-bio-gleitgel",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:25.833Z",
+          "lastSeenAt": "2026-10-28T15:05:11.213Z",
+          "currentPriceCents": 695,
+          "currentPriceEurCents": 695,
+          "referencePriceCents": 695,
+          "referencePriceEurCents": 695
+        }
+      ]
+    },
+    {
       "productId": 10637,
       "brand": "alverde BABY",
       "isCountryExtreme": true,
-      "overallPercentDiff": 56.91,
+      "overallPercentDiff": 56.08,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1326,9 +1312,9 @@
           "observedAt": "2026-09-01T12:32:42.830Z",
           "lastSeenAt": "2026-10-31T14:30:54.836Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 188,
+          "currentPriceEurCents": 189,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 188
+          "referencePriceEurCents": 189
         }
       ]
     },
@@ -1336,7 +1322,7 @@
       "productId": 9581,
       "brand": "Balea MEN",
       "isCountryExtreme": true,
-      "overallPercentDiff": 56.91,
+      "overallPercentDiff": 56.08,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1391,9 +1377,74 @@
           "observedAt": "2026-09-01T12:31:05.211Z",
           "lastSeenAt": "2026-11-03T11:54:12.279Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 188,
+          "currentPriceEurCents": 189,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 188
+          "referencePriceEurCents": 189
+        }
+      ]
+    },
+    {
+      "productId": 849,
+      "brand": "Mivolis",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 56,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Elastični obliži v traku z motivom rož, 20 kos",
+          "url": "https://www.dm.si/p/d/3134290/mivolis-elasticni-oblizi-v-traku-z-motivom-roz",
+          "isPromo": false,
+          "observedAt": "2026-10-01T15:25:49.466Z",
+          "lastSeenAt": "2026-10-31T14:30:32.565Z",
+          "currentPriceCents": 125,
+          "currentPriceEurCents": 125,
+          "referencePriceCents": 125,
+          "referencePriceEurCents": 125
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Pflasterstrips Elastisch Blume, 20 St",
+          "url": "https://www.dm.de/p/d/3134290/mivolis-pflasterstrips-elastisch-blume",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:48.279Z",
+          "lastSeenAt": "2026-10-31T14:30:51.410Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 195,
+          "referencePriceEurCents": 195
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Pflasterstrips Elastisch Blume, 20 St",
+          "url": "https://www.dm.at/p/d/3134290/mivolis-pflasterstrips-elastisch-blume",
+          "isPromo": false,
+          "observedAt": "2026-09-01T13:29:11.619Z",
+          "lastSeenAt": "2026-10-31T14:30:39.838Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 195,
+          "referencePriceEurCents": 195
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Rugalmas sebtapaszcsíkok, 20 db",
+          "url": "https://www.dm.hu/p/d/3134290/mivolis-rugalmas-sebtapaszcsikok",
+          "isPromo": false,
+          "observedAt": "2026-10-01T15:26:09.549Z",
+          "lastSeenAt": "2026-10-31T14:30:54.836Z",
+          "currentPriceCents": 49900,
+          "currentPriceEurCents": 135,
+          "referencePriceCents": 49900,
+          "referencePriceEurCents": 135
         }
       ]
     },
@@ -1401,7 +1452,7 @@
       "productId": 44031,
       "brand": "LANGHAARMÄDCHEN",
       "isCountryExtreme": true,
-      "overallPercentDiff": 56.65,
+      "overallPercentDiff": 55.66,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1428,46 +1479,9 @@
           "observedAt": "2026-11-13T12:09:04.712Z",
           "lastSeenAt": "2026-11-13T12:09:04.712Z",
           "currentPriceCents": 99900,
-          "currentPriceEurCents": 268,
+          "currentPriceEurCents": 270,
           "referencePriceCents": 117500,
-          "referencePriceEurCents": 316
-        }
-      ]
-    },
-    {
-      "productId": 17954,
-      "brand": "Ritex",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 56.18,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "BIO lubrikant, 50 ml",
-          "url": "https://www.dm.si/p/d/1426264/ritex-bio-lubrikant",
-          "isPromo": false,
-          "observedAt": "2026-09-28T16:44:03.713Z",
-          "lastSeenAt": "2026-10-28T15:04:59.594Z",
-          "currentPriceCents": 445,
-          "currentPriceEurCents": 445,
-          "referencePriceCents": 445,
-          "referencePriceEurCents": 445
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "BIO Gleitgel, 50 ml",
-          "url": "https://www.dm.de/p/d/1426264/ritex-bio-gleitgel",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:25.833Z",
-          "lastSeenAt": "2026-10-28T15:05:11.213Z",
-          "currentPriceCents": 695,
-          "currentPriceEurCents": 695,
-          "referencePriceCents": 695,
-          "referencePriceEurCents": 695
+          "referencePriceEurCents": 318
         }
       ]
     }

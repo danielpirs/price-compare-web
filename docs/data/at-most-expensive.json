@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-23T15:46:08.936Z",
+  "generatedAt": "2026-11-24T15:38:04.986Z",
   "fx": {
-    "asOf": "2026-11-23",
+    "asOf": "2026-11-24",
     "rates": {
-      "USD": 1.0939,
-      "JPY": 174.01,
-      "CZK": 24.455,
-      "DKK": 7.4746,
-      "GBP": 0.83673,
-      "HUF": 372.28,
-      "PLN": 4.4588,
-      "RON": 5.3483,
-      "SEK": 11.2375,
-      "CHF": 0.9186,
+      "USD": 1.0963,
+      "JPY": 174.39,
+      "CZK": 24.428,
+      "DKK": 7.4744,
+      "GBP": 0.837,
+      "HUF": 369.7,
+      "PLN": 4.4599,
+      "RON": 5.3442,
+      "SEK": 11.221,
+      "CHF": 0.9183,
       "ISK": 137.2,
-      "NOK": 10.7285,
-      "TRY": 55.3405,
-      "AUD": 1.6532,
-      "BRL": 6.5611,
-      "CAD": 1.5711,
-      "CNY": 7.2905,
-      "HKD": 8.5772,
-      "IDR": 19932.94,
-      "ILS": 3.6643,
-      "INR": 101.6395,
-      "KRW": 1475.51,
-      "MXN": 21.0528,
-      "MYR": 4.5101,
-      "NZD": 2.0079,
-      "PHP": 69.851,
-      "SGD": 1.4124,
-      "THB": 37.242,
-      "ZAR": 19.1513
+      "NOK": 10.735,
+      "TRY": 55.5029,
+      "AUD": 1.6507,
+      "BRL": 6.4349,
+      "CAD": 1.5707,
+      "CNY": 7.3063,
+      "HKD": 8.597,
+      "IDR": 19983.58,
+      "ILS": 3.6618,
+      "INR": 101.867,
+      "KRW": 1473.99,
+      "MXN": 21.1238,
+      "MYR": 4.5118,
+      "NZD": 2.0038,
+      "PHP": 69.929,
+      "SGD": 1.4141,
+      "THB": 37.197,
+      "ZAR": 19.2333
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -163,9 +163,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-11-13T12:09:04.712Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 188,
+          "currentPriceEurCents": 189,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 188
+          "referencePriceEurCents": 189
         }
       ]
     },
@@ -224,7 +224,7 @@
       "productId": 39854,
       "brand": "Varta",
       "isCountryExtreme": true,
-      "overallPercentDiff": 223.26,
+      "overallPercentDiff": 221.76,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -251,9 +251,9 @@
           "observedAt": "2026-09-01T12:31:00.665Z",
           "lastSeenAt": "2026-10-26T15:09:43.287Z",
           "currentPriceCents": 79900,
-          "currentPriceEurCents": 215,
+          "currentPriceEurCents": 216,
           "referencePriceCents": 79900,
-          "referencePriceEurCents": 215
+          "referencePriceEurCents": 216
         }
       ]
     },
@@ -406,71 +406,6 @@
       ]
     },
     {
-      "productId": 15502,
-      "brand": "Balea",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 200.83,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Belilna krema za dlačice na obrazu in telesu (2 x..., 100 ml",
-          "url": "https://www.dm.si/p/d/1450058/balea-belilna-krema-za-dlacice-na-obrazu-in-telesu-2-x-50-ml",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:43.741Z",
-          "lastSeenAt": "2026-11-07T14:53:27.545Z",
-          "currentPriceCents": 625,
-          "currentPriceEurCents": 625,
-          "referencePriceCents": 625,
-          "referencePriceEurCents": 625
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Haarentfärbungscreme Gesicht & Körper, 100 Millimeter",
-          "url": "https://www.dm.at/p/d/1450058/balea-haarentfaerbungscreme-gesicht-und-koerper",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:16.249Z",
-          "lastSeenAt": "2026-11-07T14:53:31.135Z",
-          "currentPriceCents": 725,
-          "currentPriceEurCents": 725,
-          "referencePriceCents": 725,
-          "referencePriceEurCents": 725
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Haarentfärbungscreme, 100 ml",
-          "url": "https://www.dm.de/p/d/1450058/balea-haarentfaerbungscreme",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:33.730Z",
-          "lastSeenAt": "2026-11-07T14:53:36.299Z",
-          "currentPriceCents": 645,
-          "currentPriceEurCents": 645,
-          "referencePriceCents": 645,
-          "referencePriceEurCents": 645
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Szőkítő krém arcra és testre, 100 ml",
-          "url": "https://www.dm.hu/p/d/1450058/balea-szokito-krem-arcra-es-testre",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:04.184Z",
-          "lastSeenAt": "2026-11-07T14:53:41.614Z",
-          "currentPriceCents": 89900,
-          "currentPriceEurCents": 241,
-          "referencePriceCents": 89900,
-          "referencePriceEurCents": 241
-        }
-      ]
-    },
-    {
       "productId": 1643,
       "brand": "Denkmit",
       "isCountryExtreme": true,
@@ -529,9 +464,74 @@
           "observedAt": "2026-09-01T12:31:05.211Z",
           "lastSeenAt": "2026-11-01T15:04:50.279Z",
           "currentPriceCents": 49900,
-          "currentPriceEurCents": 134,
+          "currentPriceEurCents": 135,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 134
+          "referencePriceEurCents": 135
+        }
+      ]
+    },
+    {
+      "productId": 15502,
+      "brand": "Balea",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 198.35,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Belilna krema za dlačice na obrazu in telesu (2 x..., 100 ml",
+          "url": "https://www.dm.si/p/d/1450058/balea-belilna-krema-za-dlacice-na-obrazu-in-telesu-2-x-50-ml",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:43.741Z",
+          "lastSeenAt": "2026-11-07T14:53:27.545Z",
+          "currentPriceCents": 625,
+          "currentPriceEurCents": 625,
+          "referencePriceCents": 625,
+          "referencePriceEurCents": 625
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Haarentfärbungscreme Gesicht & Körper, 100 Millimeter",
+          "url": "https://www.dm.at/p/d/1450058/balea-haarentfaerbungscreme-gesicht-und-koerper",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:16.249Z",
+          "lastSeenAt": "2026-11-07T14:53:31.135Z",
+          "currentPriceCents": 725,
+          "currentPriceEurCents": 725,
+          "referencePriceCents": 725,
+          "referencePriceEurCents": 725
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Haarentfärbungscreme, 100 ml",
+          "url": "https://www.dm.de/p/d/1450058/balea-haarentfaerbungscreme",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:33.730Z",
+          "lastSeenAt": "2026-11-07T14:53:36.299Z",
+          "currentPriceCents": 645,
+          "currentPriceEurCents": 645,
+          "referencePriceCents": 645,
+          "referencePriceEurCents": 645
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Szőkítő krém arcra és testre, 100 ml",
+          "url": "https://www.dm.hu/p/d/1450058/balea-szokito-krem-arcra-es-testre",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:04.184Z",
+          "lastSeenAt": "2026-11-07T14:53:41.614Z",
+          "currentPriceCents": 89900,
+          "currentPriceEurCents": 243,
+          "referencePriceCents": 89900,
+          "referencePriceEurCents": 243
         }
       ]
     },
@@ -729,7 +729,7 @@
       "productId": 65216,
       "brand": "SEINZ.",
       "isCountryExtreme": true,
-      "overallPercentDiff": 168.18,
+      "overallPercentDiff": 165.77,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -784,9 +784,9 @@
           "observedAt": "2026-11-09T18:44:06.381Z",
           "lastSeenAt": "2026-11-09T18:44:06.381Z",
           "currentPriceCents": 40900,
-          "currentPriceEurCents": 110,
+          "currentPriceEurCents": 111,
           "referencePriceCents": 40900,
-          "referencePriceEurCents": 110
+          "referencePriceEurCents": 111
         }
       ]
     },
@@ -928,9 +928,9 @@
           "observedAt": "2026-09-01T12:32:11.497Z",
           "lastSeenAt": "2026-10-31T14:30:56.768Z",
           "currentPriceCents": 52900,
-          "currentPriceEurCents": 142,
+          "currentPriceEurCents": 143,
           "referencePriceCents": 52900,
-          "referencePriceEurCents": 142
+          "referencePriceEurCents": 143
         }
       ]
     },
@@ -993,9 +993,9 @@
           "observedAt": "2026-09-01T12:30:28.210Z",
           "lastSeenAt": "2026-11-01T15:04:51.921Z",
           "currentPriceCents": 30900,
-          "currentPriceEurCents": 83,
+          "currentPriceEurCents": 84,
           "referencePriceCents": 30900,
-          "referencePriceEurCents": 83
+          "referencePriceEurCents": 84
         }
       ]
     },
@@ -1151,9 +1151,9 @@
           "observedAt": "2026-09-01T12:32:09.419Z",
           "lastSeenAt": "2026-11-13T12:09:07.830Z",
           "currentPriceCents": 39900,
-          "currentPriceEurCents": 107,
+          "currentPriceEurCents": 108,
           "referencePriceCents": 39900,
-          "referencePriceEurCents": 107
+          "referencePriceEurCents": 108
         }
       ]
     },
@@ -1216,9 +1216,9 @@
           "observedAt": "2026-10-28T15:05:18.088Z",
           "lastSeenAt": "2026-10-28T15:05:18.088Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 241,
+          "currentPriceEurCents": 243,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 241
+          "referencePriceEurCents": 243
         }
       ]
     },
@@ -1226,7 +1226,7 @@
       "productId": 4236,
       "brand": "LANGHAARMÄDCHEN",
       "isCountryExtreme": true,
-      "overallPercentDiff": 156.48,
+      "overallPercentDiff": 155.15,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1267,9 +1267,9 @@
           "observedAt": "2026-09-01T12:30:07.326Z",
           "lastSeenAt": "2026-11-01T15:04:51.921Z",
           "currentPriceCents": 71900,
-          "currentPriceEurCents": 193,
+          "currentPriceEurCents": 194,
           "referencePriceCents": 71900,
-          "referencePriceEurCents": 193
+          "referencePriceEurCents": 194
         }
       ]
     },
@@ -1457,9 +1457,9 @@
           "observedAt": "2026-09-01T12:31:37.751Z",
           "lastSeenAt": "2026-11-05T12:16:03.730Z",
           "currentPriceCents": 49900,
-          "currentPriceEurCents": 134,
+          "currentPriceEurCents": 135,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 134
+          "referencePriceEurCents": 135
         }
       ]
     },
@@ -1467,7 +1467,7 @@
       "productId": 4514,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 147.66,
+      "overallPercentDiff": 145.37,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1536,9 +1536,9 @@
           "observedAt": "2026-09-01T12:30:41.384Z",
           "lastSeenAt": "2026-11-14T11:26:01.094Z",
           "currentPriceCents": 39900,
-          "currentPriceEurCents": 107,
+          "currentPriceEurCents": 108,
           "referencePriceCents": 39900,
-          "referencePriceEurCents": 107
+          "referencePriceEurCents": 108
         }
       ]
     },
@@ -1608,57 +1608,6 @@
       ]
     },
     {
-      "productId": 5602,
-      "brand": "s.Oliver",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 141.84,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Eau de Parfum Selection Women, 30 ml",
-          "url": "https://www.dm.at/p/d/1202681/s-oliver-eau-de-parfum-selection-women",
-          "isPromo": false,
-          "observedAt": "2026-08-30T21:47:47.082Z",
-          "lastSeenAt": "2026-10-25T13:10:14.144Z",
-          "currentPriceCents": 2890,
-          "currentPriceEurCents": 2890,
-          "referencePriceCents": 2890,
-          "referencePriceEurCents": 2890
-        },
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Selection women edp, 30 ml",
-          "url": "https://www.dm.hr/p/d/1202681/s-oliver-selection-women-edp",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:50.495Z",
-          "lastSeenAt": "2026-10-25T13:10:01.648Z",
-          "currentPriceCents": 1890,
-          "currentPriceEurCents": 1890,
-          "referencePriceCents": 1890,
-          "referencePriceEurCents": 1890
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Selection Eau de Parfum, 30 ml",
-          "url": "https://www.dm.de/p/d/1202681/s-oliver-selection-eau-de-parfum",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:20.964Z",
-          "lastSeenAt": "2026-10-25T13:10:22.386Z",
-          "currentPriceCents": 1195,
-          "currentPriceEurCents": 1195,
-          "referencePriceCents": 1195,
-          "referencePriceEurCents": 1195
-        }
-      ]
-    },
-    {
       "productId": 4300,
       "brand": "Schaebens",
       "isCountryExtreme": true,
@@ -1688,6 +1637,43 @@
           "isPromo": false,
           "observedAt": "2026-10-05T17:07:20.931Z",
           "lastSeenAt": "2026-11-04T12:04:31.000Z",
+          "currentPriceCents": 60,
+          "currentPriceEurCents": 60,
+          "referencePriceCents": 60,
+          "referencePriceEurCents": 60
+        }
+      ]
+    },
+    {
+      "productId": 27836,
+      "brand": "Schaebens",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 141.67,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Gesichtsmaske Totes Meer Schlamm, 15 ml",
+          "url": "https://www.dm.at/p/d/1076543/schaebens-gesichtsmaske-totes-meer-schlamm",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:06.799Z",
+          "lastSeenAt": "2026-11-06T12:04:21.406Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Gesichtsmaske Totes Meer Schlamm, 15 ml",
+          "url": "https://www.dm.de/p/d/1076543/schaebens-gesichtsmaske-totes-meer-schlamm",
+          "isPromo": false,
+          "observedAt": "2026-10-07T15:32:27.915Z",
+          "lastSeenAt": "2026-11-06T12:04:29.461Z",
           "currentPriceCents": 60,
           "currentPriceEurCents": 60,
           "referencePriceCents": 60,
