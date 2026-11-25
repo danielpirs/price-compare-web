@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-24T15:38:04.986Z",
+  "generatedAt": "2026-11-25T15:22:33.387Z",
   "fx": {
-    "asOf": "2026-11-24",
+    "asOf": "2026-11-25",
     "rates": {
-      "USD": 1.0963,
-      "JPY": 174.39,
-      "CZK": 24.428,
-      "DKK": 7.4744,
-      "GBP": 0.837,
-      "HUF": 369.7,
-      "PLN": 4.4599,
-      "RON": 5.3442,
-      "SEK": 11.221,
-      "CHF": 0.9183,
+      "USD": 1.0935,
+      "JPY": 174.22,
+      "CZK": 24.435,
+      "DKK": 7.4743,
+      "GBP": 0.8373,
+      "HUF": 373.44,
+      "PLN": 4.48,
+      "RON": 5.343,
+      "SEK": 11.2385,
+      "CHF": 0.9085,
       "ISK": 137.2,
-      "NOK": 10.735,
-      "TRY": 55.5029,
-      "AUD": 1.6507,
-      "BRL": 6.4349,
-      "CAD": 1.5707,
-      "CNY": 7.3063,
-      "HKD": 8.597,
-      "IDR": 19983.58,
-      "ILS": 3.6618,
-      "INR": 101.867,
-      "KRW": 1473.99,
-      "MXN": 21.1238,
-      "MYR": 4.5118,
-      "NZD": 2.0038,
-      "PHP": 69.929,
-      "SGD": 1.4141,
-      "THB": 37.197,
-      "ZAR": 19.2333
+      "NOK": 10.7778,
+      "TRY": 55.4163,
+      "AUD": 1.6644,
+      "BRL": 6.4531,
+      "CAD": 1.5591,
+      "CNY": 7.2999,
+      "HKD": 8.5709,
+      "IDR": 20055.72,
+      "ILS": 3.6948,
+      "INR": 100.859,
+      "KRW": 1471.19,
+      "MXN": 21.5422,
+      "MYR": 4.5047,
+      "NZD": 2.0046,
+      "PHP": 69.558,
+      "SGD": 1.4129,
+      "THB": 37.321,
+      "ZAR": 19.3514
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -43,7 +43,7 @@
       "productId": 2140,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 230.56,
+      "overallPercentDiff": 227.22,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -112,9 +112,9 @@
           "observedAt": "2026-09-01T12:31:00.665Z",
           "lastSeenAt": "2026-11-14T11:25:59.531Z",
           "currentPriceCents": 219900,
-          "currentPriceEurCents": 595,
+          "currentPriceEurCents": 589,
           "referencePriceCents": 219900,
-          "referencePriceEurCents": 595
+          "referencePriceEurCents": 589
         }
       ]
     },
@@ -122,7 +122,7 @@
       "productId": 5557,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 223.64,
+      "overallPercentDiff": 220,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -177,9 +177,60 @@
           "observedAt": "2026-09-01T12:30:58.541Z",
           "lastSeenAt": "2026-10-31T14:30:54.836Z",
           "currentPriceCents": 65900,
-          "currentPriceEurCents": 178,
+          "currentPriceEurCents": 176,
           "referencePriceCents": 65900,
-          "referencePriceEurCents": 178
+          "referencePriceEurCents": 176
+        }
+      ]
+    },
+    {
+      "productId": 2079,
+      "brand": "Profissimo",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 187.5,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Lopar za muhe, več različic, 1 kos",
+          "url": "https://www.dm.si/p/d/1339880/profissimo-lopar-za-muhe-vec-razlicic",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:56:31.202Z",
+          "lastSeenAt": "2026-11-24T19:29:04.676Z",
+          "currentPriceCents": 40,
+          "currentPriceEurCents": 40,
+          "referencePriceCents": 40,
+          "referencePriceEurCents": 40
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Fliegenklatsche, 1 St",
+          "url": "https://www.dm.at/p/d/1339880/profissimo-fliegenklatsche",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:06.799Z",
+          "lastSeenAt": "2026-11-24T19:29:14.459Z",
+          "currentPriceCents": 85,
+          "currentPriceEurCents": 85,
+          "referencePriceCents": 85,
+          "referencePriceEurCents": 85
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Fliegenklatsche, 1 St",
+          "url": "https://www.dm.de/p/d/1339880/profissimo-fliegenklatsche",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:04.229Z",
+          "lastSeenAt": "2026-11-24T19:29:20.274Z",
+          "currentPriceCents": 115,
+          "currentPriceEurCents": 115,
+          "referencePriceCents": 115,
+          "referencePriceEurCents": 115
         }
       ]
     },
@@ -187,7 +238,7 @@
       "productId": 5519,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 149.74,
+      "overallPercentDiff": 147.18,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -228,9 +279,9 @@
           "observedAt": "2026-09-01T12:30:01.877Z",
           "lastSeenAt": "2026-11-02T18:17:25.790Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 487,
+          "currentPriceEurCents": 482,
           "referencePriceCents": 179900,
-          "referencePriceEurCents": 487
+          "referencePriceEurCents": 482
         }
       ]
     },
@@ -309,10 +360,154 @@
       ]
     },
     {
+      "productId": 10196,
+      "brand": "ebelin",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 139.24,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Ovalna masažna četka za kosu od bambusa, 1 kom.",
+          "url": "https://www.dm.hr/p/d/1545643/ebelin-ovalna-masazna-cetka-za-kosu-od-bambusa",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:01.290Z",
+          "lastSeenAt": "2026-10-27T14:27:05.664Z",
+          "currentPriceCents": 795,
+          "currentPriceEurCents": 795,
+          "referencePriceCents": 795,
+          "referencePriceEurCents": 795
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Masažna krtača za lase iz bambusa, 1 kos",
+          "url": "https://www.dm.si/p/d/1545643/ebelin-masazna-krtaca-za-lase-iz-bambusa",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:56.419Z",
+          "lastSeenAt": "2026-10-27T14:27:12.808Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Kopfmassagebürste Bambus, 1 St",
+          "url": "https://www.dm.at/p/d/1545643/ebelin-kopfmassagebuerste-bambus",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:30.278Z",
+          "lastSeenAt": "2026-10-27T14:27:17.082Z",
+          "currentPriceCents": 945,
+          "currentPriceEurCents": 945,
+          "referencePriceCents": 945,
+          "referencePriceEurCents": 945
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Haarbürste Bambus Massage, 1 St",
+          "url": "https://www.dm.de/p/d/1545643/ebelin-haarbuerste-bambus-massage",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:48.945Z",
+          "lastSeenAt": "2026-10-27T14:27:24.951Z",
+          "currentPriceCents": 845,
+          "currentPriceEurCents": 845,
+          "referencePriceCents": 845,
+          "referencePriceEurCents": 845
+        }
+      ]
+    },
+    {
+      "productId": 426,
+      "brand": "Mivolis",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 137.93,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Pastile od uskolisnog trputca protiv kašlja, 30 kom.",
+          "url": "https://www.dm.hr/p/d/3115297/mivolis-pastile-od-uskolisnog-trputca-protiv-kaslja",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:44:26.470Z",
+          "lastSeenAt": "2026-11-24T19:29:08.778Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Pastile proti kašlju s trpotcem, 30 kos",
+          "url": "https://www.dm.si/p/d/3115297/mivolis-pastile-proti-kaslju-s-trpotcem",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:51:02.742Z",
+          "lastSeenAt": "2026-11-24T19:29:04.676Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Hustenpastillen mit Spitzwegerich, 30 St",
+          "url": "https://www.dm.at/p/d/3115297/mivolis-hustenpastillen-mit-spitzwegerich",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:06.799Z",
+          "lastSeenAt": "2026-11-24T19:29:14.459Z",
+          "currentPriceCents": 345,
+          "currentPriceEurCents": 345,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Hustenpastillen mit Spitzwegerich, 30 St",
+          "url": "https://www.dm.de/p/d/3115297/mivolis-hustenpastillen-mit-spitzwegerich",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:06.109Z",
+          "lastSeenAt": "2026-11-24T19:29:20.274Z",
+          "currentPriceCents": 185,
+          "currentPriceEurCents": 185,
+          "referencePriceCents": 185,
+          "referencePriceEurCents": 185
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Lándzsás útifű torokcukorka, 30 db",
+          "url": "https://www.dm.hu/p/d/3115297/mivolis-landzsas-utifu-torokcukorka",
+          "isPromo": false,
+          "observedAt": "2026-11-24T19:29:23.149Z",
+          "lastSeenAt": "2026-11-24T19:29:23.149Z",
+          "currentPriceCents": 109900,
+          "currentPriceEurCents": 294,
+          "referencePriceCents": 109900,
+          "referencePriceEurCents": 294
+        }
+      ]
+    },
+    {
       "productId": 10277,
       "brand": "Erdal",
       "isCountryExtreme": true,
-      "overallPercentDiff": 140.44,
+      "overallPercentDiff": 137.78,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -381,74 +576,74 @@
           "observedAt": "2026-09-01T12:32:51.781Z",
           "lastSeenAt": "2026-11-17T13:18:13.918Z",
           "currentPriceCents": 199900,
-          "currentPriceEurCents": 541,
+          "currentPriceEurCents": 535,
           "referencePriceCents": 199900,
-          "referencePriceEurCents": 541
+          "referencePriceEurCents": 535
         }
       ]
     },
     {
-      "productId": 10196,
-      "brand": "ebelin",
+      "productId": 2254,
+      "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 139.24,
+      "overallPercentDiff": 136,
       "gapToExtremePercent": 0,
       "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Ovalna masažna četka za kosu od bambusa, 1 kom.",
-          "url": "https://www.dm.hr/p/d/1545643/ebelin-ovalna-masazna-cetka-za-kosu-od-bambusa",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:01.290Z",
-          "lastSeenAt": "2026-10-27T14:27:05.664Z",
-          "currentPriceCents": 795,
-          "currentPriceEurCents": 795,
-          "referencePriceCents": 795,
-          "referencePriceEurCents": 795
-        },
         {
           "countryCode": "SI",
           "shopId": "dm-si",
           "currency": "EUR",
-          "name": "Masažna krtača za lase iz bambusa, 1 kos",
-          "url": "https://www.dm.si/p/d/1545643/ebelin-masazna-krtaca-za-lase-iz-bambusa",
+          "name": "Vaba za muhe, v obliki nalepk, 4 kos",
+          "url": "https://www.dm.si/p/d/1605152/profissimo-vaba-za-muhe-v-obliki-nalepk",
           "isPromo": false,
-          "observedAt": "2026-08-30T22:33:56.419Z",
-          "lastSeenAt": "2026-10-27T14:27:12.808Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
+          "observedAt": "2026-08-28T15:57:39.115Z",
+          "lastSeenAt": "2026-11-24T19:29:07.325Z",
+          "currentPriceCents": 125,
+          "currentPriceEurCents": 125,
+          "referencePriceCents": 125,
+          "referencePriceEurCents": 125
+        },
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Mamac za muhe s dekorativnim uzorkom, 4 kom.",
+          "url": "https://www.dm.hr/p/d/1605152/profissimo-mamac-za-muhe-s-dekorativnim-uzorkom",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:47.431Z",
+          "lastSeenAt": "2026-11-24T19:29:10.287Z",
+          "currentPriceCents": 195,
+          "currentPriceEurCents": 195,
+          "referencePriceCents": 195,
+          "referencePriceEurCents": 195
         },
         {
           "countryCode": "AT",
           "shopId": "dm-at",
           "currency": "EUR",
-          "name": "Kopfmassagebürste Bambus, 1 St",
-          "url": "https://www.dm.at/p/d/1545643/ebelin-kopfmassagebuerste-bambus",
+          "name": "Fliegenfallen mit Motiv, 4 St",
+          "url": "https://www.dm.at/p/d/1605152/profissimo-fliegenfallen-mit-motiv",
           "isPromo": false,
-          "observedAt": "2026-08-30T22:36:30.278Z",
-          "lastSeenAt": "2026-10-27T14:27:17.082Z",
-          "currentPriceCents": 945,
-          "currentPriceEurCents": 945,
-          "referencePriceCents": 945,
-          "referencePriceEurCents": 945
+          "observedAt": "2026-08-30T22:36:16.249Z",
+          "lastSeenAt": "2026-11-24T19:29:12.759Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
         },
         {
           "countryCode": "DE",
           "shopId": "dm-de",
           "currency": "EUR",
-          "name": "Haarbürste Bambus Massage, 1 St",
-          "url": "https://www.dm.de/p/d/1545643/ebelin-haarbuerste-bambus-massage",
+          "name": "Fliegenfalle Motiv, 4 St",
+          "url": "https://www.dm.de/p/d/1605152/profissimo-fliegenfalle-motiv",
           "isPromo": false,
-          "observedAt": "2026-08-31T20:42:48.945Z",
-          "lastSeenAt": "2026-10-27T14:27:24.951Z",
-          "currentPriceCents": 845,
-          "currentPriceEurCents": 845,
-          "referencePriceCents": 845,
-          "referencePriceEurCents": 845
+          "observedAt": "2026-08-31T20:42:23.095Z",
+          "lastSeenAt": "2026-11-24T19:29:17.154Z",
+          "currentPriceCents": 185,
+          "currentPriceEurCents": 185,
+          "referencePriceCents": 185,
+          "referencePriceEurCents": 185
         }
       ]
     },
@@ -456,7 +651,7 @@
       "productId": 802,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 138.11,
+      "overallPercentDiff": 135.72,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -483,9 +678,9 @@
           "observedAt": "2026-09-01T12:33:11.663Z",
           "lastSeenAt": "2026-11-17T13:18:12.228Z",
           "currentPriceCents": 699900,
-          "currentPriceEurCents": 1893,
+          "currentPriceEurCents": 1874,
           "referencePriceCents": 699900,
-          "referencePriceEurCents": 1893
+          "referencePriceEurCents": 1874
         },
         {
           "countryCode": "SI",
@@ -507,7 +702,7 @@
       "productId": 7039,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 138.11,
+      "overallPercentDiff": 135.72,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -534,9 +729,9 @@
           "observedAt": "2026-09-01T12:33:09.616Z",
           "lastSeenAt": "2026-11-16T18:29:01.872Z",
           "currentPriceCents": 699900,
-          "currentPriceEurCents": 1893,
+          "currentPriceEurCents": 1874,
           "referencePriceCents": 699900,
-          "referencePriceEurCents": 1893
+          "referencePriceEurCents": 1874
         },
         {
           "countryCode": "SI",
@@ -558,7 +753,7 @@
       "productId": 12161,
       "brand": "meridol",
       "isCountryExtreme": true,
-      "overallPercentDiff": 131.75,
+      "overallPercentDiff": 129.52,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -613,9 +808,9 @@
           "observedAt": "2026-09-01T12:32:32.640Z",
           "lastSeenAt": "2026-10-28T15:05:22.610Z",
           "currentPriceCents": 269900,
-          "currentPriceEurCents": 730,
+          "currentPriceEurCents": 723,
           "referencePriceCents": 269900,
-          "referencePriceEurCents": 730
+          "referencePriceEurCents": 723
         }
       ]
     },
@@ -623,7 +818,7 @@
       "productId": 9284,
       "brand": "DEIN BESTES",
       "isCountryExtreme": true,
-      "overallPercentDiff": 125.56,
+      "overallPercentDiff": 123.33,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -692,9 +887,9 @@
           "observedAt": "2026-09-01T12:32:11.497Z",
           "lastSeenAt": "2026-10-29T15:12:44.552Z",
           "currentPriceCents": 74900,
-          "currentPriceEurCents": 203,
+          "currentPriceEurCents": 201,
           "referencePriceCents": 74900,
-          "referencePriceEurCents": 203
+          "referencePriceEurCents": 201
         }
       ]
     },
@@ -702,7 +897,7 @@
       "productId": 16745,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 124.62,
+      "overallPercentDiff": 122.46,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -743,9 +938,9 @@
           "observedAt": "2026-09-01T12:30:07.326Z",
           "lastSeenAt": "2026-11-12T16:47:01.536Z",
           "currentPriceCents": 269900,
-          "currentPriceEurCents": 730,
+          "currentPriceEurCents": 723,
           "referencePriceCents": 269900,
-          "referencePriceEurCents": 730
+          "referencePriceEurCents": 723
         }
       ]
     },
@@ -808,9 +1003,9 @@
           "observedAt": "2026-09-01T12:32:49.604Z",
           "lastSeenAt": "2026-11-12T16:47:03.782Z",
           "currentPriceCents": 129900,
-          "currentPriceEurCents": 351,
+          "currentPriceEurCents": 348,
           "referencePriceCents": 129900,
-          "referencePriceEurCents": 351
+          "referencePriceEurCents": 348
         }
       ]
     },
@@ -887,9 +1082,9 @@
           "observedAt": "2026-11-23T20:09:25.333Z",
           "lastSeenAt": "2026-11-23T20:09:25.333Z",
           "currentPriceCents": 109900,
-          "currentPriceEurCents": 297,
+          "currentPriceEurCents": 294,
           "referencePriceCents": 109900,
-          "referencePriceEurCents": 297
+          "referencePriceEurCents": 294
         }
       ]
     },
@@ -934,7 +1129,7 @@
       "productId": 1932,
       "brand": "dmBio",
       "isCountryExtreme": true,
-      "overallPercentDiff": 113.68,
+      "overallPercentDiff": 111.58,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1003,9 +1198,9 @@
           "observedAt": "2026-11-15T15:38:48.145Z",
           "lastSeenAt": "2026-11-15T15:38:48.145Z",
           "currentPriceCents": 74900,
-          "currentPriceEurCents": 203,
+          "currentPriceEurCents": 201,
           "referencePriceCents": 74900,
-          "referencePriceEurCents": 203
+          "referencePriceEurCents": 201
         }
       ]
     },
@@ -1119,9 +1314,9 @@
           "observedAt": "2026-11-13T12:09:04.712Z",
           "lastSeenAt": "2026-11-13T12:09:04.712Z",
           "currentPriceCents": 32900,
-          "currentPriceEurCents": 89,
+          "currentPriceEurCents": 88,
           "referencePriceCents": 32900,
-          "referencePriceEurCents": 89
+          "referencePriceEurCents": 88
         }
       ]
     },
@@ -1129,7 +1324,7 @@
       "productId": 16164,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 110.85,
+      "overallPercentDiff": 108.81,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1156,9 +1351,9 @@
           "observedAt": "2026-09-01T12:30:10.466Z",
           "lastSeenAt": "2026-11-12T16:47:01.536Z",
           "currentPriceCents": 229900,
-          "currentPriceEurCents": 622,
+          "currentPriceEurCents": 616,
           "referencePriceCents": 229900,
-          "referencePriceEurCents": 622
+          "referencePriceEurCents": 616
         }
       ]
     },
@@ -1166,7 +1361,7 @@
       "productId": 22534,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 110.85,
+      "overallPercentDiff": 108.81,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1193,9 +1388,9 @@
           "observedAt": "2026-09-01T12:30:13.724Z",
           "lastSeenAt": "2026-11-11T16:08:03.442Z",
           "currentPriceCents": 229900,
-          "currentPriceEurCents": 622,
+          "currentPriceEurCents": 616,
           "referencePriceCents": 229900,
-          "referencePriceEurCents": 622
+          "referencePriceEurCents": 616
         }
       ]
     },
@@ -1203,7 +1398,7 @@
       "productId": 22637,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 110.85,
+      "overallPercentDiff": 108.81,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1230,9 +1425,9 @@
           "observedAt": "2026-09-01T12:30:07.326Z",
           "lastSeenAt": "2026-11-15T15:38:48.145Z",
           "currentPriceCents": 229900,
-          "currentPriceEurCents": 622,
+          "currentPriceEurCents": 616,
           "referencePriceCents": 229900,
-          "referencePriceEurCents": 622
+          "referencePriceEurCents": 616
         }
       ]
     },
@@ -1240,7 +1435,7 @@
       "productId": 22665,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 110.85,
+      "overallPercentDiff": 108.81,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1281,9 +1476,9 @@
           "observedAt": "2026-09-01T12:30:10.466Z",
           "lastSeenAt": "2026-11-16T18:29:01.872Z",
           "currentPriceCents": 229900,
-          "currentPriceEurCents": 622,
+          "currentPriceEurCents": 616,
           "referencePriceCents": 229900,
-          "referencePriceEurCents": 622
+          "referencePriceEurCents": 616
         }
       ]
     },
@@ -1291,7 +1486,7 @@
       "productId": 12634,
       "brand": "dmBio",
       "isCountryExtreme": true,
-      "overallPercentDiff": 110,
+      "overallPercentDiff": 107.78,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1360,9 +1555,9 @@
           "observedAt": "2026-11-17T13:18:12.228Z",
           "lastSeenAt": "2026-11-17T13:18:12.228Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 189,
+          "currentPriceEurCents": 187,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 189
+          "referencePriceEurCents": 187
         }
       ]
     },
@@ -1370,7 +1565,7 @@
       "productId": 3252,
       "brand": "Sanft&Sicher",
       "isCountryExtreme": true,
-      "overallPercentDiff": 107.69,
+      "overallPercentDiff": 105.64,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1439,148 +1634,9 @@
           "observedAt": "2026-09-01T12:30:41.384Z",
           "lastSeenAt": "2026-11-03T11:54:14.891Z",
           "currentPriceCents": 149900,
-          "currentPriceEurCents": 405,
+          "currentPriceEurCents": 401,
           "referencePriceCents": 149900,
-          "referencePriceEurCents": 405
-        }
-      ]
-    },
-    {
-      "productId": 3743,
-      "brand": "DEIN BESTES",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 106,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "HOFLADEN Popolna hrana za odrasle mačke s..., 85 g",
-          "url": "https://www.dm.si/p/d/1586552/dein-bestes-hofladen-popolna-hrana-za-odrasle-macke-s-kokosjimi-jetri",
-          "isPromo": false,
-          "observedAt": "2026-08-28T16:08:02.161Z",
-          "lastSeenAt": "2026-11-16T18:28:44.569Z",
-          "currentPriceCents": 50,
-          "currentPriceEurCents": 50,
-          "referencePriceCents": 50,
-          "referencePriceEurCents": 50
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Nassfutter Katze Hofladen Hühnerleber, 85 g",
-          "url": "https://www.dm.at/p/d/1586552/dein-bestes-nassfutter-katze-hofladen-huehnerleber",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:55.121Z",
-          "lastSeenAt": "2026-11-16T18:28:51.701Z",
-          "currentPriceCents": 85,
-          "currentPriceEurCents": 85,
-          "referencePriceCents": 85,
-          "referencePriceEurCents": 85
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Nassfutter Katze mit Hühnerleber, Hofladen, 85 g",
-          "url": "https://www.dm.de/p/d/1586552/dein-bestes-nassfutter-katze-mit-huehnerleber-hofladen",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:31.622Z",
-          "lastSeenAt": "2026-11-16T18:28:57.667Z",
-          "currentPriceCents": 75,
-          "currentPriceEurCents": 75,
-          "referencePriceCents": 75,
-          "referencePriceEurCents": 75
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Nedves eledel felnőtt macskáknak, csirkemájban..., 85 g",
-          "url": "https://www.dm.hu/p/d/1586552/dein-bestes-nedves-eledel-felnott-macskaknak-csirkemajban-gazdag",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:25.549Z",
-          "lastSeenAt": "2026-11-16T18:29:01.872Z",
-          "currentPriceCents": 37900,
-          "currentPriceEurCents": 103,
-          "referencePriceCents": 37900,
-          "referencePriceEurCents": 103
-        }
-      ]
-    },
-    {
-      "productId": 17141,
-      "brand": "Fascino",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 105.32,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Samostoječe nogavice 15 DEN, 46-48, 1 kos",
-          "url": "https://www.dm.si/p/d/1560162/fascino-samostojece-nogavice-15-den-46-48",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:08.864Z",
-          "lastSeenAt": "2026-11-11T16:07:42.858Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Combfix 15 DEN, 46-48 méret, fekete, 1 db",
-          "url": "https://www.dm.hu/p/d/1560162/fascino-combfix-15-den-46-48-meret-fekete",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:01.877Z",
-          "lastSeenAt": "2026-11-11T16:08:05.457Z",
-          "currentPriceCents": 299900,
-          "currentPriceEurCents": 811,
-          "referencePriceCents": 299900,
-          "referencePriceEurCents": 811
-        }
-      ]
-    },
-    {
-      "productId": 22638,
-      "brand": "Fascino",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 105.32,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Samostoječe nogavice 15 DEN, črne, 42-44, 1 kos",
-          "url": "https://www.dm.si/p/d/1560161/fascino-samostojece-nogavice-15-den-crne-42-44",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:01.846Z",
-          "lastSeenAt": "2026-11-08T15:09:02.480Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Combfix, 15 DEN, fekete, 42-44, 1 db",
-          "url": "https://www.dm.hu/p/d/1560161/fascino-combfix-15-den-fekete-42-44",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:10.466Z",
-          "lastSeenAt": "2026-11-08T15:09:24.786Z",
-          "currentPriceCents": 299900,
-          "currentPriceEurCents": 811,
-          "referencePriceCents": 299900,
-          "referencePriceEurCents": 811
+          "referencePriceEurCents": 401
         }
       ]
     },
@@ -1745,9 +1801,9 @@
           "observedAt": "2026-09-01T12:30:58.541Z",
           "lastSeenAt": "2026-10-27T14:27:30.381Z",
           "currentPriceCents": 59900,
-          "currentPriceEurCents": 162,
+          "currentPriceEurCents": 160,
           "referencePriceCents": 59900,
-          "referencePriceEurCents": 162
+          "referencePriceEurCents": 160
         }
       ]
     }

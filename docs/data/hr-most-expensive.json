@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-24T15:38:04.986Z",
+  "generatedAt": "2026-11-25T15:22:33.387Z",
   "fx": {
-    "asOf": "2026-11-24",
+    "asOf": "2026-11-25",
     "rates": {
-      "USD": 1.0963,
-      "JPY": 174.39,
-      "CZK": 24.428,
-      "DKK": 7.4744,
-      "GBP": 0.837,
-      "HUF": 369.7,
-      "PLN": 4.4599,
-      "RON": 5.3442,
-      "SEK": 11.221,
-      "CHF": 0.9183,
+      "USD": 1.0935,
+      "JPY": 174.22,
+      "CZK": 24.435,
+      "DKK": 7.4743,
+      "GBP": 0.8373,
+      "HUF": 373.44,
+      "PLN": 4.48,
+      "RON": 5.343,
+      "SEK": 11.2385,
+      "CHF": 0.9085,
       "ISK": 137.2,
-      "NOK": 10.735,
-      "TRY": 55.5029,
-      "AUD": 1.6507,
-      "BRL": 6.4349,
-      "CAD": 1.5707,
-      "CNY": 7.3063,
-      "HKD": 8.597,
-      "IDR": 19983.58,
-      "ILS": 3.6618,
-      "INR": 101.867,
-      "KRW": 1473.99,
-      "MXN": 21.1238,
-      "MYR": 4.5118,
-      "NZD": 2.0038,
-      "PHP": 69.929,
-      "SGD": 1.4141,
-      "THB": 37.197,
-      "ZAR": 19.2333
+      "NOK": 10.7778,
+      "TRY": 55.4163,
+      "AUD": 1.6644,
+      "BRL": 6.4531,
+      "CAD": 1.5591,
+      "CNY": 7.2999,
+      "HKD": 8.5709,
+      "IDR": 20055.72,
+      "ILS": 3.6948,
+      "INR": 100.859,
+      "KRW": 1471.19,
+      "MXN": 21.5422,
+      "MYR": 4.5047,
+      "NZD": 2.0046,
+      "PHP": 69.558,
+      "SGD": 1.4129,
+      "THB": 37.321,
+      "ZAR": 19.3514
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -112,9 +112,9 @@
           "observedAt": "2026-10-18T12:36:09.737Z",
           "lastSeenAt": "2026-11-17T13:18:13.918Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 811,
+          "currentPriceEurCents": 803,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 811
+          "referencePriceEurCents": 803
         }
       ]
     },
@@ -122,7 +122,7 @@
       "productId": 7605,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 187.04,
+      "overallPercentDiff": 192.45,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -191,9 +191,9 @@
           "observedAt": "2026-09-01T12:30:50.931Z",
           "lastSeenAt": "2026-11-01T15:04:54.221Z",
           "currentPriceCents": 19900,
-          "currentPriceEurCents": 54,
+          "currentPriceEurCents": 53,
           "referencePriceCents": 19900,
-          "referencePriceEurCents": 54
+          "referencePriceEurCents": 53
         }
       ]
     },
@@ -201,7 +201,7 @@
       "productId": 11017,
       "brand": "Aquafresh",
       "isCountryExtreme": true,
-      "overallPercentDiff": 159.26,
+      "overallPercentDiff": 161.19,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -228,9 +228,9 @@
           "observedAt": "2026-09-01T12:32:49.604Z",
           "lastSeenAt": "2026-11-17T13:18:12.228Z",
           "currentPriceCents": 49900,
-          "currentPriceEurCents": 135,
+          "currentPriceEurCents": 134,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 135
+          "referencePriceEurCents": 134
         }
       ]
     },
@@ -275,7 +275,7 @@
       "productId": 11106,
       "brand": "Jordan",
       "isCountryExtreme": true,
-      "overallPercentDiff": 147.9,
+      "overallPercentDiff": 150,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -316,9 +316,9 @@
           "observedAt": "2026-09-01T12:30:35.474Z",
           "lastSeenAt": "2026-11-11T16:08:07.127Z",
           "currentPriceCents": 43900,
-          "currentPriceEurCents": 119,
+          "currentPriceEurCents": 118,
           "referencePriceCents": 43900,
-          "referencePriceEurCents": 119
+          "referencePriceEurCents": 118
         }
       ]
     },
@@ -326,7 +326,7 @@
       "productId": 12130,
       "brand": "Jordan",
       "isCountryExtreme": true,
-      "overallPercentDiff": 147.9,
+      "overallPercentDiff": 150,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -367,9 +367,148 @@
           "observedAt": "2026-09-01T12:30:32.566Z",
           "lastSeenAt": "2026-11-04T12:04:41.720Z",
           "currentPriceCents": 43900,
-          "currentPriceEurCents": 119,
+          "currentPriceEurCents": 118,
           "referencePriceCents": 43900,
-          "referencePriceEurCents": 119
+          "referencePriceEurCents": 118
+        }
+      ]
+    },
+    {
+      "productId": 10116,
+      "brand": "Signal",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 146.75,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Super Mario Kids dječja pasta za zube Strawberry..., 75 g",
+          "url": "https://www.dm.hr/p/d/2952151/signal-super-mario-kids-djecja-pasta-za-zube-strawberry-flavour-0-6-god-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-11-13T12:08:41.401Z",
+          "lastSeenAt": "2026-11-13T12:08:41.401Z",
+          "currentPriceCents": 380,
+          "currentPriceEurCents": 380,
+          "referencePriceCents": 380,
+          "referencePriceEurCents": 380
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Otroška zobna pasta Super Mario Strawberry, 0 – 6..., 75 ml",
+          "url": "https://www.dm.si/p/d/2952151/signal-otroska-zobna-pasta-super-mario-strawberry-0-6-let",
+          "isPromo": false,
+          "observedAt": "2026-11-13T12:08:36.860Z",
+          "lastSeenAt": "2026-11-13T12:08:36.860Z",
+          "currentPriceCents": 330,
+          "currentPriceEurCents": 330,
+          "referencePriceCents": 330,
+          "referencePriceEurCents": 330
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkrém Kids epres 0-6 éves korig, 75 ml",
+          "url": "https://www.dm.hu/p/d/2952151/signal-fogkrem-kids-epres-0-6-eves-korig",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:29:46.464Z",
+          "lastSeenAt": "2026-11-13T12:09:07.830Z",
+          "currentPriceCents": 57500,
+          "currentPriceEurCents": 154,
+          "referencePriceCents": 57500,
+          "referencePriceEurCents": 154
+        }
+      ]
+    },
+    {
+      "productId": 11378,
+      "brand": "Signal",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 146.75,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Super Mario Kids dječja pasta za zube Fruity..., 75 g",
+          "url": "https://www.dm.hr/p/d/2721248/signal-super-mario-kids-djecja-pasta-za-zube-fruity-flavour-0-6-god-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-11-24T19:29:10.287Z",
+          "lastSeenAt": "2026-11-24T19:29:10.287Z",
+          "currentPriceCents": 380,
+          "currentPriceEurCents": 380,
+          "referencePriceCents": 380,
+          "referencePriceEurCents": 380
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Otroška zobna pasta Super Mario Fruity, 0 – 6 let, 75 ml",
+          "url": "https://www.dm.si/p/d/2721248/signal-otroska-zobna-pasta-super-mario-fruity-0-6-let",
+          "isPromo": false,
+          "observedAt": "2026-11-24T19:29:04.676Z",
+          "lastSeenAt": "2026-11-24T19:29:04.676Z",
+          "currentPriceCents": 330,
+          "currentPriceEurCents": 330,
+          "referencePriceCents": 330,
+          "referencePriceEurCents": 330
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkrém Kids gyümölcsös, 0-6 éves korig, 75 ml",
+          "url": "https://www.dm.hu/p/d/2721248/signal-fogkrem-kids-gyumolcsos-0-6-eves-korig",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:29:59.422Z",
+          "lastSeenAt": "2026-11-24T19:29:24.741Z",
+          "currentPriceCents": 57500,
+          "currentPriceEurCents": 154,
+          "referencePriceCents": 57500,
+          "referencePriceEurCents": 154
+        }
+      ]
+    },
+    {
+      "productId": 13032,
+      "brand": "Signal",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 146.75,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Super Mario Junior dječja pasta za zube Mild Mint..., 75 g",
+          "url": "https://www.dm.hr/p/d/2952152/signal-super-mario-junior-djecja-pasta-za-zube-mild-mint-flavour-6-13-god-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-11-10T12:34:49.169Z",
+          "lastSeenAt": "2026-11-10T12:34:49.169Z",
+          "currentPriceCents": 380,
+          "currentPriceEurCents": 380,
+          "referencePriceCents": 380,
+          "referencePriceEurCents": 380
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkrém junior 6-13 éves korig, 75 ml",
+          "url": "https://www.dm.hu/p/d/2952152/signal-fogkrem-junior-6-13-eves-korig",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:29:55.346Z",
+          "lastSeenAt": "2026-11-10T12:35:05.271Z",
+          "currentPriceCents": 57500,
+          "currentPriceEurCents": 154,
+          "referencePriceCents": 57500,
+          "referencePriceEurCents": 154
         }
       ]
     },
@@ -448,149 +587,10 @@
       ]
     },
     {
-      "productId": 10116,
-      "brand": "Signal",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 143.59,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Super Mario Kids dječja pasta za zube Strawberry..., 75 g",
-          "url": "https://www.dm.hr/p/d/2952151/signal-super-mario-kids-djecja-pasta-za-zube-strawberry-flavour-0-6-god-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-11-13T12:08:41.401Z",
-          "lastSeenAt": "2026-11-13T12:08:41.401Z",
-          "currentPriceCents": 380,
-          "currentPriceEurCents": 380,
-          "referencePriceCents": 380,
-          "referencePriceEurCents": 380
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Otroška zobna pasta Super Mario Strawberry, 0 – 6..., 75 ml",
-          "url": "https://www.dm.si/p/d/2952151/signal-otroska-zobna-pasta-super-mario-strawberry-0-6-let",
-          "isPromo": false,
-          "observedAt": "2026-11-13T12:08:36.860Z",
-          "lastSeenAt": "2026-11-13T12:08:36.860Z",
-          "currentPriceCents": 330,
-          "currentPriceEurCents": 330,
-          "referencePriceCents": 330,
-          "referencePriceEurCents": 330
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkrém Kids epres 0-6 éves korig, 75 ml",
-          "url": "https://www.dm.hu/p/d/2952151/signal-fogkrem-kids-epres-0-6-eves-korig",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:29:46.464Z",
-          "lastSeenAt": "2026-11-13T12:09:07.830Z",
-          "currentPriceCents": 57500,
-          "currentPriceEurCents": 156,
-          "referencePriceCents": 57500,
-          "referencePriceEurCents": 156
-        }
-      ]
-    },
-    {
-      "productId": 13032,
-      "brand": "Signal",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 143.59,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Super Mario Junior dječja pasta za zube Mild Mint..., 75 g",
-          "url": "https://www.dm.hr/p/d/2952152/signal-super-mario-junior-djecja-pasta-za-zube-mild-mint-flavour-6-13-god-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-11-10T12:34:49.169Z",
-          "lastSeenAt": "2026-11-10T12:34:49.169Z",
-          "currentPriceCents": 380,
-          "currentPriceEurCents": 380,
-          "referencePriceCents": 380,
-          "referencePriceEurCents": 380
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkrém junior 6-13 éves korig, 75 ml",
-          "url": "https://www.dm.hu/p/d/2952152/signal-fogkrem-junior-6-13-eves-korig",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:29:55.346Z",
-          "lastSeenAt": "2026-11-10T12:35:05.271Z",
-          "currentPriceCents": 57500,
-          "currentPriceEurCents": 156,
-          "referencePriceCents": 57500,
-          "referencePriceEurCents": 156
-        }
-      ]
-    },
-    {
-      "productId": 11889,
-      "brand": "wellaflex",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 136,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Power Hold lak za kosu – snaga učvršćivanja 5, 75 ml",
-          "url": "https://www.dm.hr/p/d/1384113/wellaflex-power-hold-lak-za-kosu-snaga-ucvrscivanja-5",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:10.515Z",
-          "lastSeenAt": "2026-11-23T20:09:09.839Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Haarspray Power Halt Form & Finish, 75 ml",
-          "url": "https://www.dm.at/p/d/1384113/wellaflex-haarspray-power-halt-form-und-finish",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:44.201Z",
-          "lastSeenAt": "2026-11-23T20:09:19.025Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Haarlack Power Hold, Reisegröße, 75 ml",
-          "url": "https://www.dm.de/p/d/1384113/wellaflex-haarlack-power-hold-reisegroesse",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:14.777Z",
-          "lastSeenAt": "2026-11-23T20:09:12.367Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
-        }
-      ]
-    },
-    {
       "productId": 12578,
       "brand": "Balea PROFESSIONAL",
       "isCountryExtreme": true,
-      "overallPercentDiff": 135.71,
+      "overallPercentDiff": 137.41,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -659,9 +659,60 @@
           "observedAt": "2026-09-01T12:30:17.495Z",
           "lastSeenAt": "2026-11-18T17:13:25.550Z",
           "currentPriceCents": 51900,
-          "currentPriceEurCents": 140,
+          "currentPriceEurCents": 139,
           "referencePriceCents": 51900,
-          "referencePriceEurCents": 140
+          "referencePriceEurCents": 139
+        }
+      ]
+    },
+    {
+      "productId": 11889,
+      "brand": "wellaflex",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 136,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Power Hold lak za kosu – snaga učvršćivanja 5, 75 ml",
+          "url": "https://www.dm.hr/p/d/1384113/wellaflex-power-hold-lak-za-kosu-snaga-ucvrscivanja-5",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:10.515Z",
+          "lastSeenAt": "2026-11-23T20:09:09.839Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Haarspray Power Halt Form & Finish, 75 ml",
+          "url": "https://www.dm.at/p/d/1384113/wellaflex-haarspray-power-halt-form-und-finish",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:44.201Z",
+          "lastSeenAt": "2026-11-23T20:09:19.025Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Haarlack Power Hold, Reisegröße, 75 ml",
+          "url": "https://www.dm.de/p/d/1384113/wellaflex-haarlack-power-hold-reisegroesse",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:14.777Z",
+          "lastSeenAt": "2026-11-23T20:09:12.367Z",
+          "currentPriceCents": 125,
+          "currentPriceEurCents": 125,
+          "referencePriceCents": 125,
+          "referencePriceEurCents": 125
         }
       ]
     },
@@ -738,9 +789,9 @@
           "observedAt": "2026-09-01T12:30:04.184Z",
           "lastSeenAt": "2026-11-18T17:13:27.543Z",
           "currentPriceCents": 37900,
-          "currentPriceEurCents": 103,
+          "currentPriceEurCents": 101,
           "referencePriceCents": 37900,
-          "referencePriceEurCents": 103
+          "referencePriceEurCents": 101
         }
       ]
     },
@@ -748,7 +799,7 @@
       "productId": 2245,
       "brand": "Dontodent PRO+",
       "isCountryExtreme": true,
-      "overallPercentDiff": 127.27,
+      "overallPercentDiff": 129.17,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -817,9 +868,9 @@
           "observedAt": "2026-11-16T18:29:01.872Z",
           "lastSeenAt": "2026-11-16T18:29:01.872Z",
           "currentPriceCents": 44900,
-          "currentPriceEurCents": 121,
+          "currentPriceEurCents": 120,
           "referencePriceCents": 44900,
-          "referencePriceEurCents": 121
+          "referencePriceEurCents": 120
         }
       ]
     },
@@ -827,7 +878,7 @@
       "productId": 6100,
       "brand": "Dontodent PRO+",
       "isCountryExtreme": true,
-      "overallPercentDiff": 127.27,
+      "overallPercentDiff": 129.17,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -896,9 +947,9 @@
           "observedAt": "2026-09-01T12:31:30.809Z",
           "lastSeenAt": "2026-11-01T15:04:50.279Z",
           "currentPriceCents": 44900,
-          "currentPriceEurCents": 121,
+          "currentPriceEurCents": 120,
           "referencePriceCents": 44900,
-          "referencePriceEurCents": 121
+          "referencePriceEurCents": 120
         }
       ]
     },
@@ -906,7 +957,7 @@
       "productId": 12425,
       "brand": "Oral-B",
       "isCountryExtreme": true,
-      "overallPercentDiff": 120.38,
+      "overallPercentDiff": 122.49,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -933,9 +984,9 @@
           "observedAt": "2026-09-01T12:32:13.914Z",
           "lastSeenAt": "2026-11-14T11:26:01.094Z",
           "currentPriceCents": 77900,
-          "currentPriceEurCents": 211,
+          "currentPriceEurCents": 209,
           "referencePriceCents": 77900,
-          "referencePriceEurCents": 211
+          "referencePriceEurCents": 209
         }
       ]
     },
@@ -1012,9 +1063,9 @@
           "observedAt": "2026-11-23T20:09:25.333Z",
           "lastSeenAt": "2026-11-23T20:09:25.333Z",
           "currentPriceCents": 109900,
-          "currentPriceEurCents": 297,
+          "currentPriceEurCents": 294,
           "referencePriceCents": 109900,
-          "referencePriceEurCents": 297
+          "referencePriceEurCents": 294
         }
       ]
     },
@@ -1059,7 +1110,7 @@
       "productId": 1159,
       "brand": "Jordan",
       "isCountryExtreme": true,
-      "overallPercentDiff": 113.07,
+      "overallPercentDiff": 115.52,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1086,9 +1137,9 @@
           "observedAt": "2026-09-01T12:33:05.046Z",
           "lastSeenAt": "2026-11-07T14:53:41.614Z",
           "currentPriceCents": 64900,
-          "currentPriceEurCents": 176,
+          "currentPriceEurCents": 174,
           "referencePriceCents": 64900,
-          "referencePriceEurCents": 176
+          "referencePriceEurCents": 174
         }
       ]
     },
@@ -1096,7 +1147,7 @@
       "productId": 1188,
       "brand": "Jordan",
       "isCountryExtreme": true,
-      "overallPercentDiff": 113.07,
+      "overallPercentDiff": 115.52,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1123,60 +1174,9 @@
           "observedAt": "2026-09-01T12:30:32.566Z",
           "lastSeenAt": "2026-11-06T12:04:35.434Z",
           "currentPriceCents": 64900,
-          "currentPriceEurCents": 176,
+          "currentPriceEurCents": 174,
           "referencePriceCents": 64900,
-          "referencePriceEurCents": 176
-        }
-      ]
-    },
-    {
-      "productId": 11663,
-      "brand": "Braun",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 111.17,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Pulsni oksimetar za prst, 1 kom.",
-          "url": "https://www.dm.hr/p/d/1678223/braun-pulsni-oksimetar-za-prst",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:09.256Z",
-          "lastSeenAt": "2026-11-13T12:08:41.401Z",
-          "currentPriceCents": 3685,
-          "currentPriceEurCents": 3685,
-          "referencePriceCents": 3685,
-          "referencePriceEurCents": 3685
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Sauerstoffmessgerät, 1 St",
-          "url": "https://www.dm.at/p/d/1678223/braun-sauerstoffmessgeraet",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:38:02.169Z",
-          "lastSeenAt": "2026-11-13T12:08:48.346Z",
-          "currentPriceCents": 2990,
-          "currentPriceEurCents": 2990,
-          "referencePriceCents": 2990,
-          "referencePriceEurCents": 2990
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Pulsoximeter, 1 St",
-          "url": "https://www.dm.de/p/d/1678223/braun-pulsoximeter",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:16.762Z",
-          "lastSeenAt": "2026-11-13T12:08:53.497Z",
-          "currentPriceCents": 1745,
-          "currentPriceEurCents": 1745,
-          "referencePriceCents": 1745,
-          "referencePriceEurCents": 1745
+          "referencePriceEurCents": 174
         }
       ]
     },
@@ -1184,7 +1184,7 @@
       "productId": 5201,
       "brand": "Balea PROFESSIONAL",
       "isCountryExtreme": true,
-      "overallPercentDiff": 110.71,
+      "overallPercentDiff": 112.23,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1253,9 +1253,9 @@
           "observedAt": "2026-09-01T12:31:35.276Z",
           "lastSeenAt": "2026-11-15T15:38:48.145Z",
           "currentPriceCents": 51900,
-          "currentPriceEurCents": 140,
+          "currentPriceEurCents": 139,
           "referencePriceCents": 51900,
-          "referencePriceEurCents": 140
+          "referencePriceEurCents": 139
         }
       ]
     },
@@ -1263,7 +1263,7 @@
       "productId": 2237,
       "brand": "Aquafresh",
       "isCountryExtreme": true,
-      "overallPercentDiff": 109.09,
+      "overallPercentDiff": 111.66,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1290,9 +1290,97 @@
           "observedAt": "2026-09-01T12:31:42.358Z",
           "lastSeenAt": "2026-11-23T20:09:23.543Z",
           "currentPriceCents": 60900,
-          "currentPriceEurCents": 165,
+          "currentPriceEurCents": 163,
           "referencePriceCents": 60900,
-          "referencePriceEurCents": 165
+          "referencePriceEurCents": 163
+        }
+      ]
+    },
+    {
+      "productId": 11663,
+      "brand": "Braun",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 111.17,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Pulsni oksimetar za prst, 1 kom.",
+          "url": "https://www.dm.hr/p/d/1678223/braun-pulsni-oksimetar-za-prst",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:09.256Z",
+          "lastSeenAt": "2026-11-13T12:08:41.401Z",
+          "currentPriceCents": 3685,
+          "currentPriceEurCents": 3685,
+          "referencePriceCents": 3685,
+          "referencePriceEurCents": 3685
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Sauerstoffmessgerät, 1 St",
+          "url": "https://www.dm.at/p/d/1678223/braun-sauerstoffmessgeraet",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:38:02.169Z",
+          "lastSeenAt": "2026-11-13T12:08:48.346Z",
+          "currentPriceCents": 2990,
+          "currentPriceEurCents": 2990,
+          "referencePriceCents": 2990,
+          "referencePriceEurCents": 2990
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Pulsoximeter, 1 St",
+          "url": "https://www.dm.de/p/d/1678223/braun-pulsoximeter",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:16.762Z",
+          "lastSeenAt": "2026-11-13T12:08:53.497Z",
+          "currentPriceCents": 1745,
+          "currentPriceEurCents": 1745,
+          "referencePriceCents": 1745,
+          "referencePriceEurCents": 1745
+        }
+      ]
+    },
+    {
+      "productId": 2197,
+      "brand": "Aquafresh",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 108.82,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "little teeth dječja četkica za zube, 3 - 5 god., 1 kom.",
+          "url": "https://www.dm.hr/p/d/2077746/aquafresh-little-teeth-djecja-cetkica-za-zube-3-5-god",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:57:17.884Z",
+          "lastSeenAt": "2026-10-28T15:04:53.135Z",
+          "currentPriceCents": 355,
+          "currentPriceEurCents": 355,
+          "referencePriceCents": 355,
+          "referencePriceEurCents": 355
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkefe 3-5 éves korig, 1 db",
+          "url": "https://www.dm.hu/p/d/2077746/aquafresh-fogkefe-3-5-eves-korig",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:29:59.422Z",
+          "lastSeenAt": "2026-10-28T15:05:18.088Z",
+          "currentPriceCents": 63500,
+          "currentPriceEurCents": 170,
+          "referencePriceCents": 63500,
+          "referencePriceEurCents": 170
         }
       ]
     },
@@ -1399,47 +1487,10 @@
       ]
     },
     {
-      "productId": 2197,
-      "brand": "Aquafresh",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 106.4,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "little teeth dječja četkica za zube, 3 - 5 god., 1 kom.",
-          "url": "https://www.dm.hr/p/d/2077746/aquafresh-little-teeth-djecja-cetkica-za-zube-3-5-god",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:57:17.884Z",
-          "lastSeenAt": "2026-10-28T15:04:53.135Z",
-          "currentPriceCents": 355,
-          "currentPriceEurCents": 355,
-          "referencePriceCents": 355,
-          "referencePriceEurCents": 355
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkefe 3-5 éves korig, 1 db",
-          "url": "https://www.dm.hu/p/d/2077746/aquafresh-fogkefe-3-5-eves-korig",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:29:59.422Z",
-          "lastSeenAt": "2026-10-28T15:05:18.088Z",
-          "currentPriceCents": 63500,
-          "currentPriceEurCents": 172,
-          "referencePriceCents": 63500,
-          "referencePriceEurCents": 172
-        }
-      ]
-    },
-    {
       "productId": 456,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 103.7,
+      "overallPercentDiff": 106.25,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1508,9 +1559,9 @@
           "observedAt": "2026-09-01T12:31:28.672Z",
           "lastSeenAt": "2026-11-12T16:47:03.782Z",
           "currentPriceCents": 59900,
-          "currentPriceEurCents": 162,
+          "currentPriceEurCents": 160,
           "referencePriceCents": 59900,
-          "referencePriceEurCents": 162
+          "referencePriceEurCents": 160
         }
       ]
     },
@@ -1518,7 +1569,7 @@
       "productId": 5791,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 103.7,
+      "overallPercentDiff": 106.25,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1587,9 +1638,9 @@
           "observedAt": "2026-09-01T12:29:46.464Z",
           "lastSeenAt": "2026-11-05T12:16:05.537Z",
           "currentPriceCents": 59900,
-          "currentPriceEurCents": 162,
+          "currentPriceEurCents": 160,
           "referencePriceCents": 59900,
-          "referencePriceEurCents": 162
+          "referencePriceEurCents": 160
         }
       ]
     },
@@ -1597,7 +1648,7 @@
       "productId": 7648,
       "brand": "trend !t up",
       "isCountryExtreme": true,
-      "overallPercentDiff": 103.7,
+      "overallPercentDiff": 105.22,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1624,88 +1675,9 @@
           "observedAt": "2026-09-01T12:30:55.609Z",
           "lastSeenAt": "2026-11-13T12:09:04.712Z",
           "currentPriceCents": 49900,
-          "currentPriceEurCents": 135,
+          "currentPriceEurCents": 134,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 135
-        }
-      ]
-    },
-    {
-      "productId": 8783,
-      "brand": "Profissimo",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 103.7,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Krpa za brisanje prašine i mokro čišćenje od..., 3 kom.",
-          "url": "https://www.dm.hr/p/d/1494453/profissimo-krpa-za-brisanje-prasine-i-mokro-ciscenje-od-mikrovlakana-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:51.588Z",
-          "lastSeenAt": "2026-10-27T14:27:09.015Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Krpa iz mikrovlaken z rebrasto površino, 3 kos",
-          "url": "https://www.dm.si/p/d/1494453/profissimo-krpa-iz-mikrovlaken-z-rebrasto-povrsino",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:49.766Z",
-          "lastSeenAt": "2026-10-27T14:27:12.808Z",
-          "currentPriceCents": 135,
-          "currentPriceEurCents": 135,
-          "referencePriceCents": 135,
-          "referencePriceEurCents": 135
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Reinigungstücher aus Mikrofeinfaser, 3 St",
-          "url": "https://www.dm.at/p/d/1494453/profissimo-reinigungstuecher-aus-mikrofeinfaser",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:06.799Z",
-          "lastSeenAt": "2026-10-27T14:27:19.163Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Reinigungstücher Mikrofeinfaser, 3 St",
-          "url": "https://www.dm.de/p/d/1494453/profissimo-reinigungstuecher-mikrofeinfaser",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:51.188Z",
-          "lastSeenAt": "2026-10-27T14:27:24.951Z",
-          "currentPriceCents": 225,
-          "currentPriceEurCents": 225,
-          "referencePriceCents": 225,
-          "referencePriceEurCents": 225
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Mikroszálas prémium törlőkendő, 3 db",
-          "url": "https://www.dm.hu/p/d/1494453/profissimo-mikroszalas-premium-torlokendo",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:02.558Z",
-          "lastSeenAt": "2026-10-27T14:27:30.381Z",
-          "currentPriceCents": 99900,
-          "currentPriceEurCents": 270,
-          "referencePriceCents": 99900,
-          "referencePriceEurCents": 270
+          "referencePriceEurCents": 134
         }
       ]
     }

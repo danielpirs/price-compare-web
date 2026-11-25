@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-24T15:38:04.986Z",
+  "generatedAt": "2026-11-25T15:22:33.387Z",
   "fx": {
-    "asOf": "2026-11-24",
+    "asOf": "2026-11-25",
     "rates": {
-      "USD": 1.0963,
-      "JPY": 174.39,
-      "CZK": 24.428,
-      "DKK": 7.4744,
-      "GBP": 0.837,
-      "HUF": 369.7,
-      "PLN": 4.4599,
-      "RON": 5.3442,
-      "SEK": 11.221,
-      "CHF": 0.9183,
+      "USD": 1.0935,
+      "JPY": 174.22,
+      "CZK": 24.435,
+      "DKK": 7.4743,
+      "GBP": 0.8373,
+      "HUF": 373.44,
+      "PLN": 4.48,
+      "RON": 5.343,
+      "SEK": 11.2385,
+      "CHF": 0.9085,
       "ISK": 137.2,
-      "NOK": 10.735,
-      "TRY": 55.5029,
-      "AUD": 1.6507,
-      "BRL": 6.4349,
-      "CAD": 1.5707,
-      "CNY": 7.3063,
-      "HKD": 8.597,
-      "IDR": 19983.58,
-      "ILS": 3.6618,
-      "INR": 101.867,
-      "KRW": 1473.99,
-      "MXN": 21.1238,
-      "MYR": 4.5118,
-      "NZD": 2.0038,
-      "PHP": 69.929,
-      "SGD": 1.4141,
-      "THB": 37.197,
-      "ZAR": 19.2333
+      "NOK": 10.7778,
+      "TRY": 55.4163,
+      "AUD": 1.6644,
+      "BRL": 6.4531,
+      "CAD": 1.5591,
+      "CNY": 7.2999,
+      "HKD": 8.5709,
+      "IDR": 20055.72,
+      "ILS": 3.6948,
+      "INR": 100.859,
+      "KRW": 1471.19,
+      "MXN": 21.5422,
+      "MYR": 4.5047,
+      "NZD": 2.0046,
+      "PHP": 69.558,
+      "SGD": 1.4129,
+      "THB": 37.321,
+      "ZAR": 19.3514
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -39,6 +39,57 @@
   "countryCode": "DE",
   "kind": "most-expensive",
   "items": [
+    {
+      "productId": 2079,
+      "brand": "Profissimo",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 187.5,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Lopar za muhe, več različic, 1 kos",
+          "url": "https://www.dm.si/p/d/1339880/profissimo-lopar-za-muhe-vec-razlicic",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:56:31.202Z",
+          "lastSeenAt": "2026-11-24T19:29:04.676Z",
+          "currentPriceCents": 40,
+          "currentPriceEurCents": 40,
+          "referencePriceCents": 40,
+          "referencePriceEurCents": 40
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Fliegenklatsche, 1 St",
+          "url": "https://www.dm.at/p/d/1339880/profissimo-fliegenklatsche",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:06.799Z",
+          "lastSeenAt": "2026-11-24T19:29:14.459Z",
+          "currentPriceCents": 85,
+          "currentPriceEurCents": 85,
+          "referencePriceCents": 85,
+          "referencePriceEurCents": 85
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Fliegenklatsche, 1 St",
+          "url": "https://www.dm.de/p/d/1339880/profissimo-fliegenklatsche",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:04.229Z",
+          "lastSeenAt": "2026-11-24T19:29:20.274Z",
+          "currentPriceCents": 115,
+          "currentPriceEurCents": 115,
+          "referencePriceCents": 115,
+          "referencePriceEurCents": 115
+        }
+      ]
+    },
     {
       "productId": 26903,
       "brand": "Swirl",
@@ -80,7 +131,7 @@
       "productId": 3575,
       "brand": "Visiomax",
       "isCountryExtreme": true,
-      "overallPercentDiff": 127.11,
+      "overallPercentDiff": 129.54,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -135,9 +186,9 @@
           "observedAt": "2026-09-01T12:30:07.326Z",
           "lastSeenAt": "2026-11-18T17:13:25.550Z",
           "currentPriceCents": 104900,
-          "currentPriceEurCents": 284,
+          "currentPriceEurCents": 281,
           "referencePriceCents": 104900,
-          "referencePriceEurCents": 284
+          "referencePriceEurCents": 281
         }
       ]
     },
@@ -284,7 +335,7 @@
       "productId": 16954,
       "brand": "sundance",
       "isCountryExtreme": true,
-      "overallPercentDiff": 101.69,
+      "overallPercentDiff": 102.38,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -339,9 +390,9 @@
           "observedAt": "2026-09-01T12:31:32.921Z",
           "lastSeenAt": "2026-11-05T12:16:05.537Z",
           "currentPriceCents": 109900,
-          "currentPriceEurCents": 297,
+          "currentPriceEurCents": 294,
           "referencePriceCents": 109900,
-          "referencePriceEurCents": 297
+          "referencePriceEurCents": 294
         }
       ]
     },
@@ -349,7 +400,7 @@
       "productId": 7641,
       "brand": "alverde NATURKOSMETIK MEN",
       "isCountryExtreme": true,
-      "overallPercentDiff": 93.18,
+      "overallPercentDiff": 94.66,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -390,9 +441,9 @@
           "observedAt": "2026-09-01T12:31:17.754Z",
           "lastSeenAt": "2026-10-28T15:05:18.088Z",
           "currentPriceCents": 48900,
-          "currentPriceEurCents": 132,
+          "currentPriceEurCents": 131,
           "referencePriceCents": 48900,
-          "referencePriceEurCents": 132
+          "referencePriceEurCents": 131
         }
       ]
     },
@@ -485,6 +536,71 @@
       ]
     },
     {
+      "productId": 41878,
+      "brand": "Balea",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 84.58,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Fußmaske Socken Hornhaut Entferner Ferse (1 Paar), 2 St",
+          "url": "https://www.dm.de/p/d/3136418/balea-fussmaske-socken-hornhaut-entferner-ferse-1-paar",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:40:46.322Z",
+          "lastSeenAt": "2026-11-06T12:04:31.813Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Fußmaske Anti-Hornhaut Ferse (1 Paar), 2 St",
+          "url": "https://www.dm.at/p/d/3136418/balea-fussmaske-anti-hornhaut-ferse-1-paar",
+          "isPromo": false,
+          "observedAt": "2026-09-07T14:14:09.459Z",
+          "lastSeenAt": "2026-11-06T12:04:24.232Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Maska za odstranjevanje trde kože na pet, 1 par",
+          "url": "https://www.dm.si/p/d/3136418/balea-maska-za-odstranjevanje-trde-koze-na-pet",
+          "isPromo": false,
+          "observedAt": "2026-10-07T15:32:07.896Z",
+          "lastSeenAt": "2026-11-06T12:03:25.513Z",
+          "currentPriceCents": 340,
+          "currentPriceEurCents": 340,
+          "referencePriceCents": 340,
+          "referencePriceEurCents": 340
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Bőrkeményedés elleni sarokmaszk, 1 Pár",
+          "url": "https://www.dm.hu/p/d/3136418/balea-borkemenyedes-elleni-sarokmaszk",
+          "isPromo": false,
+          "observedAt": "2026-10-07T15:32:33.137Z",
+          "lastSeenAt": "2026-11-06T12:04:33.350Z",
+          "currentPriceCents": 79900,
+          "currentPriceEurCents": 214,
+          "referencePriceCents": 79900,
+          "referencePriceEurCents": 214
+        }
+      ]
+    },
+    {
       "productId": 5277,
       "brand": "Sanft&Sicher",
       "isCountryExtreme": true,
@@ -557,74 +673,9 @@
           "observedAt": "2026-09-01T12:31:46.773Z",
           "lastSeenAt": "2026-10-27T14:27:30.381Z",
           "currentPriceCents": 49900,
-          "currentPriceEurCents": 135,
+          "currentPriceEurCents": 134,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 135
-        }
-      ]
-    },
-    {
-      "productId": 41878,
-      "brand": "Balea",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 82.87,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Fußmaske Socken Hornhaut Entferner Ferse (1 Paar), 2 St",
-          "url": "https://www.dm.de/p/d/3136418/balea-fussmaske-socken-hornhaut-entferner-ferse-1-paar",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:46.322Z",
-          "lastSeenAt": "2026-11-06T12:04:31.813Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Fußmaske Anti-Hornhaut Ferse (1 Paar), 2 St",
-          "url": "https://www.dm.at/p/d/3136418/balea-fussmaske-anti-hornhaut-ferse-1-paar",
-          "isPromo": false,
-          "observedAt": "2026-09-07T14:14:09.459Z",
-          "lastSeenAt": "2026-11-06T12:04:24.232Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Maska za odstranjevanje trde kože na pet, 1 par",
-          "url": "https://www.dm.si/p/d/3136418/balea-maska-za-odstranjevanje-trde-koze-na-pet",
-          "isPromo": false,
-          "observedAt": "2026-10-07T15:32:07.896Z",
-          "lastSeenAt": "2026-11-06T12:03:25.513Z",
-          "currentPriceCents": 340,
-          "currentPriceEurCents": 340,
-          "referencePriceCents": 340,
-          "referencePriceEurCents": 340
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Bőrkeményedés elleni sarokmaszk, 1 Pár",
-          "url": "https://www.dm.hu/p/d/3136418/balea-borkemenyedes-elleni-sarokmaszk",
-          "isPromo": false,
-          "observedAt": "2026-10-07T15:32:33.137Z",
-          "lastSeenAt": "2026-11-06T12:04:33.350Z",
-          "currentPriceCents": 79900,
-          "currentPriceEurCents": 216,
-          "referencePriceCents": 79900,
-          "referencePriceEurCents": 216
+          "referencePriceEurCents": 134
         }
       ]
     },
@@ -632,7 +683,7 @@
       "productId": 44030,
       "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 81.48,
+      "overallPercentDiff": 82.84,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -659,9 +710,9 @@
           "observedAt": "2026-09-01T12:30:45.278Z",
           "lastSeenAt": "2026-11-11T16:08:05.457Z",
           "currentPriceCents": 49900,
-          "currentPriceEurCents": 135,
+          "currentPriceEurCents": 134,
           "referencePriceCents": 49900,
-          "referencePriceEurCents": 135
+          "referencePriceEurCents": 134
         }
       ]
     },
@@ -669,7 +720,7 @@
       "productId": 43430,
       "brand": "SEINZ.",
       "isCountryExtreme": true,
-      "overallPercentDiff": 80.56,
+      "overallPercentDiff": 82.24,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -696,9 +747,9 @@
           "observedAt": "2026-09-01T12:30:01.877Z",
           "lastSeenAt": "2026-10-29T15:12:42.006Z",
           "currentPriceCents": 39900,
-          "currentPriceEurCents": 108,
+          "currentPriceEurCents": 107,
           "referencePriceCents": 39900,
-          "referencePriceEurCents": 108
+          "referencePriceEurCents": 107
         },
         {
           "countryCode": "AT",
@@ -990,6 +1041,57 @@
       ]
     },
     {
+      "productId": 63914,
+      "brand": "SauBär",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 65.2,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Zaubersocken, 1 St",
+          "url": "https://www.dm.de/p/d/3135745/saubaer-zaubersocken",
+          "isPromo": false,
+          "observedAt": "2026-09-25T13:44:03.056Z",
+          "lastSeenAt": "2026-11-24T19:29:17.154Z",
+          "currentPriceCents": 375,
+          "currentPriceEurCents": 375,
+          "referencePriceCents": 375,
+          "referencePriceEurCents": 375
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Zaubersocken sortiert, 1 St",
+          "url": "https://www.dm.at/p/d/3135745/saubaer-zaubersocken-sortiert",
+          "isPromo": false,
+          "observedAt": "2026-09-25T13:44:09.066Z",
+          "lastSeenAt": "2026-11-24T19:29:14.459Z",
+          "currentPriceCents": 375,
+          "currentPriceEurCents": 375,
+          "referencePriceCents": 375,
+          "referencePriceEurCents": 375
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Varázszokni, 26-34 méret, többféle, 1 db",
+          "url": "https://www.dm.hu/p/d/3135745/saubar-varazszokni-26-34-meret-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-11-24T19:29:23.149Z",
+          "lastSeenAt": "2026-11-24T19:29:23.149Z",
+          "currentPriceCents": 84900,
+          "currentPriceEurCents": 227,
+          "referencePriceCents": 84900,
+          "referencePriceEurCents": 227
+        }
+      ]
+    },
+    {
       "productId": 3359,
       "brand": "Profissimo",
       "isCountryExtreme": true,
@@ -1092,6 +1194,43 @@
       ]
     },
     {
+      "productId": 9525,
+      "brand": "Balea MEN",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 60.61,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Četkica za brijanje Professional, 1 kom.",
+          "url": "https://www.dm.hr/p/d/1426289/balea-men-cetkica-za-brijanje-professional",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:56.123Z",
+          "lastSeenAt": "2026-11-24T19:29:10.287Z",
+          "currentPriceCents": 495,
+          "currentPriceEurCents": 495,
+          "referencePriceCents": 495,
+          "referencePriceEurCents": 495
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Rasierpinsel Professional, 1 St",
+          "url": "https://www.dm.de/p/d/1426289/balea-men-rasierpinsel-professional",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:19.091Z",
+          "lastSeenAt": "2026-11-24T19:29:20.274Z",
+          "currentPriceCents": 795,
+          "currentPriceEurCents": 795,
+          "referencePriceCents": 795,
+          "referencePriceEurCents": 795
+        }
+      ]
+    },
+    {
       "productId": 16392,
       "brand": "Visiomax",
       "isCountryExtreme": true,
@@ -1132,7 +1271,7 @@
       "productId": 57534,
       "brand": "WILKINSON SWORD",
       "isCountryExtreme": true,
-      "overallPercentDiff": 58.7,
+      "overallPercentDiff": 60.19,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1145,9 +1284,9 @@
           "observedAt": "2026-09-01T12:31:07.865Z",
           "lastSeenAt": "2026-11-20T16:56:35.048Z",
           "currentPriceCents": 278500,
-          "currentPriceEurCents": 753,
+          "currentPriceEurCents": 746,
           "referencePriceCents": 278500,
-          "referencePriceEurCents": 753
+          "referencePriceEurCents": 746
         },
         {
           "countryCode": "DE",
@@ -1203,47 +1342,10 @@
       ]
     },
     {
-      "productId": 17954,
-      "brand": "Ritex",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 56.18,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "BIO lubrikant, 50 ml",
-          "url": "https://www.dm.si/p/d/1426264/ritex-bio-lubrikant",
-          "isPromo": false,
-          "observedAt": "2026-09-28T16:44:03.713Z",
-          "lastSeenAt": "2026-10-28T15:04:59.594Z",
-          "currentPriceCents": 445,
-          "currentPriceEurCents": 445,
-          "referencePriceCents": 445,
-          "referencePriceEurCents": 445
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "BIO Gleitgel, 50 ml",
-          "url": "https://www.dm.de/p/d/1426264/ritex-bio-gleitgel",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:25.833Z",
-          "lastSeenAt": "2026-10-28T15:05:11.213Z",
-          "currentPriceCents": 695,
-          "currentPriceEurCents": 695,
-          "referencePriceCents": 695,
-          "referencePriceEurCents": 695
-        }
-      ]
-    },
-    {
       "productId": 10637,
       "brand": "alverde BABY",
       "isCountryExtreme": true,
-      "overallPercentDiff": 56.08,
+      "overallPercentDiff": 57.75,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1312,9 +1414,9 @@
           "observedAt": "2026-09-01T12:32:42.830Z",
           "lastSeenAt": "2026-10-31T14:30:54.836Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 189,
+          "currentPriceEurCents": 187,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 189
+          "referencePriceEurCents": 187
         }
       ]
     },
@@ -1322,7 +1424,7 @@
       "productId": 9581,
       "brand": "Balea MEN",
       "isCountryExtreme": true,
-      "overallPercentDiff": 56.08,
+      "overallPercentDiff": 57.75,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1377,111 +1479,9 @@
           "observedAt": "2026-09-01T12:31:05.211Z",
           "lastSeenAt": "2026-11-03T11:54:12.279Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 189,
+          "currentPriceEurCents": 187,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 189
-        }
-      ]
-    },
-    {
-      "productId": 849,
-      "brand": "Mivolis",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 56,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Elastični obliži v traku z motivom rož, 20 kos",
-          "url": "https://www.dm.si/p/d/3134290/mivolis-elasticni-oblizi-v-traku-z-motivom-roz",
-          "isPromo": false,
-          "observedAt": "2026-10-01T15:25:49.466Z",
-          "lastSeenAt": "2026-10-31T14:30:32.565Z",
-          "currentPriceCents": 125,
-          "currentPriceEurCents": 125,
-          "referencePriceCents": 125,
-          "referencePriceEurCents": 125
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Pflasterstrips Elastisch Blume, 20 St",
-          "url": "https://www.dm.de/p/d/3134290/mivolis-pflasterstrips-elastisch-blume",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:48.279Z",
-          "lastSeenAt": "2026-10-31T14:30:51.410Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Pflasterstrips Elastisch Blume, 20 St",
-          "url": "https://www.dm.at/p/d/3134290/mivolis-pflasterstrips-elastisch-blume",
-          "isPromo": false,
-          "observedAt": "2026-09-01T13:29:11.619Z",
-          "lastSeenAt": "2026-10-31T14:30:39.838Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Rugalmas sebtapaszcsíkok, 20 db",
-          "url": "https://www.dm.hu/p/d/3134290/mivolis-rugalmas-sebtapaszcsikok",
-          "isPromo": false,
-          "observedAt": "2026-10-01T15:26:09.549Z",
-          "lastSeenAt": "2026-10-31T14:30:54.836Z",
-          "currentPriceCents": 49900,
-          "currentPriceEurCents": 135,
-          "referencePriceCents": 49900,
-          "referencePriceEurCents": 135
-        }
-      ]
-    },
-    {
-      "productId": 44031,
-      "brand": "LANGHAARMÄDCHEN",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 55.66,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Shampoo Molecular Deep Bond, 300 ml",
-          "url": "https://www.dm.de/p/d/3135111/langhaarmaedchen-shampoo-molecular-deep-bond",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:28.292Z",
-          "lastSeenAt": "2026-11-13T12:08:53.497Z",
-          "currentPriceCents": 495,
-          "currentPriceEurCents": 495,
-          "referencePriceCents": 495,
-          "referencePriceEurCents": 495
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Sampon, struktúra károsodott hajra, 300 ml",
-          "url": "https://www.dm.hu/p/d/3135111/langhaarmadchen-sampon-struktura-karosodott-hajra",
-          "isPromo": true,
-          "observedAt": "2026-11-13T12:09:04.712Z",
-          "lastSeenAt": "2026-11-13T12:09:04.712Z",
-          "currentPriceCents": 99900,
-          "currentPriceEurCents": 270,
-          "referencePriceCents": 117500,
-          "referencePriceEurCents": 318
+          "referencePriceEurCents": 187
         }
       ]
     }
