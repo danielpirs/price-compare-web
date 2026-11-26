@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T15:22:33.387Z",
+  "generatedAt": "2026-11-26T14:50:20.818Z",
   "fx": {
     "asOf": "2026-11-25",
     "rates": {
@@ -356,71 +356,6 @@
           "currentPriceEurCents": 295,
           "referencePriceCents": 295,
           "referencePriceEurCents": 295
-        }
-      ]
-    },
-    {
-      "productId": 10196,
-      "brand": "ebelin",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 139.24,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Ovalna masažna četka za kosu od bambusa, 1 kom.",
-          "url": "https://www.dm.hr/p/d/1545643/ebelin-ovalna-masazna-cetka-za-kosu-od-bambusa",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:01.290Z",
-          "lastSeenAt": "2026-10-27T14:27:05.664Z",
-          "currentPriceCents": 795,
-          "currentPriceEurCents": 795,
-          "referencePriceCents": 795,
-          "referencePriceEurCents": 795
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Masažna krtača za lase iz bambusa, 1 kos",
-          "url": "https://www.dm.si/p/d/1545643/ebelin-masazna-krtaca-za-lase-iz-bambusa",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:56.419Z",
-          "lastSeenAt": "2026-10-27T14:27:12.808Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Kopfmassagebürste Bambus, 1 St",
-          "url": "https://www.dm.at/p/d/1545643/ebelin-kopfmassagebuerste-bambus",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:30.278Z",
-          "lastSeenAt": "2026-10-27T14:27:17.082Z",
-          "currentPriceCents": 945,
-          "currentPriceEurCents": 945,
-          "referencePriceCents": 945,
-          "referencePriceEurCents": 945
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Haarbürste Bambus Massage, 1 St",
-          "url": "https://www.dm.de/p/d/1545643/ebelin-haarbuerste-bambus-massage",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:48.945Z",
-          "lastSeenAt": "2026-10-27T14:27:24.951Z",
-          "currentPriceCents": 845,
-          "currentPriceEurCents": 845,
-          "referencePriceCents": 845,
-          "referencePriceEurCents": 845
         }
       ]
     },
@@ -1729,81 +1664,90 @@
       ]
     },
     {
-      "productId": 10770,
-      "brand": "Denkmit",
+      "productId": 3536,
+      "brand": "Mivolis",
       "isCountryExtreme": true,
-      "overallPercentDiff": 105.26,
+      "overallPercentDiff": 103.7,
       "gapToExtremePercent": 0,
       "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Vlažne maramice za čišćenje ekrana, 20 kom.",
-          "url": "https://www.dm.hr/p/d/1622586/denkmit-vlazne-maramice-za-ciscenje-ekrana",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:04.766Z",
-          "lastSeenAt": "2026-10-27T14:27:05.664Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
-        },
         {
           "countryCode": "SI",
           "shopId": "dm-si",
           "currency": "EUR",
-          "name": "Vlažne krpice za čiščenje zaslonov, 20 kos",
-          "url": "https://www.dm.si/p/d/1622586/denkmit-vlazne-krpice-za-ciscenje-zaslonov",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:08.864Z",
-          "lastSeenAt": "2026-10-27T14:27:12.808Z",
+          "name": "Prehransko dopolnilo z vitamini in minerali, z..., 15 g",
+          "url": "https://www.dm.si/p/d/3104217/mivolis-prehransko-dopolnilo-z-vitamini-in-minerali-z-izvleckom-navadne-konopljike-in-s-plahtico",
+          "isPromo": true,
+          "observedAt": "2026-11-12T16:46:37.945Z",
+          "lastSeenAt": "2026-11-12T16:46:37.945Z",
           "currentPriceCents": 95,
           "currentPriceEurCents": 95,
-          "referencePriceCents": 95,
-          "referencePriceEurCents": 95
+          "referencePriceCents": 135,
+          "referencePriceEurCents": 135
         },
         {
           "countryCode": "AT",
           "shopId": "dm-at",
           "currency": "EUR",
-          "name": "Feuchte Reinigungstücher Bildschirm, 20 St",
-          "url": "https://www.dm.at/p/d/1622586/denkmit-feuchte-reinigungstuecher-bildschirm",
+          "name": "Tabletten Mönchspfeffer Female Balance, 15 g",
+          "url": "https://www.dm.at/p/d/3104217/mivolis-tabletten-moenchspfeffer-female-balance",
           "isPromo": false,
-          "observedAt": "2026-08-30T22:36:28.761Z",
-          "lastSeenAt": "2026-10-27T14:27:19.163Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
+          "observedAt": "2026-08-30T22:36:03.865Z",
+          "lastSeenAt": "2026-11-12T16:46:52.059Z",
+          "currentPriceCents": 250,
+          "currentPriceEurCents": 250,
+          "referencePriceCents": 250,
+          "referencePriceEurCents": 250
         },
         {
           "countryCode": "DE",
           "shopId": "dm-de",
           "currency": "EUR",
-          "name": "Feuchte Reinigungstücher für Bildschirm, 20 St",
-          "url": "https://www.dm.de/p/d/1622586/denkmit-feuchte-reinigungstuecher-fuer-bildschirm",
+          "name": "Mönchspfeffer Tabletten 60 St, 15 g",
+          "url": "https://www.dm.de/p/d/3104217/mivolis-moenchspfeffer-tabletten-60-st",
           "isPromo": false,
-          "observedAt": "2026-08-31T20:40:52.468Z",
-          "lastSeenAt": "2026-10-27T14:27:26.816Z",
-          "currentPriceCents": 145,
-          "currentPriceEurCents": 145,
-          "referencePriceCents": 145,
-          "referencePriceEurCents": 145
+          "observedAt": "2026-08-31T20:40:11.101Z",
+          "lastSeenAt": "2026-11-12T16:46:57.809Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        }
+      ]
+    },
+    {
+      "productId": 17141,
+      "brand": "Fascino",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 103.29,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Samostoječe nogavice 15 DEN, 46-48, 1 kos",
+          "url": "https://www.dm.si/p/d/1560162/fascino-samostojece-nogavice-15-den-46-48",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:34:08.864Z",
+          "lastSeenAt": "2026-11-11T16:07:42.858Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
         },
         {
           "countryCode": "HU",
           "shopId": "dm-hu",
           "currency": "HUF",
-          "name": "Nedves képernyőtisztító kendő, 20 db",
-          "url": "https://www.dm.hu/p/d/1622586/denkmit-nedves-kepernyotisztito-kendo",
+          "name": "Combfix 15 DEN, 46-48 méret, fekete, 1 db",
+          "url": "https://www.dm.hu/p/d/1560162/fascino-combfix-15-den-46-48-meret-fekete",
           "isPromo": false,
-          "observedAt": "2026-09-01T12:30:58.541Z",
-          "lastSeenAt": "2026-10-27T14:27:30.381Z",
-          "currentPriceCents": 59900,
-          "currentPriceEurCents": 160,
-          "referencePriceCents": 59900,
-          "referencePriceEurCents": 160
+          "observedAt": "2026-09-01T12:30:01.877Z",
+          "lastSeenAt": "2026-11-11T16:08:05.457Z",
+          "currentPriceCents": 299900,
+          "currentPriceEurCents": 803,
+          "referencePriceCents": 299900,
+          "referencePriceEurCents": 803
         }
       ]
     }
