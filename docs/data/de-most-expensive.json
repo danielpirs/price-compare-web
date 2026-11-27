@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-26T14:50:20.818Z",
+  "generatedAt": "2026-11-27T14:49:07.498Z",
   "fx": {
-    "asOf": "2026-11-25",
+    "asOf": "2026-11-26",
     "rates": {
-      "USD": 1.0935,
-      "JPY": 174.22,
-      "CZK": 24.435,
-      "DKK": 7.4743,
-      "GBP": 0.8373,
-      "HUF": 373.44,
-      "PLN": 4.48,
-      "RON": 5.343,
-      "SEK": 11.2385,
-      "CHF": 0.9085,
-      "ISK": 137.2,
-      "NOK": 10.7778,
-      "TRY": 55.4163,
-      "AUD": 1.6644,
-      "BRL": 6.4531,
-      "CAD": 1.5591,
-      "CNY": 7.2999,
-      "HKD": 8.5709,
-      "IDR": 20055.72,
-      "ILS": 3.6948,
-      "INR": 100.859,
-      "KRW": 1471.19,
-      "MXN": 21.5422,
-      "MYR": 4.5047,
-      "NZD": 2.0046,
-      "PHP": 69.558,
-      "SGD": 1.4129,
-      "THB": 37.321,
-      "ZAR": 19.3514
+      "USD": 1.0975,
+      "JPY": 174.79,
+      "CZK": 24.453,
+      "DKK": 7.4737,
+      "GBP": 0.83755,
+      "HUF": 372.23,
+      "PLN": 4.4838,
+      "RON": 5.344,
+      "SEK": 11.2025,
+      "CHF": 0.9153,
+      "ISK": 137,
+      "NOK": 10.718,
+      "TRY": 55.6177,
+      "AUD": 1.654,
+      "BRL": 6.3272,
+      "CAD": 1.5617,
+      "CNY": 7.3096,
+      "HKD": 8.6015,
+      "IDR": 20187.03,
+      "ILS": 3.6517,
+      "INR": 101.464,
+      "KRW": 1475.75,
+      "MXN": 21.5893,
+      "MYR": 4.519,
+      "NZD": 2.0033,
+      "PHP": 69.935,
+      "SGD": 1.4163,
+      "THB": 37.386,
+      "ZAR": 19.2646
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -131,7 +131,7 @@
       "productId": 3575,
       "brand": "Visiomax",
       "isCountryExtreme": true,
-      "overallPercentDiff": 129.54,
+      "overallPercentDiff": 128.72,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -186,9 +186,9 @@
           "observedAt": "2026-09-01T12:30:07.326Z",
           "lastSeenAt": "2026-11-18T17:13:25.550Z",
           "currentPriceCents": 104900,
-          "currentPriceEurCents": 281,
+          "currentPriceEurCents": 282,
           "referencePriceCents": 104900,
-          "referencePriceEurCents": 281
+          "referencePriceEurCents": 282
         }
       ]
     },
@@ -335,7 +335,7 @@
       "productId": 16954,
       "brand": "sundance",
       "isCountryExtreme": true,
-      "overallPercentDiff": 102.38,
+      "overallPercentDiff": 101.69,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -390,9 +390,9 @@
           "observedAt": "2026-09-01T12:31:32.921Z",
           "lastSeenAt": "2026-11-05T12:16:05.537Z",
           "currentPriceCents": 109900,
-          "currentPriceEurCents": 294,
+          "currentPriceEurCents": 295,
           "referencePriceCents": 109900,
-          "referencePriceEurCents": 294
+          "referencePriceEurCents": 295
         }
       ]
     },
@@ -536,10 +536,89 @@
       ]
     },
     {
+      "productId": 5277,
+      "brand": "Sanft&Sicher",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 84.21,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Vlažni toaletni papir s 99 % vode, 50 kom.",
+          "url": "https://www.dm.hr/p/d/3081642/sanft-sicher-vlazni-toaletni-papir-s-99-vode",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:42.847Z",
+          "lastSeenAt": "2026-11-26T21:27:06.647Z",
+          "currentPriceCents": 125,
+          "currentPriceEurCents": 125,
+          "referencePriceCents": 125,
+          "referencePriceEurCents": 125
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Vlažni toaletni papir z 99 % vode, 50 kos",
+          "url": "https://www.dm.si/p/d/3081642/sanft-sicher-vlazni-toaletni-papir-z-99-vode",
+          "isPromo": false,
+          "observedAt": "2026-08-30T21:47:45.469Z",
+          "lastSeenAt": "2026-11-26T21:27:02.865Z",
+          "currentPriceCents": 95,
+          "currentPriceEurCents": 95,
+          "referencePriceCents": 95,
+          "referencePriceEurCents": 95
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Feuchtes Toilettenpapier Deluxe 99% Wasser, 50 St",
+          "url": "https://www.dm.at/p/d/3081642/sanft-und-sicher-feuchtes-toilettenpapier-deluxe-99-prozent-wasser",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:36.315Z",
+          "lastSeenAt": "2026-11-26T21:27:11.985Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Feuchtes Toilettenpapier 99%Wasser, 50 St",
+          "url": "https://www.dm.de/p/d/3081642/sanft-und-sicher-feuchtes-toilettenpapier-99-prozent-wasser",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:01.151Z",
+          "lastSeenAt": "2026-11-26T21:27:16.593Z",
+          "currentPriceCents": 175,
+          "currentPriceEurCents": 175,
+          "referencePriceCents": 175,
+          "referencePriceEurCents": 175
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Nedves toalettpapír 99% víztartalommal, 50 db",
+          "url": "https://www.dm.hu/p/d/3081642/sanft-sicher-nedves-toalettpapir-99-viztartalommal",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:46.773Z",
+          "lastSeenAt": "2026-11-26T21:27:20.172Z",
+          "currentPriceCents": 49900,
+          "currentPriceEurCents": 134,
+          "referencePriceCents": 49900,
+          "referencePriceEurCents": 134
+        }
+      ]
+    },
+    {
       "productId": 41878,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 84.58,
+      "overallPercentDiff": 83.72,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -594,9 +673,9 @@
           "observedAt": "2026-10-07T15:32:33.137Z",
           "lastSeenAt": "2026-11-06T12:04:33.350Z",
           "currentPriceCents": 79900,
-          "currentPriceEurCents": 214,
+          "currentPriceEurCents": 215,
           "referencePriceCents": 79900,
-          "referencePriceEurCents": 214
+          "referencePriceEurCents": 215
         }
       ]
     },
@@ -685,6 +764,57 @@
           "currentPriceEurCents": 195,
           "referencePriceCents": 195,
           "referencePriceEurCents": 195
+        }
+      ]
+    },
+    {
+      "productId": 259,
+      "brand": "alverde NATURKOSMETIK MEN",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 75.56,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Rough Nature serum za bradu, 75 MM",
+          "url": "https://www.dm.hr/p/d/1461363/alverde-naturkosmetik-men-rough-nature-serum-za-bradu",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:42:41.200Z",
+          "lastSeenAt": "2026-11-26T21:27:06.647Z",
+          "currentPriceCents": 225,
+          "currentPriceEurCents": 225,
+          "referencePriceCents": 225,
+          "referencePriceEurCents": 225
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Serum za brado ROUGH NATURE, 75 ml",
+          "url": "https://www.dm.si/p/d/1461363/alverde-naturkosmetik-men-serum-za-brado-rough-nature",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:01.846Z",
+          "lastSeenAt": "2026-11-26T21:27:05.310Z",
+          "currentPriceCents": 225,
+          "currentPriceEurCents": 225,
+          "referencePriceCents": 225,
+          "referencePriceEurCents": 225
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Bartserum Rough Nature, 75 ml",
+          "url": "https://www.dm.de/p/d/1461363/alverde-men-bartserum-rough-nature",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:43:13.918Z",
+          "lastSeenAt": "2026-11-26T21:27:15.399Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
         }
       ]
     },
@@ -914,7 +1044,7 @@
       "productId": 63914,
       "brand": "SauBär",
       "isCountryExtreme": true,
-      "overallPercentDiff": 65.2,
+      "overallPercentDiff": 64.47,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -955,9 +1085,9 @@
           "observedAt": "2026-11-24T19:29:23.149Z",
           "lastSeenAt": "2026-11-24T19:29:23.149Z",
           "currentPriceCents": 84900,
-          "currentPriceEurCents": 227,
+          "currentPriceEurCents": 228,
           "referencePriceCents": 84900,
-          "referencePriceEurCents": 227
+          "referencePriceEurCents": 228
         }
       ]
     },
@@ -1141,7 +1271,7 @@
       "productId": 57534,
       "brand": "WILKINSON SWORD",
       "isCountryExtreme": true,
-      "overallPercentDiff": 60.19,
+      "overallPercentDiff": 59.76,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1154,9 +1284,9 @@
           "observedAt": "2026-09-01T12:31:07.865Z",
           "lastSeenAt": "2026-11-20T16:56:35.048Z",
           "currentPriceCents": 278500,
-          "currentPriceEurCents": 746,
+          "currentPriceEurCents": 748,
           "referencePriceCents": 278500,
-          "referencePriceEurCents": 746
+          "referencePriceEurCents": 748
         },
         {
           "countryCode": "DE",
@@ -1215,7 +1345,7 @@
       "productId": 10637,
       "brand": "alverde BABY",
       "isCountryExtreme": true,
-      "overallPercentDiff": 57.75,
+      "overallPercentDiff": 56.91,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1284,9 +1414,9 @@
           "observedAt": "2026-09-01T12:32:42.830Z",
           "lastSeenAt": "2026-10-31T14:30:54.836Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 187,
+          "currentPriceEurCents": 188,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 187
+          "referencePriceEurCents": 188
         }
       ]
     },
@@ -1294,7 +1424,7 @@
       "productId": 9581,
       "brand": "Balea MEN",
       "isCountryExtreme": true,
-      "overallPercentDiff": 57.75,
+      "overallPercentDiff": 56.91,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1349,83 +1479,9 @@
           "observedAt": "2026-09-01T12:31:05.211Z",
           "lastSeenAt": "2026-11-03T11:54:12.279Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 187,
+          "currentPriceEurCents": 188,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 187
-        }
-      ]
-    },
-    {
-      "productId": 44031,
-      "brand": "LANGHAARMÄDCHEN",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 57.14,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Shampoo Molecular Deep Bond, 300 ml",
-          "url": "https://www.dm.de/p/d/3135111/langhaarmaedchen-shampoo-molecular-deep-bond",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:28.292Z",
-          "lastSeenAt": "2026-11-13T12:08:53.497Z",
-          "currentPriceCents": 495,
-          "currentPriceEurCents": 495,
-          "referencePriceCents": 495,
-          "referencePriceEurCents": 495
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Sampon, struktúra károsodott hajra, 300 ml",
-          "url": "https://www.dm.hu/p/d/3135111/langhaarmadchen-sampon-struktura-karosodott-hajra",
-          "isPromo": true,
-          "observedAt": "2026-11-13T12:09:04.712Z",
-          "lastSeenAt": "2026-11-13T12:09:04.712Z",
-          "currentPriceCents": 99900,
-          "currentPriceEurCents": 268,
-          "referencePriceCents": 117500,
-          "referencePriceEurCents": 315
-        }
-      ]
-    },
-    {
-      "productId": 17954,
-      "brand": "Ritex",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 56.18,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "BIO lubrikant, 50 ml",
-          "url": "https://www.dm.si/p/d/1426264/ritex-bio-lubrikant",
-          "isPromo": false,
-          "observedAt": "2026-09-28T16:44:03.713Z",
-          "lastSeenAt": "2026-10-28T15:04:59.594Z",
-          "currentPriceCents": 445,
-          "currentPriceEurCents": 445,
-          "referencePriceCents": 445,
-          "referencePriceEurCents": 445
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "BIO Gleitgel, 50 ml",
-          "url": "https://www.dm.de/p/d/1426264/ritex-bio-gleitgel",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:43:25.833Z",
-          "lastSeenAt": "2026-10-28T15:05:11.213Z",
-          "currentPriceCents": 695,
-          "currentPriceEurCents": 695,
-          "referencePriceCents": 695,
-          "referencePriceEurCents": 695
+          "referencePriceEurCents": 188
         }
       ]
     }

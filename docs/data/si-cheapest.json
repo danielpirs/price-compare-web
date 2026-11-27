@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-26T14:50:20.818Z",
+  "generatedAt": "2026-11-27T14:49:07.498Z",
   "fx": {
-    "asOf": "2026-11-25",
+    "asOf": "2026-11-26",
     "rates": {
-      "USD": 1.0935,
-      "JPY": 174.22,
-      "CZK": 24.435,
-      "DKK": 7.4743,
-      "GBP": 0.8373,
-      "HUF": 373.44,
-      "PLN": 4.48,
-      "RON": 5.343,
-      "SEK": 11.2385,
-      "CHF": 0.9085,
-      "ISK": 137.2,
-      "NOK": 10.7778,
-      "TRY": 55.4163,
-      "AUD": 1.6644,
-      "BRL": 6.4531,
-      "CAD": 1.5591,
-      "CNY": 7.2999,
-      "HKD": 8.5709,
-      "IDR": 20055.72,
-      "ILS": 3.6948,
-      "INR": 100.859,
-      "KRW": 1471.19,
-      "MXN": 21.5422,
-      "MYR": 4.5047,
-      "NZD": 2.0046,
-      "PHP": 69.558,
-      "SGD": 1.4129,
-      "THB": 37.321,
-      "ZAR": 19.3514
+      "USD": 1.0975,
+      "JPY": 174.79,
+      "CZK": 24.453,
+      "DKK": 7.4737,
+      "GBP": 0.83755,
+      "HUF": 372.23,
+      "PLN": 4.4838,
+      "RON": 5.344,
+      "SEK": 11.2025,
+      "CHF": 0.9153,
+      "ISK": 137,
+      "NOK": 10.718,
+      "TRY": 55.6177,
+      "AUD": 1.654,
+      "BRL": 6.3272,
+      "CAD": 1.5617,
+      "CNY": 7.3096,
+      "HKD": 8.6015,
+      "IDR": 20187.03,
+      "ILS": 3.6517,
+      "INR": 101.464,
+      "KRW": 1475.75,
+      "MXN": 21.5893,
+      "MYR": 4.519,
+      "NZD": 2.0033,
+      "PHP": 69.935,
+      "SGD": 1.4163,
+      "THB": 37.386,
+      "ZAR": 19.2646
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -43,7 +43,7 @@
       "productId": 2140,
       "brand": "ebelin",
       "isCountryExtreme": true,
-      "overallPercentDiff": 227.22,
+      "overallPercentDiff": 228.33,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -112,9 +112,9 @@
           "observedAt": "2026-09-01T12:31:00.665Z",
           "lastSeenAt": "2026-11-14T11:25:59.531Z",
           "currentPriceCents": 219900,
-          "currentPriceEurCents": 589,
+          "currentPriceEurCents": 591,
           "referencePriceCents": 219900,
-          "referencePriceEurCents": 589
+          "referencePriceEurCents": 591
         }
       ]
     },
@@ -122,7 +122,7 @@
       "productId": 5557,
       "brand": "Profissimo",
       "isCountryExtreme": true,
-      "overallPercentDiff": 220,
+      "overallPercentDiff": 221.82,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -177,9 +177,9 @@
           "observedAt": "2026-09-01T12:30:58.541Z",
           "lastSeenAt": "2026-10-31T14:30:54.836Z",
           "currentPriceCents": 65900,
-          "currentPriceEurCents": 176,
+          "currentPriceEurCents": 177,
           "referencePriceCents": 65900,
-          "referencePriceEurCents": 176
+          "referencePriceEurCents": 177
         }
       ]
     },
@@ -238,7 +238,7 @@
       "productId": 5519,
       "brand": "Denkmit",
       "isCountryExtreme": true,
-      "overallPercentDiff": 147.18,
+      "overallPercentDiff": 147.69,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -279,9 +279,9 @@
           "observedAt": "2026-09-01T12:30:01.877Z",
           "lastSeenAt": "2026-11-02T18:17:25.790Z",
           "currentPriceCents": 179900,
-          "currentPriceEurCents": 482,
+          "currentPriceEurCents": 483,
           "referencePriceCents": 179900,
-          "referencePriceEurCents": 482
+          "referencePriceEurCents": 483
         }
       ]
     },
@@ -360,6 +360,150 @@
       ]
     },
     {
+      "productId": 10196,
+      "brand": "ebelin",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 139.24,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Ovalna masažna četka za kosu od bambusa, 1 kom.",
+          "url": "https://www.dm.hr/p/d/1545643/ebelin-ovalna-masazna-cetka-za-kosu-od-bambusa",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:01.290Z",
+          "lastSeenAt": "2026-11-26T21:27:08.419Z",
+          "currentPriceCents": 795,
+          "currentPriceEurCents": 795,
+          "referencePriceCents": 795,
+          "referencePriceEurCents": 795
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Masažna krtača za lase iz bambusa, 1 kos",
+          "url": "https://www.dm.si/p/d/1545643/ebelin-masazna-krtaca-za-lase-iz-bambusa",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:56.419Z",
+          "lastSeenAt": "2026-11-26T21:27:05.310Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Haarbürste Massage Bambus, 1 St",
+          "url": "https://www.dm.at/p/d/1545643/ebelin-haarbuerste-massage-bambus",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:30.278Z",
+          "lastSeenAt": "2026-11-26T21:27:11.985Z",
+          "currentPriceCents": 945,
+          "currentPriceEurCents": 945,
+          "referencePriceCents": 945,
+          "referencePriceEurCents": 945
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Haarbürste Bambus Massage, 1 St",
+          "url": "https://www.dm.de/p/d/1545643/ebelin-haarbuerste-bambus-massage",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:48.945Z",
+          "lastSeenAt": "2026-11-26T21:27:16.593Z",
+          "currentPriceCents": 845,
+          "currentPriceEurCents": 845,
+          "referencePriceCents": 845,
+          "referencePriceEurCents": 845
+        }
+      ]
+    },
+    {
+      "productId": 10277,
+      "brand": "Erdal",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 138.67,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Sredstvo za popravak bijele boje, 75 ml",
+          "url": "https://www.dm.hr/p/d/1713492/erdal-sredstvo-za-popravak-bijele-boje",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:01.290Z",
+          "lastSeenAt": "2026-11-17T13:17:54.813Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Sredstvo za obnovitev barve čevljev, 75 ml",
+          "url": "https://www.dm.si/p/d/1713492/erdal-sredstvo-za-obnovitev-barve-cevljev",
+          "isPromo": false,
+          "observedAt": "2026-10-18T12:35:45.638Z",
+          "lastSeenAt": "2026-11-17T13:17:47.520Z",
+          "currentPriceCents": 225,
+          "currentPriceEurCents": 225,
+          "referencePriceCents": 225,
+          "referencePriceEurCents": 225
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Schuhcreme Deckweiß, 75 ml",
+          "url": "https://www.dm.at/p/d/1713492/erdal-schuhcreme-deckweiss",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:45.712Z",
+          "lastSeenAt": "2026-11-17T13:18:00.415Z",
+          "currentPriceCents": 445,
+          "currentPriceEurCents": 445,
+          "referencePriceCents": 445,
+          "referencePriceEurCents": 445
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Schuhcreme Sneaker Farbreparatur Deckweiß, 75 ml",
+          "url": "https://www.dm.de/p/d/1713492/erdal-schuhcreme-sneaker-farbreparatur-deckweiss",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:44:23.453Z",
+          "lastSeenAt": "2026-11-17T13:18:08.549Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Színfrissítő fedőkrém fehér cipőkhöz, 0,075 l",
+          "url": "https://www.dm.hu/p/d/1713492/erdal-szinfrissito-fedokrem-feher-cipokhoz",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:32:51.781Z",
+          "lastSeenAt": "2026-11-17T13:18:13.918Z",
+          "currentPriceCents": 199900,
+          "currentPriceEurCents": 537,
+          "referencePriceCents": 199900,
+          "referencePriceEurCents": 537
+        }
+      ]
+    },
+    {
       "productId": 426,
       "brand": "Mivolis",
       "isCountryExtreme": true,
@@ -432,88 +576,111 @@
           "observedAt": "2026-11-24T19:29:23.149Z",
           "lastSeenAt": "2026-11-24T19:29:23.149Z",
           "currentPriceCents": 109900,
-          "currentPriceEurCents": 294,
+          "currentPriceEurCents": 295,
           "referencePriceCents": 109900,
-          "referencePriceEurCents": 294
+          "referencePriceEurCents": 295
         }
       ]
     },
     {
-      "productId": 10277,
-      "brand": "Erdal",
+      "productId": 802,
+      "brand": "Paradies",
       "isCountryExtreme": true,
-      "overallPercentDiff": 137.78,
+      "overallPercentDiff": 136.48,
       "gapToExtremePercent": 0,
       "countries": [
         {
           "countryCode": "HR",
           "shopId": "dm-hr",
           "currency": "EUR",
-          "name": "Sredstvo za popravak bijele boje, 75 ml",
-          "url": "https://www.dm.hr/p/d/1713492/erdal-sredstvo-za-popravak-bijele-boje",
+          "name": "Alkalne baterije AAA – Micro, 50 kom.",
+          "url": "https://www.dm.hr/p/d/3081465/paradies-alkalne-baterije-aaa-micro",
           "isPromo": false,
-          "observedAt": "2026-08-30T22:33:01.290Z",
+          "observedAt": "2026-08-28T15:47:36.157Z",
           "lastSeenAt": "2026-11-17T13:17:54.813Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Sredstvo za obnovitev barve čevljev, 75 ml",
-          "url": "https://www.dm.si/p/d/1713492/erdal-sredstvo-za-obnovitev-barve-cevljev",
-          "isPromo": false,
-          "observedAt": "2026-10-18T12:35:45.638Z",
-          "lastSeenAt": "2026-11-17T13:17:47.520Z",
-          "currentPriceCents": 225,
-          "currentPriceEurCents": 225,
-          "referencePriceCents": 225,
-          "referencePriceEurCents": 225
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Schuhcreme Deckweiß, 75 ml",
-          "url": "https://www.dm.at/p/d/1713492/erdal-schuhcreme-deckweiss",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:45.712Z",
-          "lastSeenAt": "2026-11-17T13:18:00.415Z",
-          "currentPriceCents": 445,
-          "currentPriceEurCents": 445,
-          "referencePriceCents": 445,
-          "referencePriceEurCents": 445
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Schuhcreme Sneaker Farbreparatur Deckweiß, 75 ml",
-          "url": "https://www.dm.de/p/d/1713492/erdal-schuhcreme-sneaker-farbreparatur-deckweiss",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:44:23.453Z",
-          "lastSeenAt": "2026-11-17T13:18:08.549Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
+          "currentPriceCents": 895,
+          "currentPriceEurCents": 895,
+          "referencePriceCents": 895,
+          "referencePriceEurCents": 895
         },
         {
           "countryCode": "HU",
           "shopId": "dm-hu",
           "currency": "HUF",
-          "name": "Színfrissítő fedőkrém fehér cipőkhöz, 0,075 l",
-          "url": "https://www.dm.hu/p/d/1713492/erdal-szinfrissito-fedokrem-feher-cipokhoz",
+          "name": "AAA LR 03 1,5 V micro elem, 50 db",
+          "url": "https://www.dm.hu/p/d/3081465/paradies-aaa-lr-03-1-5-v-micro-elem",
           "isPromo": false,
-          "observedAt": "2026-09-01T12:32:51.781Z",
-          "lastSeenAt": "2026-11-17T13:18:13.918Z",
-          "currentPriceCents": 199900,
-          "currentPriceEurCents": 535,
-          "referencePriceCents": 199900,
-          "referencePriceEurCents": 535
+          "observedAt": "2026-09-01T12:33:11.663Z",
+          "lastSeenAt": "2026-11-17T13:18:12.228Z",
+          "currentPriceCents": 699900,
+          "currentPriceEurCents": 1880,
+          "referencePriceCents": 699900,
+          "referencePriceEurCents": 1880
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Alkalne baterije AAA Micro, LR 03, 1,5 V, 50 par",
+          "url": "https://www.dm.si/p/d/3081465/paradies-alkalne-baterije-aaa-micro-lr-03-1-5-v",
+          "isPromo": false,
+          "observedAt": "2026-11-17T13:17:47.520Z",
+          "lastSeenAt": "2026-11-17T13:17:47.520Z",
+          "currentPriceCents": 795,
+          "currentPriceEurCents": 795,
+          "referencePriceCents": 795,
+          "referencePriceEurCents": 795
+        }
+      ]
+    },
+    {
+      "productId": 7039,
+      "brand": "Paradies",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 136.48,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Alkalne baterije AA, Mignon, 50 kom.",
+          "url": "https://www.dm.hr/p/d/3081457/paradies-alkalne-baterije-aa-mignon",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:40.566Z",
+          "lastSeenAt": "2026-11-16T18:28:48.725Z",
+          "currentPriceCents": 895,
+          "currentPriceEurCents": 895,
+          "referencePriceCents": 895,
+          "referencePriceEurCents": 895
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "AA LR 6 1,5 V mignon elem, 50 db",
+          "url": "https://www.dm.hu/p/d/3081457/paradies-aa-lr-6-1-5-v-mignon-elem",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:33:09.616Z",
+          "lastSeenAt": "2026-11-16T18:29:01.872Z",
+          "currentPriceCents": 699900,
+          "currentPriceEurCents": 1880,
+          "referencePriceCents": 699900,
+          "referencePriceEurCents": 1880
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Alkalne baterije AA Mignon, LR 6, 1,5 V, 50 kos",
+          "url": "https://www.dm.si/p/d/3081457/paradies-alkalne-baterije-aa-mignon-lr-6-1-5-v",
+          "isPromo": false,
+          "observedAt": "2026-11-16T18:28:41.942Z",
+          "lastSeenAt": "2026-11-16T18:28:41.942Z",
+          "currentPriceCents": 795,
+          "currentPriceEurCents": 795,
+          "referencePriceCents": 795,
+          "referencePriceEurCents": 795
         }
       ]
     },
@@ -583,112 +750,10 @@
       ]
     },
     {
-      "productId": 802,
-      "brand": "Paradies",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 135.72,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Alkalne baterije AAA – Micro, 50 kom.",
-          "url": "https://www.dm.hr/p/d/3081465/paradies-alkalne-baterije-aaa-micro",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:47:36.157Z",
-          "lastSeenAt": "2026-11-17T13:17:54.813Z",
-          "currentPriceCents": 895,
-          "currentPriceEurCents": 895,
-          "referencePriceCents": 895,
-          "referencePriceEurCents": 895
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "AAA LR 03 1,5 V micro elem, 50 db",
-          "url": "https://www.dm.hu/p/d/3081465/paradies-aaa-lr-03-1-5-v-micro-elem",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:33:11.663Z",
-          "lastSeenAt": "2026-11-17T13:18:12.228Z",
-          "currentPriceCents": 699900,
-          "currentPriceEurCents": 1874,
-          "referencePriceCents": 699900,
-          "referencePriceEurCents": 1874
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Alkalne baterije AAA Micro, LR 03, 1,5 V, 50 par",
-          "url": "https://www.dm.si/p/d/3081465/paradies-alkalne-baterije-aaa-micro-lr-03-1-5-v",
-          "isPromo": false,
-          "observedAt": "2026-11-17T13:17:47.520Z",
-          "lastSeenAt": "2026-11-17T13:17:47.520Z",
-          "currentPriceCents": 795,
-          "currentPriceEurCents": 795,
-          "referencePriceCents": 795,
-          "referencePriceEurCents": 795
-        }
-      ]
-    },
-    {
-      "productId": 7039,
-      "brand": "Paradies",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 135.72,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Alkalne baterije AA, Mignon, 50 kom.",
-          "url": "https://www.dm.hr/p/d/3081457/paradies-alkalne-baterije-aa-mignon",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:40.566Z",
-          "lastSeenAt": "2026-11-16T18:28:48.725Z",
-          "currentPriceCents": 895,
-          "currentPriceEurCents": 895,
-          "referencePriceCents": 895,
-          "referencePriceEurCents": 895
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "AA LR 6 1,5 V mignon elem, 50 db",
-          "url": "https://www.dm.hu/p/d/3081457/paradies-aa-lr-6-1-5-v-mignon-elem",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:33:09.616Z",
-          "lastSeenAt": "2026-11-16T18:29:01.872Z",
-          "currentPriceCents": 699900,
-          "currentPriceEurCents": 1874,
-          "referencePriceCents": 699900,
-          "referencePriceEurCents": 1874
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Alkalne baterije AA Mignon, LR 6, 1,5 V, 50 kos",
-          "url": "https://www.dm.si/p/d/3081457/paradies-alkalne-baterije-aa-mignon-lr-6-1-5-v",
-          "isPromo": false,
-          "observedAt": "2026-11-16T18:28:41.942Z",
-          "lastSeenAt": "2026-11-16T18:28:41.942Z",
-          "currentPriceCents": 795,
-          "currentPriceEurCents": 795,
-          "referencePriceCents": 795,
-          "referencePriceEurCents": 795
-        }
-      ]
-    },
-    {
       "productId": 12161,
       "brand": "meridol",
       "isCountryExtreme": true,
-      "overallPercentDiff": 129.52,
+      "overallPercentDiff": 130.16,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -743,9 +808,9 @@
           "observedAt": "2026-09-01T12:32:32.640Z",
           "lastSeenAt": "2026-10-28T15:05:22.610Z",
           "currentPriceCents": 269900,
-          "currentPriceEurCents": 723,
+          "currentPriceEurCents": 725,
           "referencePriceCents": 269900,
-          "referencePriceEurCents": 723
+          "referencePriceEurCents": 725
         }
       ]
     },
@@ -832,7 +897,7 @@
       "productId": 16745,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 122.46,
+      "overallPercentDiff": 123.08,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -873,9 +938,9 @@
           "observedAt": "2026-09-01T12:30:07.326Z",
           "lastSeenAt": "2026-11-12T16:47:01.536Z",
           "currentPriceCents": 269900,
-          "currentPriceEurCents": 723,
+          "currentPriceEurCents": 725,
           "referencePriceCents": 269900,
-          "referencePriceEurCents": 723
+          "referencePriceEurCents": 725
         }
       ]
     },
@@ -938,9 +1003,88 @@
           "observedAt": "2026-09-01T12:32:49.604Z",
           "lastSeenAt": "2026-11-12T16:47:03.782Z",
           "currentPriceCents": 129900,
-          "currentPriceEurCents": 348,
+          "currentPriceEurCents": 349,
           "referencePriceCents": 129900,
-          "referencePriceEurCents": 348
+          "referencePriceEurCents": 349
+        }
+      ]
+    },
+    {
+      "productId": 8783,
+      "brand": "Profissimo",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 118.52,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Krpa za brisanje prašine i mokro čišćenje od..., 3 kom.",
+          "url": "https://www.dm.hr/p/d/1494453/profissimo-krpa-za-brisanje-prasine-i-mokro-ciscenje-od-mikrovlakana-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:51.588Z",
+          "lastSeenAt": "2026-11-26T21:27:08.419Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Krpa iz mikrovlaken z rebrasto površino, 3 kos",
+          "url": "https://www.dm.si/p/d/1494453/profissimo-krpa-iz-mikrovlaken-z-rebrasto-povrsino",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:49.766Z",
+          "lastSeenAt": "2026-11-26T21:27:05.310Z",
+          "currentPriceCents": 135,
+          "currentPriceEurCents": 135,
+          "referencePriceCents": 135,
+          "referencePriceEurCents": 135
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Reinigungstücher aus Mikrofaser, 3 St",
+          "url": "https://www.dm.at/p/d/1494453/profissimo-reinigungstuecher-aus-mikrofaser",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:06.799Z",
+          "lastSeenAt": "2026-11-26T21:27:13.223Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Reinigungstücher Mikrofeinfaser, 3 St",
+          "url": "https://www.dm.de/p/d/1494453/profissimo-reinigungstuecher-mikrofeinfaser",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:51.188Z",
+          "lastSeenAt": "2026-11-26T21:27:16.593Z",
+          "currentPriceCents": 225,
+          "currentPriceEurCents": 225,
+          "referencePriceCents": 225,
+          "referencePriceEurCents": 225
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Mikroszálas prémium törlőkendő, 3 db",
+          "url": "https://www.dm.hu/p/d/1494453/profissimo-mikroszalas-premium-torlokendo",
+          "isPromo": false,
+          "observedAt": "2026-11-26T21:27:20.172Z",
+          "lastSeenAt": "2026-11-26T21:27:20.172Z",
+          "currentPriceCents": 109900,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 109900,
+          "referencePriceEurCents": 295
         }
       ]
     },
@@ -1017,9 +1161,9 @@
           "observedAt": "2026-11-23T20:09:25.333Z",
           "lastSeenAt": "2026-11-23T20:09:25.333Z",
           "currentPriceCents": 109900,
-          "currentPriceEurCents": 294,
+          "currentPriceEurCents": 295,
           "referencePriceCents": 109900,
-          "referencePriceEurCents": 294
+          "referencePriceEurCents": 295
         }
       ]
     },
@@ -1259,7 +1403,7 @@
       "productId": 16164,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 108.81,
+      "overallPercentDiff": 109.49,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1286,9 +1430,9 @@
           "observedAt": "2026-09-01T12:30:10.466Z",
           "lastSeenAt": "2026-11-12T16:47:01.536Z",
           "currentPriceCents": 229900,
-          "currentPriceEurCents": 616,
+          "currentPriceEurCents": 618,
           "referencePriceCents": 229900,
-          "referencePriceEurCents": 616
+          "referencePriceEurCents": 618
         }
       ]
     },
@@ -1296,7 +1440,7 @@
       "productId": 22534,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 108.81,
+      "overallPercentDiff": 109.49,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1323,9 +1467,9 @@
           "observedAt": "2026-09-01T12:30:13.724Z",
           "lastSeenAt": "2026-11-11T16:08:03.442Z",
           "currentPriceCents": 229900,
-          "currentPriceEurCents": 616,
+          "currentPriceEurCents": 618,
           "referencePriceCents": 229900,
-          "referencePriceEurCents": 616
+          "referencePriceEurCents": 618
         }
       ]
     },
@@ -1333,7 +1477,7 @@
       "productId": 22637,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 108.81,
+      "overallPercentDiff": 109.49,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1360,9 +1504,9 @@
           "observedAt": "2026-09-01T12:30:07.326Z",
           "lastSeenAt": "2026-11-15T15:38:48.145Z",
           "currentPriceCents": 229900,
-          "currentPriceEurCents": 616,
+          "currentPriceEurCents": 618,
           "referencePriceCents": 229900,
-          "referencePriceEurCents": 616
+          "referencePriceEurCents": 618
         }
       ]
     },
@@ -1370,7 +1514,7 @@
       "productId": 22665,
       "brand": "Fascino",
       "isCountryExtreme": true,
-      "overallPercentDiff": 108.81,
+      "overallPercentDiff": 109.49,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1411,9 +1555,9 @@
           "observedAt": "2026-09-01T12:30:10.466Z",
           "lastSeenAt": "2026-11-16T18:29:01.872Z",
           "currentPriceCents": 229900,
-          "currentPriceEurCents": 616,
+          "currentPriceEurCents": 618,
           "referencePriceCents": 229900,
-          "referencePriceEurCents": 616
+          "referencePriceEurCents": 618
         }
       ]
     },
@@ -1421,7 +1565,7 @@
       "productId": 12634,
       "brand": "dmBio",
       "isCountryExtreme": true,
-      "overallPercentDiff": 107.78,
+      "overallPercentDiff": 108.89,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1490,9 +1634,9 @@
           "observedAt": "2026-11-17T13:18:12.228Z",
           "lastSeenAt": "2026-11-17T13:18:12.228Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 187,
+          "currentPriceEurCents": 188,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 187
+          "referencePriceEurCents": 188
         }
       ]
     },
@@ -1500,7 +1644,7 @@
       "productId": 3252,
       "brand": "Sanft&Sicher",
       "isCountryExtreme": true,
-      "overallPercentDiff": 105.64,
+      "overallPercentDiff": 106.67,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1569,9 +1713,9 @@
           "observedAt": "2026-09-01T12:30:41.384Z",
           "lastSeenAt": "2026-11-03T11:54:14.891Z",
           "currentPriceCents": 149900,
-          "currentPriceEurCents": 401,
+          "currentPriceEurCents": 403,
           "referencePriceCents": 149900,
-          "referencePriceEurCents": 401
+          "referencePriceEurCents": 403
         }
       ]
     },
@@ -1660,94 +1804,6 @@
           "currentPriceEurCents": 195,
           "referencePriceCents": 195,
           "referencePriceEurCents": 195
-        }
-      ]
-    },
-    {
-      "productId": 3536,
-      "brand": "Mivolis",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 103.7,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Prehransko dopolnilo z vitamini in minerali, z..., 15 g",
-          "url": "https://www.dm.si/p/d/3104217/mivolis-prehransko-dopolnilo-z-vitamini-in-minerali-z-izvleckom-navadne-konopljike-in-s-plahtico",
-          "isPromo": true,
-          "observedAt": "2026-11-12T16:46:37.945Z",
-          "lastSeenAt": "2026-11-12T16:46:37.945Z",
-          "currentPriceCents": 95,
-          "currentPriceEurCents": 95,
-          "referencePriceCents": 135,
-          "referencePriceEurCents": 135
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Tabletten Mönchspfeffer Female Balance, 15 g",
-          "url": "https://www.dm.at/p/d/3104217/mivolis-tabletten-moenchspfeffer-female-balance",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:03.865Z",
-          "lastSeenAt": "2026-11-12T16:46:52.059Z",
-          "currentPriceCents": 250,
-          "currentPriceEurCents": 250,
-          "referencePriceCents": 250,
-          "referencePriceEurCents": 250
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Mönchspfeffer Tabletten 60 St, 15 g",
-          "url": "https://www.dm.de/p/d/3104217/mivolis-moenchspfeffer-tabletten-60-st",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:40:11.101Z",
-          "lastSeenAt": "2026-11-12T16:46:57.809Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        }
-      ]
-    },
-    {
-      "productId": 17141,
-      "brand": "Fascino",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 103.29,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Samostoječe nogavice 15 DEN, 46-48, 1 kos",
-          "url": "https://www.dm.si/p/d/1560162/fascino-samostojece-nogavice-15-den-46-48",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:34:08.864Z",
-          "lastSeenAt": "2026-11-11T16:07:42.858Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Combfix 15 DEN, 46-48 méret, fekete, 1 db",
-          "url": "https://www.dm.hu/p/d/1560162/fascino-combfix-15-den-46-48-meret-fekete",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:01.877Z",
-          "lastSeenAt": "2026-11-11T16:08:05.457Z",
-          "currentPriceCents": 299900,
-          "currentPriceEurCents": 803,
-          "referencePriceCents": 299900,
-          "referencePriceEurCents": 803
         }
       ]
     }

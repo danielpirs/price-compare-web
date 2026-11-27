@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-26T14:50:20.818Z",
+  "generatedAt": "2026-11-27T14:49:07.498Z",
   "fx": {
-    "asOf": "2026-11-25",
+    "asOf": "2026-11-26",
     "rates": {
-      "USD": 1.0935,
-      "JPY": 174.22,
-      "CZK": 24.435,
-      "DKK": 7.4743,
-      "GBP": 0.8373,
-      "HUF": 373.44,
-      "PLN": 4.48,
-      "RON": 5.343,
-      "SEK": 11.2385,
-      "CHF": 0.9085,
-      "ISK": 137.2,
-      "NOK": 10.7778,
-      "TRY": 55.4163,
-      "AUD": 1.6644,
-      "BRL": 6.4531,
-      "CAD": 1.5591,
-      "CNY": 7.2999,
-      "HKD": 8.5709,
-      "IDR": 20055.72,
-      "ILS": 3.6948,
-      "INR": 100.859,
-      "KRW": 1471.19,
-      "MXN": 21.5422,
-      "MYR": 4.5047,
-      "NZD": 2.0046,
-      "PHP": 69.558,
-      "SGD": 1.4129,
-      "THB": 37.321,
-      "ZAR": 19.3514
+      "USD": 1.0975,
+      "JPY": 174.79,
+      "CZK": 24.453,
+      "DKK": 7.4737,
+      "GBP": 0.83755,
+      "HUF": 372.23,
+      "PLN": 4.4838,
+      "RON": 5.344,
+      "SEK": 11.2025,
+      "CHF": 0.9153,
+      "ISK": 137,
+      "NOK": 10.718,
+      "TRY": 55.6177,
+      "AUD": 1.654,
+      "BRL": 6.3272,
+      "CAD": 1.5617,
+      "CNY": 7.3096,
+      "HKD": 8.6015,
+      "IDR": 20187.03,
+      "ILS": 3.6517,
+      "INR": 101.464,
+      "KRW": 1475.75,
+      "MXN": 21.5893,
+      "MYR": 4.519,
+      "NZD": 2.0033,
+      "PHP": 69.935,
+      "SGD": 1.4163,
+      "THB": 37.386,
+      "ZAR": 19.2646
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -200,9 +200,9 @@
           "observedAt": "2026-09-01T12:30:17.495Z",
           "lastSeenAt": "2026-10-28T15:05:22.610Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 241,
+          "currentPriceEurCents": 242,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 241
+          "referencePriceEurCents": 242
         }
       ]
     },
@@ -521,7 +521,7 @@
       "productId": 7970,
       "brand": "Gillette Venus",
       "isCountryExtreme": true,
-      "overallPercentDiff": 159.96,
+      "overallPercentDiff": 158.98,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -562,9 +562,9 @@
           "observedAt": "2026-09-01T12:30:13.724Z",
           "lastSeenAt": "2026-11-08T15:09:24.786Z",
           "currentPriceCents": 196900,
-          "currentPriceEurCents": 527,
+          "currentPriceEurCents": 529,
           "referencePriceCents": 196900,
-          "referencePriceEurCents": 527
+          "referencePriceEurCents": 529
         }
       ]
     },
@@ -776,7 +776,7 @@
       "productId": 10884,
       "brand": "WILKINSON SWORD",
       "isCountryExtreme": true,
-      "overallPercentDiff": 148.43,
+      "overallPercentDiff": 146.88,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -817,87 +817,8 @@
           "observedAt": "2026-09-01T12:30:45.278Z",
           "lastSeenAt": "2026-10-30T15:01:53.484Z",
           "currentPriceCents": 59500,
-          "currentPriceEurCents": 159,
-          "referencePriceCents": 59500,
-          "referencePriceEurCents": 159
-        }
-      ]
-    },
-    {
-      "productId": 6347,
-      "brand": "ebelin",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 146.88,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Trimer za oblikovanje obrva, više vrsta, 3 kom.",
-          "url": "https://www.dm.hr/p/d/1345197/ebelin-trimer-za-oblikovanje-obrva-vise-vrsta",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:37.197Z",
-          "lastSeenAt": "2026-10-29T15:12:19.963Z",
-          "currentPriceCents": 320,
-          "currentPriceEurCents": 320,
-          "referencePriceCents": 320,
-          "referencePriceEurCents": 320
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Pripomoček za oblikovanje obrvi, več različic, 3 kos",
-          "url": "https://www.dm.si/p/d/1345197/ebelin-pripomocek-za-oblikovanje-obrvi-vec-razlicic",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:44.749Z",
-          "lastSeenAt": "2026-10-29T15:12:17.316Z",
-          "currentPriceCents": 395,
-          "currentPriceEurCents": 395,
-          "referencePriceCents": 395,
-          "referencePriceEurCents": 395
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Augenbrauenformer sortiert, 1 St",
-          "url": "https://www.dm.at/p/d/1345197/ebelin-augenbrauenformer-sortiert",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:00.636Z",
-          "lastSeenAt": "2026-10-29T15:12:24.663Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Augenbrauenformer, 3 St",
-          "url": "https://www.dm.de/p/d/1345197/ebelin-augenbrauenformer",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:41:43.104Z",
-          "lastSeenAt": "2026-10-29T15:12:37.043Z",
-          "currentPriceCents": 295,
-          "currentPriceEurCents": 295,
-          "referencePriceCents": 295,
-          "referencePriceEurCents": 295
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Szemöldökformázó, többféle, 3 db",
-          "url": "https://www.dm.hu/p/d/1345197/ebelin-szemoldokformazo-tobbfele",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:55.609Z",
-          "lastSeenAt": "2026-10-29T15:12:47.095Z",
-          "currentPriceCents": 59900,
           "currentPriceEurCents": 160,
-          "referencePriceCents": 59900,
+          "referencePriceCents": 59500,
           "referencePriceEurCents": 160
         }
       ]
@@ -982,10 +903,89 @@
       ]
     },
     {
+      "productId": 6347,
+      "brand": "ebelin",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 145.34,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Trimer za oblikovanje obrva, više vrsta, 3 kom.",
+          "url": "https://www.dm.hr/p/d/1345197/ebelin-trimer-za-oblikovanje-obrva-vise-vrsta",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:37.197Z",
+          "lastSeenAt": "2026-10-29T15:12:19.963Z",
+          "currentPriceCents": 320,
+          "currentPriceEurCents": 320,
+          "referencePriceCents": 320,
+          "referencePriceEurCents": 320
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Pripomoček za oblikovanje obrvi, več različic, 3 kos",
+          "url": "https://www.dm.si/p/d/1345197/ebelin-pripomocek-za-oblikovanje-obrvi-vec-razlicic",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:44.749Z",
+          "lastSeenAt": "2026-10-29T15:12:17.316Z",
+          "currentPriceCents": 395,
+          "currentPriceEurCents": 395,
+          "referencePriceCents": 395,
+          "referencePriceEurCents": 395
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Augenbrauenformer sortiert, 1 St",
+          "url": "https://www.dm.at/p/d/1345197/ebelin-augenbrauenformer-sortiert",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:00.636Z",
+          "lastSeenAt": "2026-10-29T15:12:24.663Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Augenbrauenformer, 3 St",
+          "url": "https://www.dm.de/p/d/1345197/ebelin-augenbrauenformer",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:41:43.104Z",
+          "lastSeenAt": "2026-10-29T15:12:37.043Z",
+          "currentPriceCents": 295,
+          "currentPriceEurCents": 295,
+          "referencePriceCents": 295,
+          "referencePriceEurCents": 295
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Szemöldökformázó, többféle, 3 db",
+          "url": "https://www.dm.hu/p/d/1345197/ebelin-szemoldokformazo-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:55.609Z",
+          "lastSeenAt": "2026-10-29T15:12:47.095Z",
+          "currentPriceCents": 59900,
+          "currentPriceEurCents": 161,
+          "referencePriceCents": 59900,
+          "referencePriceEurCents": 161
+        }
+      ]
+    },
+    {
       "productId": 667,
       "brand": "Balea med",
       "isCountryExtreme": true,
-      "overallPercentDiff": 145.37,
+      "overallPercentDiff": 143.12,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1054,9 +1054,9 @@
           "observedAt": "2026-09-01T12:31:37.751Z",
           "lastSeenAt": "2026-11-12T16:47:01.536Z",
           "currentPriceCents": 40500,
-          "currentPriceEurCents": 108,
+          "currentPriceEurCents": 109,
           "referencePriceCents": 40500,
-          "referencePriceEurCents": 108
+          "referencePriceEurCents": 109
         }
       ]
     },
@@ -1112,10 +1112,89 @@
       ]
     },
     {
+      "productId": 26541,
+      "brand": "s.Oliver",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 140.7,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Eau de Toilette Simply Us Women, 30 ml",
+          "url": "https://www.dm.at/p/d/3121429/s-oliver-eau-de-toilette-simply-us-women",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:35:52.153Z",
+          "lastSeenAt": "2026-11-18T17:13:15.738Z",
+          "currentPriceCents": 1495,
+          "currentPriceEurCents": 1495,
+          "referencePriceCents": 1495,
+          "referencePriceEurCents": 1495
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Női EdT SIMPLY US, 30 ml",
+          "url": "https://www.dm.hu/p/d/3121429/s-oliver-noi-edt-simply-us",
+          "isPromo": false,
+          "observedAt": "2026-10-19T15:34:35.501Z",
+          "lastSeenAt": "2026-11-18T17:13:25.550Z",
+          "currentPriceCents": 599900,
+          "currentPriceEurCents": 1612,
+          "referencePriceCents": 599900,
+          "referencePriceEurCents": 1612
+        },
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Toaletna voda za ženske Simply Us, 30 ml",
+          "url": "https://www.dm.si/p/d/3121429/s-oliver-toaletna-voda-za-zenske-simply-us",
+          "isPromo": false,
+          "observedAt": "2026-10-19T15:34:09.260Z",
+          "lastSeenAt": "2026-11-18T17:13:00.048Z",
+          "currentPriceCents": 2395,
+          "currentPriceEurCents": 2395,
+          "referencePriceCents": 2395,
+          "referencePriceEurCents": 2395
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Simply Us Women Eau de Toilette, 30 ml",
+          "url": "https://www.dm.de/p/d/3121429/s-oliver-simply-us-women-eau-de-toilette",
+          "isPromo": false,
+          "observedAt": "2026-10-19T15:34:28.669Z",
+          "lastSeenAt": "2026-11-18T17:13:17.468Z",
+          "currentPriceCents": 995,
+          "currentPriceEurCents": 995,
+          "referencePriceCents": 995,
+          "referencePriceEurCents": 995
+        },
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Simply Us edt, 30 ml",
+          "url": "https://www.dm.hr/p/d/3121429/s-oliver-simply-us-edt",
+          "isPromo": false,
+          "observedAt": "2026-11-18T17:13:05.561Z",
+          "lastSeenAt": "2026-11-18T17:13:05.561Z",
+          "currentPriceCents": 1450,
+          "currentPriceEurCents": 1450,
+          "referencePriceCents": 1450,
+          "referencePriceEurCents": 1450
+        }
+      ]
+    },
+    {
       "productId": 7293,
       "brand": "BIC",
       "isCountryExtreme": true,
-      "overallPercentDiff": 141.38,
+      "overallPercentDiff": 140.2,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1170,88 +1249,9 @@
           "observedAt": "2026-09-01T12:32:59.257Z",
           "lastSeenAt": "2026-10-30T15:01:53.484Z",
           "currentPriceCents": 75900,
-          "currentPriceEurCents": 203,
+          "currentPriceEurCents": 204,
           "referencePriceCents": 75900,
-          "referencePriceEurCents": 203
-        }
-      ]
-    },
-    {
-      "productId": 26541,
-      "brand": "s.Oliver",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 140.7,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Eau de Toilette Simply Us Women, 30 ml",
-          "url": "https://www.dm.at/p/d/3121429/s-oliver-eau-de-toilette-simply-us-women",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:52.153Z",
-          "lastSeenAt": "2026-11-18T17:13:15.738Z",
-          "currentPriceCents": 1495,
-          "currentPriceEurCents": 1495,
-          "referencePriceCents": 1495,
-          "referencePriceEurCents": 1495
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Női EdT SIMPLY US, 30 ml",
-          "url": "https://www.dm.hu/p/d/3121429/s-oliver-noi-edt-simply-us",
-          "isPromo": false,
-          "observedAt": "2026-10-19T15:34:35.501Z",
-          "lastSeenAt": "2026-11-18T17:13:25.550Z",
-          "currentPriceCents": 599900,
-          "currentPriceEurCents": 1606,
-          "referencePriceCents": 599900,
-          "referencePriceEurCents": 1606
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Toaletna voda za ženske Simply Us, 30 ml",
-          "url": "https://www.dm.si/p/d/3121429/s-oliver-toaletna-voda-za-zenske-simply-us",
-          "isPromo": false,
-          "observedAt": "2026-10-19T15:34:09.260Z",
-          "lastSeenAt": "2026-11-18T17:13:00.048Z",
-          "currentPriceCents": 2395,
-          "currentPriceEurCents": 2395,
-          "referencePriceCents": 2395,
-          "referencePriceEurCents": 2395
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Simply Us Women Eau de Toilette, 30 ml",
-          "url": "https://www.dm.de/p/d/3121429/s-oliver-simply-us-women-eau-de-toilette",
-          "isPromo": false,
-          "observedAt": "2026-10-19T15:34:28.669Z",
-          "lastSeenAt": "2026-11-18T17:13:17.468Z",
-          "currentPriceCents": 995,
-          "currentPriceEurCents": 995,
-          "referencePriceCents": 995,
-          "referencePriceEurCents": 995
-        },
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Simply Us edt, 30 ml",
-          "url": "https://www.dm.hr/p/d/3121429/s-oliver-simply-us-edt",
-          "isPromo": false,
-          "observedAt": "2026-11-18T17:13:05.561Z",
-          "lastSeenAt": "2026-11-18T17:13:05.561Z",
-          "currentPriceCents": 1450,
-          "currentPriceEurCents": 1450,
-          "referencePriceCents": 1450,
-          "referencePriceEurCents": 1450
+          "referencePriceEurCents": 204
         }
       ]
     },
@@ -1259,7 +1259,7 @@
       "productId": 17313,
       "brand": "Gillette Venus",
       "isCountryExtreme": true,
-      "overallPercentDiff": 137.4,
+      "overallPercentDiff": 136.15,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1286,9 +1286,9 @@
           "observedAt": "2026-09-01T12:32:11.497Z",
           "lastSeenAt": "2026-11-05T12:16:05.537Z",
           "currentPriceCents": 140900,
-          "currentPriceEurCents": 377,
+          "currentPriceEurCents": 379,
           "referencePriceCents": 140900,
-          "referencePriceEurCents": 377
+          "referencePriceEurCents": 379
         }
       ]
     },
@@ -1365,9 +1365,9 @@
           "observedAt": "2026-09-01T12:30:45.278Z",
           "lastSeenAt": "2026-11-18T17:13:27.543Z",
           "currentPriceCents": 119900,
-          "currentPriceEurCents": 321,
+          "currentPriceEurCents": 322,
           "referencePriceCents": 119900,
-          "referencePriceEurCents": 321
+          "referencePriceEurCents": 322
         }
       ]
     },
@@ -1569,9 +1569,9 @@
           "observedAt": "2026-09-01T12:32:07.099Z",
           "lastSeenAt": "2026-10-31T14:30:56.768Z",
           "currentPriceCents": 59900,
-          "currentPriceEurCents": 160,
+          "currentPriceEurCents": 161,
           "referencePriceCents": 59900,
-          "referencePriceEurCents": 160
+          "referencePriceEurCents": 161
         }
       ]
     },
@@ -1634,9 +1634,9 @@
           "observedAt": "2026-09-01T12:32:11.497Z",
           "lastSeenAt": "2026-11-20T16:56:33.557Z",
           "currentPriceCents": 339900,
-          "currentPriceEurCents": 910,
+          "currentPriceEurCents": 913,
           "referencePriceCents": 339900,
-          "referencePriceEurCents": 910
+          "referencePriceEurCents": 913
         }
       ]
     },

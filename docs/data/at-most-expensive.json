@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-26T14:50:20.818Z",
+  "generatedAt": "2026-11-27T14:49:07.498Z",
   "fx": {
-    "asOf": "2026-11-25",
+    "asOf": "2026-11-26",
     "rates": {
-      "USD": 1.0935,
-      "JPY": 174.22,
-      "CZK": 24.435,
-      "DKK": 7.4743,
-      "GBP": 0.8373,
-      "HUF": 373.44,
-      "PLN": 4.48,
-      "RON": 5.343,
-      "SEK": 11.2385,
-      "CHF": 0.9085,
-      "ISK": 137.2,
-      "NOK": 10.7778,
-      "TRY": 55.4163,
-      "AUD": 1.6644,
-      "BRL": 6.4531,
-      "CAD": 1.5591,
-      "CNY": 7.2999,
-      "HKD": 8.5709,
-      "IDR": 20055.72,
-      "ILS": 3.6948,
-      "INR": 100.859,
-      "KRW": 1471.19,
-      "MXN": 21.5422,
-      "MYR": 4.5047,
-      "NZD": 2.0046,
-      "PHP": 69.558,
-      "SGD": 1.4129,
-      "THB": 37.321,
-      "ZAR": 19.3514
+      "USD": 1.0975,
+      "JPY": 174.79,
+      "CZK": 24.453,
+      "DKK": 7.4737,
+      "GBP": 0.83755,
+      "HUF": 372.23,
+      "PLN": 4.4838,
+      "RON": 5.344,
+      "SEK": 11.2025,
+      "CHF": 0.9153,
+      "ISK": 137,
+      "NOK": 10.718,
+      "TRY": 55.6177,
+      "AUD": 1.654,
+      "BRL": 6.3272,
+      "CAD": 1.5617,
+      "CNY": 7.3096,
+      "HKD": 8.6015,
+      "IDR": 20187.03,
+      "ILS": 3.6517,
+      "INR": 101.464,
+      "KRW": 1475.75,
+      "MXN": 21.5893,
+      "MYR": 4.519,
+      "NZD": 2.0033,
+      "PHP": 69.935,
+      "SGD": 1.4163,
+      "THB": 37.386,
+      "ZAR": 19.2646
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -163,9 +163,9 @@
           "observedAt": "2026-09-01T12:32:16.800Z",
           "lastSeenAt": "2026-11-13T12:09:04.712Z",
           "currentPriceCents": 69900,
-          "currentPriceEurCents": 187,
+          "currentPriceEurCents": 188,
           "referencePriceCents": 69900,
-          "referencePriceEurCents": 187
+          "referencePriceEurCents": 188
         }
       ]
     },
@@ -224,7 +224,7 @@
       "productId": 39854,
       "brand": "Varta",
       "isCountryExtreme": true,
-      "overallPercentDiff": 224.77,
+      "overallPercentDiff": 223.26,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -251,9 +251,9 @@
           "observedAt": "2026-09-01T12:31:00.665Z",
           "lastSeenAt": "2026-11-25T14:15:57.962Z",
           "currentPriceCents": 79900,
-          "currentPriceEurCents": 214,
+          "currentPriceEurCents": 215,
           "referencePriceCents": 79900,
-          "referencePriceEurCents": 214
+          "referencePriceEurCents": 215
         }
       ]
     },
@@ -406,71 +406,6 @@
       ]
     },
     {
-      "productId": 15502,
-      "brand": "Balea",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 200.83,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Belilna krema za dlačice na obrazu in telesu (2 x..., 100 ml",
-          "url": "https://www.dm.si/p/d/1450058/balea-belilna-krema-za-dlacice-na-obrazu-in-telesu-2-x-50-ml",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:43.741Z",
-          "lastSeenAt": "2026-11-07T14:53:27.545Z",
-          "currentPriceCents": 625,
-          "currentPriceEurCents": 625,
-          "referencePriceCents": 625,
-          "referencePriceEurCents": 625
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Haarentfärbungscreme Gesicht & Körper, 100 Millimeter",
-          "url": "https://www.dm.at/p/d/1450058/balea-haarentfaerbungscreme-gesicht-und-koerper",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:36:16.249Z",
-          "lastSeenAt": "2026-11-07T14:53:31.135Z",
-          "currentPriceCents": 725,
-          "currentPriceEurCents": 725,
-          "referencePriceCents": 725,
-          "referencePriceEurCents": 725
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Haarentfärbungscreme, 100 ml",
-          "url": "https://www.dm.de/p/d/1450058/balea-haarentfaerbungscreme",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:33.730Z",
-          "lastSeenAt": "2026-11-07T14:53:36.299Z",
-          "currentPriceCents": 645,
-          "currentPriceEurCents": 645,
-          "referencePriceCents": 645,
-          "referencePriceEurCents": 645
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Szőkítő krém arcra és testre, 100 ml",
-          "url": "https://www.dm.hu/p/d/1450058/balea-szokito-krem-arcra-es-testre",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:04.184Z",
-          "lastSeenAt": "2026-11-07T14:53:41.614Z",
-          "currentPriceCents": 89900,
-          "currentPriceEurCents": 241,
-          "referencePriceCents": 89900,
-          "referencePriceEurCents": 241
-        }
-      ]
-    },
-    {
       "productId": 1643,
       "brand": "Denkmit",
       "isCountryExtreme": true,
@@ -532,6 +467,71 @@
           "currentPriceEurCents": 134,
           "referencePriceCents": 49900,
           "referencePriceEurCents": 134
+        }
+      ]
+    },
+    {
+      "productId": 15502,
+      "brand": "Balea",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 199.59,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "SI",
+          "shopId": "dm-si",
+          "currency": "EUR",
+          "name": "Belilna krema za dlačice na obrazu in telesu (2 x..., 100 ml",
+          "url": "https://www.dm.si/p/d/1450058/balea-belilna-krema-za-dlacice-na-obrazu-in-telesu-2-x-50-ml",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:33:43.741Z",
+          "lastSeenAt": "2026-11-07T14:53:27.545Z",
+          "currentPriceCents": 625,
+          "currentPriceEurCents": 625,
+          "referencePriceCents": 625,
+          "referencePriceEurCents": 625
+        },
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Haarentfärbungscreme Gesicht & Körper, 100 Millimeter",
+          "url": "https://www.dm.at/p/d/1450058/balea-haarentfaerbungscreme-gesicht-und-koerper",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:36:16.249Z",
+          "lastSeenAt": "2026-11-07T14:53:31.135Z",
+          "currentPriceCents": 725,
+          "currentPriceEurCents": 725,
+          "referencePriceCents": 725,
+          "referencePriceEurCents": 725
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Haarentfärbungscreme, 100 ml",
+          "url": "https://www.dm.de/p/d/1450058/balea-haarentfaerbungscreme",
+          "isPromo": false,
+          "observedAt": "2026-08-31T20:42:33.730Z",
+          "lastSeenAt": "2026-11-07T14:53:36.299Z",
+          "currentPriceCents": 645,
+          "currentPriceEurCents": 645,
+          "referencePriceCents": 645,
+          "referencePriceEurCents": 645
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Szőkítő krém arcra és testre, 100 ml",
+          "url": "https://www.dm.hu/p/d/1450058/balea-szokito-krem-arcra-es-testre",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:04.184Z",
+          "lastSeenAt": "2026-11-07T14:53:41.614Z",
+          "currentPriceCents": 89900,
+          "currentPriceEurCents": 242,
+          "referencePriceCents": 89900,
+          "referencePriceEurCents": 242
         }
       ]
     },
@@ -794,7 +794,7 @@
       "productId": 3190,
       "brand": "Balea med",
       "isCountryExtreme": true,
-      "overallPercentDiff": 165,
+      "overallPercentDiff": 162.38,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -849,9 +849,9 @@
           "observedAt": "2026-09-01T12:30:41.384Z",
           "lastSeenAt": "2026-11-05T12:16:03.730Z",
           "currentPriceCents": 37500,
-          "currentPriceEurCents": 100,
+          "currentPriceEurCents": 101,
           "referencePriceCents": 37500,
-          "referencePriceEurCents": 100
+          "referencePriceEurCents": 101
         }
       ]
     },
@@ -1072,9 +1072,9 @@
           "observedAt": "2026-09-01T12:29:57.331Z",
           "lastSeenAt": "2026-10-28T15:05:18.088Z",
           "currentPriceCents": 28900,
-          "currentPriceEurCents": 77,
+          "currentPriceEurCents": 78,
           "referencePriceCents": 28900,
-          "referencePriceEurCents": 77
+          "referencePriceEurCents": 78
         }
       ]
     },
@@ -1216,9 +1216,9 @@
           "observedAt": "2026-10-28T15:05:18.088Z",
           "lastSeenAt": "2026-10-28T15:05:18.088Z",
           "currentPriceCents": 89900,
-          "currentPriceEurCents": 241,
+          "currentPriceEurCents": 242,
           "referencePriceCents": 89900,
-          "referencePriceEurCents": 241
+          "referencePriceEurCents": 242
         }
       ]
     },
@@ -1608,85 +1608,6 @@
       ]
     },
     {
-      "productId": 11598,
-      "brand": "ebelin",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 141.94,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Štapići za manikuru s vrhom za rašpanje, 6 kom.",
-          "url": "https://www.dm.hr/p/d/1420524/ebelin-stapici-za-manikuru-s-vrhom-za-raspanje",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:33:09.256Z",
-          "lastSeenAt": "2026-11-12T16:46:44.585Z",
-          "currentPriceCents": 195,
-          "currentPriceEurCents": 195,
-          "referencePriceCents": 195,
-          "referencePriceEurCents": 195
-        },
-        {
-          "countryCode": "SI",
-          "shopId": "dm-si",
-          "currency": "EUR",
-          "name": "Lesene palčke za manikiro, 6 kos",
-          "url": "https://www.dm.si/p/d/1420524/ebelin-lesene-palcke-za-manikiro",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:35:00.003Z",
-          "lastSeenAt": "2026-11-12T16:46:37.945Z",
-          "currentPriceCents": 185,
-          "currentPriceEurCents": 185,
-          "referencePriceCents": 185,
-          "referencePriceEurCents": 185
-        },
-        {
-          "countryCode": "AT",
-          "shopId": "dm-at",
-          "currency": "EUR",
-          "name": "Manikürstäbchen, 6 St",
-          "url": "https://www.dm.at/p/d/1420524/ebelin-manikuerstaebchen",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:37:59.041Z",
-          "lastSeenAt": "2026-11-12T16:46:47.722Z",
-          "currentPriceCents": 225,
-          "currentPriceEurCents": 225,
-          "referencePriceCents": 225,
-          "referencePriceEurCents": 225
-        },
-        {
-          "countryCode": "DE",
-          "shopId": "dm-de",
-          "currency": "EUR",
-          "name": "Manikürstäbchen, 6 St",
-          "url": "https://www.dm.de/p/d/1420524/ebelin-manikuerstaebchen",
-          "isPromo": false,
-          "observedAt": "2026-08-31T20:42:55.413Z",
-          "lastSeenAt": "2026-11-12T16:46:55.883Z",
-          "currentPriceCents": 185,
-          "currentPriceEurCents": 185,
-          "referencePriceCents": 185,
-          "referencePriceEurCents": 185
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Manikűrpálcika, 6 db",
-          "url": "https://www.dm.hu/p/d/1420524/ebelin-manikurpalcika",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:32:22.557Z",
-          "lastSeenAt": "2026-11-12T16:47:01.536Z",
-          "currentPriceCents": 34900,
-          "currentPriceEurCents": 93,
-          "referencePriceCents": 34900,
-          "referencePriceEurCents": 93
-        }
-      ]
-    },
-    {
       "productId": 5602,
       "brand": "s.Oliver",
       "isCountryExtreme": true,
@@ -1734,6 +1655,43 @@
           "currentPriceEurCents": 1195,
           "referencePriceCents": 1195,
           "referencePriceEurCents": 1195
+        }
+      ]
+    },
+    {
+      "productId": 4300,
+      "brand": "Schaebens",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 141.67,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "AT",
+          "shopId": "dm-at",
+          "currency": "EUR",
+          "name": "Gesichtsmaske Panthenol (2x5 ml), 10 ml",
+          "url": "https://www.dm.at/p/d/3125014/schaebens-gesichtsmaske-panthenol-2x5-ml",
+          "isPromo": false,
+          "observedAt": "2026-08-28T16:38:29.088Z",
+          "lastSeenAt": "2026-11-04T12:04:22.694Z",
+          "currentPriceCents": 145,
+          "currentPriceEurCents": 145,
+          "referencePriceCents": 145,
+          "referencePriceEurCents": 145
+        },
+        {
+          "countryCode": "DE",
+          "shopId": "dm-de",
+          "currency": "EUR",
+          "name": "Gesichtsmaske Panthenol (2x5 ml), 10 ml",
+          "url": "https://www.dm.de/p/d/3125014/schaebens-gesichtsmaske-panthenol-2x5-ml",
+          "isPromo": false,
+          "observedAt": "2026-10-05T17:07:20.931Z",
+          "lastSeenAt": "2026-11-04T12:04:31.000Z",
+          "currentPriceCents": 60,
+          "currentPriceEurCents": 60,
+          "referencePriceCents": 60,
+          "referencePriceEurCents": 60
         }
       ]
     }

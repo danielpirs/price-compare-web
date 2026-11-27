@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-11-26T14:50:20.818Z",
+  "generatedAt": "2026-11-27T14:49:07.498Z",
   "fx": {
-    "asOf": "2026-11-25",
+    "asOf": "2026-11-26",
     "rates": {
-      "USD": 1.0935,
-      "JPY": 174.22,
-      "CZK": 24.435,
-      "DKK": 7.4743,
-      "GBP": 0.8373,
-      "HUF": 373.44,
-      "PLN": 4.48,
-      "RON": 5.343,
-      "SEK": 11.2385,
-      "CHF": 0.9085,
-      "ISK": 137.2,
-      "NOK": 10.7778,
-      "TRY": 55.4163,
-      "AUD": 1.6644,
-      "BRL": 6.4531,
-      "CAD": 1.5591,
-      "CNY": 7.2999,
-      "HKD": 8.5709,
-      "IDR": 20055.72,
-      "ILS": 3.6948,
-      "INR": 100.859,
-      "KRW": 1471.19,
-      "MXN": 21.5422,
-      "MYR": 4.5047,
-      "NZD": 2.0046,
-      "PHP": 69.558,
-      "SGD": 1.4129,
-      "THB": 37.321,
-      "ZAR": 19.3514
+      "USD": 1.0975,
+      "JPY": 174.79,
+      "CZK": 24.453,
+      "DKK": 7.4737,
+      "GBP": 0.83755,
+      "HUF": 372.23,
+      "PLN": 4.4838,
+      "RON": 5.344,
+      "SEK": 11.2025,
+      "CHF": 0.9153,
+      "ISK": 137,
+      "NOK": 10.718,
+      "TRY": 55.6177,
+      "AUD": 1.654,
+      "BRL": 6.3272,
+      "CAD": 1.5617,
+      "CNY": 7.3096,
+      "HKD": 8.6015,
+      "IDR": 20187.03,
+      "ILS": 3.6517,
+      "INR": 101.464,
+      "KRW": 1475.75,
+      "MXN": 21.5893,
+      "MYR": 4.519,
+      "NZD": 2.0033,
+      "PHP": 69.935,
+      "SGD": 1.4163,
+      "THB": 37.386,
+      "ZAR": 19.2646
     },
     "source": "ECB eurofxref-daily",
     "fallback": false
@@ -112,9 +112,9 @@
           "observedAt": "2026-10-18T12:36:09.737Z",
           "lastSeenAt": "2026-11-17T13:18:13.918Z",
           "currentPriceCents": 299900,
-          "currentPriceEurCents": 803,
+          "currentPriceEurCents": 806,
           "referencePriceCents": 299900,
-          "referencePriceEurCents": 803
+          "referencePriceEurCents": 806
         }
       ]
     },
@@ -752,9 +752,9 @@
           "observedAt": "2026-09-01T12:30:04.184Z",
           "lastSeenAt": "2026-11-18T17:13:27.543Z",
           "currentPriceCents": 37900,
-          "currentPriceEurCents": 101,
+          "currentPriceEurCents": 102,
           "referencePriceCents": 37900,
-          "referencePriceEurCents": 101
+          "referencePriceEurCents": 102
         }
       ]
     },
@@ -762,7 +762,7 @@
       "productId": 2245,
       "brand": "Dontodent PRO+",
       "isCountryExtreme": true,
-      "overallPercentDiff": 129.17,
+      "overallPercentDiff": 127.27,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -831,9 +831,9 @@
           "observedAt": "2026-11-16T18:29:01.872Z",
           "lastSeenAt": "2026-11-16T18:29:01.872Z",
           "currentPriceCents": 44900,
-          "currentPriceEurCents": 120,
+          "currentPriceEurCents": 121,
           "referencePriceCents": 44900,
-          "referencePriceEurCents": 120
+          "referencePriceEurCents": 121
         }
       ]
     },
@@ -841,7 +841,7 @@
       "productId": 6100,
       "brand": "Dontodent PRO+",
       "isCountryExtreme": true,
-      "overallPercentDiff": 129.17,
+      "overallPercentDiff": 127.27,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -910,9 +910,9 @@
           "observedAt": "2026-09-01T12:31:30.809Z",
           "lastSeenAt": "2026-11-01T15:04:50.279Z",
           "currentPriceCents": 44900,
-          "currentPriceEurCents": 120,
+          "currentPriceEurCents": 121,
           "referencePriceCents": 44900,
-          "referencePriceEurCents": 120
+          "referencePriceEurCents": 121
         }
       ]
     },
@@ -1026,9 +1026,9 @@
           "observedAt": "2026-11-23T20:09:25.333Z",
           "lastSeenAt": "2026-11-23T20:09:25.333Z",
           "currentPriceCents": 109900,
-          "currentPriceEurCents": 294,
+          "currentPriceEurCents": 295,
           "referencePriceCents": 109900,
-          "referencePriceEurCents": 294
+          "referencePriceEurCents": 295
         }
       ]
     },
@@ -1223,43 +1223,6 @@
       ]
     },
     {
-      "productId": 2237,
-      "brand": "Aquafresh",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 111.66,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Clean & Flex četkica za zube, 2 kom.",
-          "url": "https://www.dm.hr/p/d/2366978/aquafresh-clean-flex-cetkica-za-zube",
-          "isPromo": false,
-          "observedAt": "2026-08-28T15:57:32.685Z",
-          "lastSeenAt": "2026-11-23T20:09:08.188Z",
-          "currentPriceCents": 345,
-          "currentPriceEurCents": 345,
-          "referencePriceCents": 345,
-          "referencePriceEurCents": 345
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Fogkefe clean&flex duopack (többféle), 2 db",
-          "url": "https://www.dm.hu/p/d/2366978/aquafresh-fogkefe-clean-flex-duopack-tobbfele",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:31:42.358Z",
-          "lastSeenAt": "2026-11-23T20:09:23.543Z",
-          "currentPriceCents": 60900,
-          "currentPriceEurCents": 163,
-          "referencePriceCents": 60900,
-          "referencePriceEurCents": 163
-        }
-      ]
-    },
-    {
       "productId": 11663,
       "brand": "Braun",
       "isCountryExtreme": true,
@@ -1311,10 +1274,47 @@
       ]
     },
     {
+      "productId": 2237,
+      "brand": "Aquafresh",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 110.37,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Clean & Flex četkica za zube, 2 kom.",
+          "url": "https://www.dm.hr/p/d/2366978/aquafresh-clean-flex-cetkica-za-zube",
+          "isPromo": false,
+          "observedAt": "2026-08-28T15:57:32.685Z",
+          "lastSeenAt": "2026-11-23T20:09:08.188Z",
+          "currentPriceCents": 345,
+          "currentPriceEurCents": 345,
+          "referencePriceCents": 345,
+          "referencePriceEurCents": 345
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Fogkefe clean&flex duopack (többféle), 2 db",
+          "url": "https://www.dm.hu/p/d/2366978/aquafresh-fogkefe-clean-flex-duopack-tobbfele",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:31:42.358Z",
+          "lastSeenAt": "2026-11-23T20:09:23.543Z",
+          "currentPriceCents": 60900,
+          "currentPriceEurCents": 164,
+          "referencePriceCents": 60900,
+          "referencePriceEurCents": 164
+        }
+      ]
+    },
+    {
       "productId": 2197,
       "brand": "Aquafresh",
       "isCountryExtreme": true,
-      "overallPercentDiff": 108.82,
+      "overallPercentDiff": 107.6,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1341,9 +1341,9 @@
           "observedAt": "2026-09-01T12:29:59.422Z",
           "lastSeenAt": "2026-10-28T15:05:18.088Z",
           "currentPriceCents": 63500,
-          "currentPriceEurCents": 170,
+          "currentPriceEurCents": 171,
           "referencePriceCents": 63500,
-          "referencePriceEurCents": 170
+          "referencePriceEurCents": 171
         }
       ]
     },
@@ -1450,10 +1450,47 @@
       ]
     },
     {
+      "productId": 7648,
+      "brand": "trend !t up",
+      "isCountryExtreme": true,
+      "overallPercentDiff": 105.22,
+      "gapToExtremePercent": 0,
+      "countries": [
+        {
+          "countryCode": "HR",
+          "shopId": "dm-hr",
+          "currency": "EUR",
+          "name": "Powder Blush rumenilo – 090 Purpur, 5 g",
+          "url": "https://www.dm.hr/p/d/3043238/trend-t-up-powder-blush-rumenilo-090-purpur",
+          "isPromo": false,
+          "observedAt": "2026-08-30T22:32:45.205Z",
+          "lastSeenAt": "2026-11-13T12:08:44.682Z",
+          "currentPriceCents": 275,
+          "currentPriceEurCents": 275,
+          "referencePriceCents": 275,
+          "referencePriceEurCents": 275
+        },
+        {
+          "countryCode": "HU",
+          "shopId": "dm-hu",
+          "currency": "HUF",
+          "name": "Arcpirosító, 090 Purpur, 2 g",
+          "url": "https://www.dm.hu/p/d/3043238/trend-t-up-arcpirosito-090-purpur",
+          "isPromo": false,
+          "observedAt": "2026-09-01T12:30:55.609Z",
+          "lastSeenAt": "2026-11-13T12:09:04.712Z",
+          "currentPriceCents": 49900,
+          "currentPriceEurCents": 134,
+          "referencePriceCents": 49900,
+          "referencePriceEurCents": 134
+        }
+      ]
+    },
+    {
       "productId": 456,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 106.25,
+      "overallPercentDiff": 104.97,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1522,9 +1559,9 @@
           "observedAt": "2026-09-01T12:31:28.672Z",
           "lastSeenAt": "2026-11-12T16:47:03.782Z",
           "currentPriceCents": 59900,
-          "currentPriceEurCents": 160,
+          "currentPriceEurCents": 161,
           "referencePriceCents": 59900,
-          "referencePriceEurCents": 160
+          "referencePriceEurCents": 161
         }
       ]
     },
@@ -1532,7 +1569,7 @@
       "productId": 5791,
       "brand": "Balea",
       "isCountryExtreme": true,
-      "overallPercentDiff": 106.25,
+      "overallPercentDiff": 104.97,
       "gapToExtremePercent": 0,
       "countries": [
         {
@@ -1601,46 +1638,9 @@
           "observedAt": "2026-09-01T12:29:46.464Z",
           "lastSeenAt": "2026-11-05T12:16:05.537Z",
           "currentPriceCents": 59900,
-          "currentPriceEurCents": 160,
+          "currentPriceEurCents": 161,
           "referencePriceCents": 59900,
-          "referencePriceEurCents": 160
-        }
-      ]
-    },
-    {
-      "productId": 7648,
-      "brand": "trend !t up",
-      "isCountryExtreme": true,
-      "overallPercentDiff": 105.22,
-      "gapToExtremePercent": 0,
-      "countries": [
-        {
-          "countryCode": "HR",
-          "shopId": "dm-hr",
-          "currency": "EUR",
-          "name": "Powder Blush rumenilo – 090 Purpur, 5 g",
-          "url": "https://www.dm.hr/p/d/3043238/trend-t-up-powder-blush-rumenilo-090-purpur",
-          "isPromo": false,
-          "observedAt": "2026-08-30T22:32:45.205Z",
-          "lastSeenAt": "2026-11-13T12:08:44.682Z",
-          "currentPriceCents": 275,
-          "currentPriceEurCents": 275,
-          "referencePriceCents": 275,
-          "referencePriceEurCents": 275
-        },
-        {
-          "countryCode": "HU",
-          "shopId": "dm-hu",
-          "currency": "HUF",
-          "name": "Arcpirosító, 090 Purpur, 2 g",
-          "url": "https://www.dm.hu/p/d/3043238/trend-t-up-arcpirosito-090-purpur",
-          "isPromo": false,
-          "observedAt": "2026-09-01T12:30:55.609Z",
-          "lastSeenAt": "2026-11-13T12:09:04.712Z",
-          "currentPriceCents": 49900,
-          "currentPriceEurCents": 134,
-          "referencePriceCents": 49900,
-          "referencePriceEurCents": 134
+          "referencePriceEurCents": 161
         }
       ]
     },
